@@ -1,0 +1,51 @@
+project_id: "20260405-agrolux-test"
+lifecycle: active
+gate: "G2"
+
+buyer_map:
+  payer:
+    role: "温室Owner（出资方/经营者）"
+    profile: |
+      荷兰大型商业温室Owner，家族企业二代或专业投资方[M]
+      年营业额€300万-€2000万，灯具决策€50k-€500k区间[M]
+    primary_concern: "ROI回本周期（上限约4-5年），初期资金压力[H]"
+    secondary_concern: "供应商稳定性（长期供应和维护）[M]"
+    buying_signal: "EU法规倒逼、竞争者已升级LED[M]"
+    blocking_signal: "无硬性增产数据，溢价依据不足[H]"
+
+  influencer:
+    role: "Head Grower（强力影响者，实际使用者）"
+    profile: |
+      10年以上温室经验，了解光谱农学[H]
+      对新技术开放但要求可验证数据[M]
+    primary_concern: "产量提升、操作便利、设备可靠[H]"
+    secondary_concern: "与PRIVA/Ridder系统兼容性[M]"
+    buying_signal: "田间试验数据、同行案例[H]"
+    blocking_signal: "控制接口不兼容、安装过复杂[M]"
+
+  specifier:
+    role: "外部顾问（WUR/GreenQ等）"
+    profile: "瓦赫宁根大学合作顾问，行业权威[H]"
+    involvement: "大型项目>€500k会参与规格书[M]"
+
+  approver:
+    role: "Owner（最终批准者）"
+    threshold: ">€50,000需Owner签字[M]"
+    decision_timeline: "大型项目6-18个月决策周期（含试验期）[M]"
+
+oem_push_strategy:
+  target_contact: "Agrolux Product Director"
+  pitch_sequence:
+    step1: "产品方案演示→技术可行性讨论"
+    step2: "样品+小规模田间试验"
+    step3: "LYRA兼容性验证+OS集成协议"
+    step4: "商务条款谈判"
+  best_case: "Agrolux接受OEM，成为LYRA可调光谱独家供应商[L]"
+  worst_case: "Agrolux拒绝OEM，方案转直接市场竞争[M]"
+
+g2_lite_check:
+  installer_who: "PASS[H]"
+  operator_who: "PASS[H]"
+  value_assessment: "PASS[M]"
+  buyer_map_payer: "PASS[M]"
+  overall: "PASS（4/4硬门槛通过）"

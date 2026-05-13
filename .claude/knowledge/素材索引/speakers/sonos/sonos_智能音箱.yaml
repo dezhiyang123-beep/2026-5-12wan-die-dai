@@ -1,0 +1,324 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "智能音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/智能音箱/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "sonos_smart_spk_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/智能音箱/01.jpg"
+        image_role: "context"
+        visual_anchor: "Sonos Era 100白色款安装在白色落地支架上，家居客厅场景，搭配绿植和橙色格子椅"
+    product_name: "Sonos Era 100 + 落地支架"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "圆柱体主体，顶部为斜切平面（约15度倾斜），底部收窄与支架连接"
+      light_opening: "无明显外露开口，全身网面覆盖"
+      thermal: "编织网面透气，无专用散热开口"
+      cmf:
+        color: "白色（White）"
+        material: "全身聚酯纤维编织网布，顶部控制面为硬质材料"
+        finish: "哑光编织纹理，顶面磨砂"
+      mounting: "落地支架安装，底部转接口连接"
+      signature_detail: "顶面斜切设计+对角线手势滑动条——操控方向与音频方向一致的功能外显"
+    design_level:
+      score: 4
+      reason: "生活场景拍摄，展示落地支架配件与家居环境融合度，白色款与绿植橙椅的色彩搭配具有参考价值"
+    design_tags: ["智能音箱", "白色配色", "落地支架", "家居场景", "编织网面"]
+    hero_feature: "斜切顶面+对角手势线——顶面倾斜朝向用户，手势线指向操控方向，功能与形态高度统一"
+    problem_solved: "传统智能音箱顶面水平，声音扩散均匀但朝向模糊；斜切顶面暗示方向性并提升人机互动直觉"
+    transferable_technique: "功能面斜切：将水平操控面转为面向用户的斜面，同时成为视觉区分其他产品的形态特征"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_smart_spk_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/智能音箱/03.jpg"
+        image_role: "hero"
+        visual_anchor: "Sonos Beam Gen2条形音箱单品3/4俯视图，黑色款，可见全身比例和网面细节"
+    product_name: "Sonos Beam Gen2"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "长条矩形主体，两端圆弧收尾，顶面微凸弧形，整体低矮扁平"
+      light_opening: "顶面4个LED指示点，极小"
+      thermal: "底部编织网面透气"
+      cmf:
+        color: "哑光黑"
+        material: "顶面硬质塑料，前后侧面全编织网布，两端硬质圆弧端帽"
+        finish: "顶面哑光，网面编织纹理"
+      mounting: "电视柜桌面放置或壁挂（专用配件）"
+      signature_detail: "顶面居中的4颗LED指示灯排列为「..  .. 」形，极克制的状态反馈"
+    design_level:
+      score: 4
+      reason: "清晰单品图，Beam Gen2的圆角矩形造型代表Sonos条形音箱的主流语言，比例精准可迁移"
+    design_tags: ["条形音箱", "圆角矩形", "编织网面", "极简主义", "哑光黑"]
+    hero_feature: "两端圆弧端帽——使长条形在端部实现柔化，消除矩形盒体的生硬感"
+    problem_solved: "条形音箱通常呈现尖锐端头的矩形盒，圆弧端帽使产品家居感提升，降低视觉攻击性"
+    transferable_technique: "长条形两端圆弧封头：曲率与产品宽度匹配，统一使用同一半径建立家族感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_smart_spk_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/智能音箱/04.jpg"
+        image_role: "hero"
+        visual_anchor: "Sonos Beam Gen2单品正侧3/4视图，角度更低，更清晰看到前网面和顶部弧度"
+    product_name: "Sonos Beam Gen2"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "与002相同产品，低视角更能体现顶部微凸弧面，整体感觉厚重稳重"
+      light_opening: "顶面LED点可见"
+      thermal: "底部网面"
+      cmf:
+        color: "哑光黑"
+        material: "同002"
+        finish: "哑光"
+      mounting: "桌面或壁挂"
+      signature_detail: "低视角暴露底部与顶部的厚度比例，顶部轻微弧度在此角度更明显"
+    design_level:
+      score: 3
+      reason: "与002为同款产品不同角度，设计信息增量有限，低角度视图补充了顶面弧度感"
+    design_tags: ["条形音箱", "低视角", "圆角矩形", "哑光黑"]
+    hero_feature: "顶面微凸弧面——在扁平产品上引入曲率，避免平板感，增加体积感知"
+    problem_solved: "纯平顶面视觉单调，微凸弧面以极小成本增加立体感和光影变化"
+    transferable_technique: "顶面微弧处理：矢高约3-5mm的弧面在正常观察距离产生明显立体感变化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_smart_spk_004"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/智能音箱/05.jpg"
+        image_role: "context"
+        visual_anchor: "Era 100(x2) + Beam Gen2三件套组合俯视图，黑色，展示家庭影院配套方案"
+    product_name: "Sonos Era 100 x2 + Beam Gen2 套装"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "两个圆柱+一个长条形，三件产品轮廓形态各异但CMF完全统一"
+      light_opening: "Era 100顶面斜切+手势线，Beam顶面LED点"
+      thermal: "全部编织网面"
+      cmf:
+        color: "全黑哑光"
+        material: "全编织网面"
+        finish: "哑光统一"
+      mounting: "三件独立放置"
+      signature_detail: "三件套中圆柱与长条的形态互补——高矮对比+圆方对比，统一CMF下的形态多样性"
+    design_level:
+      score: 4
+      reason: "三件套组合展示Sonos生态系统最强设计论据：形态各异但CMF一致，系统感极强"
+    design_tags: ["生态系统", "家庭影院套装", "形态多样性", "CMF统一"]
+    hero_feature: "圆柱+长条形的形态组合系统——在单一CMF下允许不同形态，强化生态感而非单品感"
+    problem_solved: "多件音频产品摆放通常视觉混乱，Sonos通过CMF统一实现任意组合都整洁"
+    transferable_technique: "跨品类CMF锁定：颜色+材质+表面处理三重统一，允许形态自由组合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_smart_spk_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/智能音箱/07.jpg"
+        image_role: "context"
+        visual_anchor: "Era 100(x2) + Arc Ultra三件套组合，Arc Ultra的大型圆管形与Era 100小圆柱并置"
+    product_name: "Sonos Era 100 x2 + Arc Ultra 套装"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "Arc Ultra超长圆管（直径约14cm，长约140cm）与Era 100小圆柱（直径约12cm，高约16cm）的尺度对比极大"
+      light_opening: "Arc Ultra顶面单颗LED"
+      thermal: "全编织网面"
+      cmf:
+        color: "全黑哑光"
+        material: "全编织网面"
+        finish: "哑光"
+      mounting: "Arc Ultra落地放置或壁挂"
+      signature_detail: "Arc Ultra两端完美圆弧封头——近正圆截面使端头呈现完美半球，极高加工精度要求"
+    design_level:
+      score: 5
+      reason: "Arc Ultra的圆管造型是Sonos设计语言最具突破性的表达，截面近正圆+两端半球封头是极高设计成就"
+    design_tags: ["圆管造型", "形态突破", "尺度对比", "生态系统", "设计溢价"]
+    hero_feature: "Arc Ultra近正圆截面超长圆管——从截面到端头的完美圆柱几何，条形音箱形态的根本性突破"
+    problem_solved: "传统条形音箱是扁平矩形，功能形态与家居装饰性存在冲突；Arc Ultra圆管方案将音箱变为家居雕塑"
+    transferable_technique: "从矩形截面改为圆形截面：加工难度上升但形态辨识度跃升，适用于对设计溢价要求高的旗舰产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_smart_spk_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/智能音箱/08.jpg"
+        image_role: "context"
+        visual_anchor: "Era 100(x2) + Arc Ultra三件套，与007角度相似但Arc Ultra尺度更清晰"
+    product_name: "Sonos Era 100 x2 + Arc Ultra 套装（角度B）"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "与005相同组合，视角稍高，Arc Ultra顶面导轨式控制区可见"
+      light_opening: "Arc Ultra顶面长条形触控区，无LED只有微凸感应条"
+      thermal: "网面全覆盖"
+      cmf:
+        color: "全黑哑光"
+        material: "编织网面"
+        finish: "哑光"
+      mounting: "同005"
+      signature_detail: "Arc Ultra顶面一条极细的全长触控导轨线——音量控制的物理化呈现，与形体方向平行"
+    design_level:
+      score: 4
+      reason: "补充展示Arc Ultra顶面触控区细节，与005互补，说明圆管造型如何解决操控界面问题"
+    design_tags: ["触控界面", "圆管造型", "线性控制", "功能外显"]
+    hero_feature: "与圆管长轴平行的全长触控导轨——音量控制界面形态与产品形态方向完全一致"
+    problem_solved: "圆管截面无法放置传统按钮阵列，全长触控导轨将交互界面与形体融为一体"
+    transferable_technique: "将交互界面形态与产品主形体方向对齐：长条控件配长条产品，建立视觉-操作一致性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_smart_spk_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/智能音箱/09.jpg"
+        image_role: "context"
+        visual_anchor: "Arc Ultra单只+Era 100单只组合，斜向构图，体量对比明显"
+    product_name: "Sonos Arc Ultra + Era 100 组合"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "Arc Ultra超大圆管对比Era 100小圆柱，体量差约8:1，构图张力强"
+      light_opening: "Arc Ultra壁挂安装孔可见（侧面小方形凸台）"
+      thermal: "编织网面"
+      cmf:
+        color: "全黑哑光"
+        material: "编织网面"
+        finish: "哑光"
+      mounting: "Arc Ultra右侧可见壁挂安装导轨配件接口"
+      signature_detail: "壁挂安装接口设计为侧面小凸台，与圆管主体分件明确，安装后凸台被遮蔽"
+    design_level:
+      score: 3
+      reason: "展示两件产品体量对比和壁挂接口细节，设计亮点在于安装件的隐藏式设计"
+    design_tags: ["体量对比", "壁挂设计", "配件隐藏", "圆管造型"]
+    hero_feature: "Arc Ultra壁挂接口的侧置凸台设计——安装后完全被墙面遮蔽，不破坏圆管纯净轮廓"
+    problem_solved: "条形音箱壁挂通常需要明显安装支架破坏造型，Sonos侧置接口方案安装后不可见"
+    transferable_technique: "安装接口侧置+被遮蔽设计：将必要连接件设在视线死角，保持主视面造型纯净"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_smart_spk_008"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/智能音箱/13.jpg"
+        image_role: "hero"
+        visual_anchor: "Sonos Era 100（小）和Move 2（大）两款圆柱音箱并排俯视图，黑色，尺寸对比清晰"
+    product_name: "Sonos Era 100 + Move 2 双机对比"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "两款均为圆柱主体+斜切顶面+底部收窄，Move 2体量约为Era 100的1.5倍，比例相似"
+      light_opening: "两款均无外露开口，全网面"
+      thermal: "编织网面透气"
+      cmf:
+        color: "哑光黑"
+        material: "全编织网面，顶面硬质控制面"
+        finish: "哑光"
+      mounting: "Move 2底部有充电底座接口，可分离使用"
+      signature_detail: "两款顶面均有相同的对角线手势滑动条，但尺寸等比缩放，家族特征清晰"
+    design_level:
+      score: 4
+      reason: "清晰展示Sonos智能音箱家族从小到大的比例缩放关系，顶面手势线的一致性是品牌语法的最佳说明"
+    design_tags: ["家族比例", "等比缩放", "手势界面", "尺寸对比", "圆柱形"]
+    hero_feature: "顶面对角线手势条的跨尺寸一致性——Era 100和Move 2顶面手势线比例相同，建立强品牌记忆"
+    problem_solved: "不同尺寸产品家族感通常靠logo维系，Sonos通过具体操控特征（手势线）跨尺寸复用实现更强家族感"
+    transferable_technique: "操控特征等比复用：将核心交互元素在不同尺寸产品上保持相对比例不变，强化家族识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_smart_spk_009"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/智能音箱/14.jpg"
+        image_role: "context"
+        visual_anchor: "Sonos Roam（细长圆柱便携音箱）+ Beam Gen2条形音箱组合，体型差异对比最大"
+    product_name: "Sonos Roam + Beam Gen2 组合"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "Roam为细长圆柱（约直径5cm×长17cm），Beam Gen2为宽扁矩形，两者轮廓极大反差"
+      light_opening: "Roam顶部小LED指示灯，Beam顶面4颗LED点"
+      thermal: "全编织网面"
+      cmf:
+        color: "全黑哑光"
+        material: "编织网面，两件产品材质一致"
+        finish: "哑光统一"
+      mounting: "Roam可直立或横放，磁吸充电；Beam桌面或壁挂"
+      signature_detail: "Roam顶部圆形按键区与侧面编织网面的分件线——便携音箱唯一不被网面覆盖的区域"
+    design_level:
+      score: 3
+      reason: "展示Sonos产品线从便携小音箱到家居条形音箱的CMF统一性，体量差距约10:1但视觉家族感明确"
+    design_tags: ["便携音箱", "跨品类CMF", "体量反差", "家族感"]
+    hero_feature: "Roam的细长圆柱+顶部圆形控制区——便携产品的最简化极限，顶部唯一的非网面区域承载全部控制"
+    problem_solved: "便携音箱需防水耐摔，全包编织网面+圆形端帽是防护与美观的最优解"
+    transferable_technique: "全包编织网面方案：将结构、防护、声学开口、美观一体化，适用于便携级产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

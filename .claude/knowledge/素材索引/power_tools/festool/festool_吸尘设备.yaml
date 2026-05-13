@@ -1,0 +1,550 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "吸尘设备"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/"
+  generated_at: "2026-05-08"
+
+products:
+  # ─────────────────────────────────────────────
+  # 产品组 1：CTL SYS（Systainer一体式紧凑型）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_001"
+    source_images:
+      - filename: "吸尘设备__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__01.jpg"
+        image_role: "hero"
+        visual_anchor: "CTL SYS背面视角：铝银色Systainer方形箱体，顶部黑色盖带U形提槽，右上角绿色网状排气口，面板含IP44防护标识、AUTO/MAN拨动开关、绿色启停按钮，黑色电源插座嵌入机身侧面，整体厚实扁平"
+    product_name: "Festool CTL SYS"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "Systainer方盒形轮廓，高宽比约0.7:1，与Festool Systainer收纳系统可堆叠互锁"
+      light_opening: "N/A"
+      thermal: "顶角绿色菱形网格排气口，位置隐蔽不破坏正面视觉"
+      cmf:
+        color: "铝银色（Festool Systainer标准色）主体，黑色上盖，绿色排气网格点缀"
+        material: "高密度ABS工程塑料，Systainer箱体采用哑光铝银表面"
+        finish: "哑光注塑，金属质感纹理，绿色网格高亮点缀"
+      mounting: "有线，电源线可嵌入收纳，Systainer可与工具箱堆叠"
+      signature_detail: "Systainer堆叠扣合系统（T-LOC锁扣），AUTO/MAN联动控制，IP44防护等级标识，整机即收纳箱"
+    design_level:
+      score: 4
+      reason: "极简整合的系统性设计典范：吸尘器与Systainer收纳系统合二为一，电源插座、控制面板全部嵌入不突出机身，H07+H05双手法执行精准"
+    design_tags: ["H07极简整合", "H05模块化", "H09隐藏工程", "systainer堆叠", "IP44防水", "AUTO联动"]
+    hero_feature: "Systainer一体化：吸尘器本身即标准收纳箱，可与Festool全系工具箱堆叠互锁，无需额外存储空间"
+    problem_solved: "工地现场吸尘器存放占地问题：直接堆入工具车，不额外占空间"
+    transferable_technique: "功能件与收纳系统一体化设计：控制面板嵌入式处理，外形遵从系统规格而非功能自由造型"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 产品组 2：CTLC SYS I（Systainer触控版，无线联网）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_002"
+    source_images:
+      - filename: "吸尘设备__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__02.jpg"
+        image_role: "hero"
+        visual_anchor: "CTLC SYS I正面：铝银Systainer箱体，顶部U形提槽+黑色盖，前面板黑色底板上嵌入3个绿色矩形触控按键（电源/MAN/蓝牙），右侧2个小绿色指示按钮，FESTOOL品牌字样白色印刷，整体方正工业感强"
+      - filename: "吸尘设备__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__03.jpg"
+        image_role: "variant"
+        visual_anchor: "CTMC SYS I正面：与CTLC SYS I几乎完全相同外观，仅型号标签标注CTMC SYS I（CTM版本），绿色触控面板布局一致"
+    product_name: "Festool CTLC SYS I / CTMC SYS I"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "Systainer方盒形，正面以黑色控制面板横向分割，上部银色机体，下部深色控制区"
+      light_opening: "N/A"
+      thermal: "顶角绿色菱形网格排气口，与CTL SYS位置相同"
+      cmf:
+        color: "铝银色机体，黑色控制面板底板，绿色触控按键（Festool Green #006B3C近似）"
+        material: "ABS工程塑料，Systainer规格箱体"
+        finish: "哑光银灰机体，黑色面板磨砂，绿色按键高光"
+      mounting: "有线，支持蓝牙无线联动（Bluetooth图标可见）"
+      signature_detail: "绿色触控按键面板：3个大绿键+2个小绿键，配合蓝牙连接实现工具联动，零物理旋钮全触控化"
+    design_level:
+      score: 4
+      reason: "在Systainer一体化基础上升级为全触控面板+蓝牙联动，绿色按键阵列成为视觉焦点，H07+H12双手法精准"
+    design_tags: ["H07极简整合", "H12人机界面强化", "H05模块化", "systainer堆叠", "蓝牙联动", "触控面板"]
+    hero_feature: "全绿色触控按键面板：零物理旋钮，绿色矩形键阵列成为品牌视觉语言的核心UI表达"
+    problem_solved: "工具与吸尘器的无线自动联动，消除手动开关切换操作"
+    transferable_technique: "控制界面颜色=品牌色的UI设计逻辑：用品牌绿统一所有交互触点，强化品牌认知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 产品组 3：CTL MINI I（小型立式移动吸尘器）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_003"
+    source_images:
+      - filename: "吸尘设备__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__04.jpg"
+        image_role: "hero"
+        visual_anchor: "CTL MINI I正面：上部深蓝黑色机头（含绿色菱形网格排气口、U形提槽），中部黑色控制面板横带（含绿色按键组、MAN字样），下部白灰色圆筒桶身带横向散热栅格，底部绿色STOP制动踏板，4轮移动底座，整体高宽比约1.8:1"
+    product_name: "Festool CTL MINI I"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "立式桶形，三段式分层：深色机头+黑色控制腰带+白灰色桶身，4轮底座降低重心，整体紧凑"
+      light_opening: "N/A"
+      thermal: "机头顶部绿色菱形网格排气口，横向散热栅格在机头与控制带之间"
+      cmf:
+        color: "深蓝黑色机头（Festool Navy），白灰色桶身，绿色排气网格+绿色STOP踏板，黑色控制腰带"
+        material: "ABS工程塑料，桶身哑光注塑"
+        finish: "机头半光深色，桶身哑光浅灰，绿色功能件高光"
+      mounting: "有线，4轮自由移动，绿色STOP制动踏板锁轮"
+      signature_detail: "绿色STOP制动踏板（品牌绿高亮功能件）；顶部U形提槽嵌入绿色绳网软提手；横向散热栅格横跨机头底部"
+    design_level:
+      score: 4
+      reason: "三段式分色建立清晰视觉层次，绿色功能件（排气口/STOP踏板/提手绳网）精准落点，H08对比强调+H07极简整合执行到位"
+    design_tags: ["H08对比强调", "H07极简整合", "H03分件线", "三段式分层", "绿色功能件", "STOP制动踏板"]
+    hero_feature: "绿色功能件三点标记：排气网、STOP踏板、提手绳网三处绿色点缀使功能交互位置一目了然，无需文字说明"
+    problem_solved: "工地移动作业吸尘需求：4轮+STOP踏板精确控位，小体积高机动性"
+    transferable_technique: "功能件用品牌色高亮的视觉逻辑：所有可操作/可交互点统一用品牌色标识，零学习成本"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 产品组 4：CTL MIDI I 系列（中型立式，含标准版与AC自清洁版）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_004"
+    source_images:
+      - filename: "吸尘设备__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__05.jpg"
+        image_role: "hero"
+        visual_anchor: "CTL MIDI I正面：与CTL MINI I结构完全一致但桶身更高更宽，三段式分层（深色机头/黑色控制腰带/白灰桶身），散热栅格明显，绿色提手网+STOP踏板，4轮，比MINI更大容量"
+      - filename: "吸尘设备__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__06.jpg"
+        image_role: "variant"
+        visual_anchor: "CTL MIDI I AC正面：与CTL MIDI I相同结构，中腰额外增加AUTOCLEAN黑色横向腰带字样标签，标识自动滤清自洁功能"
+      - filename: "吸尘设备__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__07.jpg"
+        image_role: "variant"
+        visual_anchor: "CTM MIDI I正面：与CTL MIDI I外观完全一致，仅型号标识不同（CTM），控制面板多一个滤网状态指示图标"
+      - filename: "吸尘设备__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__08.jpg"
+        image_role: "variant"
+        visual_anchor: "CTM MIDI I AC正面：CTM MIDI增加AUTOCLEAN腰带标识，其余外观与CTL MIDI I AC一致"
+    product_name: "Festool CTL/CTM MIDI I / MIDI I AC"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "立式桶形，三段式分层，比MINI高约15-20%，桶身容量更大，整体比例高挑"
+      light_opening: "N/A"
+      thermal: "机头底部横向密集散热栅格，顶部绿色菱形网格排气口"
+      cmf:
+        color: "深蓝黑色机头，白灰色桶身，绿色功能件，AC版增加AUTOclean字样黑色腰带"
+        material: "ABS工程塑料"
+        finish: "机头半光，桶身哑光浅灰，绿色高光"
+      mounting: "有线，4轮+STOP制动踏板"
+      signature_detail: "AC版桶身中段'AUTOclean'字样腰带，标识滤芯自动振打清洁功能；与MINI共用同一视觉语言体系"
+    design_level:
+      score: 4
+      reason: "与MINI形成清晰的系列家族感，AUTOclean腰带作为功能差异化标识设计简洁有效，H08+H11双手法"
+    design_tags: ["H08对比强调", "H11功能外显", "H03分件线", "三段式分层", "AUTOclean", "系列家族"]
+    hero_feature: "AUTOclean腰带标识：功能升级在外观上的精准视觉映射，用户购买决策点直接可见"
+    problem_solved: "长时间连续作业场景：自动滤芯清洁延长有效吸力，无需中断工作手动清洁"
+    transferable_technique: "功能升级=腰带标识：在基础型号上增加功能文字腰带作为升级识别码，系列管理高效"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 产品组 5：CTL 26 EI 系列（26升标准/自清洁版）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_005"
+    source_images:
+      - filename: "吸尘设备__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__09.jpg"
+        image_role: "hero"
+        visual_anchor: "CTL 26 EI正面：四轮立式，机头深蓝黑色（宽于MIDI，绿色菱形网格排气口更宽），控制面板黑色腰带（绿色按键组），白灰色桶身前方正中央一个圆形吸尘软管接口，底部绿色STOP踏板，整体比MIDI更宽扁"
+      - filename: "吸尘设备__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__10.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "CTL 26 EI正面（橡胶大轮版本）：与09相同型号，4个更大橡胶充气轮，适合不平整工地地面，其余结构相同"
+      - filename: "吸尘设备__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__11.jpg"
+        image_role: "variant"
+        visual_anchor: "CTL 26 EI AC正面（标准轮）：增加AUTOclean腰带，桶身正面还有黑色VS-CT AC工具接头锁扣模块，绿色旋钮，锁定图标可见"
+      - filename: "吸尘设备__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__12.jpg"
+        image_role: "variant"
+        visual_anchor: "CTL 26 EI AC正面（橡胶大轮）：与11相同功能，大轮版，VS-CT AC接头锁扣模块清晰可见，绿色旋钮为工具端快插锁紧件"
+    product_name: "Festool CTL 26 EI / CTL 26 EI AC"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "立式宽桶形，机头更宽，桶身前面板设圆形吸口，体型比MIDI宽扁约20%，重心更低"
+      light_opening: "N/A"
+      thermal: "机头顶面宽幅绿色菱形网格排气区，散热面积大于MIDI"
+      cmf:
+        color: "深蓝黑机头，白灰桶身，绿色功能件，AC版增加黑色VS-CT AC模块"
+        material: "ABS工程塑料，VS-CT AC接头为黑色橡胶包覆"
+        finish: "机头半光深色，桶身哑光浅灰"
+      mounting: "有线，4轮（标准轮或大橡胶充气轮两版），STOP制动踏板"
+      signature_detail: "前面板正中央圆形吸尘软管接口（比MIDI更大，位置前移）；AC版增加VS-CT AC快锁接头模块（黑色+绿旋钮）"
+    design_level:
+      score: 4
+      reason: "体型升级同时保持家族一致性，VS-CT AC接头模块作为功能性附加件设计整合度高，H05+H11手法"
+    design_tags: ["H05模块化", "H11功能外显", "H03分件线", "VS-CT快锁接口", "AUTOclean", "大容量"]
+    hero_feature: "VS-CT AC工具接头锁扣模块：吸尘器与Festool电动工具的物理快锁连接件，实现吸尘软管零配件管理"
+    problem_solved: "26升容量满足半天以上连续施工，VS-CT AC接口实现多工具快速切换不需工具"
+    transferable_technique: "功能附件模块化嵌入机身设计：新增功能以独立模块形式融入主体，不破坏整体轮廓"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 产品组 6：CTL 36 EI 系列（36升标准/自清洁版）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_006"
+    source_images:
+      - filename: "吸尘设备__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__13.jpg"
+        image_role: "hero"
+        visual_anchor: "CTL 36 EI AC正面：36升大容量桶身，比CTL 26更高更宽，正面无圆形吸口（侧面接口设计），AUTOclean腰带横跨桶身，绿色STOP踏板，深色机头宽幅绿色排气网，控制面板腰带"
+      - filename: "吸尘设备__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__14.jpg"
+        image_role: "variant"
+        visual_anchor: "CTL 36 EI AC（VS-CT AC版）：与13相同，增加VS-CT AC快锁接头模块，绿色旋钮可见，桶身侧面接口位置"
+      - filename: "吸尘设备__25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__25.jpg"
+        image_role: "variant"
+        visual_anchor: "CTL 36 EI（标准版无AUTOclean）：无AUTOclean腰带，无VS-CT AC模块，圆形吸口位置在前面板中央，其余与CTL 36系列一致"
+    product_name: "Festool CTL 36 EI / CTL 36 EI AC"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "立式大桶形，高宽比近1:1，36升容量对应宽扁机体，4轮底盘稳定"
+      light_opening: "N/A"
+      thermal: "机头宽幅绿色菱形网格排气区，面积随机体扩大等比例增加"
+      cmf:
+        color: "深蓝黑机头，白灰桶身，绿色功能件，黑色AUTOclean腰带（AC版）"
+        material: "ABS工程塑料"
+        finish: "与26系列一致的哑光分色处理"
+      mounting: "有线，4轮+STOP踏板"
+      signature_detail: "36升容量对应更宽机体比例，与26系列形成体量差异识别；AUTOclean腰带横跨更宽桶身视觉效果更强"
+    design_level:
+      score: 4
+      reason: "尺寸升级完美延续家族设计语言，宽扁比例赋予更稳重的专业感，系列扩展逻辑严密"
+    design_tags: ["H07极简整合", "H03分件线", "H11功能外显", "36升大容量", "AUTOclean", "系列家族"]
+    hero_feature: "系列化尺寸语法：MINI/MIDI/26EI/36EI通过等比例放大保持100%视觉家族一致性，尺寸即容量信号"
+    problem_solved: "全天连续施工容量需求，36升满足木工/翻新等大量粉尘场景"
+    transferable_technique: "系列化比例扩展：同一设计语言通过等比缩放覆盖多个容量档，研发成本最低、品牌识别最高"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 产品组 7：CTM 26 EI 系列（CTM 26升，含标准/AC版）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_007"
+    source_images:
+      - filename: "吸尘设备__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__15.jpg"
+        image_role: "hero"
+        visual_anchor: "CTM 26 EI正面：外观与CTL 26 EI几乎完全一致，26升桶身，正面圆形吸口，绿色功能件，唯独控制面板型号标注CTM 26 EI（M=更高滤芯等级用于硅尘/石材）"
+      - filename: "吸尘设备__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__16.jpg"
+        image_role: "variant"
+        visual_anchor: "CTM 26 EI（大橡胶充气轮版）：外观与15相同，轮子更换为大直径充气橡胶轮，适合粗糙地面"
+      - filename: "吸尘设备__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__17.jpg"
+        image_role: "variant"
+        visual_anchor: "CTM 26 EI AC正面（标准轮）：增加AUTOclean腰带，VS-CT AC接头锁扣模块，绿色旋钮，锁标图标，与CTL 26 EI AC结构完全一致"
+      - filename: "吸尘设备__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__18.jpg"
+        image_role: "variant"
+        visual_anchor: "CTM 26 EI AC（大橡胶轮）：与17相同，大轮版"
+    product_name: "Festool CTM 26 EI / CTM 26 EI AC"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "与CTL 26 EI完全相同轮廓，差异仅在内部滤芯规格和型号标识"
+      light_opening: "N/A"
+      thermal: "同CTL 26 EI"
+      cmf:
+        color: "同CTL 26 EI"
+        material: "同CTL 26 EI"
+        finish: "同CTL 26 EI"
+      mounting: "有线，标准轮或大橡胶充气轮两版，STOP踏板"
+      signature_detail: "CTL vs CTM型号差异=滤芯等级差异，外观100%相同；充气大轮版体现对不同工地环境的精准适配"
+    design_level:
+      score: 4
+      reason: "同外观平台承载不同性能等级，CTL/CTM外观统一降低识别混乱，型号标签差异化精准，平台化设计策略优秀"
+    design_tags: ["H05模块化", "H11功能外显", "平台化设计", "CTM高效过滤", "大轮越野版"]
+    hero_feature: "平台化外观策略：CTL/CTM/CTH共用同一外观骨架，内部差异化，降低SKU视觉复杂度"
+    problem_solved: "石材/瓷砖/混凝土切割产生的硅尘（危险粉尘），CTM滤芯达到更高过滤等级"
+    transferable_technique: "内部规格升级外观不变的平台策略：同一壳体多个性能版本，减少模具成本同时满足不同用户需求"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 产品组 8：CTM 36 EI 系列（CTM 36升，含标准/AC版）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_008"
+    source_images:
+      - filename: "吸尘设备__19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__19.jpg"
+        image_role: "hero"
+        visual_anchor: "CTM 36 EI AC正面（带Systainer可拆机头）：桶身宽扁36升，机头部分分离可见——黑色机头独立上层与白灰桶身分离，AUTOclean腰带，VS-CT AC模块，绿色旋钮，STOP踏板，整体比36 CTL更高（机头更突出）"
+      - filename: "吸尘设备__20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__20.jpg"
+        image_role: "variant"
+        visual_anchor: "CTM 36 EI AC正面（标准外观）：与CTL 36 EI AC外观结构高度一致，绿色菱形网格机头，AUTOclean腰带，VS-CT AC接头"
+      - filename: "吸尘设备__26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__26.jpg"
+        image_role: "variant"
+        visual_anchor: "CTM 36 EI（标准版无AUTOclean）：无腰带无VS-CT AC，正面圆形吸口，绿色STOP踏板，型号标注CTM 36 EI"
+    product_name: "Festool CTM 36 EI / CTM 36 EI AC"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "36升大桶，与CTL 36同尺寸骨架，CTM高过滤等级版本"
+      light_opening: "N/A"
+      thermal: "同CTL 36 EI"
+      cmf:
+        color: "同CTL 36 EI"
+        material: "同CTL 36 EI"
+        finish: "同CTL 36 EI"
+      mounting: "有线，4轮+STOP踏板"
+      signature_detail: "19号图片展示机头可分离状态：CTM机头可独立拆下放置Systainer上使用，模块化使用模式"
+    design_level:
+      score: 4
+      reason: "36升容量+CTM高过滤等级+可拆机头Systainer兼容，系统整合度最高的产品之一，H05模块化核心体现"
+    design_tags: ["H05模块化", "H11功能外显", "H07极简整合", "CTM高效过滤", "机头可拆", "systainer兼容"]
+    hero_feature: "机头可拆复用：36升CTM机头可脱离桶身安装至Systainer箱体独立使用，一机两用形态"
+    problem_solved: "需要高等级粉尘防护（石材/木工）同时需要大容量和工地移动能力"
+    transferable_technique: "核心功能件（机头/马达）设计为可跨载体复用的模块，极大提升产品使用场景覆盖"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 产品组 9：CTM 48 EI 系列（48升超大型，含标准/AC版）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_009"
+    source_images:
+      - filename: "吸尘设备__21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__21.jpg"
+        image_role: "hero"
+        visual_anchor: "CTM 48 EI AC正面：最大型号，顶部增加银灰色金属感伸缩拉杆把手（类行李箱设计），机头宽幅更大，AUTOclean腰带，4轮，无前面板圆形吸口（侧面接口），整体高约1.1-1.2米级别"
+      - filename: "吸尘设备__27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__27.jpg"
+        image_role: "variant"
+        visual_anchor: "CTM 48 EI（标准版）：与21相同，伸缩拉杆把手，无AUTOclean腰带，正面有圆形吸口"
+    product_name: "Festool CTM 48 EI / CTM 48 EI AC"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "超大立式桶形，顶部金属伸缩拉杆把手为独特标识，机体比36系列高约20%"
+      light_opening: "N/A"
+      thermal: "机头超宽幅绿色排气区，4个散热口"
+      cmf:
+        color: "深蓝黑机头，白灰桶身，银灰色金属拉杆把手，绿色功能件"
+        material: "ABS工程塑料，拉杆把手为铝合金或镀铬钢"
+        finish: "拉杆把手金属光泽，与机体哑光形成材质对比"
+      mounting: "有线，4轮（适应重型移动），金属伸缩拉杆把手"
+      signature_detail: "金属伸缩拉杆把手：仅48升最大型号具备，类似行李箱推拉方式移动，区别于其他型号的提槽或固定把手"
+    design_level:
+      score: 4
+      reason: "拉杆把手设计解决大型重量级吸尘器移动痛点，金属质感拉杆与塑料机体形成材质对比强化高端感，H10材料表达+H12人机界面强化"
+    design_tags: ["H10材料表达", "H12人机界面强化", "H08对比强调", "48升超大容量", "伸缩拉杆把手", "CTM高效过滤"]
+    hero_feature: "伸缩金属拉杆把手：唯一在Festool吸尘器系列中使用该设计，传递行李箱级移动便利性，金属材质对比强化高端差异"
+    problem_solved: "48升超大容量带来的搬运重量问题，拉杆方式大幅降低移动体力消耗"
+    transferable_technique: "借用行李箱/拉杆箱成熟人机交互模式：跨品类手法迁移至工业吸尘器，用户零学习成本"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 产品组 10：CTH 26 EI（HEPA高效过滤版）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_010"
+    source_images:
+      - filename: "吸尘设备__22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__22.jpg"
+        image_role: "hero"
+        visual_anchor: "CTH 26 EI正面：外观与CTL/CTM 26 EI基本一致，26升桶身，正面圆形吸口，绿色功能件，机头型号标注CTH 26 EI（H=HEPA滤芯，针对危险粉尘如石棉/致癌粉尘），控制面板相同布局"
+    product_name: "Festool CTH 26 EI"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "与CTL/CTM 26 EI完全相同轮廓，差异仅在型号标识"
+      light_opening: "N/A"
+      thermal: "同CTL 26 EI"
+      cmf:
+        color: "同CTL 26 EI"
+        material: "同CTL 26 EI"
+        finish: "同CTL 26 EI"
+      mounting: "有线，4轮+STOP踏板"
+      signature_detail: "CTH型号标识=HEPA级过滤，针对危险性粉尘（如石棉、致癌粉尘），外观与CTL/CTM完全共用平台"
+    design_level:
+      score: 4
+      reason: "三系列（CTL/CTM/CTH）完全共用外观平台，性能分级通过型号字母传达，设计平台化策略最高效"
+    design_tags: ["H05模块化", "平台化设计", "HEPA过滤", "危险粉尘"]
+    hero_feature: "CTL/CTM/CTH三级过滤平台：同一外观承载三种过滤等级，用户按需选择而无需重新学习产品外观"
+    problem_solved: "石棉/致癌粉尘处理需要HEPA级别过滤（EU指令合规），CTH满足最严格工业卫生要求"
+    transferable_technique: "过滤等级梯度通过型号字母编码（L/M/H）传达，比图形/颜色编码更精准且适合专业用户"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 产品组 11：CT 15 CLEANTEC（旧一代设计，精简型）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_011"
+    source_images:
+      - filename: "吸尘设备__23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__23.jpg"
+        image_role: "hero"
+        visual_anchor: "CT 15正面：铝银色立式方形机体（非绿色，早期设计），顶部圆弧形黑色盖，前面板黑色控制区（MAN绿键+白色指示区），机体下段CLEANTEC标识，底座无STOP踏板，小直径4轮，整体更细更高，与当前EI系列明显不同"
+    product_name: "Festool CT 15 CLEANTEC"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "方形立式，顶部圆弧黑盖，比EI系列更细高，无三段式分层分色"
+      light_opening: "N/A"
+      thermal: "前面板横向散热栅格（多行细密条），与EI系列排气口位置不同"
+      cmf:
+        color: "铝银色主体（无品牌绿，历史代际差异），黑色机头/控制区，少量绿色按键点缀"
+        material: "ABS工程塑料，铝银纹理饰面"
+        finish: "铝银哑光，无当前系列的深蓝黑机头特征"
+      mounting: "有线，4小轮，无STOP踏板"
+      signature_detail: "CLEANTEC品牌副系列标识；铝银色体现早期产品DNA，过渡至当前深蓝黑+白灰体系的历史节点"
+    design_level:
+      score: 3
+      reason: "设计完整但缺乏当前EI系列的视觉层次感，三段式分色体系尚未建立，绿色功能件逻辑未成型，历史参考价值高"
+    design_tags: ["H07极简整合", "历史版本", "CLEANTEC系列", "铝银色配色"]
+    hero_feature: "铝银色机体DNA：Festool早期设计语言，Systainer系列延续了这一配色，EI系列已演化为深蓝黑+白灰"
+    problem_solved: "精密过滤基础需求，CLEANTEC系列定位精密工业场景"
+    transferable_technique: "铝银色+黑色分件的工业精密感表达：早于当前体系，但铝银Systainer至今保留此基因"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 产品组 12：CT 25（旧一代圆筒设计）
+  # ─────────────────────────────────────────────
+  - product_id: "festool_吸尘设备_012"
+    source_images:
+      - filename: "吸尘设备__24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/吸尘设备/吸尘设备__24.jpg"
+        image_role: "hero"
+        visual_anchor: "CT 25正面：白灰色圆筒形机体（无深色机头，单色处理），顶部黑色控制区仅有MAN绿键，机体中部横向黑色腰带分件，底部白色裙摆+FESTOOL标识，4小轮，无STOP踏板，无绿色排气网格，极其简洁"
+    product_name: "Festool CT 25"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "吸尘设备"]
+    design_language:
+      silhouette: "圆筒形（非方形），顶部轻微圆弧，比CT 15更圆润，高宽比约1.5:1"
+      light_opening: "N/A"
+      thermal: "散热方式隐藏，无明显排气网格外露"
+      cmf:
+        color: "白灰色主体（极简，无多色分区），黑色上盖+腰带，极少绿色点缀"
+        material: "ABS工程塑料"
+        finish: "全哑光白灰，无深色机头特征"
+      mounting: "有线，4小轮，无STOP踏板"
+      signature_detail: "最简洁的Festool吸尘器：无分层配色，无绿色功能件强调，圆筒形与当前方形家族差异最大"
+    design_level:
+      score: 3
+      reason: "功能清晰但设计语言过于简单，缺乏Festool当前精密专业感的视觉密度，作为早期基础款有历史参考价值"
+    design_tags: ["H01减法", "历史版本", "圆筒形", "极简配色"]
+    hero_feature: "极简减法设计：去除所有装饰，仅保留功能，白色圆筒形体是Festool在极简方向的历史探索"
+    problem_solved: "基础工业吸尘，低成本入门款定位"
+    transferable_technique: "白灰圆筒+黑色腰带的工业简洁造型：H01减法极致，可迁移至轻量化/极简风格产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+# ─────────────────────────────────────────────
+# 品牌语法总结（跨产品提炼）
+# ─────────────────────────────────────────────
+brand_grammar_summary:
+  brand: "Festool"
+  extracted_from: "27张图片，12个产品/产品组"
+  surface_code:
+    - "深蓝黑色机头（顶部功能区）+ 白灰色桶身（储尘区）三段式分色（当前EI系列）"
+    - "绿色功能件三点标记：排气网格、STOP制动踏板、提手绳网/按键"
+    - "黑色控制腰带横向分割，嵌入绿色按键组"
+  proportion_code:
+    - "方形轮廓优先（非圆筒），高宽比0.7:1（SYS）至1.8:1（MINI）随容量变化"
+    - "机头宽度随容量等比增加，维持视觉家族一致性"
+  structure_code:
+    - "机头=控制+过滤功能区（深色）；桶身=储尘区（浅色）；底座=移动+制动区（功能绿）"
+    - "Systainer系列：整机=收纳箱，功能完全收入标准箱体规格"
+  semantic_code:
+    - "绿色=可操作/可交互（STOP/按键/排气口），深色=精密工程，浅灰=容量/储存"
+    - "AUTOclean腰带=功能升级可视化，CTL/CTM/CTH型号字母=过滤等级梯度"
+  forbidden_code:
+    - "禁用大面积品牌绿作为机体主色（绿色只做点缀功能件，非主体色）"
+    - "禁用圆筒形轮廓（CT 25为早期设计，当前家族已全部方形化）"
+    - "禁用红色/橙色功能件（品类内竞品标识，如DeWalt黄/Milwaukee红）"

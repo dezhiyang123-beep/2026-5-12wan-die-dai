@@ -1,0 +1,51 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "混凝土设备"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/混凝土设备/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_混凝土设备_001"
+    source_images:
+      - filename: "混凝土设备__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/混凝土设备/混凝土设备__01.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL无线混凝土振捣器，顶视图，红黑色手柄控制单元（D形提把+Milwaukee FUEL标识），底部引出4英尺黑色波纹软管，末端连接黑色振捣棒（圆柱形+金属接头），整体呈倒U形组合"
+      - filename: "混凝土设备__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/混凝土设备/混凝土设备__02.jpg"
+        image_role: "alt"
+        visual_anchor: "同款M18 FUEL无线混凝土振捣器，更长的8英尺软管版本，俯视图，红黑手柄控制单元+超长黑色波纹软管盘绕+振捣棒，展示不同软管长度配置"
+    product_name: "Milwaukee M18 FUEL 无线混凝土振捣器"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "混凝土设备", "振捣器"]
+    design_language:
+      silhouette: "手柄控制单元为倒梯形D形提把构型，软管从底部引出形成弧形延伸至振捣棒，整体系统呈不对称延伸型"
+      light_opening: "N/A"
+      thermal: "控制单元内置散热，外部无明显散热结构"
+      cmf:
+        color: "亮红色机身（手柄控制单元）+ 黑色（软管+振捣棒+功能区）"
+        material: "控制单元工程塑料 + 黑色橡胶波纹软管 + 金属/塑料振捣棒"
+        finish: "控制单元哑光红色，软管哑光黑色，振捣棒光滑黑色"
+      mounting: "M18滑轨式电池（控制单元侧面/底部）"
+      signature_detail: "D形提把全封闭设计便于提携，软管长度规格化（4FT/8FT），Milwaukee品牌红黑配色延伸至配件软管（Milwaukee印字）"
+    design_level:
+      score: 3
+      reason: "Milwaukee将电池无线系统成功扩展至混凝土振捣器品类，D形提把控制单元的造型简洁专业，软管上Milwaukee品字印刷体现品牌配件一致性，执行标准到位"
+    design_tags:
+      - "H07_极简"
+      - "H05_模块化"
+      - "H09_隐藏工程"
+    hero_feature: "D形封闭提把构型，红黑Milwaukee色彩系统延伸至全部配件（软管/振捣棒）"
+    problem_solved: "有线振捣器在施工现场移动受限，无线化解决工地布线困难，D形提把便于单手提携"
+    transferable_technique: "D形封闭提把在大型手持工具中的人机工程应用；品牌色延伸至配件软管的整体感塑造方法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

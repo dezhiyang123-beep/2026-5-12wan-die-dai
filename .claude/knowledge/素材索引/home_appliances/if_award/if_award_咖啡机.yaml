@@ -1,0 +1,380 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "咖啡机"
+  tertiary: ""
+source:
+  source_type: "award_collection"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_coffee_001"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/03.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色镜面机身侧面，镀铬T形把手，顶部银色研磨仓，右侧出杯口"
+    product_name: "Jura 全自动意式咖啡机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "咖啡机"]
+    design_language:
+      silhouette: "近正方形厚板造型，侧面极度平整，顶部轻微收窄，整体沉稳厚重"
+      light_opening: "无"
+      thermal: "出杯口右置，独立蒸汽臂侧面收纳"
+      cmf:
+        color: "哑光黑+镀铬银"
+        material: "ABS塑料机身+金属镀铬装饰件"
+        finish: "镜面高光黑+电镀亮铬"
+      mounting: "台面独立放置，四角支脚"
+      signature_detail: "T形镀铬把手悬浮于黑色机身中央，形成强烈图底对比"
+    design_level:
+      score: 4
+      reason: "极简侧面构图，高对比材质分件，T形把手作为唯一装饰元素处理干净有力"
+    design_tags: ["极简主义", "高对比CMF", "镀铬装饰", "全自动", "家用高端"]
+    hero_feature: "哑光黑大面积机身中央镶嵌独立镀铬T形把手，视觉极简但质感强烈"
+    problem_solved: "全自动咖啡机通常界面复杂，该设计将所有功能收于顶部，侧面保持零打扰的干净观感"
+    transferable_technique: "单一装饰件作为视觉焦点，其余面积保持统一材质和颜色（H07极简整合+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_coffee_002"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/09.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，双豆仓透明顶部，黑色触控屏居中，下部双蒸汽臂+亮黄色灯带"
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/10.jpg"
+        image_role: "side"
+        visual_anchor: "3/4视角展示白色侧板与不锈钢下部分件，底部出液区与蒸汽臂位置关系"
+    product_name: "Melitta cafina XT6"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "咖啡机"]
+    design_language:
+      silhouette: "上宽下窄倒梯形，双豆仓高耸顶部，触控屏中置形成视觉重心，下半段收腰过渡"
+      light_opening: "有（出液区亮黄色竖向灯带，状态指示灯）"
+      thermal: "双蒸汽臂前置左右对称，中央单出液管"
+      cmf:
+        color: "白色机身+黑色玻璃触控面板+不锈钢下部"
+        material: "ABS塑料上壳+钢化玻璃触控屏+拉丝不锈钢下部结构"
+        finish: "哑光白+高光黑玻璃+拉丝钢"
+      mounting: "台面商用级独立放置，前排水格栅+后支脚"
+      signature_detail: "亮黄色竖向灯带嵌于出液区中央，是唯一彩色元素，充当功能状态的视觉提示"
+    design_level:
+      score: 4
+      reason: "商用机少见的白色配色方案，黄色灯带作为品牌识别色精准克制，三材质分区清晰"
+    design_tags: ["商用全自动", "三材质分区", "彩色灯带状态提示", "双豆仓", "触控屏"]
+    hero_feature: "出液区嵌入亮黄色竖向灯带，在黑白银三色商用机中形成品牌识别的唯一彩色锚点"
+    problem_solved: "商用咖啡机外观通常工业感强、冷漠；白色机身+彩色灯带使其在餐饮空间中具有温和的吸引力"
+    transferable_technique: "在中性色调机器上用单一彩色细线作为状态灯带，兼顾功能信息与品牌识别（H08对比强调+H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_coffee_003"
+    source_images:
+      - filename: "100.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/100.jpg"
+        image_role: "hero"
+        visual_anchor: "正面3/4视角，白色主体+荧光绿底盘和顶部盖板，双出水口同时注杯，侧置透明水箱"
+      - filename: "98.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/98.jpg"
+        image_role: "side"
+        visual_anchor: "侧面低角度，强调荧光绿底盘椭圆形轮廓与白色塔状机身的比例关系"
+    product_name: "Philips Senseo Twist"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "咖啡机"]
+    design_language:
+      silhouette: "细高塔形白色主体+宽扁椭圆绿色底座，比例对比强烈，整体像一个'蘑菇'剪影"
+      light_opening: "无"
+      thermal: "双出水口中置对称，可同时为两杯注液"
+      cmf:
+        color: "纯白+荧光黄绿（lime green）"
+        material: "ABS塑料"
+        finish: "哑光白+高光绿"
+      mounting: "底盘一体成型，台面放置"
+      signature_detail: "荧光绿大面积椭圆底盘与白色机身的比例切割，底盘向四周延伸形成杯托功能区"
+    design_level:
+      score: 4
+      reason: "双色比例切割大胆，荧光绿作为强调色用在底部而非顶部，重心下沉反而稳定；双出水口设计解决家庭同时制作两杯的痛点"
+    design_tags: ["双色强对比", "双出水口", "胶囊咖啡", "家用活力风格", "椭圆底座"]
+    hero_feature: "宽扁荧光绿椭圆底盘承托细高白色机身，双出水口可同时冲泡两杯，造型与功能同步差异化"
+    problem_solved: "单杯咖啡机无法同时为两人服务；底盘即杯托的一体化设计省去独立杯垫"
+    transferable_technique: "将强调色集中在底部/基座而非顶部，反转视觉重心使产品更稳，适合需要'活力感'的品类（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_coffee_004"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/17.jpg"
+        image_role: "hero"
+        visual_anchor: "3/4视角，全白机身，正面圆形品牌徽章，右侧白色奶泡筒，底部白色杯托"
+    product_name: "Nespresso Lattissima One"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "咖啡机"]
+    design_language:
+      silhouette: "近方形简洁体块，正面圆形logo徽章作为唯一视觉焦点，右侧独立奶泡器圆柱筒"
+      light_opening: "无"
+      thermal: "单出水口内嵌，奶泡器右侧独立"
+      cmf:
+        color: "全白（白色配白色）"
+        material: "ABS塑料+小量金属细节"
+        finish: "哑光白（机身）+轻微光泽（品牌徽章）"
+      mounting: "台面放置，底部一体杯托"
+      signature_detail: "全白单色方案中圆形品牌徽章是唯一视觉层级节点，右侧奶泡筒与主体等高形成对称感"
+    design_level:
+      score: 3
+      reason: "全白减法设计执行干净，但形态上缺乏记忆点，主要靠品牌背书；奶泡器独立设计是功能亮点"
+    design_tags: ["全白极简", "胶囊咖啡", "一体奶泡器", "家用", "减法设计"]
+    hero_feature: "全白单色机身配独立白色奶泡筒，零装饰干扰；圆形品牌徽章是唯一装饰节点"
+    problem_solved: "胶囊咖啡机外观碎片化，奶泡器通常外露凌乱；该设计将奶泡筒独立为同色等高圆柱，使整体更整洁"
+    transferable_technique: "同色系独立功能模块并置时保持高度和轮廓呼应，避免视觉打架（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_coffee_005"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/21.jpg"
+        image_role: "hero"
+        visual_anchor: "3/4视角，银白色机身，顶部彩色触控屏居中，右侧竖向条纹透明水箱，前置蒸汽臂"
+    product_name: "Jura ENA 8"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "咖啡机"]
+    design_language:
+      silhouette: "竖向矩形主体，右侧外挂透明水箱使整体呈L形；顶部触控屏悬浮感强"
+      light_opening: "有（触控屏背光）"
+      thermal: "单蒸汽臂前置下方，出水口内嵌"
+      cmf:
+        color: "铝银白+透明灰水箱+黑色底座"
+        material: "铝合金质感塑料面板+PC透明水箱"
+        finish: "细腻哑光银（机身）+竖向条纹透明（水箱）"
+      mounting: "台面放置，底部黑色底座抬高"
+      signature_detail: "右侧水箱采用竖向细条纹纹理的透明PC材料，既可视水位又形成独特的视觉肌理"
+    design_level:
+      score: 4
+      reason: "铝银色配竖向纹理透明水箱的材质组合高级；触控屏UI清晰，彩色图标与银色机身色彩对比适度"
+    design_tags: ["全自动", "触控屏", "竖向条纹水箱", "铝银色", "家用高端", "L形轮廓"]
+    hero_feature: "右侧竖向条纹纹理透明水箱作为独立设计语言元素，兼顾可视水位功能与肌理美感"
+    problem_solved: "水箱通常是全自动咖啡机的设计难点（外露但无美感）；竖向条纹透明处理将其转化为视觉亮点"
+    transferable_technique: "将功能性透明件（水箱/水槽）做表面纹理处理，使可见性和美观性同时成立（H10材料表达+H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_coffee_006"
+    source_images:
+      - filename: "58.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/58.jpg"
+        image_role: "hero"
+        visual_anchor: "三款颜色变体并排正面视角（深钛色/深灰色/黑色），宽触控屏置顶，中部哑光金属面板，左侧奶泡器"
+    product_name: "Philips Series 全自动咖啡机（3200/4300/5400系列）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "咖啡机"]
+    design_language:
+      silhouette: "宽矩形，上部触控屏区+中部哑光金属出水区+底部杯托三段式水平分层"
+      light_opening: "有（宽屏顶部触控屏背光，图标式UI）"
+      thermal: "左侧独立奶泡器，中央出水口"
+      cmf:
+        color: "深钛色/深灰色/黑色（三色系列）"
+        material: "ABS塑料+金属质感面板"
+        finish: "哑光金属漆（中段）+高光黑（屏幕区）+拉丝纹（底部）"
+      mounting: "台面放置，底部一体杯托+排水格栅"
+      signature_detail: "顶部宽幅触控屏横跨机身全宽，图标式菜单直观，是家用机中屏幕占比最大的设计之一"
+    design_level:
+      score: 3
+      reason: "三段式分层逻辑清晰，但整体偏工整保守；三色系列展示说明平台化设计策略，品牌识别度高但个性不强"
+    design_tags: ["全自动", "宽幅触控屏", "三段式分层", "系列化设计", "家用主流", "深色系"]
+    hero_feature: "机身全宽横向触控屏带图标式菜单，降低操作门槛；三色系列平台共用一套结构语言"
+    problem_solved: "家用全自动咖啡机菜单层级复杂，图标化宽屏降低认知负担；系列化CMF策略兼顾不同家居风格用户"
+    transferable_technique: "用全宽横向触控屏替代传统旋钮+小屏组合，将交互界面做成视觉主角（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_coffee_007"
+    source_images:
+      - filename: "61.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/61.jpg"
+        image_role: "hero"
+        visual_anchor: "3/4视角黑白照片，锥形黑色机身，顶部透明研磨仓，左侧外露电源线，右侧圆形底盖"
+    product_name: "Siemens 电动咖啡磨豆机（vintage）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "咖啡机"]
+    design_language:
+      silhouette: "上窄下宽锥形，顶部透明圆柱豆仓，整体轮廓类似放大版盐瓶"
+      light_opening: "无"
+      thermal: "无（磨豆机，非冲泡机）"
+      cmf:
+        color: "黑色主体+透明顶盖（黑白照片推断）"
+        material: "金属机身+塑料或玻璃透明豆仓"
+        finish: "高光黑（金属漆）+透明"
+      mounting: "台面放置，底部圆盘加重底座"
+      signature_detail: "锥形机身从底部向顶部收窄，比例优雅；顶部透明仓展示咖啡豆，功能即装饰"
+    design_level:
+      score: 2
+      reason: "Vintage产品历史档案价值高于当代设计借鉴价值；形态简洁但语言陈旧，细节工艺受时代限制"
+    design_tags: ["磨豆机", "vintage", "锥形", "历史档案", "黑白照片"]
+    hero_feature: "锥形金属机身从底部向顶部自然收窄，顶部透明豆仓作为视觉终点，结构即功能"
+    problem_solved: "磨豆机体积小但需要稳定；宽底盘+收窄顶部的锥形设计增加重心稳定性"
+    transferable_technique: "透明豆仓/水箱放在视觉最高点，让'原料可见'成为产品的情感卖点（H11功能外显）"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "黑白照片，颜色和材质存在推断成分；vintage产品年代不确定"
+
+  - product_id: "if_coffee_008"
+    source_images:
+      - filename: "64.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/64.jpg"
+        image_role: "hero"
+        visual_anchor: "正侧面，香槟金色圆弧矩形机身，正面大圆形发光logo按钮，出杯口圆弧门洞，搭配胶囊包装"
+    product_name: "BrewBird 胶囊咖啡机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "咖啡机"]
+    design_language:
+      silhouette: "大圆角矩形整体造型（接近正方形），正面大圆形按钮/logo区域占据1/3面积，底部圆弧出杯门洞"
+      light_opening: "有（正面圆形图标灯光环，发光logo）"
+      thermal: "出杯口嵌入底部圆弧门洞"
+      cmf:
+        color: "香槟金/浅金灰"
+        material: "铝合金或喷涂金属质感ABS"
+        finish: "哑光香槟金"
+      mounting: "台面放置，底部平面"
+      signature_detail: "正面超大圆形发光徽标区域占据机身正面核心位置，发光图标兼具品牌识别和操作引导功能"
+    design_level:
+      score: 5
+      reason: "形态语言完全脱离传统咖啡机矩形框架；香槟金色系+圆弧门洞+超大发光圆形logo形成高度差异化的辨识轮廓；出杯口做成圆弧'舞台'强化仪式感"
+    design_tags: ["概念设计", "圆弧造型", "发光logo", "香槟金", "胶囊咖啡", "仪式感", "品牌差异化"]
+    hero_feature: "超大圆形发光徽标作为机身正面主视觉，底部圆弧门洞将出杯区演绎为'舞台'，整机脱离传统咖啡机形态框架"
+    problem_solved: "消费者咖啡机同质化严重；BrewBird以完全不同的圆弧造型语言和仪式化出杯设计创造独特产品个性"
+    transferable_technique: "将出杯区/出液口设计为圆弧门洞'舞台'，从功能口变为仪式展示区，提升使用体验感知价值（H09隐藏工程+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_coffee_009"
+    source_images:
+      - filename: "69.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/69.jpg"
+        image_role: "detail"
+        visual_anchor: "近景局部：双出液管+奶泡管同时注入透明双层玻璃杯，拉花分层效果清晰"
+      - filename: "70.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/70.jpg"
+        image_role: "hero"
+        visual_anchor: "正面3/4视角：银黑机身，倾斜触控屏居上，左侧透明奶壶，中部不锈钢纹理面板"
+    product_name: "De'Longhi PrimaDonna Soul"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "咖啡机"]
+    design_language:
+      silhouette: "宽矩形机身，上部倾斜触控屏形成斜切面，整体有向用户倾斜的姿态"
+      light_opening: "有（触控屏背光，出液区LED）"
+      thermal: "双出液管（咖啡+奶泡同时出液），左侧独立透明奶壶"
+      cmf:
+        color: "拉丝银+黑色面板+透明奶壶"
+        material: "拉丝不锈钢面板+ABS黑色结构件+PC透明奶壶"
+        finish: "拉丝钢（主面板）+高光黑（屏幕区）+透明"
+      mounting: "台面放置，前排水格栅"
+      signature_detail: "触控屏向用户倾斜约15度，UI显示咖啡图标+用户档案，交互姿态更自然；双管同步出液是该档次机型的功能标志"
+    design_level:
+      score: 4
+      reason: "倾斜触控屏的人机工学考量使交互姿态更自然；拉丝钢面板工艺精细；双管出液作为功能可见性设计语言运用得当"
+    design_tags: ["全自动高端", "倾斜触控屏", "拉丝不锈钢", "双出液管", "用户档案记忆", "家用旗舰"]
+    hero_feature: "触控屏向用户倾斜15度，自然俯视操作；双管同步出液将专业咖啡师动作可视化"
+    problem_solved: "高端全自动机的触控屏通常垂直放置，操作时需低头；倾斜屏幕改善操作姿态，同时增强产品的交互仪式感"
+    transferable_technique: "将控制界面倾斜朝向用户的操作视角而非平行地面，适用于任何台面电器（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_coffee_010"
+    source_images:
+      - filename: "90.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/90.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，全黑机身，顶部方形触控面板+镀铬边框，前置出水中央，下方大玻璃杯"
+      - filename: "91.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/咖啡机/91.jpg"
+        image_role: "side"
+        visual_anchor: "3/4侧面视角，右侧透明水箱外挂，侧面凸起的LAVAZZA品牌浮雕文字"
+    product_name: "Lavazza Firma 胶囊咖啡机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "咖啡机"]
+    design_language:
+      silhouette: "竖向矩形，顶部正方形触控面板居中突出为主焦点，下部机身收腰后外扩至底盘"
+      light_opening: "有（触控面板背光图标，周圈镀铬灯环）"
+      thermal: "单出水口正面居中"
+      cmf:
+        color: "全黑（含哑光黑+高光黑双层次）"
+        material: "ABS塑料+镀铬金属边框+PC透明水箱"
+        finish: "哑光黑机身+高光黑触控面板+镀铬框"
+      mounting: "台面放置，底部圆形排水盘"
+      signature_detail: "侧面大字体'LAVAZZA'品牌浮雕凸出于机身，字体即造型元素；顶部方形触控面板+圆形触控排列形成星形图标矩阵"
+    design_level:
+      score: 3
+      reason: "侧面浮雕品牌字体作为造型元素的思路有新意，但整体比例偏平淡；触控面板星形图标布局具有一定辨识度"
+    design_tags: ["胶囊咖啡", "全黑CMF", "品牌浮雕文字", "触控图标矩阵", "家用/办公"]
+    hero_feature: "侧面大尺寸'LAVAZZA'品牌名称浮雕凸出机身，将品牌文字转化为三维造型语言"
+    problem_solved: "胶囊机外观趋同；品牌浮雕文字作为设计语言既强化品牌识别，又为侧面创造视觉层次"
+    transferable_technique: "将品牌名/Slogan以浮雕/凹版形式直接融入机身侧面，替代贴纸/印刷LOGO（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+excluded_images:
+  - filename: "47.jpg"
+    reason: "非咖啡机品类 — Joyoung九阳 Smart Noodle Machine L20S 面条机，错误归档至咖啡机文件夹"
+    suggested_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/厨房小家电/面条机"

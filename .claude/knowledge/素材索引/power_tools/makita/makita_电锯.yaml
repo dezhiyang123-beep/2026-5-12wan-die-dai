@@ -1,0 +1,548 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/"
+  generated_at: "2026-05-08"
+products:
+  # ============================================================
+  # 圆锯 (Circular Saw) — 11张，归并为3个产品组
+  # ============================================================
+  - product_id: "makita_电锯_圆锯_001"
+    source_images:
+      - filename: "电锯__圆锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__圆锯__01.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "蓝绿色大型圆锯+双18V LXT电池kit，含双充电器+Makita帆布包，白色大护罩+银灰色底板，机身蓝绿色，标注'Uses 2 18v LXT Batteries'"
+      - filename: "电锯__圆锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__圆锯__02.jpg"
+        image_role: "kit_shot_variant"
+        visual_anchor: "与01几乎相同kit，蓝绿色圆锯+双电池+双充+帆布包，角度略有差异"
+      - filename: "电锯__圆锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__圆锯__03.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿色+白护罩7-1/4寸圆锯，双18V LXT，侧45度视角，MAX EFFICIENCY字样，圆锯片Makita品牌，'Batteries not included'标注"
+      - filename: "电锯__圆锯__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__圆锯__08.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "同款双18V LXT圆锯kit，含双充电器+电池+帆布包，蓝绿色机身，7-1/4寸，后把手圆弧形人机"
+      - filename: "电锯__圆锯__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__圆锯__09.jpg"
+        image_role: "hero_variant"
+        visual_anchor: "蓝绿色双18V圆锯，后把手带辅助前把手，白色大圆护罩，7-1/4寸，'Batteries not included'"
+    product_name: "Makita 18V X2 LXT 7-1/4\" 无绳圆锯（36V，如XSH08Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "大型圆锯轮廓，后置主握把+前辅助握把，大圆护罩主导左侧视觉，底板宽大银灰色"
+      light_opening: "N/A"
+      thermal: "马达舱顶部及侧面散热格栅"
+      cmf:
+        color: "蓝绿色（Makita teal）机身+白色锯片护罩+银灰色铝底板"
+        material: "工程塑料机壳+橡胶把手软包+铝合金底板+金属护罩"
+        finish: "哑光蓝绿色机壳，光亮铝银底板，白色哑光护罩"
+      mounting: "双18V LXT电池后侧并列或顶部插入，双电池座设计"
+      signature_detail: "双18V LXT电池形成36V高功率配置；白色大圆护罩与蓝绿机身形成强对比"
+    design_level:
+      score: 3
+      reason: "大尺寸圆锯三色系（蓝绿/白/银灰）执行到位，双电池设计外显功率定位，比例协调"
+    design_tags: ["H08对比强调", "H11功能外显", "H07极简整合"]
+    hero_feature: "双18V LXT电池座+白色大圆护罩，视觉外显高功率身份"
+    problem_solved: "高功率无绳圆锯，替代有线圆锯，适合建筑工地重木材切割"
+    transferable_technique: "双电池并列设计在视觉上强化'专业大功率'身份；白色护罩作为安全感知色"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_电锯_圆锯_002"
+    source_images:
+      - filename: "电锯__圆锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__圆锯__04.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑机身6-1/2寸圆锯，无蓝绿色，黑+白护罩+银灰底板，Makita白字，BL Brushless标识，单18V LXT电池"
+    product_name: "Makita 18V LXT 6-1/2\" 无绳圆锯 Black Edition（如XSS02Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "标准圆锯轮廓，后握把+白色护罩，6-1/2寸尺寸较紧凑"
+      light_opening: "N/A"
+      thermal: "马达舱侧面散热槽"
+      cmf:
+        color: "全黑机身（Black Edition）+白色护罩+银灰底板，Makita白字"
+        material: "工程塑料机壳+橡胶把手+铝合金底板"
+        finish: "哑光黑机壳，光亮铝银底板，白色哑光护罩"
+      mounting: "单18V LXT电池后端滑入"
+      signature_detail: "全黑机身在圆锯中属差异化配色，与白色护罩形成明确对比"
+    design_level:
+      score: 3
+      reason: "Black Edition执行干净，白色护罩跳色有效，标准单电池18V紧凑圆锯"
+    design_tags: ["H08对比强调", "H07极简整合"]
+    hero_feature: "全黑机身+白色护罩对比，Black Edition视觉辨识度"
+    problem_solved: "轻便单电池无绳圆锯，适合木工精切、现场作业"
+    transferable_technique: "黑色主机+白色功能件跳色（护罩/底板）的反差配色策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_电锯_圆锯_003"
+    source_images:
+      - filename: "电锯__圆锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__圆锯__05.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿+黑色导轨圆锯（Plunge/Track Saw），扁平低矮机身，银灰色铝底板，顶部蓝绿色马达舱，黑色握把，36V双18V LXT，'Batteries not included'"
+      - filename: "电锯__圆锯__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__圆锯__06.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "导轨锯kit全套，含蓝绿色Makita硬壳箱+双18V LXT双充+导轨锯本体，蓝绿+银灰配色"
+      - filename: "电锯__圆锯__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__圆锯__07.jpg"
+        image_role: "hero_variant"
+        visual_anchor: "同款导轨锯，与05相同角度，细节更清晰，LXT标注36V，锯片外露可见"
+    product_name: "Makita 18V X2 LXT 无绳导轨锯/潜入式圆锯（Plunge Track Saw，如XPS01Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "扁平矮型机身，马达舱中置偏后，顶部低矮握把，底部铝板延伸，侧视呈低趴横卧形态"
+      light_opening: "N/A"
+      thermal: "马达舱顶侧散热格栅"
+      cmf:
+        color: "蓝绿色马达舱+黑色握把及前导护板+银灰色铝合金底板"
+        material: "工程塑料机壳+铝合金底板+橡胶把手"
+        finish: "哑光蓝绿壳，光亮铝银底板，哑光黑把手"
+      mounting: "双18V LXT电池后侧插入，36V配置"
+      signature_detail: "扁平低矮轮廓区别于普通手持圆锯；铝底板精度感与蓝绿机身形成专业视觉"
+    design_level:
+      score: 4
+      reason: "导轨锯低矮扁平造型在Makita产品线中属造型创新，精工导向设计语言区别于普通圆锯"
+    design_tags: ["H07极简整合", "H08对比强调", "H09隐藏工程"]
+    hero_feature: "超低矮扁平机身轮廓+精准铝底板，专业精切定位"
+    problem_solved: "配合导轨精准直线切割，橱柜/木工精作场景"
+    transferable_technique: "低矮化机身比例策略（功能导向造型）；铝底板精度感知设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_电锯_圆锯_004"
+    source_images:
+      - filename: "电锯__圆锯__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__圆锯__10.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿+黑6-1/2寸圆锯，BL Brushless，单18V LXT，白色护罩，银灰底板，前置前辅助把手，Makita白字"
+      - filename: "电锯__圆锯__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__圆锯__11.jpg"
+        image_role: "hero_variant"
+        visual_anchor: "蓝绿+黑6-1/2寸圆锯，LXT标识，单18V，白色护罩，银灰底板，更早款造型（棱角稍多），无BL标识"
+    product_name: "Makita 18V LXT 6-1/2\" 无绳圆锯（标准色，如XSS02Z/XSS04Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "标准圆锯，后握把+辅助前把手，白色护罩，6-1/2寸中型尺寸"
+      light_opening: "N/A"
+      thermal: "马达舱侧面散热槽"
+      cmf:
+        color: "蓝绿色（Makita teal）机身+黑色把手包覆+白色护罩+银灰底板"
+        material: "工程塑料+橡胶把手+铝合金底板"
+        finish: "哑光蓝绿色，白色哑光护罩，光亮铝银底板"
+      mounting: "单18V LXT电池后端滑入"
+      signature_detail: "蓝绿+白+银灰三色经典圆锯配色体系"
+    design_level:
+      score: 3
+      reason: "标准18V圆锯执行到位，三色配色成熟，无特别造型突破"
+    design_tags: ["H08对比强调", "H07极简整合"]
+    hero_feature: "蓝绿/白/银三色系标准执行，品类识别度强"
+    problem_solved: "轻便单电池无绳圆锯，通用木材切割"
+    transferable_technique: "三色体系（主色+护罩白+底板银）在旋转切割工具中的标准配色逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ============================================================
+  # 斜切锯 (Miter Saw) — 6张，归并为3个产品组
+  # ============================================================
+  - product_id: "makita_电锯_斜切锯_001"
+    source_images:
+      - filename: "电锯__斜切锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__斜切锯__01.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "蓝绿色大型滑动斜切锯+双18V LXT双充充电器+电池，正面视角，大圆锯片护罩蓝绿色，铝合金转台底座银灰色，黑色栏杆支架，'Uses 2 18v LXT Batteries'"
+      - filename: "电锯__斜切锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__斜切锯__02.jpg"
+        image_role: "kit_shot_variant"
+        visual_anchor: "同款大型滑动斜切锯不同角度kit，蓝绿色马达+护罩+黑色支架+铝银转台"
+      - filename: "电锯__斜切锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__斜切锯__04.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "蓝绿色10寸滑动复合斜切锯+双18V LXT双充+两电池，斜45度视角，尺寸更大，蓝绿+黑+银三色"
+    product_name: "Makita 18V X2 LXT 10\" 无绳滑动复合斜切锯（36V，如XSL06Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "斜切锯"]
+    design_language:
+      silhouette: "大型半圆弓臂式轮廓，马达+护罩半圆后拱，转台底盘宽大，滑动导轨前伸，整体宽大稳重"
+      light_opening: "N/A"
+      thermal: "马达舱后部散热格栅"
+      cmf:
+        color: "蓝绿色马达舱及护罩主导+黑色把手及支架+银灰铝合金转台底盘"
+        material: "工程塑料机壳+铝合金转台+钢制支架+橡胶把手"
+        finish: "哑光蓝绿壳，阳极氧化铝银转台，哑光黑支架及把手"
+      mounting: "双18V LXT电池后置并列，36V配置"
+      signature_detail: "大半圆护罩形态是斜切锯品类身份锚点；双电池后置外显36V功率"
+    design_level:
+      score: 3
+      reason: "大型斜切锯三色体系执行标准，双电池外显功率定位清晰，无额外造型突破"
+    design_tags: ["H11功能外显", "H08对比强调"]
+    hero_feature: "大型蓝绿色半圆护罩+双18V LXT电池座，品类+功率双重外显"
+    problem_solved: "无绳大功率斜切锯，替代有线机，适合木框架、装饰线条精切"
+    transferable_technique: "半圆护罩大弧面蓝绿色块面的品类标识性；双电池后置视觉重心平衡"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_电锯_斜切锯_002"
+    source_images:
+      - filename: "电锯__斜切锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__斜切锯__03.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿色紧凑型斜切锯（单18V），LED灯条顶部，无护罩全开视角，Makita黑布集尘袋，DXT技术标识，白色转台底盘，黑色把手，较小尺寸"
+    product_name: "Makita 18V LXT 7-1/2\" 无绳斜切锯（如XSL04Z/LS711DWX）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "斜切锯"]
+    design_language:
+      silhouette: "紧凑型斜切锯，弓臂弧度更小，整体更轻盈，顶部LED灯条是特色"
+      light_opening: "顶部集成LED工作灯照明线条"
+      thermal: "马达舱侧散热槽"
+      cmf:
+        color: "蓝绿色（Makita teal）马达舱+黑色把手及集尘袋+白色转台+银色金属件"
+        material: "工程塑料+金属铸件转台+橡胶把手+布质集尘袋"
+        finish: "哑光蓝绿，哑光黑布袋，白色转台，光亮银色刻度盘"
+      mounting: "单18V LXT电池后侧插入"
+      signature_detail: "顶部LED工作灯线条+DXT技术标识；集尘袋黑色Makita字样"
+    design_level:
+      score: 3
+      reason: "紧凑单电池斜切锯，LED灯集成是加分项，整体执行干净"
+    design_tags: ["H12人机界面强化", "H11功能外显", "H07极简整合"]
+    hero_feature: "顶部LED工作灯+紧凑弓臂轮廓，功能集成感强"
+    problem_solved: "轻便无绳斜切，适合装饰木工现场使用"
+    transferable_technique: "工作灯集成在工具顶部（弓臂）位置，不干扰握持动作的功能整合策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_电锯_斜切锯_003"
+    source_images:
+      - filename: "电锯__斜切锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__斜切锯__05.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿色大型滑动斜切锯，单18V LXT，后置导轨，铝银大转台，'Batteries not included'，与001系列类似但单电池"
+      - filename: "电锯__斜切锯__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__斜切锯__06.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "蓝绿色8-1/2寸滑动斜切锯+单18V LXT电池+单充，集尘袋黑色，'Batteries not included'，紧凑型"
+    product_name: "Makita 18V LXT 8-1/2\" 无绳单电池滑动斜切锯（如XSL02Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "斜切锯"]
+    design_language:
+      silhouette: "中型滑动斜切锯，后导轨滑出，弓臂蓝绿色，铝转台银灰色，尺寸介于小型和大型之间"
+      light_opening: "N/A"
+      thermal: "马达舱后部散热"
+      cmf:
+        color: "蓝绿色马达+黑色把手+银灰铝转台+黑色集尘袋"
+        material: "工程塑料+铝合金转台+橡胶把手+布集尘袋"
+        finish: "哑光蓝绿，铝银转台，哑光黑配件"
+      mounting: "单18V LXT电池后侧插入"
+      signature_detail: "后置滑轨机构，适合宽板切割；蓝绿机身在大转台银灰色映衬下品牌辨识清晰"
+    design_level:
+      score: 3
+      reason: "标准单电池中型斜切锯，执行稳定"
+    design_tags: ["H08对比强调", "H07极简整合"]
+    hero_feature: "后置滑轨机构+铝银大转台，专业精切视觉感"
+    problem_solved: "中大尺寸木材无绳斜切，单电池减轻整机重量"
+    transferable_technique: "铝合金大面积转台的精度感知设计（银灰色大面积精工感）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ============================================================
+  # 曲线锯 (Jigsaw) — 3张，归并为2个产品组
+  # ============================================================
+  - product_id: "makita_电锯_曲线锯_001"
+    source_images:
+      - filename: "电锯__曲线锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__曲线锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿+黑桶形握持曲线锯（Barrel Grip），18V LXT，BL Brushless，顶部圆弧形轮廓，无传统顶握把，锯片下方金属底板，电源按钮侧置，Makita白字"
+      - filename: "电锯__曲线锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__曲线锯__02.jpg"
+        image_role: "hero_variant"
+        visual_anchor: "蓝绿+黑桶握曲线锯另一角度，BL Brushless，LXT标识，底板金属，侧拨键调速，锯片露出"
+    product_name: "Makita 18V LXT 无绳曲线锯 桶形握持版（Barrel Grip Jigsaw，如XVJ02Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "桶形（Barrel Grip）握持，顶部圆弧饱满，无传统顶部把手，整体短粗圆润，锯片从底部中央伸出"
+      light_opening: "N/A"
+      thermal: "机身侧面细密散热槽"
+      cmf:
+        color: "蓝绿色主机身+黑色顶部弧面及底部分件+金属银底板"
+        material: "工程塑料机壳+橡胶软包+金属底板"
+        finish: "哑光蓝绿，黑色哑光橡胶包覆，光亮银底板"
+      mounting: "18V LXT电池底部后端纵向插入"
+      signature_detail: "桶形握持设计（Barrel Grip）：无顶把手，直接握住机身，提升精准控制感"
+    design_level:
+      score: 4
+      reason: "桶形握持是曲线锯品类的造型创新，区别于传统顶握把设计，人机控制感明显提升"
+    design_tags: ["H12人机界面强化", "H07极简整合", "H08对比强调"]
+    hero_feature: "桶形（Barrel Grip）握持造型：去除顶把手，整体轮廓大胆简化"
+    problem_solved: "精细曲线切割场景，桶握提升施力精准度和视线清晰度"
+    transferable_technique: "去除传统把手的'减法造型'——直接握持机身提升控制，适用于精细作业工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_电锯_曲线锯_002"
+    source_images:
+      - filename: "电锯__曲线锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__曲线锯__03.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿+黑传统顶握把曲线锯（Top Handle），LXT标识，单18V，顶部D形把手，锯片下部金属底板，传统造型更饱满"
+    product_name: "Makita 18V LXT 无绳曲线锯 顶部握持版（Top Handle Jigsaw，如XVJ01Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "传统顶握把（Top Handle）曲线锯，D形顶把手，机身饱满，锯片前部伸出"
+      light_opening: "N/A"
+      thermal: "机身侧面散热槽"
+      cmf:
+        color: "蓝绿色主机身+黑色顶部D形把手+金属银底板"
+        material: "工程塑料+橡胶把手+金属底板"
+        finish: "哑光蓝绿，黑色橡胶把手，光亮银底板"
+      mounting: "18V LXT电池底部插入"
+      signature_detail: "传统D形顶握把，经典曲线锯造型"
+    design_level:
+      score: 3
+      reason: "传统顶握把设计，执行标准，蓝绿+黑配色到位"
+    design_tags: ["H08对比强调", "H07极简整合"]
+    hero_feature: "D形顶握把+蓝绿/黑双色分件，经典曲线锯品类造型"
+    problem_solved: "通用曲线及直线切割，传统握持习惯用户友好"
+    transferable_technique: "顶握把vs桶握两种人机策略的对比——精控vs通用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ============================================================
+  # 综合（军刀锯/往复锯 + 小圆锯） — 11张，归并为4个产品组
+  # ============================================================
+  - product_id: "makita_电锯_往复锯_001"
+    source_images:
+      - filename: "电锯__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__综合__02.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿+黑紧凑型往复锯（Compact Reciprocating Saw），单18V LXT，锯片前部水平伸出，机身短小，BL Brushless标识"
+      - filename: "电锯__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__综合__04.jpg"
+        image_role: "hero_variant"
+        visual_anchor: "全黑紧凑往复锯，Black Edition，BL Brushless，单18V，机身黑色，Makita白字，锯片蓝绿色跳色"
+      - filename: "电锯__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__综合__08.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿+黑往复锯，单18V LXT，水平锯片，机身较长，LXT标识，无BL标识，早款"
+      - filename: "电锯__综合__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__综合__11.jpg"
+        image_role: "hero_variant"
+        visual_anchor: "蓝绿+黑紧凑型往复锯，LXT标识，最小尺寸版本，机身极度紧凑，无前辅助把手"
+    product_name: "Makita 18V LXT 无绳往复锯 Compact版（Reciprocating Saw，如XRJ07Z/XRJ01Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "水平延伸式轮廓，锯片轴线与握持轴线接近水平，紧凑短身，无前辅助握把"
+      light_opening: "N/A"
+      thermal: "机身侧面及顶部散热槽"
+      cmf:
+        color: "标准版：蓝绿+黑；Black Edition：全黑+蓝绿色锯片跳色"
+        material: "工程塑料机壳+橡胶软包握把"
+        finish: "哑光蓝绿/黑机壳，橡胶哑光黑握把"
+      mounting: "18V LXT电池底部后端纵向插入"
+      signature_detail: "紧凑轻量身材+水平出刃方向是往复锯品类识别特征"
+    design_level:
+      score: 3
+      reason: "紧凑往复锯执行标准，双色体系一致，Black Edition锯片蓝绿跳色是亮点"
+    design_tags: ["H07极简整合", "H08对比强调"]
+    hero_feature: "水平出刃+极紧凑机身，单手可操控"
+    problem_solved: "拆除/管道切割/现场粗切，紧凑身材适合狭小空间"
+    transferable_technique: "极紧凑化设计策略（去除前把手），功能聚焦优先于舒适握持的权衡"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_电锯_往复锯_002"
+    source_images:
+      - filename: "电锯__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__综合__03.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "蓝绿色大型往复锯+单18V LXT电池+充电器+Makita硬壳箱，机身较长，BL Brushless，前辅助把手，锯片较长"
+      - filename: "电锯__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__综合__05.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "蓝绿色大型往复锯kit+硬壳箱，与03类似，全套展示，BL Brushless"
+      - filename: "电锯__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__综合__06.jpg"
+        image_role: "kit_shot_variant"
+        visual_anchor: "蓝绿色大型往复锯kit+硬壳箱，BL Brushless，与05相同产品，角度略有差异"
+      - filename: "电锯__综合__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__综合__09.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿+黑大型往复锯单体，BL Brushless，单18V LXT，机身长，前辅助把手橡胶，Makita白字"
+      - filename: "电锯__综合__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__综合__10.jpg"
+        image_role: "hero_variant"
+        visual_anchor: "蓝绿+黑大型往复锯，双18V LXT标识，'Batteries not included'，前辅助把手，BL Brushless"
+    product_name: "Makita 18V LXT 无绳往复锯 全尺寸版（Full Size Reciprocating Saw，如XRJ05Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "全尺寸长身往复锯，前置辅助把手+后置主握把，锯片向前水平伸出，整体纵长"
+      light_opening: "N/A"
+      thermal: "机身顶部及侧面散热格栅"
+      cmf:
+        color: "蓝绿色主机身+黑色把手及前辅助把+银色金属件"
+        material: "工程塑料机壳+橡胶软包把手+金属锯片夹头"
+        finish: "哑光蓝绿机壳，哑光黑橡胶握把，金属夹头光亮"
+      mounting: "单/双18V LXT电池底部插入"
+      signature_detail: "前辅助橡胶把手+后主握把双把设计，适合长时间重负荷作业"
+    design_level:
+      score: 3
+      reason: "全尺寸往复锯标准执行，蓝绿+黑配色一致，前后双把人机标准"
+    design_tags: ["H12人机界面强化", "H08对比强调"]
+    hero_feature: "前置辅助橡胶把手+双把握持人机，专业大功率往复感"
+    problem_solved: "重型拆除/树木修剪/大口径管道切割"
+    transferable_technique: "前辅助把手橡胶圆柱形态在长身工具中的人机分区策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_电锯_往复锯_003"
+    source_images:
+      - filename: "电锯__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__综合__07.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "蓝绿色往复锯+双18V LXT电池+充电器+帆布包，机身较宽，双电池后置，前辅助把手，BL Brushless"
+    product_name: "Makita 18V X2 LXT 双电池无绳往复锯（36V，如XRJ06Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "双电池宽身往复锯，机身后部因双电池座而明显加宽加厚，前把手延伸"
+      light_opening: "N/A"
+      thermal: "机身散热格栅"
+      cmf:
+        color: "蓝绿色机身+黑色把手及分件+双电池蓝绿同色"
+        material: "工程塑料+橡胶把手+金属夹头"
+        finish: "哑光蓝绿，哑光黑把手"
+      mounting: "双18V LXT电池后部并列，36V配置"
+      signature_detail: "双电池后置造成机身尾部明显加宽，功率视觉化"
+    design_level:
+      score: 3
+      reason: "双电池36V往复锯，功率外显，执行标准"
+    design_tags: ["H11功能外显", "H08对比强调"]
+    hero_feature: "双18V LXT电池后置，36V大功率外显"
+    problem_solved: "超重负荷切割任务，高频长时间作业不掉速"
+    transferable_technique: "双电池尾部扩展造型策略：功率通过物理体量外显"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_电锯_圆锯_小型_001"
+    source_images:
+      - filename: "电锯__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/电锯/电锯__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿+黑小型圆锯（5-3/8寸），LXT标识，单18V，白色护罩，银灰底板，机身紧凑，Makita白字"
+    product_name: "Makita 18V LXT 5-3/8\" 无绳小型圆锯（如XSS03Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "紧凑小型圆锯，白色护罩+银底板，单18V轻量"
+      light_opening: "N/A"
+      thermal: "马达舱侧散热槽"
+      cmf:
+        color: "蓝绿+黑+白护罩+银底板"
+        material: "工程塑料+铝底板"
+        finish: "哑光蓝绿，白色护罩，光亮铝银底板"
+      mounting: "单18V LXT电池后端插入"
+      signature_detail: "小尺寸5-3/8寸，轻便紧凑，适合单手作业"
+    design_level:
+      score: 3
+      reason: "标准小型圆锯执行"
+    design_tags: ["H07极简整合"]
+    hero_feature: "紧凑小体量+三色经典系，轻便圆锯形态"
+    problem_solved: "轻量化日常切割，单手可控"
+    transferable_technique: "同系列设计语言在不同尺寸规格的一致性延伸"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

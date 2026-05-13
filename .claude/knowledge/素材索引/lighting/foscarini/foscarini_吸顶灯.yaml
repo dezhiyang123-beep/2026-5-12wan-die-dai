@@ -1,0 +1,165 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "吸顶灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/吸顶灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "foscarini_吸顶灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/吸顶灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "不规则有机凹陷球体，蓝灰背景，顶部可见白色小圆形底座"
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/吸顶灯/07.jpg"
+        image_role: "alternate"
+        visual_anchor: "同款不规则球体，中性灰背景，轮廓更清晰，无灯亮效果"
+    product_name: "Mite Ceiling"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯", "有机形态吹制玻璃"]
+    design_language:
+      silhouette: "不规则有机球体，表面有三处软性凹压变形，整体像被轻轻捏过的圆球，无对称轴"
+      light_opening: "顶部全封闭，光线通过磨砂玻璃球体360度漫射向下及四周，无单一出光口"
+      thermal: "大体量玻璃球体单体悬挂，热管理依赖球体内腔通风，顶部小底座为散热点"
+      cmf:
+        color: "暖白色（哑光乳白）"
+        material: "吹制磨砂玻璃"
+        finish: "哑光磨砂，半透光"
+      mounting: "直装吸顶，小圆形白色底盖，极简无装饰"
+      signature_detail: "球体表面三处凹陷变形——非均匀分布，营造手工捏制感，光线透过时凹陷处产生明暗渐变"
+    design_level:
+      score: 5
+      reason: "Mite是Foscarini标志性产品之一，不规则有机形态将吹制工艺特征直接转化为造型语言，无结构件暴露，形态即结构"
+    design_tags: ["有机形态", "吹制玻璃", "漫射光", "无轴对称", "手工艺感", "极简底座", "雕塑感"]
+    hero_feature: "不规则凹陷球体——模拟手工捏制痕迹，使工业产品获得手作温度感"
+    problem_solved: "吸顶灯通常形态规整单调，Mite用不规则有机变形赋予灯具雕塑个性，同时保持全漫射均匀照明"
+    transferable_technique: "在封闭球体表面引入非对称软性凹压变形，低成本（吹制工艺）实现高辨识度有机轮廓"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_吸顶灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/吸顶灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向圆筒灯笼形，纯白底座，蓝绿色背景，灯体全白无开关可见"
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/吸顶灯/03.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款灯笼，橄榄绿底座，深橄榄绿背景，与底座同色系搭配"
+    product_name: "Chouchin Ceiling (Tall)"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯", "灯笼形乳白玻璃"]
+    design_language:
+      silhouette: "竖向拉长圆筒，上下均有明显圆角收口，比例约1:2（宽:高），侧面微鼓，整体酷似日式灯笼"
+      light_opening: "顶端封闭吸顶，底端收口但透光，光线向下及周侧漫射，底部可见微弱出光缝"
+      thermal: "竖向圆筒中空，自然对流散热；底座小圆台为电气接口，无外露散热件"
+      cmf:
+        color: "灯体乳白色；底座可选白色或橄榄绿"
+        material: "吹制乳白玻璃（灯体），喷漆金属（底座小圆台）"
+        finish: "灯体哑光半透；底座哑光单色"
+      mounting: "顶部小圆台底座直接吸顶，无可见支架"
+      signature_detail: "灯笼式圆筒轮廓——上下对称圆角收口，与底座之间有明显的细腰分件线，增加体积感层次"
+    design_level:
+      score: 4
+      reason: "Chouchin是Foscarini经典系列，东西方灯笼形态融合，比例精准，底座色彩变化提供丰富搭配可能性"
+    design_tags: ["灯笼形态", "乳白玻璃", "东方意象", "漫射光", "底座色彩系统", "竖向拉伸", "圆筒"]
+    hero_feature: "灯笼式竖拉圆筒——上下圆角对称收口形成灯笼节律，东方造型语意与意大利工艺结合"
+    problem_solved: "吸顶灯高度受限时难以形成强造型感，Chouchin用竖向拉伸灯笼比例突破扁平吸顶的视觉平庸"
+    transferable_technique: "竖向圆筒+上下圆角收口+底部微透光缝，三要素组合模拟灯笼意象，底座配色系统扩展SKU不增加模具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_吸顶灯_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/吸顶灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "横向宽扁圆球，顶部白色扁圆底盖，蓝绿背景，底部向下漫射"
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/吸顶灯/05.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款宽扁球，底盖为棕铜色，深棕背景，灯亮状态下底部投光清晰"
+    product_name: "Chouchin Ceiling (Wide)"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯", "扁球形乳白玻璃"]
+    design_language:
+      silhouette: "横向扁球体，宽高比约1.5:1，四角饱满圆润，整体接近正方形超圆角，顶部有薄圆台底盖"
+      light_opening: "灯体360度漫射光，底部向下出光为主，底盖小圆台与灯体之间有细缝出光带"
+      thermal: "扁球形单体，玻璃体积大，内腔散热；底盖小圆台为电气散热接口"
+      cmf:
+        color: "灯体乳白色（亮光玻璃感）；底盖可选白色或古铜/棕色"
+        material: "吹制乳白玻璃（灯体），金属底盖"
+        finish: "灯体亮面光泽（比tall版更光亮）；底盖哑光金属感"
+      mounting: "顶部扁圆底盖直接吸顶，低矮紧贴天花"
+      signature_detail: "宽扁球比例——横向拉宽至方圆边界，底盖金属色与白玻璃形成材质对比，出光缝可见"
+    design_level:
+      score: 4
+      reason: "Chouchin Wide是Chouchin系列中对空间适应性更强的版本，扁球比例在低矮空间中仍保持视觉份量"
+    design_tags: ["扁球形", "乳白玻璃", "漫射光", "底座配色", "横向比例", "方圆边界"]
+    hero_feature: "横向拉宽的圆球——在吸顶灯中突破竖向限制，宽扁比例使灯具在低空间显得更大气"
+    problem_solved: "低矮空间的吸顶灯难以有体积感，宽扁球形态利用横向维度补偿纵向受限"
+    transferable_technique: "将球体沿横轴压扁至1.5:1比例，保持四角圆润；底盖色彩与灯体形成材质/色彩双对比"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_吸顶灯_004"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/吸顶灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "球形灯体全覆水平波纹肌理，黄暖背景，顶部小白底盖，亮灯状态"
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/吸顶灯/08.jpg"
+        image_role: "alternate_size"
+        visual_anchor: "同系列更小尺寸，呈锥形/菠萝顶部收窄轮廓，灰白背景，底部有强出光"
+    product_name: "Gem Ceiling"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯", "肌理玻璃球"]
+    design_language:
+      silhouette: "06号为正球形，全表面覆盖水平波浪肌理线；08号为上窄下宽锥台形变体，同样覆盖波浪肌理线"
+      light_opening: "球体全漫射出光，波纹肌理在点亮时形成同心光晕图案；底部出光强于侧面和顶部"
+      thermal: "球形/锥形玻璃单体，顶部小底盖为散热和电气接口，无外露散热件"
+      cmf:
+        color: "纯白色"
+        material: "模压/吹制纹理玻璃"
+        finish: "哑光纹理表面（波纹），半透光"
+      mounting: "顶部极小白色圆底盖，直接吸顶"
+      signature_detail: "全球面水平波纹肌理——密集等距水平纹路在圆球上形成地球仪般的线条系统，点亮后纹理产生光影层次"
+    design_level:
+      score: 4
+      reason: "Gem用单一肌理元素（水平波纹）统一整个灯体，纹理既是装饰也是光学功能，形态完整性强"
+    design_tags: ["肌理玻璃", "波纹纹理", "球形", "全漫射", "参数化表面", "光影肌理", "白色"]
+    hero_feature: "全球面水平波纹肌理——密集线条在点亮时随球面弯曲产生光学衍射感，暗灭时具雕塑质感"
+    problem_solved: "普通乳白球缺乏视觉细节，Gem用表面肌理在不影响出光的前提下大幅提升装饰价值"
+    transferable_technique: "在圆球/球形灯罩全表面施加等距水平波纹，纹理间距约5-8mm；玻璃半透特性使内部光源透过纹理产生光影层次"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

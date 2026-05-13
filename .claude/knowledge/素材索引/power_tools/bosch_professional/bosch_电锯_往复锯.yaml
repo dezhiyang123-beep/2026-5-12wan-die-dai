@@ -1,0 +1,239 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "往复锯"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bosch_往复锯_001"
+    source_images:
+      - filename: "电锯__往复锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__往复锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "有线往复锯RS系列，深蓝色机身搭配黑色大面积橡胶包覆握把，锯片端部有圆形旋转配件，侧面可见通风槽，电线从机身后部引出，整体呈水平鱼雷型轮廓"
+      - filename: "电锯__往复锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__往复锯__02.jpg"
+        image_role: "variant"
+        visual_anchor: "同款有线往复锯，另一角度，黑色橡胶软包裹面积更大，红色变速滑钮在机身左侧，锯片夹紧机构正视"
+    product_name: "Bosch RS Series Corded Reciprocating Saw"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "水平长条鱼雷型：机身圆柱形延伸至锯片，握把与机身融为一体，前后贯通的直线轮廓"
+      light_opening: "N/A"
+      thermal: "机身两侧规律散热槽"
+      cmf:
+        color: "深蓝色机身，大面积黑色橡胶包覆（防滑握持区），红色功能控制钮"
+        material: "注塑工程塑料机身，橡胶软包（Overmold）"
+        finish: "哑光蓝+哑光黑橡胶软包"
+      mounting: "有线（电源线后出）"
+      signature_detail: "黑色大面积橡胶Overmold包覆握把区，提供防滑和减振；锯片端有弧形防护锯嘴"
+    design_level:
+      score: 3
+      reason: "经典有线往复锯造型，黑蓝双色分区清晰，橡胶包覆区面积大，人机工程感强"
+    design_tags: ["有线", "往复锯", "橡胶包覆", "鱼雷型", "专业级"]
+    hero_feature: "黑色大面积橡胶Overmold包覆与深蓝机身的双色分件，远距离辨识"
+    problem_solved: "拆除施工中对木材、金属管道、石膏板的粗切与拆解"
+    transferable_technique: "大面积软硬材料双色分件区分握持区与机身区（H02包覆+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_往复锯_002"
+    source_images:
+      - filename: "电锯__往复锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__往复锯__03.jpg"
+        image_role: "hero"
+        visual_anchor: "12V迷你往复锯，深蓝色机身，锂电池一体集成在机身尾部，机身极其紧凑短小，锯片短，LITHIUM-ION标签，红色触发安全扣"
+      - filename: "电锯__往复锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__往复锯__04.jpg"
+        image_role: "variant"
+        visual_anchor: "12V PS60 HD迷你往复锯，深蓝色+黑色分区，Bosch圆形H标志在机身中部，PS60 HD标签，黑色底座（电池区），前端支撑足"
+    product_name: "Bosch 12V Max Compact Reciprocating Saw (PS60)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "超紧凑短小形态：机身长度约为全尺寸往复锯的1/2，电池集成于尾部，整体呈短粗的鱼雷型"
+      light_opening: "N/A"
+      thermal: "机身顶部散热孔阵列"
+      cmf:
+        color: "深蓝色机身，黑色电池区/底座，红色功能锁扣"
+        material: "注塑机身，锂电池一体集成"
+        finish: "哑光蓝+哑光黑"
+      mounting: "12V锂电池（尾部一体集成）"
+      signature_detail: "短小紧凑的机身比例；前端支撑脚用于抵靠工件；12V系统的超小体积形态"
+    design_level:
+      score: 4
+      reason: "超紧凑设计在形态上形成强烈区别于全尺寸往复锯的独特轮廓，适合管道/狭小空间作业，设计语言干净"
+    design_tags: ["无线", "12V", "紧凑型", "迷你往复锯", "一体电池"]
+    hero_feature: "超短机身轮廓——视觉上立即传达'紧凑/可进入狭小空间'的产品特性"
+    problem_solved: "狭小空间（管道井、吊顶内）的切割作业，全尺寸往复锯无法进入的工况"
+    transferable_technique: "通过极度压缩机身比例传达产品特性的形态语言（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_往复锯_003"
+    source_images:
+      - filename: "电锯__往复锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__往复锯__05.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线往复锯，深蓝色机身，黑色前端大锥形橡胶握把区，橙色变速滑块，锯片前端裸露无锯嘴护罩，侧面Bosch标识，无电池（裸机）"
+    product_name: "Bosch 18V Cordless Reciprocating Saw (Bare Tool)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "无线往复锯，机身后部电池接口外露，尾部有电池槽，整体比有线款更短更平衡"
+      light_opening: "N/A"
+      thermal: "机身两侧散热槽"
+      cmf:
+        color: "深蓝色机身，黑色前握把区Overmold，橙色变速调节滑块（高对比度功能指示）"
+        material: "注塑机身+橡胶Overmold"
+        finish: "哑光蓝+橡胶哑黑+橙色高亮"
+      mounting: "18V锂电池（尾部槽式接驳）"
+      signature_detail: "橙色变速滑块在黑蓝机身上形成高对比度焦点；电池接口后方延伸出机身后端"
+    design_level:
+      score: 3
+      reason: "色彩三分区（蓝/黑/橙）清晰，功能控件用橙色标识直观，裸机展示强调模块化电池系统"
+    design_tags: ["无线", "18V", "往复锯", "橙色功能键", "裸机"]
+    hero_feature: "橙色变速滑块在蓝黑机身上的高对比度焦点"
+    problem_solved: "无线自由切割，无绳索干扰的拆除和修剪作业"
+    transferable_technique: "橙色高对比功能控件的视觉导引（H12人机界面强化+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_往复锯_004"
+    source_images:
+      - filename: "电锯__往复锯__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__往复锯__06.jpg"
+        image_role: "hero"
+        visual_anchor: "18V往复锯套装CYS180，含深蓝帆布包+CORE18V 2.0电池+充电器，往复锯机身蓝色，锯嘴前端有旋转锁紧圆盘"
+      - filename: "电锯__往复锯__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__往复锯__07.jpg"
+        image_role: "variant"
+        visual_anchor: "18V往复锯套装，含蓝色硬壳提箱（白色BOSCH大字标识）+CORE18V电池+充电器，往复锯机身更现代，黑色前端，蓝色后端"
+    product_name: "Bosch 18V Reciprocating Saw Kit (CYS180 / Hard Case)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "套装展示，展示工具+电池+配件的完整系统"
+      light_opening: "N/A"
+      thermal: "机身散热槽"
+      cmf:
+        color: "套装以蓝色为主色调统一（工具袋/收纳箱均为Bosch蓝），硬箱款有大型白色BOSCH标识"
+        material: "帆布工具袋或硬壳ABS收纳箱"
+        finish: "帆布袋软包/硬箱哑光蓝"
+      mounting: "CORE18V电池系统"
+      signature_detail: "硬壳箱款的大型白色BOSCH字体标识，侧立展示极具品牌冲击力"
+    design_level:
+      score: 3
+      reason: "收纳箱的大型品牌字体标识设计有力，工具+配件系统化展示成熟"
+    design_tags: ["无线", "18V", "往复锯", "硬壳收纳箱", "套装"]
+    hero_feature: "蓝色硬壳收纳箱上的白色大型BOSCH字体——货架展示冲击力"
+    problem_solved: "提供开箱即用的完整套装，降低用户配套购买门槛"
+    transferable_technique: "收纳容器作为品牌展示载体（H08对比强调—白字于蓝箱）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_往复锯_005"
+    source_images:
+      - filename: "电锯__往复锯__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__往复锯__08.jpg"
+        image_role: "hero"
+        visual_anchor: "18V往复锯套装，蓝色帆布包+CORE18V 8Ah大电池+充电器，机身蓝黑双色，前端黑色锥形，BITURBO标识可见，尾部蓝色后把手区"
+      - filename: "电锯__往复锯__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__往复锯__09.jpg"
+        image_role: "variant"
+        visual_anchor: "18V BITURBO往复锯裸机，黑色前段大面积包覆+深蓝后段，BITURBO品牌标识，尾部红色大形触发安全锁，锯嘴接口为弧形导入型"
+    product_name: "Bosch 18V BITURBO Reciprocating Saw (GSA18V-110)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "现代无线往复锯，前黑后蓝的两段式分区，比旧款更流线，锯嘴接口更粗壮"
+      light_opening: "N/A"
+      thermal: "机身侧/顶散热通道"
+      cmf:
+        color: "前端黑色大面积Overmold，后端深蓝色，尾部红色大型安全锁，BITURBO橙色/金色标识"
+        material: "注塑+橡胶Overmold复合机身"
+        finish: "前端哑黑橡胶+后端哑光蓝塑料"
+      mounting: "CORE18V系统（8Ah大电池）"
+      signature_detail: "前黑后蓝的现代分件方式；BITURBO标识用对比色标出；尾部大红色安全锁按键醒目"
+    design_level:
+      score: 4
+      reason: "BITURBO系列设计语言升级，前后分区比例协调，红色安全锁与橙色标识形成有层次的视觉焦点，整体感更高级"
+    design_tags: ["无线", "18V", "BITURBO", "往复锯", "前黑后蓝分区"]
+    hero_feature: "前黑后蓝的现代分件+BITURBO标识——相比旧款有明显设计档次提升"
+    problem_solved: "大功率无线往复锯切割，BITURBO技术提供有线级切割速度"
+    transferable_technique: "前后功能区不同材质/颜色分件，强化功能分区视觉逻辑（H03分件线+H02包覆）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_往复锯_006"
+    source_images:
+      - filename: "电锯__往复锯__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__往复锯__10.jpg"
+        image_role: "hero"
+        visual_anchor: "18V BITURBO往复锯GSA18V-110另一角度，深蓝+黑双色机身，锯嘴接口处有旋转锁紧金属盘，BOSCH H标志和型号标签，TURBO字样红色标识在机身顶部"
+      - filename: "电锯__往复锯__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__往复锯__11.jpg"
+        image_role: "variant"
+        visual_anchor: "18V往复锯GSA18V-126，深蓝+黑机身，前端接口处有橙色亮色旋转锁紧机构，KICKBACK标识，BITURBO标签，最新一代设计"
+    product_name: "Bosch 18V BITURBO Reciprocating Saw GSA18V-126 (Latest Gen)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "最新代往复锯，机身更流线，前端锁紧机构处用橙色高亮，整体分件线更精致"
+      light_opening: "N/A"
+      thermal: "机身散热通道"
+      cmf:
+        color: "深蓝+黑色为主，橙色锁紧旋钮高亮，KICKBACK保护标识白色"
+        material: "注塑+橡胶+金属接口件"
+        finish: "哑光蓝+黑色橡胶+橙色功能件"
+      mounting: "18V CORE系统"
+      signature_detail: "橙色锯片锁紧旋钮在接口处的高对比设计；KICKBACK安全保护功能的外显标识"
+    design_level:
+      score: 4
+      reason: "最新代设计语言成熟，橙色功能件与蓝黑主色形成三色系统，KICKBACK安全功能外显设计体现高端定位"
+    design_tags: ["无线", "18V", "BITURBO", "KICKBACK保护", "最新代", "橙色功能件"]
+    hero_feature: "橙色锯片锁紧旋钮——功能性安全特征的外观视觉化（H11功能外显）"
+    problem_solved: "KICKBACK防护：往复锯卡锯时的反冲保护，提升安全性"
+    transferable_technique: "安全功能通过橙色零件外显于产品设计（H11功能外显+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

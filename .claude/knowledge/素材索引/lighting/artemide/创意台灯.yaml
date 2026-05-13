@@ -1,0 +1,91 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 创意台灯
+  tertiary: 创意台灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/创意台灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_创意台灯_001
+  source_images:
+  - filename: 01.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/创意台灯/01.jpg
+    image_role: hero
+    visual_anchor: 极细立杆支撑超长水平灯条，底部圆盘配重，光线沿桌面横向铺开。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 创意台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 极细立杆支撑超长水平灯条，底部圆盘配重，光线沿桌面横向铺开
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 创意台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 极细立杆支撑超长水平灯条，底部圆盘配重，光线沿桌面横向铺开
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_创意台灯_002
+  source_images:
+  - filename: 02.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/创意台灯/02.jpg
+    image_role: hero
+    visual_anchor: 多只金属机械臂台灯在黄色背景前组合，外露弹簧和关节形成拟人姿态。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 创意台灯
+  design_language:
+    silhouette: 多段细金属臂以铰点连接成折线骨架，末端分别接圆锥灯罩
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 多只金属机械臂台灯在黄色背景前组合，外露弹簧和关节形成拟人姿态
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 创意台灯
+  - 机械臂
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 多只金属机械臂台灯在黄色背景前组合，外露弹簧和关节形成拟人姿态
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

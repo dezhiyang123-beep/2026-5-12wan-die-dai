@@ -1,0 +1,146 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "斜切锯"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_斜切锯_001"
+    source_images:
+      - filename: "电锯__斜切锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__斜切锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL斜切锯3/4侧面全景，亮红色锯臂+电机壳主体，银灰色铸铝底座，大尺寸圆形锯片裸露外侧，黑色布袋式集尘袋悬于后方，Milwaukee FUEL白色logo压印于红色机身；附M18 FORGE HD12.0电池+红色充电器，白色背景产品棚拍"
+      - filename: "电锯__斜切锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__斜切锯__02.jpg"
+        image_role: "feature"
+        visual_anchor: "同款M18 FUEL斜切锯，正侧面视角，突出右侧Wi-Fi/ONE-KEY蓝色图标，黑色织物集尘袋清晰可见Milwaukee徽章，底座旋转刻度盘局部特写，仅主机无配件"
+      - filename: "电锯__斜切锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__斜切锯__03.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "M18 FUEL斜切锯右后45度角，集尘袋与铰接臂结构清晰，锯臂铰接点金属质感外露，无电池裸机状态，底座旋转台刻度盘可见"
+      - filename: "电锯__斜切锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__斜切锯__04.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "M18 FUEL斜切锯左前45度，锯片侧面全貌，红色锯臂与银灰底座色彩对比鲜明，锯臂铰接支撑结构与弹簧回位装置可见，滑动导轨构造外露"
+    product_name: "Milwaukee M18 FUEL Sliding Compound Miter Saw"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "斜切锯"]
+    design_language:
+      silhouette: "台式锯典型轮廓：扇形锯臂+圆形锯片+宽矩形底座三段式构图，锯臂高耸占视觉重心约60%，整体左右不对称（锯片偏左，铰接点偏右）"
+      light_opening: "N/A（台式机无散热开口需求，主要依赖无刷电机被动散热）"
+      thermal: "无刷电机封闭式机壳，无明显散热槽，后端集尘袋兼具排气导向功能"
+      cmf:
+        color: "主色：Milwaukee亮红（Pantone类近185C），次色：银灰铸铝（底座/旋转台），点缀色：哑光黑（集尘袋、把手包胶、铰接件）；红/灰面积比约4:5"
+        material: "锯臂电机壳：玻纤增强尼龙注塑；底座旋转台：压铸铝合金；把手：TPE软包覆；集尘袋：涤纶织物；锯片护罩：透明PC+红色ABS"
+        finish: "红色壳体：高光喷涂；铝底座：喷砂阳极氧化哑光；TPE把手：纹理压花防滑"
+      mounting: "M18平台 18V电池，后置插槽式，电池包自锁卡扣，FORGE系列HD12.0电池"
+      signature_detail: "Milwaukee FUEL白色雷电logo压印+品牌名一体成型于红色机壳侧面；旋转底座刻度盘红色指针标识；滑动导轨银色金属外露"
+    design_level:
+      score: 4
+      reason: "红灰双色明确建立品牌视觉身份，FUEL系列造型语言统一；无刷无线化解决有线束缚，ONE-KEY智能互联为差异化亮点；集尘袋整合方案实用但造型略显粗糙，整体工业感强但无突破性美学创新"
+    design_tags:
+      - "红灰双色"
+      - "M18平台"
+      - "FUEL无刷"
+      - "ONE-KEY互联"
+      - "滑动复合斜切"
+      - "集尘袋"
+      - "铸铝底座"
+      - "台式锯"
+    hero_feature: "亮红色锯臂电机壳与银灰铸铝底座的强对比双色分件，配合Milwaukee FUEL雷电标识，3米外可识别品牌"
+    problem_solved: "无线18V替代有线斜切锯，解决工地电源束缚；ONE-KEY实现转速自定义与防盗追踪"
+    transferable_technique: "H08对比强调：功能件（锯臂/电机）用高饱和品牌红，结构件（底座/导轨）用中性铝灰，形成主次分明的双色分件策略，可迁移至其他大型手持/台式电动工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_斜切锯_002"
+    source_images:
+      - filename: "电锯__斜切锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__斜切锯__05.jpg"
+        image_role: "context"
+        visual_anchor: "M18 FUEL斜切锯安装于Milwaukee专用折叠式移动锯架上，整机+支架组合展示，铝合金锯架横向延伸支撑臂带红色快夹，支架腿细管折叠结构，整体呈工地就绪形态"
+      - filename: "电锯__斜切锯__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__斜切锯__06.jpg"
+        image_role: "accessory"
+        visual_anchor: "Milwaukee斜切锯专用工作台面（黑色金属板），正面平拍，中央嵌入Milwaukee红色标签，四角螺孔，产品编号标牌可见，纯黑色冲压钢板"
+    product_name: "Milwaukee Miter Saw Stand + Work Surface"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "斜切锯"]
+    design_language:
+      silhouette: "锯架：X形折叠腿+横向双延伸臂，整体宽展水平线构图；台面配件：矩形扁平板"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "铝合金锯架：银色本色+红色快夹点缀；台面：哑光黑"
+        material: "锯架：铝合金挤压型材；台面：冲压钢板"
+        finish: "锯架：阳极氧化；台面：粉末涂装"
+      mounting: "台架：快夹式锁紧，兼容Milwaukee及多品牌斜切锯"
+      signature_detail: "红色快夹卡扣在银色铝架上的品牌色点缀"
+    design_level:
+      score: 3
+      reason: "功能导向设计，轻量折叠结构实用，红色快夹保持品牌一致性，无造型突破"
+    design_tags:
+      - "折叠锯架"
+      - "移动工作站"
+      - "铝合金"
+      - "配件生态"
+    hero_feature: "折叠式铝合金锯架，红色快夹系统兼容Milwaukee斜切锯"
+    problem_solved: "解决斜切锯工地移动难题，提供稳定作业平台"
+    transferable_technique: "H05模块化：锯机与支架分离的模块化生态策略，台面配件标准化接口设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_斜切锯_003"
+    source_images:
+      - filename: "电锯__斜切锯__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__斜切锯__07.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线斜切锯（非FUEL系列），红色电机壳+灰色底座，顶部D形把手红色包覆，锯片更大（约12英寸），侧面可见电源线，整体造型更圆润、年代感略旧，Milwaukee白色logo可见"
+    product_name: "Milwaukee Corded Compound Miter Saw"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "斜切锯"]
+    design_language:
+      silhouette: "台式斜切锯经典轮廓，无滑动导轨，锯臂更直接下压式，整体比M18 FUEL更紧凑圆润"
+      light_opening: "N/A"
+      thermal: "电机壳无明显散热槽，依靠风扇内循环"
+      cmf:
+        color: "主色：Milwaukee红，次色：银灰（底座），少量黑色（把手局部）"
+        material: "电机壳：ABS注塑；底座：压铸铝；把手：注塑一体"
+        finish: "红色高光喷涂；铝底座哑光"
+      mounting: "有线交流电，电源线从机身后方引出"
+      signature_detail: "顶部D形把手一体红色成型，Milwaukee logo居侧面中央"
+    design_level:
+      score: 3
+      reason: "经典Milwaukee红色配色保持品牌识别，造型较旧款无设计突破，相比M18 FUEL整体设计语言更平庸"
+    design_tags:
+      - "有线"
+      - "复合斜切"
+      - "经典款"
+      - "红灰配色"
+    hero_feature: "Milwaukee红色D形顶把手与灰色铝底座经典双色组合"
+    problem_solved: "交流电稳定大功率切割，适合固定工位长时间使用"
+    transferable_technique: "H08对比强调：D形把手与底座明确功能分区的双色策略（较早期版本）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

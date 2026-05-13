@@ -1,0 +1,310 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "台灯"
+  tertiary: "创意台灯"
+
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/"
+  generated_at: "2026-05-09"
+
+# 补充batch：创意台灯/77-86.jpg/jpeg（已有文件覆盖01-76，本文件补77-86）
+
+products:
+  - product_id: "if_台灯_创意_b4_001"
+    source_images:
+      - filename: "77.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/77.jpg"
+        image_role: "hero"
+        visual_anchor: "可充电便携手电式台灯：圆柱形灯体，两张图对比展示——左图灯头折叠展开约45°呈投射状态，底部LCD控制面板及功能按钮可见；右图灯头收回与灯身平行呈收纳状态，整体深灰色哑光金属感"
+    product_name: ""
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "创意台灯"
+
+    design_language:
+      silhouette: "圆柱形手电式灯体（长约20cm，径约4cm），顶端灯头可折叠0-90°旋转，底部为控制面板区；整体比例如大号手电，收纳态呈纯圆柱"
+      light_opening: "灯头端面LED发光面，折叠展开后可定向投射；收纳态时发光面朝上"
+      thermal: "LED集成于灯头，铝合金圆柱体兼散热，无独立散热结构"
+      cmf:
+        color: "深灰色全体一色"
+        material: "铝合金挤出圆柱体"
+        finish: "深灰哑光阳极氧化"
+      mounting: "底部平面直立放置，或手持/夹持，内置充电电池"
+      signature_detail: "灯头折叠铰链：唯一可动关节，角度可调实现从泛光到定向投射，折叠后整体回归极简圆柱形态，两种状态都有各自完整度"
+    design_level:
+      score: 3
+      reason: "便携充电台灯的成熟设计语言，折叠灯头是功能性亮点；深灰全体哑光统一；整体无突破性形态，工具性定位清晰"
+    design_tags:
+      - "折叠灯头"
+      - "便携充电台灯"
+      - "手电式圆柱体"
+      - "深灰哑光"
+      - "H07极简整合"
+      - "H12人机界面强化"
+    hero_feature: "折叠灯头：单一铰链实现0-90°角度调节，同时解决收纳紧凑与使用定向投射两种需求，折叠态极简圆柱不破坏整体造型"
+    problem_solved: "桌面需要便携可充电的定向台灯，传统台灯无法手持或携带；折叠灯头+内置电池让产品在固定使用和移动使用之间无缝切换"
+    transferable_technique: "折叠式灯头结构可迁移到任何需要兼顾收纳紧凑性与使用灵活性的便携灯；深灰全体统一是工具性产品建立整体感的高效手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b4_002"
+    source_images:
+      - filename: "78.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/78.jpg"
+        image_role: "hero"
+        visual_anchor: "超薄圆盘臂台灯：红色版与白色版并排，灯头为薄圆盘（厚度约5mm，径约15cm），通过O形环连接件铰接于细杆臂，细杆臂末端以同款O形环连接至圆盘底座，整体由三个同尺寸薄圆盘（灯头/底座/连接环）+两段细杆构成，白底产品图"
+      - filename: "80.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/80.jpg"
+        image_role: "detail"
+        visual_anchor: "同款圆盘台灯细节特写：灯头圆盘正面呈现同心圆环纹理发光面，中央为实心圆，向外辐射多圈同心光环；侧面展示O形环铰接关节与细杆T形连接结构，关节可多向旋转"
+    product_name: ""
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "创意台灯"
+
+    design_language:
+      silhouette: "三圆盘体系：灯头薄圆盘+底座薄圆盘（同尺寸，约径15cm厚5mm）+ O形环铰接关节，两段细杆连接，整体高约35cm；侧面观呈抽象'I'形，正面观灯头圆盘最为主导"
+      light_opening: "灯头圆盘正面同心圆环LED阵列，均匀正向漫射，提供集中桌面照明"
+      thermal: "超薄圆盘内LED阵列，铝合金盘体散热，盘厚约5mm为散热极限设计"
+      cmf:
+        color: "红色版/白色版（灯头+底座+关节同色）"
+        material: "铝合金超薄圆盘 + 金属细杆"
+        finish: "喷涂哑光（红/白）"
+      mounting: "圆盘底座桌面放置，O形环关节可调节灯头角度和臂杆方向"
+      signature_detail: "三同心圆盘语言+O形环关节：灯头、底座、连接环均采用相同直径薄圆盘母题，O形环铰接关节既是结构件又是视觉重复元素，形成强烈的系统性重复美学"
+    design_level:
+      score: 5
+      reason: "设计语言极度自洽：灯头/底座/连接环三个功能完全不同的零件被统一为同一圆盘母题，重复创造系统感；O形环关节既解决多向调节又强化母题；同心圆纹理发光面与外形母题呼应；超薄5mm铝盘是工艺挑战；红白两色选项进一步证明设计逻辑的普适性"
+    design_tags:
+      - "薄圆盘母题"
+      - "O形环铰接"
+      - "同心圆发光面"
+      - "系统性重复"
+      - "超薄铝盘"
+      - "H07极简整合"
+      - "H08对比强调"
+    hero_feature: "三圆盘系统：灯头/底座/关节环三个不同功能件被统一为同一超薄圆盘形态，同心圆LED阵列与圆盘外形呼应，O形环关节成为视觉节奏的重复单元"
+    problem_solved: "台灯通常有灯头/灯臂/底座三个形态各异的功能区，视觉分裂；将三者统一为同一母题形态，在保持可调节性的同时建立极强的雕塑整体感"
+    transferable_technique: "将产品不同功能区统一为同一几何母题是建立强设计语言的最高效手法；O形环铰接关节可迁移到需要多向调节的任何灯具/器具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b4_003"
+    source_images:
+      - filename: "79.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/79.jpg"
+        image_role: "hero"
+        visual_anchor: "有机粗糙穹顶灯罩系统：纸浆/石膏质感哑白粗糙半球形灯罩，分两种规格——大号吊灯（径约40cm）搭配黄铜细杆+黑色底盘吊装；小号台灯版（径约25cm）搭配黄铜短杆桌面版，背景为深灰墙面的场景图"
+      - filename: "86.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/86.jpg"
+        image_role: "scene"
+        visual_anchor: "同款有机穹顶灯更多配置场景：白色背景下两只吊灯+两只台灯并排，展示吊灯版黄铜细线悬吊+台灯版黄铜短杆底座，灯罩质感纸浆/石膏粗糙哑白，整体有强烈的手工艺质感"
+    product_name: ""
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "创意台灯"
+
+    design_language:
+      silhouette: "半球形/穹顶灯罩（大号径约40cm，小号径约25cm），罩壁厚实粗糙；台灯版：黄铜短细杆+小圆底座；吊灯版：黄铜细线悬吊+小圆黑色顶盘"
+      light_opening: "穹顶下开口向下漫射，内壁粗糙面散射出柔和暖光，光线带有有机纹理感"
+      thermal: "低功率LED内置，穹顶体本身隔热，无特殊散热结构"
+      cmf:
+        color: "灯罩哑白粗糙（纸浆/石膏感）+ 黄铜细节（杆/线/底座）"
+        material: "纸浆成型/石膏/陶瓷类灯罩 + 黄铜金属支架"
+        finish: "粗糙哑白无光泽（灯罩）+ 黄铜自然色（结构件）"
+      mounting: "台灯版：桌面黄铜短杆放置；吊灯版：黄铜细线天花板悬吊，两种配置同一灯罩体"
+      signature_detail: "粗糙有机表面与极细黄铜支架的对比：厚重粗糙的穹顶与线状黄铜杆/线之间的材料对比极为强烈；同一灯罩体同时适配台灯和吊灯两种安装方式"
+    design_level:
+      score: 4
+      reason: "手工艺质感灯罩与极细黄铜支架的材料张力是核心设计语言；同一灯罩体可台灯/吊灯两用的系统性强；粗糙哑白的有机表面在当前极简风格市场中形成强烈差异化记忆点"
+    design_tags:
+      - "有机穹顶灯罩"
+      - "纸浆石膏质感"
+      - "黄铜支架"
+      - "台灯吊灯两用"
+      - "手工艺感"
+      - "H10材料表达"
+      - "H08对比强调"
+    hero_feature: "粗糙有机穹顶：纸浆/石膏质感哑白表面与极细黄铜线杆形成强烈材料对比，厚重的手工艺感与轻盈支架并置，形成强记忆点"
+    problem_solved: "市场上台灯/吊灯普遍是光滑工业表面，缺乏手工艺温度感；有机粗糙表面提供差异化的感官体验，同时台灯/吊灯两用减少SKU"
+    transferable_technique: "有机粗糙表面（纸浆/石膏/陶瓷感）与极细金属支架的对比搭配可迁移到任何需要手工艺温度感的灯具；同一主体件双安装方式设计是降低研发成本的有效手段"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b4_004"
+    source_images:
+      - filename: "81.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/81.jpg"
+        image_role: "scene"
+        visual_anchor: "平衡臂配重台灯场景图：深青铜/古铜色金属臂台灯，水平悬臂一端为灯头（圆锥形小型灯罩），另一端为圆形配重锤，垂直立杆落地，整体呈T形杠杆结构，暗调环境场景，黑色背景桌面布置"
+      - filename: "82.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/82.jpg"
+        image_role: "hero"
+        visual_anchor: "同款平衡臂配重台灯产品图：胡桃木底座版本，底座为厚实胡桃木块，垂直黄铜细立杆，水平黄铜臂一端小号锥形铜灯罩，另一端圆形黄铜配重球，白底产品图展示比例关系"
+    product_name: ""
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "创意台灯"
+
+    design_language:
+      silhouette: "T形杠杆结构：垂直立杆（黄铜细杆）+水平悬臂，臂一端锥形小灯罩，另一端圆球配重，底座为胡桃木厚块；整体水平宽度约为灯高1.5倍，强调横向平衡感"
+      light_opening: "小号圆锥形灯罩向下定向投射，光线集中，强调聚焦桌面照明"
+      thermal: "小型LED集成于锥形灯罩内，黄铜灯罩体兼散热"
+      cmf:
+        color: "黄铜/古铜色（金属件全体）+ 胡桃木底座（深棕暖色）"
+        material: "黄铜实心圆杆+配重球+锥形灯罩 + 胡桃木底座"
+        finish: "黄铜哑光拉丝（金属件）+ 胡桃木自然纹理油蜡"
+      mounting: "胡桃木底座桌面放置，配重球平衡悬臂重量，无弹簧结构"
+      signature_detail: "杠杆配重结构外显：圆形配重球不隐藏在底座内而是外露于臂端，将物理平衡原理转化为视觉语言，形成强烈的机械美学叙事"
+    design_level:
+      score: 4
+      reason: "杠杆配重结构外显是核心设计叙事——物理原理变为美学语言；黄铜+胡桃木的材料搭配是成熟的工艺美学语法；T形杠杆轮廓在侧面观有极强的识别记忆点；整体无多余装饰，结构即设计"
+    design_tags:
+      - "杠杆配重结构"
+      - "平衡臂台灯"
+      - "黄铜胡桃木"
+      - "结构外显"
+      - "机械美学"
+      - "H11功能外显"
+      - "H10材料表达"
+    hero_feature: "外露配重球杠杆结构：圆形黄铜配重球置于臂端而非隐藏，将平衡物理原理转化为视觉叙事，T形轮廓在任何角度都形成强烈的雕塑记忆"
+    problem_solved: "台灯悬臂通常靠弹簧或阻尼铰链维持平衡，这些结构被隐藏；配重球外显不仅是诚实的工程叙事，还形成独特的视觉识别符号"
+    transferable_technique: "将平衡/结构功能件外显为视觉主角（H11）可迁移到任何有悬臂/配重需求的灯具或器具；黄铜+胡桃木材料搭配在工艺感消费品中是经典高转化率组合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b4_005"
+    source_images:
+      - filename: "83.jpeg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/83.jpeg"
+        image_role: "hero"
+        visual_anchor: "蘑菇褶皱灯罩台灯全貌：半球形灯罩表面布满竖向褶皱肌理（类折扇/百褶裙），暖白色半透明材质，罩下可透出暖光光晕；纤细立杆+小圆底座，整体比例如蘑菇，白底产品图"
+      - filename: "84.jpeg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/84.jpeg"
+        image_role: "detail"
+        visual_anchor: "同款蘑菇褶皱台灯底部细节：底座内嵌USB-C充电口特写，底座为哑白圆形薄盘，USB-C口位于底座侧壁，与底座颜色融合处理"
+    product_name: ""
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "创意台灯"
+
+    design_language:
+      silhouette: "蘑菇形：褶皱半球灯罩（径约20cm）+ 极细立杆（约3mm径）+ 薄圆底座（径约12cm），灯罩与底座径比约1.7:1，罩与底座之间立杆极细，形成蘑菇倒置意象"
+      light_opening: "褶皱半透明罩体360°漫射发光，褶皱纹理在点亮时投射线状光影图案于周围环境"
+      thermal: "低功率LED内置，半透明罩体轻微散热，底座含驱动电路"
+      cmf:
+        color: "暖白全体（灯罩/杆/底座同色调）"
+        material: "半透明褶皱聚合物/纸质灯罩 + 金属极细杆 + 圆盘底座"
+        finish: "哑白半透明（灯罩）+ 哑白（底座）"
+      mounting: "底座USB-C充电，无线充电版本；桌面放置"
+      signature_detail: "百褶裙褶皱灯罩：竖向密集褶皱在关灯时呈现织物雕塑感，点亮后褶皱投射竖向线条光影于桌面和墙面，功能与装饰效果合一"
+    design_level:
+      score: 4
+      reason: "褶皱肌理是核心设计语言：关灯时有雕塑感，点亮时投射线状光影增加环境氛围层次；蘑菇比例加深记忆点；USB-C集成处理干净；整体极简形态配合肌理细节，执行精准"
+    design_tags:
+      - "百褶裙褶皱灯罩"
+      - "蘑菇形台灯"
+      - "USB-C充电"
+      - "光影纹理"
+      - "暖白全体"
+      - "H04参数化"
+      - "H07极简整合"
+    hero_feature: "密集竖向褶皱灯罩：关灯时呈现织物雕塑感，点亮后褶皱将光线分割为竖向线条投影于环境，一个肌理同时解决外观识别和氛围效果两个问题"
+    problem_solved: "氛围台灯通常只靠色温或亮度调节来创造氛围，缺乏光影立体感；褶皱灯罩将光线塑造成有纹理的空间光，大幅提升环境氛围层次"
+    transferable_technique: "密集均匀褶皱/肋条肌理可迁移到任何需要关灯时有雕塑感、点亮时有光影效果的灯罩设计；蘑菇比例（大灯罩+极细杆）是创造强烈比例对比记忆点的有效策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b4_006"
+    source_images:
+      - filename: "85.jpeg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/85.jpeg"
+        image_role: "hero"
+        visual_anchor: "MoriMori品牌LED T-Light LOUNGE：超低UFO比例台灯，薄圆盘灯罩（径约25cm，厚约3cm）+ 短圆柱漫射体（高约5cm，径约10cm）+ 超薄圆盘底座，三件同心堆叠，整体高约12cm，宽高比约2:1，白色磨砂材质，白底产品图"
+    product_name: "LED T-Light LOUNGE"
+    brand_name: "MoriMori"
+    brand_confidence: "high"
+
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "创意台灯"
+
+    design_language:
+      silhouette: "三层同心堆叠：超薄底盘（最大径）+ 短圆柱漫射体（中间）+ 薄圆盘灯罩帽（最大径，与底盘同径），整体宽高比约2:1，极度扁平的UFO/飞碟轮廓，三件同轴心"
+      light_opening: "圆柱漫射体360°侧向发光 + 顶盘向下漫射双向出光，整体柔和泛光"
+      thermal: "LED集成于圆柱漫射体内，超薄结构依赖低功率LED，无独立散热"
+      cmf:
+        color: "全体哑白磨砂"
+        material: "磨砂聚碳酸酯/玻璃漫射件 + 哑白塑料/铝合金盘体"
+        finish: "哑白磨砂均匀（全体同材质感）"
+      mounting: "超薄底盘桌面放置，内置充电电池，无线充电"
+      signature_detail: "三层同心同径堆叠：上盘/中柱/下盘三件通过尺寸关系精确嵌套，关灯时看起来像一件雕塑，点亮后圆柱腰部发光使三层分界清晰显现"
+    design_level:
+      score: 4
+      reason: "UFO极扁比例是强烈的形态记忆点；三层同心堆叠在关灯/点亮时呈现完全不同的视觉层次；全哑白磨砂将产品推向纯形态雕塑；MoriMori品牌一贯的减法精准执行"
+    design_tags:
+      - "UFO扁平台灯"
+      - "三层同心堆叠"
+      - "磨砂白全体"
+      - "圆柱漫射腰部"
+      - "MoriMori"
+      - "H01减法"
+      - "H07极简整合"
+    hero_feature: "超扁UFO三层结构：薄盘+圆柱+薄盘同心堆叠，宽高比2:1的极扁比例+关灯时雕塑感+点亮时腰部圆柱发光揭示层次，形成高识别度的形态语言"
+    problem_solved: "台灯通常高度大于宽度，占据视线高度；超扁UFO比例将台灯压缩为接近桌面的存在，既减少空间占用又形成强差异化形态"
+    transferable_technique: "极扁宽高比（>2:1）是台灯差异化的有效形态策略；同心堆叠的多层结构在关灯/点亮状态下呈现视觉切换效果，可迁移到任何需要两种状态差异的灯具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,709 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "台灯"
+  tertiary: "创意台灯"
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_台灯_创意_b2_001"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图：全红配色台灯置于深色办公桌，细长U形金属框架从圆形底座垂直延伸后回折，顶端通过短横臂连接一枚扁圆形哑光红色灯头（直径约为灯身宽度2倍），灯头可旋转调向，整体像一根别针或发夹，纯色单调无装饰，黑色电源线从底座引出"
+    product_name: "发夹形单色调节台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "U形细杆框架 + 扁圆碟形灯头，侧视呈字母P状，灯头偏置于框架顶端横臂，视觉重心偏上"
+      light_opening: "灯头正面朝下出光，可绕横臂轴旋转调节角度，直接照明"
+      thermal: "灯头体积较小，内置LED，无可见散热结构"
+      cmf:
+        color: "全身统一深红色（哑光），仅电源线为黑色"
+        material: "金属杆件 + 金属底座 + 金属灯头"
+        finish: "全件哑光喷涂，无高光装饰"
+      mounting: "圆形底座落台，重力稳定"
+      signature_detail: "U形回折框架结构——同一根杆从底座出发向上延伸、在顶部弯折回来形成闭合框架，形似发夹/别针，整体感强，无多余分件"
+    design_level:
+      score: 4
+      reason: "U形一体框架是强记忆点，全身单色无杂质，造型极简但识别度高；灯头比例与框架形成张力，是成熟的极简主义台灯设计"
+    design_tags: ["U形框架", "单色调", "全金属", "极简", "可调角度", "发夹结构", "H01减法", "H03分件线", "H07极简整合"]
+    hero_feature: "U形回折闭合框架——同一根金属杆从底座出发又回到灯头旁边，形成发夹式结构，去掉它立刻变成普通台灯"
+    problem_solved: "普通台灯杆件与灯头是两段式结构，视觉破碎；该设计将支撑杆设计成回折闭合框，使灯整体成为一个雕塑体"
+    transferable_technique: "U形/发夹式闭合框架结构可迁移至任何需要'单体雕塑感'的台灯或落地灯，尤其适合小型阅读灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_002"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/24.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图：台灯置于餐厅长桌，整体呈两件套结构：下部为哑光深棕色倒锥形底座（无杆，直接托举灯体），上部为圆润方糖形磨砂白色玻璃球灯罩，灯罩与底座交接处有一圈细窄金色/原木色颈环，点亮后玻璃球均匀漫射暖白光，背景为温室绿植"
+    product_name: "倒锥底座+圆润玻璃球便携台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "倒锥形底座（宽底收顶）直接托举圆润方糖球形灯罩，两件式，整体轮廓呈酒杯状，高宽比约2:1"
+      light_opening: "磨砂玻璃球全向漫射出光，360°均匀氛围照明"
+      thermal: "底座内置电池/驱动，无外露散热结构"
+      cmf:
+        color: "底座哑光深炭黑/深棕色，灯罩乳白磨砂，颈环金属原木色"
+        material: "底座金属或陶瓷 + 磨砂玻璃球灯罩 + 金属颈环"
+        finish: "底座哑光涂装，玻璃球磨砂处理，颈环拉丝金属"
+      mounting: "底座落台，疑似内置电池可无线使用"
+      signature_detail: "倒锥底座直接与圆润球形灯罩对接，无杆无颈，两种几何体（锥体+球体）直接咬合，接缝处细金属环收边"
+    design_level:
+      score: 4
+      reason: "造型极度纯净，两种几何体直接碰撞产生强张力，颈环是精准的分件线处理，磨砂玻璃球光感温柔，整体高级感强"
+    design_tags: ["倒锥底座", "磨砂玻璃球", "两件式", "便携台灯", "氛围照明", "无杆结构", "H07极简整合", "H10材料表达", "H08对比强调"]
+    hero_feature: "倒锥底座直接顶住球形灯罩——无杆无颈，两种几何体裸接，颈环精准收边，去掉这个对接关系立刻变成普通台灯"
+    problem_solved: "便携台灯通常造型累赘，该设计以最少零件数实现高辨识度，底座即结构即装饰"
+    transferable_technique: "几何体直接咬合（无过渡杆件）的台灯结构，适合便携台灯、床头灯的极简化设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_003"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/25.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图：台灯置于木质床头柜，整体为蘑菇形两件套：下部为厚实锥形实木底座（天然木纹，哑光），上部为宽边圆形鼓型亚麻布灯鼓（横向宽度约为底座顶部直径2.5倍），灯鼓被透明亚克力圆盘上下夹住，顶部有小型碟形金属拨片控制器，点亮后亚麻布透出柔和暖黄光"
+    product_name: "实木锥底+亚麻鼓形灯罩转盘控制台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "锥形实木底座（底宽顶窄）托举宽扁圆鼓形灯罩，整体轮廓呈T形，灯罩宽度远大于底座，形成悬浮感"
+      light_opening: "亚麻布鼓形灯罩360°侧向漫射，顶部透明亚克力面板亦出光，多向氛围照明"
+      thermal: "LED驱动内置底座，无外露散热"
+      cmf:
+        color: "底座天然木色（浅橡木/柚木），灯鼓亚麻米白色，亚克力透明，顶部拨片深绿/深灰金属"
+        material: "实木底座 + 亚麻织物灯鼓 + 透明亚克力上下盖板 + 金属旋转拨片控制器"
+        finish: "实木哑光油蜡处理，亚麻自然纹理，亚克力光学透明"
+      mounting: "实木底座落台，重力稳定"
+      signature_detail: "圆鼓灯罩被透明亚克力上下夹住，顶部小碟形拨片旋转调光，触感交互与造型融为一体；亚麻布纹理点亮后形成温暖肌理光效"
+    design_level:
+      score: 5
+      reason: "实木+亚麻+透明亚克力三材质对话精准，旋转拨片调光控制器是真正的Hero Feature，造型比例（T形宽灯罩+细底座）极具张力，属iF高分作品"
+    design_tags: ["实木底座", "亚麻灯鼓", "旋转调光", "T形比例", "三材质", "氛围照明", "H10材料表达", "H12人机界面强化", "H08对比强调"]
+    hero_feature: "顶部碟形旋转拨片调光控制器——将旋钮设计成碟形装饰件嵌入灯罩顶面，触控即审美，去掉它立刻变成普通台灯"
+    problem_solved: "台灯调光控制通常是背面按钮或触摸点，该设计将控制器做成顶部装饰性旋转拨片，交互动作即仪式感"
+    transferable_technique: "旋转拨片/旋钮做成顶部装饰件的调光方式，可迁移至任何需要'触控即美学'的桌面灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_004"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/26.jpg"
+        image_role: "hero"
+        visual_anchor: "产品图：乳白色蘑菇形台灯，底部为倒锥形灯柱，顶部为宽边梯形灯罩，灯罩与灯柱一体成型或无缝衔接，全件表面覆盖细密横向线纹（3D打印层线纹理），点亮后线纹透光形成均匀暖黄光晕，整体呈奶油白色调，电源线从底部引出"
+    product_name: "3D打印层纹一体成型蘑菇台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "倒锥灯柱+宽边梯形灯罩蘑菇形，两者一体成型无分件线，高宽比约1:1，敦实圆润"
+      light_opening: "全身半透明材质，360°均匀漫射出光，兼作氛围灯"
+      thermal: "小型LED，热量低，无需专用散热结构"
+      cmf:
+        color: "全件奶油白/米白色"
+        material: "半透明PLA或白色树脂（3D打印），无金属件"
+        finish: "3D打印层线纹理外露，形成细密横向纹理表面"
+      mounting: "底部平面落台"
+      signature_detail: "3D打印层线纹理全身外露，点亮后层线透光形成细条纹光晕，工艺即装饰，制造痕迹成为美学语言"
+    design_level:
+      score: 4
+      reason: "将3D打印工艺痕迹（层线）转化为装饰肌理是真正的设计转化，全件一体成型无分件线，材料与工艺高度统一，识别度强"
+    design_tags: ["3D打印", "层纹肌理", "一体成型", "蘑菇形", "半透明", "氛围照明", "H10材料表达", "H04参数化", "H07极简整合"]
+    hero_feature: "3D打印层线纹理全身外露——制造工艺痕迹直接成为装饰肌理，点亮后线纹透光，工艺即美学"
+    problem_solved: "3D打印产品通常掩盖层线瑕疵，该设计反其道而行将层线外露并借助半透明材质放大为光效纹理"
+    transferable_technique: "将3D打印层线纹理作为主动设计语言（而非掩盖的缺陷），可迁移至任何需要'工艺外显'的小型发光产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_005"
+    source_images:
+      - filename: "27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/27.jpg"
+        image_role: "hero"
+        visual_anchor: "产品图：深橄榄绿蘑菇形台灯，形态与26.jpg高度相似（倒锥灯柱+梯形灯罩），但灯头与灯柱交界处可见放射状花瓣形光学透镜结构，透镜在灯头与底座之间形成可见的星形/莲花形折射光环，整体材质为哑光深色，背景为浅米色"
+    product_name: "花瓣光学透镜蘑菇台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "倒锥灯柱+梯形灯罩蘑菇形，两段式，交界处有一圈外凸的花瓣形光学透镜环，使灯头底部产生发光裙边"
+      light_opening: "灯头顶面不出光，光线通过花瓣形透镜环向下360°折射出光，形成独特光环效果"
+      thermal: "LED内置灯头，热量通过底座材质散发"
+      cmf:
+        color: "全件深橄榄绿哑光色"
+        material: "金属或工程塑料主体 + 透明/半透明光学级透镜环"
+        finish: "主体哑光喷涂，透镜环光学级透明"
+      mounting: "底部平面落台"
+      signature_detail: "灯头与底座交界处的放射状花瓣形光学透镜——是唯一出光结构，点亮后形成发光莲花/星形光环，关灯时透镜本身即是装饰细节"
+    design_level:
+      score: 5
+      reason: "将光学透镜设计成花瓣/莲花形并放置于灯头腰部是极强的Hero Feature，造型整体低调但点亮后有戏剧性惊喜感，工程美学与装饰美学高度统一"
+    design_tags: ["花瓣光学透镜", "莲花光环", "蘑菇形", "深色系", "哑光", "光学装饰", "H11功能外显", "H06仿生", "H08对比强调"]
+    hero_feature: "花瓣形光学透镜腰环——功能性透镜被造型成莲花花瓣，是唯一出光点，点亮时形成360°星形光环，关灯时是精密装饰件"
+    problem_solved: "蘑菇形台灯造型雷同，该设计通过在灯腰处引入花瓣形光学透镜制造唯一记忆点，解决了此类台灯'点亮前后视觉差异太小'的问题"
+    transferable_technique: "将光学透镜做成仿生（花瓣/莲花）形状并置于灯腰，可迁移至任何需要'点亮惊喜感'的小型台灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_006"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/28.jpg"
+        image_role: "context"
+        visual_anchor: "使用场景图：与25.jpg为同一款台灯（实木锥底+亚麻鼓形灯罩），展示手触碰顶部碟形拨片调光的交互动作，手部动作清晰可见——食指下压旋转顶部小碟，确认调光交互方式为'顶部旋转拨片'"
+    product_name: "实木锥底+亚麻鼓形灯罩转盘控制台灯（交互细节）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "同25.jpg：锥形实木底座+宽扁圆鼓形亚麻灯罩，T形比例"
+      light_opening: "亚麻布360°侧向漫射，顶部亚克力面板透光"
+      thermal: "内置底座，无外露散热"
+      cmf:
+        color: "底座天然木色，灯鼓亚麻米白，顶部拨片深色金属"
+        material: "实木 + 亚麻 + 透明亚克力 + 金属拨片"
+        finish: "同25.jpg"
+      mounting: "实木底座落台"
+      signature_detail: "顶部旋转碟形拨片——手部交互动作验证：食指下压旋转，调光手势简洁直觉"
+    design_level:
+      score: 5
+      reason: "同25.jpg，此图补充验证顶部旋转调光交互，交互动作极简优雅，与造型语言完全融合"
+    design_tags: ["旋转调光", "顶部控制器", "实木", "亚麻", "T形比例", "交互设计", "H12人机界面强化", "H10材料表达"]
+    hero_feature: "顶部碟形旋转拨片调光（同25.jpg）——此图验证交互手势"
+    problem_solved: "同25.jpg"
+    transferable_technique: "旋转拨片调光顶部控制器的交互设计手势参考，可用于台灯人机交互设计研究"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_007"
+    source_images:
+      - filename: "29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/29.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图（暗背景）：复古宫廷风台灯，整体为传统台灯造型——圆形金属底座+四球堆叠柱形灯柱+梯形灯罩；灯柱由四个串联的橄榄球形透明玻璃球组成，每个玻璃球内有竖向LED灯管发光；灯罩为半透明烟灰色玻璃梯形罩，镀铬金属配件连接各部件，点亮后玻璃球发白光，整体金碧与透明对比强烈"
+    product_name: "四球叠柱透明玻璃LED复古台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "圆形底座+四球叠柱+梯形罩，高挑复古传统台灯轮廓，高宽比约3:1，灯柱视觉最丰富"
+      light_opening: "灯柱四球全向发光（360°透明玻璃球），灯罩漫射向下出光，双层次照明"
+      thermal: "四根细LED灯管内置于玻璃球中，发热量低"
+      cmf:
+        color: "透明玻璃球体（无色通透），烟灰色玻璃灯罩，镀铬金属连接件，金属底座"
+        material: "吹制透明玻璃球 + 烟灰色玻璃灯罩 + 镀铬金属架 + 金属底座"
+        finish: "玻璃高透明，金属镜面镀铬，灯罩微透明烟灰"
+      mounting: "圆形金属底座落台，重力稳定"
+      signature_detail: "四个橄榄球形透明玻璃球串联成灯柱，每球内有独立LED灯管，球间镀铬金属环连接，形成'珍珠项链'式发光柱体"
+    design_level:
+      score: 4
+      reason: "将传统台灯灯柱拆解为四个可见发光玻璃球，将工程结构（LED+支撑件）完全可视化，复古与现代LED技术融合，识别度高"
+    design_tags: ["四球叠柱", "透明玻璃", "镀铬金属", "复古风格", "可视化LED", "双层次照明", "H11功能外显", "H10材料表达", "H08对比强调"]
+    hero_feature: "四个橄榄形透明玻璃球串联发光柱——传统台灯灯柱被替换为四个独立发光玻璃球，关灯是雕塑，开灯是水晶柱"
+    problem_solved: "传统台灯灯柱是纯装饰无功能，该设计将灯柱本身变成主要发光体，结构即功能即装饰"
+    transferable_technique: "将台灯支撑柱设计成串联发光体（玻璃球/管/棒），可迁移至任何需要'柱身发光'的装饰台灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_008"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/30.jpg"
+        image_role: "hero"
+        visual_anchor: "产品展示图（白底）：三款同系列迷你台灯并排，从左至右配色为炭黑、中灰、珍珠白；每款均为：圆形薄底座+细直圆杆+偏置水平圆柱形灯头（灯头约45°斜上方出光），灯头正面可见发光圆点，整体造型如微型工业聚光灯，极简无装饰"
+    product_name: "三色系列迷你偏置圆柱聚光台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "圆形薄底座+极细直杆+圆柱形灯头偏置斜上，侧视呈T加斜杆结构，整体轻巧，灯头圆柱直径约为杆直径3倍"
+      light_opening: "圆柱灯头正面出光（定向聚光），斜向约45°照射，精准任务照明"
+      thermal: "小型LED，热量低，灯头体积小，无外露散热"
+      cmf:
+        color: "三色版本：炭黑/中灰/珍珠白，每款全身单色"
+        material: "全金属（铝合金或钢）"
+        finish: "哑光喷涂，无高光装饰"
+      mounting: "圆形薄底座落台，灯杆可能支持倾斜调节"
+      signature_detail: "水平圆柱灯头以90°垂直于灯杆偏置安装，形成'T'末端悬挑，整体造型像一根微型工业聚光灯架"
+    design_level:
+      score: 4
+      reason: "极简工业风造型语言精准，三色系列策略清晰，偏置圆柱灯头是强记忆点，零件数极少，造型功能合一"
+    design_tags: ["圆柱灯头", "偏置安装", "极细杆", "工业风", "三色系列", "聚光台灯", "H01减法", "H07极简整合", "H11功能外显"]
+    hero_feature: "圆柱形灯头垂直于杆轴偏置安装——产生强烈的工业感悬挑张力，三色单色系列化让造型语言更纯粹"
+    problem_solved: "小型台灯造型通常繁琐，该设计以最少零件数实现工业聚光灯的视觉张力"
+    transferable_technique: "灯头以90°偏置于支杆末端（悬挑安装）的结构，可迁移至需要工业感的迷你台灯、夹灯等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_009"
+    source_images:
+      - filename: "34.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/34.jpg"
+        image_role: "hero"
+        visual_anchor: "产品图（白底）：创意台灯将灯具与木质托盘融合，整体为大直径浅碟形实木圆盘（胡桃木色，有同心圆挖槽分区），圆盘偏心位置有一个较小的凹槽嵌入圆形玻璃灯球（磨砂乳白），灯球直径约为圆盘直径1/4，侧面可见黄铜小螺丝，整体极低矮，无灯杆"
+    product_name: "胡桃木托盘嵌入式灯球台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "超扁圆形木托盘为主体，偏心嵌入小灯球，整体高度极低（约8-10cm），宽度约为高度5倍，完全颠覆传统台灯高耸轮廓"
+      light_opening: "磨砂玻璃球漫射出光，仅为局部点光源，弱氛围照明"
+      thermal: "LED内置底盘，功率低，木盘导热"
+      cmf:
+        color: "胡桃木深棕色木盘，磨砂乳白玻璃球，黄铜小配件"
+        material: "实木（胡桃木）托盘 + 磨砂玻璃球 + 黄铜五金"
+        finish: "木盘哑光油蜡，玻璃球磨砂，黄铜自然氧化"
+      mounting: "木盘直接平置桌面"
+      signature_detail: "灯球偏心嵌入木盘同心圆凹槽——灯具即托盘，照明即陈设，类似日本Wabi-sabi器物美学，黄铜螺丝点缀精致"
+    design_level:
+      score: 5
+      reason: "品类假设挑战：彻底颠覆'台灯必须有灯杆'的假设，将灯具做成桌面托盘，功能与陈设合二为一，材质组合极高级，识别度极强"
+    design_tags: ["无杆台灯", "木托盘", "嵌入式灯球", "胡桃木", "黄铜", "品类假设挑战", "H06仿生", "H10材料表达", "H07极简整合"]
+    hero_feature: "灯具即托盘——将台灯做成胡桃木浅碟形托盘，灯球偏心嵌入其中，彻底消灭灯杆，去掉这个概念立刻变回普通台灯"
+    problem_solved: "台灯在不使用时是桌面障碍物，该设计让台灯即使关灯也是一件精美陈设品，同时兼具收纳托盘功能"
+    transferable_technique: "将灯具基座扩展为功能性托盘/陈设品，灯球偏心嵌入，可迁移至床头灯、玄关灯等需要'灯具即家具'的场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_010"
+    source_images:
+      - filename: "35.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/35.jpg"
+        image_role: "hero"
+        visual_anchor: "产品图（白底）：台灯由折线形黑色哑光金属杆+倾斜圆环形LED灯头组成，金属杆从圆形底座垂直向上，在约2/3高度处折弯形成斜向折线，折线末端连接倾斜圆环LED灯头（玫瑰金色圆环，内侧出光），灯头可绕折线末端旋转调节，圆环直径约为灯杆高度1/3"
+    product_name: "折线杆倾斜圆环LED台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "圆形底座+折线杆（直+斜两段）+倾斜圆环灯头，侧视呈Z形或闪电形，圆环灯头倾斜约30°"
+      light_opening: "圆环LED内侧（环面）向下漫射出光，形成圆形光斑，直接任务照明"
+      thermal: "LED集成于圆环内侧，功率中等，金属环散热"
+      cmf:
+        color: "底座+杆件哑光黑，灯头圆环玫瑰金（金色拉丝）"
+        material: "黑色金属杆件 + 玫瑰金铝合金圆环灯头"
+        finish: "杆件哑光黑喷涂，圆环拉丝玫瑰金阳极氧化"
+      mounting: "圆形底座落台，重力稳定"
+      signature_detail: "倾斜圆环LED灯头——圆环本身是发光体，内侧LED条均匀出光，圆环倾斜角度产生优雅动势，黑杆+玫瑰金圆环双色对比鲜明"
+    design_level:
+      score: 4
+      reason: "折线杆+倾斜圆环灯头是强记忆点组合，黑+玫瑰金双色对比成熟，圆环发光面设计精准，整体比例优雅"
+    design_tags: ["圆环灯头", "折线杆", "玫瑰金", "双色对比", "倾斜圆环", "H11功能外显", "H08对比强调", "H03分件线"]
+    hero_feature: "倾斜圆环LED灯头——圆环本身是发光结构，内侧均匀出光，倾斜安装产生动感，玫瑰金配黑色杆件对比精准"
+    problem_solved: "台灯灯头通常是实体遮光罩，该设计将灯头替换为开放圆环，光线可见路径更清晰，造型更通透轻盈"
+    transferable_technique: "圆环/椭圆环作为台灯灯头（内侧出光）的设计语言，配折线杆实现造型张力，可迁移至阅读台灯、办公台灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_011"
+    source_images:
+      - filename: "36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/36.jpg"
+        image_role: "hero"
+        visual_anchor: "产品图：椭圆形台灯，整体呈竖立的胖椭圆体，无灯杆无底座，直接落桌；上下各有一圈哑光黑色金属窄环收边，中间主体为紫灰色细密网状织物（针织或编织），点亮后织物透光形成均匀暖黄光晕，电源线从底部引出"
+    product_name: "竖椭圆针织织物台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "竖立椭圆体，无杆无底座，上下黑色金属窄环收边，高宽比约1.6:1，造型如一个发光的纺锤"
+      light_opening: "针织织物全身360°漫射出光，极柔和氛围照明"
+      thermal: "LED内置，低功率，金属环收边散热"
+      cmf:
+        color: "主体紫灰/薰衣草灰针织织物，上下哑光黑金属环"
+        material: "针织/编织织物灯罩 + 上下哑光黑金属收边环"
+        finish: "织物自然纹理，金属环哑光喷涂"
+      mounting: "底部金属环直接落台"
+      signature_detail: "针织织物包覆椭圆形灯体全身，上下金属环双重收边，无杆无底座，整体是一个纺锤形发光织物球，织物色彩为柔和紫灰"
+    design_level:
+      score: 4
+      reason: "织物包覆无杆台灯是强材质表达，紫灰色织物+黑金属环对比精准，椭圆比例饱满，整体有手工感与温度感"
+    design_tags: ["织物台灯", "针织灯罩", "椭圆形", "无杆无底座", "紫灰色", "氛围照明", "H10材料表达", "H02包覆", "H07极简整合"]
+    hero_feature: "针织织物包覆椭圆灯体——织物即灯罩，点亮后针织孔洞形成细密光晕，无杆无底座，整体是一件纺织品雕塑"
+    problem_solved: "台灯织物灯罩通常是附加件，该设计将织物直接包裹整个灯体，结构与灯罩合二为一，消除了多余构件"
+    transferable_technique: "针织/编织织物全身包覆灯体（无杆无底座）的设计语言，可迁移至床头台灯、便携氛围灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_012"
+    source_images:
+      - filename: "37.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/37.jpg"
+        image_role: "hero"
+        visual_anchor: "产品图：与36.jpg同系列，形态为更圆润的扁球形（宽扁椭圆），同样的紫灰色针织织物包覆，上下黑色金属窄环，但整体更矮宽（高宽比约0.8:1），形似一个发光的南瓜或宝石切面，电源线从底部引出"
+    product_name: "扁球形针织织物台灯（同系列宽扁版）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "宽扁椭圆体（高宽比约0.8:1），比36.jpg更矮宽，上下黑色金属窄环，整体如一个发光的扁南瓜"
+      light_opening: "针织织物全身360°漫射出光，极柔和氛围照明"
+      thermal: "同36.jpg"
+      cmf:
+        color: "同36.jpg：紫灰针织织物+哑光黑金属环"
+        material: "同36.jpg：针织/编织织物 + 哑光黑金属收边环"
+        finish: "同36.jpg"
+      mounting: "底部金属环直接落台"
+      signature_detail: "扁球比例（相比36.jpg的竖椭圆）产生不同视觉重量感，两款形成系列：一竖一扁，同材质同配色不同比例"
+    design_level:
+      score: 4
+      reason: "同36.jpg系列，扁球比例产生不同的视觉重量，两款系列策略完整，验证了针织织物包覆台灯的品类延展性"
+    design_tags: ["织物台灯", "针织灯罩", "扁球形", "无杆无底座", "紫灰色", "系列设计", "H10材料表达", "H02包覆", "H05模块化"]
+    hero_feature: "同36.jpg，扁球比例为系列第二款，通过比例变化扩展产品家族"
+    problem_solved: "同36.jpg"
+    transferable_technique: "针织织物台灯系列化（通过改变高宽比形成竖椭圆+扁球两款），低成本实现产品家族"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_013"
+    source_images:
+      - filename: "39.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/39.jpg"
+        image_role: "hero"
+        visual_anchor: "产品图（白底）：银色细高台灯，底座为哑光黑+白双色扁圆底座，细圆直杆从底座中心垂直延伸，顶端连接银色锥台形灯罩（大口朝下出光，侧面有竖向切口形成通风/装饰缝），灯罩顶部有一小黑色矩形物件（疑为USB充电口）；全件银色+局部黑色"
+    product_name: "细高杆锥台灯罩切缝台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "扁圆底座+超细直杆+倒锥台灯罩，高瘦比约4:1，灯罩大口朝下，锥面有竖向切缝细节"
+      light_opening: "锥台灯罩大口朝下出光，定向向下照明"
+      thermal: "LED内置灯罩顶部，竖向切缝兼作散热通风"
+      cmf:
+        color: "灯罩+杆件银色（金属铝），底座双色（白上黑下），顶部USB件黑色"
+        material: "铝合金灯罩+杆件 + 双色塑料/金属底座"
+        finish: "铝合金拉丝/哑光，底座哑光喷涂"
+      mounting: "扁圆底座落台"
+      signature_detail: "锥台灯罩侧面竖向切缝——既是散热通风口又是装饰分件线，使灯罩从实体锥变成有节奏感的分片锥；灯罩顶部疑有USB充电接口"
+    design_level:
+      score: 3
+      reason: "造型语言清晰，竖向切缝是有效的细节处理，但整体创意力度中等，属于精致的功能性台灯而非强概念产品"
+    design_tags: ["细高杆", "锥台灯罩", "切缝细节", "铝合金", "银色", "USB充电", "H03分件线", "H09隐藏工程", "H11功能外显"]
+    hero_feature: "锥台灯罩侧面竖向切缝——散热缝即装饰分件线，将实体锥分解为多片交错感，关灯时是雕塑细节"
+    problem_solved: "台灯锥形灯罩通常是实心无细节，该设计通过竖向切缝将散热功能转化为装饰语言"
+    transferable_technique: "在锥台/圆柱灯罩侧面做等间距竖向切缝，兼散热与装饰功能，可迁移至各类台灯、筒灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_014"
+    source_images:
+      - filename: "41.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/41.jpg"
+        image_role: "hero"
+        visual_anchor: "系列展示图（白背景）：同一系列4款斜杆台灯+背景2款轨道射灯；台灯均为细长斜杆（与桌面成约15°夹角斜向倾立）+方形底座+小型球形或圆柱形灯头（可沿杆滑动调节高度），四款配色：深绿/深灰/酒红/金铜色；背景轨道灯为同系列壁灯产品"
+    product_name: "斜杆滑动灯头多色系列台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "极细斜杆（倾斜约75°落地角）+方形重底座，灯头为小球形/圆柱形，可沿杆滑动，整体轮廓如一根倾斜的画架支撑杆"
+      light_opening: "小型灯头定向出光，精准任务照明"
+      thermal: "LED内置小灯头，低功率"
+      cmf:
+        color: "四色：深森林绿/深灰/酒红/古铜金，每款全身单色，方底座为深色金属"
+        material: "金属斜杆 + 金属方形底座 + 金属灯头"
+        finish: "哑光喷涂（主杆），方底座哑光金属"
+      mounting: "方形重底座落台，斜杆依靠底座配重稳定"
+      signature_detail: "极细杆以约75°大倾斜角斜立于方形底座——无需传统垂直支撑，依靠底座重量平衡，灯头可沿杆滑动定位高度，系列颜色成熟克制"
+    design_level:
+      score: 4
+      reason: "斜杆+可滑动灯头是真正的功能创新，大倾斜角产生强设计张力，四色系列策略完整，与背景轨道灯形成灯具家族"
+    design_tags: ["斜杆台灯", "可滑动灯头", "大倾斜角", "方形底座", "四色系列", "灯具家族", "H05模块化", "H12人机界面强化", "H08对比强调"]
+    hero_feature: "极细杆以约75°大倾斜角斜立——无垂直支撑，依靠底座配重平衡，灯头可沿斜杆自由滑动，造型即功能"
+    problem_solved: "普通台灯灯头高度固定，该设计通过灯头沿斜杆滑动实现无级高度调节，同时斜杆本身即是强造型记忆点"
+    transferable_technique: "斜杆+滑动灯头结构（配重底座平衡），可迁移至阅读台灯、工作台灯的高度调节设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_015"
+    source_images:
+      - filename: "42.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/42.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图（暗背景）：大型创意台灯，主体为宽口碗形透明玻璃外罩（直径约40cm，口朝上），内部有一个向下凹陷的漏斗形半透明白色光学内件，光源在漏斗底部，点亮后漏斗形内件朝上漫射，外罩透明玻璃内可见复杂光晕，台面产生向上投射的光弧；黑色圆柱底座；背景可见两颗小磨砂玻璃球摆件"
+    product_name: "宽口碗形玻璃+漏斗内件双层光学台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "黑色圆柱底座+宽口碗形透明玻璃外罩（口朝上），内有倒漏斗形白色光学件，整体宽矮，俯视为同心圆"
+      light_opening: "光源在漏斗底部，光线经漏斗形内件向上漫射至玻璃外罩内壁反射，形成间接照明；同时玻璃外罩边缘上方出光，光斑打到天花板"
+      thermal: "LED内置底座，漏斗形光学件导热散热"
+      cmf:
+        color: "黑色圆柱底座，透明玻璃外罩（无色通透），白色/乳白漏斗形内件，白色顶部收边圈"
+        material: "金属/陶瓷圆柱底座 + 透明吹制玻璃外罩 + 乳白光学PC漏斗内件"
+        finish: "底座哑光，玻璃高透明，内件乳白半透明"
+      mounting: "圆柱底座落台"
+      signature_detail: "透明玻璃外罩内可见倒漏斗形光学件——双层光学结构（外罩+内件）使光路完全可视化，点亮后内部光晕层次丰富；宽口碗形外罩将光线留存在'碗'内形成光池效果"
+    design_level:
+      score: 5
+      reason: "双层光学结构（透明外罩+漏斗内件）是极强的工程美学展示，将复杂光路转化为可观赏的发光雕塑，宽口碗形独一无二，属iF高分作品"
+    design_tags: ["双层光学", "透明玻璃碗", "漏斗光学件", "可视光路", "间接照明", "宽口碗形", "H11功能外显", "H10材料表达", "H09隐藏工程"]
+    hero_feature: "透明玻璃碗内的倒漏斗光学件——双层光学结构使光路完全可视，点亮后内部光晕层次如液体，关灯是雕塑"
+    problem_solved: "台灯光学结构通常隐藏，该设计将双层光学件（外玻璃碗+内漏斗）完全暴露在透明外罩内，照明过程即观赏过程"
+    transferable_technique: "透明外罩内置可视光学件（漏斗/反射碗/棱镜）的双层光学台灯设计，可迁移至任何需要'光学可视化'的装饰台灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_016"
+    source_images:
+      - filename: "43.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/43.jpg"
+        image_role: "context"
+        visual_anchor: "使用场景图：与42.jpg为同款宽口碗形玻璃台灯，展示交互动作——一只手臂从右侧伸入宽口碗形玻璃外罩上方，手持磨砂玻璃小球，灯体此时呈透明玻璃碗状可见内部漏斗结构，小磨砂球疑似可投入碗中作为触控调光组件"
+    product_name: "宽口碗形玻璃台灯（交互场景）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "同42.jpg"
+      light_opening: "同42.jpg"
+      thermal: "同42.jpg"
+      cmf:
+        color: "同42.jpg"
+        material: "同42.jpg，另有配套磨砂玻璃小球"
+        finish: "同42.jpg"
+      mounting: "同42.jpg"
+      signature_detail: "交互图揭示：配套磨砂玻璃小球可能作为互动控制件投入碗中——'投球调光'交互概念，将控制动作变成仪式性行为"
+    design_level:
+      score: 5
+      reason: "同42.jpg，此图补充揭示独特的'投球式'触控交互概念，将调光动作设计成投放玻璃球的仪式，交互即体验"
+    design_tags: ["投球交互", "触控调光", "仪式感", "透明玻璃碗", "交互设计", "H12人机界面强化"]
+    hero_feature: "投放玻璃球调光交互——将调光控制动作设计成'向碗中投入小玻璃球'的仪式性行为（同42.jpg系列）"
+    problem_solved: "台灯触控调光通常是触摸点按，该设计将调光变成投放玻璃球的物理仪式，交互体验独一无二"
+    transferable_technique: "'物体投放式'触控交互（将外部物件放入灯具特定区域触发功能），可迁移至智能台灯、氛围灯的创意交互设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_017"
+    source_images:
+      - filename: "46.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/46.jpg"
+        image_role: "hero"
+        visual_anchor: "产品图（白底）：同款圆环LED台灯（与35.jpg同系列），此图展示台灯+落地灯两个尺寸版本并排；台灯版本为折线黑杆+小玫瑰金圆环（圆环倾斜），落地灯版本为超长细杆+更大玫瑰金圆环，两款比例优雅，圆环灯头均可旋转调向"
+    product_name: "折线杆圆环LED台灯+落地灯系列（双尺寸）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "同35.jpg（折线杆+倾斜圆环灯头），此图展示台灯（较小）+落地灯（较大）两个尺寸比例一致的产品家族"
+      light_opening: "同35.jpg：圆环内侧出光"
+      thermal: "同35.jpg"
+      cmf:
+        color: "同35.jpg：黑色杆件+玫瑰金圆环"
+        material: "同35.jpg"
+        finish: "同35.jpg"
+      mounting: "台灯：圆形底座落台；落地灯：大圆底座落地"
+      signature_detail: "台灯+落地灯双尺寸系列策略——同一设计语言缩放为两个使用场景，圆环比例随尺寸等比缩放，设计语言一致"
+    design_level:
+      score: 4
+      reason: "同35.jpg，此图验证设计语言在台灯+落地灯两个尺寸的可延展性，系列策略完整"
+    design_tags: ["圆环灯头", "系列设计", "台灯落地灯", "玫瑰金", "折线杆", "双尺寸", "H05模块化", "H08对比强调"]
+    hero_feature: "同35.jpg，此图补充台灯+落地灯双尺寸系列的比例关系参考"
+    problem_solved: "同35.jpg"
+    transferable_technique: "圆环灯头设计语言在台灯+落地灯两个尺寸的系列化延展，比例参考价值高"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_018"
+    source_images:
+      - filename: "47.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/47.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图：床头台灯，整体为两件套：下部为深灰色花瓣形莲座底座（立体浮雕折叠花瓣，哑光深灰），上部为竖立椭圆形磨砂乳白玻璃灯罩（外表面有凹凸网状/鳞片纹理浮雕），灯罩顶部开口，底座与灯罩交界处无杆直接对接，点亮后乳白玻璃透光，纹理形成光晕"
+    product_name: "莲座底座+鳞片纹理椭圆玻璃台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "花瓣莲座底座（宽扁）直接托举竖椭圆玻璃灯罩，无杆，整体呈莲花托莲蓬形，高宽比约1.8:1"
+      light_opening: "磨砂玻璃灯罩全身漫射出光，顶部开口向上出光，多向氛围照明"
+      thermal: "LED内置底座，低功率"
+      cmf:
+        color: "底座深炭灰（立体花瓣），灯罩磨砂乳白"
+        material: "深色树脂/陶瓷花瓣底座 + 磨砂玻璃椭圆灯罩（有浮雕纹理）"
+        finish: "底座哑光深色，灯罩磨砂半透明，表面网状/鳞片浮雕"
+      mounting: "莲座底座落台"
+      signature_detail: "深色花瓣莲座托举有鳞片浮雕的乳白玻璃椭圆罩——深色有机底座+浅色透光灯罩的强对比，两件材质和颜色完全对立，形成精准的阴阳对话"
+    design_level:
+      score: 4
+      reason: "莲座底座+鳞片纹理椭圆灯罩的材质对比极精准，深/浅、哑光/透光、有机形/几何体的三重对立统一，整体有东方美学气质"
+    design_tags: ["莲座底座", "鳞片纹理", "椭圆灯罩", "深浅对比", "3D打印纹理", "东方美学", "H10材料表达", "H06仿生", "H08对比强调"]
+    hero_feature: "深色立体花瓣莲座托举有鳞片浮雕的乳白玻璃椭圆——深/浅、哑光/透光的双重对立，莲座本身是精密雕塑"
+    problem_solved: "台灯底座通常是功能性惰性件，该设计将底座设计成立体花瓣莲座，成为与灯罩同等重量的视觉主角"
+    transferable_technique: "仿生（花瓣/莲座）有机形底座+几何形透光灯罩的材质/色彩对立组合，可迁移至床头台灯、书房台灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_019"
+    source_images:
+      - filename: "49.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/49.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图：产品展示台上摆放一套系统——后方台灯：蓝灰色L形弯管灯（水平管+垂直管90°折弯，顶端有白色圆环灯头）；前方3个白色陶瓷质感圆柱罐（不同高度，顶部有蓝灰色金属盖，罐身有三点圆形装饰）及1个宽口矮罐；另有白色平板和两块圆环灯头模板（拆解展示）——疑为模块化照明+储物系统"
+    product_name: "L形弯管台灯+陶瓷罐模块化照明储物系统"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "L形水平+垂直弯管台灯，顶端白色圆环灯头，整体低矮（水平管与桌面平行），无传统灯杆，配套3-4件白色陶瓷质感储物罐"
+      light_opening: "圆环灯头正面出光，定向精准照明"
+      thermal: "LED内置圆环灯头，低功率"
+      cmf:
+        color: "台灯管件蓝灰色（哑光），灯头白色，陶瓷罐乳白色，盖件蓝灰色"
+        material: "金属管件台灯 + 陶瓷/高分子白色储物罐 + 金属圆环灯头"
+        finish: "台灯管件哑光喷涂，储物罐哑光陶瓷质感，配色跨产品统一"
+      mounting: "台灯：底部落台；储物罐：独立落台"
+      signature_detail: "L形弯管台灯+配套储物罐组成桌面系统——台灯与配件共享蓝灰/白色设计语言，是完整的桌面生态，三点圆形装饰是系列识别符号"
+    design_level:
+      score: 4
+      reason: "照明+储物模块化桌面系统策略清晰，L形弯管台灯造型创新，蓝灰/白色跨产品配色一致，整体展示了完整的产品家族思维"
+    design_tags: ["L形弯管", "圆环灯头", "模块化系统", "桌面生态", "陶瓷罐", "蓝灰白配色", "H05模块化", "H12人机界面强化", "H07极简整合"]
+    hero_feature: "L形弯管台灯与配套陶瓷储物罐组成完整桌面生态系统——台灯只是系统入口，照明与收纳共享设计语言"
+    problem_solved: "台灯通常是独立产品，该设计将台灯设计为可扩展的桌面系统起点，与储物配件共享视觉语言形成产品家族"
+    transferable_technique: "台灯+桌面配件（收纳/摆件）共享设计语言形成桌面生态系统的产品策略，适合文创/办公照明品牌"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_创意_b2_020"
+    source_images:
+      - filename: "51.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/51.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图：台灯置于书堆上，整体为单一圆管弯曲成鹅颈/水龙头形——一根拉丝不锈钢圆管从底部的圆形金属基台（嵌入书堆顶面）向上延伸，在顶部约90°弯曲成鹅颈弧线，弯曲端朝下，端口即出光口；无灯罩无灯头，管端直接出光；整体极为简洁，仅为一根弯管"
+    product_name: "鹅颈弯管单件无灯罩台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "单根圆管从底座弯曲成鹅颈形（J形或倒钩形），管端朝下即出光口，整体零件数极少（仅底座+一根管），高宽比约2:1"
+      light_opening: "管端口直接出光（点光源或面光源），定向向下照明，无任何遮光或漫射结构"
+      thermal: "LED内置管内，圆管本身导热散热"
+      cmf:
+        color: "全件拉丝不锈钢银色，底座同材质"
+        material: "拉丝不锈钢圆管 + 不锈钢圆形底座"
+        finish: "拉丝不锈钢，无涂装，金属质感强烈"
+      mounting: "圆形底座嵌入书堆顶面（置于书本上方），无需打孔"
+      signature_detail: "全件仅一根弯曲圆管+底座，零灯罩零灯头零分件，LED隐藏于管内，出光口即管端——极致减法，管的弯曲曲率是唯一设计语言，形似厨房水龙头或实验室导管"
+    design_level:
+      score: 5
+      reason: "极致减法：台灯被化简为一根弯管，LED隐于管内，造型语言只有曲率一个变量，拉丝不锈钢材质无可挑剔，置于书堆的场景语境使产品与使用者建立强情感连接，属iF顶级水准"
+    design_tags: ["鹅颈弯管", "无灯罩", "极简单件", "不锈钢", "LED隐藏管内", "极致减法", "H01减法", "H07极简整合", "H09隐藏工程"]
+    hero_feature: "单根弯管即整灯——无灯罩无灯头，LED藏于管内，管端即出光口，去掉弯管就什么都没了，极简不能再简"
+    problem_solved: "台灯设计通常堆叠零件，该设计将所有组件（结构+光源+出光）压缩为一根弯管，消除一切多余件，管的弯曲曲率成为唯一设计语言"
+    transferable_technique: "将灯管本身设计为光源载体（LED内置管内，管端出光），消除灯罩和灯头的极简结构，可迁移至阅读灯、壁灯、夹灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

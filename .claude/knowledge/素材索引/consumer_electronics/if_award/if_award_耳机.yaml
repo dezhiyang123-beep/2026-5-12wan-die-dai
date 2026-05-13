@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "耳机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/耳机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_earphone_001"
+    source_images:
+      - filename: "110.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/耳机/110.jpg"
+        image_role: "hero"
+        visual_anchor: "AKG K840无线头戴耳机正侧面+配套蓝牙dongle，全黑+银色圈"
+    product_name: "AKG K840 Wireless Headphones"
+    brand_name: "AKG"
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "标准头戴式过耳轮廓，耳罩圆形，头梁细弧形"
+      light_opening: "无主动发光"
+      thermal: "无散热结构"
+      cmf:
+        color: "主体黑色，耳罩外圈银色金属环"
+        material: "ABS外壳，皮革耳垫，金属头梁"
+        finish: "哑光黑塑料，磨砂银金属环，皮革软垫"
+      mounting: "头梁+耳罩夹紧佩戴，蓝牙dongle插3.5mm音频口"
+      signature_detail: "耳罩外侧同心圆设计+AKG品牌徽章居中；附带独立蓝牙dongle使有线设备无线化"
+    design_level:
+      score: 4
+      reason: "同心圆耳罩面板设计有强烈视觉记忆点；蓝牙dongle作为系统配件增加产品解决方案感；黑+银CMF克制而专业；整体设计层次清晰"
+    design_tags: ["头戴式", "过耳", "同心圆", "H08对比强调", "AKG", "皮革耳垫", "无线系统", "蓝牙dongle"]
+    hero_feature: "耳罩外侧同心圆面板+品牌徽章，赋予耳机强识别度的正面视觉中心"
+    problem_solved: "提供高音质无线体验，配套dongle解决无蓝牙设备的无线化需求"
+    transferable_technique: "同心圆+品牌徽章居中的耳罩面板构图，可迁移至任何需要圆形功能面的产品正面设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_earphone_002"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/耳机/23.jpg"
+        image_role: "hero"
+        visual_anchor: "Bose过耳头戴耳机斜侧45度，黑色头梁+银色耳罩外框，有线"
+    product_name: "Bose Over-Ear Headphones"
+    brand_name: "Bose"
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "宽头梁+大椭圆耳罩，轮廓饱满，比例偏大"
+      light_opening: "无主动发光"
+      thermal: "无散热结构"
+      cmf:
+        color: "黑色主体，耳罩外圈银灰色金属环"
+        material: "ABS+金属，皮革耳垫"
+        finish: "哑光黑，拉丝银"
+      mounting: "头梁压力佩戴，3.5mm有线连接"
+      signature_detail: "宽厚头梁中段断开铰链可折叠；耳罩外圈银色宽环与黑色中心形成明显色彩对比圈"
+    design_level:
+      score: 3
+      reason: "银色宽圆环+黑色耳罩中心的对比手法有识别度，但整体造型偏传统；大耳罩比例稳重但缺乏创新突破点；属品类优秀常规设计"
+    design_tags: ["头戴式", "过耳", "Bose", "H08对比强调", "皮革耳垫", "折叠头梁", "银黑配色"]
+    hero_feature: "宽幅银色金属环围绕黑色耳罩，形成强对比圈状视觉焦点"
+    problem_solved: "家用/通勤高音质音乐体验，折叠设计便于收纳携带"
+    transferable_technique: "深色主体+宽幅银色环形边框的对比手法，强化圆形产品面的层次感，可迁移至摄像头、传感器面板设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

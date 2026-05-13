@@ -1,0 +1,16 @@
+# 示例客户项目历史
+# 每个项目结束后 Step 10 自动追加
+# 用于计算命中率和调整策略
+
+projects: []
+# 项目记录格式示例：
+# - project_date: "2026-04-26"
+#   category: "电钻"
+#   concepts_delivered: 5
+#   concepts_accepted: 3
+#   key_learnings:
+#     - "客户喜欢有力量感的设计"
+#   brand_grammar_updates:
+#     - "确认：黄色只用于功能分区"
+#   preferences_updates:
+#     - "偏好激进方向比保守多"

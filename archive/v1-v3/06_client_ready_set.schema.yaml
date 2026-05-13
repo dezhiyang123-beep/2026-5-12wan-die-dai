@@ -1,0 +1,69 @@
+# 06_client_ready_set.schema.yaml — G5客户版方案集
+
+schema_version: "2.0"
+
+required:
+  client_sets:
+    type: list
+    description: "客户版方案，目标5套"
+    item_schema:
+      concept_id:
+        type: string
+        description: "方案ID，如CS-01"
+      source_pack:
+        type: string
+        description: "来源渲染包ID，如RDP-03"
+      hero_image:
+        type: string
+        description: "主图文件名/链接"
+      supporting_images:
+        type: list
+        description: "辅助图列表"
+      one_line_summary:
+        type: string
+        description: "一句话方案摘要，≤20字"
+      for_whom:
+        type: string
+        description: "目标用户描述"
+      solves_what:
+        type: string
+        description: "解决什么问题"
+      why_now:
+        type: string
+        description: "为什么现在买"
+      why_not_wait:
+        type: string
+        description: "为什么不等等再买"
+      estimated_price:
+        type: string
+        description: "建议零售价范围"
+      key_risk:
+        type: string
+        description: "本方案最大风险点"
+      client_score:
+        type: object
+        required_hard: true
+        fields:
+          client_fit:
+            type: integer
+            range: [1, 5]
+          image_fidelity:
+            type: integer
+            range: [1, 5]
+          pricing_coherence:
+            type: integer
+            range: [1, 5]
+          why_now_strength:
+            type: integer
+            range: [1, 5]
+          risk_level:
+            type: integer
+            range: [1, 5]
+            description: "5=低风险"
+          total:
+            type: integer
+            description: "<15分不进客户版"
+
+validation:
+  - client_score.total<15的方案不得进入客户版
+  - 目标5套；<5套时回流G4补出渲染包

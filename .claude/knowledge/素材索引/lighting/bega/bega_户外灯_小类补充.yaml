@@ -1,0 +1,903 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "混合子类（吊灯 / 吸顶灯 / 嵌入式吸顶灯 / 嵌入式壁灯）"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/"
+  generated_at: "2026-05-08"
+
+products:
+
+  # ─── 吊灯 ────────────────────────────────────────────────────────────────────
+
+  - product_id: "bega_户外_吊灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吊灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "大型白色乳白玻璃球体灯罩，顶部白色铝制连接帽，黑色悬挂电缆"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吊灯"
+    design_language:
+      silhouette: "完整球形；球径与连接帽比例约8:1；轮廓极度圆润，无棱角"
+      light_opening: "360°全球面出光；乳白玻璃散射，光线柔和均匀，无定向遮蔽"
+      thermal: "铝制上端连接帽承担热管理；玻璃球体本身不承热；整体散热面积小，适合低功率LED"
+      cmf:
+        color: "灯罩白色乳白；连接帽白色粉末涂层；悬挂线缆黑色"
+        material: "乳白玻璃球体；铸铝连接帽"
+        finish: "玻璃哑光乳白；铝件粉末涂层哑光白"
+      mounting: "单根黑色悬挂线缆，顶端穿入铝制帽头，适合户外顶棚或构架悬挂"
+      signature_detail: "球体与帽头间可见浅槽分件线，帽头底部有细小锁紧结构"
+    design_level:
+      score: 3
+      reason: "球形吊灯是BEGA经典户外语汇，形态纯粹，工艺可靠；创新性有限但品牌识别度高"
+    design_tags:
+      - "球形"
+      - "乳白玻璃"
+      - "悬挂吊灯"
+      - "360度出光"
+      - "户外防水"
+      - "极简"
+    hero_feature: "完整乳白玻璃球体，白天是雕塑感球体，夜晚360°漫射出光"
+    problem_solved: "户外悬挂场景需要无眩光均匀泛光，球形漫射体完全消除光源点"
+    transferable_technique: "球形乳白玻璃罩体的360°漫射出光方式可迁移至任何需要柔和泛光的户外灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_吊灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吊灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑圆柱筒体悬挂于钢丝绳系统，底部小圆形出光口可见LED透镜"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吊灯"
+    design_language:
+      silhouette: "垂直圆柱筒，高宽比约2:1；顶端通过L形夹具固定于架空钢丝绳"
+      light_opening: "底部单圆形开口向下定向出光；内嵌LED透镜；出光角较窄，光束集中"
+      thermal: "厚壁铸铝圆筒体兼作散热器；外壁哑黑涂层增加辐射散热效率；无可见散热鳍片"
+      cmf:
+        color: "筒体哑黑；钢丝绳系统银灰色；夹具铝本色阳极氧化"
+        material: "铸铝筒体；不锈钢钢丝绳；铝合金夹具"
+        finish: "筒体粉末涂层哑黑；夹具阳极氧化银灰"
+      mounting: "钢丝绳架空悬挂系统（catenary），夹具夹持钢丝绳，黑色电缆从夹具处引出"
+      signature_detail: "夹具与筒体连接处有明显转动结构（调角节点）；筒体顶部可见小标牌"
+    design_level:
+      score: 3
+      reason: "catenary钢丝悬挂系统是户外专业照明经典方案；圆筒造型工程感强，设计语言克制"
+    design_tags:
+      - "圆柱筒"
+      - "钢丝绳悬挂"
+      - "catenary"
+      - "定向下照"
+      - "铸铝"
+      - "工程感"
+    hero_feature: "钢丝绳架空安装系统，灯具通过专用夹具骑挂在张紧钢丝绳上"
+    problem_solved: "户外长跨度空间（廊道、广场）无法打结构天花固定点时，catenary系统提供灵活布灯路径"
+    transferable_technique: "catenary夹具+圆筒体的组合逻辑可迁移至户外商业街道、码头等长跨度照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_吊灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吊灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑矩形扁平灯体悬挂于钢丝绳，底部宽开口内可见白色反光器"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吊灯"
+    design_language:
+      silhouette: "扁平矩形体；宽高比约2.5:1；顶部弧形过渡；整体低矮、宽阔"
+      light_opening: "底部全宽矩形开口向下出光；内置宽角度反光器；出光角宽泛，适合大面积泛光"
+      thermal: "铸铝上壳体（哑黑）兼作散热面；壳体厚度可见，有一定热质量；无外露鳍片"
+      cmf:
+        color: "外壳哑黑；反光器白色；钢丝绳银灰"
+        material: "铸铝外壳；铝制白色反光器；不锈钢钢丝绳"
+        finish: "外壳粉末涂层哑黑；反光器镜面/半镜面白"
+      mounting: "钢丝绳架空悬挂，顶部宽型连接板骑挂于钢丝绳，两侧各有锁紧夹"
+      signature_detail: "顶部连接板两端可见对称缆绳夹紧件；整体造型像倒扣的书架托盘"
+    design_level:
+      score: 3
+      reason: "矩形泛光吊灯+catenary系统，实用功能强；造型工程理性，符合BEGA户外专业定位"
+    design_tags:
+      - "矩形"
+      - "钢丝绳悬挂"
+      - "catenary"
+      - "泛光下照"
+      - "反光器"
+      - "铸铝"
+    hero_feature: "宽矩形开口搭配宽角度反光器，单灯覆盖宽广水平面，适合道路/广场宽光带布置"
+    problem_solved: "户外架空悬挂场景需要宽角度泛光覆盖，矩形灯体在视觉上与建筑线条协调"
+    transferable_technique: "矩形反光器+宽开口的出光逻辑，以及catenary顶部双点固定板的安装方式均可迁移"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_吊灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吊灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "铜绿/铜锈色圆锥形灯罩，底部悬挂乳白小球，细灰色悬挂线"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吊灯"
+    design_language:
+      silhouette: "正圆锥体（顶角约60°），尖端朝上，大底面朝下；底部中央有小乳白球形出光体凸出"
+      light_opening: "底部圆锥开口中央嵌入小乳白玻璃球；光线从球面向下半球漫射；锥体阻挡上方溢光"
+      thermal: "铜/黄铜锥体本身兼作散热体；铜的高导热性使热管理无需鳍片；表面自然氧化为铜绿"
+      cmf:
+        color: "锥体自然铜色/铜绿（氧化斑驳纹理）；出光球乳白；悬线深灰"
+        material: "铜/黄铜锥体（自然氧化表面）；乳白玻璃小球"
+        finish: "铜体自然氧化无额外涂层；玻璃哑光乳白"
+      mounting: "单根细悬挂线从锥尖穿出，连接处有小金属套筒"
+      signature_detail: "铜锥体表面自然斑驳氧化肌理，每件独一；底部乳白球从锥面向下凸出约1/4球径"
+    design_level:
+      score: 4
+      reason: "天然铜材料+自然氧化表面处理是BEGA高端产品线的材料表达；锥+球的复合造型极具记忆点，设计语言独特"
+    design_tags:
+      - "铜材料"
+      - "自然氧化"
+      - "圆锥"
+      - "材料表达"
+      - "乳白玻璃球"
+      - "高端"
+      - "艺术感"
+    hero_feature: "铜锥体自然氧化斑驳表面，每件独一无二；锥底中央乳白玻璃球提供柔和下照光"
+    problem_solved: "高端私宅/精品酒店户外需要兼具艺术性和功能性的照明，铜锥既是装饰雕塑又是功能灯具"
+    transferable_technique: "铜材料+自然氧化表面在户外灯具的应用逻辑（无需涂层，氧化本身即是保护层）；锥形遮光+底部球出光的组合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 吸顶灯 ──────────────────────────────────────────────────────────────────
+
+  - product_id: "bega_户外_吸顶灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吸顶灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑线性条形灯贴顶安装，侧面可见11个方形格栅单元排成一列"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吸顶灯"
+    design_language:
+      silhouette: "极细长矩形条体，长宽比约15:1；侧面轮廓很薄；整体贴顶，无突出部件"
+      light_opening: "11个正方形单元格栅向下出光；每个格栅单元内嵌LED，有防眩深度；出光排列形成点阵线"
+      thermal: "铝型材挤出件贴顶安装，顶面与天花板接触面有限；铝体通过辐射和对流散热；无可见鳍片（顶面可能有）"
+      cmf:
+        color: "灯体全哑黑；格栅内壁白色"
+        material: "挤出铝型材；铝制格栅单元"
+        finish: "粉末涂层哑黑；格栅内壁白色"
+      mounting: "直接贴顶/天花板表面安装，两端及中间有隐藏式固定点"
+      signature_detail: "11个正方形格栅单元等间距排列成点阵线；格栅深度约与宽度相等，有效防眩"
+    design_level:
+      score: 3
+      reason: "线性点阵格栅形式是BEGA专业户外照明特色；黑色铝条+白色格栅的对比关系清晰；功能性强"
+    design_tags:
+      - "线性"
+      - "格栅"
+      - "点阵"
+      - "贴顶"
+      - "防眩"
+      - "铝型材"
+    hero_feature: "11单元方形格栅点阵排列，形成线性光带同时保持防眩深度，视觉上有节奏感"
+    problem_solved: "户外廊道/通道天花需要线性均匀照明，且要控制眩光；方形格栅阵列实现两者兼顾"
+    transferable_technique: "多单元方形格栅排列成线性阵列的出光形式，以及极薄铝型材贴顶的安装逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_吸顶灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吸顶灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "双层圆柱灯体贴顶安装，上半深灰铝筒，下半透明圆柱玻璃罩，底部开口"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吸顶灯"
+    design_language:
+      silhouette: "圆柱双层结构；上部铝制实体筒（深灰，高约40%）+ 下部透明玻璃筒（高约60%）；底部完全开放"
+      light_opening: "底部全开口向下出光；透明玻璃侧壁同时透出侧向光；形成下照+侧透的复合出光模式"
+      thermal: "深灰铝制上筒兼作散热体；铝筒侧面积充足，自然对流散热；无可见鳍片"
+      cmf:
+        color: "上筒深灰色；下部玻璃透明（无色）；内部隐约可见白色LED模块"
+        material: "铸铝上筒；透明玻璃圆柱罩"
+        finish: "铝筒粉末涂层哑黑灰；玻璃清透"
+      mounting: "直接贴顶安装，铝筒顶面通过固定螺钉固定于天花板"
+      signature_detail: "铝筒与玻璃罩的水平分件线在视觉上清晰；玻璃与铝筒的材质对比（透明 vs 实体哑面）"
+    design_level:
+      score: 3
+      reason: "铝+玻璃双层结构语言清晰；透明玻璃侧壁的侧透光是附加价值；整体造型工整"
+    design_tags:
+      - "圆柱"
+      - "透明玻璃"
+      - "双层结构"
+      - "下照+侧透"
+      - "铸铝"
+      - "贴顶"
+    hero_feature: "透明玻璃侧壁与铝实体上筒的材质对比，既有侧向光晕又有向下主光"
+    problem_solved: "户外门廊/通道需要柔和的环境光与功能性下照光兼顾；透明侧壁提供环境光晕感"
+    transferable_technique: "铝实体上壳+透明圆柱下罩的复合结构，侧透光+下照光组合方式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_吸顶灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吸顶灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "全哑黑圆柱筒体贴顶，底部微内缩开口，内部全黑"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吸顶灯"
+    design_language:
+      silhouette: "单体圆柱，高宽比约1:1；底部有细凸缘分件线；整体极简，无任何附件"
+      light_opening: "底部全圆开口向下出光；内部全黑，LED藏于深处；出光深藏防眩，光线向下集中"
+      thermal: "全铸铝圆筒兼作散热体；筒壁厚度可见；无鳍片；依靠铝体整体热质量散热"
+      cmf:
+        color: "全体哑黑，内外一致"
+        material: "铸铝"
+        finish: "粉末涂层哑黑，内外统一"
+      mounting: "顶面贴顶安装，顶部通过隐藏螺钉固定，无外露件"
+      signature_detail: "底部微内缩的细凸缘圈，为底面与筒身提供分件线，使底面看起来略有收口"
+    design_level:
+      score: 3
+      reason: "极简全黑圆筒是BEGA户外吸顶灯的标准造型；无装饰、无冗余，工程感强"
+    design_tags:
+      - "圆柱"
+      - "全哑黑"
+      - "极简"
+      - "深藏LED"
+      - "防眩"
+      - "铸铝"
+      - "贴顶"
+    hero_feature: "全黑内外一体，LED深藏于筒内，无眩光，关灯时几乎隐形"
+    problem_solved: "户外天花需要不显眼的功能性下照灯，全黑圆筒在深色天花背景下完全隐没"
+    transferable_technique: "全黑内外统一处理使灯具在关灯状态视觉最小化的设计逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_吸顶灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吸顶灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰圆柱筒贴顶，底部开口可见铜金色蜂窝网格面"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吸顶灯"
+    design_language:
+      silhouette: "圆柱体，高宽比约0.9:1；筒体侧面顶部有两个小通气孔和一个固定螺丝头可见；底部开口填满蜂窝格栅"
+      light_opening: "底部由铜金色蜂窝格栅覆盖出光；蜂窝格栅提供防眩性能同时过滤光束；出光带金铜色暖调"
+      thermal: "铸铝圆筒兼作散热体；侧面可见小通气孔辅助内部气流；深灰外壁增加辐射散热"
+      cmf:
+        color: "筒体深灰（近黑）；蜂窝格栅铜金色"
+        material: "铸铝筒体；铜或铜色合金蜂窝格栅"
+        finish: "筒体粉末涂层深灰哑面；蜂窝格栅铜色（可能为阳极氧化或电镀）"
+      mounting: "贴顶安装，顶部隐藏固定"
+      signature_detail: "铜金色蜂窝格栅是极强视觉签名；六边形蜂窝单元密集排列，形成有机纹理对比深灰铝体"
+    design_level:
+      score: 4
+      reason: "铜色蜂窝格栅是罕见且高价值的设计细节；深灰筒体+铜金网格的色彩对比高级；功能与装饰性兼备"
+    design_tags:
+      - "蜂窝格栅"
+      - "铜色"
+      - "材料对比"
+      - "防眩"
+      - "圆柱"
+      - "高端"
+      - "纹理"
+    hero_feature: "铜金色蜂窝格栅面板，在深灰铝筒内形成强烈材质对比，开灯后铜格栅发出暖色调光"
+    problem_solved: "户外高端场景需要兼具装饰性和防眩功能的吸顶灯；铜蜂窝格栅同时解决两个问题"
+    transferable_technique: "金属蜂窝格栅+不同颜色金属筒体的组合方式；蜂窝格栅作为防眩+装饰双功能面板"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_吸顶灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吸顶灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰铝框架+白色乳白玻璃立方体灯笼，壁装贴顶方式安装"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吸顶灯"
+    design_language:
+      silhouette: "立方体灯笼造型；深灰L形铝制框架从顶部和后侧包覆；白色乳白玻璃立方体作为出光体；整体正方比例"
+      light_opening: "乳白玻璃四面（前、左、右、下）均可出光；360°无遮挡的漫射出光；光线均匀柔和"
+      thermal: "铝制L形框架兼作散热体；框架覆盖顶部和后侧保护LED驱动；玻璃体辅助热对流"
+      cmf:
+        color: "框架深灰（近黑）；玻璃体白色乳白；有小不锈钢固定螺钉可见"
+        material: "铸铝框架；乳白玻璃立方体"
+        finish: "框架粉末涂层深灰哑面；玻璃哑光乳白"
+      mounting: "L形铝框通过后背板直接贴壁安装；属于壁装灯，但视觉上可用于墙角天花接合处"
+      signature_detail: "L形铝框顶角精密的直角过渡；乳白玻璃立方体与铝框的交接处有细金属槽压条"
+    design_level:
+      score: 3
+      reason: "立方体乳白玻璃灯笼是BEGA的经典户外产品形态；L形铝框简洁利落；整体比例平衡"
+    design_tags:
+      - "立方体"
+      - "乳白玻璃"
+      - "灯笼"
+      - "壁装"
+      - "L形铝框"
+      - "漫射出光"
+    hero_feature: "白色乳白玻璃立方体被深灰L形框架架持，形成漂浮感；四面出光形成均匀光晕"
+    problem_solved: "户外入口/门廊需要全向柔和照明且外观整洁；立方玻璃灯笼满足功能与美观"
+    transferable_technique: "L形铝框+正方体透光体的组合结构；乳白玻璃立方体四面漫射出光方式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_吸顶灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吸顶灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "同款矩形壁灯两种尺寸/方向展示，深灰铝框+白色乳白玻璃面板"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吸顶灯"
+    design_language:
+      silhouette: "扁平矩形体贴墙安装；左件为竖向长方形，右件为横向宽方形；同一产品族的两种尺寸方向"
+      light_opening: "正面白色乳白玻璃面板全面出光；出光均匀漫射；背面铝体遮光"
+      thermal: "深灰铝制背板兼作散热体；铝体与墙面之间有安装间隙辅助散热"
+      cmf:
+        color: "背板/侧边深灰色铝；正面乳白玻璃白色"
+        material: "铸铝背板和侧边框；乳白玻璃面板"
+        finish: "铝件粉末涂层深灰哑面；玻璃哑光乳白"
+      mounting: "直接贴墙壁安装；铝背板通过两个隐藏螺孔固定"
+      signature_detail: "竖向和横向两种方向展示，体现产品系列的灵活性；铝框与玻璃面板交接处细金属压线"
+    design_level:
+      score: 3
+      reason: "矩形壁装出光面是户外照明经典语汇；同一家族提供竖横两种方向是BEGA系统化设计特征"
+    design_tags:
+      - "矩形"
+      - "乳白玻璃"
+      - "壁装"
+      - "正面出光"
+      - "系列化"
+      - "深灰铝框"
+    hero_feature: "同一产品同时提供竖向和横向安装方向，展示BEGA对系统完整性的承诺"
+    problem_solved: "户外不同位置（竖向窗边 vs 横向门楣）需要同一风格灯具适配不同开孔方向"
+    transferable_technique: "同一灯具设计支持竖/横两种安装方向的模块化思路"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 嵌入式吸顶灯 ────────────────────────────────────────────────────────────
+
+  - product_id: "bega_户外_嵌入式吸顶灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式吸顶灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰线性嵌入条，侧面可见9个方形格栅单元，BEGA字样压印于右端"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式吸顶灯"
+    design_language:
+      silhouette: "极薄线性条体，完全嵌入天花；暴露面仅为侧边及格栅面；长宽比约12:1"
+      light_opening: "9个方形格栅单元向下出光，每单元内可见三角形LED反射腔（V形截面）；格栅有防眩深度；LED亮时白光强烈"
+      thermal: "嵌入式安装，LED热量向上传导至天花内部；铝体兼作导热路径；格栅面板辅助散热"
+      cmf:
+        color: "外框深灰色；格栅腔内白色；LED白色强光"
+        material: "铝制框体；铝制格栅"
+        finish: "粉末涂层深灰哑面；格栅内白色"
+      mounting: "完全嵌入天花开槽，框体卡入开口，顶面隐藏固定；BEGA字样压印于侧边"
+      signature_detail: "每个格栅单元内可见V形截面反射腔，形成定向散光效果；侧边BEGA品牌压印"
+    design_level:
+      score: 4
+      reason: "线性嵌入式多单元格栅在BEGA嵌入灯系列中技术含量高；V形反射腔在格栅内可见是少见细节；嵌入后几乎与天花齐平"
+    design_tags:
+      - "线性嵌入"
+      - "格栅阵列"
+      - "V形反射腔"
+      - "防眩"
+      - "天花嵌入"
+      - "铝型材"
+    hero_feature: "9单元格栅内可见V形反射腔，形成定向照明同时保持防眩；嵌入后与天花完全齐平"
+    problem_solved: "户外廊道天花需要嵌入式线性照明，既不占视觉空间又有高防眩性能"
+    transferable_technique: "嵌入式多单元格栅+V形反射腔的定向防眩出光方式；线性阵列的模块拼接逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_嵌入式吸顶灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式吸顶灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形嵌入下照灯，深灰细环形嵌框，内部全黑（关灯状态）"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式吸顶灯"
+    design_language:
+      silhouette: "圆形嵌入式downlight；仅可见细圆环形嵌框；开口内部全黑，LED不可见（关灯）"
+      light_opening: "圆形开口向下出光；LED深藏于内部，关灯时内部不可见；出光时向下定向，防眩性强"
+      thermal: "嵌入式安装，散热依靠背部铝壳向上传导至天花内；面框极薄，热路径主要在内部"
+      cmf:
+        color: "嵌框深灰（近黑）；开口内部全黑"
+        material: "铸铝嵌框和内筒"
+        finish: "粉末涂层深灰哑面；内部黑色消光处理"
+      mounting: "嵌入天花开圆孔，弹簧夹或螺钉固定；嵌框与天花齐平"
+      signature_detail: "嵌框极细（约5mm宽），视觉存在感最小化；关灯状态内部全黑，在浅色天花上几乎为不可见的圆形暗孔"
+    design_level:
+      score: 3
+      reason: "极简细框圆形downlight是BEGA嵌入系列基础款；设计语言以消隐为目标，工艺精度高"
+    design_tags:
+      - "圆形嵌入"
+      - "极细嵌框"
+      - "消隐设计"
+      - "全黑内腔"
+      - "防眩"
+      - "downlight"
+    hero_feature: "极细嵌框使灯具在关灯时几乎隐形，点亮时只见圆形光点，无器件感"
+    problem_solved: "高端室内/半户外天花需要照明存在感最小化；极细框嵌入灯实现'只见光不见灯'"
+    transferable_technique: "极细嵌框+深腔全黑内部的消隐设计逻辑，可迁移至各种嵌入式灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_嵌入式吸顶灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式吸顶灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形嵌入式downlight，黑色细嵌框，内部铜金色抛物面反射碗"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式吸顶灯"
+    design_language:
+      silhouette: "圆形嵌入downlight；细黑嵌框；开口内部可见铜金色抛物面反射碗深腔"
+      light_opening: "圆形开口；抛物面铜色反射碗收集并定向光束向下；LED位于碗底中心；出光为定向光束"
+      thermal: "嵌入式铝制背壳传热至天花；铜色反射碗为铝制镀铜或阳极氧化处理；整体散热靠背部传导"
+      cmf:
+        color: "嵌框黑色；反射碗铜金色（哑面颗粒感）"
+        material: "铸铝嵌框；铝制抛物面反射碗（铜色处理）"
+        finish: "嵌框粉末涂层黑色；反射碗铜色阳极氧化或涂层，哑面带颗粒感"
+      mounting: "嵌入天花圆孔，弹簧夹固定；嵌框与天花齐平"
+      signature_detail: "铜金色抛物面反射碗深腔，颗粒哑面铜色与深黑嵌框形成强对比；反射碗可见LED中心点"
+    design_level:
+      score: 4
+      reason: "铜色抛物面反射碗是高端设计细节，与黑色嵌框的色彩对比鲜明；关灯时铜碗即是装饰细节"
+    design_tags:
+      - "圆形嵌入"
+      - "铜色反射碗"
+      - "抛物面"
+      - "材料对比"
+      - "高端"
+      - "定向下照"
+    hero_feature: "铜金色哑面抛物反射碗，关灯时是装饰性铜色腔体，开灯时聚焦光束向下"
+    problem_solved: "高端场所的嵌入式下照灯需要关灯状态也有装饰价值；铜色反射碗在任何状态下都是视觉亮点"
+    transferable_technique: "色彩反差鲜明的反射碗（铜色/金色 vs 黑色框架）作为关灯状态装饰细节的设计逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_嵌入式吸顶灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式吸顶灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "超大径白色圆形嵌入灯，细白嵌框，内部白色漫射碗，中央小LED点"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式吸顶灯"
+    design_language:
+      silhouette: "极大径圆形嵌入灯；直径约为普通downlight的2-3倍；白色嵌框细；内部大面积白色漫射碗"
+      light_opening: "大径圆形开口；内部白色宽浅反射碗向下均匀漫射；中央有小型LED点光源；出光面积大，光线柔和"
+      thermal: "超大径铝制背壳；散热面积大；中央LED热量向外辐射至大铝盘；嵌入天花散热"
+      cmf:
+        color: "嵌框白色；内部漫射碗白色；中央LED点透明/白色"
+        material: "铸铝嵌框和反射碗；聚碳酸酯或玻璃内饰面"
+        finish: "白色粉末涂层或白色珐琅；内表面高反白色"
+      mounting: "嵌入天花大圆孔；多点固定螺钉可见（3个）；嵌框与天花齐平"
+      signature_detail: "超大白色漫射碗面，形成类似天窗的效果；中央LED点在大面白色碗中形成视觉焦点"
+    design_level:
+      score: 4
+      reason: "超大径白色漫射碗营造'模拟天窗'效果，是BEGA的特色高端嵌入灯形式；白色+大面积是独特记忆点"
+    design_tags:
+      - "大径圆形"
+      - "白色漫射碗"
+      - "天窗效果"
+      - "柔和出光"
+      - "嵌入式"
+      - "高端"
+    hero_feature: "超大径白色反射碗覆盖整个开口，形成均匀漫射面，类似小天窗的柔和自然光感"
+    problem_solved: "户外半覆盖区域天花需要大面积柔和照明，减少硬点光产生的阴影；超大漫射碗实现类日光感"
+    transferable_technique: "大径宽浅漫射碗+中央点光源的出光方式，以及白色系嵌入灯的'天窗模拟'设计思路"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_嵌入式吸顶灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式吸顶灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形嵌入灯，黑色宽嵌框，内部铜色蜂窝格栅面板填满开口"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式吸顶灯"
+    design_language:
+      silhouette: "圆形嵌入downlight；较宽的深灰/黑色嵌框圆环；开口内完全被铜色蜂窝格栅填满；整体如工业仪表盘"
+      light_opening: "圆形开口由铜色蜂窝格栅覆盖；光透过蜂窝孔向下出光；蜂窝格栅提供高防眩效果；光带铜色暖调"
+      thermal: "铝制嵌框和背壳传导热量；蜂窝格栅为铜色金属（导热良好）；整体散热靠嵌入背部"
+      cmf:
+        color: "嵌框深灰/黑色；蜂窝格栅铜金色"
+        material: "铸铝嵌框；铜或铜色铝蜂窝格栅"
+        finish: "嵌框粉末涂层深灰哑面；蜂窝铜色（可见细密六边形纹理）"
+      mounting: "嵌入天花圆孔，顶部弹簧夹固定；嵌框与天花齐平；两个小固定螺钉可见"
+      signature_detail: "铜色蜂窝格栅与深色嵌框的材质+色彩双重对比；蜂窝纹理在圆形开口内极具工业精密感"
+    design_level:
+      score: 4
+      reason: "铜蜂窝格栅嵌入灯与吸顶灯_005的铜蜂窝系列一致，形成产品族；嵌入版外观更简洁隐蔽，细节价值更高"
+    design_tags:
+      - "圆形嵌入"
+      - "铜色蜂窝"
+      - "材料对比"
+      - "防眩"
+      - "高端"
+      - "纹理"
+    hero_feature: "铜色蜂窝格栅填满圆形开口，关灯时是精密的铜色图案，开灯时过滤出带铜色调的柔和光"
+    problem_solved: "高端场所嵌入灯需要关灯状态也有装饰价值，蜂窝格栅是功能性防眩件同时也是装饰细节"
+    transferable_technique: "铜色蜂窝格栅作为嵌入灯面板，同时承担防眩、色彩调制和装饰三重功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 嵌入式壁灯 ──────────────────────────────────────────────────────────────
+
+  - product_id: "bega_户外_嵌入式壁灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式壁灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "横向矩形嵌入壁灯，深灰宽框，白色乳白玻璃面板横向填满，右上BEGA字样"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式壁灯"
+    design_language:
+      silhouette: "横向矩形，宽高比约2:1；深灰宽嵌框四周均匀包围白色出光面板；整体扁宽比例"
+      light_opening: "白色乳白玻璃/塑料面板正面出光；光线向前漫射；嵌框遮蔽四边，出光面板向外齐平"
+      thermal: "铝制嵌框背板传导热量至墙体内部；出光面板后方为LED模块；铝制背壳散热"
+      cmf:
+        color: "嵌框深灰（近黑）；面板乳白白色"
+        material: "铸铝嵌框；乳白玻璃或聚碳酸酯面板"
+        finish: "嵌框粉末涂层深灰哑面；面板哑光乳白"
+      mounting: "嵌入墙体开矩形孔；两个小螺钉固定可见于两侧"
+      signature_detail: "BEGA品牌字样浮雕压印于右上角嵌框，形成视觉锚点；嵌框宽度均匀，四边对称"
+    design_level:
+      score: 3
+      reason: "横向矩形嵌入壁灯是BEGA户外步道/入口照明经典款；造型直接功能性强，品牌印记清晰"
+    design_tags:
+      - "矩形嵌入"
+      - "壁灯"
+      - "乳白面板"
+      - "正面出光"
+      - "步道照明"
+      - "深灰框"
+    hero_feature: "宽嵌框将乳白出光面板与墙体分隔，形成悬浮感；BEGA品牌浮雕于框角"
+    problem_solved: "户外步道/入口墙体需要贴墙嵌入式照明，横向矩形灯提供均匀水平光带引导方向"
+    transferable_technique: "宽嵌框+乳白面板的嵌入壁灯基本框架；横向矩形比例适用于步道引导照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_嵌入式壁灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式壁灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形嵌入壁灯，深灰宽圆环嵌框，中央白色乳白圆形出光面，BEGA字样于右侧"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式壁灯"
+    design_language:
+      silhouette: "完整圆形；深灰宽圆环嵌框；中央圆形乳白出光面板；整体比例1:1"
+      light_opening: "圆形乳白面板正面出光；均匀漫射；嵌框圆环遮蔽边缘，出光面与墙面齐平"
+      thermal: "铝制圆形嵌框背板传导热量；背部LED模块；铝体散热"
+      cmf:
+        color: "嵌框深灰色；中央面板乳白白色"
+        material: "铸铝嵌框；乳白玻璃或聚碳酸酯面板"
+        finish: "嵌框粉末涂层深灰哑面；面板哑光乳白"
+      mounting: "嵌入墙体圆孔；两个固定螺钉可见于上下"
+      signature_detail: "深灰宽圆环与白色出光圆面的同心圆关系，形成强烈视觉焦点；BEGA字样于右侧圆环上"
+    design_level:
+      score: 3
+      reason: "圆形嵌入壁灯是BEGA系列中视觉最简洁的形式；同心圆构图在墙面上形成装饰性焦点"
+    design_tags:
+      - "圆形嵌入"
+      - "壁灯"
+      - "同心圆"
+      - "乳白面板"
+      - "正面出光"
+      - "深灰框"
+    hero_feature: "深灰宽圆环框+白色圆形出光面的同心圆构图，在墙体上形成如同瞄准镜般的视觉记忆点"
+    problem_solved: "户外墙面需要造型感更强的嵌入灯；圆形在矩形墙面上形成视觉对比和引导节点"
+    transferable_technique: "宽环框+圆形出光面的同心圆嵌入灯语言，可迁移至任何需要装饰性嵌入照明的壁面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_嵌入式壁灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式壁灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "正方形嵌入壁灯，深灰均匀宽框，中央大面积白色乳白方形面板，BEGA字样于顶框"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式壁灯"
+    design_language:
+      silhouette: "正方形，1:1比例；深灰四边均匀宽框；中央方形乳白出光面板；整体端正对称"
+      light_opening: "中央方形乳白面板正面出光；均匀漫射；方形出光面积较大，照明面积宽"
+      thermal: "铝制方形嵌框背板传导热量；背部LED均匀排列对应大面积出光"
+      cmf:
+        color: "嵌框深灰色；面板乳白白色"
+        material: "铸铝嵌框；乳白玻璃或聚碳酸酯面板"
+        finish: "嵌框粉末涂层深灰哑面；面板哑光乳白"
+      mounting: "嵌入墙体方形孔；两个固定螺钉可见于两侧"
+      signature_detail: "正方形的完整对称性；框与面板比例约1:2（框宽约占总宽的1/4）；BEGA字样于顶框中央"
+    design_level:
+      score: 3
+      reason: "正方形嵌入壁灯是BEGA系列中出光面积最大的形式；方形端正匀称，适合建筑表皮整合"
+    design_tags:
+      - "方形嵌入"
+      - "壁灯"
+      - "乳白面板"
+      - "正面出光"
+      - "大面积出光"
+      - "深灰框"
+    hero_feature: "大面积正方形乳白出光面，出光均匀柔和；正方比例在墙面上形成稳定视觉节点"
+    problem_solved: "户外墙面需要大面积均匀照明且外观整洁；方形嵌入灯在建筑模数化墙面上与网格对齐"
+    transferable_technique: "正方形出光面+均匀宽框的嵌入壁灯基本语言；适合与建筑立面模数整合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_嵌入式壁灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式壁灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "极窄横向条形嵌入壁灯，深灰细框，中央白色乳白条形面板，宽高比约5:1"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式壁灯"
+    design_language:
+      silhouette: "极细横向条形；宽高比约5:1；深灰极细框四边包围；乳白细条形面板"
+      light_opening: "细横条乳白面板正面出光；光线向前漫射；出光面极窄，形成线光源感"
+      thermal: "极薄铝制嵌框；LED为线性排列；小功率散热通过铝制框板传导"
+      cmf:
+        color: "嵌框深灰色；面板乳白白色"
+        material: "铝制嵌框；乳白面板"
+        finish: "嵌框粉末涂层深灰哑面；面板哑光乳白"
+      mounting: "嵌入墙体细横槽；两个固定螺钉于左右两端"
+      signature_detail: "极细横向条形比例（约5:1）是系列中最细的规格；线光源效果突出方向感"
+    design_level:
+      score: 3
+      reason: "超细横条形嵌入壁灯是同系列最具线性感的规格；引导性极强，适合步道边缘标识"
+    design_tags:
+      - "超细横条"
+      - "线性嵌入"
+      - "壁灯"
+      - "乳白面板"
+      - "方向引导"
+      - "步道"
+    hero_feature: "极细横向条形出光面，形成强烈水平线光感，引导视线沿步道方向延伸"
+    problem_solved: "户外步道、楼梯侧墙需要方向引导照明，超细横条嵌入灯用光线引导行走方向"
+    transferable_technique: "超细横向比例嵌入壁灯作为方向引导照明的形式；线性出光面强化方向感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_嵌入式壁灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式壁灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "纵向竖条形嵌入壁灯，深灰细框，中央白色乳白竖条面板，高宽比约4:1"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式壁灯"
+    design_language:
+      silhouette: "竖向条形；高宽比约4:1；与06.jpg横条形为同款旋转90°；深灰细框；乳白竖条面板"
+      light_opening: "细竖条乳白面板正面出光；光线向前漫射；竖向出光面形成纵向线光感"
+      thermal: "极薄铝制嵌框；LED线性竖向排列；散热通过铝制框板传导"
+      cmf:
+        color: "嵌框深灰色；面板乳白白色"
+        material: "铝制嵌框；乳白面板"
+        finish: "嵌框粉末涂层深灰哑面；面板哑光乳白"
+      mounting: "嵌入墙体细竖槽；两个固定螺钉于上下两端"
+      signature_detail: "与06横条形同系列竖向版本；两者成对使用可形成十字形光带组合；竖向强化高度感"
+    design_level:
+      score: 3
+      reason: "竖向条形嵌入壁灯与横向版本构成完整的产品族，提供设计灵活性；竖向引导增强空间高度感"
+    design_tags:
+      - "竖向条形"
+      - "线性嵌入"
+      - "壁灯"
+      - "乳白面板"
+      - "高度引导"
+      - "系列化"
+    hero_feature: "竖向条形嵌入壁灯与横向版本（06.jpg）构成完整横竖两向系列，可灵活组合"
+    problem_solved: "户外柱面、门框旁需要竖向线光引导；竖条嵌入灯强化垂直尺度感"
+    transferable_technique: "横/竖两向配套的线性嵌入壁灯系列化设计；竖向线光强化建筑高度感的应用逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

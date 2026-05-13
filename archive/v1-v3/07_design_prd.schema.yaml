@@ -1,0 +1,84 @@
+# 07_design_prd.schema.yaml — 设计版PRD三页
+
+schema_version: "2.0"
+
+required:
+  page1_user_scenario:
+    type: object
+    description: "用户场景页"
+    fields:
+      target_user:
+        type: string
+        required_hard: true
+        description: "具体用户描述，职业/年龄/技能水平，≥20字。来源：02_user_action_map"
+      use_scenario:
+        type: string
+        required_hard: true
+        description: "使用场景画面，有时间/地点/动作，≥30字"
+      core_value:
+        type: string
+        description: "用户感受到核心价值的具体动作节点"
+      buying_reason:
+        type: string
+        description: "购买真实理由。来源：02_buyer_map.roi_impact_points"
+
+  page2_form_structure:
+    type: object
+    description: "造型结构页"
+    fields:
+      main_view_logic:
+        type: string
+        required_hard: true
+        description: "主视角造型逻辑。来源：04_form_mother_cards[selected].主轮廓_比例"
+      parting_lines:
+        type: string
+        description: "主要分件线位置。来源：04_form_mother_cards[selected].分件策略"
+      interfaces:
+        type: list
+        description: "接口/按键/连接件清单，含位置描述"
+      installation_method:
+        type: string
+        description: "安装方式详述。来源：04_form_mother_cards[selected].安装架构"
+      maintenance_access:
+        type: string
+        description: "维护入口位置，工具要求"
+
+  page3_engineering:
+    type: object
+    description: "工程边界页"
+    fields:
+      optical_specs:
+        type: object
+        fields:
+          luminous_flux: string
+          color_temperature: string
+          beam_angle: string
+      thermal_constraints:
+        type: string
+        description: "散热方式和温度上限"
+      cost_ceiling:
+        type: string
+        required_hard: true
+        description: "BOM上限。来源：03_direction_space.form_handoff_brief.cost_ceiling_per_unit"
+      certification_required:
+        type: list
+        description: "必须认证列表"
+      risk_top5:
+        type: list
+        description: "落地风险Top5"
+        item_schema:
+          rank: integer
+          category:
+            type: enum
+            values: ["结构", "电气", "可靠性", "人因", "成本", "法规"]
+          risk: string
+          level:
+            type: enum
+            values: ["H", "M", "L"]
+          mitigation: string
+          owner: string
+
+validation:
+  - 三页必须按顺序存在
+  - risk_top5每条必须有mitigation
+  - cost_ceiling必须与03_direction_space.form_handoff_brief.cost_ceiling_per_unit一致

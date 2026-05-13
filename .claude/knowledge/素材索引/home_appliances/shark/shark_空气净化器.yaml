@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "空气净化器"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/空气净化器/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "shark_purifier_001"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/空气净化器/02.jpg"
+        image_role: "hero"
+        visual_anchor: "白灰色桶形净化器正面，中央圆形蓝色LED环绕数字显示屏，顶部黑色出风格栅"
+    product_name: "Shark NeverChange 空气净化器"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "空气净化器"]
+    design_language:
+      silhouette: "腰鼓形桶体（中部收腰，上下略宽），高约45cm；顶部平面黑色出风圆盖，底部金铜色装饰腰线"
+      light_opening: "有——中央圆形蓝色LED环，直径约15cm，内嵌数字显示屏"
+      thermal: "顶部出风大面积格栅（360°圆形，占顶面约70%）"
+      cmf:
+        color: "哑白（机身主体）+ 浅灰（侧翼竖纹面板）+ 蓝色（LED环）+ 铜金（底部腰线）"
+        material: "ABS主体 + 金属装饰腰线 + 钢化玻璃显示窗"
+        finish: "光面白主体 + 细纹灰侧板 + 拉丝铜金腰线"
+      mounting: "落地独立摆放；无需挂墙"
+      signature_detail: "中央蓝色圆形LED状态环——'CLEAN AIR 100%'数字显示，将空气质量数值化呈现为仪表盘，视觉即空气质量报告"
+    design_level:
+      score: 4
+      reason: "腰鼓造型在空净品类中差异化明显；蓝色圆形显示屏是极强记忆点；铜金腰线提升家居感；整体设计系统感强"
+    design_tags: ["空气净化器", "腰鼓形", "蓝色LED环", "数字显示", "铜金腰线", "NeverChange"]
+    hero_feature: "中央圆形蓝LED仪表盘——实时显示洁净度百分比，空气质量可视化，无需手机APP即可感知"
+    problem_solved: "免换滤网（NeverChange技术）+实时空气质量反馈，降低维护成本和用户焦虑"
+    transferable_technique: "圆形仪表盘状态显示——将抽象数据（空气质量）转化为大号圆形数字+光环，远距离可读，可迁移至净水机/除湿机等环境感知设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "shark_purifier_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/空气净化器/03.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆柱净化器正面，顶部嵌入式黑色控制面板+蓝色LED圆环，下半身竖纹浅浮雕"
+    product_name: "Shark Clean Sense iQ 空气净化器"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "空气净化器"]
+    design_language:
+      silhouette: "标准圆柱形（直径约25cm，高约55cm），上下等径，无收腰；顶部嵌入黑色控制面板台阶凹陷"
+      light_opening: "有——顶部控制面板蓝色LED圆环（直径约12cm），内显数字"
+      thermal: "顶面出风（控制面板周围环形格栅）"
+      cmf:
+        color: "纯白（机身主体）+ 黑（顶部控制台）+ 蓝色（LED环）+ 浅灰（底部竖纹段）"
+        material: "ABS主体 + PC顶盖 + 布艺/细纹饰面下半段"
+        finish: "光面白上身 + 细纹浮雕下半身 + 哑黑控制台"
+      mounting: "落地独立摆放"
+      signature_detail: "顶部内嵌控制面板+蓝色LED圆环——下沉式设计使顶面整洁，品牌标志式蓝环跨产品线统一"
+    design_level:
+      score: 3
+      reason: "圆柱形中规中矩，但上下材质切换（光面+细纹）制造层次感；蓝色LED环与purifier_001共享品牌语言；整体偏家居融合风格"
+    design_tags: ["空气净化器", "圆柱形", "蓝色LED环", "竖纹下半身", "家居融合", "Clean Sense iQ"]
+    hero_feature: "顶部下沉式控制台+蓝色圆环——操控区藏入顶面凹槽，外观保持圆柱整洁，使用时俯视操控"
+    problem_solved: "智能感知空气质量自动调节，Clean Sense iQ技术减少手动操作，适合家居常置"
+    transferable_technique: "控制面板下沉隐藏——将控制区凹入顶面台阶，平视不见按键，保持外观简洁，可迁移至需要隐藏操控界面的家电"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

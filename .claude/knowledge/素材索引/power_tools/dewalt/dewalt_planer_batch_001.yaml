@@ -1,0 +1,226 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "刨"
+  tertiary: "手持电刨与台式厚度刨"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/"
+  generated_at: "2026-05-07"
+
+products:
+  - product_id: "dewalt_刨_001"
+    source_images:
+      - filename: "刨__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__01.jpg"
+        image_role: "hero"
+        visual_anchor: "黄色无绳手持电刨带黑色桥式手柄和侧面大面积DeWalt标识罩"
+    product_name: "unknown"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "刨"
+      - "无绳手持电刨"
+    design_language:
+      silhouette: "低矮长方底板上叠加前后凸起壳体，后部桥式手柄形成拱形负空间"
+      light_opening: "无发光口；以黑色功能开口、螺丝孔和侧盖缝隙承担视觉分区"
+      thermal: "侧面黑色电机罩与底部短筋形成外露散热和防护表达"
+      cmf:
+        color: "DeWalt高饱和黄色主体，黑色握持区和银色金属底板"
+        material: "工程塑料外壳、橡胶包胶握持、金属刨削底板"
+        finish: "主体半哑光注塑，握持区细纹防滑，底板金属拉丝/机加工感"
+      mounting: "手持推行式工具语言，宽金属底板作为作业基准面"
+      signature_detail: "黑黄分色沿手柄和电机罩连续包边，品牌色直接转化为结构分区"
+    design_level:
+      score: 3
+      reason: "品牌识别强、功能分区清楚，整体仍以成熟工具外观为主，创新度中等"
+    design_tags:
+      - "无绳电刨"
+      - "桥式手柄"
+      - "黑黄分区"
+      - "包胶握持"
+      - "金属底板"
+    hero_feature: "黑黄桥式握把与侧面大标识电机罩把专业工具感集中在侧视角"
+    problem_solved: "无绳手持刨需要在紧凑机身内同时表达握持可靠、动力强和品牌识别"
+    transferable_technique: "用高对比品牌色沿真实握持区和电机罩分区，而不是贴装饰色块"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_刨_002"
+    source_images:
+      - filename: "刨__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__02.jpg"
+        image_role: "hero"
+        visual_anchor: "黄色台式厚度刨与银色延展台板、长条刀片附件共同平铺展示"
+    product_name: "unknown"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "刨"
+      - "台式厚度刨"
+    design_language:
+      silhouette: "箱式上机身悬置在四角立柱上，下方形成矩形进料通道和平台"
+      light_opening: "无发光口；前面板操作标贴、红色开关和高度尺形成信息开口"
+      thermal: "机身下缘黑色连续齿形筋和侧部圆形电机壳表达散热与动力"
+      cmf:
+        color: "黄色箱体、黑色底部功能带、银色金属平台和附件"
+        material: "工程塑料机罩、压铸/冲压金属底座、钢制台板和刀片"
+        finish: "塑料半哑光，金属台面光滑冷灰，刻度区高对比印刷"
+      mounting: "桌面放置式，四柱升降结构和宽平台强调稳定支撑"
+      signature_detail: "黄色箱体悬在四根弹簧立柱上，正面密集刻度和红色锁扣形成设备感"
+    design_level:
+      score: 3
+      reason: "结构信息表达清晰，附件展示完整，外观主要服务专业工具可信度"
+    design_tags:
+      - "台式厚度刨"
+      - "四柱支撑"
+      - "延展台板"
+      - "高对比刻度"
+      - "设备化正面"
+    hero_feature: "悬置黄色箱体和银色延展台板直接传达稳定进料与厚度控制"
+    problem_solved: "台式木工刨需要让用户快速理解进料平台、厚度调节和刀片附件关系"
+    transferable_technique: "把关键调节尺度外置到正面立柱旁，用刻度色块形成可读的操作层"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_刨_003"
+    source_images:
+      - filename: "刨__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__03.jpg"
+        image_role: "detail"
+        visual_anchor: "台式厚度刨正面特写露出红色锁扣、黄色高度尺和银色侧轮"
+    product_name: "unknown"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "刨"
+      - "台式厚度刨"
+    design_language:
+      silhouette: "宽矩形机箱压在金属底盘上，右侧圆轮横向伸出，四角立柱垂直支撑"
+      light_opening: "无发光口；红色安全锁扣和黄色刻度尺是主要视觉开口"
+      thermal: "黑色下沿竖向齿形筋和侧部圆形电机壳构成散热/防护暗示"
+      cmf:
+        color: "黄色主箱体、黑色下沿和手柄、银色金属轮与底座、红色操作件"
+        material: "注塑机罩、金属升降立柱、金属底盘与手轮"
+        finish: "黄色外壳亮面半哑，黑色功能件细纹，金属件抛光/铸造对比"
+      mounting: "桌面台式固定使用，底座和进料台面形成水平作业基准"
+      signature_detail: "红色锁扣位于黄色正面中心，和右侧高度尺形成一眼可读的操作焦点"
+    design_level:
+      score: 3
+      reason: "正面信息层次明确，安全件和调节件识别度高，但造型仍偏常规设备"
+    design_tags:
+      - "正面操作面板"
+      - "红色安全锁"
+      - "高度刻度"
+      - "金属手轮"
+      - "专业设备感"
+    hero_feature: "红色锁扣、黄色高度尺和银色手轮组成高可读的调节界面"
+    problem_solved: "厚度刨的安全锁定和高度调节容易混淆，需要在正面建立明确操作优先级"
+    transferable_technique: "用单一红色强调安全/锁定动作，其余调节信息保持品牌主色体系"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_刨_004"
+    source_images:
+      - filename: "刨__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__04.jpg"
+        image_role: "hero"
+        visual_anchor: "黄色有线手持电刨从右后方引出黑色电源线，侧面黑色电机罩带品牌标识"
+    product_name: "unknown"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "刨"
+      - "有线手持电刨"
+    design_language:
+      silhouette: "细长楔形底座承托前旋钮、中央机身和后部闭环把手，电源线从尾部延伸"
+      light_opening: "无发光口；侧面长槽和电机罩螺丝形成黑色功能开口"
+      thermal: "侧面黑色电机罩的弧形筋条和开槽表达散热与内部旋转部件"
+      cmf:
+        color: "黄色主体、黑色侧盖与握持件、银色金属底板"
+        material: "工程塑料机身、包胶握把、金属底板和紧固件"
+        finish: "黄色外壳光滑半哑，黑色电机罩细纹，金属底板冷灰机加工质感"
+      mounting: "手持推行式，前后底板贴合木材表面作为导向"
+      signature_detail: "黑色椭圆电机罩嵌在黄色壳体侧面，品牌标识位于最宽侧面中心"
+    design_level:
+      score: 2
+      reason: "功能布局清楚但视觉复杂度较低，主要依赖品牌色和常规电刨比例"
+    design_tags:
+      - "有线电刨"
+      - "闭环手柄"
+      - "侧置电机罩"
+      - "前调节旋钮"
+      - "黑黄品牌语法"
+    hero_feature: "闭环黄色手柄和黑色侧置电机罩构成清晰的握持与动力分区"
+    problem_solved: "有线手持刨需要在低成本结构中保持方向感、握持安全和品牌识别"
+    transferable_technique: "把最大侧盖做成黑色功能岛，让动力区、品牌标和散热槽集中表达"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_刨_005"
+    source_images:
+      - filename: "刨__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__05.jpg"
+        image_role: "scene"
+        visual_anchor: "黄色有线手持电刨放在巨大黑色DeWalt收纳箱前方"
+    product_name: "unknown"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "刨"
+      - "有线手持电刨套装"
+    design_language:
+      silhouette: "小型楔形电刨置于高大矩形收纳箱前，形成工具与箱体的前后尺度对比"
+      light_opening: "无发光口；侧盖散热槽和箱体锁扣孔作为功能开口"
+      thermal: "电刨侧面黑色罩壳的连续弧形散热槽强化动力区识别"
+      cmf:
+        color: "黑色收纳箱大背景配黄色品牌字和黄色工具主体"
+        material: "塑料工具壳、塑料收纳箱、金属底板"
+        finish: "工具主体半哑光，收纳箱哑光纹理，底板金属冷灰"
+      mounting: "手持工具与便携收纳箱组合展示，强调携带和现场作业"
+      signature_detail: "收纳箱上超大黄色DeWalt字标与前景工具同色呼应，强化套装识别"
+    design_level:
+      score: 2
+      reason: "套装图品牌识别极强，但产品造型本身为基础工具语言"
+    design_tags:
+      - "工具套装"
+      - "收纳箱"
+      - "大字标背景"
+      - "便携作业"
+      - "品牌色呼应"
+    hero_feature: "黑色收纳箱的大型黄色字标把前景电刨包装成完整专业套装"
+    problem_solved: "单件工具在线上图中容易缺少购买完整感，需要表达收纳、携带和品牌套装价值"
+    transferable_technique: "用包装/收纳件作为背景尺度物，让工具图同时传达系统感和品牌资产"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,39 @@
+# 用户偏好（自动捕获 + 手动确认）
+# 跨所有项目生效
+last_updated: "2026-05-11"
+
+signals:
+  - signal: "发现问题立刻自己修复，不转包给用户"
+    captured_at: "2026-05-07"
+    type: permanent
+
+  - signal: "每次迭代更新后同步推送GitHub 5WmMY分支"
+    captured_at: "2026-05-07"
+    type: permanent
+
+  - signal: "不在桌面生成日志文件"
+    captured_at: "2026-05-07"
+    type: permanent
+
+  - signal: "所有问题都必须处理，不能说无所谓/不影响"
+    captured_at: "2026-05-09"
+    type: permanent
+
+  - signal: "DNA卡和图片必须一一对应"
+    captured_at: "2026-05-09"
+    type: permanent
+
+  - signal: "审核必须读图验证，不能只看文本"
+    captured_at: "2026-05-09"
+    type: permanent
+  - signal: "以后每次都要先看素材库"
+    captured_at: "2026-05-11 16:25"
+    type: "user_habit"
+
+  - signal: "请你审计这份GPT输出的内容并简要和我说明：结论：方向对，但现在还是“框架型系统”，不是“可信调研系统”。
+要达到你说的目标，不能继续堆框架，要把它改成：
+
+证据系统 + 真实商业门槛 + 设计判断 "
+    captured_at: "2026-05-12 09:14"
+    type: "user_habit"
+

@@ -1,0 +1,25 @@
+# 项目启动简报模板
+# 使用方法：复制此文件到 artifacts/projects/{project_id}/00_brief.yaml，填写字段
+
+project_id: "20260403-ACG-LIGHT"  # 格式：YYYYMMDD-客户缩写-品类缩写
+
+# 必填字段
+client: "acg"                      # 必须匹配 knowledge/clients/ 下的文件名
+category: "便携工作灯"              # 产品品类关键词
+brief_text: |
+  用户的原始需求描述，原文保留不做修改。
+  例：做一款面向专业工人的便携工作灯，
+  要求可以多角度固定，单手操作，价格在$25以内。
+
+# 可选字段
+price_target: "$20-30"             # 目标零售价格带，缺失时从客户档案读取
+key_constraints:
+  - "必须FCC认证"
+  - "重量不超过200g"
+  - "防水IP54以上"
+
+reference_products:
+  - "NEBO Slyde King 500"
+  - "DEWALT DCL040"
+
+notes: "客户下次见面时间2026-04-15，提案需在此之前完成"

@@ -1,0 +1,44 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "床头灯·起床灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/床头灯·起床灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "pl_床头灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/床头灯·起床灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "全白色蘑菇形台灯，可旋转倾斜大帽形灯罩，锥形基座，底部小圈软木质地贴脚"
+    product_name: "Philips Hue Soma 床头台灯"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "床头灯·起床灯"]
+    design_language:
+      silhouette: "圆弧碗状灯罩偏转约30度安装于锥形柱基顶部，形成俯视蘑菇/啄木鸟造型；整体高宽比约2:1"
+      light_opening: "碗形灯罩大面积向下朝侧方开口出光，内置磨砂扩散面板，暖白光漫射"
+      thermal: "塑料/铝合金内芯，外壳塑料，自然散热"
+      cmf:
+        color: "纯白色（White）"
+        material: "塑料外壳，软木底圈"
+        finish: "哑面白色涂层，底部软木自然纹理"
+      mounting: "桌面放置，软木底圈防滑"
+      signature_detail: "灯罩与基座连接处细颈收腰，灯罩可手动旋转调整方向；软木底圈是唯一材质对比点"
+    design_level:
+      score: 4
+      reason: "偏转灯罩赋予静态产品动势感，软木细节在全白形体中提供温度，简洁中有人情味；造型识别度高于同价位竞品"
+    design_tags: ["仿生", "蘑菇造型", "可旋转灯罩", "软木", "H06仿生", "H07极简整合", "H10材料表达"]
+    hero_feature: "倾斜碗形灯罩×软木底圈——有方向感的温柔造型，告别对称死板"
+    problem_solved: "床头阅读/氛围光需要方向可调且造型有品质感的台灯，普通台灯调光需配合开关"
+    transferable_technique: "偏转灯罩制造产品动势的手法（H06仿生姿态）；软木小面积点缀材料对比增加温度感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,44 @@
+# 设计评审基准模板（Design Critic Evaluation）
+# 用于Step 06概念生成后的多轮自我评审闭环
+
+evaluation_dimensions:
+
+  # ── 维度1：3秒记忆度（权重30%） ──
+  memorability:
+    question: "10米外第一眼看到什么？能用5个字说清吗？"
+    pass_criteria: "有且仅有一个主视觉特征（Hero Feature），能被非专业人士3秒内描述"
+    fail_criteria: "没有明确的主特征 / 主特征需要解释才能理解 / 有2个以上互相竞争的特征"
+    score_range: "1-5"
+
+  # ── 维度2：功能硬理由（权重25%） ──
+  functional_alibi:
+    question: "销售能用一句话复述的硬卖点是什么？"
+    pass_criteria: "主视觉特征有无法辩驳的工程/功能理由（如：散热、防水、安装效率）"
+    fail_criteria: "主特征是纯装饰性的 / 卖点是空话（'更现代''更高级'）/ 功能理由牵强"
+    score_range: "1-5"
+
+  # ── 维度3：品牌归属感（权重25%） ──
+  brand_fit:
+    question: "去掉logo后，客户还能认出这是该品牌的产品吗？"
+    pass_criteria: "形态/材质/色彩100%在品牌DNA绿灯表范围内，不触犯任何红线"
+    fail_criteria: "触犯品牌红线任意一条 / 看起来像另一个品牌的产品 / 需要解释'为什么我们也能做这种风格'"
+    score_range: "1-5"
+
+  # ── 维度4：风险可控度（权重20%） ──
+  risk_control:
+    question: "采购、产品经理、工程团队会害怕这个方案吗？"
+    pass_criteria: "BOM在走廊内 / 工艺成熟 / 认证路径清晰 / 不需要新渠道"
+    fail_criteria: "BOM超走廊>10% / 需要全新工艺验证 / 需要开拓新渠道 / 需要教育市场"
+    score_range: "1-5"
+
+  # ── 总分计算 ──
+  scoring:
+    champion_threshold: 4.0  # 加权总分≥4.0才有资格成为冠军方案
+    kill_threshold: 2.5  # 加权总分<2.5直接淘汰
+    any_dimension_below_2: "直接淘汰，不论总分"
+
+# ── 冠军方案必须额外回答 ──
+champion_questions:
+  - "为什么它比第二名更容易被客户一次选中？"
+  - "如果客户否掉它，最可能是因为什么？"
+  - "这个方案像不像一个已经准备好进入客户产品线的下一代畅销款？"

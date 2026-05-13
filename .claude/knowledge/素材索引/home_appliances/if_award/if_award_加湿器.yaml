@@ -1,0 +1,298 @@
+schema_version: product_dna_v1
+category:
+  primary: 家电
+  secondary: 加湿器
+  tertiary: ''
+source:
+  source_type: brand_official
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/加湿器/
+  generated_at: '2026-05-08'
+products:
+- product_id: if_humidifier_001
+  source_images:
+  - filename: 40.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/加湿器/40.jpg
+    image_role: hero
+    visual_anchor: 低矮圆柱底座配浅盘透明水槽，顶部出雾，整体如石臼造型
+  product_name: 超声波蒸发式加湿器
+  brand_name: DANSOON
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 加湿器
+  design_language:
+    silhouette: 扁圆柱体，上宽下收，底座粗壮稳重，顶盖扁平圆形悬浮感
+    light_opening: 无
+    thermal: 顶部中央出雾口，水雾垂直上升
+    cmf:
+      color: 浅灰白
+      material: 哑光塑料机身 + 透明玻璃/亚克力水槽圈
+      finish: 磨砂哑光
+    mounting: 桌面放置
+    signature_detail: 透明圆环水槽嵌于顶盖与底座之间，水位可视，内部有卵石状装饰
+  design_level:
+    score: 4
+    reason: 极简造型克制有力，透明水槽做成装饰带的思路新颖，整体比例优秀，工艺精度高
+  design_tags:
+  - 极简
+  - 超声波
+  - 可视水槽
+  - 石臼造型
+  - 桌面型
+  hero_feature: 透明环状水槽兼顾水位显示与装饰，卵石内衬赋予自然意象
+  problem_solved: 传统加湿器水箱不透明难以判断水位，此设计将水槽变为视觉焦点
+  transferable_technique: 将功能性储液槽转化为装饰性透明腰带，适用于空气净化器、香薰机等同类产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_humidifier_003
+  source_images:
+  - filename: 51.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/加湿器/51.jpg
+    image_role: detail
+    visual_anchor: 俯视近景，圆形顶盖与透明圆环水槽的接合细节，水珠附着在透明环内壁
+  product_name: 超声波蒸发式加湿器（同if_humidifier_001，细节图）
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 加湿器
+  design_language:
+    silhouette: 俯视圆形，顶盖平面极简，透明水槽环清晰可见
+    light_opening: 无
+    thermal: 顶盖背侧可见出雾缝隙
+    cmf:
+      color: 浅灰白
+      material: 哑光塑料顶盖 + 透明亚克力水槽
+      finish: 磨砂哑光 + 高透明
+    mounting: 桌面放置
+    signature_detail: 顶盖下沿与透明水槽环的精密配合缝隙，工艺精度极高；控制按键嵌于腰部极小区域
+  design_level:
+    score: 4
+    reason: 细节工艺精良，分件线处理干净，水珠附着效果直观传达品类功能
+  design_tags:
+  - 细节图
+  - 分件线
+  - 工艺精度
+  - 透明水槽
+  - 极简按键
+  hero_feature: 顶盖与透明水槽环的精密咬合，分件线工艺展示
+  problem_solved: 展示产品顶部结构的设计精度与透明水槽的可视化效果
+  transferable_technique: 分件线作为设计语言而非工程妥协的手法；透明腰带与不透明主体的材质对比分件
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: medium
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_humidifier_004
+  source_images:
+  - filename: 77.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/加湿器/77.jpg
+    image_role: hero
+    visual_anchor: 矮胖圆桶造型，纯白机身，顶部深灰色圆角矩形触控面板，品牌WINIA
+  product_name: 除湿/加湿一体机
+  brand_name: WINIA
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 加湿器
+  design_language:
+    silhouette: 竖向椭圆柱体，上窄下宽，底部圆润，顶部有深色控制区
+    light_opening: 无
+    thermal: 无明显出风口可见
+    cmf:
+      color: 纯白 + 深灰顶盖
+      material: 光面ABS塑料
+      finish: 高光亮面
+    mounting: 落地/桌面
+    signature_detail: 顶部圆角矩形深灰触控面板与白色机身的撞色对比，5个触控图标排列整齐
+  design_level:
+    score: 2
+    reason: 造型常规，缺乏记忆点，顶盖触控面板处理略显平庸，整体设计语言保守
+  design_tags:
+  - 保守设计
+  - 圆柱体
+  - 触控面板
+  - 韩系家电
+  - 双色对比
+  hero_feature: 顶部圆角矩形深灰触控面板与纯白机身形成撞色
+  problem_solved: 常规家用加湿器，触控操作集中于顶部便于俯视操作
+  transferable_technique: 顶部控制面板集中布局的人机设计思路，适用于桌面型家电
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_humidifier_005
+  source_images:
+  - filename: 93.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/加湿器/93.jpg
+    image_role: hero
+    visual_anchor: 细长锥形塔状造型，香槟金色，顶端出雾，底座为黑色散热底盘，品牌FUNGENE
+  product_name: 塔式超声波加湿器
+  brand_name: FUNGENE
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 加湿器
+  design_language:
+    silhouette: 细高锥体，自下而上渐收，顶端出雾，底部外撇黑色支撑底盘
+    light_opening: 无
+    thermal: 顶端细口出雾
+    cmf:
+      color: 香槟金/黄铜色
+      material: 金属铝合金锥形管
+      finish: 拉丝金属
+    mounting: 桌面/地面
+    signature_detail: 锥形金属管身 + 外撇放射状黑色底座，造型接近落地灯或高端音响
+  design_level:
+    score: 5
+    reason: 突破品类常规形态，将加湿器设计为雕塑级装饰品，拉丝金属工艺精良，品类假设挑战成功
+  design_tags:
+  - 装饰性
+  - 锥形
+  - 金属质感
+  - 品类突破
+  - 香槟金
+  - App联控
+  hero_feature: 细长锥形金属塔身，完全颠覆加湿器圆桶固有造型，装饰价值显著
+  problem_solved: 家用加湿器形态单一难以融入高端室内设计，此方案将其设计为室内装饰物
+  transferable_technique: 锥形立柱造型语言可迁移至香薰机、空气净化器；金属拉丝管材在家电中做主体结构的手法
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_humidifier_006
+  source_images:
+  - filename: 94.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/加湿器/94.jpg
+    image_role: scene
+    visual_anchor: 同款锥形塔式加湿器置于森林场景中，强调自然感与产品意境
+  product_name: 塔式超声波加湿器（同if_humidifier_005，场景图）
+  brand_name: FUNGENE
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 加湿器
+  design_language:
+    silhouette: 细高锥体，与森林树干形态呼应
+    light_opening: 无
+    thermal: 顶端微弱出雾可见
+    cmf:
+      color: 香槟金/黄铜色
+      material: 金属铝合金
+      finish: 拉丝金属
+    mounting: 地面
+    signature_detail: 产品置于林间的场景化叙事，强化仿生锥形与自然树干的语义关联
+  design_level:
+    score: 4
+    reason: 场景构建有力，产品与自然背景的仿生语义关联清晰，传播力强
+  design_tags:
+  - 场景图
+  - 仿生叙事
+  - 自然意境
+  - 锥形
+  - 香槟金
+  hero_feature: 森林背景中锥形金属塔与树干的形态呼应，强化仿生设计叙事
+  problem_solved: 通过场景化呈现传递产品的自然美学定位
+  transferable_technique: 将产品置于其设计灵感来源的自然环境中进行场景化表达
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: medium
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_humidifier_007
+  source_images:
+  - filename: 96.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/加湿器/96.jpg
+    image_role: hero
+    visual_anchor: 圆柱形蓝色机身，顶部全透明，水雾从透明腔体内溢出，品牌ECLEAR
+  product_name: 透明顶腔超声波加湿器
+  brand_name: ECLEAR
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 加湿器
+  design_language:
+    silhouette: 等径圆柱体，下半段不透明蓝色，上半段透明圆柱腔
+    light_opening: 顶部开口，雾气直接从透明腔体内溢出
+    thermal: 顶部开口出雾，雾气充满透明腔体后溢出，视觉效果戏剧化
+    cmf:
+      color: 宝蓝色 + 透明
+      material: 不透明ABS塑料底部 + 透明亚克力/玻璃上部
+      finish: 哑光蓝 + 高透明
+    mounting: 桌面
+    signature_detail: 透明腔体内水雾充盈的视觉效果，如同云层在玻璃罩内流动
+  design_level:
+    score: 4
+    reason: 将加湿过程可视化为视觉体验，蓝色与透明的配色强化水的联想，情感化设计得分高
+  design_tags:
+  - 透明腔体
+  - 出雾可视
+  - 情感化
+  - 蓝色
+  - 云雾效果
+  hero_feature: 透明圆柱腔体内水雾充盈流动的景观效果，将功能过程变为视觉享受
+  problem_solved: 加湿器工作时无视觉反馈，此设计将出雾过程变为可欣赏的景观
+  transferable_technique: 透明腔体将内部工作过程可视化的手法，适用于香薰扩散器、空气净化器等
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_humidifier_008
+  source_images:
+  - filename: 97.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/加湿器/97.jpg
+    image_role: scene
+    visual_anchor: 同款白色版ECLEAR加湿器置于书架场景中，顶部发出柔和蓝白色光晕
+  product_name: 透明顶腔超声波加湿器（同if_humidifier_007，白色版场景图）
+  brand_name: ECLEAR
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 加湿器
+  design_language:
+    silhouette: 等径圆柱体，白色版本，顶部透明腔发光
+    light_opening: 顶部开口，搭配内置灯光
+    thermal: 雾气从顶部透明腔溢出
+    cmf:
+      color: 哑光白 + 透明 + 蓝白光
+      material: 哑光ABS + 透明亚克力
+      finish: 哑光白 + 透明
+    mounting: 桌面/书架
+    signature_detail: 夜间场景下透明腔体发出蓝白光晕，兼具氛围灯功能
+  design_level:
+    score: 3
+    reason: 场景图传递居家氛围感，白色版相比蓝色版记忆点弱，但光效附加值明显
+  design_tags:
+  - 场景图
+  - 氛围灯
+  - 白色版
+  - 居家场景
+  - 光效
+  hero_feature: 夜间透明腔体的蓝白光晕，兼做氛围灯的副功能
+  problem_solved: 书桌/床头场景下加湿器的夜间视觉存在感与氛围营造
+  transferable_technique: 将产品的工作状态光效设计为夜间氛围灯的双重功能手法
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: medium
+  needs_human_review: false
+  review_reason: ''

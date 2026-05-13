@@ -1,0 +1,132 @@
+schema_version: product_dna_v1
+category:
+  primary: 家电
+  secondary: 电水壶
+  tertiary: ''
+source:
+  source_type: award_collection
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/电水壶
+  generated_at: '2026-05-08'
+products:
+- product_id: if_kettle_001
+  source_images:
+  - filename: 94.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/电水壶/94.jpg
+    image_role: hero
+    visual_anchor: 奶油白圆柱机身，下段烟灰色透明玻璃水位窗，底座边缘暖橙色加热灯带，把手一体成型
+  product_name: RAPID 3D HEATING 电水壶
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 电水壶
+  design_language:
+    silhouette: 竖向圆柱体，上盖与机身同色，比例修长，底部收窄形成轻微锥形
+    light_opening: 底座环形暖橙色LED灯带
+    thermal: 下段透明玻璃窗可见加热元件与水位
+    cmf:
+      color: 奶油白+烟灰色透明
+      material: 哑光ABS上身+透明玻璃下段+金属底座
+      finish: 哑光涂层+透明玻璃+亮铬接缝件
+    mounting: 圆形底座旋转式，底座刻字RAPID 3D HEATING
+    signature_detail: 上身哑光白与下段透明玻璃的水平分界线，加热时底座橙光环绕
+  design_level:
+    score: 4
+    reason: 透明玻璃下段将加热过程功能可视化，橙色灯带与奶油白形成冷暖对比，整体造型克制而有设计感
+  design_tags:
+  - 功能可视化
+  - 分段材质
+  - 暖光底座
+  - 极简圆柱
+  - 家居融合
+  hero_feature: 下段烟灰透明玻璃水位窗+底座橙光灯带，加热状态一眼可见
+  problem_solved: 传统电水壶不透明机身无法判断水位与加热状态，该设计以透明分段直接解决可视化需求
+  transferable_technique: 功能状态以发光底座外化表达，替代数字显示屏（H11功能外显+H10材料表达）
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_kettle_002
+  source_images:
+  - filename: 95.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/电水壶/95.jpg
+    image_role: detail
+    visual_anchor: 俯视角度，顶盖圆形观察窗，把手弧形截面，底座灯带橙色可见
+  product_name: RAPID 3D HEATING 电水壶（顶视角）
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 电水壶
+  design_language:
+    silhouette: 圆柱顶部视角，顶盖中央圆形透明观察窗，把手向右伸出
+    light_opening: 底座环形暖橙色LED灯带（侧面仍可见）
+    thermal: 顶盖透明圆窗可观察内部水汽状态
+    cmf:
+      color: 奶油白+透明窗
+      material: 哑光ABS+透明材质顶盖窗
+      finish: 哑光涂层+亮铬小件
+    mounting: 圆形底座旋转式
+    signature_detail: 顶盖圆形透明观察窗，与94.jpg下段透明玻璃形成呼应的双向可视化
+  design_level:
+    score: 4
+    reason: 与94.jpg同款，顶视角补充展示顶盖细节，透明窗设计在俯视角度更直观
+  design_tags:
+  - 功能可视化
+  - 顶盖透明窗
+  - 双向可视化
+  - 极简圆柱
+  hero_feature: 顶盖中央透明圆形观察窗，俯视可见内部水汽
+  problem_solved: 补充94.jpg侧视角，完整呈现该款电水壶顶部细节设计
+  transferable_technique: 顶盖透明窗与侧面透明玻璃组合，实现360度功能可视化（H11功能外显）
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_kettle_003
+  source_images:
+  - filename: 05.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/电水壶/05.jpg
+    image_role: hero
+    visual_anchor: 全镜面不锈钢锥形壶身，右侧弧形把手，顶部无盖开口，无电源底座
+  product_name: 镜面不锈钢水壶
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 电水壶
+  design_language:
+    silhouette: 倒锥形壶身，底部宽顶部收口，无盖或开口设计，侧面完全平整镜面
+    light_opening: 无
+    thermal: 无可见加热元件，无电源底座
+    cmf:
+      color: 镜面银
+      material: 抛光不锈钢
+      finish: 高光镜面抛光
+    mounting: 无底座，直接落台面
+    signature_detail: 倒锥形全镜面壶身，把手同材质一体弯折，顶部黑色小翻盖
+  design_level:
+    score: 4
+    reason: 极简镜面造型，比例优雅，全不锈钢一体感强，手工艺级别的表面处理
+  design_tags:
+  - 镜面不锈钢
+  - 极简主义
+  - 倒锥形
+  - 无装饰
+  - 餐桌美学
+  hero_feature: 全镜面不锈钢倒锥形壶身，无任何装饰件，依靠纯粹造型和材质说话
+  problem_solved: 传统水壶外观功能感强，该设计将水壶做成餐桌艺术品级别
+  transferable_technique: 单一高光材质覆盖整体造型，以形态和反射创造视觉张力（H07极简整合+H10材料表达）
+  confidence:
+    visual_description: high
+    category: medium
+    brand: unknown
+    product_grouping: medium
+  needs_human_review: true
+  review_reason: 图中产品无电源底座、无加热元件可见，造型更接近手冲壶或餐桌水壶（非电热水壶）。需人工确认是否属于电水壶品类，或应移至餐具/厨具品类

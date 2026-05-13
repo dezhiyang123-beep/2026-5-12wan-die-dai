@@ -1,0 +1,293 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "平板电脑"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/平板电脑/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_tablet_001"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/平板电脑/02.jpg"
+        image_role: "hero"
+        visual_anchor: "2-in-1平板+触控笔斜置展示，极细边框屏幕，铰链可见"
+    product_name: "Inspiron 2-in-1 Tablet with Stylus"
+    brand_name: "Dell"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "超薄矩形板体，四角圆弧，铰链侧面外露，整体低调商务感"
+      light_opening: "屏幕占比约85%，细黑边框，下方有Dell logo居中"
+      thermal: "无明显散热结构，薄机身被动散热"
+      cmf:
+        color: "机身黑色，背面无装饰"
+        material: "金属机身"
+        finish: "磨砂哑光"
+      mounting: "铰链360度翻转，随附主动触控笔"
+      signature_detail: "随机纤细触控笔与机身同色，形成套装感"
+    design_level:
+      score: 3
+      reason: "标准2-in-1形态，设计规矩，无突出亮点，商务定位清晰"
+    design_tags: ["2-in-1", "触控笔", "商务", "铰链", "细边框"]
+    hero_feature: "360度铰链翻转+主动触控笔随附"
+    problem_solved: "平板与笔记本双模式切换，满足办公与手写需求"
+    transferable_technique: "触控笔与机身同色系搭配，形成套装视觉一致性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_tablet_002"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/平板电脑/11.jpg"
+        image_role: "hero"
+        visual_anchor: "深酒红纹理背盖+分离式键盘+铰链轴，三视图：背面/支架模式/平板模式"
+    product_name: "Lenovo ThinkPad Tablet with Detachable Keyboard"
+    brand_name: "Lenovo"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "方正厚实的矩形板体，背面饱满拱形，铰链轴金属外露"
+      light_opening: "屏幕边框较粗，运行Windows 8界面"
+      thermal: "无明显开口"
+      cmf:
+        color: "深酒红/枣红色"
+        material: "工程塑料背板+金属铰链轴"
+        finish: "细密纹理压花表面"
+      mounting: "可拆卸键盘底座，铰链轴支撑站立"
+      signature_detail: "背面整体细纹理压花，手感防滑，辨识度强"
+    design_level:
+      score: 3
+      reason: "颜色和纹理有个性，但形态偏厚重，整体设计年代感明显（约2013年）"
+    design_tags: ["分离键盘", "可拆卸", "纹理背板", "铰链轴", "商务"]
+    hero_feature: "全机身细密压花纹理+深酒红配色，质感独特"
+    problem_solved: "平板+键盘两用，纹理背面提供稳固握持"
+    transferable_technique: "整面纹理处理统一机身视觉，可迁移到工具类产品背板设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_tablet_003"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/平板电脑/19.jpg"
+        image_role: "hero"
+        visual_anchor: "平板右侧展示可视化编程界面，左侧4个彩色模块积木组件排列"
+    product_name: "Modular IoT Programming Tablet Ecosystem"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "平板本体为标准矩形黑框，搭配方块形模块组件"
+      light_opening: "大屏幕占比高，运行节点式编程应用界面"
+      thermal: "无"
+      cmf:
+        color: "平板黑色，模块为绿/橙/蓝/灰四色彩块"
+        material: "工程塑料模块+玻璃屏"
+        finish: "哑光"
+      mounting: "独立模块可自由放置，与平板配合使用"
+      signature_detail: "彩色功能模块与平板联动，颜色对应不同传感器功能"
+    design_level:
+      score: 4
+      reason: "系统性生态设计，彩色功能模块与编程界面视觉语言高度统一，教育科技感强"
+    design_tags: ["模块化", "教育科技", "IoT", "彩色编码", "生态系统"]
+    hero_feature: "彩色功能模块颜色与平板UI颜色系统一一对应"
+    problem_solved: "降低IoT编程门槛，通过实体积木+可视化UI让儿童/学生理解硬件编程"
+    transferable_technique: "实体配件颜色与软件UI颜色系统对应，形成软硬件视觉一体化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_tablet_004"
+    source_images:
+      - filename: "36.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/平板电脑/36.jpg"
+        image_role: "hero"
+        visual_anchor: "白色点状纹理背面+正面宽边框平板，两视角"
+    product_name: "Compal Windows Tablet"
+    brand_name: "Compal"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "较厚矩形板体，四角圆润，侧面有功能集中区域（扬声器/接口）"
+      light_opening: "屏幕边框宽，运行Windows 8界面，有Home按键"
+      thermal: "无明显散热开口"
+      cmf:
+        color: "白色"
+        material: "工程塑料"
+        finish: "全身细密点状纹理（类皮革触感）"
+      mounting: "无内置支架"
+      signature_detail: "白色全身点状压纹，侧面功能端口集中设计"
+    design_level:
+      score: 2
+      reason: "形态普通，白色纹理背板设计平淡，边框宽，整体无明显亮点"
+    design_tags: ["纹理背板", "宽边框", "商务", "Windows平板"]
+    hero_feature: "全身点状纹理统一背面视觉"
+    problem_solved: "Windows生产力平板，侧面集中接口便于连接外设"
+    transferable_technique: "侧面接口集中区域分件线与整机纹理形成功能分区"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_tablet_005"
+    source_images:
+      - filename: "37.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/平板电脑/37.jpg"
+        image_role: "hero"
+        visual_anchor: "ThinkPad X1全黑2-in-1平板，内置kickstand，双视角：背面斜立+正面工作姿态"
+      - filename: "38.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/平板电脑/38.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "用户户外手持ThinkPad平板阅读"
+    product_name: "Lenovo ThinkPad X1 Tablet"
+    brand_name: "Lenovo"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "极薄矩形板体，内置kickstand支架展开后呈锐角三角形剪影"
+      light_opening: "屏幕占比高，极细边框，上方摄像头区域"
+      thermal: "顶部散热孔排列"
+      cmf:
+        color: "全黑"
+        material: "碳纤维/镁合金机身"
+        finish: "磨砂哑光，ThinkPad标志性黑色"
+      mounting: "内置kickstand支架，可分离磁吸键盘（图中可见）"
+      signature_detail: "超薄机身+内置kickstand折叠收纳，ThinkPad红色TrackPoint键盘"
+    design_level:
+      score: 4
+      reason: "ThinkPad设计语言移植到平板形态极为克制，kickstand工程设计精致，商务旗舰感强"
+    design_tags: ["kickstand", "超薄", "商务旗舰", "碳纤维", "可拆键盘", "ThinkPad"]
+    hero_feature: "内置kickstand与超薄机身的工程平衡，展开角度精准"
+    problem_solved: "商务用户需要无桌面随时立起工作，kickstand解决任意场景支撑"
+    transferable_technique: "kickstand展开后的三角剪影成为辨识度造型，可迁移到其他移动设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_tablet_006"
+    source_images:
+      - filename: "72.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/平板电脑/72.jpg"
+        image_role: "hero"
+        visual_anchor: "Lenovo Yoga Tab斜置，底部圆柱形扬声器+支架金属转轴，Lenovo logo"
+    product_name: "Lenovo Yoga Tab with Cylindrical Speaker Base"
+    brand_name: "Lenovo"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "非对称剪影：屏幕薄板+底部圆柱体一体成型，视觉重心下沉"
+      light_opening: "大屏幕约16:9宽屏比，细边框"
+      thermal: "圆柱扬声器端部金属网格"
+      cmf:
+        color: "深灰/炭黑，圆柱端部香槟金属色"
+        material: "铝合金圆柱+工程塑料背板"
+        finish: "哑光磨砂+金属拉丝"
+      mounting: "圆柱内置转轴展开支架，可多角度站立"
+      signature_detail: "圆柱形扬声器/握持体与平板一体，端部香槟金属网罩"
+    design_level:
+      score: 5
+      reason: "非对称形态在平板品类高度差异化，圆柱既是扬声器又是握持支架，功能与造型高度统一"
+    design_tags: ["非对称", "圆柱扬声器", "握持体", "支架", "功能整合", "Yoga"]
+    hero_feature: "圆柱体三合一：扬声器腔体+握持手感+内置支架轴"
+    problem_solved: "解决平板握持滑手、扬声器音质差、无法自立三个问题于一个设计元素"
+    transferable_technique: "功能部件形态化为造型特征，打破矩形平板同质化剪影"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_tablet_007"
+    source_images:
+      - filename: "73.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/平板电脑/73.jpg"
+        image_role: "hero"
+        visual_anchor: "Lenovo Yoga Tab Smart四种使用姿态：横置/斜放/竖置/壁挂，顶部悬挂孔可见"
+    product_name: "Lenovo Yoga Tab Smart Multi-Mode"
+    brand_name: "Lenovo"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "矩形板体+底部圆柱体，圆柱端部有挂钩孔，可壁挂"
+      light_opening: "宽屏幕，细边框，横/竖双向可用"
+      thermal: "圆柱端面散热网格"
+      cmf:
+        color: "深灰色"
+        material: "铝合金圆柱+塑料背板"
+        finish: "磨砂哑光"
+      mounting: "圆柱内置折叠支架+顶部挂孔，支持平放/斜立/竖置/壁挂四种形态"
+      signature_detail: "顶部金属挂孔是壁挂模式的视觉锚点，与圆柱支架系统配合"
+    design_level:
+      score: 4
+      reason: "四模式使用场景设计系统化，壁挂功能是平板品类稀有创新点"
+    design_tags: ["多模式", "壁挂", "支架", "圆柱", "场景化设计", "Yoga"]
+    hero_feature: "顶部挂孔实现平板壁挂功能，四种使用姿态覆盖全场景"
+    problem_solved: "平板缺乏固定展示方式，壁挂模式让平板成为智能家居展示屏"
+    transferable_technique: "在产品形态中预留挂载接口，实现固定/移动双场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_tablet_008"
+    source_images:
+      - filename: "88.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/平板电脑/88.jpg"
+        image_role: "hero"
+        visual_anchor: "超薄银色金属边框平板水平放置，游戏宣传图衬托，侧面物理按键可见"
+    product_name: "Ultra-thin Gaming Tablet"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "极薄矩形板体，金属边框锋利锐利，四角方正，横向比例宽"
+      light_opening: "大屏幕宽比例，右侧边框有物理Home键和功能键"
+      thermal: "左侧有细条散热缝"
+      cmf:
+        color: "银色边框，黑色背板"
+        material: "铝合金边框"
+        finish: "拉丝+镜面边缘"
+      mounting: "无内置支架"
+      signature_detail: "极薄金属切边框，锋利工艺感，侧面按键排列整齐"
+    design_level:
+      score: 3
+      reason: "金属边框工艺精良，但整体形态无突出创新，游戏定位与外观设计感不够匹配"
+    design_tags: ["超薄", "金属边框", "游戏", "宽屏", "锐利边缘"]
+    hero_feature: "极薄金属切削边框，侧面按键集中排列"
+    problem_solved: "轻薄游戏平板兼顾便携与操控按键"
+    transferable_technique: "金属边框切削倒角工艺提升产品锋利感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

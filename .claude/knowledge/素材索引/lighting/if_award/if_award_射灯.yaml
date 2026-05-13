@@ -1,0 +1,135 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "射灯"
+  tertiary: ""
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/"
+  generated_at: "2026-05-09"
+# 子类：投光灯(4)、筒灯(75)、综合(13)，共92张
+
+products:
+  - product_id: "if_灯具_射灯_筒灯_001"
+    source_images:
+      - filename: "筒灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/筒灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "4个调角嵌入筒灯安装于天花，天花上方可见外露银灰色圆柱体带密集纵向散热鳍片，灯头可向不同方向倾斜，天花以下仅见白色圆形嵌入边框"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "射灯", "筒灯"]
+    design_language:
+      silhouette: "天花以上密集鳍片圆柱散热体，天花以下仅见圆形白色嵌入边框，两部分球关节连接"
+      light_opening: "下方圆形开口，可调角度（偏转约35°），聚光LED"
+      thermal: "天花以上外露铝合金密集纵向鳍片散热体，在天花夹层内利用自然对流高效散热"
+      cmf:
+        color: "天花下：全白；天花上：银灰铝色散热体"
+        material: "铝合金散热体（外露）+ 铝合金嵌入框（白色粉末涂层）"
+        finish: "天花下：哑白；天花上：银灰阳极氧化"
+      mounting: "嵌入天花，弹簧夹固定，球形关节调角"
+      signature_detail: "天花双面设计：天花下极简白色圆框，天花上是密集鳍片散热圆柱——散热工程完全暴露于天花夹层，而发光面极度简化，形成功能分区的两个世界"
+    design_level:
+      score: 5
+      reason: "天花上/天花下双面设计逻辑极其清晰：将一切工程复杂性（散热）放到天花以上，将使用体验（发光面）简化到天花以下；密集鳍片+可调球关节展示了专业照明工程的工艺水准"
+    design_tags:
+      - "双面筒灯"
+      - "外露散热鳍片"
+      - "可调角嵌入"
+      - "天花分界"
+      - "H09隐藏工程"
+      - "H11功能外显"
+    hero_feature: "天花双面分区：天花以下极简白圆框，天花以上密集鳍片散热体全暴露——将工程复杂性与使用简洁性以天花板为界截然分开"
+    problem_solved: "高功率嵌入式射灯散热是技术难题，常规做法是将散热体隐藏于天花夹层内但效果有限；将散热体设计为独立外露圆柱并暴露于夹层，散热效率大幅提升，同时形成独特的安装仪式感"
+    transferable_technique: "以安装界面（天花板/台面/墙面）为分界，将功能端（散热/电路）置于界面后方，将使用端极度简化的'双面分区'设计策略；密集纵向鳍片作为散热体的视觉语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_射灯_投光灯_001"
+    source_images:
+      - filename: "投光灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/投光灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色蛋形/椭圆体户外投光灯：背面有密集纵向肋条（导流/散热），正面有大圆形投射镜+下方小圆形传感器孔，安装于Y形竖肋支架+圆形底座，GOOGLE(G)品牌标识"
+    product_name: ""
+    brand_name: "Google"
+    brand_confidence: "high"
+    category_path: ["灯具", "射灯", "投光灯"]
+    design_language:
+      silhouette: "扁椭圆/蛋形灯体，前后轴向约200mm，左右约200mm，上下约150mm，安装于Y形竖向肋条支架上，支架底部为圆形底盘"
+      light_opening: "正面大圆形投射镜（约80mm直径），前端突出，下方有较小传感器圆孔"
+      thermal: "背面密集纵向导流肋条，兼散热鳍片和气动整流功能"
+      cmf:
+        color: "深灰/炭黑色"
+        material: "铝合金或高强工程塑料"
+        finish: "哑黑/深灰哑面涂层"
+      mounting: "Y形支架落地安装，底盘可固定/打桩，灯体可调方向"
+      signature_detail: "背面导流纵向肋条：背面密集的竖向凸肋从造型逻辑上模拟了空气动力学整流，与前面的投射镜头形成'科技装置'的前后视觉对称"
+    design_level:
+      score: 5
+      reason: "蛋形灯体+导流肋条+投射镜头的三元素组合，在投光灯中建立了强烈的'智能户外装置'语义；Y形支架与圆形底盘的精密工程感；Google品牌的科技感与灯具的建筑感完美结合"
+    design_tags:
+      - "蛋形投光灯"
+      - "导流背肋"
+      - "投射镜头"
+      - "智能户外"
+      - "Y形支架"
+      - "H11功能外显"
+      - "H06仿生"
+    hero_feature: "蛋形体+背面导流肋+正面投射镜：三个元素在一个整体上构成前/后的功能视觉对称——正面是精密投射光学，背面是气动散热工程，蛋形体使两者统一"
+    problem_solved: "户外智能投光灯需要同时满足精确照明、户外防水散热和智能设备美学；蛋形体提供最优防水轮廓，导流肋散热，投射镜头精准配光，整体传达Google智能家居设备语言"
+    transferable_technique: "蛋形/椭圆体+背面导流肋的'空气动力学感'语言可迁移到任何需要户外防护的圆形体设备；正面功能开口（镜头/传感器）+背面工程结构（肋条/散热）的前后功能分区策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_射灯_投光灯_002"
+    source_images:
+      - filename: "投光灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/投光灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色方形LED投光灯，正面满铺蜂窝微透镜LED阵列，背面/侧面有散热结构，通过U形支架安装"
+    product_name: ""
+    brand_name: "ROIOBS"
+    brand_confidence: "medium"
+    category_path: ["灯具", "射灯", "投光灯"]
+    design_language:
+      silhouette: "正方形平面灯头（约250x250mm），厚约80mm，前面板为蜂窝微透镜矩阵，通过U形支架安装；三联版本在圆形底盘上以中心轴展开三个灯头"
+      light_opening: "正面蜂窝六角微透镜LED阵列（约6x6排列），精确配光"
+      thermal: "灯头背面/侧面铝合金散热，通过支架传导"
+      cmf:
+        color: "深灰/炭黑"
+        material: "铝合金灯头 + 蜂窝微透镜"
+        finish: "哑黑/深灰粉末涂层"
+      mounting: "U形壁挂支架（单头）或圆形底盘（三联版），可调仰角和方向"
+      signature_detail: "蜂窝微透镜阵列的视觉规律性：整个正面由均匀排列的六角微透镜覆盖，在功能上精确配光，在视觉上形成有序的工业美学阵列"
+    design_level:
+      score: 4
+      reason: "方形面板+蜂窝微透镜的组合在投光灯领域具有明确的'高端工业'识别性；三联版的扇形展开设计解决了多方向照明需求；蜂窝阵列作为视觉核心是功能与美学的统一"
+    design_tags:
+      - "方形LED投光灯"
+      - "蜂窝微透镜阵列"
+      - "三联可调"
+      - "工业美学"
+      - "H11功能外显"
+      - "H05模块化"
+    hero_feature: "方形面板满铺蜂窝微透镜阵列：整个正面由规整六角微透镜组成，将精密光学技术以纹理化阵列的方式完全外露，使投光灯在关灯时也有强烈的工业精密视觉"
+    problem_solved: "高功率LED投光灯需要精确配光（防眩光+定向）同时在建筑外立面具有专业感；蜂窝微透镜阵列同时解决了光学精度和外观技术感的双重需求"
+    transferable_technique: "满铺蜂窝/六角微透镜阵列覆盖整个光学出口面，既是高效配光元件又是核心视觉纹理，适用于任何专业照明产品；三联扇形展开的多灯头架构可迁移到摄影灯/安防灯"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

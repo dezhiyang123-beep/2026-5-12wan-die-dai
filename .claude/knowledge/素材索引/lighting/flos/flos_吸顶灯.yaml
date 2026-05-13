@@ -1,0 +1,258 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "吸顶灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/吸顶灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "flos_吸顶灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/吸顶灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "白色高光鼓形灯罩，底部内凹圆形出光口，半贴顶安装，罩体饱满无接缝"
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/吸顶灯/02.jpg"
+        image_role: "colorway"
+        visual_anchor: "猎人绿高光版本，形态与白色版完全一致，体量感更突出"
+    product_name: "Smithfield C"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯", "半贴顶"]
+    design_language:
+      silhouette: "宽扁蘑菇鼓形——高宽比约1:2，顶部曲面饱满，底部略平并向内收，整体轮廓柔和圆润无棱角"
+      light_opening: "底部内嵌圆形漫射出光口，向下直接照射；罩体本身不透光，光线集中于底面圆孔区域"
+      thermal: "封闭罩体，无外露散热结构；推断内部集成LED散热板于顶部安装座"
+      cmf:
+        color: "白色（01）/ 猎人绿（02）两色；内腔均为哑白"
+        material: "铝合金罩体 + 乳白亚克力底部漫射片"
+        finish: "罩体高光烤漆；底部漫射片亚光白"
+      mounting: "天花板直接贴顶安装，顶部圆形安装座隐入罩体，无可见吊杆"
+      signature_detail: "底部内凹圆形出光口——在饱满鼓形体量中制造一个精准的几何焦点，视觉重量下沉"
+    design_level:
+      score: 4
+      reason: "经典Flos造型语言——饱满体量+精准收口，高光烤漆工艺成熟；绿色配色版本突破常规，色彩策略强"
+    design_tags: ["鼓形", "高光烤漆", "漫射出光", "贴顶", "色彩系列", "极简收口"]
+    hero_feature: "底部内凹圆形漫射出光口——在饱满封闭罩体上制造唯一开口，形成体量与光的对话"
+    problem_solved: "半贴顶场景下需要大体量存在感而非吊坠式轻盈感；封闭罩体控制炫光同时保持造型完整性"
+    transferable_technique: "封闭罩体+底部单一精准出光口的组合——可迁移至工业/家用场景的漫射型吸顶灯；高光色彩系列策略（同形换色）适用于多SKU产品线"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_吸顶灯_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/吸顶灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "拉丝黄铜L形直角支架，右角悬挂大尺寸乳白玻璃球体，左侧圆形壁装底盘；支架线条极细，球体与之对比强烈"
+    product_name: "IC Lights Ceiling/Wall"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯", "壁吸两用"]
+    design_language:
+      silhouette: "L形直角细金属支架 + 悬挂大球体；整体呈现「结构极细、光体极大」的对比剪影"
+      light_opening: "乳白磨砂玻璃球体全向漫射出光，360°环境光；无方向性，光线均匀柔和散射"
+      thermal: "支架空心管内走线，LED热源推测在球体内部上方；支架作为散热路径之一"
+      cmf:
+        color: "拉丝黄铜支架 + 乳白磨砂玻璃球；内部光源暖白"
+        material: "黄铜管支架 + 口吹磨砂玻璃球体"
+        finish: "支架拉丝亚光黄铜；球体均匀磨砂半透明"
+      mounting: "侧墙圆形底盘贴墙安装，L形支架从墙面延伸至天花板转角处悬球；可作壁灯或吸顶灯使用"
+      signature_detail: "精确90°直角黄铜支架——几何绝对性与球体有机形的张力对比，是IC Lights系列最强的视觉语言"
+    design_level:
+      score: 5
+      reason: "Michael Anastassiades设计，圆vs直线、轻盈vs饱满的极致张力；工艺精度要求极高；成为当代灯具设计标志性参考"
+    design_tags: ["L形支架", "黄铜", "玻璃球体", "壁吸两用", "几何对比", "极简线条", "漫射"]
+    hero_feature: "精细黄铜直角支架托举大球体——支架截面极小（约8mm圆管）与球体直径（约300mm）的极端比例对比"
+    problem_solved: "壁面/天花转角空间需要有存在感的装饰照明，同时不占用地面和桌面；一体化壁吸两用解决安装灵活性"
+    transferable_technique: "「极细结构件+大体量光体」的比例对比手法；黄铜圆管转角精度工艺；可迁移至台灯、落地灯的结构语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_吸顶灯_003"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/吸顶灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "正方形Tyvek织物漫射面板，四角略向内弯曲，中心有铜色曲线钢丝张拉结构和深色金属中央扣件"
+    product_name: "Ariette Ceiling"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯", "织物漫射"]
+    design_language:
+      silhouette: "正方形薄板形态，近乎二维平面；四边中部略向上翘起形成轻微弧面，中心向内凹陷——仿佛一张被轻轻绷紧的帆布"
+      light_opening: "织物漫射面板全面出光，向下大面积漫射；面板本身即为发光面，光效柔和均匀如自然光"
+      thermal: "LED光源位于背部安装板，通过辐射和对流散热；织物不导热，结构轻量"
+      cmf:
+        color: "Tyvek无纺布本白色（带轻微米灰质感）；铜色钢丝张拉线；深色金属中央扣件"
+        material: "Tyvek高强度无纺布漫射面 + 铜制张拉钢丝 + 金属框架背板"
+        finish: "织物自然哑光纹理；铜丝裸金属；扣件深哑黑"
+      mounting: "天花板直接贴顶安装，背部金属框架固定于天花，前面板为可拆装织物"
+      signature_detail: "铜色交叉曲线张拉钢丝——将织物面板从中心向四角绷紧，形成精准几何弧面，结构本身成为装饰焦点"
+    design_level:
+      score: 5
+      reason: "Tobia Scarpa经典设计，织物+张拉结构在吸顶灯品类极罕见；材料语言独特，漫射效果接近自然光；工艺细节精致"
+    design_tags: ["织物漫射", "Tyvek", "张拉结构", "铜丝", "平板形", "自然光感", "贴顶"]
+    hero_feature: "铜色交叉曲线钢丝将Tyvek面板从中央向四角张拉——结构即造型，功能件同时是视觉主角"
+    problem_solved: "需要超大面积均匀漫射光源同时保持极低视觉复杂度；织物替代玻璃/亚克力实现超轻量化大尺寸"
+    transferable_technique: "织物张拉结构作为灯具漫射面——张拉预应力创造精准曲面；铜丝作为结构+装饰双功能元素；可迁移至大尺寸壁灯/地灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_吸顶灯_004"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/吸顶灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "小尺寸乳白磨砂玻璃椭球体，直接坐于白色圆形小底盘上，几乎无可见安装结构"
+    product_name: "Glo-Ball Mini C/W"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯", "球形贴顶"]
+    design_language:
+      silhouette: "近正圆的略扁椭球体（横径略大于纵径），底部被白色小圆盘截断；整体极度纯粹，无任何附加元素"
+      light_opening: "乳白磨砂玻璃球体全向漫射出光，360°包括向上方向；贴顶安装后向下和侧向光效为主"
+      thermal: "小体量产品，内置小功率光源；球体玻璃本身不参与散热，底盘内集成散热"
+      cmf:
+        color: "乳白磨砂玻璃，无彩色；底盘白色"
+        material: "口吹磨砂玻璃球 + 白色金属底盘"
+        finish: "玻璃均匀磨砂半透明；底盘哑白喷漆"
+      mounting: "白色小圆形底盘贴顶直装，底盘几乎被球体遮蔽；安装极隐蔽"
+      signature_detail: "球体与底盘的尺寸比例——底盘直径约为球体直径的1/3，安装件被压缩到最小，球体浮悬感极强"
+    design_level:
+      score: 4
+      reason: "Jasper Morrison为Flos设计的极简系列；形态纯粹度极高；磨砂玻璃工艺精良；尺寸比例控制出色"
+    design_tags: ["球形", "磨砂玻璃", "极简", "贴顶", "漫射", "浮悬感", "Jasper Morrison"]
+    hero_feature: "球体与底盘的极端尺寸比——底盘被压缩至几乎不可见，玻璃球体获得最大浮悬感"
+    problem_solved: "小空间天花需要温暖漫射照明同时避免视觉负担；极简形态与任何室内风格兼容"
+    transferable_technique: "「最小化安装件」策略——将底盘/安装座直径压缩至光体直径的1/3以内；可迁移至浴室、走廊等小空间灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_吸顶灯_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/吸顶灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "拉丝黄铜线性十字交叉结构——横向细杆贯穿画面，纵向细杆垂直相交，交叉点非中央；顶部圆柱形天花吸顶盒悬挂透明细线"
+    product_name: "Coordinates Ceiling S"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯", "线性几何"]
+    design_language:
+      silhouette: "非对称十字交叉线条构成——横杆极长（约1.5m），纵杆居于横杆三分之一处垂直相交；整体呈不对称十字，黄铜细杆截面约5mm，极度纤细"
+      light_opening: "LED光源集成于杆件内部，沿杆件侧向线性出光；出光极细腻，为环境光而非任务光"
+      thermal: "细杆铝合金内腔集成LED条，杆件表面为散热路径；体积小，散热压力低"
+      cmf:
+        color: "全拉丝黄铜色；天花吸顶盒同色"
+        material: "铝合金内芯 + 黄铜电镀/阳极氧化外壳"
+        finish: "拉丝亚光黄铜，统一无对比"
+      mounting: "天花圆柱形吸顶盒固定，透明细线悬挂横杆；杆件悬浮于天花下方约300mm"
+      signature_detail: "非对称交叉比例——横杆端点到交叉点的两侧长度不等，制造动态张力；完全打破中心对称的惯例"
+    design_level:
+      score: 4
+      reason: "Nendo设计，以「坐标轴」为概念；非对称构图在灯具品类极罕见；极细黄铜杆件工艺精度高；整体轻盈感卓越"
+    design_tags: ["线性", "黄铜", "非对称", "十字交叉", "悬挂", "极简几何", "Nendo"]
+    hero_feature: "非对称黄铜十字交叉——拒绝中心对称，两杆在偏移位置相交，线条张力来自比例失衡"
+    problem_solved: "大空间天花需要存在感照明但不希望有传统吊灯的体量感；线性结构以极小截面覆盖大跨度"
+    transferable_technique: "非对称线性交叉结构语言；悬挂式细线安装使结构「浮空」；可迁移至阅读灯、展示照明的悬臂结构"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_吸顶灯_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/吸顶灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "垂直黄铜细圆杆，中间位置壁装底盘固定，上下各一个等大乳白玻璃球体，两球体对称排列"
+    product_name: "IC Lights Double Wall/Ceiling"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯", "壁吸两用双头"]
+    design_language:
+      silhouette: "纵向排列双球体 + 贯通细圆杆；两球等大，上下对称于安装底盘；纵向线条感强，类似珠宝项链节构"
+      light_opening: "两个乳白磨砂玻璃球体各自全向漫射出光；双光源提供上下两个方向的环境光覆盖"
+      thermal: "安装底盘内集成电源和控制，杆件空心走线；双光源热量分散，散热较单头更均匀"
+      cmf:
+        color: "拉丝黄铜杆 + 乳白磨砂玻璃球；底盘黄铜圆形"
+        material: "黄铜圆管 + 口吹磨砂玻璃球"
+        finish: "杆件拉丝亚光黄铜；球体均匀磨砂"
+      mounting: "圆形黄铜底盘贴墙安装，垂直杆件从底盘穿出上下延伸；兼容壁面或天花板转角安装"
+      signature_detail: "双球对称于安装点——安装底盘成为视觉上的「腰带扣」，两球从中生长出来，结构逻辑清晰可读"
+    design_level:
+      score: 4
+      reason: "IC Lights系列延伸，双球版本增加了节奏感和光量；黄铜工艺延续高标准；双头对称形成新的造型语言"
+    design_tags: ["双球", "黄铜", "玻璃球体", "纵向排列", "壁吸两用", "对称", "漫射"]
+    hero_feature: "安装底盘作为「腰节」——两个等大球体上下对称生长，杆件贯通，形成雕塑感节构"
+    problem_solved: "走廊/卧室床头需要上下双向环境光；单根安装杆件解决走线同时实现双光源"
+    transferable_technique: "「中间安装点+两侧光体」的对称串联结构；可迁移至浴室镜前灯、走廊双头壁灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_吸顶灯_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/吸顶灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "方形镀铬天花底板，向下延伸出多层次密集球形簇群——大中小透明玻璃球体叠加排列，形成云状集群；内部可见发光灯泡"
+    product_name: "Superstellar Ceiling"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "集群球形"]
+    design_language:
+      silhouette: "方形底板 + 向下膨胀的不规则球体簇群；整体轮廓类似气泡云，底部轮廓不规则；体量感强，接近小型装饰吊灯"
+      light_opening: "多个透明玻璃球体内部可见白炽/LED球泡，点状多源出光；光线透过透明玻璃直接投射，有丰富光斑效果"
+      thermal: "多光源并联，每个球体独立灯泡；镀铬底板内集成电源分配；透明玻璃不隔热，需依赖对流散热"
+      cmf:
+        color: "镀铬底板（亮银）+ 透明无色玻璃球 + 内部暖白光源"
+        material: "镀铬金属底板 + 透明吹制玻璃球体群"
+        finish: "底板高光镀铬；球体透明无处理"
+      mounting: "方形底板直接贴顶安装；球体群向下悬垂，安装高度需保证净空"
+      signature_detail: "大中小三种尺寸球体的密集随机排列——尺寸差异制造层次感，透明材质让内部灯泡成为视觉元素本身"
+    design_level:
+      score: 3
+      reason: "设计概念明确（气泡/集群），装饰性强；但透明玻璃直接露出灯泡的做法在Flos产品线中偏低端；镀铬底板与球体材质语言略有割裂"
+    design_tags: ["集群球形", "透明玻璃", "多光源", "镀铬", "装饰性", "气泡形态"]
+    hero_feature: "大中小透明玻璃球体密集集群——多尺寸随机排列形成有机轮廓，灯泡本身成为可见装饰元素"
+    problem_solved: "需要视觉复杂度高、装饰性强的天花焦点灯具；多球体提供比单一灯具更丰富的光斑层次"
+    transferable_technique: "多尺寸球体集群排列策略；透明介质让功能件（灯泡）暴露成为设计语言；可迁移至吊灯、枝形灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "品牌置信度中等——造型风格与Flos主流美学略有偏差，建议确认具体型号"

@@ -1,0 +1,772 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 壁灯
+  tertiary: 壁灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_壁灯_001
+  source_images:
+  - filename: 02.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/02.jpg
+    image_role: hero
+    visual_anchor: 白色立方体贴墙安装，底部方形柔光口向下洗出椭圆光斑。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 贴墙白色立方体灯壳，外轮廓为短深度方盒
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 白色立方体贴墙安装，底部方形柔光口向下洗出椭圆光斑
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色立方体贴墙安装，底部方形柔光口向下洗出椭圆光斑
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_002
+  source_images:
+  - filename: 13.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/13.jpg
+    image_role: hero
+    visual_anchor: 浅灰色弧形薄板从墙面伸出，下侧暗面隐藏出光形成柔和下洗。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 从墙面悬挑的浅灰弧形薄板，前缘微弯、下表面内收
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 浅灰色弧形薄板从墙面伸出，下侧暗面隐藏出光形成柔和下洗
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 浅灰色弧形薄板从墙面伸出，下侧暗面隐藏出光形成柔和下洗
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_003
+  source_images:
+  - filename: 17.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/17.jpg
+    image_role: hero
+    visual_anchor: 圆角胶囊形壁灯，黑色端盖夹住水平白色发光舱，上下双向洗墙。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 水平胶囊形长圆灯体，两端黑色端盖夹住中央发光舱
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 圆角胶囊形壁灯，黑色端盖夹住水平白色发光舱，上下双向洗墙
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 圆角胶囊形壁灯，黑色端盖夹住水平白色发光舱，上下双向洗墙
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_004
+  source_images:
+  - filename: 27.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/27.jpg
+    image_role: hero
+    visual_anchor: 长臂可调壁灯由细杆三角支撑和小锥形灯头组成，墙面支点外露。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 长臂可调壁灯由细杆三角支撑和小锥形灯头组成，墙面支点外露
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 长臂可调壁灯由细杆三角支撑和小锥形灯头组成，墙面支点外露
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_005
+  source_images:
+  - filename: 30.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/30.jpg
+    image_role: hero
+    visual_anchor: 透明冰晶球体坐在细金属托架上，暖光透过纹理玻璃在墙面扩散。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 透明冰晶球体坐在细金属托架上，暖光透过纹理玻璃在墙面扩散
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明冰晶球体坐在细金属托架上，暖光透过纹理玻璃在墙面扩散
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_006
+  source_images:
+  - filename: 44.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/44.jpg
+    image_role: hero
+    visual_anchor: 黑色细线壁装阅读灯沿墙顶转折，水平灯杆和小圆支点形成极简线框。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色细线壁装阅读灯沿墙顶转折，水平灯杆和小圆支点形成极简线框
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色细线壁装阅读灯沿墙顶转折，水平灯杆和小圆支点形成极简线框
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_007
+  source_images:
+  - filename: 86.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/86.jpg
+    image_role: hero
+    visual_anchor: 黑色竖向矩形盒体贴墙，底部窄缝出光形成向下暖色光带。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色竖向矩形盒体贴墙，底部窄缝出光形成向下暖色光带
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色竖向矩形盒体贴墙，底部窄缝出光形成向下暖色光带
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_008
+  source_images:
+  - filename: 98.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/98.jpg
+    image_role: hero
+    visual_anchor: 多个白色发光圆球以大小错落方式贴墙组合，像气泡一样组成群组壁灯。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 多个白色发光圆球以大小错落方式贴墙组合，像气泡一样组成群组壁灯
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 多个白色发光圆球以大小错落方式贴墙组合，像气泡一样组成群组壁灯
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_009
+  source_images:
+  - filename: 131.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/131.jpg
+    image_role: hero
+    visual_anchor: 白色霓虹线在墙面勾勒地球轮廓，连续线条形成装饰性图形壁灯。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色霓虹线在墙面勾勒地球轮廓，连续线条形成装饰性图形壁灯
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色霓虹线在墙面勾勒地球轮廓，连续线条形成装饰性图形壁灯
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_010
+  source_images:
+  - filename: 141.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/141.jpg
+    image_role: hero
+    visual_anchor: 连续白色发光软线从墙角垂直上升并在天花下盘绕成自由曲线。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 连续白色发光软线从墙角垂直上升并在天花下盘绕成自由曲线
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 连续白色发光软线从墙角垂直上升并在天花下盘绕成自由曲线
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_011
+  source_images:
+  - filename: 145.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/145.jpg
+    image_role: hero
+    visual_anchor: 白色矩形盒体贴墙悬挑，底部柔光口和顶部反射光形成上下洗墙。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 白色矩形盒体贴墙悬挑，底部柔光口和顶部反射光形成上下洗墙
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色矩形盒体贴墙悬挑，底部柔光口和顶部反射光形成上下洗墙
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_012
+  source_images:
+  - filename: 149.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/149.jpg
+    image_role: hero
+    visual_anchor: 浅灰弯月形壁灯横向贴墙，内侧弧形光口向下投出宽光带。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 浅灰弯月形壁灯横向贴墙，内侧弧形光口向下投出宽光带
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 浅灰弯月形壁灯横向贴墙，内侧弧形光口向下投出宽光带
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_013
+  source_images:
+  - filename: 152.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/152.jpg
+    image_role: hero
+    visual_anchor: 白色连续发光线从墙面竖直段转为自由轮廓，形成墙角线描装置。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 白色连续发光线从墙面竖直段转为自由轮廓，形成墙角线描装置
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色连续发光线从墙面竖直段转为自由轮廓，形成墙角线描装置
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_014
+  source_images:
+  - filename: 155.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/155.jpg
+    image_role: hero
+    visual_anchor: 白色弯曲薄板像上翘翼片贴墙，隐藏光源把墙面照成柔和背景。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 白色弯曲薄板像上翘翼片贴墙，隐藏光源把墙面照成柔和背景
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色弯曲薄板像上翘翼片贴墙，隐藏光源把墙面照成柔和背景
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_015
+  source_images:
+  - filename: 163.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/163.jpg
+    image_role: hero
+    visual_anchor: 方形镜面/框体壁灯，边框内侧发光并和反射面形成窗框式层次。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 高光/镜面局部反射，发光面柔化处理
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 方形镜面/框体壁灯，边框内侧发光并和反射面形成窗框式层次
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 方形镜面/框体壁灯，边框内侧发光并和反射面形成窗框式层次
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_016
+  source_images:
+  - filename: 166.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/166.jpg
+    image_role: hero
+    visual_anchor: 银色可弯曲蛇形臂从天花垂下，小锥形灯头带穿孔纹理形成阅读光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 银色可弯曲蛇形臂从天花垂下，小锥形灯头带穿孔纹理形成阅读光
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 银色可弯曲蛇形臂从天花垂下，小锥形灯头带穿孔纹理形成阅读光
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_017
+  source_images:
+  - filename: 170.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/170.jpg
+    image_role: hero
+    visual_anchor: 白色圆盘和下垂小圆片以S形连接，像抽象花瓣贴在墙面。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色圆盘和下垂小圆片以S形连接，像抽象花瓣贴在墙面
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色圆盘和下垂小圆片以S形连接，像抽象花瓣贴在墙面
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_018
+  source_images:
+  - filename: 175.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/175.jpg
+    image_role: hero
+    visual_anchor: 黑色竖向长圆角壁灯，下缘水平光带向下洗墙，侧边为圆角收口。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色竖向长圆角壁灯，下缘水平光带向下洗墙，侧边为圆角收口
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色竖向长圆角壁灯，下缘水平光带向下洗墙，侧边为圆角收口
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_壁灯_019
+  source_images:
+  - filename: 176.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/176.jpg
+    image_role: hero
+    visual_anchor: 圆形舷窗式壁灯，银灰环形边框包住中央磨砂透镜。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 圆形舷窗式壁灯，银灰环形边框包住中央磨砂透镜
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 壁灯
+  - 灯具
+  - 环形
+  - 逐张视觉识别
+  hero_feature: 圆形舷窗式壁灯，银灰环形边框包住中央磨砂透镜
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

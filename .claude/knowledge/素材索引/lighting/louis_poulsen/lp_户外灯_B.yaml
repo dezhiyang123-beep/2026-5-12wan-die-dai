@@ -1,0 +1,394 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "lp_户外灯_012"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/28.jpg"
+        image_role: "hero"
+        visual_anchor: "半球形壁灯沿楼梯阶梯排列，下部漫射光晕，夜景蓝调背景"
+    product_name: "LP 半球壁灯（Beton/Flindt系列疑似）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "扁半球体，直径宽于高度，轮廓饱满低矮"
+      light_opening: "底部圆形开口向下出光，形成圆形光晕，防眩光"
+      thermal: "无外露散热鳍片，内藏LED方案推测"
+      cmf:
+        color: "深灰/炭黑"
+        material: "铸铝或压铸锌"
+        finish: "哑光粉末涂层"
+      mounting: "壁装，嵌入式背板固定"
+      signature_detail: "半球轮廓极简，无任何装饰线，光与形高度克制"
+    design_level:
+      score: 4
+      reason: "三只灯阶梯排列构成节奏感，单灯轮廓极简有力，夜景效果强，品牌辨识度高"
+    design_tags: ["壁灯", "半球形", "极简", "夜景", "阶梯场景", "防眩光", "低调奢华"]
+    hero_feature: "扁半球体轮廓+向下漫射光晕，无任何装饰的纯粹形体"
+    problem_solved: "楼梯/外墙功能照明兼顾美观，不破坏建筑立面整洁"
+    transferable_technique: "半球体+下出光结构可迁移至庭院矮柱灯或路径灯头部造型"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_013"
+    source_images:
+      - filename: "33.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/33.jpg"
+        image_role: "hero"
+        visual_anchor: "经典渔灯外形壁灯，锥形遮光罩+圆柱灯笼+顶部圆球，铜绿色，横臂壁装"
+    product_name: "Bysted Garden（港灯/渔灯系列）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "锥形遮光罩（主）+ 圆柱网格灯笼（中）+ 圆顶帽（顶），三段垂直叠加"
+      light_opening: "锥形罩底部向下出光，灯笼侧面透光产生暖橙氛围光"
+      thermal: "顶部圆球可能兼具散热/防水帽功能"
+      cmf:
+        color: "铜绿（自然氧化铜）"
+        material: "铜/黄铜"
+        finish: "自然氧化哑光，带锈斑质感"
+      mounting: "横臂壁装，臂端圆柱挂点，壁端圆形固定盘"
+      signature_detail: "铜绿氧化色随时间变化，灯笼格栅透出暖橙色彩的自然光晕"
+    design_level:
+      score: 4
+      reason: "传统渔港灯形态高度还原，铜材氧化赋予历史感，与北欧海岸建筑高度匹配"
+    design_tags: ["壁灯", "横臂壁装", "渔灯", "铜材", "氧化铜", "传统", "海岸风格", "灯笼结构"]
+    hero_feature: "铜绿氧化表面+三段叠加渔灯剪影，兼具功能照明和历史叙事感"
+    problem_solved: "传统建筑外立面照明需兼顾历史感与耐候性"
+    transferable_technique: "铜材自然氧化CMF处理可迁移至其他户外金属灯具，三段叠加轮廓可作经典壁灯结构参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_014"
+    source_images:
+      - filename: "34.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/34.jpg"
+        image_role: "hero"
+        visual_anchor: "灰色圆柱立柱灯，侧面单向切口出光，园路场景，高约60-80cm"
+    product_name: "Flindt Garden Bollard（疑似）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "圆柱体主体，顶部平切，侧面局部切除形成半月形出光口"
+      light_opening: "侧面单向半椭圆切口，光线定向投射至地面路径"
+      thermal: "全封闭圆柱，散热依靠铝体导热"
+      cmf:
+        color: "浅灰/银灰"
+        material: "铸铝"
+        finish: "哑光喷涂"
+      mounting: "地插/地埋底座立柱"
+      signature_detail: "圆柱上的单向切口出光设计，形体完整性极高，只有一处功能性开口"
+    design_level:
+      score: 5
+      reason: "圆柱切口手法极度克制，整体感极强，是LP户外矮柱灯的标志性设计语言，兼具雕塑感"
+    design_tags: ["矮柱灯", "bollard", "圆柱形", "切口出光", "极简", "园路", "定向照明", "雕塑感"]
+    hero_feature: "圆柱体+单侧半月切口，形体雕塑感与功能性融为一体"
+    problem_solved: "园路/步道照明需要定向导光同时保持景观整洁"
+    transferable_technique: "圆柱侧向切口出光手法可迁移至任何圆柱形户外灯具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_015"
+    source_images:
+      - filename: "35.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/35.jpg"
+        image_role: "hero"
+        visual_anchor: "铜绿渔灯壁装特写，植物前景，黑色木质外墙背景，单灯近景"
+    product_name: "Bysted Garden（近景特写版）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "锥形遮光罩+圆柱灯笼+顶帽三段叠加，近景可见灯笼横向格栅细节"
+      light_opening: "锥形罩下开口出光，灯笼格栅侧面透暖橙光"
+      thermal: "铜质顶盖封闭，自然散热"
+      cmf:
+        color: "铜绿（深铜锈色）"
+        material: "铜"
+        finish: "自然氧化，表面斑驳锈迹清晰可见"
+      mounting: "横臂壁装"
+      signature_detail: "近景可清晰看到铜表面氧化斑驳纹理，灯笼格栅内暖橙光"
+    design_level:
+      score: 3
+      reason: "与033内容高度重复（同款灯不同景别），细节补充价值有限，作为氧化纹理参考有价值"
+    design_tags: ["壁灯", "渔灯", "铜材", "氧化铜", "近景细节", "格栅", "暖橙光"]
+    hero_feature: "铜表面自然氧化斑驳纹理+格栅透光，CMF时间感"
+    problem_solved: "展示铜材老化之美，证明耐候性与美观可兼得"
+    transferable_technique: "铜氧化CMF近景纹理参考，适用于需要展示金属时间感的设计素材"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_016"
+    source_images:
+      - filename: "37.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/37.jpg"
+        image_role: "hero"
+        visual_anchor: "灰色金属立柱灯，顶部挂载半球形灯头，横臂单侧，草地丘陵场景"
+    product_name: "LP 路径立柱灯（疑似Toldbod系列）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "细方柱立杆+顶部单侧横臂+圆半球灯头，工业感十足"
+      light_opening: "半球灯头底部开口向下，定向照射地面"
+      thermal: "灯头封闭，铝体散热"
+      cmf:
+        color: "浅灰/银灰"
+        material: "铝/钢"
+        finish: "哑光喷涂"
+      mounting: "地埋立柱"
+      signature_detail: "极细方杆+单侧悬挑横臂结构，视觉轻盈，最小化存在感"
+    design_level:
+      score: 3
+      reason: "结构清晰实用，但造型较为通用，品牌辨识度中等，LP特征不够突出"
+    design_tags: ["立柱灯", "路径灯", "横臂", "半球灯头", "工业风", "草地场景", "公共空间"]
+    hero_feature: "极细方杆+单侧悬挑横臂，以最小结构实现定向路径照明"
+    problem_solved: "公共路径/草地场景需要功能性照明而不破坏自然景观"
+    transferable_technique: "细杆+悬挑臂+灯头三要素组合，适用于公共空间路径灯设计参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_017"
+    source_images:
+      - filename: "38.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/38.jpg"
+        image_role: "hero"
+        visual_anchor: "白色半球形台灯，蘑菇形灯罩，置于户外木质餐桌，湖边场景"
+    product_name: "Panthella Portable（便携户外版）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "圆润蘑菇形灯罩+细腰台柱+圆形底座，上大下小，有机曲线"
+      light_opening: "灯罩下缘漫射出光，360°均匀散光"
+      thermal: "便携LED光源，低热量"
+      cmf:
+        color: "米白/奶油白"
+        material: "亚克力/塑料灯罩+金属底座"
+        finish: "哑光乳白漫射"
+      mounting: "台面放置，便携可移动"
+      signature_detail: "Verner Panton标志性蘑菇形态，曲线腰部与球形罩的有机连接"
+    design_level:
+      score: 5
+      reason: "Panthella是LP最具标志性的设计之一，蘑菇形轮廓全球辨识，便携版拓展户外场景极具生活感"
+    design_tags: ["台灯", "便携灯", "户外桌灯", "蘑菇形", "有机曲线", "Panthella", "Verner Panton", "经典设计", "湖边场景"]
+    hero_feature: "Panthella标志性蘑菇形轮廓，便携版赋予经典形态以户外生活方式"
+    problem_solved: "户外就餐/休闲场景需要便携、有氛围感且形态优雅的光源"
+    transferable_technique: "有机曲线台灯形态迁移至户外便携灯，蘑菇形轮廓是高辨识度经典形体参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_018"
+    source_images:
+      - filename: "42.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/42.jpg"
+        image_role: "hero"
+        visual_anchor: "铜色锥形遮光罩壁灯，宽檐下压，横臂壁装，黑色木质外墙，傍晚蓝调"
+    product_name: "LP PH系列户外壁灯（铜版）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "宽扁锥形遮光罩（大径比），单层，下出光"
+      light_opening: "锥形罩底部向下出光，遮光角大，防眩光"
+      thermal: "铜罩自然散热，无额外散热结构"
+      cmf:
+        color: "铜色/玫瑰金铜"
+        material: "铜"
+        finish: "抛光或轻度拉丝，温暖金属光泽"
+      mounting: "横臂壁装，细圆臂"
+      signature_detail: "宽大铜色锥罩在黑色木墙背景下形成强烈材质对比，铜色光晕暖意十足"
+    design_level:
+      score: 4
+      reason: "经典PH遮光罩形态+铜材CMF，与黑色木墙形成强对比，材质叙事完整，高度品牌化"
+    design_tags: ["壁灯", "铜材", "锥形遮光罩", "PH系列", "横臂壁装", "防眩光", "黑色外墙", "材质对比"]
+    hero_feature: "宽扁铜色锥形遮光罩，PH形态语言+铜材质感的完美结合"
+    problem_solved: "建筑外立面需要既有功能照明又有材质温度感的壁灯"
+    transferable_technique: "宽径比锥形遮光罩+铜材CMF组合，适用于高端户外壁灯设计参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_019"
+    source_images:
+      - filename: "43.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/43.jpg"
+        image_role: "hero"
+        visual_anchor: "赤陶色叠层矮柱灯，多层水平横向翻边叠加，阳光下室内外过渡区场景"
+    product_name: "LP Bysted Garden（赤陶色特别版疑似）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "圆柱底座+多层叠加水平翻边罩（类陀螺/宝塔形），从下至上逐层缩小"
+      light_opening: "各层翻边间隙侧向出光，漫射光环绕发散"
+      thermal: "开放叠层结构，自然通风散热"
+      cmf:
+        color: "赤陶红/砖红"
+        material: "疑似陶瓷或涂层金属"
+        finish: "哑光，陶土质感"
+      mounting: "地面放置/地插底座"
+      signature_detail: "多层叠加翻边形成宝塔状渐变轮廓，赤陶色与地中海/北欧建筑材料呼应"
+    design_level:
+      score: 4
+      reason: "叠层宝塔形态高度独特，赤陶色CMF大胆，与环境材料呼应强，视觉辨识度极高"
+    design_tags: ["矮柱灯", "bollard", "叠层", "宝塔形", "赤陶色", "陶土质感", "地中海风格", "特别版"]
+    hero_feature: "多层叠加翻边宝塔形轮廓+赤陶色，形体极具雕塑感和文化叙事"
+    problem_solved: "地中海/南欧风格建筑环境需要与建筑材料呼应的景观照明"
+    transferable_technique: "多层叠加翻边结构可迁移至需要层叠出光和强形体感的矮柱灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "赤陶色版本不确定是否为LP官方产品还是第三方品牌，品牌归属需确认"
+
+  - product_id: "lp_户外灯_020"
+    source_images:
+      - filename: "45.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/45.jpg"
+        image_role: "hero"
+        visual_anchor: "两只半球形壁灯，白色砖墙立面，北欧海滨庭院，白天场景"
+    product_name: "LP 半球壁灯（Beton/Flindt，白天视角）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "扁半球体，底部平，紧贴墙面安装，形体极简"
+      light_opening: "底部圆形开口向下出光（白天未亮灯，可见开口形态）"
+      thermal: "全封闭铝体"
+      cmf:
+        color: "不锈钢本色/拉丝银"
+        material: "不锈钢或抛光铝"
+        finish: "拉丝/轻度抛光，金属光泽"
+      mounting: "壁装，嵌入式背板"
+      signature_detail: "不锈钢材质在白天阳光下呈现镜面反光效果，与028.jpg深色版对比鲜明"
+    design_level:
+      score: 3
+      reason: "白天未亮灯视角，形体信息清晰但照明效果不可见，作为形体和CMF参考有价值"
+    design_tags: ["壁灯", "半球形", "不锈钢", "拉丝金属", "白天场景", "北欧海滨", "形体参考"]
+    hero_feature: "不锈钢半球在自然光下的金属反光质感，与夜间版本形成完整CMF对"
+    problem_solved: "海岸/盐雾环境需要兼顾耐腐蚀性的壁灯材料方案"
+    transferable_technique: "不锈钢拉丝+扁半球体组合，适用于海岸/高腐蚀环境户外灯CMF参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_021"
+    source_images:
+      - filename: "51.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/51.jpg"
+        image_role: "hero"
+        visual_anchor: "白灰色叠层矮柱灯，植物墙前单灯特写，亮灯状态，层间出暖白光"
+    product_name: "Bysted Garden Bollard（白灰版亮灯特写）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "圆柱底座+顶部多层叠加翻边（4-5层），从下至上收窄，宝塔/佛塔形"
+      light_opening: "各翻边层间隙环绕出光，形成水平光环叠加效果"
+      thermal: "叠层间隙自然通风"
+      cmf:
+        color: "浅灰/白灰"
+        material: "铝"
+        finish: "哑光喷涂"
+      mounting: "地面放置或地插底座"
+      signature_detail: "亮灯状态下各层光环清晰可见，形体与出光逻辑高度统一"
+    design_level:
+      score: 4
+      reason: "亮灯特写清晰展示叠层出光逻辑，与043赤陶版互补，白灰版更具北欧极简气质"
+    design_tags: ["矮柱灯", "bollard", "叠层", "宝塔形", "Bysted", "亮灯特写", "光环", "极简"]
+    hero_feature: "多层翻边间隙出光形成水平光环叠加，形体即出光逻辑"
+    problem_solved: "庭院路径需要低眩光、有形态感的矮柱照明"
+    transferable_technique: "叠层翻边+间隙出光结构，形体即光效，适用于有雕塑感需求的矮柱灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_022"
+    source_images:
+      - filename: "52.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/52.jpg"
+        image_role: "hero"
+        visual_anchor: "白灰叠层矮柱灯两只，混凝土广场背景，前大后小，日光场景"
+    product_name: "Bysted Garden Bollard（广场场景双灯）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "与051一致：圆柱底座+多层叠加翻边宝塔形，全形体展示视角更完整"
+      light_opening: "日间未亮灯，层间隙可见，出光形态可推断"
+      thermal: "叠层开放结构"
+      cmf:
+        color: "浅灰/白灰"
+        material: "铝"
+        finish: "哑光喷涂"
+      mounting: "地面放置或地插"
+      signature_detail: "前后两只灯大小对比凸显叠层形体的比例美感，混凝土环境突出灯具雕塑属性"
+    design_level:
+      score: 3
+      reason: "与051内容重复（同款日间版），场景构图有价值，作为形体比例参考优于亮灯特写"
+    design_tags: ["矮柱灯", "bollard", "叠层", "宝塔形", "Bysted", "日间场景", "广场", "混凝土环境"]
+    hero_feature: "叠层宝塔形完整轮廓在混凝土广场中的雕塑感呈现"
+    problem_solved: "展示灯具白天非亮灯状态的形体价值，证明景观功能与照明功能并重"
+    transferable_technique: "叠层翻边形体比例参考，日间场景构图适用于产品展示素材"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

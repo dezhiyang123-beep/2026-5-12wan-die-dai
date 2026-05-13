@@ -1,0 +1,184 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "灯泡·光源"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/灯泡·光源/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "pl_灯泡_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/灯泡·光源/01.jpg"
+        image_role: "hero"
+        visual_anchor: "BR30泛光型灯泡，白色碗形反射体+顶部品红色Hue彩光光晕，E26灯头，三只排列展示"
+    product_name: "Philips Hue White and Color BR30 泛光灯泡"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "灯泡·光源"]
+    design_language:
+      silhouette: "BR30标准泛光灯轮廓：宽扁碗形反射体+短颈+E26螺口；顶部平圆弧"
+      light_opening: "正面大开口漫射出光，顶部彩光晕圈是Hue彩色系标志性展示"
+      thermal: "陶瓷/铝合金灯头散热"
+      cmf:
+        color: "白色灯泡体，顶部展示品红彩光"
+        material: "塑料漫射罩，铝合金灯头"
+        finish: "哑白面漫射罩，金属灯头拉丝"
+      mounting: "E26标准螺口"
+      signature_detail: "顶部发光环（彩色halo）是Hue产品线展示图固定构图——让灯泡自己显示颜色能力"
+    design_level:
+      score: 2
+      reason: "BR30标准灯泡形态无设计创新，设计重点在智能彩光技术而非造型；产品本身形态受制于BR30国际标准"
+    design_tags: ["BR30", "泛光灯泡", "智能彩光", "Hue", "E26", "标准形态"]
+    hero_feature: "标准BR30外形装入Hue全彩技术——形态零学习成本，功能全面升级"
+    problem_solved: "嵌入式筒灯/轨道灯位需要升级为智能彩光，不改灯具只换灯泡"
+    transferable_technique: "顶部彩色光晕的产品摄影表达手法；标准形态+智能芯片的'不改形态升级技术'产品策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_灯泡_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/灯泡·光源/02.jpg"
+        image_role: "hero"
+        visual_anchor: "A19/A21标准球形灯泡，顶部整体发出饱和品红色，白色灯体+银色E27灯头，两只正面展示"
+    product_name: "Philips Hue White and Color A21 1100lm 球形灯泡"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "灯泡·光源"]
+    design_language:
+      silhouette: "A21标准球形灯泡：梨形轮廓，上部圆弧球体+下部锥形收窄颈+E27螺口灯头"
+      light_opening: "顶部及侧面全面积漫射出光，整个球体在彩光模式下完全变色"
+      thermal: "铝合金/陶瓷灯头，塑料漫射球体"
+      cmf:
+        color: "白色球体，银色灯头，展示饱和品红彩光"
+        material: "乳白色PC漫射罩，铝合金灯头"
+        finish: "哑白漫射，灯头拉丝银"
+      mounting: "E27标准螺口"
+      signature_detail: "整个球体全部变色（非仅顶部）——1100lm高亮度版本，饱和色彩表现力强"
+    design_level:
+      score: 2
+      reason: "A21标准形态无造型创新；但1100lm高亮度全彩是技术亮点，整球变色的展示效果比BR30更震撼"
+    design_tags: ["A21", "球形灯泡", "智能彩光", "Hue", "E27", "高亮度", "全球变色"]
+    hero_feature: "整颗球全部变色——不是顶部光圈，是整灯饱和变色，1100lm不暗"
+    problem_solved: "主照明位置需要兼顾功能亮度与彩色氛围，普通彩色灯泡亮度不足"
+    transferable_technique: "整体漫射球体全色域变色的视觉展示；高亮度彩光灯泡的产品差异化定位"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_灯泡_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/灯泡·光源/03.jpg"
+        image_role: "hero"
+        visual_anchor: "A19标准球形灯泡810lm，顶部品红彩光，白色灯体，三只递进排列展示规格系列"
+    product_name: "Philips Hue White and Color A19 810lm 球形灯泡（三只装）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "灯泡·光源"]
+    design_language:
+      silhouette: "A19标准球形，比A21稍小，梨形轮廓相同，E27螺口"
+      light_opening: "顶部及侧面全面积漫射出光"
+      thermal: "铝合金/陶瓷灯头"
+      cmf:
+        color: "白色球体，银色灯头，展示品红彩光"
+        material: "乳白色PC漫射罩，铝合金灯头"
+        finish: "哑白漫射，灯头拉丝银"
+      mounting: "E27标准螺口"
+      signature_detail: "三只递进排列的产品摄影构图，清晰展示多只套装价值"
+    design_level:
+      score: 2
+      reason: "与002同系列标准形态，810lm中规格版本；设计信息与002基本重叠，三只装包装形式是差异点"
+    design_tags: ["A19", "球形灯泡", "智能彩光", "Hue", "E27", "三只装", "中等亮度"]
+    hero_feature: "同002：标准形态×全彩技术；三只装性价比定位"
+    problem_solved: "多房间同时升级Hue智能彩光，需要多只套装降低单价"
+    transferable_technique: "套装产品的递进排列摄影构图技巧"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_灯泡_004"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/灯泡·光源/05.jpg"
+        image_role: "hero"
+        visual_anchor: "Hue Essential入门版球形灯泡，球体显示冷暖混光渐变（橙→粉→蓝），四只由小到大排列"
+    product_name: "Philips Hue Essential 球形灯泡（入门版多只装）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "灯泡·光源"]
+    design_language:
+      silhouette: "A19标准球形，与003形态相同，灯头相同"
+      light_opening: "全球漫射出光，此图展示冷暖混光（三色渐变横向分布）"
+      thermal: "同系列"
+      cmf:
+        color: "白色球体，银色灯头，展示橙→粉→蓝冷暖混光"
+        material: "乳白色PC漫射罩，铝合金灯头"
+        finish: "哑白漫射"
+      mounting: "E27标准螺口"
+      signature_detail: "Essential（入门）系列定位，冷暖调色但无全彩RGB，展示图侧重冷暖混光而非饱和色"
+    design_level:
+      score: 2
+      reason: "Essential入门版形态与全彩版相同，区别在内部技术规格；冷暖混光展示与全彩版有明显视觉区分"
+    design_tags: ["A19", "球形灯泡", "智能调色温", "Hue Essential", "E27", "入门版", "冷暖混光"]
+    hero_feature: "入门价格×Hue生态兼容——冷暖调节足够日常，可与全彩版混用同一App"
+    problem_solved: "预算有限但需要接入Hue智能生态，全彩功能并非必须"
+    transferable_technique: "入门/进阶产品线在同一形态下通过展示颜色区分定位的视觉策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_灯泡_005"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/灯泡·光源/06.jpg"
+        image_role: "hero"
+        visual_anchor: "A21大球形灯泡1600lm旗舰版，单只正面特写，顶部品红饱和彩光，灯体比例更饱满高挑"
+    product_name: "Philips Hue White and Color A21 1600lm 旗舰球形灯泡"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "灯泡·光源"]
+    design_language:
+      silhouette: "A21大规格球形，球体部分比A19更圆更饱满，整体更高；比例上球体占比更大"
+      light_opening: "全球漫射出光，1600lm高亮度，球体在彩光下整体呈饱和色"
+      thermal: "铝合金灯头，散热面积更大"
+      cmf:
+        color: "白色球体，银色E27灯头，展示饱和品红"
+        material: "乳白色PC漫射罩，铝合金灯头"
+        finish: "哑白漫射，灯头拉丝银"
+      mounting: "E27标准螺口"
+      signature_detail: "1600lm是Hue球形灯泡系列最高亮度；饱满圆润的球体比A19更具雕塑感"
+    design_level:
+      score: 3
+      reason: "同系列中A21大球比例最饱满，单只展示有雕塑感；1600lm旗舰定位使其在形态相同中靠规格建立高端感"
+    design_tags: ["A21", "大球形灯泡", "智能彩光", "Hue", "E27", "旗舰亮度", "1600lm"]
+    hero_feature: "最饱满球体×1600lm——最亮的Hue球形泡，彩色也够亮"
+    problem_solved: "高天花/大空间需要单灯泡提供足够亮度，同时保留智能彩光功能"
+    transferable_technique: "大球体比例带来的雕塑感；高亮度旗舰产品在同形态系列中通过比例微调建立差异"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,355 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "装饰落地灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/"
+  generated_at: "2026-05-09"
+products:
+  # ─── 01: 极简直立上射灯（红色单杆圆环落地灯） ───────────────────────────
+  - product_id: "foscarini_装饰落地灯_b2_001"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "鲜红色细直杆、中部椭圆形手柄环、三叉底座、顶端向上射出光束"
+    product_name: "Filo（推测）"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "装饰落地灯", "极简上射灯"]
+    design_language:
+      silhouette: "超细垂直单杆，通体等径，顶端裸露光源向上打光；中段集成一个小椭圆形金属环作为把手/开关，整体轮廓如一支细签"
+      light_opening: "顶端向上开口，无灯罩，光束直射天花板形成漫反射环境光"
+      thermal: "暖白光，背景橙色强化整体暖调"
+      cmf:
+        color: "中国红（哑光喷漆）"
+        material: "金属杆（钢管）"
+        finish: "哑光单色烤漆，全件同色"
+      mounting: "三叉Y形落地底座，纤细金属三脚，占地极小"
+      signature_detail: "杆中段的椭圆形金属环——兼作触控/旋钮开关与手持提携环，功能外显且造型简洁"
+    design_level:
+      score: 4
+      reason: "极度克制的减法设计，将落地灯简化至一根红色细线；中段圆环是唯一装饰元素，同时承载功能，完成度高，记忆点强"
+    design_tags: ["极简主义", "H01减法", "H11功能外显", "单色整体", "上射泛光", "雕塑感"]
+    hero_feature: "全杆单色+中段椭圆环——灯具减至一根签，环是唯一故事点"
+    problem_solved: "落地灯占地大、造型繁琐；本款将落地灯压缩为近乎二维的线条，不占视觉空间，成为空间中一个色彩点"
+    transferable_technique: "将开关/调节旋钮做成独立金属环穿套在杆上，兼具功能与装饰；全件单色处理消除视觉噪音"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 02: Tress（纤维编织圆柱落地灯） ───────────────────────────────────
+  - product_id: "foscarini_装饰落地灯_b2_002"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "高挑白色圆柱体，表面密布不规则交织镂空纹理，无可见底座"
+    product_name: "Tress"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "编织灯柱"]
+    design_language:
+      silhouette: "竖立圆柱体，上下等径略微收腰，高约150cm；整个柱身即为灯罩，无独立支架外露"
+      light_opening: "360°侧透光，镂空纹理让光线从所有方向溢出，兼顾顶部少量漫射"
+      thermal: "暖白光，通过镂空缝隙形成丰富光影投影于周围墙面"
+      cmf:
+        color: "白色/米白"
+        material: "玻璃纤维（fiberglass）编织成型"
+        finish: "哑光白，表面可见纤维编织走向"
+      mounting: "底部直立于地面，内置结构支撑，无外露底座"
+      signature_detail: "全柱密布的叶形镂空纹理——光亮时图案浮现，关灯时呈现编织立体感，两种状态各有表情"
+    design_level:
+      score: 5
+      reason: "材料、造型、光效三合一的代表作；玻璃纤维编织技术将结构、灯罩、装饰合并为单一实体，无多余零件，是Foscarini工艺美学的标志"
+    design_tags: ["H10材料表达", "编织工艺", "镂空光影", "圆柱造型", "360度出光", "雕塑性灯柱", "Foscarini标志款"]
+    hero_feature: "玻璃纤维编织镂空柱体——灯即结构，结构即装饰，光影是第二层设计"
+    problem_solved: "落地灯需要单独灯罩+支架，零件多；Tress将全部功能整合进一根纤维柱，极简且独特"
+    transferable_technique: "用编织/镂空工艺让灯体本身成为光源扩散器；柱体侧透可大面积柔化环境光，避免刺眼直射"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 03: 分叉枝状多头落地灯（Spokes/Tubes系列，赤陶色） ──────────────
+  - product_id: "foscarini_装饰落地灯_b2_003"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "多根赤陶色金属圆杆捆束交叉后向上分叉，每根杆端有短LED条形光源"
+    product_name: "Spokes（推测）"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "装饰落地灯", "多头分叉灯"]
+    design_language:
+      silhouette: "约6-8根等径金属杆在中下部捆扎交叉成束，往上发散呈树枝/草丛状；各杆角度不规则，形成有机动态感"
+      light_opening: "每根杆顶端约10cm长的LED线条光源，多点发光，照射方向各异"
+      thermal: "暖白LED线条光，赤陶色整体营造温暖大地调"
+      cmf:
+        color: "赤陶橙（Terracotta）"
+        material: "金属圆管（钢/铝）"
+        finish: "哑光烤漆，单色全杆统一"
+      mounting: "多杆底部捆扎固定后落地，无单独底座盘，杆束自稳"
+      signature_detail: "捆束中心节点——多杆在此交叉绑紧，形成视觉重心，也是结构支撑点；极具雕塑感"
+    design_level:
+      score: 4
+      reason: "仿生手法（树枝/芦苇束）与LED线条结合自然，赤陶色选择与橙色背景高度协调；多点散射光实用性强，造型记忆点高"
+    design_tags: ["H06仿生", "多头分叉", "线条光源", "束状结构", "大地色系", "雕塑性落地灯"]
+    hero_feature: "多杆捆束交叉后自由发散——同一材料、同一工艺产生枝状有机轮廓，无需灯罩"
+    problem_solved: "多头落地灯通常结构复杂，零件感强；本款用同质圆杆捆扎分叉，用最简单的材料实现多光源散布"
+    transferable_technique: "将多杆在同一点捆绑后发散，可以低成本创造有机多头结构；LED条嵌入杆端，光源隐藏于结构中"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 04: Twiggy 弧形落地灯（黑色+酒红色两个配色，合并组） ─────────────
+  - product_id: "foscarini_装饰落地灯_b2_004"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/18.jpg"
+        image_role: "hero"
+        visual_anchor: "超细弧形黑色单杆从底盘大幅弯曲，末端挂圆柱形织物灯罩，向下照射"
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/19.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款Twiggy，酒红/勃艮第配色，整体色调与背景融为一体"
+    product_name: "Twiggy"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "弧形落地灯"]
+    design_language:
+      silhouette: "圆形底盘+超细弧形杆（直径约1cm，弧跨约200cm）+末端圆柱灯罩；杆的弯曲半径极大，整体呈优雅大弧线"
+      light_opening: "灯罩开口朝下，向下漫射，灯罩内壁反射产生柔和向下照明"
+      thermal: "暖白光，向下聚焦于地面/座椅区域"
+      cmf:
+        color: "黑色（18）/ 酒红Bordeaux（19），灯罩与杆同色"
+        material: "杆：超细钢管；灯罩：复合材料（玻璃纤维或注塑），有织物/皮革质感纹理"
+        finish: "哑光单色烤漆（杆）；灯罩表面有细腻凹凸纹理"
+      mounting: "大型圆形底盘落地，配重保证超长弧杆稳定性"
+      signature_detail: "超细弧杆+大圆柱灯罩的比例反差——杆极细、罩相对粗壮，两者形成强烈视觉张力，是Twiggy的核心识别点"
+    design_level:
+      score: 5
+      reason: "Foscarini最具辨识度的弧形落地灯之一；超细杆与大灯罩的比例极限挑战重力直觉，工程难度与美学完成度均顶级，是品类标杆"
+    design_tags: ["H01减法", "H08对比强调", "弧形杆", "超细结构", "比例反差", "Foscarini标志款", "arc lamp", "全色系可选"]
+    hero_feature: "超细弧杆（约1cm径跨越2m弧度）与圆柱大灯罩的极限比例反差——视觉上像一根树枝撑起一顶帽子"
+    problem_solved: "传统弧形落地灯杆粗重、底座大；Twiggy将杆做到极限细，颠覆弧形灯的视觉重量感"
+    transferable_technique: "超细结构件承重的工程方案；弧杆弯曲角度和底盘配重的精确关系可迁移至其他悬臂结构设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 05: Birdie 落地灯家族（多配色+变体，合并组） ──────────────────────
+  # 涵盖图片：24（卧室情景白色落地灯）、31（黑色落地灯）、33（粉橙色落地灯）
+  - product_id: "foscarini_装饰落地灯_b2_005"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/24.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "卧室情景，白色倒梯形聚碳酸酯灯罩+黄铜细杆落地灯，灯罩边缘发光"
+      - filename: "31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/31.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色配色，灰背景棚拍，倒梯形灯罩+细直杆+小圆底座，杆中段有Y形小侧枝"
+      - filename: "33.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/33.jpg"
+        image_role: "colorway"
+        visual_anchor: "粉橙色（Rosa）配色，细杆+白色灯罩，情景棚拍"
+    product_name: "Birdie（落地灯版）"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "直杆落地灯"]
+    design_language:
+      silhouette: "细直立杆（底部渐细收锥形）+圆形底盘+倒梯形（上小下大）灯罩；杆顶端有标志性Y形小分叉连接灯罩，整体比例修长优雅"
+      light_opening: "灯罩开口朝下，向下漫射照明；聚碳酸酯灯罩半透光，侧面有柔和漫射光晕"
+      thermal: "暖白光，灯罩内白色衬里强化向下照度"
+      cmf:
+        color: "白色（24）/ 黑色（31）/ 粉橙Rosa（33），灯罩与杆通常同色或对色"
+        material: "杆：金属（钢），灯罩：聚碳酸酯（注塑）"
+        finish: "哑光烤漆（杆），灯罩哑光或半光泽注塑"
+      mounting: "小圆形底盘落地，底盘直径约15-20cm，稳定性依靠底盘配重"
+      signature_detail: "杆顶的Y形小分叉——像鸟腿/树杈连接灯罩，是Birdie命名来源，也是全系列（台灯/吊灯/落地灯）的统一识别符号"
+    design_level:
+      score: 4
+      reason: "Y形分叉细节将功能连接件做成了品牌符号，全系列高度统一；倒梯形灯罩比传统圆台形更具当代感，多配色策略覆盖宽泛市场"
+    design_tags: ["H07极简整合", "Y形特征细节", "倒梯形灯罩", "修长直杆", "多配色系", "Birdie家族", "聚碳酸酯灯罩"]
+    hero_feature: "杆顶Y形小分叉——不到3cm的细节，是整个Birdie家族的DNA符号，跨落地灯/台灯/吊灯/壁灯全形态"
+    problem_solved: "落地灯连接节点通常是工程件，视觉粗糙；Birdie将连接结构做成鸟爪形，功能与叙事合一"
+    transferable_technique: "将结构连接件（灯杆与灯罩接头）拟物化处理，创造品牌识别符；倒梯形灯罩将光线聚焦向下的同时侧面仍有漫射"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 06: Birdie 台灯系列（小台灯变体，合并组） ───────────────────────
+  # 涵盖图片：26（情景台灯白色）、29（铜色台灯）、32（浅蓝底座台灯小号）
+  - product_id: "foscarini_装饰落地灯_b2_006"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/26.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "桌面情景，白色发光倒梯形灯罩台灯，灯罩通体发光，书桌旁男士手持笔"
+      - filename: "29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/29.jpg"
+        image_role: "colorway"
+        visual_anchor: "铜色（Copper）配色台灯，倒梯形哑光铜色灯罩+铜色Y形杆+圆底座，棚拍橙色背景"
+      - filename: "32.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/32.jpg"
+        image_role: "colorway"
+        visual_anchor: "浅蓝色底座+白色发光灯罩，小型台灯，灰蓝背景，Y形杆不可见（超小号款）"
+    product_name: "Birdie（台灯版）"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "台灯", "桌面台灯"]
+    design_language:
+      silhouette: "短锥形杆+小圆底盘+倒梯形灯罩，比例更方正紧凑；铜色款杆顶Y形分叉清晰可见，浅蓝款（超小号）杆极短几乎不可见"
+      light_opening: "灯罩朝下+侧透，聚碳酸酯全体发光，台面照度充足"
+      thermal: "暖白光，灯罩乳白半透产生柔和光晕"
+      cmf:
+        color: "白色（26）/ 铜色Copper（29）/ 浅蓝Light Blue（32）"
+        material: "聚碳酸酯灯罩，金属杆底座"
+        finish: "哑光或半光泽烤漆"
+      mounting: "小圆形底盘桌面摆放"
+      signature_detail: "铜色款的全身同色处理——灯罩与杆底座同为铜色，Y形分叉与罩形成整体雕塑感"
+    design_level:
+      score: 4
+      reason: "台灯版完整传递Birdie设计语言，尺寸缩减后比例依然协调；铜色款是全系最具设计感的配色，材质感与形态共鸣"
+    design_tags: ["Birdie家族", "台灯", "倒梯形灯罩", "Y形细节", "聚碳酸酯", "多配色", "桌面照明"]
+    hero_feature: "全身同色的铜色版本——灯罩、Y杆、底座一色，将台灯变成小型桌面雕塑"
+    problem_solved: "台灯灯罩通常不透光，关灯后是无聊的白色圆锥；Birdie台灯灯罩本身发光，开灯时整体晶莹"
+    transferable_technique: "聚碳酸酯灯罩360度漫射设计；台灯与落地灯/壁灯/吊灯共用同一灯罩形态和连接符号，实现低成本全系列延伸"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 07: Birdie 壁灯版 ────────────────────────────────────────────────
+  - product_id: "foscarini_装饰落地灯_b2_007"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/28.jpg"
+        image_role: "hero"
+        visual_anchor: "白色壁灯，圆形壁挂底座+斜向伸出细杆+Y形分叉+倒梯形灯罩，灰色背景棚拍"
+    product_name: "Birdie（壁灯版）"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "壁灯", "装饰壁灯"]
+    design_language:
+      silhouette: "圆形壁挂底盘+斜伸短杆+Y形分叉+倒梯形灯罩；杆以约45度角向外上方伸出，灯罩悬于杆端"
+      light_opening: "灯罩朝下，聚光桌面或床头区域"
+      thermal: "暖白光"
+      cmf:
+        color: "白色，全件同色"
+        material: "聚碳酸酯灯罩，金属杆和底盘"
+        finish: "哑光白烤漆"
+      mounting: "圆形底盘墙面固定"
+      signature_detail: "Y形分叉在壁灯版中依然保留，成为Birdie跨形态的统一符号"
+    design_level:
+      score: 4
+      reason: "壁灯版成功将台灯/落地灯DNA完整移植，证明Y形分叉+倒梯形灯罩作为系统化设计语言的可移植性"
+    design_tags: ["Birdie家族", "壁灯", "Y形细节", "系列化设计", "倒梯形灯罩"]
+    hero_feature: "圆形壁盘+斜杆+Y叉+倒梯形罩——四个设计元素全部来自Birdie家族，零件共享，形态自然"
+    problem_solved: "壁灯通常与落地灯台灯风格断裂；Birdie系列实现跨形态视觉统一，方便同空间配套使用"
+    transferable_technique: "将落地灯的标志性细节（Y形分叉）直接保留在壁灯版，创造跨形态家族统一性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 08: Birdie 吊灯版 ───────────────────────────────────────────────
+  - product_id: "foscarini_装饰落地灯_b2_008"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/30.jpg"
+        image_role: "hero"
+        visual_anchor: "白色吊灯，细线从顶部垂下，Y形分叉连接倒梯形聚碳酸酯灯罩，灰色背景"
+    product_name: "Birdie（吊灯版）"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "吊灯", "装饰吊灯"]
+    design_language:
+      silhouette: "细吊线从顶部垂下，Y形分叉节点位于灯罩肩部，倒梯形灯罩悬空；整体极简，轮廓轻盈"
+      light_opening: "灯罩开口朝下，向下直射+侧面漫射"
+      thermal: "暖白光，灯罩半透白产生光晕"
+      cmf:
+        color: "全白"
+        material: "聚碳酸酯灯罩，金属Y形件"
+        finish: "哑光白"
+      mounting: "天花吊线安装"
+      signature_detail: "吊线与Y形分叉的衔接方式——吊线直接穿入Y形件顶端，结构节点可见，设计诚实"
+    design_level:
+      score: 4
+      reason: "吊灯版进一步验证Birdie系统设计语言的弹性；Y形件从支撑件变为连接件，功能转变自然"
+    design_tags: ["Birdie家族", "吊灯", "Y形细节", "倒梯形灯罩", "系列化设计", "聚碳酸酯"]
+    hero_feature: "Y形分叉件在吊灯中变为连接吊线与灯罩的挂钩——同一元素跨四种形态（台/落地/壁/吊）各找其位"
+    problem_solved: "吊灯与台灯风格难以统一；Birdie通过可复用设计语言让四种形态自然共存于同一空间"
+    transferable_technique: "设计一个可在多种安装形态中复用的连接符号件，低成本实现系列化延伸"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 09: Birdie XS（独立发光锥形体，无外露杆） ───────────────────────
+  - product_id: "foscarini_装饰落地灯_b2_009"
+    source_images:
+      - filename: "34.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/34.jpg"
+        image_role: "hero"
+        visual_anchor: "白色截锥形体直接落地，无可见底座或杆，顶端开口，整体发光，底部有光晕"
+    product_name: "Birdie XS（推测）/ 独立发光锥灯"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "装饰落地灯", "落地灯塑形体"]
+    design_language:
+      silhouette: "截锥形（上大下小，与Birdie灯罩形态一致），直接置于地面；无杆无底座，灯体即底座"
+      light_opening: "顶端开口向上出光，侧面全体漫射，底部边缘向下泄光形成地面光晕"
+      thermal: "冷白偏中性光，与灰蓝背景协调"
+      cmf:
+        color: "乳白色"
+        material: "聚碳酸酯或吹制玻璃（半透乳白）"
+        finish: "哑光乳白，均匀漫射无热点"
+      mounting: "直接落地放置，体量自稳"
+      signature_detail: "倒置的Birdie灯罩形态直接落地——将灯罩单独放大为独立灯具体，形态反转（原本朝下开口，此版朝上开口）"
+    design_level:
+      score: 4
+      reason: "以最简单的几何体（截锥）实现地面情绪照明；与Birdie家族的形态呼应明显，是系列的极端简化版本"
+    design_tags: ["H01减法", "H07极简整合", "落地发光体", "截锥造型", "全体漫射", "Birdie家族衍生", "氛围灯"]
+    hero_feature: "无杆无底座的纯锥形发光体——将传统灯具结构（底座+杆+罩）压缩为单一几何形，形体即全部"
+    problem_solved: "落地氛围灯通常是鼓形或球形，缺乏设计感；本款用Birdie家族的锥形语言延伸，既有氛围照明功能又有品牌一致性"
+    transferable_technique: "将已有产品的灯罩形态剥离支撑结构，单独做成独立发光体，低成本延伸产品线"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

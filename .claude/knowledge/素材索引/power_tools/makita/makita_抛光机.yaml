@@ -1,0 +1,49 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "抛光机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/抛光机/"
+  generated_at: "2026-05-08"
+notes: "文件夹内图片文件名以'砂光机__综合__'命名，但产品实为抛光机（Mini Polisher），文件命名存在偏差，已按实际产品内容归类"
+products:
+  - product_id: "makita_抛光机_001"
+    source_images:
+      - filename: "砂光机__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/抛光机/砂光机__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿色主体，黑色顶部把手及侧边分件，BL Brushless标识，红色抛光盘已安装，附多款抛光海绵垫（米白/黄/灰），Makita白字，细长手枪握持"
+      - filename: "砂光机__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/抛光机/砂光机__综合__06.jpg"
+        image_role: "color_variant"
+        visual_anchor: "同款产品全黑配色版本，黑色机身+黑色顶部把手，BL Brushless标识，红色抛光盘安装，附件组合与01相同，Makita白字"
+    product_name: "Makita 18V LXT 无绳迷你抛光机（Mini Polisher，如PO500D系列）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "抛光机"]
+    design_language:
+      silhouette: "纤细手枪握持式轮廓，顶部辅助把手垂直伸出，底部圆形抛光盘，整体纵向细长"
+      light_opening: "N/A"
+      thermal: "机身中段细密散热槽"
+      cmf:
+        color: "标准版：蓝绿色（Makita teal）主导+黑色顶部把手及分件线；黑版：全黑机身+黑色把手"
+        material: "工程塑料机壳+橡胶辅助把手+绒面/泡棉抛光盘组合"
+        finish: "哑光蓝绿/黑色壳体，橡胶哑光把手，毛织/泡棉抛光垫质感"
+      mounting: "18V LXT电池底部滑入，无外露电池，底部圆滑收尾"
+      signature_detail: "顶部直立辅助把手（固定式）是该品类核心人机特征；圆形抛光头盘为品类锚点"
+    design_level:
+      score: 3
+      reason: "抛光机品类中蓝绿+黑执行标准，顶部辅助把手与圆盘比例协调，附件配色与主机形成系统感"
+    design_tags: ["H12人机界面强化", "H08对比强调", "H07极简整合"]
+    hero_feature: "顶部垂直辅助把手+圆形抛光盘底座，形成该品类标志性T形握持轮廓"
+    problem_solved: "汽车漆面/精细表面抛光，无绳设计提升操作灵活性"
+    transferable_technique: "T形握持轮廓（主握+辅助把手垂直关系）在精细作业工具中的人机应用；双色系变体（标准/黑版）同架构差异化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件夹名'抛光机'与文件名'砂光机__综合'不符，建议人工确认产品归类正确性；图片显示确为抛光机（polisher），非砂光机（sander）"

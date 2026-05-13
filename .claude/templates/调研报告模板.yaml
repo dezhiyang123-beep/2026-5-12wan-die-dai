@@ -1,0 +1,38 @@
+market_overview:
+  market_size:
+    value: ""
+    source_url: ""
+    confidence: "[V]已验证 / [推导] / [UNKNOWN]"
+  cagr:
+    value: ""
+    source_url: ""
+  price_tiers:
+    low: { range: "", representative_brand: "", source_url: "" }
+    mid: { range: "", representative_brand: "", source_url: "" }
+    high: { range: "", representative_brand: "", source_url: "" }
+
+channels:
+  b2b_share: ""
+  b2c_share: ""
+  online_share: ""
+  source_url: ""
+
+certifications:
+  required: []
+  nice_to_have: []
+  source_url: ""
+
+china_oem:
+  - company_name: ""
+    location: ""
+    fob_range: ""
+    capability_note: ""
+    source_url: ""
+
+counter_evidence:
+  - id: "CE-01"
+    argument: ""           # 结构性论点
+    evidence_type: ""      # [数据] / [案例] / [AI推理]
+    source: ""             # URL或[AI推理]
+    impact_if_true: ""     # 如果成立对本项目意味着什么
+    mitigation: ""         # 应对方案

@@ -1,0 +1,1025 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电钻"
+  tertiary: "螺丝刀"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/"
+  generated_at: "2026-05-08"
+  note: "本文件图片为Milwaukee电钻/螺丝刀系列，实际涵盖手枪钻、冲击起子驱动器、直角钻、泥浆搅拌钻等多个子类型"
+products:
+  - product_id: "milwaukee_螺丝刀_001"
+    source_images:
+      - filename: "电钻__螺丝刀__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__01.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18紧凑手枪钻套装，枪形裸机+2块M18 REDLITHIUM CP2.0电池+充电器+黑色帆布工具包，机身亮红+哑黑握把，银灰卡盘，Milwaukee徽标侧嵌"
+    product_name: "Milwaukee M18 Compact Drill/Driver Kit"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "标准枪形手枪钻，机头圆柱形黑色卡盘+扭力环，红色机身，握把向下弯曲，比例紧凑"
+      light_opening: "N/A（套装图，细节不清晰）"
+      thermal: "机身顶部细槽"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰卡盘"
+        material: "机壳工程塑料，卡盘铝/钢，握把TPR"
+        finish: "机壳亮面，握把哑面网格，卡盘金属光"
+      mounting: "M18平台，CP2.0轻量电池"
+      signature_detail: "黑色多挡位扭力环（clutch ring）是手枪钻区别于冲击起子的身份特征"
+    design_level:
+      score: 3
+      reason: "标准执行，M18平台入门手枪钻，配置合理"
+    design_tags: ["H02包覆", "H11功能外显"]
+    hero_feature: "多挡位离合扭力环，可视化力矩调节"
+    problem_solved: "精确扭矩控制的螺钉拧紧和木材打孔，防止过拧损伤工件"
+    transferable_technique: "扭力环多挡刻度设计——功能操作界面同时成为视觉焦点"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_002"
+    source_images:
+      - filename: "电钻__螺丝刀__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__02.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL ONE-KEY锤钻，大型枪形，银灰金属感大卡盘+红色机身，Milwaukee FUEL徽标，WiFi蓝色ONE-KEY图标贴纸，黑色菱形纹握把，大容量电池舱，底部金属腰夹"
+    product_name: "Milwaukee M18 FUEL ONE-KEY Hammer Drill/Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "大型枪形，机头明显宽大（容纳锤击机构），机身厚实，整体体量感强"
+      light_opening: "机身顶部右侧散热槽组"
+      thermal: "机身顶部多条散热槽，散热面积大"
+      cmf:
+        color: "主色亮红，次色哑黑（握把+机壳黑色区），银灰（大卡盘+压铸件）"
+        material: "机壳工程塑料，卡盘金属，握把TPR菱形纹"
+        finish: "机壳亮面，卡盘金属光泽，握把哑面菱形纹"
+      mounting: "M18平台裸机，底部大容量电池舱+金属腰夹"
+      signature_detail: "ONE-KEY WiFi连接标识（蓝色图标）是智能化标志，大卡盘+锤钻体量是重型施工工具标志"
+    design_level:
+      score: 4
+      reason: "FUEL旗舰线设计语言精炼，菱形纹握把+弧形分件线+FUEL徽标三要素组合有造型创新，ONE-KEY智能化标识整合自然"
+    design_tags: ["H08对比强调", "H12人机界面强化", "H11功能外显"]
+    hero_feature: "ONE-KEY无线连接+FUEL无刷电机双重旗舰标识，大型卡盘视觉传达重型钻孔能力"
+    problem_solved: "混凝土、砖墙等硬质材料的重型锤钻，同时支持APP远程配置扭矩参数"
+    transferable_technique: "智能化功能通过小图标低成本整合于产品外观，不改变整体造型语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_003"
+    source_images:
+      - filename: "电钻__螺丝刀__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__03.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL锤钻Gen3裸机，大型枪形，大黑色卡盘+红色机身，Milwaukee FUEL徽标，顶部散热槽组，正反转拨块，底部金属腰夹，无电池"
+    product_name: "Milwaukee M18 FUEL Hammer Drill/Driver Gen3 (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "大型枪形锤钻，机头特别宽大（锤击机构），整体比标准手枪钻壮实50%"
+      light_opening: "机身顶部右侧散热槽阵列"
+      thermal: "顶部多槽密集散热，强调大功率散热需求"
+      cmf:
+        color: "主色亮红，次色哑黑，黑色大卡盘"
+        material: "机壳工程塑料，卡盘金属，握把TPR"
+        finish: "机壳亮面，握把哑面纹理，卡盘哑黑"
+      mounting: "M18平台裸机，金属腰夹"
+      signature_detail: "全黑大卡盘是锤钻的强力视觉标志；FUEL+Milwaukee双徽标叠加强化旗舰定位"
+    design_level:
+      score: 3
+      reason: "旗舰功能执行到位，设计语言与系列一致，无突破点"
+    design_tags: ["H08对比强调", "H11功能外显"]
+    hero_feature: "超大黑色卡盘+FUEL徽标，视觉上直接传达重型锤钻的专业感"
+    problem_solved: "建筑工地重型钻孔：混凝土、砖块、钢板穿孔"
+    transferable_technique: "通过放大关键功能部件（卡盘）的体量，直接在外观上传达产品性能等级"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_004"
+    source_images:
+      - filename: "电钻__螺丝刀__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__04.jpg"
+        image_role: "hero"
+        visual_anchor: "M12 FUEL Gen3紧凑手枪钻裸机，3/8英寸小卡盘+亮红机身，Milwaukee FUEL徽标，右侧银灰腰夹，LED灯在机头底部，4颗LED电量指示灯，菱形纹握把，极紧凑"
+    product_name: "Milwaukee M12 FUEL Gen3 3/8\" Drill/Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "超紧凑枪形，3/8英寸小卡盘使机头极细，握把短小，整体与M18款相比缩小约30%"
+      light_opening: "N/A（无开槽）"
+      thermal: "密封机身（M12低功率）"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰腰夹"
+        material: "机壳工程塑料，握把TPR菱形纹"
+        finish: "机壳亮面，握把哑面菱形纹"
+      mounting: "M12平台裸机，带LED+4颗电量灯+侧腰夹"
+    signature_detail: "机头底部LED灯+机身4颗电量指示灯，功能高度整合于紧凑机身"
+    design_level:
+      score: 4
+      reason: "M12 FUEL Gen3设计语言精炼，在极小尺寸内整合LED灯+电量指示+腰夹，工程与造型兼顾，比例美观"
+    design_tags: ["H07极简整合", "H09隐藏工程", "H12人机界面强化"]
+    hero_feature: "在M12超紧凑尺寸内整合4颗电量指示灯+LED工作灯，信息密度最高的同级产品"
+    problem_solved: "狭窄空间精细作业，如橱柜安装、电气布线，M12轻量化减少手臂疲劳"
+    transferable_technique: "电量指示灯嵌入握把侧面设计——功能信息在不增加体积的前提下可视化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_005"
+    source_images:
+      - filename: "电钻__螺丝刀__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__05.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M12 FUEL 4合1安装钻驱动器套装，枪形主机+4个可换头（钻夹头/冲击驱动/直角驱动/偏角驱动）+红色工具包，Milwaukee FUEL，机身独特无头型，适配各种安装场景"
+    product_name: "Milwaukee M12 FUEL Installation Drill/Driver 4-in-1 Kit (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "主机枪形但机头设计为快换接口，无固定头部，头部更小更轻，4种功能头单独形态各异"
+      light_opening: "N/A（套装图）"
+      thermal: "密封机身"
+      cmf:
+        color: "主色亮红，黑色功能头"
+        material: "机壳工程塑料，功能头金属"
+        finish: "机壳亮面，功能头金属光"
+      mounting: "M12平台，模块化换头接口"
+      signature_detail: "4合1模块化换头系统是产品最大差异点，一台主机实现四种不同操作场景"
+    design_level:
+      score: 4
+      reason: "模块化换头创新是真实功能突破，设计围绕换头接口重新定义机头形态，有明确造型创新"
+    design_tags: ["H05模块化", "H07极简整合", "H11功能外显"]
+    hero_feature: "4合1快换头系统：一台主机+4种头部=替代4台专用工具，大幅减少工具携带量"
+    problem_solved: "安装工程师需要频繁切换钻孔/拧紧/直角/偏角操作但不想携带多台工具"
+    transferable_technique: "主机身标准化+功能头多样化的模块设计思路，可迁移至其他工具类目"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_006"
+    source_images:
+      - filename: "电钻__螺丝刀__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__06.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M12 FUEL 4合1安装钻驱动器完整套装（含电池），同005但包含M12电池+充电器，红色帆布包装，陈列更完整"
+    product_name: "Milwaukee M12 FUEL Installation Drill/Driver 4-in-1 Complete Kit"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "同005，模块化换头主机"
+      light_opening: "N/A"
+      thermal: "密封机身"
+      cmf:
+        color: "主色亮红，黑色功能头，红色帆布包"
+        material: "同005"
+        finish: "同005"
+      mounting: "M12平台，含电池+充电器完整套"
+      signature_detail: "同005，完整套装版"
+    design_level:
+      score: 4
+      reason: "同005产品，完整套装版"
+    design_tags: ["H05模块化", "H07极简整合"]
+    hero_feature: "同005，4合1模块化系统完整套装"
+    problem_solved: "同005，开箱即用完整方案"
+    transferable_technique: "同005"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_007"
+    source_images:
+      - filename: "电钻__螺丝刀__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__07.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M12 FUEL紧凑手枪钻套装含硬壳箱，裸机+2块M12 LITHIUM电池+充电器+红色硬壳箱，Milwaukee M12 FUEL标识，套装红色调整体"
+    product_name: "Milwaukee M12 FUEL Compact Drill/Driver Kit with Hard Case"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "紧凑枪形，机头细，握把短，轻量感"
+      light_opening: "N/A（套装图）"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红，次色哑黑"
+        material: "机壳工程塑料，硬壳箱ABS"
+        finish: "硬壳箱M12 FUEL浮雕标识"
+      mounting: "M12平台，完整套装"
+      signature_detail: "M12 FUEL红色硬壳箱，与M18款保持一致包装品质"
+    design_level:
+      score: 3
+      reason: "套装标准执行，M12平台轻量方案，硬壳包装提升档次"
+    design_tags: ["H07极简整合"]
+    hero_feature: "M12平台最紧凑的FUEL级手枪钻，适合精细作业"
+    problem_solved: "对工具重量极敏感的精细安装作业，如吊顶、装饰木工"
+    transferable_technique: "跨平台（M12/M18）保持包装语言一致，强化系列品牌感"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_008"
+    source_images:
+      - filename: "电钻__螺丝刀__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__08.jpg"
+        image_role: "hero"
+        visual_anchor: "M12 FUEL 3/8英寸手枪钻裸机，小型枪形，黑色卡盘+多挡扭力环+亮红机身，Milwaukee FUEL徽标，LED灯，4颗电量指示灯，右侧银灰腰夹，黑色菱形纹握把，极紧凑轻量"
+    product_name: "Milwaukee M12 FUEL 3/8\" Drill/Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "小型枪形，机头3/8英寸小卡盘+扭力环，整体比004款略大（因有扭力环）"
+      light_opening: "N/A"
+      thermal: "密封机身"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰腰夹"
+        material: "机壳工程塑料，握把TPR菱形纹"
+        finish: "机壳亮面，握把哑面菱形纹"
+      mounting: "M12平台裸机，LED+4颗电量灯+腰夹"
+      signature_detail: "黑色多挡扭力环+LED灯+4颗电量指示灯三功能元素整合在极小尺寸，工程整合度高"
+    design_level:
+      score: 4
+      reason: "在M12超紧凑体积内整合完整功能界面，比例协调，FUEL系列设计语言统一"
+    design_tags: ["H07极简整合", "H12人机界面强化", "H09隐藏工程"]
+    hero_feature: "M12级别的完整功能集成：多挡离合+LED照明+电量显示，功能密度超越体积预期"
+    problem_solved: "狭小空间精细螺钉控制，要求扭矩精确可调，防止过拧"
+    transferable_technique: "扭力环+LED+电量指示灯三元素一体化设计在小体积产品上的整合方法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_009"
+    source_images:
+      - filename: "电钻__螺丝刀__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__09.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18 FUEL泥浆搅拌钻套装，T形双握把大型工具，机身横置，侧面大Milwaukee徽标，银灰大卡盘侧出，双握把T字形轮廓，附M18大电池+充电器+红色帆布包"
+    product_name: "Milwaukee M18 FUEL Mud Mixer Kit"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "T形双握把搅拌机，顶部竖握把+底部横握把，机头向右侧出，整体方正厚重"
+      light_opening: "机身侧面散热槽"
+      thermal: "机身侧面多条散热槽"
+      cmf:
+        color: "主色亮红（机壳），次色哑黑（握把+机壳过渡），银灰（卡盘+金属件）"
+        material: "机壳工程塑料，握把橡胶，卡盘金属"
+        finish: "机壳亮面，握把哑面网格"
+      mounting: "M18平台，大容量电池横置"
+      signature_detail: "T形双握把是搅拌钻独特轮廓，超大扭矩搅拌需要双手控制，造型即功能"
+    design_level:
+      score: 3
+      reason: "重型功能执行到位，T形双握把为功能驱动设计，无造型创新"
+    design_tags: ["H11功能外显", "H12人机界面强化"]
+    hero_feature: "T形双握把设计满足高扭矩反力控制需求，机身造型直接反映使用姿态"
+    problem_solved: "建筑工地高粘度泥浆/砂浆搅拌，需要双手控制大扭矩反力"
+    transferable_technique: "T形双握把造型迁移至其他需要双手操控的大型工具类目"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_010"
+    source_images:
+      - filename: "电钻__螺丝刀__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__10.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL泥浆搅拌钻裸机，T形双握把，顶部D形握把+正前方滚筒卡盘，Milwaukee FUEL徽标，黑色机身为主，底部红色接口区，正反转拨块，整体体量巨大"
+    product_name: "Milwaukee M18 FUEL Mud Mixer (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "T形双握把，顶部D形循环握把（辅助握持），底部正常手枪握把，机头向右水平伸出，整体接近正方形轮廓"
+      light_opening: "机身左侧多条垂直散热槽"
+      thermal: "机身侧面密集垂直散热槽（超大功率散热需求）"
+      cmf:
+        color: "主黑色机身，红色底部区域，Milwaukee FUEL白色标识"
+        material: "机壳工程塑料，D形握把橡胶"
+        finish: "机壳哑黑，握把软质橡胶"
+      mounting: "M18平台裸机（无电池）"
+      signature_detail: "D形辅助握把+机身密集散热槽是重型专业工具的标志性特征"
+    design_level:
+      score: 3
+      reason: "重型专用工具，设计完全服务功能需求，执行到位"
+    design_tags: ["H11功能外显", "H12人机界面强化"]
+    hero_feature: "D形辅助握把+高密度散热槽，重型工具使用安全感和专业感强"
+    problem_solved: "超高粘度材料搅拌，单手无法控制反力，需D形握把辅助稳定"
+    transferable_technique: "D形辅助握把的造型处理——功能性辅助握持件集成于机身顶部不增加整体宽度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_011"
+    source_images:
+      - filename: "电钻__螺丝刀__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__11.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M12 BRUSHLESS紧凑手枪钻套装，枪形裸机+2块M12 LITHIUM CP2.0电池+充电器+黑色帆布工具包，Milwaukee BRUSHLESS标识，整体红色调"
+    product_name: "Milwaukee M12 BRUSHLESS Compact Drill/Driver Kit"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "标准紧凑枪形，比M12 FUEL款稍大，扭力环可见"
+      light_opening: "N/A（套装图）"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红，次色哑黑"
+        material: "机壳工程塑料"
+        finish: "机壳亮面"
+      mounting: "M12平台，CP2.0电池"
+      signature_detail: "BRUSHLESS标识传达无刷高效能"
+    design_level:
+      score: 3
+      reason: "标准执行，M12 BRUSHLESS入门套装"
+    design_tags: ["H02包覆"]
+    hero_feature: "M12无刷平台，轻量高效"
+    problem_solved: "家装/轻商业精细螺钉安装"
+    transferable_technique: "电机技术标识（BRUSHLESS）直接作为视觉卖点显示在机身"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_012"
+    source_images:
+      - filename: "电钻__螺丝刀__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__12.jpg"
+        image_role: "hero"
+        visual_anchor: "M12 BRUSHLESS紧凑手枪钻裸机，3/8卡盘+黑色扭力环+亮红机身，Milwaukee BRUSHLESS标识，右侧银灰腰夹，4颗LED电量指示灯，黑色握把，超紧凑形态"
+    product_name: "Milwaukee M12 BRUSHLESS 3/8\" Drill/Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "超紧凑枪形，3/8卡盘+扭力环使机头紧凑而功能完整"
+      light_opening: "N/A"
+      thermal: "密封"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰腰夹"
+        material: "机壳工程塑料，握把TPR"
+        finish: "机壳亮面，握把哑面"
+      mounting: "M12平台裸机，4颗电量灯+腰夹"
+      signature_detail: "4颗电量灯+腰夹集成于紧凑机身，BRUSHLESS标识可见"
+    design_level:
+      score: 3
+      reason: "执行到位，比004 FUEL版稍大但功能完整，设计语言一致"
+    design_tags: ["H07极简整合", "H12人机界面强化"]
+    hero_feature: "M12最紧凑的无刷手枪钻，完整功能在最小体积"
+    problem_solved: "轻量化精细作业，对工具尺寸极敏感"
+    transferable_technique: "电量指示灯与腰夹在同一机身区域整合的布局方案"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_013"
+    source_images:
+      - filename: "电钻__螺丝刀__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__13.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 BRUSHLESS紧凑手枪钻裸机，1/2英寸卡盘+黑色大扭力环+亮红机身，Milwaukee BRUSHLESS标识，右侧银灰腰夹，正反拨块，底部空电池舱+金属腰夹，比M12款体量明显更大"
+    product_name: "Milwaukee M18 BRUSHLESS Compact Drill/Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "紧凑枪形但为M18平台，1/2卡盘+大扭力环，机头比M12款大，握把更饱满"
+      light_opening: "机身顶部细槽"
+      thermal: "顶部细槽散热"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰腰夹"
+        material: "机壳工程塑料，握把TPR"
+        finish: "机壳亮面，握把哑面"
+      mounting: "M18平台裸机，金属腰夹"
+      signature_detail: "M18平台的紧凑版本，在保持M18扭矩的前提下缩短机身长度"
+    design_level:
+      score: 3
+      reason: "标准执行，M18紧凑版定位明确，设计语言一致"
+    design_tags: ["H02包覆", "H11功能外显"]
+    hero_feature: "M18平台+紧凑机身，大扭矩与小体积的最优平衡"
+    problem_solved: "需要M18级别扭矩但空间受限的安装作业"
+    transferable_technique: "通过缩短机身后端而非压缩功能区实现紧凑化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_014"
+    source_images:
+      - filename: "电钻__螺丝刀__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__14.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18紧凑手枪钻套装，枪形裸机+2块M18 REDLITHIUM CP2.0电池+充电器+黑色帆布包，Milwaukee徽标，整体红色调套装"
+    product_name: "Milwaukee M18 Compact Drill/Driver Kit"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "标准M18枪形手枪钻，套装陈列"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红，次色哑黑"
+        material: "机壳工程塑料"
+        finish: "机壳亮面"
+      mounting: "M18平台，CP2.0电池"
+      signature_detail: "M18 REDLITHIUM品牌电池与工具配套"
+    design_level:
+      score: 3
+      reason: "标准套装，执行到位"
+    design_tags: ["H02包覆"]
+    hero_feature: "M18平台，CP2.0轻量电池套装"
+    problem_solved: "标准商业安装作业的完整方案"
+    transferable_technique: "入门套装配置策略：2电池+充电器+包袋覆盖完整使用需求"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_015"
+    source_images:
+      - filename: "电钻__螺丝刀__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__15.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18 BRUSHLESS手枪钻套装，枪形裸机+2块M18 REDLITHIUM CP2.0电池+充电器+黑色帆布包，Milwaukee BRUSHLESS标识，套装与014外观相似但机型为无刷版"
+    product_name: "Milwaukee M18 BRUSHLESS Compact Drill/Driver Kit"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "M18标准枪形，BRUSHLESS版比有刷版机头稍短"
+      light_opening: "N/A（套装图）"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红，次色哑黑"
+        material: "机壳工程塑料"
+        finish: "机壳亮面"
+      mounting: "M18平台，CP2.0电池"
+      signature_detail: "BRUSHLESS版标识在同类产品中代表更高效能"
+    design_level:
+      score: 3
+      reason: "标准套装执行，无刷升级版"
+    design_tags: ["H02包覆"]
+    hero_feature: "M18 BRUSHLESS套装，高效无刷电机+标准套装配置"
+    problem_solved: "需要更高效率和更长电池续航的专业安装"
+    transferable_technique: "同一产品外观下通过标识区分技术版本，降低用户认知负担"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_016"
+    source_images:
+      - filename: "电钻__螺丝刀__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__16.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 BRUSHLESS手枪钻裸机，1/2卡盘+黑色扭力环+亮红机身，Milwaukee BRUSHLESS侧标，右侧红色方形开口，正反拨块，底部空电池舱+金属腰夹，机身比013更修长"
+    product_name: "Milwaukee M18 BRUSHLESS Drill/Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "修长枪形，机头卡盘+扭力环比例协调，机身后段线条干净"
+      light_opening: "机身右侧红色方形散热/LED开口"
+      thermal: "机身右侧散热开口"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰腰夹"
+        material: "机壳工程塑料，握把TPR"
+        finish: "机壳亮面，握把哑面"
+      mounting: "M18平台裸机，金属腰夹"
+      signature_detail: "机身右侧红色方形开口是LED灯窗，红色内嵌造型语言与机身一体化"
+    design_level:
+      score: 3
+      reason: "标准M18 BRUSHLESS执行，机身修长比例较美观"
+    design_tags: ["H02包覆", "H08对比强调"]
+    hero_feature: "红色LED灯窗与机身一体化设计，照明功能不破坏整体造型"
+    problem_solved: "标准M18钻孔与拧紧，BRUSHLESS提升效率"
+    transferable_technique: "功能灯窗与机身颜色统一，避免功能开口破坏造型完整感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_017"
+    source_images:
+      - filename: "电钻__螺丝刀__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__17.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M12手枪钻套装，枪形裸机+2块M12 REDLITHIUM电池+充电器+红色帆布大包，Milwaukee徽标，经典红黑配色套装"
+    product_name: "Milwaukee M12 Drill/Driver Kit"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "M12标准枪形，比FUEL系列机头略大"
+      light_opening: "N/A（套装图）"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红，次色哑黑"
+        material: "机壳工程塑料"
+        finish: "机壳亮面"
+      mounting: "M12平台，REDLITHIUM电池"
+      signature_detail: "大红色帆布包整体品牌感强，M12入门级套装"
+    design_level:
+      score: 3
+      reason: "入门级M12套装，执行标准"
+    design_tags: ["H02包覆"]
+    hero_feature: "M12入门套装，完整使用方案性价比高"
+    problem_solved: "家装轻度使用，偶尔DIY+轻商业"
+    transferable_technique: "大尺寸红色工具包视觉冲击力强，品牌感超出产品本身价位"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_018"
+    source_images:
+      - filename: "电钻__螺丝刀__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__18.jpg"
+        image_role: "hero"
+        visual_anchor: "M18紧凑手枪钻裸机侧视，黑色卡盘+灰色扭力环+亮红机身，Milwaukee徽标，机身比FUEL款更圆润，握把曲线更饱满，底部无电池+腰夹，早期M18造型语言"
+    product_name: "Milwaukee M18 Compact Drill/Driver (Bare Tool) Early Gen"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "圆润枪形，机头较圆，握把曲线饱满，无FUEL系列的棱角感，早期M18造型"
+      light_opening: "N/A"
+      thermal: "无明显散热开槽"
+      cmf:
+        color: "主色亮红，次色哑黑，灰色扭力环"
+        material: "机壳工程塑料，握把TPR"
+        finish: "机壳亮面，握把哑面"
+      mounting: "M18平台裸机"
+      signature_detail: "早期Milwaukee圆润造型，与现代FUEL/BRUSHLESS系列棱角感明显不同"
+    design_level:
+      score: 3
+      reason: "早期产品，执行标准，造型相对圆润传统"
+    design_tags: ["H02包覆"]
+    hero_feature: "M18平台手枪钻，早期圆润造型语言"
+    problem_solved: "标准M18钻孔与拧紧作业"
+    transferable_technique: "对比早期圆润vs现代棱角造型语言，展示Milwaukee品牌造型进化轨迹"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_019"
+    source_images:
+      - filename: "电钻__螺丝刀__19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__19.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18手枪钻套装，枪形裸机+2块M18 REDLITHIUM CP2.0电池+充电器+黑色帆布包，Milwaukee徽标，标准M18套装配置"
+    product_name: "Milwaukee M18 Compact Drill/Driver Kit (CP2.0)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "M18枪形套装"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红，次色哑黑"
+        material: "机壳工程塑料"
+        finish: "机壳亮面"
+      mounting: "M18平台，CP2.0电池"
+      signature_detail: "标准M18套装，经典配色"
+    design_level:
+      score: 3
+      reason: "标准套装，执行到位"
+    design_tags: ["H02包覆"]
+    hero_feature: "M18套装完整配置"
+    problem_solved: "M18平台完整入门方案"
+    transferable_technique: "同014/015，套装配置标准化策略"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_020"
+    source_images:
+      - filename: "电钻__螺丝刀__20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__20.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18手枪钻老款套装含硬壳箱，裸机+1块M18 REDLITHIUM电池+充电器+红色硬壳收纳箱，老款圆润机身，Milwaukee徽标，经典红色套装"
+    product_name: "Milwaukee M18 Drill/Driver Kit with Hard Case (Early Gen)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "早期M18圆润枪形，机头较大较圆"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红，次色黑"
+        material: "机壳工程塑料，硬壳箱ABS"
+        finish: "机壳亮面"
+      mounting: "M18平台，老款电池"
+      signature_detail: "早期Milwaukee红色硬壳箱，Milwaukee大字浮雕"
+    design_level:
+      score: 2
+      reason: "早期产品，造型相对粗糙，缺少现代Milwaukee棱角感"
+    design_tags: ["H02包覆"]
+    hero_feature: "早期M18平台，硬壳箱保护"
+    problem_solved: "早期Milwaukee M18用户的完整套装"
+    transferable_technique: "对比早期vs现代设计语言演进，了解Milwaukee品牌造型进化"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_021"
+    source_images:
+      - filename: "电钻__螺丝刀__21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__21.jpg"
+        image_role: "hero"
+        visual_anchor: "M12直角钻驱动器裸机，机身水平圆筒形，左端直角卡盘水平向左伸出，右端握持区，Milwaukee徽标红底，机身主体黑红双色，极低矮，适合狭窄空间"
+    product_name: "Milwaukee M12 Right Angle Drill/Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "水平圆筒直角形，驱动头水平向左，握持区在右，整体横置扁平，最大高度约机身直径"
+      light_opening: "机身中段细槽"
+      thermal: "密封为主，细槽辅助"
+      cmf:
+        color: "主色亮红，次色哑黑，灰色驱动头"
+        material: "机壳工程塑料，驱动头金属"
+        finish: "机壳亮面，握持区哑面"
+      mounting: "M12平台裸机，底部卡扣电池接口"
+      signature_detail: "横置圆筒+直角驱动头的造型让工具可横向插入极窄夹层操作"
+    design_level:
+      score: 3
+      reason: "直角钻标准执行，功能形态清晰，M12平台轻量化"
+    design_tags: ["H05模块化", "H11功能外显", "H07极简整合"]
+    hero_feature: "超低矮圆筒形直角钻，可在夹层高度仅数厘米的空间横向钻孔"
+    problem_solved: "地板夹层、墙体空腔等极低矮狭窄空间的钻孔/拧螺钉"
+    transferable_technique: "横置圆筒形机身设计——功能形态完全服从狭窄空间操作需求"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_022"
+    source_images:
+      - filename: "电钻__螺丝刀__22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__22.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18 FUEL SURGE液压驱动器套装含硬壳箱，枪形裸机+2块M18 REDLITHIUM XC5.0电池+充电器+红色硬壳箱，SURGE标识，Milwaukee FUEL，高端旗舰套装"
+    product_name: "Milwaukee M18 FUEL SURGE Hydraulic Driver Kit with Hard Case"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "枪形冲击/液压驱动器，套装陈列"
+      light_opening: "N/A（套装图）"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红，次色哑黑"
+        material: "机壳工程塑料，硬壳箱ABS"
+        finish: "硬壳箱M18 FUEL浮雕"
+      mounting: "M18平台，XC5.0大容量电池"
+      signature_detail: "SURGE液压驱动技术+XC5.0高容量电池，旗舰级套装定位"
+    design_level:
+      score: 3
+      reason: "套装图，机型为SURGE液压版，属旗舰配置"
+    design_tags: ["H11功能外显"]
+    hero_feature: "SURGE液压驱动技术：无机械冲击震动，更安静，木工细活更精准"
+    problem_solved: "对噪音/震动敏感环境的精密螺钉作业，如室内精装修"
+    transferable_technique: "液压驱动机构外观与标准冲击起子相似，差异化通过SURGE标识传达"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_023"
+    source_images:
+      - filename: "电钻__螺丝刀__23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__23.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL SURGE液压驱动器裸机，枪形，机头顶部透明窗可见液压部件，Milwaukee FUEL+SURGE标识，亮红机身+黑色握把，底部红色电池舱+金属腰夹"
+    product_name: "Milwaukee M18 FUEL SURGE Hydraulic Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "枪形，与标准冲击起子相似，机头顶部有特征性透明窗"
+      light_opening: "机身顶部透明液压窗"
+      thermal: "机身两侧散热槽"
+      cmf:
+        color: "主色亮红，次色哑黑，透明窗（液压油可见）"
+        material: "机壳工程塑料，液压窗PC透明件"
+        finish: "机壳亮面，握把哑面"
+      mounting: "M18平台裸机，金属腰夹"
+      signature_detail: "机头顶部透明窗是SURGE系列独特设计元素，可见液压油是功能展示窗口"
+    design_level:
+      score: 4
+      reason: "透明液压窗是真实造型创新，将内部功能技术可视化，视觉记忆点强，品牌+创新双高分"
+    design_tags: ["H09隐藏工程", "H10材料表达", "H11功能外显"]
+    hero_feature: "顶部透明液压窗——让隐藏的液压驱动机构可见，技术感十足，是品类内独特视觉识别"
+    problem_solved: "无震动精密液压驱动，内部可见设计同时建立用户对技术的信任感"
+    transferable_technique: "内部功能件可视化设计——在不影响结构的位置开透明窗，将技术优势转化为视觉卖点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_024"
+    source_images:
+      - filename: "电钻__螺丝刀__24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__24.jpg"
+        image_role: "hero"
+        visual_anchor: "M12 FUEL SURGE液压驱动器裸机，小型枪形，机头银灰液压头+亮红机身，Milwaukee FUEL+SURGE标识，右侧银灰腰夹，LED灯，3颗电量指示灯，黑色菱形纹握把，极紧凑"
+    product_name: "Milwaukee M12 FUEL SURGE Hydraulic Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "紧凑枪形，M12平台SURGE版，机头比M18 SURGE略小，轻量化"
+      light_opening: "机头细槽"
+      thermal: "机头细槽散热"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰液压头，银灰腰夹"
+        material: "机壳工程塑料，液压头铝压铸，握把TPR菱形纹"
+        finish: "机壳亮面，液压头喷砂银灰，握把哑面菱形纹"
+      mounting: "M12平台裸机，LED+3颗电量灯+腰夹"
+      signature_detail: "银灰液压头+M12 FUEL SURGE标识，M12平台最安静的驱动器"
+    design_level:
+      score: 4
+      reason: "M12 FUEL SURGE将液压静音技术下沉至紧凑平台，机身造型与FUEL系列一致且精致，腰夹设计优雅"
+    design_tags: ["H07极简整合", "H09隐藏工程", "H12人机界面强化"]
+    hero_feature: "M12平台液压静音驱动，在最紧凑尺寸内实现最安静操作体验"
+    problem_solved: "精细室内装修，对震动和噪音极敏感场景"
+    transferable_technique: "将旗舰技术（液压驱动）下沉至轻量平台，保持外观设计语言一致性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_025"
+    source_images:
+      - filename: "电钻__螺丝刀__25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__25.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M12 FUEL SURGE液压驱动器完整套装，含裸机+M12电池+充电器+红色帆布包，Milwaukee M12 FUEL SURGE标识，套装完整配置"
+    product_name: "Milwaukee M12 FUEL SURGE Hydraulic Driver Complete Kit"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "同024，套装陈列"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红，红色帆布包"
+        material: "机壳工程塑料"
+        finish: "机壳亮面"
+      mounting: "M12平台，完整套装"
+      signature_detail: "M12 FUEL SURGE液压+完整套装"
+    design_level:
+      score: 4
+      reason: "同024，完整套装版"
+    design_tags: ["H07极简整合", "H09隐藏工程"]
+    hero_feature: "同024，M12液压静音完整套装"
+    problem_solved: "开箱即用的M12 SURGE静音套装方案"
+    transferable_technique: "同024"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_026"
+    source_images:
+      - filename: "电钻__螺丝刀__26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__26.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18 FUEL SURGE液压驱动器套装含硬壳箱，小型裸机+2块M18 CP电池+充电器+红色硬壳箱，SURGE标识，Milwaukee M18 FUEL标识"
+    product_name: "Milwaukee M18 FUEL SURGE Hydraulic Driver Kit (CP Battery)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "枪形套装陈列"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红"
+        material: "机壳工程塑料，硬壳箱ABS"
+        finish: "硬壳箱亮面"
+      mounting: "M18平台，CP轻量电池"
+      signature_detail: "M18 FUEL SURGE+CP轻量电池组合，平衡性能与重量"
+    design_level:
+      score: 3
+      reason: "套装图，执行标准"
+    design_tags: ["H11功能外显"]
+    hero_feature: "M18 SURGE+CP轻量电池，兼顾静音性能与整机重量"
+    problem_solved: "精细室内装修，需要静音驱动同时控制工具重量"
+    transferable_technique: "不同容量电池套装组合策略：同工具配CP轻量/XC大容量覆盖不同用户需求"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_027"
+    source_images:
+      - filename: "电钻__螺丝刀__27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__27.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL SURGE液压驱动器裸机正面视图，枪形，机头顶部透明液压窗清晰可见，Milwaukee FUEL+SURGE标识，亮红机身+黑握把，底部金属腰夹，正面视角展示"
+    product_name: "Milwaukee M18 FUEL SURGE Hydraulic Driver (Bare Tool) - Front View"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "枪形正面视图，机头宽度适中，整体对称感强"
+      light_opening: "机头顶部透明液压窗，正面可见"
+      thermal: "机身侧面细槽"
+      cmf:
+        color: "主色亮红，次色哑黑，透明液压窗"
+        material: "机壳工程塑料，PC透明窗件"
+        finish: "机壳亮面，透明窗光学级PC"
+      mounting: "M18裸机，金属腰夹"
+      signature_detail: "正面视角透明液压窗更加突出，内部液压油色泽可见，技术感极强"
+    design_level:
+      score: 4
+      reason: "透明液压窗在正面视角展示技术内核，设计与技术高度融合，品类内稀缺"
+    design_tags: ["H09隐藏工程", "H10材料表达", "H11功能外显"]
+    hero_feature: "同023，正面视角进一步展示透明液压窗的视觉冲击力"
+    problem_solved: "同023"
+    transferable_technique: "同023，多角度展示透明功能窗的价值"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_028"
+    source_images:
+      - filename: "电钻__螺丝刀__28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__28.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18 FUEL SURGE液压驱动器XC大电池套装含硬壳箱，裸机+2块M18 REDLITHIUM XC大电池+充电器+红色硬壳箱，SURGE标识，旗舰高配套装"
+    product_name: "Milwaukee M18 FUEL SURGE Hydraulic Driver Kit XC with Hard Case"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "枪形套装，XC大容量电池使整体更重"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红"
+        material: "硬壳箱ABS"
+        finish: "硬壳箱亮面"
+      mounting: "M18 XC大容量电池"
+      signature_detail: "M18 SURGE旗舰版+XC最大容量，顶配套装"
+    design_level:
+      score: 3
+      reason: "顶配套装图，执行标准"
+    design_tags: ["H11功能外显"]
+    hero_feature: "M18 SURGE+XC大容量，全天候高强度静音驱动"
+    problem_solved: "长时间精细安装作业，全天不换电池"
+    transferable_technique: "旗舰工具+最大容量电池捆绑销售策略，最大化用户体验"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_螺丝刀_029"
+    source_images:
+      - filename: "电钻__螺丝刀__29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__螺丝刀__29.jpg"
+        image_role: "hero"
+        visual_anchor: "M12早期冲击起子裸机，小型枪形，灰色压铸冲击头+侧面扭力调节环（60/80档刻度清晰可见）+亮红机身，Milwaukee徽标，4颗LED电量指示灯，握把较圆润，无腰夹，无电池"
+    product_name: "Milwaukee M12 Compact Impact Driver with Torque Selector (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝刀"]
+    design_language:
+      silhouette: "小型枪形，冲击起子类，机头灰色压铸头，机身侧面大型旋转扭力选择环是最突出特征"
+      light_opening: "N/A"
+      thermal: "机身侧面细槽"
+      cmf:
+        color: "主色亮红，次色哑黑，灰色冲击头+扭力环"
+        material: "机壳工程塑料，冲击头铝压铸，扭力环工程塑料"
+        finish: "机壳亮面，扭力环哑面带刻度印刷"
+      mounting: "M12平台裸机，无腰夹，4颗电量灯"
+      signature_detail: "机身侧面大型扭力选择环带明确数字刻度（60/80），是功能最外显的设计元素，允许快速切换螺钉拧紧力度"
+    design_level:
+      score: 4
+      reason: "扭力选择环的可视化设计在冲击起子品类内属造型创新，将隐藏功能外显为操作控件，人机界面设计突出"
+    design_tags: ["H11功能外显", "H12人机界面强化", "H08对比强调"]
+    hero_feature: "机身侧面大型数字刻度扭力选择环，冲击起子品类稀缺的精确扭矩可视化控制"
+    problem_solved: "需要精确控制不同材料螺钉拧紧力度，防止软木被过拧/硬材料不够紧"
+    transferable_technique: "将内置参数调节功能外显为机身可视化旋转控件，一眼读取当前设置状态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

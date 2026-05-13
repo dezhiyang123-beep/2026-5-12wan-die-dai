@@ -1,0 +1,429 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "智能手机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_phone_013"
+    source_images:
+      - filename: "54.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/54.jpg"
+        image_role: "hero"
+        visual_anchor: "正面全屏视角，机身居中，深蓝点阵背景衬托黑色机身"
+    product_name: "Samsung Galaxy S4"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "竖向矩形板状，四角圆弧，屏幕占比约70%，顶部听筒+品牌字标，底部物理Home键居中"
+      light_opening: "大面积黑色玻璃屏幕，无内容显示，镜面反射感强"
+      thermal: "黑色哑光塑料后壳，边缘微弧收尾"
+      cmf:
+        color: "黑色（Pebble Black）"
+        material: "前：Gorilla Glass；后：纹理塑料"
+        finish: "正面镜面玻璃；背部细密纹理哑光"
+      mounting: "物理Home键+两侧触摸按键（菜单/返回）"
+      signature_detail: "底部居中椭圆物理Home键，顶部长条扬声器网格"
+    design_level:
+      score: 2
+      reason: "典型安卓塑料机身时代设计，比例普通，无明显差异化设计语言，工艺平实"
+    design_tags: ["塑料机身", "物理Home键", "传统三段式", "黑色配色", "Galaxy S系列"]
+    hero_feature: "底部居中物理Home键定义了三段式布局"
+    problem_solved: "以大屏+轻薄塑料机身平衡握持性与显示面积"
+    transferable_technique: "底部功能键居中对称布局强化正面视觉对称感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_014"
+    source_images:
+      - filename: "55.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/55.jpg"
+        image_role: "hero"
+        visual_anchor: "白色与黑色双配色对比展示，左侧白色正背斜视，右侧黑色正背斜视"
+    product_name: "Samsung Galaxy S4（双色版宣传图）"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "竖向矩形板状，四角圆弧，背面微弧拱起，金属质感侧边框"
+      light_opening: "前：大面积黑色玻璃；白色版前面板与白色背壳形成整体感"
+      thermal: "背面轻微弧拱，侧面金属亮银边框，背面细纹塑料"
+      cmf:
+        color: "白色（White Frost）/ 黑色（Black Mist）双配色"
+        material: "前：强化玻璃；侧：金属边框；后：纹理塑料"
+        finish: "正面镜面；侧面抛光金属；背面细密凸纹哑光"
+      mounting: "物理Home键+两侧触摸键；背面摄像头居中上方+闪光灯"
+      signature_detail: "侧面光亮金属边框与塑料背壳的材质对比分件线"
+    design_level:
+      score: 2
+      reason: "双色选项增加市场覆盖但设计本身无突破，金属边框与塑料背壳搭配在当时已属常见"
+    design_tags: ["双色方案", "金属边框", "塑料背壳", "物理Home键", "Galaxy S4"]
+    hero_feature: "亮银金属边框形成整机视觉分界线"
+    problem_solved: "以双色方案满足不同消费者审美偏好"
+    transferable_technique: "侧面金属亮边框作为材质分件线可有效提升整机质感感知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_015"
+    source_images:
+      - filename: "58.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/58.jpg"
+        image_role: "hero"
+        visual_anchor: "前后双机立式展示，后壳微纹理面料感，两端弧形镀铬脊骨线贯穿机身"
+    product_name: "LG Spectrum（或LG Revolution 2）"
+    brand_name: "LG"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "竖向矩形，两端（顶部和底部角落）有醒目圆柱形镀铬脊骨突起，侧面轮廓弯弧"
+      light_opening: "前：全触屏，屏幕点亮显示天气/时钟小组件，底部三触摸键"
+      thermal: "后壳细密网格压纹，深棕/黑色，微弧拱背"
+      cmf:
+        color: "正面黑色；背面深棕黑色"
+        material: "前：玻璃；后：硬质塑料压纹；脊骨：镀铬金属"
+        finish: "背面细密网格压纹；脊骨亮铬"
+      mounting: "顶部/底部角落圆柱镀铬脊骨（signature handle）；背面单摄+闪光灯居中"
+      signature_detail: "四角圆柱镀铬脊骨——LG当时独特识别特征，工业感强烈"
+    design_level:
+      score: 4
+      reason: "圆柱脊骨设计极具识别性，差异化强，属于品类内罕见的结构级设计语言，迁移价值高"
+    design_tags: ["镀铬脊骨", "工业感", "圆柱把手元素", "网格背壳纹理", "LG Spectrum", "4G LTE"]
+    hero_feature: "顶底角落圆柱镀铬脊骨——与任何竞品的唯一形态差异点"
+    problem_solved: "在同质化触屏时代通过结构性特征元素建立强烈产品辨识度"
+    transferable_technique: "将功能性握持区域设计为视觉焦点，结构件即装饰件（H11功能外显+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_016"
+    source_images:
+      - filename: "59.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/59.jpg"
+        image_role: "detail"
+        visual_anchor: "俯视斜角展示机身侧面，清晰呈现镀铬脊骨与机身厚度关系及背面纹理"
+    product_name: "LG Spectrum 侧面细节"
+    brand_name: "LG"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "侧面轮廓：中段薄、两端因脊骨圆柱略厚，形成视觉上的手感锚点"
+      light_opening: "斜视状态下屏幕部分可见，色彩丰富的界面内容"
+      thermal: "背面细密网格纹理清晰可见，触感粗糙防滑"
+      cmf:
+        color: "黑色为主，脊骨亮银铬"
+        material: "玻璃正面；塑料压纹背面；金属镀铬脊骨件"
+        finish: "背面哑光压纹；脊骨镜面抛光"
+      mounting: "圆柱脊骨件通过卡扣与主体连接，形成独立分件"
+      signature_detail: "从侧面看脊骨圆柱突出机身约2-3mm，形成可感知的手感差异"
+    design_level:
+      score: 4
+      reason: "此角度充分展现脊骨设计的立体感和分件工艺，是同类产品中少见的触觉设计意图外显"
+    design_tags: ["侧面细节", "圆柱脊骨", "分件工艺", "LG", "触觉设计"]
+    hero_feature: "脊骨从侧面突出机身，将握持区域可视化"
+    problem_solved: "侧面分件线暗示握持位置，降低误操作"
+    transferable_technique: "通过局部突起件定义握持区，视觉与触觉双重引导（H02包覆+H09隐藏工程反向应用）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_017"
+    source_images:
+      - filename: "63.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/63.jpg"
+        image_role: "hero"
+        visual_anchor: "三台背面展示，从左至右：米白/墨绿/深黑，左侧ZEISS竖排三摄模组为视觉中心"
+    product_name: "Sony Xperia 1 V（或同代机型）"
+    brand_name: "Sony"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "超高细长矩形（21:9比例），背面完全平整，四角接近直角，极薄侧边框"
+      light_opening: "背面无屏，正面为长条OLED屏（图中背面视角不显示）"
+      thermal: "背面极平整磨砂玻璃，无任何凸起感，摄像头模组嵌入式设计（几乎不突出）"
+      cmf:
+        color: "三色：米白（Platinum Silver）/ 墨绿（Khaki Green）/ 深黑（Black）"
+        material: "前后：Gorilla Glass Victus 2；框架：铝合金"
+        finish: "背面磨砂质感玻璃；侧框亚光拉丝金属"
+      mounting: "左上角竖排三摄+ZEISS红标，单独摄像头模块嵌入式（无突起岛屿）"
+      signature_detail: "ZEISS红色标志+竖排镜头列——Sony影像品牌最强视觉符号"
+    design_level:
+      score: 5
+      reason: "极简直角美学、21:9超高比例、ZEISS镜头列均属行业顶级差异化设计，三色质感一致性极高"
+    design_tags: ["21:9超高比例", "ZEISS镜头", "极简直角", "磨砂玻璃", "竖排三摄", "Sony Xperia", "影像旗舰"]
+    hero_feature: "ZEISS红标+竖排镜头列——拍照旗舰身份的视觉宣言"
+    problem_solved: "超高屏比适配视频/电影观看，ZEISS合作提升专业摄影感知价值"
+    transferable_technique: "品牌合作标志（ZEISS红色）作为高价值锚点，在模块化摄像头区域集中承载技术叙事（H08对比强调+H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_018"
+    source_images:
+      - filename: "64.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/64.jpg"
+        image_role: "hero"
+        visual_anchor: "左侧绿色机背+右侧浅蓝机背对置展示，中间正面屏幕显示人物照片，灰色机背在最右"
+    product_name: "Samsung Galaxy S24 FE（Fan Edition）"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "竖向矩形，四角圆弧，背面平整，摄像头岛为独立圆形单元垂直排列（无岛屿底板）"
+      light_opening: "正面居中打孔前摄（punch-hole），全面屏，窄边框"
+      thermal: "背面哑光玻璃，平整，摄像头模组为三个独立圆形突起"
+      cmf:
+        color: "薄荷绿 / 浅蓝 / 深灰（多色系）"
+        material: "前后：玻璃；框架：铝合金"
+        finish: "背面哑光玻璃；侧框亚光金属"
+      mounting: "三个独立圆形摄像头模组左上角垂直排列，无共用底板"
+      signature_detail: "三枚独立圆形摄像头单元（无连接底板）——Galaxy FE系列标志性布局"
+    design_level:
+      score: 3
+      reason: "独立圆形摄像头布局是Galaxy FE的清晰识别特征，配色系统完善，但整体设计属于精良的量产美学而非突破性创新"
+    design_tags: ["独立圆形摄像头", "打孔前摄", "全面屏", "多色系", "Galaxy FE", "Samsung"]
+    hero_feature: "三个无底板独立圆形摄像头单元形成简洁点状排列"
+    problem_solved: "通过轻量化视觉设计和多彩配色吸引年轻用户，区别于旗舰沉稳风格"
+    transferable_technique: "摄像头模组去底板化处理，使背面视觉更简洁开放（H01减法+H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_019"
+    source_images:
+      - filename: "65.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/65.jpg"
+        image_role: "hero"
+        visual_anchor: "五台背面从左至右扇形斜列展示，配色依次：柠檬黄/银灰/深灰/薄荷绿/天蓝"
+    product_name: "Samsung Galaxy S24 FE 全配色展示"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "同if_phone_018，竖向矩形，圆角，背面平整"
+      light_opening: "背面视角，无屏显示"
+      thermal: "哑光玻璃背面，三枚独立圆形摄像头左上角垂直排列"
+      cmf:
+        color: "五色：柠檬黄 / 银灰 / 深炭灰 / 薄荷绿 / 天蓝（完整配色系统）"
+        material: "玻璃背面；铝合金侧框"
+        finish: "背面亚光磨砂；侧框亚光"
+      mounting: "三枚独立圆形摄像头，左上角排列"
+      signature_detail: "五色配色系统统一展示，色彩系统完整性是设计输出的一部分"
+    design_level:
+      score: 3
+      reason: "配色系统设计完善，五色覆盖暖冷色调，整体协调；作为系列呈现图价值高于单品"
+    design_tags: ["配色系统", "五色方案", "系列呈现", "Galaxy FE", "Samsung", "多色展示"]
+    hero_feature: "五色配色系统的高度一致性——统一形态下的色彩变奏"
+    problem_solved: "以系统化配色降低用户选择成本，同时提升货架视觉冲击力"
+    transferable_technique: "同一形态下多配色系统设计：侧框色随背壳色统一，避免撞色冲突（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_020"
+    source_images:
+      - filename: "73.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/73.jpg"
+        image_role: "hero"
+        visual_anchor: "正面+背面+侧面三视图展示，正面屏幕显示天气时钟界面，背面纹理与摄像头模块清晰"
+    product_name: "Samsung Galaxy S II"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "竖向矩形，四角圆弧，背面微弧拱起，机身极薄（约8.5mm）"
+      light_opening: "前：大面积触屏（4.3寸Super AMOLED Plus），底部物理Home键+两侧触摸键"
+      thermal: "背面细密凸点纹理（防滑），微弧拱形"
+      cmf:
+        color: "机身黑色；背壳深黑色"
+        material: "前：玻璃；后：聚碳酸酯塑料压纹；侧：塑料"
+        finish: "正面镜面；背面细凸点哑光压纹；侧面哑光"
+      mounting: "背面单摄（800万像素方形模块）+闪光灯；底部物理Home键"
+      signature_detail: "背面细密凸点防滑纹——触感设计的重要参考案例"
+    design_level:
+      score: 3
+      reason: "Galaxy S II在发布时以超薄机身引领行业，凸点纹理背面在触感设计上有明确意图，历史价值较高"
+    design_tags: ["凸点背面纹理", "超薄机身", "物理Home键", "Galaxy S II", "早期Android旗舰", "触感设计"]
+    hero_feature: "细密凸点压纹背壳——防滑触感与视觉纹理的结合"
+    problem_solved: "在超薄机身上通过背面纹理保证握持防滑性，同时增加触觉层次"
+    transferable_technique: "微凸点纹理处理：提升握持摩擦力的同时赋予产品纹理视觉细节（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_021"
+    source_images:
+      - filename: "75.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/75.jpg"
+        image_role: "detail"
+        visual_anchor: "左侧机身斜视正面，右侧三张细节裁切：顶部听筒区/摄像头模块/背面下沿品牌文字"
+    product_name: "Samsung Galaxy S II 细节图"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "斜视角度呈现机身厚度极薄的轮廓，边缘几乎无过渡圆弧"
+      light_opening: "正面玻璃屏幕呈斜向反光，表面质量优秀"
+      thermal: "背面细密凸点纹理特写：凸起均匀、间距一致，约0.3mm高度"
+      cmf:
+        color: "黑色"
+        material: "背面：聚碳酸酯；摄像头模块：金属镀铬环"
+        finish: "摄像头金属环：亮铬抛光；背面：哑光压纹"
+      mounting: "摄像头模块：方形金属镀铬边框+中央镜头，镀铬装饰环强调科技感"
+      signature_detail: "摄像头金属镀铬方框与周围塑料背壳的材质对比"
+    design_level:
+      score: 3
+      reason: "细节图价值在于凸点纹理工艺细节的清晰呈现，摄像头镀铬处理是早期重要的材质对比手法"
+    design_tags: ["细节图", "凸点纹理特写", "摄像头镀铬", "材质对比", "Samsung Galaxy S II"]
+    hero_feature: "摄像头镀铬金属环与哑光塑料背壳的材质对比"
+    problem_solved: "通过局部镀铬件提升整机质感感知，弥补全塑料机身的廉价感"
+    transferable_technique: "局部贵金属质感处理：在低成本材料上通过单点镀铬件大幅提升感知价值（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_022"
+    source_images:
+      - filename: "80.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/80.jpg"
+        image_role: "hero"
+        visual_anchor: "左侧正面全屏无开孔（屏下摄像头），右侧背面波纹玻璃纹理+左上角竖排四摄"
+    product_name: "ZTE Axon 20 5G"
+    brand_name: "ZTE"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "竖向矩形，四角圆弧，正面实现真全面屏（无任何开孔/刘海/水滴）"
+      light_opening: "正面：业界首款屏下摄像头全面屏，屏幕纯净无中断，极大屏占比"
+      thermal: "背面：流体波纹玻璃纹理（光线下呈现动态水波纹视觉效果）"
+      cmf:
+        color: "正面黑色屏幕；背面深黑色（光线下显现波纹）"
+        material: "前：OLED屏下摄像头显示屏；后：波纹纹理玻璃；框：铝合金"
+        finish: "背面光泽波纹纹理；侧框哑光金属"
+      mounting: "左上角竖排四摄模组（独立黑色模块），背面波纹纹理延伸至边缘"
+      signature_detail: "正面完全无开孔——屏下摄像头是本品最大技术与设计突破"
+    design_level:
+      score: 4
+      reason: "行业首批屏下摄像头方案，正面真全面屏是重大技术驱动的设计突破；背面波纹纹理增加差异化质感"
+    design_tags: ["屏下摄像头", "真全面屏", "波纹背面纹理", "ZTE Axon", "5G", "技术驱动设计", "首发技术"]
+    hero_feature: "正面完全无开孔真全面屏（屏下摄像头）"
+    problem_solved: "消除前置摄像头对显示区域的物理遮挡，实现最大化沉浸感"
+    transferable_technique: "将技术突破（屏下摄像头）转化为设计特征（纯净全面屏），背面波纹纹理作为技术感的视觉补偿（H09隐藏工程+H04参数化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_023"
+    source_images:
+      - filename: "81.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/81.jpg"
+        image_role: "hero"
+        visual_anchor: "四台背面+一台正面并排展示，配色：深紫/香槟金/冰蓝/黑色，正面屏幕显示波纹壁纸"
+    product_name: "ZTE Axon 20 5G 全配色展示"
+    brand_name: "ZTE"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "竖向矩形，四角圆弧，背面平整，波纹纹理全面覆盖"
+      light_opening: "最右侧正面：全面屏无开孔，屏幕显示彩色波纹壁纸（与机身背面呼应）"
+      thermal: "背面波纹纹理在不同配色下呈现不同光感：紫色偏深沉、金色轻奢、蓝色通透"
+      cmf:
+        color: "四色：深紫 / 香槟金 / 冰蓝 / 深黑"
+        material: "波纹纹理玻璃背面；铝合金框架"
+        finish: "光泽流动纹理；侧框亚光"
+      mounting: "左上角竖排四摄模组，各色机身模组处理统一"
+      signature_detail: "壁纸与背面纹理形成前后呼应——软件与硬件设计语言统一"
+    design_level:
+      score: 4
+      reason: "配色系统与波纹纹理的联动设计独特，特别是壁纸与机身背面纹理的呼应体现了完整的设计系统意识"
+    design_tags: ["波纹纹理", "配色系统", "软硬件设计联动", "ZTE Axon", "全面屏", "5G"]
+    hero_feature: "背面波纹纹理玻璃在四种配色下均呈现差异化光感效果"
+    problem_solved: "通过纹理+配色组合差异化竞争，壁纸联动提升品牌一致性感知"
+    transferable_technique: "背面纹理方向性设计（流体感）与软件壁纸呼应——软硬件设计系统化思维（H04参数化+H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_024"
+    source_images:
+      - filename: "87.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/87.jpg"
+        image_role: "hero"
+        visual_anchor: "背面+正面双视图，背面砂石黑色哑光表面+居中六边形品牌徽章，正面全触屏+底部三键"
+    product_name: "Takee 1（全息手机）"
+    brand_name: "Takee"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "竖向矩形，四角较尖锐圆弧，正面大屏，背面整体扁平，银色金属侧边框"
+      light_opening: "正面：全面触屏，屏幕点亮显示宇宙/太阳系动态内容（全息效果演示壁纸），底部三触摸键"
+      thermal: "背面：细腻砂石质感哑光表面（类似喷砂处理），无纹理方向性"
+      cmf:
+        color: "背面深黑砂石色；侧框亮银色；徽章白色+银色"
+        material: "背面：喷砂哑光硬质塑料或陶瓷感涂层；侧框：亮铬金属；徽章：金属"
+        finish: "背面细腻哑光砂感；侧框镜面亮铬；徽章光泽金属"
+      mounting: "背面居中六边形金属品牌徽章（立体件，轻微突起）；背面顶部单摄+LED闪光灯"
+      signature_detail: "居中六边形金属徽章——品牌标识作为装饰性3D立体件，强调仪式感"
+    design_level:
+      score: 3
+      reason: "六边形金属徽章作为装饰性设计语言有差异化意图，砂石质感背面处理工艺精良；但整体造型较平庸，创新主要来自全息显示技术而非形态"
+    design_tags: ["六边形徽章", "喷砂哑光背面", "金属徽标立体件", "Takee", "全息手机", "装饰徽章", "亮铬侧框"]
+    hero_feature: "背面居中六边形金属品牌徽章——3D立体装饰件作为品牌语义锚点"
+    problem_solved: "通过立体金属徽章在低调砂石背面建立品牌辨识中心点"
+    transferable_technique: "品牌徽章立体化处理：从平面印刷升级为3D金属件，大幅提升品牌感知价值与触感层次（H08对比强调+H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,173 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 便携灯
+  tertiary: 便携灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/便携灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_便携灯_001
+  source_images:
+  - filename: 07.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/便携灯/07.jpg
+    image_role: hero
+    visual_anchor: 红黑绿三种细杆便携灯带环形挂钩，小圆筒灯头可挂在立杆顶端。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 便携灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 红色强调色配白色/金属或暖光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 红黑绿三种细杆便携灯带环形挂钩，小圆筒灯头可挂在立杆顶端
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 便携
+  - 便携灯
+  - 灯具
+  - 环形
+  - 逐张视觉识别
+  hero_feature: 红黑绿三种细杆便携灯带环形挂钩，小圆筒灯头可挂在立杆顶端
+  problem_solved: 便携灯需要在可移动体量内兼顾拿取、摆放、挂载和柔和出光。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_便携灯_002
+  source_images:
+  - filename: 15.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/便携灯/15.jpg
+    image_role: hero
+    visual_anchor: 鹅卵石状乳白柔光体接电线放置桌面，整体像发光石块。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 便携灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 鹅卵石状乳白柔光体接电线放置桌面，整体像发光石块
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 便携灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 鹅卵石状乳白柔光体接电线放置桌面，整体像发光石块
+  problem_solved: 便携灯需要在可移动体量内兼顾拿取、摆放、挂载和柔和出光。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_便携灯_003
+  source_images:
+  - filename: 136.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/便携灯/136.jpg
+    image_role: hero
+    visual_anchor: 两只提篮式营地灯，棕色和黄色竖向提手包住透明圆柱扩散罩。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 便携灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 两只提篮式营地灯，棕色和黄色竖向提手包住透明圆柱扩散罩
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 便携灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 两只提篮式营地灯，棕色和黄色竖向提手包住透明圆柱扩散罩
+  problem_solved: 便携灯需要在可移动体量内兼顾拿取、摆放、挂载和柔和出光。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_便携灯_004
+  source_images:
+  - filename: 177.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/便携灯/177.jpg
+    image_role: hero
+    visual_anchor: 手掌托起乳白圆角胶囊灯，柔光从一体化磨砂壳体均匀透出。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 便携灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 手掌托起乳白圆角胶囊灯，柔光从一体化磨砂壳体均匀透出
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 便携灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 手掌托起乳白圆角胶囊灯，柔光从一体化磨砂壳体均匀透出
+  problem_solved: 便携灯需要在可移动体量内兼顾拿取、摆放、挂载和柔和出光。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

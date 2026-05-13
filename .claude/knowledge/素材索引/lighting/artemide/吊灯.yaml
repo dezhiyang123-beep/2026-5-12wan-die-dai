@@ -1,0 +1,2363 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 吊灯
+  tertiary: 吊灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_吊灯_001
+  source_images:
+  - filename: 01.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/01.jpg
+    image_role: hero
+    visual_anchor: 极薄黑色圆环吊灯由细吊线悬挂，环内侧形成连续光圈。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 单一极薄圆环水平悬挂，黑色外圈与内侧发光环形成双层圆形截面
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 极薄黑色圆环吊灯由细吊线悬挂，环内侧形成连续光圈
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 极薄黑色圆环吊灯由细吊线悬挂，环内侧形成连续光圈
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_002
+  source_images:
+  - filename: 03.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/03.jpg
+    image_role: hero
+    visual_anchor: 四只白色球形吊灯大小错落悬挂，白色/灰色电线在上方自然弯曲。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 四个大小不同的正球体沿垂线错落排列，每个球体上方收成细长颈部并接入柔性吊线
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 四只白色球形吊灯大小错落悬挂，白色/灰色电线在上方自然弯曲
+  design_level:
+    score: 4
+    reason: 4分：球体数量、尺度递进和吊线自由弯曲形成稳定识别，但核心语言仍是成熟的球形吊灯组合。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 球形
+  - 逐张视觉识别
+  hero_feature: 四只白色球形吊灯大小错落悬挂，白色/灰色电线在上方自然弯曲
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_003
+  source_images:
+  - filename: 04.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/04.jpg
+    image_role: hero
+    visual_anchor: 白色扁圆盘吊灯表面布满浅凹圆点，细吊线隐藏在上方。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 低矮扁圆盘水平悬吊，盘面为浅浮雕圆点阵列，厚度集中在外缘
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色扁圆盘吊灯表面布满浅凹圆点，细吊线隐藏在上方
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色扁圆盘吊灯表面布满浅凹圆点，细吊线隐藏在上方
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_004
+  source_images:
+  - filename: 08.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/08.jpg
+    image_role: hero
+    visual_anchor: 透明蓝色圆罩内露出彩色竖向发光管，呈现科技感吊灯。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 透明蓝色半球罩包住竖向彩色发光管，中心光源被圆罩放大成穹顶体量
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 彩色光或高饱和色作为视觉焦点
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 透明蓝色圆罩内露出彩色竖向发光管，呈现科技感吊灯
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 彩色
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明蓝色圆罩内露出彩色竖向发光管，呈现科技感吊灯
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_005
+  source_images:
+  - filename: 09.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/09.jpg
+    image_role: hero
+    visual_anchor: 透明扁圆环吊灯在黑背景中发光，双层环形边缘形成光晕。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 透明扁椭圆环水平悬挂，上下两层环边构成薄盘状光圈
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 透明/半透明材质配白色或暖色光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 透明扁圆环吊灯在黑背景中发光，双层环形边缘形成光晕
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 环形
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明扁圆环吊灯在黑背景中发光，双层环形边缘形成光晕
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_006
+  source_images:
+  - filename: 10.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/10.jpg
+    image_role: hero
+    visual_anchor: 黑色横杆吊架下挂三只蓝色小筒灯，长电线在上方松散缠绕。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 细黑横杆作为母体，下方三只小圆筒灯头垂直悬挂，线缆在上方松散回绕
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 黑色横杆吊架下挂三只蓝色小筒灯，长电线在上方松散缠绕
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色横杆吊架下挂三只蓝色小筒灯，长电线在上方松散缠绕
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_007
+  source_images:
+  - filename: 11.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/11.jpg
+    image_role: hero
+    visual_anchor: 三只透明椭圆玻璃吊灯带虹彩边缘，灯体像气泡悬浮。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 三个透明椭圆泡壳沿吊线高低错落，球泡边缘呈薄壁虹彩轮廓
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 彩色光或高饱和色作为视觉焦点
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 三只透明椭圆玻璃吊灯带虹彩边缘，灯体像气泡悬浮
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 三只透明椭圆玻璃吊灯带虹彩边缘，灯体像气泡悬浮
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_008
+  source_images:
+  - filename: 14.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/14.jpg
+    image_role: hero
+    visual_anchor: 白色双层盘形吊灯包住下方发光球，像飞碟和月球叠合。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 上下两片浅盘罩夹住中央发光球，整体形成飞碟式横向层叠体量
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色双层盘形吊灯包住下方发光球，像飞碟和月球叠合
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色双层盘形吊灯包住下方发光球，像飞碟和月球叠合
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_009
+  source_images:
+  - filename: 20.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/20.jpg
+    image_role: hero
+    visual_anchor: 红黑十字形线性吊灯由两根发光条交叉组成，垂直吊线极细。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 两根扁平发光条正交叠放成十字，细吊线垂直连接四端附近
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 红色强调色配白色/金属或暖光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 红黑十字形线性吊灯由两根发光条交叉组成，垂直吊线极细
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 线性
+  - 逐张视觉识别
+  hero_feature: 红黑十字形线性吊灯由两根发光条交叉组成，垂直吊线极细
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_010
+  source_images:
+  - filename: 21.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/21.jpg
+    image_role: hero
+    visual_anchor: 晶体切面圆环吊灯包围中央发光球，在极光背景前呈宝石感。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 多面切割透明圆环包围中央球形光源，外轮廓接近宝石环面
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 晶体切面圆环吊灯包围中央发光球，在极光背景前呈宝石感
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 晶体切面圆环吊灯包围中央发光球，在极光背景前呈宝石感
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_011
+  source_images:
+  - filename: 22.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/22.jpg
+    image_role: hero
+    visual_anchor: 黑红十字线性吊灯近景，扁平灯条下缘发光并形成建筑化交叉。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 红色强调色配白色/金属或暖光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑红十字线性吊灯近景，扁平灯条下缘发光并形成建筑化交叉
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 线性
+  - 逐张视觉识别
+  hero_feature: 黑红十字线性吊灯近景，扁平灯条下缘发光并形成建筑化交叉
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_012
+  source_images:
+  - filename: 24.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/24.jpg
+    image_role: hero
+    visual_anchor: 黄铜圆笼吊灯包住透明灯泡，细线框构成立体椭圆笼。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 黄铜细线围合成立体椭圆笼，透明灯泡位于笼体中央轴线
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黄铜圆笼吊灯包住透明灯泡，细线框构成立体椭圆笼
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 黄铜圆笼吊灯包住透明灯泡，细线框构成立体椭圆笼
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_013
+  source_images:
+  - filename: 28.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/28.jpg
+    image_role: hero
+    visual_anchor: 多支金属机械臂吊灯在空中铰接，圆锥灯罩可多方向调节。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 多段细金属臂以铰点连接成折线骨架，末端分别接圆锥灯罩
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 多支金属机械臂吊灯在空中铰接，圆锥灯罩可多方向调节
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 机械臂
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 多支金属机械臂吊灯在空中铰接，圆锥灯罩可多方向调节
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_014
+  source_images:
+  - filename: 31.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/31.jpg
+    image_role: hero
+    visual_anchor: 黑色天花盘垂下多根长线和小锥灯头，像线缆流苏吊灯。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 圆形顶盘下垂多根长线，末端小锥灯头形成稀疏流苏状轮廓
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 黑色天花盘垂下多根长线和小锥灯头，像线缆流苏吊灯
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色天花盘垂下多根长线和小锥灯头，像线缆流苏吊灯
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_015
+  source_images:
+  - filename: 31__2.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/31__2.jpg
+    image_role: hero
+    visual_anchor: 灰色层叠横向百叶吊灯，圆筒外壳由多片水平环片组成。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 短圆筒外壳由多层水平环片堆叠，形成横向百叶截面
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 灰色层叠横向百叶吊灯，圆筒外壳由多片水平环片组成
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 灰色层叠横向百叶吊灯，圆筒外壳由多片水平环片组成
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_016
+  source_images:
+  - filename: 32.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/32.jpg
+    image_role: hero
+    visual_anchor: 近景灰色百叶圆筒吊灯，多层环片遮挡内部暖光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 短圆筒外壳由多层水平环片堆叠，形成横向百叶截面
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 近景灰色百叶圆筒吊灯，多层环片遮挡内部暖光
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 近景灰色百叶圆筒吊灯，多层环片遮挡内部暖光
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_017
+  source_images:
+  - filename: 37.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/37.jpg
+    image_role: hero
+    visual_anchor: 中心圆筒向外伸出多根细杆灯臂，端部小光点呈星芒状。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 中央圆筒向四周放射细杆，端部小光点组成星芒平面轮廓
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 中心圆筒向外伸出多根细杆灯臂，端部小光点呈星芒状
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 中心圆筒向外伸出多根细杆灯臂，端部小光点呈星芒状
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_018
+  source_images:
+  - filename: 43.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/43.jpg
+    image_role: hero
+    visual_anchor: 黑色水平骨架吊灯连接四个竖向玻璃筒光源，工业线框清晰。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 黑色水平杆架串联四个竖向玻璃筒，形成线性工业骨架
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色水平骨架吊灯连接四个竖向玻璃筒光源，工业线框清晰
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色水平骨架吊灯连接四个竖向玻璃筒光源，工业线框清晰
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_019
+  source_images:
+  - filename: 46.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/46.jpg
+    image_role: hero
+    visual_anchor: 长方白色线性吊灯悬在黑色背景前，上方细吊线和天花线平行。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 白色长方体灯条水平悬挂，长宽比极大，吊线隐藏在两端上方
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 长方白色线性吊灯悬在黑色背景前，上方细吊线和天花线平行
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 线性
+  - 逐张视觉识别
+  hero_feature: 长方白色线性吊灯悬在黑色背景前，上方细吊线和天花线平行
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_020
+  source_images:
+  - filename: 47.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/47.jpg
+    image_role: hero
+    visual_anchor: 透明叶片花簇吊灯围绕中心垂下，像玻璃花束。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 多片透明叶片围绕中心下垂，整体形成倒置花束状团簇
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 透明/半透明材质配白色或暖色光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 透明叶片花簇吊灯围绕中心垂下，像玻璃花束
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明叶片花簇吊灯围绕中心垂下，像玻璃花束
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_021
+  source_images:
+  - filename: 48.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/48.jpg
+    image_role: hero
+    visual_anchor: 长条吊灯底面布满蜂窝圆孔透镜，两端灰色块状收口。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 长条矩形灯体底面布满圆孔透镜阵列，端部以块状壳体收边
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 长条吊灯底面布满蜂窝圆孔透镜，两端灰色块状收口
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 蜂窝
+  - 逐张视觉识别
+  hero_feature: 长条吊灯底面布满蜂窝圆孔透镜，两端灰色块状收口
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_022
+  source_images:
+  - filename: 49.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/49.jpg
+    image_role: hero
+    visual_anchor: L形转角蜂窝线性吊灯，密集圆孔光学面沿内侧连续排列。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 长条矩形灯体底面布满圆孔透镜阵列，端部以块状壳体收边
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: L形转角蜂窝线性吊灯，密集圆孔光学面沿内侧连续排列
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 线性
+  - 蜂窝
+  - 逐张视觉识别
+  hero_feature: L形转角蜂窝线性吊灯，密集圆孔光学面沿内侧连续排列
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_023
+  source_images:
+  - filename: 53.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/53.jpg
+    image_role: hero
+    visual_anchor: 亮绿色长方吊灯底面为深色格栅透镜，形成强烈色彩块。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 亮绿色长方盒体水平悬挂，底面嵌入深色格栅透镜带
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 彩色光或高饱和色作为视觉焦点
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 亮绿色长方吊灯底面为深色格栅透镜，形成强烈色彩块
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 亮绿色长方吊灯底面为深色格栅透镜，形成强烈色彩块
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_024
+  source_images:
+  - filename: 63.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/63.jpg
+    image_role: hero
+    visual_anchor: 白色弯曲翼片吊灯两片错落悬挂，发光面隐藏在下侧。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 两片白色弯曲翼片以浅弧面悬浮，发光面藏在下侧曲面
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 白色弯曲翼片吊灯两片错落悬挂，发光面隐藏在下侧
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色弯曲翼片吊灯两片错落悬挂，发光面隐藏在下侧
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_025
+  source_images:
+  - filename: 65.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/65.jpg
+    image_role: hero
+    visual_anchor: 细长多段线性吊灯通过红色节点和黑色杆件折线连接。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 多段细长灯条通过红色节点折线连接，整体呈轻量折杆结构
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 细长多段线性吊灯通过红色节点和黑色杆件折线连接
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 线性
+  - 逐张视觉识别
+  hero_feature: 细长多段线性吊灯通过红色节点和黑色杆件折线连接
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_026
+  source_images:
+  - filename: 72.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/72.jpg
+    image_role: hero
+    visual_anchor: 圆盘吊灯黑白灰多尺寸组合，橙色内腔形成暖光反差。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 多个圆盘灯体以不同直径和高度组合，外圆厚边包住暖色内腔
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 圆盘吊灯黑白灰多尺寸组合，橙色内腔形成暖光反差
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 圆盘吊灯黑白灰多尺寸组合，橙色内腔形成暖光反差
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_027
+  source_images:
+  - filename: 77.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/77.jpg
+    image_role: hero
+    visual_anchor: 白色椭圆环吊灯带厚实外圈，中央为暗色空洞。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 椭圆/圆环灯体以细吊线悬挂，环体厚度均匀并保留中央空洞
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 白色椭圆环吊灯带厚实外圈，中央为暗色空洞
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色椭圆环吊灯带厚实外圈，中央为暗色空洞
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_028
+  source_images:
+  - filename: 79.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/79.jpg
+    image_role: hero
+    visual_anchor: 圆形大盘吊灯底面布满细密蜂窝孔，边缘灰色金属圈收束。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 长条矩形灯体底面布满圆孔透镜阵列，端部以块状壳体收边
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 圆形大盘吊灯底面布满细密蜂窝孔，边缘灰色金属圈收束
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 蜂窝
+  - 逐张视觉识别
+  hero_feature: 圆形大盘吊灯底面布满细密蜂窝孔，边缘灰色金属圈收束
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_029
+  source_images:
+  - filename: 85.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/85.jpg
+    image_role: hero
+    visual_anchor: 黑色球形轨迹吊灯由多条LED点线交错缠绕成圆球。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 多条黑色环带交错绕成球形框架，点状光源沿轨迹分布
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 黑色球形轨迹吊灯由多条LED点线交错缠绕成圆球
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 球形
+  - 逐张视觉识别
+  hero_feature: 黑色球形轨迹吊灯由多条LED点线交错缠绕成圆球
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_030
+  source_images:
+  - filename: 87.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/87.jpg
+    image_role: hero
+    visual_anchor: 深灰半球形吊灯罩，下缘白色内腔形成简洁下照。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 大半球罩垂直下扣，外侧深色，内侧白色形成清晰碗状截面
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 深灰半球形吊灯罩，下缘白色内腔形成简洁下照
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 球形
+  - 逐张视觉识别
+  hero_feature: 深灰半球形吊灯罩，下缘白色内腔形成简洁下照
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_031
+  source_images:
+  - filename: 88.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/88.jpg
+    image_role: hero
+    visual_anchor: 波浪形透明网格吊灯悬浮，下方挂多个小圆环发光体。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 透明网格面弯成波浪片悬浮，下方小圆环灯体作为二级节点
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 透明/半透明材质配白色或暖色光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 波浪形透明网格吊灯悬浮，下方挂多个小圆环发光体
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 波浪形透明网格吊灯悬浮，下方挂多个小圆环发光体
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_032
+  source_images:
+  - filename: 90.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/90.jpg
+    image_role: hero
+    visual_anchor: 白色长圆筒线性吊灯带红色电线，表面有细密横向纹理。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 细长白色圆筒水平悬挂，红色电线从一端上提形成点状强调
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 白色长圆筒线性吊灯带红色电线，表面有细密横向纹理
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 线性
+  - 逐张视觉识别
+  hero_feature: 白色长圆筒线性吊灯带红色电线，表面有细密横向纹理
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_033
+  source_images:
+  - filename: 97.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/97.jpg
+    image_role: hero
+    visual_anchor: 黑色双吊灯组合，一只白球和一只黑色锥形罩通过细杆悬挂。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 一球一锥两只吊灯并列，细杆和黑色线缆构成极简双节点
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 黑色双吊灯组合，一只白球和一只黑色锥形罩通过细杆悬挂
+  design_level:
+    score: 3
+    reason: 3分：功能和比例完成度稳定，但造型主要依赖成熟灯具类型，独特性和迁移启发有限。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色双吊灯组合，一只白球和一只黑色锥形罩通过细杆悬挂
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_034
+  source_images:
+  - filename: 99.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/99.jpg
+    image_role: hero
+    visual_anchor: 大号深灰织物半球吊灯，白色内衬形成柔和下照。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 大半球罩垂直下扣，外侧深色，内侧白色形成清晰碗状截面
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 大号深灰织物半球吊灯，白色内衬形成柔和下照
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 大号深灰织物半球吊灯，白色内衬形成柔和下照
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_035
+  source_images:
+  - filename: 103.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/103.jpg
+    image_role: hero
+    visual_anchor: 黑色线框锥形吊灯成对展示，空心框架像倒置篮架。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 黑色线材搭成空心倒锥框架，底部环形边界明显
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色线框锥形吊灯成对展示，空心框架像倒置篮架
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色线框锥形吊灯成对展示，空心框架像倒置篮架
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_036
+  source_images:
+  - filename: 106.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/106.jpg
+    image_role: hero
+    visual_anchor: 白色多段鼓形布罩吊灯串联堆叠，形成雕塑化竖向塔。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 多个白色鼓形罩沿竖向串联，腰部收放形成塔状轮廓
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 白色多段鼓形布罩吊灯串联堆叠，形成雕塑化竖向塔
+  design_level:
+    score: 3
+    reason: 3分：功能和比例完成度稳定，但造型主要依赖成熟灯具类型，独特性和迁移启发有限。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色多段鼓形布罩吊灯串联堆叠，形成雕塑化竖向塔
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_037
+  source_images:
+  - filename: 108.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/108.jpg
+    image_role: hero
+    visual_anchor: 竖向透明圆筒吊灯由多段晶体模块串联，光线从内部扩散。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 透明圆筒模块沿垂直轴线串接，形成细长晶体柱
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 透明/半透明材质配白色或暖色光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 竖向透明圆筒吊灯由多段晶体模块串联，光线从内部扩散
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 竖向透明圆筒吊灯由多段晶体模块串联，光线从内部扩散
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_038
+  source_images:
+  - filename: 109.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/109.jpg
+    image_role: hero
+    visual_anchor: 超薄白色椭圆盘吊灯，发光面占据整个下表面。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 低厚度白色椭圆盘水平悬挂，下表面为完整连续发光面
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 超薄白色椭圆盘吊灯，发光面占据整个下表面
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 超薄白色椭圆盘吊灯，发光面占据整个下表面
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_039
+  source_images:
+  - filename: 110.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/110.jpg
+    image_role: hero
+    visual_anchor: 三角形折板吊灯一侧黄绿一侧暖白，黑色细框勾勒边界。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 两片三角折板以黑色细框夹角组合，形成不对称翼状轮廓
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 三角形折板吊灯一侧黄绿一侧暖白，黑色细框勾勒边界
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 三角形折板吊灯一侧黄绿一侧暖白，黑色细框勾勒边界
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_040
+  source_images:
+  - filename: 111.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/111.jpg
+    image_role: hero
+    visual_anchor: 白色柔和圆筒鼓形吊灯，黑色电线自然弯曲连接天花。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色柔和圆筒鼓形吊灯，黑色电线自然弯曲连接天花
+  design_level:
+    score: 3
+    reason: 3分：功能和比例完成度稳定，但造型主要依赖成熟灯具类型，独特性和迁移启发有限。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色柔和圆筒鼓形吊灯，黑色电线自然弯曲连接天花
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_041
+  source_images:
+  - filename: 112.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/112.jpg
+    image_role: hero
+    visual_anchor: 多只小圆筒吊灯从同一线缆轨迹垂下，形成线缆装饰。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 多只小圆筒吊灯从同一线缆轨迹垂下，形成线缆装饰
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 多只小圆筒吊灯从同一线缆轨迹垂下，形成线缆装饰
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_042
+  source_images:
+  - filename: 113.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/113.jpg
+    image_role: hero
+    visual_anchor: 琥珀、烟灰和乳白三只玻璃胶囊吊灯并列悬挂。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 琥珀、烟灰和乳白三只玻璃胶囊吊灯并列悬挂
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 琥珀、烟灰和乳白三只玻璃胶囊吊灯并列悬挂
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_043
+  source_images:
+  - filename: 114.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/114.jpg
+    image_role: hero
+    visual_anchor: 三只胶囊玻璃吊灯在蓝背景前并列，透明深色和乳白形成材质对比。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 多个竖向胶囊玻璃罩并列悬挂，圆角长筒截面清晰
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 三只胶囊玻璃吊灯在蓝背景前并列，透明深色和乳白形成材质对比
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 三只胶囊玻璃吊灯在蓝背景前并列，透明深色和乳白形成材质对比
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_044
+  source_images:
+  - filename: 121.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/121.jpg
+    image_role: hero
+    visual_anchor: 折纸状白色吊灯由皱褶片材卷成不规则竖向灯罩。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 折叠片材围合成不规则轻薄体量，边缘像纸面翻折展开
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 纸质/织物感扩散罩或折叠片材，配金属吊线
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 折纸状白色吊灯由皱褶片材卷成不规则竖向灯罩
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 折纸
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 折纸状白色吊灯由皱褶片材卷成不规则竖向灯罩
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_045
+  source_images:
+  - filename: 123.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/123.jpg
+    image_role: hero
+    visual_anchor: 白色鼓形吊灯带浅色圆筒罩，黑色电线弯曲连接顶盘。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 白色鼓形吊灯带浅色圆筒罩，黑色电线弯曲连接顶盘
+  design_level:
+    score: 3
+    reason: 3分：功能和比例完成度稳定，但造型主要依赖成熟灯具类型，独特性和迁移启发有限。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色鼓形吊灯带浅色圆筒罩，黑色电线弯曲连接顶盘
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_046
+  source_images:
+  - filename: 125.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/125.jpg
+    image_role: hero
+    visual_anchor: 白色折纸飞鸟状吊灯悬在红色幕布前，灯体像展开纸翼。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 折叠片材围合成不规则轻薄体量，边缘像纸面翻折展开
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 纸质/织物感扩散罩或折叠片材，配金属吊线
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 白色折纸飞鸟状吊灯悬在红色幕布前，灯体像展开纸翼
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 折纸
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色折纸飞鸟状吊灯悬在红色幕布前，灯体像展开纸翼
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_047
+  source_images:
+  - filename: 126.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/126.jpg
+    image_role: hero
+    visual_anchor: 黑色宽檐盘形吊灯下挂透明流苏状扩散件，像帽檐遮光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 圆形顶盘下垂多根长线，末端小锥灯头形成稀疏流苏状轮廓
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 黑色宽檐盘形吊灯下挂透明流苏状扩散件，像帽檐遮光
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 黑色宽檐盘形吊灯下挂透明流苏状扩散件，像帽檐遮光
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_048
+  source_images:
+  - filename: 134.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/134.jpg
+    image_role: hero
+    visual_anchor: 黑白层叠方块吊灯由多层方形片错位堆叠，像像素云。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 多层方形片上下错位堆叠，形成阶梯状像素云体量
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 黑白层叠方块吊灯由多层方形片错位堆叠，像像素云
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑白层叠方块吊灯由多层方形片错位堆叠，像像素云
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_049
+  source_images:
+  - filename: 140.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/140.jpg
+    image_role: hero
+    visual_anchor: 白色半透明片状吊灯由多个弯曲片围合成花簇。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 多片半透明弯曲片围绕中心成花簇，边缘层层外翻
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 白色半透明片状吊灯由多个弯曲片围合成花簇
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 白色半透明片状吊灯由多个弯曲片围合成花簇
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_050
+  source_images:
+  - filename: 142.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/142.jpg
+    image_role: hero
+    visual_anchor: 黑色锥形吊灯带金色内壁，形成经典下照暖光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 单只黑色圆锥罩垂直悬挂，宽口向下、顶部收窄接线
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色锥形吊灯带金色内壁，形成经典下照暖光
+  design_level:
+    score: 3
+    reason: 3分：功能和比例完成度稳定，但造型主要依赖成熟灯具类型，独特性和迁移启发有限。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色锥形吊灯带金色内壁，形成经典下照暖光
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_051
+  source_images:
+  - filename: 147.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/147.jpg
+    image_role: hero
+    visual_anchor: 三只白色扁圆盘吊灯高低错落，细黑吊线垂直。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 三只白色扁圆盘吊灯高低错落，细黑吊线垂直
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 三只白色扁圆盘吊灯高低错落，细黑吊线垂直
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_052
+  source_images:
+  - filename: 154.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/154.jpg
+    image_role: hero
+    visual_anchor: 黄铜支架托住白色球形玻璃吊灯，外侧透明圆罩形成双层球。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 白色球形玻璃罩被黄铜支架托住，外侧再包一层透明圆罩
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 黄铜支架托住白色球形玻璃吊灯，外侧透明圆罩形成双层球
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 球形
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 黄铜支架托住白色球形玻璃吊灯，外侧透明圆罩形成双层球
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_053
+  source_images:
+  - filename: 162.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/162.jpg
+    image_role: hero
+    visual_anchor: 黑色水平杆串联两只白色球灯，金色接头和弯曲电线外露。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 黑色水平细杆串联两个球形灯头，金色竖向接头作为节点
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 黑色水平杆串联两只白色球灯，金色接头和弯曲电线外露
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色水平杆串联两只白色球灯，金色接头和弯曲电线外露
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_054
+  source_images:
+  - filename: 164.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/164.jpg
+    image_role: hero
+    visual_anchor: 双球吊灯由黑色水平杆和金色竖向接头组成，线缆自然弯曲。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 黑色水平细杆串联两个球形灯头，金色竖向接头作为节点
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 双球吊灯由黑色水平杆和金色竖向接头组成，线缆自然弯曲
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 双球吊灯由黑色水平杆和金色竖向接头组成，线缆自然弯曲
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_055
+  source_images:
+  - filename: 167.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/167.jpg
+    image_role: hero
+    visual_anchor: 白色双层环形吊灯像旋转轨迹，两枚光环交叠悬浮。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 椭圆/圆环灯体以细吊线悬挂，环体厚度均匀并保留中央空洞
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色双层环形吊灯像旋转轨迹，两枚光环交叠悬浮
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 环形
+  - 逐张视觉识别
+  hero_feature: 白色双层环形吊灯像旋转轨迹，两枚光环交叠悬浮
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_056
+  source_images:
+  - filename: 171.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/171.jpg
+    image_role: hero
+    visual_anchor: 三只灰白圆环吊灯大小错落，形成云状环形组合。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 椭圆/圆环灯体以细吊线悬挂，环体厚度均匀并保留中央空洞
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 三只灰白圆环吊灯大小错落，形成云状环形组合
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 环形
+  - 逐张视觉识别
+  hero_feature: 三只灰白圆环吊灯大小错落，形成云状环形组合
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_057
+  source_images:
+  - filename: 172.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/172.jpg
+    image_role: hero
+    visual_anchor: 黑白圆片组成的开口球形吊灯，像花瓣拼成发光冠。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 黑白圆片沿圆弧排列成未闭合球冠，片状单元像花瓣外翻
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 黑白圆片组成的开口球形吊灯，像花瓣拼成发光冠
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 球形
+  - 逐张视觉识别
+  hero_feature: 黑白圆片组成的开口球形吊灯，像花瓣拼成发光冠
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吊灯_058
+  source_images:
+  - filename: 174.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吊灯/174.jpg
+    image_role: hero
+    visual_anchor: 透明网状长筒吊灯横向悬挂，内部连续波纹结构清晰。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 透明网状长圆筒水平悬挂，内部波纹管状结构沿轴向连续
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 透明/半透明材质配白色或暖色光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 透明网状长筒吊灯横向悬挂，内部连续波纹结构清晰
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吊灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明网状长筒吊灯横向悬挂，内部连续波纹结构清晰
+  problem_solved: 吊灯需要在空间中心提供照明，同时控制悬挂体量、眩光和视觉压迫。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

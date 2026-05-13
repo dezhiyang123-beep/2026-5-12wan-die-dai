@@ -1,0 +1,394 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电钻"
+  tertiary: "冲击起子"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_冲击起子_021"
+    source_images:
+      - filename: "电钻__冲击起子__21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__冲击起子__21.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 BRUSHLESS标准枪形冲击起子，银灰色压铸冲击头+亮红色机身，Milwaukee徽标红底白字嵌于机身侧面，顶部黑色滚花调节环，右侧红色散热槽缝，正转/反转拨块+LED灯，底部金属腰夹，无电池裸机状态"
+    product_name: "Milwaukee M18 BRUSHLESS Impact Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "标准枪形，机头向前水平，握把垂直向下，整体比例紧凑，头部略宽于握把"
+      light_opening: "头部右侧红色竖向散热槽缝，约占头部高度1/3"
+      thermal: "机身右侧红色开槽散热窗，集中于电机区域"
+      cmf:
+        color: "主色亮红（Milwaukee品牌红），次色哑黑（TPR握把+机壳），银灰（压铸冲击头）"
+        material: "机壳工程塑料，冲击头铝压铸，握把TPR包胶"
+        finish: "机壳亮面，握把哑面网格纹理，冲击头喷砂银灰"
+      mounting: "M18平台，底部无电池（裸机），带金属腰夹"
+      signature_detail: "银灰压铸冲击头与红色机身形成强对比，Milwaukee徽标红底白闪电为视觉焦点"
+    design_level:
+      score: 3
+      reason: "执行到位，红/黑/银三色分区清晰，品牌识别度高，无造型突破"
+    design_tags: ["H02包覆", "H08对比强调", "H11功能外显"]
+    hero_feature: "银灰压铸冲击头与亮红机身的强对比配色，远距离品牌辨识度极高"
+    problem_solved: "M18平台大扭矩拧紧作业，裸机配合现有M18电池使用"
+    transferable_technique: "功能性部件（冲击头）用对比色压铸件与机身区分，直观传达专业性能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_冲击起子_022"
+    source_images:
+      - filename: "电钻__冲击起子__22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__冲击起子__22.jpg"
+        image_role: "hero"
+        visual_anchor: "M12直角冲击起子，水平筒形机身，左端弯角银灰压铸头部呈90度，机身中段Milwaukee徽标红底，三个红色散热槽，右端黑色防滑握持区，电池接口朝下，整体极低矮扁平"
+    product_name: "Milwaukee M12 Right Angle Impact Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "水平圆筒直角形，机身整体横置，驱动头90度向左弯出，握持区在右侧，整体长径比约4:1"
+      light_opening: "机身中段三条红色散热槽，等距排列"
+      thermal: "中段开槽散热，集中于电机上方"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰（弯角驱动头）"
+        material: "机壳工程塑料，弯角头铝压铸"
+        finish: "机壳亮面，握持区网格哑面，弯角头喷砂"
+      mounting: "M12平台，底部无电池接口可见（裸机）"
+      signature_detail: "直角弯头设计使工具可在极狭窄空间操作，银灰弯角头视觉标志性"
+    design_level:
+      score: 3
+      reason: "直角功能形态执行到位，专业感强，属标准品类产品"
+    design_tags: ["H05模块化", "H11功能外显", "H07极简整合"]
+    hero_feature: "90度弯角驱动头允许在标准冲击起子无法进入的狭窄空间作业"
+    problem_solved: "狭窄空间如墙腔、夹层内的螺钉拧紧，标准枪形冲击起子无法触及的位置"
+    transferable_technique: "直角头模块化设计思路——主机身与功能头分离，通过角度变化扩展应用场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_冲击起子_023"
+    source_images:
+      - filename: "电钻__冲击起子__23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__冲击起子__23.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18冲击起子套装，含裸机+2块M18 LITHIUM电池+充电器+红色Milwaukee工具包，冲击起子为紧凑枪形银灰头+红色机身，套装呈产品组合陈列"
+    product_name: "Milwaukee M18 Compact Impact Driver Kit"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "标准枪形，机头前伸，握把较短，整体紧凑，适合单手操作"
+      light_opening: "N/A（套装图，工具细节较小）"
+      thermal: "机身顶部开槽散热"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰冲击头"
+        material: "机壳工程塑料，冲击头铝压铸"
+        finish: "机壳亮面，握把网格哑面"
+      mounting: "M18平台，带红色Milwaukee徽标电池"
+      signature_detail: "配套红色帆布工具包与Milwaukee品牌整体一致性强"
+    design_level:
+      score: 3
+      reason: "标准M18平台产品，套装配置完整，执行到位"
+    design_tags: ["H02包覆", "H08对比强调"]
+    hero_feature: "M18平台互换性——同一电池兼容Milwaukee全系M18产品"
+    problem_solved: "入门级M18平台冲击起子需求，一次购买获得完整使用方案"
+    transferable_technique: "套装配色统一策略：工具+电池+包袋全部红色，强化品牌整体感"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_冲击起子_024"
+    source_images:
+      - filename: "电钻__冲击起子__24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__冲击起子__24.jpg"
+        image_role: "hero"
+        visual_anchor: "M18直角冲击起子套装，T形立姿，银灰圆柱形驱动头朝上+红色竖立机身+M18 XC大电池在底部，驱动头90度向上弯出，整体竖直T形轮廓，附充电器"
+    product_name: "Milwaukee M18 Right Angle Impact Driver Kit"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "T形立姿，驱动头朝上90度，握把居中，电池在下，重心低，平衡感好"
+      light_opening: "N/A（套装图）"
+      thermal: "机身中部开槽"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰驱动头"
+        material: "机壳工程塑料，驱动头铝压铸"
+        finish: "机壳亮面，握把纹理"
+      mounting: "M18平台，M18 XC大电池"
+      signature_detail: "向上的90度驱动头使工具可插入狭缝从侧面拧紧，独特的T形立姿视觉"
+    design_level:
+      score: 3
+      reason: "T形直角功能形态，执行到位，视觉辨识度强"
+    design_tags: ["H05模块化", "H11功能外显"]
+    hero_feature: "T形直角驱动头向上弯出，可在管道夹层等顶部狭窄空间垂直拧紧螺钉"
+    problem_solved: "顶部狭窄空间的螺钉作业，如管道固定卡扣、天花板轻钢龙骨等"
+    transferable_technique: "驱动头方向与握持姿态的90度关系设计，最大化狭窄空间可操作性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_冲击起子_025"
+    source_images:
+      - filename: "电钻__冲击起子__25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__冲击起子__25.jpg"
+        image_role: "hero"
+        visual_anchor: "M18直角冲击起子裸机，竖立T形，银灰圆柱压铸头朝上，Milwaukee徽标红底斜切嵌于机身，黑色滚花调节旋钮，红色机身中部散热槽，黑色网格握把，底部红色空电池舱接口"
+    product_name: "Milwaukee M18 Right Angle Impact Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "竖立T形，高驱动头，握把区域较短，电池舱在正下方，整体高挑纤细"
+      light_opening: "机身中段两条红色横向散热槽"
+      thermal: "中段横向散热槽，集中在电机区"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰压铸头"
+        material: "机壳工程塑料，头部铝压铸，握把TPR"
+        finish: "机壳亮面，握把哑面网格"
+      mounting: "M18平台，底部电池接口（无电池）"
+      signature_detail: "Milwaukee徽标斜切嵌入红色机身，动感十足；银灰高耸驱动头是最强轮廓记忆点"
+    design_level:
+      score: 3
+      reason: "标准直角变体，执行干净利落，T形轮廓辨识度强"
+    design_tags: ["H11功能外显", "H08对比强调"]
+    hero_feature: "竖高银灰圆柱驱动头，T形剪影在同类产品中辨识度极高"
+    problem_solved: "M18平台直角冲击，重型狭窄空间作业"
+    transferable_technique: "T形轮廓通过夸大驱动头高度强化功能特征视觉表达"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_冲击起子_026"
+    source_images:
+      - filename: "电钻__冲击起子__26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__冲击起子__26.jpg"
+        image_role: "detail"
+        visual_anchor: "M18直角冲击起子裸机侧视图，竖立T形清晰展示，银灰圆柱头+红色机身+黑色握把，Milwaukee徽标倾斜跑过机身，黑色正反拨块，底部空电池舱"
+    product_name: "Milwaukee M18 Right Angle Impact Driver (Bare Tool) - Side View"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "T形侧视，驱动头高于机身主体，握把区流线向下收窄"
+      light_opening: "侧视可见机身左侧单条散热槽"
+      thermal: "机身侧面单条散热槽"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰头"
+        material: "工程塑料机壳，铝压铸头，TPR握把"
+        finish: "机壳亮面，握把哑面"
+      mounting: "M18裸机"
+      signature_detail: "侧视T形剪影：头部银灰圆柱突出于红色机身顶部，构成强烈视觉记忆点"
+    design_level:
+      score: 3
+      reason: "同025产品侧视角度，补充直角形态细节，无设计差异"
+    design_tags: ["H11功能外显", "H08对比强调"]
+    hero_feature: "侧视T形轮廓清晰，银灰头与红色机身高对比"
+    problem_solved: "同025，狭窄顶部空间作业"
+    transferable_technique: "产品轮廓在侧视图的记忆点设计：竖向对比色块+水平线打断"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_冲击起子_027"
+    source_images:
+      - filename: "电钻__冲击起子__27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__冲击起子__27.jpg"
+        image_role: "hero"
+        visual_anchor: "M18标准枪形冲击起子裸机，银灰压铸冲击头+红色机身，Milwaukee徽标嵌于机身，机头右侧红色垂直散热槽，黑色TPR握把，底部红色空电池舱+金属腰夹，整体紧凑"
+    product_name: "Milwaukee M18 Compact Impact Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "标准枪形，机头比021款更紧凑，握把略细，整体更轻量化外观"
+      light_opening: "机头右侧红色竖向散热槽"
+      thermal: "机头右侧开槽"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰冲击头"
+        material: "机壳工程塑料，冲击头铝压铸，握把TPR"
+        finish: "机壳亮面，握把哑面网格"
+      mounting: "M18平台，底部空电池舱+金属腰夹"
+      signature_detail: "比021更紧凑的比例，机头散热槽更加红色化，视觉上轻量感更强"
+    design_level:
+      score: 3
+      reason: "标准执行，与021为同代不同款，设计品质一致"
+    design_tags: ["H02包覆", "H08对比强调", "H11功能外显"]
+    hero_feature: "紧凑机身+M18大电池兼容，在紧凑与性能之间取得平衡"
+    problem_solved: "M18平台大扭矩+紧凑尺寸，适合频繁更换位置的安装作业"
+    transferable_technique: "通过缩短机头长度而非降低扭矩实现紧凑化，机头压铸件保留功能质感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_冲击起子_028"
+    source_images:
+      - filename: "电钻__冲击起子__28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__冲击起子__28.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18冲击起子套装，含裸机+2块M18 LITHIUM CP2.0电池+充电器+红色硬壳收纳箱，硬壳箱正面Milwaukee徽标大字，套装整体红色调"
+    product_name: "Milwaukee M18 Compact Impact Driver Kit with Hard Case"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "枪形冲击起子，套装陈列"
+      light_opening: "N/A（套装图）"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红，次色哑黑"
+        material: "机壳工程塑料，硬壳箱ABS"
+        finish: "硬壳箱注塑成型，表面带Milwaukee标识浮雕"
+      mounting: "M18平台，CP2.0轻量电池"
+      signature_detail: "红色硬壳收纳箱与产品配色统一，Milwaukee徽标大面积覆盖箱面"
+    design_level:
+      score: 3
+      reason: "套装执行标准，硬壳箱包装提升档次感"
+    design_tags: ["H08对比强调"]
+    hero_feature: "红色硬壳收纳箱统一品牌视觉，工地存放/运输专业感强"
+    problem_solved: "频繁携带工具需要保护性包装的专业用户"
+    transferable_technique: "工具包装与工具本体同色系设计，强化品牌识别整体性"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_冲击起子_029"
+    source_images:
+      - filename: "电钻__冲击起子__29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__冲击起子__29.jpg"
+        image_role: "kit_overview"
+        visual_anchor: "M18冲击起子套装含硬壳箱，裸机+2块M18 REDLITHIUM XL电池+充电器+红色硬壳箱，比028更大容量XL电池，套装整体红色系"
+    product_name: "Milwaukee M18 Impact Driver Kit with XC Batteries and Hard Case"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "枪形冲击起子，套装陈列，XC大容量电池使整体尺寸略大"
+      light_opening: "N/A（套装图）"
+      thermal: "N/A"
+      cmf:
+        color: "主色亮红，次色哑黑"
+        material: "机壳工程塑料，硬壳箱ABS"
+        finish: "硬壳箱亮面红色"
+      mounting: "M18平台，REDLITHIUM XC大容量电池"
+      signature_detail: "XC电池提供更长续航，套装定位更高端"
+    design_level:
+      score: 3
+      reason: "高配版套装，设计执行与028一致，差异在电池容量"
+    design_tags: ["H08对比强调"]
+    hero_feature: "XC大容量电池套装，适合全天候重型作业需求"
+    problem_solved: "专业用户全天连续作业，需要高容量电池保证不间断工作"
+    transferable_technique: "同一工具通过电池配置差异化套装，覆盖不同预算和使用强度用户"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_冲击起子_030"
+    source_images:
+      - filename: "电钻__冲击起子__30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__冲击起子__30.jpg"
+        image_role: "hero"
+        visual_anchor: "M18标准枪形冲击起子裸机，银灰冲击头+红黑双色机身，Milwaukee徽标嵌于侧面，正反拨块小巧，底部红色空电池舱+金属腰夹，整体形态与027相似但细节分件线差异"
+    product_name: "Milwaukee M18 Impact Driver (Bare Tool) Gen2"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "标准枪形，机头与机身过渡更流畅，握把曲线略有优化"
+      light_opening: "机头右侧散热槽，与027相似"
+      thermal: "机头开槽散热"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰冲击头"
+        material: "机壳工程塑料，头部铝压铸，握把TPR"
+        finish: "机壳亮面，握把哑面"
+      mounting: "M18平台裸机，金属腰夹"
+      signature_detail: "与027为同代产品，机身分件线处理略有差异，整体设计语言一致"
+    design_level:
+      score: 3
+      reason: "同代同系列，执行标准，属于产品线内正常变体"
+    design_tags: ["H02包覆", "H08对比强调"]
+    hero_feature: "M18平台标准枪形冲击起子，系列一致性强"
+    problem_solved: "M18大扭矩冲击拧紧，主力作业机型"
+    transferable_technique: "同平台产品通过微调分件线和散热槽细节迭代，主视觉一致性优先"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_冲击起子_031"
+    source_images:
+      - filename: "电钻__冲击起子__31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__冲击起子__31.jpg"
+        image_role: "hero"
+        visual_anchor: "M12 FUEL紧凑枪形冲击起子裸机，银灰压铸冲击头+亮红机身，机头右上方弧形银灰细节板（腰夹架），Milwaukee FUEL徽标，LED灯在冲击头底部，4颗电量指示灯，黑色菱形纹握把，底部无电池"
+    product_name: "Milwaukee M12 FUEL Compact Impact Driver (Bare Tool)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "紧凑枪形，比M18款更小更轻，机头直径较细，整体比例更纤巧"
+      light_opening: "N/A（无明显散热开槽）"
+      thermal: "密封机身无开槽（M12平台功率较低）"
+      cmf:
+        color: "主色亮红，次色哑黑，银灰头部+弧形腰夹架细节"
+        material: "机壳工程塑料，头部铝压铸，握把TPR菱形纹"
+        finish: "机壳亮面，握把哑面菱形网格"
+      mounting: "M12平台，底部无电池（裸机），有LED灯+4颗电量指示灯"
+      signature_detail: "机身右侧弧形银灰腰夹架是设计亮点，与红色机身形成曲线-直线对比；4颗LED电量指示灯集成于握把"
+    design_level:
+      score: 4
+      reason: "M12 FUEL系列设计语言更精致，弧形腰夹架细节有造型创新，LED电量指示灯集成优雅，整体造型比M18紧凑版更有设计感"
+    design_tags: ["H09隐藏工程", "H08对比强调", "H12人机界面强化"]
+    hero_feature: "弧形银灰腰夹架与菱形纹握把组合，精致感超越同级，M12平台最具设计感的冲击起子"
+    problem_solved: "需要单手操作+频繁工具切换的轻量级冲击作业，如木工精装、电气安装"
+    transferable_technique: "将功能性腰夹设计为机身曲线造型元素，功能件与外观件合并减少拼接感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

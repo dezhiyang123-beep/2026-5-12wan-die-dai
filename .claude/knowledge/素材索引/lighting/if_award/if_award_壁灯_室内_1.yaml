@@ -1,0 +1,593 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内壁灯"
+  tertiary: ""
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_壁灯_室内_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "深蓝灰色几何体壁灯，顶面单一连续弧面从贴墙竖面过渡到出光水平面，底面平切，光线从顶部弧形边缘与墙面间隙漫射向上，形成大面积月牙形光晕"
+    product_name: "几何弧切上照室内壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "近似梯形截面几何体，顶面单一连续弧面（凹弧从贴墙竖面弧滑到出光口），底面水平直切，侧面无装饰，整体轮廓简洁有力"
+      light_opening: "隐藏式上出光，光从灯体顶部弧形边缘与墙面间隙射出，间接照明打亮上方墙面，光源完全不可见"
+      thermal: "铝合金实体外壳被动散热，体积感本身即散热体，无独立散热鳍片"
+      cmf:
+        color: "深蓝灰色（近石板蓝/蓝灰哑光）"
+        material: "铝合金压铸"
+        finish: "细腻哑光粉末涂层，无光泽，质感沉稳"
+      mounting: "背板直接固定于墙面，灯体从墙面水平悬挑，无可见支架或线缆"
+      signature_detail: "顶面单一弧面折转语言：从贴墙竖面弧滑到出光水平面，弧度连续无折痕，造型即导光结构，视觉张力强"
+    design_level:
+      score: 5
+      reason: "几何造型与光效高度统一，弧面既是形态语言又是遮光导光结构，间接照明手法纯熟，零可见灯珠，iF顶级水准"
+    design_tags: ["间接照明", "几何体", "弧面语言", "深蓝灰", "铝合金", "隐藏光源", "上照", "iF获奖"]
+    hero_feature: "顶部连续弧面将光向上漫射墙面，灯体即遮光板，零可见光源"
+    problem_solved: "普通壁灯直射眩光强、装饰性弱；此设计以间接光渲染墙面氛围，彻底消除眩光"
+    transferable_technique: "弧面折转隐藏出光口（造型即遮光板）；深色哑光壳体强化光影对比"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "粉色墙面上两款圆盘壁灯：上方白色款圆形底盘+倒锥形灯杯向上出光，下方深色款同造型翻转向下出光，均附细线状拉线开关"
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/04.jpg"
+        image_role: "context"
+        visual_anchor: "同款白色圆盘壁灯安装于粉色墙面高处，灯下方有木椅与干花装饰，展示生活场景中的尺度关系"
+    product_name: "双向旋转杯口圆盘壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "圆形背板底盘 + 倒锥形灯杯的两件式组合，灯杯可朝上或朝下安装，整体轮廓圆润紧凑，直径约15cm"
+      light_opening: "锥形杯口正向出光（上照或下照取决于安装方向），光束集中，杯内反射面为哑银色"
+      thermal: "金属小体积壳体被动散热，尺寸小功率低，自然对流足够"
+      cmf:
+        color: "白色款（纯白哑光）/ 深色款（深炭灰或黑色哑光）"
+        material: "铝合金或钢板冲压"
+        finish: "哑光粉末涂层，两色款轮廓语言完全一致"
+      mounting: "圆形背板贴墙螺丝固定，附细钢丝拉线开关悬挂于灯体侧面"
+      signature_detail: "细线拉线开关与圆盘灯体形成轻盈对比；双向安装（上/下照）同一产品两种使用场景"
+    design_level:
+      score: 4
+      reason: "造型简洁克制，双向安装设计聪明，拉线开关细节优雅，双色家族部署整洁，iF获奖水准"
+    design_tags: ["圆盘", "双向出光", "拉线开关", "家族化双色", "上照下照可选", "紧凑型", "iF获奖"]
+    hero_feature: "圆形底盘+倒锥灯杯可上/下翻转安装，一款灯实现两种光效方向"
+    problem_solved: "壁灯照明方向固定、场景适应性低；此设计通过翻转安装实现上照/下照切换"
+    transferable_technique: "拉线开关作为轻盈装饰细节；圆形底盘+锥杯组合语言简洁易复制"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "深蓝色正方体壁灯，底部有横向发光缝隙，上下均有光漫出，白色墙面背景"
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/05.jpg"
+        image_role: "variant"
+        visual_anchor: "同款方体壁灯四色变体展示：深蓝+浅灰（哑光面）上排，纯白+亮白（自发光面板）下排，两种光效模式对比"
+    product_name: "正方体上下照双缝壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "正方体几何体，宽高近似相等，立面无任何装饰线条，四角略有倒角，体积感强"
+      light_opening: "水平横缝出光：底部横向缝隙向下出光（主照明），顶部与灯体上缘间隙向上漫光（补充间接光），实现上下双向照明"
+      thermal: "铝合金方体外壳被动散热，体积充裕，散热无压力"
+      cmf:
+        color: "深蓝哑光 / 浅灰哑光 / 纯白哑光 / 白色自发光面板（四色变体）"
+        material: "铝合金压铸"
+        finish: "粉末涂层哑光，或乳白扩散面板（发光款）"
+      mounting: "背板贴墙固定，灯体从墙面悬挑，无可见紧固件"
+      signature_detail: "正方体轮廓极度克制，所有设计语言集中在底部横缝出光一条线，极简与强光效对比强烈"
+    design_level:
+      score: 4
+      reason: "几何极简与双向光效结合干净，四色配色系统完整，产品家族感强，商业落地性高"
+    design_tags: ["正方体", "双向出光", "横缝出光", "极简几何", "多色系", "上下照", "iF获奖"]
+    hero_feature: "正方体外壳仅一条底部出光横缝，造型极简但光效层次丰富（下照+上漫）"
+    problem_solved: "方形壁灯造型平庸、光效单调；此设计以纯粹几何体+隐藏横缝出光，兼顾装饰性与功能性"
+    transferable_technique: "底部横缝隐藏出光口（灯体即遮光板）；正方体框架配合双向光，空间感强"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_004"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "乳白色椭圆大碗形发光体与左下方金色哑光圆盘交叠，安装于米白色墙面，金色圆盘偏心遮挡白色发光体，形成月食构图"
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/07.jpg"
+        image_role: "context"
+        visual_anchor: "同款产品多件组合安装于拱门室内空间：天花版（大尺寸）+ 壁灯版（小中大三尺寸），展示完整家族系列"
+    product_name: "月食双圆盘椭球壁灯/吸顶灯系列"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "大椭球形乳白发光体 + 偏心小圆盘（金/棕/灰多色）交叠构图，二者尺寸比约3:2，整体轮廓形似月食天文景象"
+      light_opening: "椭球整面漫射出光，乳白扩散罩均匀柔和，无眩光，金色圆盘形成局部遮光阴影对比"
+      thermal: "乳白扩散罩（玻璃或亚克力）被动散热，LED光源内置，体积大散热充裕"
+      cmf:
+        color: "乳白（发光体）+ 金色/棕铜色/灰紫色（遮光盘，多色可选）"
+        material: "吹制玻璃或亚克力扩散罩 + 金属圆盘"
+        finish: "扩散罩哑光乳白；金属盘哑光或拉丝金属感"
+      mounting: "壁挂式或吸顶式两用，背板固定于墙面/天花，兼容多种安装场景"
+      signature_detail: "偏心金属圆盘与椭球体的月食交叠构图是核心记忆点，金属盘颜色决定整体格调"
+    design_level:
+      score: 5
+      reason: "月食构图极具原创性，装饰性与照明功能完美平衡，多尺寸家族覆盖壁灯/吸顶灯，系统性强，iF顶级水准"
+    design_tags: ["月食构图", "椭球发光体", "偏心圆盘", "漫射照明", "装饰性极强", "家族系列", "双用壁灯吸顶灯", "iF获奖"]
+    hero_feature: "乳白椭球与金属偏心圆盘的月食交叠构图，装饰性极强，点亮与熄灭均有强烈视觉冲击"
+    problem_solved: "普通圆形壁灯装饰性平庸；此设计以天文意象（月食）赋予壁灯雕塑感，成为空间焦点"
+    transferable_technique: "偏心圆盘遮挡发光体手法（制造月食阴影）；同一产品壁/顶两用的系统设计思路"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_005"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "深黑色超长横向线型壁灯，上下边缘各有一条连续发光缝，光线向上下两侧对称漫射至墙面，灯体极薄，宽高比约10:1"
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/09.jpg"
+        image_role: "variant"
+        visual_anchor: "同款线型壁灯灰色版，熄灯状态，展示灯体截面比例与边角倒角细节，白色背景"
+    product_name: "超薄线型上下照双缝壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "极薄长矩形截面，宽高比约10:1，水平横向延伸，四角轻微倒角，侧面极薄（约4-6cm深），轮廓如一把尺子贴墙"
+      light_opening: "上下双边缘缝隙出光：顶部缝向上打墙，底部缝向下打墙，形成对称蝴蝶形光晕，光源完全被灯体遮挡"
+      thermal: "铝合金型材挤压成形，长度方向自然散热，LED条内置于上下槽内"
+      cmf:
+        color: "哑黑 / 深灰两色（至少）"
+        material: "铝合金挤压型材"
+        finish: "细腻哑光粉末涂层"
+      mounting: "背面贴墙固定，整体悬挑于墙面，无可见紧固件"
+      signature_detail: "上下对称双缝出光在墙面形成完美蝴蝶形光晕，灯体越薄光效对比越强烈"
+    design_level:
+      score: 4
+      reason: "极简线型造型与对称光效执行干净，铝型材工艺成熟，商业适用性强，iF获奖水准"
+    design_tags: ["线型壁灯", "双缝出光", "上下照", "超薄", "铝型材", "对称光效", "哑黑", "iF获奖"]
+    hero_feature: "超薄矩形灯体上下各一条连续出光缝，点亮后形成完美对称蝴蝶形光晕"
+    problem_solved: "线型灯通常只能单向出光；此设计上下双缝同时出光，一条灯同时渲染上下两侧墙面"
+    transferable_technique: "铝型材上下开槽隐藏LED条（上下双缝出光）；超薄轮廓放大光影对比效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_006"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "壁灯安装在墙角，黑色壁挂底座从墙角水平伸出一段折叠式铜棕色臂，臂末端为可拆卸的铜棕色矩形灯头（含GU10灯珠），用手正将灯头抽出"
+    product_name: "可拆卸灯头折臂壁灯（磁吸/插拔便携）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "黑色方形壁挂底座 + 折叠式铜棕色悬臂 + 矩形可拆灯头三段式构成，整体水平悬挑，灯头可从臂上拔出独立使用"
+      light_opening: "灯头侧面GU10射灯出光，可旋转调向，拆下后可作手持便携灯使用"
+      thermal: "灯头金属小体积被动散热，GU10标准光源可更换"
+      cmf:
+        color: "底座哑黑 + 臂与灯头铜棕色（双色撞色）"
+        material: "铝合金 + 钢"
+        finish: "底座哑光黑 + 臂/灯头拉丝铜棕哑光"
+      mounting: "底座螺丝固定于墙面，折臂可收纳贴墙或展开悬挑，线缆从底座内走线"
+      signature_detail: "灯头可从悬臂上拔出独立使用（磁吸或插拔结构），壁灯与手持灯二合一，功能颠覆性"
+    design_level:
+      score: 5
+      reason: "将壁灯与便携灯合二为一，创新度极高，黑+铜棕双色质感出色，iF顶级水准"
+    design_tags: ["可拆灯头", "便携壁灯", "折臂", "黑铜双色", "GU10", "二合一", "功能创新", "iF获奖"]
+    hero_feature: "灯头可从壁灯臂上整体拔出，独立手持使用，壁灯即充电基座"
+    problem_solved: "壁灯固定、便携性为零；此设计将壁灯灯头设计为可拆便携单元，扩展使用场景"
+    transferable_technique: "灯头插拔分离结构（壁灯+便携灯二合一）；底座/臂/头三段式撞色设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_007"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "沙白色折叠多面体壁灯，灯体由多个切割平面组成，含一个外露GU10射灯杯，底部有宽幅白色弧形导光反射板向下打光，整体倾斜45度安装"
+    product_name: "多面折叠几何射灯壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "多平面折叠几何体，各面以不同角度切割拼接，形成棱角分明的雕塑感轮廓，底部附宽幅弧形反射导光板"
+      light_opening: "双出光：上部GU10射灯直接定向出光（主照）+ 下部弧形导光板向下漫射出光（辅助氛围光）"
+      thermal: "铝合金多面体被动散热，各切割面增大散热面积"
+      cmf:
+        color: "沙白/米白哑光（主体）+ 黑色GU10灯圈（点缀）"
+        material: "铝合金折弯/压铸"
+        finish: "细腻哑光粉末涂层"
+      mounting: "小型方形背板贴墙固定，灯体整体向前下方悬挑，安装角度可调"
+      signature_detail: "多面切割几何体+可见GU10灯珠的工业感混搭；弧形导光板兼顾装饰与功能性辅助照明"
+    design_level:
+      score: 4
+      reason: "多面折叠造型雕塑感强，双出光设计实用，沙白色优雅，iF获奖水准"
+    design_tags: ["多面体", "折叠几何", "GU10", "双出光", "沙白", "射灯壁灯", "雕塑感", "iF获奖"]
+    hero_feature: "多面折叠切割几何体造型，上部射灯+下部弧形导光板双出光，雕塑感与功能性兼顾"
+    problem_solved: "壁灯造型平庸、单一出光；此设计以折叠多面体赋予壁灯雕塑感，并实现双向出光"
+    transferable_technique: "多平面折叠切割语言制造雕塑感；弧形导光板作为辅助出光面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_008"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "纯白圆形壁灯，圆盘下半部有一个半球形乳白发光体突出，上半部为平圆盘遮光板，点亮后上方墙面出现多层同心圆弧形光晕"
+    product_name: "半圆盘半球体同心圆光晕壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "正圆形背盘（平面）+ 下半部嵌入半球形发光体，上半圆盘略向前突出形成遮光边沿，整体轮廓为完整圆形"
+      light_opening: "半球形乳白扩散罩向上方漫射出光，圆形背盘边缘同时形成二次漫射，在墙面制造多层同心圆弧形光晕"
+      thermal: "乳白扩散球（玻璃或亚克力）被动散热，LED内置"
+      cmf:
+        color: "纯白（整体统一）"
+        material: "金属圆盘 + 乳白玻璃/亚克力半球"
+        finish: "背盘哑光白喷涂，半球哑光乳白扩散"
+      mounting: "圆形背盘贴墙螺丝固定，所有安装结构隐藏于盘内"
+      signature_detail: "圆形背盘的几何遮光边沿将光束精确控制为向上半球漫射，墙面同心圆光晕是唯一装饰语言"
+    design_level:
+      score: 4
+      reason: "极简纯白造型配合精妙的同心圆光晕效果，几何遮光板设计聪明，视觉纯粹，iF获奖水准"
+    design_tags: ["圆形", "半球发光体", "同心圆光晕", "纯白", "上照", "几何遮光", "极简", "iF获奖"]
+    hero_feature: "圆形背盘+半球发光体组合，点亮后墙面出现精确的多层同心圆弧形光晕"
+    problem_solved: "圆形壁灯光效平淡；此设计利用圆盘遮光边沿制造同心圆光晕，将光效本身变成装饰图案"
+    transferable_technique: "圆形遮光盘边沿控制光束形状制造特定光晕图案；乳白半球作为柔和光源"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_009"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "纯白菱形（正方形旋转45度）壁灯，下半部有一个菱形发光内腔，上方墙面出现双V形箭头状光晕向上叠加扩散"
+    product_name: "菱形双V光晕壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "正方形旋转45度呈菱形，下半顶角有开口发光内腔，整体轮廓对称，四角尖锐，尺寸约20x20cm"
+      light_opening: "菱形下顶角开口向上出光，光束受菱形腔体两侧斜面引导，在墙面形成双重V形箭头叠加的特征光晕"
+      thermal: "金属菱形体被动散热，小功率LED内置"
+      cmf:
+        color: "纯白哑光"
+        material: "铝合金压铸或钣金"
+        finish: "哑光白粉末涂层，与墙面近乎融合"
+      mounting: "背面贴墙固定，与墙面接触面为菱形中部，无可见紧固件"
+      signature_detail: "菱形旋转45度安装制造方向感；腔体引导形成精确双V箭头光晕，灯体即光的形状模具"
+    design_level:
+      score: 4
+      reason: "菱形几何与双V光晕设计高度统一，熄灯装饰性强，点亮光效独特，iF获奖水准"
+    design_tags: ["菱形", "双V光晕", "纯白", "几何光效", "腔体导光", "装饰性强", "iF获奖"]
+    hero_feature: "菱形灯体旋转45度安装，点亮后墙面出现精确双重V形箭头叠加光晕"
+    problem_solved: "方形壁灯光效无特色；此设计通过45度旋转+腔体导光，将光效变为箭头图案"
+    transferable_technique: "几何腔体两侧斜面引导光束制造特定光晕图案；灯体旋转安装改变视觉重心"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_010"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "乳白色模块化壁灯，由两个半圆形肋纹扇面单元以黑色圆形枢轴销连接，自由组合成S形/翼形构图，整体平贴墙面，光从扇面背后漫射"
+    product_name: "半圆肋纹扇面模块化拼接壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "半圆形肋纹扇面单元（多件）以黑色圆形枢轴销为连接点自由拼接，可组成S形、翼形、对称形等多种构图，整体贴墙平面化"
+      light_opening: "扇面背面LED漫射出光，光绕过扇面边缘向外漫射，配合肋纹形成柔和渐变光效；黑色枢轴销处形成暗点对比"
+      thermal: "薄板式扇面被动散热，LED内置于扇面背部"
+      cmf:
+        color: "乳白（扇面）+ 哑黑（枢轴销）"
+        material: "注塑或铝合金薄板 + 金属枢轴销"
+        finish: "扇面哑光乳白；枢轴销哑光黑"
+      mounting: "每个枢轴销即安装点，螺丝固定于墙面，多个固定点分散承重"
+      signature_detail: "黑色圆枢轴销作为模块连接件与安装件双功能；肋纹扇面赋予光影层次，边缘漫射光效优雅"
+    design_level:
+      score: 5
+      reason: "模块化拼接系统创意强，肋纹扇面光效优雅，黑白撞色精准，用户可自定义构图，iF顶级水准"
+    design_tags: ["模块化", "半圆扇面", "肋纹", "可拼接", "黑白", "边缘漫射", "装饰壁灯", "iF获奖"]
+    hero_feature: "半圆肋纹扇面以黑色枢轴销为铰接点自由拼接，用户可自定义壁灯构图形态"
+    problem_solved: "壁灯形态固定无法个性化；此设计以模块枢轴拼接赋予用户自定义构图权利"
+    transferable_technique: "枢轴销兼顾连接与安装双功能；半圆单元模块化拼接系统"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_011"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "纯白超薄弧形壁灯安装于两面白色墙体交角处，灯体从墙角缝隙中微微突出，形如折纸般的弧面向右侧延伸，光从弧面向右侧墙面漫射"
+    product_name: "墙角折纸弧面极薄壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "极薄弧形板状，从墙角垂直缝隙出发向外延伸，截面为流畅S形或单弧，整体几乎与墙融为一体，轮廓如折纸"
+      light_opening: "弧面正面或侧面漫射出光，光沿弧形导光板向侧面墙体漫射，无点光源，整面柔光"
+      thermal: "薄板导光设计，LED内置于安装端，自然散热"
+      cmf:
+        color: "纯白（与墙面同色系融合）"
+        material: "铝合金薄板或树脂导光板"
+        finish: "哑光白，与墙面接近融合"
+      mounting: "从墙角缝隙嵌入固定，灯体安装点隐藏于墙角内，无可见紧固件"
+      signature_detail: "墙角安装策略：利用建筑阴角作为安装基础，灯体如从墙体内生长而出，极度融合"
+    design_level:
+      score: 5
+      reason: "墙角安装策略极具原创性，灯体与建筑空间深度融合，纯白极简执行完美，iF顶级水准"
+    design_tags: ["墙角安装", "折纸弧面", "极薄", "纯白", "建筑融合", "漫射照明", "隐藏式", "iF获奖"]
+    hero_feature: "从建筑阴角缝隙长出的极薄弧形光板，灯即建筑细部，安装点完全隐藏"
+    problem_solved: "壁灯与建筑空间割裂感强；此设计将安装点藏于墙角阴角，灯体成为建筑界面的一部分"
+    transferable_technique: "利用建筑阴角作为隐藏安装基础；弧面导光板从边缘漫射出光"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_012"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色LED弧形模块壁灯系列展示：从左至右分别为单半弧、双半弧、S形三节弧，最右侧为六段弧交叠成花瓣圆形大灯，背发光"
+    product_name: "弧形LED模块拼接壁灯/吸顶灯系列"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "半圆弧管（截面圆形或方形）为基本模块，可单独安装、串联成S形/波形，或多段交叠成花瓣圆形大型灯，形态多样"
+      light_opening: "弧管背面LED漫射出光（背光），光绕过圆管向外漫射至墙面，形成晕光；管本身不发光仅轮廓可见"
+      thermal: "金属弧管被动散热，LED内置于管内"
+      cmf:
+        color: "深炭灰哑光（整体统一）"
+        material: "铝合金弯管"
+        finish: "哑光深灰粉末涂层"
+      mounting: "每段弧管两端固定于墙面，多段拼接时共享安装点"
+      signature_detail: "同一弧形单元模块通过不同数量和排列可生成完全不同的灯具形态（从壁灯到大型装饰吸顶灯）"
+    design_level:
+      score: 4
+      reason: "弧形模块拼接系统灵活，单元简洁统一，家族系列从小壁灯到大装饰灯覆盖完整，iF获奖水准"
+    design_tags: ["模块化", "弧形管", "背发光", "深灰", "可拼接", "家族系列", "壁灯吸顶两用", "iF获奖"]
+    hero_feature: "同一半圆弧管单元可拼接成单弧/双弧/S形/花瓣圆形等多种形态，一个模块系统覆盖所有场景"
+    problem_solved: "壁灯系列产品形态割裂；此设计以单一弧管模块衍生完整家族，形态统一且灵活"
+    transferable_technique: "弧管背发光漫射手法；单一模块通过数量/排列衍生多种产品形态的系统设计思路"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_013"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "暖橙色光环境中多款模块化磁吸壁灯组合安装：横向短条形、正方形发光面板、竖向长管，以及不同长度横条，所有单元背发光"
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/18.jpg"
+        image_role: "variant"
+        visual_anchor: "同款模块磁吸系统全色系展示（俯拍平铺）：5种颜色（白/米/浅灰/中灰/深灰/炭黑）× 5种形态（短条/方形面板/长条/小短条/细管）完整矩阵"
+    product_name: "磁吸模块化多形态壁灯系统"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "同一设计语言下的多形态家族：短横条（宽:高约4:1）、正方形面板（1:1）、长横条（8:1）、超短条（2:1）、细竖管，所有单元四角大圆角统一"
+      light_opening: "各单元背面或侧面LED漫射出光，背光形式使灯体轮廓浮于墙面，部分单元面板自发光（正面出光）"
+      thermal: "各模块小体积被动散热，LED内置"
+      cmf:
+        color: "五色系：白/米白/浅灰/中灰/炭黑（全色谱覆盖）"
+        material: "铝合金或工程塑料"
+        finish: "哑光粉末涂层，各色统一质感"
+      mounting: "磁吸贴墙（可随时重新排列），或螺丝固定，极低安装门槛"
+      signature_detail: "磁吸安装使用户可随时重排灯具构图；五色系×五形态构成完整产品矩阵，SKU系统完备"
+    design_level:
+      score: 5
+      reason: "磁吸模块化系统创新度极高，五色五形态矩阵SKU完整，用户自定义空间极大，iF顶级水准"
+    design_tags: ["磁吸模块", "多形态", "五色系", "用户自定义", "背发光", "产品矩阵", "系统设计", "iF获奖"]
+    hero_feature: "磁吸安装+多形态模块系统，用户可随时重新排列组合灯具构图，五色五形态全覆盖"
+    problem_solved: "壁灯安装固定、调整成本高；此设计以磁吸模块赋予用户零成本重排构图的自由"
+    transferable_technique: "磁吸安装降低重排门槛；色彩×形态矩阵SKU规划思路；统一大圆角建立家族语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_014"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/19.jpg"
+        image_role: "hero"
+        visual_anchor: "纯黑背景中深灰色横向矩形壁灯，灯体中部水平缝隙出光（向下），缝内可见半圆柱形金色反射腔，光向下斜切照射"
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/20.jpg"
+        image_role: "context"
+        visual_anchor: "同款壁灯嵌入式安装于深色走廊墙面，灯体极小，仅见横缝发光，光束斜向下照射地面"
+    product_name: "横缝斜切下照矩形壁灯（走廊引导型）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "扁横矩形，宽高比约3:1，厚度较薄，灯体中部有贯穿全宽的水平出光缝，缝上方灯体略出挑形成遮光沿"
+      light_opening: "中部水平缝向下斜切出光，缝内半圆柱金色反射腔将光聚拢向下照射，无向上漫光，定向强"
+      thermal: "铝合金矩形体被动散热，LED内置于出光缝内"
+      cmf:
+        color: "深灰哑光（外壳）+ 金色/铜色（内腔反射面）"
+        material: "铝合金压铸"
+        finish: "外壳细腻哑光深灰；内腔金属拉丝或镀金"
+      mounting: "背面贴墙或嵌入墙面安装，外观几乎与墙面齐平"
+      signature_detail: "半圆柱金色内腔作为反射导光面，既是功能件又是可见装饰细节；出光缝与灯体比例精确克制"
+    design_level:
+      score: 4
+      reason: "走廊引导型壁灯功能精准，深灰+金内腔对比精致，嵌入安装与建筑融合度高，iF获奖水准"
+    design_tags: ["横缝出光", "斜切下照", "嵌入式", "深灰", "金色内腔", "走廊引导", "定向照明", "iF获奖"]
+    hero_feature: "中部水平出光缝内置金色半圆柱反射腔，斜切下照精确引导，装饰与功能双兼顾"
+    problem_solved: "走廊引导灯通常粗糙实用；此设计以金色内腔反射面提升精致感，嵌入安装与建筑融合"
+    transferable_technique: "半圆柱内腔反射聚光（控制出光方向）；深色外壳+金色内腔撞色细节"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_015"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "横向矩形壁灯，上部为拉丝金色金属出光帽（向上斜面反射出光），下部主体为深绿色大理石面板加竖向肋纹，光从顶部金色帽边缘向上漫射"
+    product_name: "金属帽+绿色肋纹大理石面板上照壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "横向矩形，上1/3为金色金属出光斜帽，下2/3为带竖向肋纹的绿色大理石面板，两段水平分割，整体比例稳重"
+      light_opening: "顶部金色帽内侧LED向上反射出光，光从金色帽顶边缘漫射向上方墙面，出光柔和无眩光"
+      thermal: "大理石面板被动散热（石材导热性好），金属帽散热"
+      cmf:
+        color: "拉丝哑金（上帽）+ 深绿大理石+竖向肋纹（下体）"
+        material: "金属（上帽）+ 天然大理石或仿石材面板（下体）"
+        finish: "金属帽拉丝哑金；大理石面竖向肋纹切割"
+      mounting: "背板贴墙固定，两段式结构通过背板统一安装"
+      signature_detail: "金色金属出光帽与绿色肋纹大理石的材质撞色是核心记忆点，奢华感与自然感碰撞"
+    design_level:
+      score: 4
+      reason: "金属+天然石材撞材设计精致，肋纹工艺细腻，上照光效优雅，高端住宅市场适配度高，iF获奖水准"
+    design_tags: ["金属帽", "大理石面板", "肋纹", "上照", "金绿撞色", "奢华感", "材质对比", "iF获奖"]
+    hero_feature: "金色出光帽与深绿肋纹大理石双材质水平分割，材质撞色成为第一视觉记忆点"
+    problem_solved: "高端壁灯材质单一、质感平庸；此设计以金属+天然石材撞材制造奢华感，兼顾光效"
+    transferable_technique: "金属出光帽作为上照反射导光面；金属+石材/木材双材质水平分割手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_室内_016"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/室内壁灯/22.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向矩形壁灯，中部主体为灰色花岗岩石材面板，上下两端各有一段金色金属出光端帽，上下同时向外漫射出光"
+    product_name: "花岗岩面板+双端金属帽上下照壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "室内壁灯"]
+    design_language:
+      silhouette: "竖向矩形，中段为石材主体，上下各1/5为金色金属出光端帽，整体比例约1:3:1（上帽:石材:下帽），轮廓简洁克制"
+      light_opening: "上下双端金属帽内LED同时出光，光从上帽向上漫射、下帽向下漫射，形成对称上下照，石材主体完全遮挡中段光线"
+      thermal: "石材面板被动散热（天然石材导热），金属端帽辅助散热"
+      cmf:
+        color: "哑金（上下端帽）+ 深灰花岗岩石材（中段主体）"
+        material: "金属端帽 + 天然花岗岩石材面板"
+        finish: "金属端帽拉丝哑金；石材面板自然粗粒纹理"
+      mounting: "背板贴墙固定，石材通过金属框架固定于背板"
+      signature_detail: "上下对称金属端帽形成上下照对称光效；石材粗粒质感与哑金精致感的强烈对比"
+    design_level:
+      score: 4
+      reason: "石材+金属端帽双材质对比强烈，上下对称光效平衡，竖向比例优雅，高端住宅适配度高，iF获奖水准"
+    design_tags: ["花岗岩", "金属端帽", "上下照", "对称光效", "双材质", "竖向", "奢华感", "iF获奖"]
+    hero_feature: "花岗岩石材主体夹于上下金色金属端帽之间，上下对称漫射出光，石材即遮光体"
+    problem_solved: "竖向壁灯光效通常单向；此设计上下双端帽对称出光，石材主体遮光强化对比"
+    transferable_technique: "上下对称金属端帽出光结构；石材/木材主体作为遮光面与金属帽撞材"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

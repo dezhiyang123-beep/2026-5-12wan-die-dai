@@ -1,0 +1,51 @@
+# G0快速扫描模板（scout输出）
+# 符合 contracts/g0_scan.schema.yaml
+
+project_id: "20260403-ACG-LIGHT"
+client: "acg"
+category: "便携工作灯"
+scan_date: "2026-04-03"
+
+client_snapshot:
+  price_ceiling: "$30[H-客户档案acg.md]"
+  must_certify:
+    - "FCC Part 15[H-客户档案acg.md]"
+    - "UN38.3（含锂电）[H-客户档案acg.md]"
+  style_forbidden:
+    - "家居化/装饰化风格[H-客户档案acg.md]"
+    - "圆润玩具感[H-客户档案acg.md]"
+  source: "knowledge/clients/acg.md，最后更新2026-02-23"
+
+category_check:
+  market_exists: true
+  competitor_count: 4
+  top3_competitors:
+    - brand: "NEBO"
+      model: "Slyde King 500"
+      price: "$19.99"
+      key_specs: ["500lm", "磁吸底座", "USB-C充电"]
+      source: "https://www.amazon.com/..."
+    - brand: "DEWALT"
+      model: "DCL040"
+      price: "$24.99"
+      key_specs: ["800lm", "360°旋转", "USB充电"]
+      source: "https://www.homedepot.com/..."
+    - brand: "RIDGID"
+      model: "R8694520"
+      price: "$UNKNOWN"
+      key_specs: ["UNKNOWN"]
+      source: "搜索失败，验证动作：搜索ridgid work light amazon"
+  key_pain_points:
+    - "磁力不够强，容易掉落(N=12)[M-Amazon评论]"
+    - "USB充电口防水差(N=8)[M-Amazon评论]"
+  unknown_fields:
+    - "RIDGID定价"
+    - "市场总SKU数量（需搜索更多竞品）"
+
+go_decision_input:
+  opportunity_signal: "当前市场$25以内工作灯的磁吸固定功能普遍被用户评为不可靠[M，基于4个样本的有限观察]"
+  risk_signal: "NEBO已有完善的磁吸产品线，差异化难度较高[H-竞品分析]"
+  unknown_summary: "RIDGID等工具品牌定价未确认，G0信息不完整，G1需补充竞品矩阵至≥5个"
+
+scout_notes: "搜索时间2026-04-03，建议G1补充Milwaukee和Makita工具灯作为竞品"
+search_timestamp: "2026-04-03T10:00:00Z"

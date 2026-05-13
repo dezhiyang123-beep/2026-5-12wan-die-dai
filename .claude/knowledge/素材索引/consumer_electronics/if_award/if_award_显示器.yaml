@@ -1,0 +1,235 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "显示器"
+  tertiary: ""
+source:
+  source_type: "award_collection"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/显示器"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_monitor_001"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/显示器/05.jpg"
+        image_role: "hero"
+        visual_anchor: "侧视图展示内置文件摄像头悬臂与织物底座"
+    product_name: "Bestboard 会议一体显示器"
+    brand_name: "Bestboard"
+    brand_confidence: "high"
+    category_path: ["消费电子", "显示器", "会议显示器"]
+    design_language:
+      silhouette: "横向宽屏矩形面板，底部织物底座形成视觉重量，整体偏扁宽"
+      light_opening: "16:9宽屏，细边框，暗灰色面板"
+      thermal: "底座内置扬声器格栅承担散热与音频双功能"
+      cmf:
+        color: "深灰/黑色面板 + 深灰织物底座"
+        material: "ABS面板 + 织物包覆底座 + 金属摄像头悬臂"
+        finish: "磨砂哑光"
+      mounting: "一体底座式，底座含扬声器单元"
+      signature_detail: "可折叠文件摄像头悬臂从顶部左侧伸出，独特会议功能外显"
+    design_level:
+      score: 4
+      reason: "功能外显设计手法突出，摄像头悬臂与织物底座的组合在显示器品类中独树一帜，兼顾会议场景实用性与视觉辨识度"
+    design_tags: ["功能外显", "会议场景", "织物材质", "一体化设计", "H11功能外显", "H10材料表达"]
+    hero_feature: "顶部集成可收折文件摄像头悬臂"
+    problem_solved: "视频会议中文件共享与摄像需求集成到显示器本体，无需额外外设"
+    transferable_technique: "功能模块从设备顶部延伸为外显悬臂结构，可迁移至需要集成摄像/传感器的设备品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_monitor_002"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/显示器/06.jpg"
+        image_role: "hero"
+        visual_anchor: "三种形态并置：壁挂竖屏×2 + 桌面斜立竖屏×1，白色系"
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/显示器/07.jpg"
+        image_role: "detail"
+        visual_anchor: "多屏竖向Z形堆叠塔状展示形态"
+    product_name: "模块化多形态小尺寸显示器系统"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "显示器", "模块化显示器"]
+    design_language:
+      silhouette: "接近正方形或4:3竖向小屏，白色铝框，四边等宽边框"
+      light_opening: "竖向4:3或接近正方形小尺寸屏幕，黑色面板"
+      thermal: "背部平整，无明显散热结构"
+      cmf:
+        color: "白色机身 + 黑色屏幕"
+        material: "铝合金或白色工程塑料外框"
+        finish: "哑光白"
+      mounting: "多形态：壁挂式、落地立柱式、桌面斜立式，三者共用同一屏幕模块"
+      signature_detail: "同一屏幕模块可通过不同底座/支架切换三种场景形态，模块化系统性强"
+    design_level:
+      score: 4
+      reason: "模块化形态切换概念完整，一个屏幕适配三种使用场景，系统化设计思维明确；白色工业感与极简边框加分"
+    design_tags: ["模块化", "H05模块化", "多形态", "壁挂", "极简", "白色系", "H07极简整合"]
+    hero_feature: "同一屏幕模块对应壁挂/立柱/桌面三种安装形态"
+    problem_solved: "单一显示设备满足不同空间与场景安装需求，减少重复采购"
+    transferable_technique: "模块化接口设计使屏幕主体与安装基座解耦，底座/支架系列化可独立SKU"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_monitor_003"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/显示器/13.jpg"
+        image_role: "hero"
+        visual_anchor: "正侧45度视角，香槟金立柱+圆形底座，白色背板"
+      - filename: "24.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/显示器/24.jpg"
+        image_role: "rear"
+        visual_anchor: "背部白色平整面板，底部集中接口区，金色立柱"
+    product_name: "Acer H277HU 时尚窄边框显示器"
+    brand_name: "Acer"
+    brand_confidence: "high"
+    category_path: ["消费电子", "显示器", "消费级显示器"]
+    design_language:
+      silhouette: "宽16:9横屏，极细三边边框，背部平整简洁"
+      light_opening: "16:9宽屏，三边极细边框（约5mm），正面以屏幕为主体"
+      thermal: "背部底部横向散热格栅两侧对称排布"
+      cmf:
+        color: "正面黑色/深灰 + 背面纯白 + 香槟金支架"
+        material: "塑料背板 + 铝合金支架立柱 + 金属圆形底座"
+        finish: "背板哑光白，支架亮金拉丝"
+      mounting: "单立柱+圆形底座，立柱从底部中心穿出，底座为圆环形"
+      signature_detail: "香槟金圆形底座+立柱与白色背板形成强烈色彩对比，消费级时尚感"
+    design_level:
+      score: 3
+      reason: "金色支架与白色背板的色彩对比是主要亮点，整体属于消费级时尚显示器常见路线，无突破性形态创新"
+    design_tags: ["香槟金", "圆形底座", "窄边框", "时尚消费", "H08对比强调", "H07极简整合"]
+    hero_feature: "香槟金圆环底座与立柱形成显著视觉焦点"
+    problem_solved: "消费级显示器兼顾高颜值与高性能（USB-C接口，多接口集成）"
+    transferable_technique: "金属色支架与白色/浅色背板的色彩对比手法可迁移至其他桌面设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_monitor_004"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/显示器/16.jpg"
+        image_role: "hero"
+        visual_anchor: "斜侧视角，钢琴烤漆黑色面板，白色弧形水平底座"
+      - filename: "26.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/显示器/26.jpg"
+        image_role: "detail"
+        visual_anchor: "正面+侧面双视角，侧面极薄剪影，银色水平底座"
+    product_name: "Samsung SyncMaster T27B750"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "显示器", "消费级显示器"]
+    design_language:
+      silhouette: "16:9宽屏，侧面极薄（约10mm），底部向后延伸为弧形底座，整体呈现向后倾倒的优雅弧线"
+      light_opening: "16:9宽屏，细边框，亮面钢琴黑面板"
+      thermal: "背部平整，底座水平横向延伸承担稳定性"
+      cmf:
+        color: "正面钢琴黑 + 背面白色/银色 + 白色水平底座"
+        material: "钢琴烤漆ABS面板 + 铝合金或镀铬底座"
+        finish: "正面高光钢琴漆，底座拉丝银色"
+      mounting: "水平横向底座，面板背面向底座自然过渡形成弧形连接，无可见立柱"
+      signature_detail: "底座与面板背面无缝弧形过渡，侧面剪影呈极薄镰刀弧线，顶级薄化工艺"
+    design_level:
+      score: 5
+      reason: "侧面极薄剪影与背部弧形底座的整体造型是真正的品类突破，无可见支柱的弧形悬浮连接在当时极为前卫，侧面轮廓堪称教科书级"
+    design_tags: ["极薄", "弧形底座", "钢琴黑", "轮廓记忆点", "H07极简整合", "H09隐藏工程", "Samsung经典"]
+    hero_feature: "侧面镰刀弧线剪影 + 面板与底座无支柱弧形过渡"
+    problem_solved: "将显示器从办公设备提升为家居装饰品，侧面轮廓与正面同等重要"
+    transferable_technique: "面板背面弧形延伸直接形成底座，消除传统支柱，可迁移至追求极薄侧视觉的任何显示设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_monitor_005"
+    source_images:
+      - filename: "35.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/显示器/35.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，深灰面板，底部织物底座含圆形按键，顶部摄像头轨道"
+    product_name: "Bestboard 会议一体显示器（正面视角）"
+    brand_name: "Bestboard"
+    brand_confidence: "high"
+    category_path: ["消费电子", "显示器", "会议显示器"]
+    design_language:
+      silhouette: "宽16:9面板 + 宽幅矩形织物底座，底座高度约为面板1/5，正面呈T字形轮廓"
+      light_opening: "16:9宽屏，细四边边框，顶部有摄像头轨道条"
+      thermal: "织物底座两侧为扬声器，推测内部有散热空间"
+      cmf:
+        color: "深灰/黑色面板 + 深灰织物底座 + 青绿色品牌accent"
+        material: "ABS面板 + 织物包覆底座底壳"
+        finish: "磨砂哑光面板，织物编织纹底座"
+      mounting: "一体式底座，底座为独立宽幅矩形单元"
+      signature_detail: "圆形大按键居中于织物底座正面，作为主交互触点，功能与美观结合"
+    design_level:
+      score: 4
+      reason: "与if_monitor_001为同款产品不同视角，正面视角更清晰展示织物底座与圆形按键细节，score与001一致"
+    design_tags: ["功能外显", "会议场景", "织物材质", "一体化设计", "H11功能外显", "H10材料表达"]
+    hero_feature: "织物底座正面圆形大按键 + 顶部摄像头轨道条"
+    problem_solved: "会议室显示设备将音频、视频、交互控制整合为一体，减少桌面设备数量"
+    transferable_technique: "织物材质用于大尺寸底座，软化科技感，提升家居/办公融合度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_monitor_006"
+    source_images:
+      - filename: "46.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/显示器/46.jpg"
+        image_role: "hero"
+        visual_anchor: "前后双机位展示，正面展示屏幕，背面展示攻击性棱线与ROG盾徽"
+      - filename: "57.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/显示器/57.jpg"
+        image_role: "detail"
+        visual_anchor: "俯视后背视角，底座红色LED环+中柱ROG徽标"
+    product_name: "ASUS ROG Swift 电竞显示器"
+    brand_name: "ASUS ROG"
+    brand_confidence: "high"
+    category_path: ["消费电子", "显示器", "电竞显示器"]
+    design_language:
+      silhouette: "16:9或21:9宽屏，正面窄边框，背面多面棱角切面，整体造型强调力量感"
+      light_opening: "16:9宽屏，三边极细边框，正面干净"
+      thermal: "背部大面积多边形切面造型兼顾散热与视觉冲击"
+      cmf:
+        color: "深灰/黑色主体 + 红色accent（底座LED环、背部线条）"
+        material: "ABS塑料背壳 + 金属支架立柱"
+        finish: "正面哑光，背面多切面哑光，底座拉丝金属"
+      mounting: "中央单立柱 + 方形底座，立柱可升降，底座含红色LED环"
+      signature_detail: "底座红色LED环光圈 + 背部ROG盾形徽章浮雕 + 多面切割背板棱线"
+    design_level:
+      score: 3
+      reason: "电竞风格语言完整，红色LED环与棱角切割是成熟ROG家族语言，执行到位但属于品类内常规高水准，无范式突破"
+    design_tags: ["电竞", "RGB灯效", "棱角切割", "ROG", "红黑配色", "H08对比强调", "H11功能外显"]
+    hero_feature: "底座红色LED发光环 + 背部多面切割棱线造型"
+    problem_solved: "电竞用户桌面场景强化游戏氛围，背部造型在多显示器排列时提供视觉统一性"
+    transferable_technique: "底座LED环光作为产品identity载体，不依赖屏幕发光，可迁移至其他需要环境光效的桌面设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

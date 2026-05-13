@@ -1,0 +1,497 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "H03_分件线设计"
+  secondary: "家电/音频/灯具/电动工具"
+  tertiary: ""
+
+source:
+  source_type: "technique_library"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H03_分件线设计/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "h03_appliance_001"
+    source_images:
+      - filename: "H03_appliance_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H03_分件线设计/H03_appliance_001.jpg"
+        image_role: "hero"
+        visual_anchor: "嵌入式烤箱正面：控制面板区与门体之间的水平分件线"
+    product_name: "嵌入式烤箱（Smeg品牌）"
+    brand_name: "Smeg"
+    brand_confidence: "low"
+
+    category_path:
+      - "H03_分件线设计"
+      - "家电"
+
+    design_language:
+      silhouette: "正方形正面，黑色钢化玻璃门体占据主体，上方控制面板区轻薄独立"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "主体哑光黑，分件线处铜色金属装饰条"
+        material: "钢化玻璃门体+铝合金控制面板+铜色金属饰条"
+        finish: "玻璃高光/面板哑光/饰条拉丝铜"
+      mounting: "嵌入式安装"
+      signature_detail: "三条水平分件线定义三个功能区：顶部控制面板与门体之间一条极细铜色金属条（约8mm宽）作为分界；门体内侧拉手位置再一条细槽线；整体以「面+线」的层叠逻辑将高档感推至最大"
+
+    design_level:
+      score: 4
+      reason: "分件线作为品牌签名元素使用，铜色饰条将功能分界升格为装饰语言，示范清晰"
+
+    design_tags:
+      - "H03分件线设计"
+      - "水平饰条分件"
+      - "CMF跨材质对比"
+      - "家电高端化"
+
+    hero_feature: "铜色金属水平分件条将控制面板与门体分隔，功能分界即设计签名"
+    problem_solved: "嵌入式烤箱正面极简但缺乏层次——用一条铜色线打破大面积黑色的单调"
+    transferable_technique: "用异材质横向饰条作为功能区分件线，线条宽度控制在6-12mm时视觉重量最优；可迁移至冰箱、洗碗机、洗衣机等白电产品的正面分区设计"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h03_appliance_002"
+    source_images:
+      - filename: "H03_appliance_002.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H03_分件线设计/H03_appliance_002.jpg"
+        image_role: "hero"
+        visual_anchor: "Smeg咖啡机主体与底座/侧面金属功能区之间的多条竖向和横向分件线"
+    product_name: "Smeg咖啡机（含研磨器型号）"
+    brand_name: "Smeg"
+    brand_confidence: "low"
+
+    category_path:
+      - "H03_分件线设计"
+      - "家电"
+
+    design_language:
+      silhouette: "复古方圆结合体型，顶部研磨仓+主机体+底座三段分件清晰"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "奶油色主壳体，不锈钢底座和功能区，铬色五金细节"
+        material: "ABS喷漆外壳+不锈钢底座+铸铝功能件"
+        finish: "主壳缎面/底座拉丝不锈钢/铬件镜面"
+      mounting: "台面放置"
+      signature_detail: "分件线系统呈「三层蛋糕」逻辑：①顶部研磨仓与主体之间的阶梯面分件线（高度差约15mm）；②主体与托盘之间的横向金属框条分件（材质突变：塑料→不锈钢）；③托盘镂空格栅面本身由均匀排列的细线构成参数化节奏。三条分件线同时用材质对比强化"
+
+    design_level:
+      score: 4
+      reason: "多层分件线叠加材质变化，将复杂功能布局梳理为清晰的视觉层级，手法丰富且易读"
+
+    design_tags:
+      - "H03分件线设计"
+      - "多层阶梯分件"
+      - "材质突变分件"
+      - "复古家电"
+
+    hero_feature: "塑料主体与不锈钢底座之间的材质突变分件线，将功能区分和档次感同时表达"
+    problem_solved: "桌面咖啡机功能部件众多，分件线梳理视觉顺序，避免零件感"
+    transferable_technique: "材质突变作为分件线——将同一产品中不同材料的交界处主动设计为清晰的水平或竖向线条，宽度0可行（直接撞口），5-10mm阶梯效果最强"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h03_audio_003"
+    source_images:
+      - filename: "H03_audio_003.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H03_分件线设计/H03_audio_003.jpg"
+        image_role: "hero"
+        visual_anchor: "Bang & Olufsen礼品包装盒系列：盒盖与盒底之间的精密分件线"
+    product_name: "Bang & Olufsen礼品包装系列"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "low"
+
+    category_path:
+      - "H03_分件线设计"
+      - "包装"
+
+    design_language:
+      silhouette: "系列化正方形/长方形礼品盒，4种尺寸，蓝色调统一"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "宝蓝色主色，亮蓝色品牌丝带"
+        material: "硬板礼品盒+缎面丝带"
+        finish: "哑光纸面/丝带高光"
+      mounting: "N/A"
+      signature_detail: "盒盖与盒体之间的精密分件缝（约1-2mm间隙）是包装设计中的分件线典型案例：缝隙均匀、四角90°无形变、开合感觉如精密机械。丝带覆盖在分件缝上，强化了「整体感→揭开→惊喜」的仪式感叙事"
+
+    design_level:
+      score: 3
+      reason: "包装盒的分件线应用，手法清晰但产品类型对工业设计迁移价值有限；作为分件线「精密控制」理念的佐证案例有价值"
+
+    design_tags:
+      - "H03分件线设计"
+      - "精密分件缝"
+      - "包装设计"
+      - "仪式感叙事"
+
+    hero_feature: "盒盖-盒体精密均匀分件缝，开合质感如精密仪器"
+    problem_solved: "礼品包装需要在视觉整体感与开合仪式感之间平衡，分件线控制两者"
+    transferable_technique: "精密分件缝的间隙控制逻辑（1-3mm为精密感甜区）可迁移至电子产品外壳、家电门盖、工具电池仓等需要强调「精工」感的产品接缝设计"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h03_audio_004"
+    source_images:
+      - filename: "H03_audio_004.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H03_分件线设计/H03_audio_004.jpg"
+        image_role: "hero"
+        visual_anchor: "Bang & Olufsen入耳式耳机耳柄：矩形铜色铝合金主体与黑色橡胶入耳部分之间的锐利分件线"
+    product_name: "Bang & Olufsen Beoplay EX 入耳耳机"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "low"
+
+    category_path:
+      - "H03_分件线设计"
+      - "音频"
+
+    design_language:
+      silhouette: "矩形条状主体横向穿过耳朵，极简几何造型"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "玫瑰金铜色金属主体+哑光黑橡胶入耳部分"
+        material: "铝合金外壳（阳极氧化）+硅胶耳帽"
+        finish: "金属镜面抛光/硅胶哑光"
+      mounting: "入耳佩戴"
+      signature_detail: "矩形铝合金耳柄与圆形黑色入耳嘴之间的「圆柱插入矩形」分件线——几何形态突变（方→圆）发生在约3mm宽的过渡区，形态对比极锐利；品牌名称激光雕刻于金属主体正面分件线附近，强化主角地位"
+
+    design_level:
+      score: 5
+      reason: "几何形态突变作为分件线手法的教科书级案例：方形金属体与圆形橡胶件的材质+形态双重对比，在极小尺寸内实现强烈视觉冲击"
+
+    design_tags:
+      - "H03分件线设计"
+      - "几何形态突变分件"
+      - "异材质分件"
+      - "小尺寸精密件"
+      - "音频产品"
+
+    hero_feature: "矩形金属耳柄与圆形入耳嘴的几何+材质双突变分件，塑造强烈形态对比"
+    problem_solved: "入耳耳机需要同时解决佩戴舒适（圆形软件）和外观档次（矩形硬件），分件线在两个需求之间做了清晰的视觉分野"
+    transferable_technique: "「硬件几何体+软性圆形接口」的分件模式可迁移至任何需要人体接触部件的产品：手柄与握持面、机身与按键、外壳与密封件"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h03_audio_005"
+    source_images:
+      - filename: "H03_audio_005.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H03_分件线设计/H03_audio_005.jpg"
+        image_role: "hero"
+        visual_anchor: "Bang & Olufsen Beoplay EX 耳机+充电盒：充电盒盖体分件线与耳机自身的方圆分件呼应"
+    product_name: "Bang & Olufsen Beoplay EX 耳机+充电盒套装"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "low"
+
+    category_path:
+      - "H03_分件线设计"
+      - "音频"
+
+    design_language:
+      silhouette: "充电盒：圆角方形，盒盖分件线居中水平环绕；耳机：矩形耳柄+圆形入耳嘴"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "玫瑰金铜色金属，充电盒与耳机配色统一"
+        material: "充电盒铝合金/耳机铝合金+硅胶"
+        finish: "整体镜面抛光铜色阳极氧化"
+      mounting: "手持/口袋携带"
+      signature_detail: "充电盒的水平分件线位于盒体中部1/2处，线条均匀环绕四周，盒盖开合沿此线分离——分件线同时承担三个角色：①开合功能引导线；②上下体量视觉均分；③与耳机矩形主体的边线形成家族感呼应"
+
+    design_level:
+      score: 4
+      reason: "充电盒与耳机的分件线语言形成家族系统，整套产品分件逻辑一致性强，示范套装产品分件设计的系统化方法"
+
+    design_tags:
+      - "H03分件线设计"
+      - "套装系统分件"
+      - "功能性分件线"
+      - "家族语言统一"
+
+    hero_feature: "充电盒环绕水平分件线与耳机矩形边线形成跨产品分件语言家族"
+    problem_solved: "耳机+充电盒作为套装产品，需要视觉统一性——分件线语言的一致性是解法"
+    transferable_technique: "套装/系列产品中统一分件线位置和厚度，可建立强烈的家族视觉认知；充电仓/收纳盒的分件线设计应与主产品分件线形成视觉呼应"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h03_bega_001"
+    source_images:
+      - filename: "H03_bega_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H03_分件线设计/H03_bega_001.jpg"
+        image_role: "hero"
+        visual_anchor: "Bega吊灯：圆柱形灯体中部的金属色水平分件环带，将白色灯罩分为上下两段"
+    product_name: "Bega吊灯（铜/金色环带款）"
+    brand_name: "Bega"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H03_分件线设计"
+      - "灯具"
+
+    design_language:
+      silhouette: "圆柱体吊灯，上下两个白色乳胶玻璃段，中间金属环带衔接"
+      light_opening: "漫射光，乳白玻璃360°发光"
+      thermal: "金属环带可能兼具散热环功能"
+      cmf:
+        color: "乳白色+铜色/金色（两款，图中各一）"
+        material: "乳胶玻璃灯罩+铝合金/铜合金中腰环带"
+        finish: "玻璃哑光乳白/金属拉丝"
+      mounting: "吊装（悬挂线）"
+      signature_detail: "「中腰金属环带」是Bega此系列的核心分件手法：环带宽约20-25mm，水平位于灯体约2/5处（非正中），将灯体分为上大下小两段；环带材质与上下灯罩形成强烈反差（金属光泽vs玻璃漫射光），环带本身成为灯具最强视觉锚点"
+
+    design_level:
+      score: 5
+      reason: "分件线即品牌签名——环带分件是灯具设计中将功能接缝升格为主设计元素的教科书级案例，可作为「装饰性分件线」的最佳参考"
+
+    design_tags:
+      - "H03分件线设计"
+      - "中腰环带分件"
+      - "装饰性分件线"
+      - "灯具"
+      - "Bega"
+
+    hero_feature: "金属中腰环带将白色玻璃灯体切分，环带即品牌签名"
+    problem_solved: "圆柱形灯具造型简单易平庸，中腰分件环带注入层次感并建立品牌识别"
+    transferable_technique: "「中腰金属环带」手法可直接迁移至任何圆柱/方柱形产品——灯具、水杯、音箱、手电筒等；环带宽度15-30mm时视觉重量最优；环带位置偏离中点约1/5时（黄金分割感）比正中更生动"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h03_dewalt_001"
+    source_images:
+      - filename: "H03_dewalt_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H03_分件线设计/H03_dewalt_001.jpg"
+        image_role: "hero"
+        visual_anchor: "DeWalt 60V搅拌钻套装：钻机主体黄/黑功能区分件线网络"
+    product_name: "DeWalt FLEXVOLT 60V MAX 搅拌钻（含充电器/电池/包）"
+    brand_name: "DeWalt"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H03_分件线设计"
+      - "电动工具"
+
+    design_language:
+      silhouette: "T字型电钻造型，马达头部圆柱+手柄+电池仓三段"
+      light_opening: "N/A（非灯具）"
+      thermal: "马达外壳侧面百叶散热槽，散热槽排列构成横向线条节奏"
+      cmf:
+        color: "DeWalt黄+哑光黑，黑色包胶区与黄色外壳的分件线即功能分区"
+        material: "玻纤增强尼龙外壳+TPU包胶握持区+金属卡盘"
+        finish: "外壳半哑光/包胶软纹"
+      mounting: "手持"
+      signature_detail: "DeWalt分件线系统呈「功能图解」逻辑：黑色包胶区与黄色外壳的边界线精确标注「用手握这里」的人机信息；马达与手柄之间的环形分件线定义产品重心；电池仓与机身的插接分件线提示可拆卸——3条主分件线各自承担不同的用户信息传达功能"
+
+    design_level:
+      score: 4
+      reason: "分件线兼具CMF对比（黄/黑）和功能指引（握哪里/如何拆）双重功能，是工具类产品分件线最佳实践"
+
+    design_tags:
+      - "H03分件线设计"
+      - "功能指引分件线"
+      - "双色对比分件"
+      - "电动工具"
+      - "DeWalt"
+
+    hero_feature: "黑色包胶与黄色壳体的分件线即人机工学地图，用颜色+材质双重对比标注功能区"
+    problem_solved: "电动工具功能区域多且复杂，用户需要快速识别握持/操作/拆装区域，分件线是最直接的解法"
+    transferable_technique: "「颜色+材质双重对比分件」可迁移至所有手持工具/设备：分件线颜色=功能区颜色编码（黑=握持，黄/主色=机身），可用于园林工具、户外装备、医疗器械等任何需要快速传达人机信息的产品"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h03_dewalt_002"
+    source_images:
+      - filename: "H03_dewalt_002.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H03_分件线设计/H03_dewalt_002.jpg"
+        image_role: "hero"
+        visual_anchor: "DeWalt 20V角磨机：沿机身纵向延伸的黄/黑功能区分件线"
+    product_name: "DeWalt 20V MAX 角磨机（BRUSHLESS）"
+    brand_name: "DeWalt"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H03_分件线设计"
+      - "电动工具"
+
+    design_language:
+      silhouette: "长轴型，后端电池仓+中段机身+前端角磨头的三段线性布局"
+      light_opening: "N/A（非灯具）"
+      thermal: "机身侧面多条平行散热槽，形成横向节奏线"
+      cmf:
+        color: "DeWalt黄（机身中段）+哑光黑（前后功能端）"
+        material: "玻纤增强尼龙外壳+金属角磨头护罩+TPU开关键"
+        finish: "外壳半哑光/黑色区域软质感"
+      mounting: "双手手持"
+      signature_detail: "角磨机的分件线呈「三明治」结构：黑色马达头—黄色机身中段—黑色电池仓尾，两条环向分件线将黄色机身段切出，形成中段高亮的视觉重心；机身两侧散热槽的水平线条节奏与分件线方向一致，强化横向节奏感"
+
+    design_level:
+      score: 4
+      reason: "「黑-黄-黑」三明治分件结构在角磨机这种线性长轴产品上特别有效，同时解决重心识别和品牌语言统一的问题"
+
+    design_tags:
+      - "H03分件线设计"
+      - "三明治分件结构"
+      - "线性产品分件"
+      - "电动工具"
+      - "DeWalt"
+
+    hero_feature: "「黑-黄-黑」三明治环向分件线定义产品视觉重心和品牌色块"
+    problem_solved: "角磨机等线性长轴工具容易显得单调，三明治分件结构注入视觉节奏"
+    transferable_technique: "「深色端-浅色中-深色端」三明治分件逻辑适用于所有线性长轴产品（手电筒、水平仪、注射器等）；中段占总长的30-45%时比例最优"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h03_festool_001"
+    source_images:
+      - filename: "H03_festool_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H03_分件线设计/H03_festool_001.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool CTL SYS吸尘器后视图：上下两段外壳之间的水平分件线，及下段控制面板区的嵌入式分件"
+    product_name: "Festool CTL SYS 吸尘器"
+    brand_name: "Festool"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H03_分件线设计"
+      - "电动工具"
+
+    design_language:
+      silhouette: "方形箱体，银色金属拉丝上壳+黑色功能下壳，四角圆润"
+      light_opening: "N/A（非灯具）"
+      thermal: "散热通过内部气流，外部不可见"
+      cmf:
+        color: "银色（铝合金质感上壳）+哑光黑（下段功能区）"
+        material: "铝合金纹理喷漆上壳+ABS哑光下壳+绿色硅胶控制键"
+        finish: "上壳拉丝银/下壳软质哑光/按键荧光绿"
+      mounting: "Systainer系统叠放，可与其他Festool工具箱对接"
+      signature_detail: "Festool系统化分件逻辑：上壳（银色，储物/气路）与下壳（黑色，电气/控制）之间的水平分件线在机器后侧和侧面清晰可见，宽约3mm的阶梯缝；下壳中控制面板区域内嵌入一个小型黑色矩形面板，形成「壳中壳」二级分件；顶部进气口网格覆盖于上壳与下壳分件线附近，三者共同构成完整的分件线体系"
+
+    design_level:
+      score: 4
+      reason: "工业级产品分件线的清晰示范：材质对比（银/黑）+阶梯缝+嵌入式二级分件，体系完整"
+
+    design_tags:
+      - "H03分件线设计"
+      - "材质对比分件"
+      - "嵌入式二级分件"
+      - "系统化产品"
+      - "Festool"
+
+    hero_feature: "银色上壳与黑色下壳的水平分件线，材质+颜色双重对比区分储物功能区和电气控制区"
+    problem_solved: "工业吸尘器功能分区复杂，分件线视觉化表达内部功能边界，辅助用户理解产品"
+    transferable_technique: "「浅色储物/机械区+深色电气/控制区」的水平分件逻辑可迁移至所有含控制面板的工具/设备；分件线位置对应内部功能边界时，产品「自我说明」能力最强"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h03_festool_002"
+    source_images:
+      - filename: "H03_festool_002.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H03_分件线设计/H03_festool_002.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool CTLC SYS I吸尘器正面：上银下黑分件线+绿色触控按键面板的嵌入式二级分件"
+    product_name: "Festool CTLC SYS I 无线吸尘器"
+    brand_name: "Festool"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H03_分件线设计"
+      - "电动工具"
+
+    design_language:
+      silhouette: "正方形正面，比festool_001更方正，无顶部进气网格（无线版）"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "银色上壳+哑光黑下壳+绿色荧光触控按键"
+        material: "铝合金纹理上壳+ABS下壳+触控玻璃面板（含绿色LED图标）"
+        finish: "上壳拉丝银/下壳软哑光/触控面板钢化玻璃"
+      mounting: "Systainer系统叠放"
+      signature_detail: "正面分件线体系最完整：①上银/下黑的主水平分件线清晰位于机体1/2处；②下半部中央嵌入一块黑色触控玻璃面板（约占下半面积40%），形成「壳中壳」二级分件；③面板内绿色LED图标（电源/风量/WiFi等）构成第三层信息分件——三层分件系统在一个正面内高度组织"
+
+    design_level:
+      score: 5
+      reason: "三层分件线嵌套体系的教科书案例：主壳分件（银/黑）→面板嵌入分件→图标信息分件，层级逻辑极清晰，是工业产品「分件即信息架构」的最佳示范"
+
+    design_tags:
+      - "H03分件线设计"
+      - "三层嵌套分件"
+      - "信息架构分件"
+      - "触控面板嵌入"
+      - "Festool"
+
+    hero_feature: "三层嵌套分件系统：外壳色块分件→控制面板嵌入→LED图标信息层，分件即信息架构"
+    problem_solved: "工业吸尘器需要在有限正面空间内传达大量操作信息，三层分件将信息层级化"
+    transferable_technique: "「主壳分件→功能面板嵌入→图标/显示信息层」的三层嵌套分件逻辑是通用信息密集型产品的设计语言框架，可迁移至工业控制器、医疗设备面板、智能家居设备等"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""

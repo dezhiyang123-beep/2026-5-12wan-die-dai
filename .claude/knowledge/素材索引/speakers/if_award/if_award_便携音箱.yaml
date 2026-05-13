@@ -1,0 +1,192 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "便携音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/便携音箱/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_portable_001"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/便携音箱/19.jpg"
+        image_role: "hero"
+        visual_anchor: "正背面双视图，展示侧面滚轮旋钮与铝合金机身"
+      - filename: "20.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/便携音箱/20.jpg"
+        image_role: "detail"
+        visual_anchor: "斜45°透视，突出侧面凸出滚轮与顶部金色接口集群"
+    product_name: "Astell&Kern KANN"
+    brand_name: "Astell&Kern"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "竖向矩形板状，四角轻倒角，正面大面积触控屏占据约60%面积，背面平整，侧面突出圆柱滚轮旋钮为最强识别点"
+      light_opening: "顶面密集排列3.5mm/2.5mm/4.4mm多接口，无透音格栅（非扬声器功能为主）"
+      thermal: "铝合金机身本体散热，无独立散热开口"
+      cmf:
+        color: "深空灰（gunmetal）整体，红色细线点缀滚轮边缘"
+        material: "航空铝合金机身，Gorilla Glass屏幕"
+        finish: "喷砂阳极氧化哑光，细腻磨砂质感"
+      mounting: "手持竖握，无挂绳孔"
+      signature_detail: "侧面大直径铝合金滚轮旋钮，带红色光晕装饰线；顶部密集专业接口阵列"
+    design_level:
+      score: 5
+      reason: "顶级便携Hi-Fi播放器，材质工艺与工业设计均达专业级；侧面滚轮是极强品牌识别特征；多平衡口设计彰显高端定位"
+    design_tags: ["Hi-Fi", "旋钮控制", "铝合金机身", "多接口", "竖向矩形", "触控屏", "专业音频"]
+    hero_feature: "侧面大直径铝合金滚轮旋钮，带红色装饰光晕，物理感极强"
+    problem_solved: "高解析度便携音频播放需要精准音量调节，触控屏操控不够直觉，旋钮提供机械操控精准感"
+    transferable_technique: "侧面凸出滚轮旋钮作为主控件，与扁平机身形成强对比，兼顾握持手感与视觉记忆点；红色细线点缀灰色金属的高级感配色法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_portable_002"
+    source_images:
+      - filename: "42.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/便携音箱/42.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝色配色版本，正面3/4视角，绑绳挂圈在顶部"
+      - filename: "54.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/便携音箱/54.jpg"
+        image_role: "colorway"
+        visual_anchor: "黑色配色版本，相同视角"
+    product_name: "便携方块蓝牙音箱（品牌待确认）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "圆角正方形扁平体，上盖蜂窝网格透音面，下部围边较厚实，整体砖块感强"
+      light_opening: "正面全面积蜂窝微孔网格，均匀分布"
+      thermal: "无明显散热结构"
+      cmf:
+        color: "双色：上盖蓝灰/黑色，下围框深海军蓝/深黑，侧面荧光黄绿色橡胶带点缀"
+        material: "硬质塑料机身，橡胶侧边防护带，编织挂绳"
+        finish: "上盖哑光金属质感涂层，下围磨砂硬塑料"
+      mounting: "顶部编织挂绳圈，可挂扣携带"
+      signature_detail: "荧光黄绿色橡胶侧面束带横跨机身，与暗色主体形成强对比；顶部编织绳挂圈"
+    design_level:
+      score: 3
+      reason: "设计语言清晰，双色撞色手法有效，挂绳设计实用；整体属于主流蓝牙音箱范式，无突破性创新"
+    design_tags: ["方形", "挂绳", "双色撞色", "蜂窝网格", "户外便携", "荧光点缀", "防护橡胶带"]
+    hero_feature: "荧光黄绿色橡胶侧带横穿暗色机身，强烈视觉对比形成即时识别"
+    problem_solved: "户外场景需要易携带、耐摔、识别度高的音箱，挂绳+橡胶防护带解决携带与保护需求"
+    transferable_technique: "单色高饱和度功能性橡胶带横跨机身的设计语言，既有防护功能又是主视觉元素，一物多用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_portable_003"
+    source_images:
+      - filename: "90.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/便携音箱/90.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色背景戏剧性布光，斜透视展示金色大旋钮与前面板接口"
+    product_name: "Sony便携耳放/DAC（型号待确认）"
+    brand_name: "Sony"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向矩形砖块体，长宽比约3:1，前面板集中所有接口与控制，顶面平整带少量按键"
+      light_opening: "无透音开口（耳放/DAC功能，非扬声器）"
+      thermal: "全封闭铝合金机身自散热"
+      cmf:
+        color: "哑光黑铝合金机身，大直径金色旋钮为唯一彩色元素"
+        material: "阳极氧化铝合金机身，黄铜或镀金铝合金旋钮"
+        finish: "机身喷砂哑光黑，旋钮拉丝金色，对比强烈"
+      mounting: "桌面平放或手持横握"
+      signature_detail: "前面板超大直径金色圆形音量旋钮，占前面板近1/3高度，极度强调存在感"
+    design_level:
+      score: 4
+      reason: "黑金配色与超大旋钮的组合极具高端仪器感，设计语言克制有力；专业感与美观度平衡出色"
+    design_tags: ["黑金配色", "大旋钮", "砖块形态", "Hi-Fi", "铝合金", "专业仪器感", "戏剧布光"]
+    hero_feature: "超大直径金色旋钮从哑光黑机身中突出，单一焦点极强，器材感十足"
+    problem_solved: "Hi-Fi耳放需要精确音量控制且外观传递高端感，大旋钮在视觉与操作上同时解决"
+    transferable_technique: "全黑底色+单一金色超大旋钮的极简对比法，以最少元素制造最强视觉冲击；旋钮尺寸远超功能需要，成为设计主角"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "产品为耳放/DAC而非传统扬声器，归类于便携音箱需确认是否合适"
+
+  - product_id: "if_portable_004"
+    source_images:
+      - filename: "94.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/便携音箱/94.jpg"
+        image_role: "hero"
+        visual_anchor: "四色版本组合展示，圆形扁平体+编织绳挂绳，手持使用场景"
+    product_name: "圆形便携蓝牙音箱（品牌待确认）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "正圆形扁平饼状，上盖平行条纹网格透音面，下围为不同色彩的弧形围边，近似碗形截面"
+      light_opening: "正面全面积平行细槽条纹透音格栅，间距均匀，线条感强"
+      thermal: "无独立散热结构"
+      cmf:
+        color: "撞色双色：上盖深绿/蓝色/橙红，下围黄色/橙色/蓝色，每款均为高饱和对比色组合"
+        material: "塑料机身，编织绳挂绳"
+        finish: "哑光塑料，条纹网格面有细微质感"
+      mounting: "编织绳穿过顶部，可挂颈携带或手持"
+      signature_detail: "上下两色鲜明分割的圆饼造型；平行细密条纹透音格栅与光滑围边的质感对比"
+    design_level:
+      score: 4
+      reason: "圆形饼状形态在便携音箱中辨识度极高；撞色方案大胆有活力；条纹格栅细节精致；整体设计年轻感强且功能明确"
+    design_tags: ["圆形", "饼状", "撞色", "条纹格栅", "编织绳", "挂颈", "高饱和配色", "户外"]
+    hero_feature: "正圆形扁平体加双色撞色围边，配合条纹格栅，形成强烈几何识别感"
+    problem_solved: "便携音箱需要易携带且有个性，圆形+挂绳设计如同配饰，解决携带方式与个性表达"
+    transferable_technique: "将产品形态对齐某一简单几何原型（正圆），配合上下撞色分割，强化形态记忆点；挂绳作为配饰化设计元素"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_portable_005"
+    source_images:
+      - filename: "98.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/便携音箱/98.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视图，X形橙色机身+白色电缆脊骨+两侧圆形扬声器单元"
+    product_name: "X形双声道便携音箱（品牌待确认）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "X字形/蝴蝶结形轮廓，左右各一圆形扬声器单元嵌入端部，中心脊骨为白色电缆收纳管束，整体极具雕塑感"
+      light_opening: "左右两端圆形扬声器金属网罩，白色网格"
+      thermal: "无独立散热结构"
+      cmf:
+        color: "高饱和橙色主体，白色电缆脊骨，银色金属网扬声器罩"
+        material: "硬质塑料机身，金属扬声器网罩，橡胶或软塑料电缆管束"
+        finish: "橙色哑光塑料，白色管束哑光，扬声器网罩光亮银"
+      mounting: "平放或竖立，底部带3.5mm音频线直连"
+      signature_detail: "中心白色多管束电缆脊骨作为结构骨架可视化元素；X形整体轮廓在音箱品类中极度罕见"
+    design_level:
+      score: 5
+      reason: "形态完全突破音箱品类惯例，X形轮廓+电缆骨架可视化+双声道物理分离，每个细节都在强调功能逻辑；概念完整度极高，是品类假设挑战的优秀案例"
+    design_tags: ["X形轮廓", "双声道", "电缆可视化", "雕塑感", "功能外显", "橙色", "有线连接", "品类突破"]
+    hero_feature: "X字形整体轮廓将双声道物理分离可视化，中心白色电缆管束既是功能结构又是设计主角"
+    problem_solved: "双声道音箱通常为两个独立单元，X形一体化设计将两个声道整合为单一可握持对象，同时令立体声分离感直觉可见"
+    transferable_technique: "将产品内部功能结构（声道分离、线缆路径）外显为设计造型，功能即形态；使用非常规轮廓形态彻底区隔品类惯例"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

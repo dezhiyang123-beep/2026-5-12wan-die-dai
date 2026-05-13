@@ -1,0 +1,174 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "手电·工作灯"
+  tertiary: "头灯"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/手电·工作灯/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "biolite_手电工作灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/手电·工作灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "灰色矩形头灯模组 + 灰色宽弹力头带，顶部双按键，中央大型圆形主光源 + 周围泛光LED阵列，右侧窄红色LED指示条"
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/手电·工作灯/02.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款头灯，全橙色配色（头带+灯头模组），BioLite品牌标志性橙色"
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/手电·工作灯/03.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款头灯，薄荷绿/鼠尾草绿配色，头带与灯头模组颜色统一"
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/手电·工作灯/04.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款头灯，天蓝色配色，头带与灯头模组颜色统一"
+    product_name: "BioLite HeadLamp 325 / HeadLamp 330（四色款）"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+      - "头灯"
+    design_language:
+      silhouette: "扁平矩形灯头模组，四角圆润，水平宽于高，整体低矮紧凑；宽扁头带从灯头两侧自然延伸成完整圆环；灯头模组通过弧形颈部与头带融为一体"
+      light_opening: "大型矩形透明面板覆盖整个灯头正面，内部可见：中央单一圆形聚光LED（主光束，点-泛可调）+ 周围4-6颗泛光LED阵列（近场宽泛光）；右侧边框集成窄红色LED条（夜视/信号模式）"
+      thermal: "全塑料外壳无独立散热结构，灯头体积小，热量通过塑料壳体自然散热；无散热鳍片"
+      cmf:
+        color: "四色可选：charcoal灰（标准）/ 橙色（品牌标志色）/ 薄荷绿 / 天蓝色；同色系策略，头带与灯头模组颜色完全一致；红色LED条在所有配色中保持统一"
+        material: "灯头：哑光ABS工程塑料；透明面板：PC透明件；头带：针织弹力织物（宽约25mm）；扣件：硬质ABS"
+        finish: "灯头外壳：细腻磨砂哑光；透明面板：轻微磨砂半透明（散光效果）；头带：织物纹理"
+      mounting: "弹力头带固定，单圈设计（无后脑勺额外固定带），灯头固定角度不可调（不带俯仰转轴）"
+      signature_detail: "顶部双功能按键（两个独立圆形按键并排）；灯头-头带一体式颜色方案让产品极具视觉辨识度；红色LED条在外观上形成色彩对比亮点"
+    design_level:
+      score: 3
+      reason: "整体配色系统和色彩统一策略执行一致，四色差异化做得清晰；但灯头造型较平庸，无强烈记忆点；透明面板设计功能清晰但视觉吸引力有限"
+    design_tags:
+      - "头灯"
+      - "color_system"
+      - "单圈头带"
+      - "混合光源（聚光+泛光）"
+      - "红色信号灯"
+      - "低矮矩形灯头"
+      - "全色系统一"
+      - "户外运动"
+      - "USB充电"
+    hero_feature: "同款灯头四色可选（灰/橙/绿/蓝），头带与灯头同色，视觉高度统一；红色侧边LED条在任意配色下形成固定对比点"
+    problem_solved: "户外徒步/露营需要兼顾远场聚光与近场宽泛光，同时夜间保留夜视能力（红光）；多色选项满足个性化偏好"
+    transferable_technique: "头带与灯头模组颜色完全一致的「单色系」设计策略，可迁移至其他可穿戴设备/运动装备；红色功能色在主色系外独立存在的配色逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "biolite_手电工作灯_002"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/手电·工作灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "天蓝色大型矩形头灯模组，灯头明显比001系列更宽更大，顶部单一长条形按键，中央单颗大型LED + 面板内多颗散布LED，角度为更正面的视角"
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/手电·工作灯/06.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款灯头，深炭灰色配色；同样宽大矩形灯头，单条按键，透明面板内可见多颗LED"
+    product_name: "BioLite HeadLamp 800 / HeadLamp 800 Pro（大功率款）"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+      - "头灯"
+    design_language:
+      silhouette: "比HeadLamp 325更宽大的矩形灯头，横向尺寸明显增大，高宽比更扁（约1:1.6）；四角圆润但转角半径比小款略小显得更结实；整体体量感更强，偏专业/高性能视觉语言"
+      light_opening: "更大尺寸透明矩形面板，内部可见单颗大型中央主光源LED（高流明点光源）+ 面板四周分布多颗辅助泛光LED；面板宽度占据灯头正面大部分面积；无独立红色LED条"
+      thermal: "更大灯头体积提供更多散热面积；全塑料外壳，依赖表面积散热；高功率输出时可能需要更好散热管理，但外观上无独立散热设计"
+      cmf:
+        color: "天蓝色（深蓝调）/ 深炭灰色两款；延续同色系策略（头带与灯头同色）；配色选择更偏向专业/功能性审美，无鲜艳橙色选项"
+        material: "灯头：哑光ABS工程塑料（更厚实感）；透明面板：PC透明件；头带：针织弹力织物；扣件：硬质ABS"
+        finish: "灯头外壳：哑光磨砂；透明面板：轻微纹理半透明；整体质感比小款略微扎实"
+      mounting: "弹力头带单圈固定，灯头角度不可调；头带宽度与001系列相近"
+      signature_detail: "顶部单一长条形按键（区别于001系列的双圆形按键）；更大的透明面板营造更强的视觉冲击力；灯头体量与专业级登山灯相当"
+    design_level:
+      score: 3
+      reason: "形态语言与001系列高度一致，产品线系列感强；更大尺寸体量传递高性能信号；但造型创新度有限，属于功能驱动的扩展设计"
+    design_tags:
+      - "头灯"
+      - "大功率"
+      - "宽矩形灯头"
+      - "单条按键"
+      - "混合光源"
+      - "全色系统一"
+      - "专业登山"
+      - "USB充电"
+      - "高流明"
+    hero_feature: "更宽大的矩形灯头在视觉上直接传达高功率/高流明的产品定位；大面积透明面板使LED阵列一目了然"
+    problem_solved: "专业登山、极限户外需要高流明（800lm+）远射照明，同时保留近场泛光能力"
+    transferable_technique: "通过灯头尺寸直接暗示产品性能级别的设计语言；同一产品线内通过按键形态（双圆形 vs 单长条）区分产品层级"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "biolite_手电工作灯_003"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/手电·工作灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝色跑步头灯，灯头为小型横向矩形模组（两个并排圆形LED开口），后脑勺独立电池包模组，双层头带（外蓝色宽带+内灰色宽织物带），反光条覆盖半圈头带"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/手电·工作灯/10.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款跑步头灯，深炭灰/黑色配色；灯头为深灰色模组，头带外层黑色+内层灰色织物"
+    product_name: "BioLite HeadLamp CORE（跑步款）"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+      - "头灯"
+    design_language:
+      silhouette: "极度扁薄的横向矩形灯头模组（宽约60mm，高约25mm），贴合前额曲面；灯头侧面有矩形透明窗口状造型特征；后脑勺独立电池包（约30x25x20mm圆角矩形）通过头带固定；整体前轻后重架构（重量前后分布）；双层头带系统"
+      light_opening: "双LED并排设计：两个独立圆形开口并排水平排列（类似车灯组DRL设计语言），每个开口内一颗高性能LED；无周围散布LED，纯点光源双灯配置；适合跑步时的定向照明"
+      thermal: "灯头极薄，散热面积小；高功率运行时依赖被动散热；电池模组分离到后脑可能也有助于热管理"
+      cmf:
+        color: "蓝色+青绿色灯头双色撞色（蓝色外框+青绿色灯头主体）/ 深炭灰+黑色双色；双层头带：外层彩色宽带+内层灰色接触皮肤层；反光条贯穿整个头带外圈"
+        material: "灯头：ABS硬塑料；头带外层：弹力织物（宽约30mm）；头带内层：灰色吸湿排汗织物；电池包：ABS硬壳；扣件：ABS+金属夹片"
+        finish: "灯头：哑光；电池包：哑光；头带：织物纹理；反光条：高反光镀铝织物"
+      mounting: "双层头带固定系统：外彩色宽带承力+内灰色织物贴合头部；后脑独立电池包通过专用扣件固定在头带顶部；灯头与头带连接处有可见金属/硬塑料侧夹，可能支持小角度俯仰调节"
+      signature_detail: "双LED并排开口（车灯式DRL语言）极具辨识度；后脑独立电池包平衡前后重量分布；反光条360度环绕确保夜间可见性；双层头带（内外分离）符合运动头灯人体工程学"
+    design_level:
+      score: 4
+      reason: "产品架构创新（前后分体式）解决了跑步头灯的重心平衡痛点；双LED开口的DRL式设计语言独特且辨识度高；双层头带系统工程与美学兼顾；整体设计语言明显区别于普通登山头灯，专为跑步场景优化"
+    design_tags:
+      - "头灯"
+      - "跑步头灯"
+      - "前后分体式"
+      - "双LED并排"
+      - "DRL设计语言"
+      - "双层头带"
+      - "反光条"
+      - "后脑电池包"
+      - "重量分布优化"
+      - "运动专用"
+      - "USB充电"
+    hero_feature: "前后分体架构：灯头轻薄贴额，电池包置于后脑，重量前后均衡——这是跑步头灯区别于登山头灯的核心架构差异；双并排LED开口的独特视觉语言"
+    problem_solved: "跑步时传统头灯重量集中在额头导致跑步晃动和不适，分体式设计将电池移至后脑使头部重量分布均衡；双LED提供充足跑步照明宽度"
+    transferable_technique: "前后分体式重量分布架构可迁移至其他可穿戴照明/设备；DRL式双灯并排开口设计语言可迁移至工作灯/手持灯产品；双层头带（外力+内舒适）分层策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

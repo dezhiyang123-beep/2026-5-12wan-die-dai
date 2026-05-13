@@ -1,0 +1,184 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "头灯"
+  tertiary: "高显色头灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/高显色头灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_高显色头灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/高显色头灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "宽幅横向矩形灯头，12颗LED 2行6列满铺阵列，前视正面对称构图，黑底黄边宽头带"
+    product_name: "Nitecore HC系列 高显色头灯（12LED宽幅款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "高显色头灯"]
+    design_language:
+      silhouette: "宽幅扁矩形灯头，横向跨度大，视觉厚重感强，正面呈现强烈对称感"
+      light_opening: "12颗LED 2行6列满铺阵列，灯面占灯头正面比例极高，工业感强烈"
+      thermal: "无专用外置散热结构，灯头体积较大依靠壳体面积自然散热"
+      cmf:
+        color: "全黑主体，黑底黄边宽头带"
+        material: "工程塑料壳体，织物宽头带"
+        finish: "哑光黑"
+      mounting: "宽头带两端通过灯头两侧大型卡扣固定，支撑强度高"
+      signature_detail: "12LED满铺正面布局形成强烈视觉密度，工程照明属性一目了然"
+    design_level:
+      score: 4
+      reason: "12LED满铺阵列在头灯品类中视觉冲击力强，宽幅比例独特，工程/作业感突出"
+    design_tags: ["12LED满铺", "高显色", "宽幅灯头", "工程照明", "大面积均匀光"]
+    hero_feature: "2×6 LED满铺阵列，正面几乎全为光源面，传达极高光通量与均匀照射"
+    problem_solved: "需要高显色指数均匀照明的工作场景（珠宝、艺术修复、医疗辅助、精细作业）"
+    transferable_technique: "多LED满铺阵列形成「光墙」视觉效果，可迁移至工作灯、任务灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_高显色头灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/高显色头灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "宽幅灯头带大型旋转调节旋钮，10颗LED 2行5列，双侧圆柱旋钮为独特识别点，黄边黑底头带"
+    product_name: "Nitecore HC系列 高显色头灯（旋钮调节款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "高显色头灯"]
+    design_language:
+      silhouette: "宽体灯头两侧各有一个圆柱形大旋钮，整体呈哑铃状轮廓，与常规头灯差异显著"
+      light_opening: "10颗LED 2行5列阵列，配透明防护面板，灯面周围有金属边框保护"
+      thermal: "无专用外置散热翅片，旋钮体积协助分散热量"
+      cmf:
+        color: "黑色主体 + 金属灰旋钮，黄边黑底头带"
+        material: "工程塑料 + 金属旋钮，织物头带"
+        finish: "主体哑光黑，旋钮拉丝金属感"
+      mounting: "双旋钮同时作为灯头与头带的连接枢纽，旋钮旋转控制亮度/色温"
+      signature_detail: "双侧大旋钮作为操控与安装的双功能设计，形态识别度极高"
+    design_level:
+      score: 5
+      reason: "双旋钮哑铃形轮廓在头灯品类中独一无二，功能与形态高度统一，记忆点强烈"
+    design_tags: ["双旋钮", "色温调节", "高显色", "哑铃轮廓", "专业作业"]
+    hero_feature: "双侧圆柱旋钮既是安装节点又是调光控件，形态与功能合一"
+    problem_solved: "精细作业场景需要连续无极调光和色温切换，旋钮比按键提供更精准的手感控制"
+    transferable_technique: "旋钮作为灯头枢纽节点的双功能设计手法，可迁移至工作灯臂节点设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_高显色头灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/高显色头灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "宽幅灯头带双侧旋钮（侧视角），灯头可俯仰旋转，控制区在顶部，黄边黑底头带"
+    product_name: "Nitecore HC系列 高显色头灯（旋钮款侧视）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "高显色头灯"]
+    design_language:
+      silhouette: "侧视角清晰呈现灯头俯仰铰接结构，旋钮圆柱体从灯头两侧伸出，顶部有操控滑块"
+      light_opening: "LED阵列从侧面角度可见边缘，强调灯头的可旋转仰角功能"
+      thermal: "无专用散热结构"
+      cmf:
+        color: "黑色主体，金属旋钮，黄边头带"
+        material: "工程塑料 + 金属旋钮，织物头带"
+        finish: "哑光黑主体，金属拉丝旋钮"
+      mounting: "旋钮轴承连接方式，灯头可绕旋钮轴俯仰旋转调节照射角度"
+      signature_detail: "旋钮轴心即为灯头仰角铰接轴，一个零件实现三种功能：调光+连接+转向"
+    design_level:
+      score: 4
+      reason: "侧视角验证了旋钮的三合一功能设计，工程逻辑扎实，结构美感来自功能本身"
+    design_tags: ["旋转仰角", "三合一旋钮", "高显色", "铰接结构", "专业工作"]
+    hero_feature: "旋钮同时实现调光控制、头带连接、仰角旋转三种功能的极简结构"
+    problem_solved: "需要精确调节照射角度同时进行连续调光的精细作业场景"
+    transferable_technique: "单轴三功能节点设计（连接+转向+控制），可迁移至可调角度工作灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_高显色头灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/高显色头灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "宽幅灯头正面特写，8颗LED 2行4列阵列，无旋钮款，黄边黑底头带正面视角"
+    product_name: "Nitecore HC系列 高显色头灯（8LED无旋钮款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "高显色头灯"]
+    design_language:
+      silhouette: "宽幅矩形灯头，较前两款更紧凑，无侧旋钮，正面对称构图，灯头顶部有控制按键区"
+      light_opening: "8颗LED 2行4列阵列，布局均衡，面板周围有轻微内凹保护边框"
+      thermal: "无专用散热结构，体积较旋钮款小，散热依靠壳体"
+      cmf:
+        color: "全黑主体，黄边黑底头带"
+        material: "工程塑料，织物头带"
+        finish: "哑光黑"
+      mounting: "固定卡扣连接头带，无旋转轴，灯头固定角度或通过铰接小角度调节"
+      signature_detail: "8LED 2×4阵列形成视觉上的「灯阵感」，比普通单双灯款密度感强"
+    design_level:
+      score: 3
+      reason: "8LED阵列有一定视觉分量，但无旋钮的固定式设计相比旋钮款功能简化，造型记忆点弱"
+    design_tags: ["8LED阵列", "高显色", "固定角度", "均匀照明", "入门高显色"]
+    hero_feature: "2×4 LED均匀阵列，宽幅灯面提供均匀高显色漫射光"
+    problem_solved: "需要高显色指数但预算有限、无需连续调光的轻度专业场景"
+    transferable_technique: "规整LED阵列布局在灯头正面形成视觉秩序感，比随机布局更具专业感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_高显色头灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/高显色头灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "宽幅灯头侧视带旋钮，6颗LED横排，旋钮更小更纤细，黑底黄边头带，整体更修长"
+    product_name: "Nitecore HC系列 高显色头灯（小旋钮修长款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "高显色头灯"]
+    design_language:
+      silhouette: "修长横向矩形灯头，侧旋钮尺寸更小更纤细，整体比例比宽幅旋钮款更修长轻盈"
+      light_opening: "6颗LED横排一行，灯面紧凑，光斑更集中"
+      thermal: "无专用散热结构"
+      cmf:
+        color: "黑色主体 + 深灰小旋钮，黑底黄边头带"
+        material: "工程塑料 + 较小金属旋钮，织物头带"
+        finish: "哑光黑主体，旋钮轻微拉丝质感"
+      mounting: "小旋钮轴连接，灯头仍可旋转调角，但操控手感相对12LED款更轻巧"
+      signature_detail: "修长比例 + 小旋钮组合，在保留旋钮功能特征同时降低体积重量"
+    design_level:
+      score: 3
+      reason: "旋钮设计延续品类识别性，但体积缩小后灯头比例修长，设计语言协调但无额外突破"
+    design_tags: ["小旋钮", "修长比例", "高显色", "轻量化", "户外高显色"]
+    hero_feature: "保留旋钮调控特征但体积大幅缩减，在轻量与专业控制之间取得平衡"
+    problem_solved: "户外使用场景下对重量敏感，但仍需要高显色旋钮调光功能的用户"
+    transferable_technique: "将专业控件（旋钮）缩型化以适应轻量场景，功能不妥协但重量下降"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

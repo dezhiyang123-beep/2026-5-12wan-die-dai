@@ -1,0 +1,108 @@
+# 04_form_mother_cards.schema.yaml — G3造型母题卡
+
+schema_version: "2.0"
+
+required:
+  cards:
+    type: list
+    description: "造型母题卡，共12张，每张≤280字"
+    item_schema:
+      编号:
+        type: string
+        description: "M-01 至 M-12"
+
+      # 可短语填充字段
+      设计立意:
+        type: string
+        description: "1句话核心立意"
+      造型语义:
+        type: string
+        description: "1-3个关键词"
+      结构显隐:
+        type: string
+        description: "显露/隐藏/半遮蔽"
+      线缆路径:
+        type: string
+        description: "简短描述"
+      驱动接口位置:
+        type: string
+        description: "具体位置描述"
+      必须避免:
+        type: string
+        description: "来自form_handoff_brief.must_not_look_like"
+
+      # 必填详细字段（每字段≥10字）
+      主轮廓+比例:
+        type: string
+        required_hard: true
+        description: "主视角轮廓线形态和高宽厚比例关系，≥10字"
+      体块关系:
+        type: string
+        required_hard: true
+        description: "各主要体块的空间组织方式和从属关系，≥10字"
+      发光面逻辑:
+        type: string
+        required_hard: true
+        description: "发光面的位置、形态、与遮光面的比例关系，≥10字"
+      安装架构:
+        type: string
+        required_hard: true
+        description: "安装方式、固定点位置、与墙/天花/管道的关系，≥10字"
+      分件策略:
+        type: string
+        required_hard: true
+        description: "主要分件线位置和分件逻辑，≥10字"
+      必须保留:
+        type: string
+        required_hard: true
+        description: "来自form_handoff_brief.must_keep_customer_signal的转化，≥10字"
+
+      screen_score:
+        type: object
+        required_hard: true
+        fields:
+          distinctness:
+            type: integer
+            range: [1, 5]
+            description: "与其他11张的差异度"
+          customer_desirability:
+            type: integer
+            range: [1, 5]
+            description: "目标客户视觉吸引力"
+          oem_fit:
+            type: integer
+            range: [1, 5]
+            description: "OEM接受程度"
+          dfm_risk:
+            type: integer
+            range: [1, 5]
+            description: "DFM难度，5=低风险"
+          renderability:
+            type: integer
+            range: [1, 5]
+            description: "渲染出图可行性"
+          total:
+            type: integer
+            description: "五项之和，<15分标弱"
+
+  diversity_check:
+    type: object
+    description: "12张母题的多样性验证结果"
+    fields:
+      silhouette_types:
+        type: integer
+        description: "主轮廓种类数量，必须≥4"
+      installation_types:
+        type: integer
+        description: "安装架构种类数量，必须≥3"
+      light_emission_types:
+        type: integer
+        description: "发光面逻辑种类数量，必须≥3"
+      diversity_pass:
+        type: boolean
+
+validation:
+  - cards总数必须是12张
+  - 必填详细字段每个≥10字
+  - screen_score.total<15的卡必须标注弱
+  - diversity_check.diversity_pass必须为true

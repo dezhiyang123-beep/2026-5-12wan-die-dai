@@ -1,0 +1,44 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "头戴耳机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/头戴耳机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "reddot_headphone_001"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/头戴耳机/05.jpg"
+        image_role: "hero"
+        visual_anchor: "Bose OE2i 头戴耳机，黑色皮质头梁+银色铝合金耳杯外圈，带线控线缆"
+    product_name: "Bose OE2i On-Ear Headphones"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "标准on-ear头戴式，圆形耳杯，弧形头梁，无折叠结构"
+      light_opening: "无（封闭式耳杯）"
+      thermal: "无"
+      cmf:
+        color: "黑色+银色"
+        material: "头梁皮质包覆+耳杯铝合金外圈+黑色塑料主体"
+        finish: "皮质软包+金属抛光边圈+哑光黑塑料"
+      mounting: "头部佩戴，3.5mm线控线缆"
+      signature_detail: "铝合金银色外圈作为耳杯边框，将金属精度感引入消费耳机"
+    design_level:
+      score: 3
+      reason: "经典Bose OE2i设计，黑+银双色语言稳定；银色铝制耳杯圈提供专业感；整体克制但缺乏突破性设计记忆点"
+    design_tags: ["头戴耳机", "铝合金耳杯圈", "皮质头梁", "黑银配色", "H10材料表达", "H03分件线", "线控"]
+    hero_feature: "铝合金银色耳杯外圈将金属精度感注入消费耳机"
+    problem_solved: "兼顾日常通勤佩戴舒适度与一定程度的专业感外观"
+    transferable_technique: "以金属边框圈（而非整体金属壳）引入高级感，控制重量同时提升视觉档次"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

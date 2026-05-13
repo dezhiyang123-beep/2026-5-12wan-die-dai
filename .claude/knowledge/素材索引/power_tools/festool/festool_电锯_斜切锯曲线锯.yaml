@@ -1,0 +1,289 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "斜切锯曲线锯综合"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "festool_斜切锯_001"
+    source_images:
+      - filename: "电锯__斜切锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__斜切锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "斜切锯（KAPEX系列），黑色机身+银灰色底座，电机头部有18V电池插接（竖直），绿色把手护圈，铝合金底座带左右延伸板，锯片护罩深灰，导轨从机身背后伸出，整体厚重专业感"
+    product_name: "Festool KAPEX 无线斜切锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "斜切锯"]
+    design_language:
+      silhouette: "宽底座水平延伸+垂直电机头+背后滑轨，侧视呈L形，机头可向左右倾斜"
+      light_opening: "N/A"
+      thermal: "电机仓顶部散热槽"
+      cmf:
+        color: "黑色电机头机身，银灰色铝合金底座，绿色把手护圈和操控件"
+        material: "工程塑料机壳，铝合金底座和导轨，硬质合金锯片"
+        finish: "机身哑光颗粒纹，底座拉丝铝，锯片镜面"
+      mounting: "18V无线（电池垂直插接于电机仓侧面）"
+      signature_detail: "KAPEX系列名称设计，绿色D形把手护圈，底座有激光对位线，滑轨从机身后方延伸"
+    design_level:
+      score: 5
+      reason: "KAPEX是斜切锯品类的标杆产品，无线+激光+集尘一体化设计水平极高，品牌语言旗舰级，工业设计细节丰富且逻辑一致"
+    design_tags: ["斜切锯", "KAPEX", "无线", "18V", "旗舰", "激光对位"]
+    hero_feature: "无线化斜切锯+激光对位+集尘系统三合一，KAPEX将斜切锯体验重新定义"
+    problem_solved: "精装修现场无线精准斜切，无尘施工环境需求"
+    transferable_technique: "旗舰产品命名系列化（KAPEX），将子品牌概念植入单品，赋予产品系列身份感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_斜切锯_002"
+    source_images:
+      - filename: "电锯__斜切锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__斜切锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "斜切锯（KAPEX KS 60系列），黑色机身，有线型，圆形散热罩在电机顶部，绿色功能按钮，锯片护罩较大，铝合金底座和导轨系统完整，锯片有品牌黄绿环装饰，整体比01款更紧凑"
+    product_name: "Festool KAPEX KS 60 有线斜切锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "斜切锯"]
+    design_language:
+      silhouette: "紧凑型斜切锯，电机仓较小，底座稳固，滑轨短，适合精装工地"
+      light_opening: "N/A"
+      thermal: "电机顶部圆形散热帽"
+      cmf:
+        color: "黑色机身，银灰底座，绿色操控件，锯片中心黄绿双环"
+        material: "工程塑料机身，铝合金底座"
+        finish: "机身哑光，底座拉丝铝"
+      mounting: "有线（电源线从机身引出）"
+      signature_detail: "圆形散热帽造型细节，锯片黄绿双环装饰，绿色扳机护圈"
+    design_level:
+      score: 4
+      reason: "经典KAPEX设计语言，有线版紧凑形态，品牌识别度强，锯片装饰环是品牌设计亮点"
+    design_tags: ["斜切锯", "KAPEX", "有线", "紧凑型"]
+    hero_feature: "锯片中心黄绿品牌双环与机身绿色操控件形成视觉呼应，品牌视觉系统贯穿功能部件"
+    problem_solved: "精装修场景精准有线斜切，高频重复作业"
+    transferable_technique: "品牌装饰色环在旋转功能件（锯片/砂盘）上的应用，强化品牌感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_斜切锯_003"
+    source_images:
+      - filename: "电锯__斜切锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__斜切锯__03.jpg"
+        image_role: "hero"
+        visual_anchor: "大型斜切锯（SYMMETRIC系列），黑色机身带无线电池，底座设计有四个万向轮移动台车，机身背面标注SYMMETRIC字样，锯片护罩半球形，整体体型最大，台车底座呈现专业搬运级别"
+    product_name: "Festool SYMMETRIC 大型移动斜切锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "斜切锯"]
+    design_language:
+      silhouette: "大型斜切锯置于独立四轮移动台车上，机头体量大，台车低矮稳固，整体比例高大"
+      light_opening: "N/A"
+      thermal: "机身侧面大面积散热槽"
+      cmf:
+        color: "黑色机身，绿色电池和操控件，银灰色底座，黑色台车框架"
+        material: "工程塑料机壳，铝合金底座，钢管台车"
+        finish: "机身哑光，底座磨砂，台车金属漆"
+      mounting: "18V无线（大容量电池）"
+      signature_detail: "SYMMETRIC双向对称切割特性，专用移动台车集成，机头体量显著大于普通斜切锯"
+    design_level:
+      score: 4
+      reason: "针对大截面切割的专业旗舰斜切锯，台车集成设计体现系统思维，品牌语言一致"
+    design_tags: ["斜切锯", "大型", "台车", "无线", "SYMMETRIC", "双向切割"]
+    hero_feature: "专用四轮移动台车与大型斜切锯的一体化系统设计"
+    problem_solved: "大截面木材现场双向斜切，兼顾移动性需求"
+    transferable_technique: "大型专业工具+专属移动底座的系统化产品设计思路"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_曲线锯_001"
+    source_images:
+      - filename: "电锯__曲线锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__曲线锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "无线曲线锯（PSC-E 18 CARVEX），深蓝黑机身，D形上把手+前弓形辅助把手，绿色速度调节按钮和电池卡扣，18V TBX4电池底部插接，底板铝合金，锯条从机身底部伸出，侧面CARVEX系列名称，蓝牙标识可见"
+    product_name: "Festool PSC-E 18 CARVEX 无线曲线锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "竖直机身，上方弧形D形把手，前下方有辅助把手，底部铝底板水平延伸，整体呈高耸竖置形态"
+      light_opening: "N/A"
+      thermal: "机身侧面通风槽"
+      cmf:
+        color: "深蓝黑机身（冷峻专业感），绿色速度钮和电池释放键，银灰铝底板"
+        material: "工程塑料机身，铝合金底板，锂电池"
+        finish: "机身哑光细纹，底板拉丝铝，绿色件光面注塑"
+      mounting: "18V无线（TBX4 AIRSTREAM蓝牙电池）"
+      signature_detail: "CARVEX系列名称（雕刻感），蓝牙AIRSTREAM无线互联，D形大把手人机工程优化，前辅助把手精细控制"
+    design_level:
+      score: 5
+      reason: "CARVEX是曲线锯品类的设计标杆，双把手系统+无线+蓝牙互联三合一，形态精致，品牌子系列命名策略成熟，设计语言高度一致"
+    design_tags: ["曲线锯", "CARVEX", "无线", "18V", "蓝牙", "双把手", "旗舰"]
+    hero_feature: "D形大把手+前辅助把手双把手系统，为曲线切割提供精确双手控制"
+    problem_solved: "精细曲线切割场景的双手精确控制需求，无线现场作业"
+    transferable_technique: "CARVEX子系列命名策略：将产品定位（雕刻级精准）编码入产品名称"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_曲线锯_002"
+    source_images:
+      - filename: "电锯__曲线锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__曲线锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "有线曲线锯（PSC 420 EB CARVEX），深蓝黑机身，D形上把手更大更突出，绿色前辅助把手卡扣，18V电池侧面插接，底板铝合金，CARVEX字样清晰，整体比01款更宽厚"
+    product_name: "Festool PSC 420 EB CARVEX 曲线锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "高D形把手弓形更大，机身加宽，前辅助把手更突出，底板更宽，整体比例更稳"
+      light_opening: "N/A"
+      thermal: "机身侧面通风槽"
+      cmf:
+        color: "深蓝黑机身，绿色辅助把手锁扣，银色底板"
+        material: "工程塑料，铝合金底板"
+        finish: "哑光机身，拉丝底板"
+      mounting: "18V无线（电池侧插）"
+      signature_detail: "大D形把手弓形高度提升，辅助把手绿色锁扣显眼，锯条透明防护罩"
+    design_level:
+      score: 4
+      reason: "CARVEX家族成员，设计语言一致，D形把手是品类内的设计亮点，整体品质感高"
+    design_tags: ["曲线锯", "CARVEX", "无线", "大把手", "18V"]
+    hero_feature: "高弓形D把手设计，一手控制时拇指能充分环绕，精细操控感强"
+    problem_solved: "单手操控场景下的曲线切割精度保证"
+    transferable_technique: "D形弓形把手高度增加策略，提升单手握持时的手腕角度舒适性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_曲线锯_003"
+    source_images:
+      - filename: "电锯__曲线锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__曲线锯__03.jpg"
+        image_role: "hero"
+        visual_anchor: "有线曲线锯（PSBC 420 EB CARVEX），深蓝黑机身，较大电池在机身底部后侧，绿色上方把手顶端圆形按钮，机身正面有速度刻度窗口，底板铝合金，侧面CARVEX字样"
+    product_name: "Festool PSBC 420 EB CARVEX 曲线锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "粗壮型D把手，机身更加宽厚，电池使整体重心后移，比例稳重"
+      light_opening: "N/A"
+      thermal: "机身后部散热槽"
+      cmf:
+        color: "深蓝黑机身，绿色顶部圆形按钮，银色底板和铭牌"
+        material: "工程塑料，铝合金底板"
+        finish: "哑光颗粒质感机身，拉丝底板"
+      mounting: "18V无线（大容量电池底部后置）"
+      signature_detail: "顶部绿色圆形启动按钮位置独特，机身前面速度显示窗，电池大容量型号"
+    design_level:
+      score: 4
+      reason: "CARVEX系列旗舰大容量版本，绿色顶部圆钮设计独特，品牌一致性强"
+    design_tags: ["曲线锯", "CARVEX", "无线", "大容量电池", "18V"]
+    hero_feature: "顶部绿色圆形按钮布局创新，将启动控制移至D把手顶端，符合单手操控逻辑"
+    problem_solved: "大工作量连续曲线切割，大容量电池减少换电频率"
+    transferable_technique: "将启动按钮从侧面移至顶端的操控逻辑创新，提升单手使用便利性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_曲线锯_004"
+    source_images:
+      - filename: "电锯__曲线锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__曲线锯__04.jpg"
+        image_role: "hero"
+        visual_anchor: "有线曲线锯老款（PS 300 EQ TRION系列），深灰蓝机身，D形把手，机身侧面有矩形速度调节滑块窗口，绿色小圆旋钮在锯条护罩处，底板铝合金，整体更细长，TRION字样可见"
+    product_name: "Festool PS 300 EQ TRION 曲线锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "细长型D把手，机身纤细，有线版电线从顶部引出，底板细窄，整体轻盈感"
+      light_opening: "N/A"
+      thermal: "机身顶部散热槽"
+      cmf:
+        color: "深灰蓝机身，绿色护罩固定旋钮，银色底板和铭牌"
+        material: "工程塑料，铝合金底板"
+        finish: "哑光机身，光面铭牌"
+      mounting: "有线"
+      signature_detail: "TRION子系列命名，机身侧面矩形速度窗，底部锯条护罩的绿色固定旋钮"
+    design_level:
+      score: 3
+      reason: "TRION系列较早期产品，基础款设计，功能性为主，品牌感稍弱于CARVEX系列"
+    design_tags: ["曲线锯", "TRION", "有线", "基础款"]
+    hero_feature: "机身侧面矩形速度调节窗口，操控直观可见"
+    problem_solved: "入门级精装修曲线切割场景"
+    transferable_technique: "矩形速度调节窗口设计，将调速滑块外露为可见反馈界面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_曲线锯_005"
+    source_images:
+      - filename: "电锯__曲线锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__曲线锯__05.jpg"
+        image_role: "hero"
+        visual_anchor: "有线曲线锯老款（PSB 300 EQ TRION），与04同系列但D形把手更圆润，顶部有绿色圆形启动按钮，机身深灰蓝，底板较宽，侧面速度数字刻度可见，TRION字样，有线版"
+    product_name: "Festool PSB 300 EQ TRION 曲线锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "圆润D形把手，机身较宽，底板稳固，整体比04款更有安全感"
+      light_opening: "N/A"
+      thermal: "机身顶部后部散热"
+      cmf:
+        color: "深灰蓝机身，绿色顶部按钮，银色底板"
+        material: "工程塑料，铝合金底板"
+        finish: "哑光机身细纹"
+      mounting: "有线"
+      signature_detail: "顶部绿色按钮，宽底板稳定性更高，TRION系列标识"
+    design_level:
+      score: 3
+      reason: "TRION系列标准款，功能可靠，设计中规中矩，与CARVEX系列相比品牌感稍弱"
+    design_tags: ["曲线锯", "TRION", "有线", "圆润把手"]
+    hero_feature: "宽底板+圆润D把手设计，提供入门用户熟悉的操控安全感"
+    problem_solved: "基础曲线切割场景，操控直觉友好"
+    transferable_technique: "加宽底板策略提升初学者操控稳定性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

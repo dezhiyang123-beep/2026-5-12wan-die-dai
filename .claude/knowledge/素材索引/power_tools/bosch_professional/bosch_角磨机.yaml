@@ -1,0 +1,356 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "角磨机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bosch_角磨机_001"
+    source_images:
+      - filename: "角磨机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "有线小型角磨机，型号GWS13-50PS，蓝色机身，银白色压铸齿轮箱，红色X-LOCK标识旋钮，黑色侧把手，切割片带X-LOCK标识，顶部有散热格栅"
+    product_name: "Bosch GWS13-50PS X-LOCK Angle Grinder"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "有线", "小型"]
+    design_language:
+      silhouette: "标准角磨机水平炮管型，银白色压铸齿轮箱在前端形成视觉锚点，整体比例细长"
+      light_opening: "N/A"
+      thermal: "机身后段顶部竖向散热格栅"
+      cmf:
+        color: "深蓝色机身，银白色压铸齿轮箱，黑色侧把手，红色X-LOCK标识"
+        material: "工程塑料机身，压铸铝/锌合金齿轮箱，橡胶侧把手"
+        finish: "哑光蓝机身，金属银光亮齿轮箱，黑色橡胶把手"
+      mounting: "有线"
+      signature_detail: "X-LOCK无工具快换系统（红色标识），银白压铸齿轮箱，侧把手"
+    design_level:
+      score: 3
+      reason: "标准角磨机执行，X-LOCK快换系统是产品差异化核心，视觉上通过红色标识突出，品牌语言统一"
+    design_tags: ["角磨机", "有线", "X-LOCK", "小型", "GWS系列"]
+    hero_feature: "X-LOCK无工具快换砂轮系统，红色标识视觉强调"
+    problem_solved: "快速更换磨片/切割片，无需工具，减少停工时间"
+    transferable_technique: "功能创新通过专属色彩（红色X-LOCK）在机身上打标，使技术特征可视化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_角磨机_002"
+    source_images:
+      - filename: "角磨机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "有线中型角磨机，型号GWS13-50，蓝色机身，银白色压铸齿轮箱，橡胶包覆黑色侧把手上印有BOSCH红字，红色砂轮夹紧扳手，顶部散热格栅，机身有防滑点阵纹理"
+    product_name: "Bosch GWS13-50 Angle Grinder"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "有线", "中型"]
+    design_language:
+      silhouette: "中型炮管型，侧把手向前伸出增加视觉宽度，机身后段有明显点阵防滑纹理区"
+      light_opening: "N/A"
+      thermal: "机身后段顶部竖向细散热槽"
+      cmf:
+        color: "深蓝色机身，银白色压铸齿轮箱，黑色橡胶侧把手，红色夹紧扳手"
+        material: "工程塑料机身，压铸齿轮箱，橡胶覆层把手"
+        finish: "哑光蓝，银光压铸件，橡胶软质把手"
+      mounting: "有线"
+      signature_detail: "把手印有BOSCH红字标识，点阵防滑纹理区，银色压铸齿轮箱"
+    design_level:
+      score: 3
+      reason: "标准中型角磨机，执行规整，侧把手上的品牌字体印刷是额外触点，整体无突破"
+    design_tags: ["角磨机", "有线", "中型", "GWS系列", "防滑纹理"]
+    hero_feature: "橡胶侧把手上的BOSCH红字，在握持时直接面对操作者"
+    problem_solved: "金属切割与研磨，人机工程侧把手减少疲劳"
+    transferable_technique: "品牌字体在握持面（橡胶把手）的重复强化，不依赖视觉而通过接触面传递品牌"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_角磨机_003"
+    source_images:
+      - filename: "角磨机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__03.jpg"
+        image_role: "hero"
+        visual_anchor: "有线大型角磨机（9英寸/230mm），蓝色机身，银色压铸大型齿轮箱，黑色侧把手，大直径切割片，机身后段散热格栅明显，整体体量比小型款大一倍以上"
+    product_name: "Bosch Large Angle Grinder 230mm"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "有线", "大型", "230mm"]
+    design_language:
+      silhouette: "粗壮炮管型，大型压铸齿轮箱占前端1/3体量，后段握持区有明显腰部收细"
+      light_opening: "N/A"
+      thermal: "机身后段有密集横向散热格栅"
+      cmf:
+        color: "深蓝色机身，银色大型压铸齿轮箱，黑色侧把手"
+        material: "工程塑料机身，重型压铸金属齿轮箱，橡胶把手"
+        finish: "哑光蓝，银色光亮压铸件"
+      mounting: "有线（粗重电源线）"
+      signature_detail: "大型压铸齿轮箱比例占整机约1/3，密集散热格栅显示高功率，大直径切割片"
+    design_level:
+      score: 3
+      reason: "大型角磨机标准形态，比例设计合理，压铸齿轮箱体量强调高功率，无特殊设计创新"
+    design_tags: ["角磨机", "有线", "大型", "230mm", "高功率"]
+    hero_feature: "大型银色压铸齿轮箱占前端主导体量，传达高功率结构感"
+    problem_solved: "重型切割研磨作业，大直径砂轮处理大面积工件"
+    transferable_technique: "功能核心部件（齿轮箱）体量放大作为视觉权重，传达工具级别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_角磨机_004"
+    source_images:
+      - filename: "角磨机__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__04.jpg"
+        image_role: "hero"
+        visual_anchor: "有线专用混凝土磨机，型号CSG15，蓝色机身，特殊设计的大型黑色碗形防尘罩（密封式，带黑色刷子边缘），红色防尘罩调节旋钮，侧面有吸尘接口，专为混凝土表面研磨设计"
+    product_name: "Bosch CSG15 Concrete Surfacing Grinder"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "有线", "混凝土研磨", "专用"]
+    design_language:
+      silhouette: "大型碗形防尘罩主导视觉，防尘罩直径约是机身直径3倍，前端极宽"
+      light_opening: "N/A"
+      thermal: "机身后段散热"
+      cmf:
+        color: "深蓝色机身，黑色大型防尘罩，红色调节旋钮"
+        material: "工程塑料机身，硬质塑料防尘罩，橡胶密封刷"
+        finish: "哑光蓝，哑光黑防尘罩"
+      mounting: "有线"
+      signature_detail: "超大型密封碗形防尘罩与吸尘接口，完全改变了标准角磨机的视觉比例"
+    design_level:
+      score: 4
+      reason: "功能特化导致造型极具识别度，防尘罩主导整体比例，形式跟随功能的典型案例，在同品类中具有鲜明视觉差异"
+    design_tags: ["角磨机", "有线", "混凝土研磨", "防尘罩", "专用型", "CSG系列"]
+    hero_feature: "超大型密封碗形防尘罩完全重构视觉比例，功能特化带来造型突破"
+    problem_solved: "混凝土表面研磨的粉尘控制，密封罩+吸尘接口实现无尘施工"
+    transferable_technique: "功能附件（防尘罩）的超尺度化设计，使工具的使用场景一目了然；可迁移至其他需要粉尘控制的工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_角磨机_005"
+    source_images:
+      - filename: "角磨机__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__05.jpg"
+        image_role: "hero"
+        visual_anchor: "有线专用开槽机，型号GWS13-52TG，蓝色机身，银色压铸齿轮箱，大型银色铝制双片开槽防护罩（带红色调节旋钮），黑色侧把手，双导尘管接口，专为墙面开槽设计"
+    product_name: "Bosch GWS13-52TG Wall Chaser / Slotting Grinder"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "有线", "开槽机", "专用"]
+    design_language:
+      silhouette: "标准角磨机机身+铝制专用开槽防护罩，防护罩为扁平矩形，双导尘管向下延伸"
+      light_opening: "N/A"
+      thermal: "机身后段散热"
+      cmf:
+        color: "深蓝色机身，银色铝制防护罩，红色调节旋钮，黑色侧把手"
+        material: "工程塑料机身，铝合金防护罩，橡胶把手"
+        finish: "哑光蓝，亮银铝合金，橡胶黑"
+      mounting: "有线"
+      signature_detail: "铝制双片开槽防护罩完全改变前端造型，双导尘管功能外显，银色铝合金提升专业质感"
+    design_level:
+      score: 4
+      reason: "专用附件与角磨机的结合创造出强烈专业感，铝合金材质选用显著提升产品档次，双导尘管设计使功能意图立即清晰"
+    design_tags: ["角磨机", "有线", "开槽机", "铝合金防护罩", "专用型", "GWS系列"]
+    hero_feature: "铝合金双片开槽防护罩+双导尘管，功能特化造型"
+    problem_solved: "墙面/地面精密开槽，双导尘管控制混凝土粉尘"
+    transferable_technique: "铝合金专用配件作为品质感提升手段，材质升级（铝 vs 塑料）直接对应专业级别跃升"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_角磨机_006"
+    source_images:
+      - filename: "角磨机__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__07.jpg"
+        image_role: "hero"
+        visual_anchor: "有线X-LOCK角磨机，型号GWX10-45SE，蓝色机身（蓝色更浅偏亮），银白色压铸齿轮箱，红色X-LOCK标识，黑色侧把手，整体外形同GWS系列但蓝色略有差异"
+      - filename: "角磨机__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__08.jpg"
+        image_role: "variant"
+        visual_anchor: "有线X-LOCK角磨机，型号GWX10-45PE，与GWX10-45SE同系列，外观一致"
+      - filename: "角磨机__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__09.jpg"
+        image_role: "variant"
+        visual_anchor: "有线X-LOCK角磨机，型号GWX10-45DE，同系列变体，外观一致"
+    product_name: "Bosch GWX10-45 X-LOCK Angle Grinder Series"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "有线", "X-LOCK", "中型"]
+    design_language:
+      silhouette: "标准炮管型，较GWS系列外形相似，X-LOCK标识为核心差异化视觉"
+      light_opening: "N/A"
+      thermal: "机身后段竖向散热格栅"
+      cmf:
+        color: "亮蓝色（比标准Professional蓝更鲜亮）机身，银白齿轮箱，红色X-LOCK，黑色把手"
+        material: "工程塑料机身，压铸齿轮箱"
+        finish: "哑光亮蓝，银色压铸"
+      mounting: "有线"
+      signature_detail: "X-LOCK系统标识作为主要视觉差异化元素，红色X-LOCK旋钮区"
+    design_level:
+      score: 3
+      reason: "X-LOCK系列的标准执行，色彩略有区分但整体语言一致，差异化通过系统标识而非造型实现"
+    design_tags: ["角磨机", "有线", "X-LOCK", "GWX系列"]
+    hero_feature: "X-LOCK快换系统的红色标识视觉锚点"
+    problem_solved: "快速更换附件，提升作业效率"
+    transferable_technique: "同平台技术通过专属色彩标识在整个产品线中建立一致性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_角磨机_007"
+    source_images:
+      - filename: "角磨机__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__10.jpg"
+        image_role: "hero"
+        visual_anchor: "有线X-LOCK角磨机，型号GWX13-50，蓝色机身，银白压铸齿轮箱，红色X-LOCK区，黑色橡胶侧把手上印BOSCH红字，机身有防滑纹理，顶部散热格栅"
+      - filename: "角磨机__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__11.jpg"
+        image_role: "variant"
+        visual_anchor: "有线X-LOCK角磨机，型号GWX13-60PD，与GWX13系列同族，带电子调速（PD后缀），外观一致"
+      - filename: "角磨机__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__12.jpg"
+        image_role: "variant"
+        visual_anchor: "有线X-LOCK角磨机，型号GWX1350VSP，带电子调速，外观同GWX13系列"
+      - filename: "角磨机__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__13.jpg"
+        image_role: "variant"
+        visual_anchor: "有线X-LOCK角磨机，型号GWX13-60，外观同GWX13系列，侧把手有BOSCH字样"
+    product_name: "Bosch GWX13 X-LOCK Angle Grinder Series"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "有线", "X-LOCK", "大功率"]
+    design_language:
+      silhouette: "标准炮管型，后段点阵防滑纹理区明显，侧把手带品牌印刷"
+      light_opening: "N/A"
+      thermal: "后段顶部竖向散热格栅"
+      cmf:
+        color: "深蓝色机身，银白压铸齿轮箱，红色X-LOCK，黑色橡胶把手"
+        material: "工程塑料，压铸金属，橡胶"
+        finish: "哑光蓝，银色压铸，橡胶软质"
+      mounting: "有线"
+      signature_detail: "X-LOCK + 把手BOSCH红字印刷 + 后段点阵防滑区"
+    design_level:
+      score: 3
+      reason: "GWX13系列一致性强，执行标准，多变体共用同一设计语言，无突破"
+    design_tags: ["角磨机", "有线", "X-LOCK", "GWX系列", "大功率", "防滑纹理"]
+    hero_feature: "X-LOCK系统+橡胶把手BOSCH品牌印刷双重品牌强化"
+    problem_solved: "高功率磨削切割，快换附件系统"
+    transferable_technique: "品牌字体在功能性接触面（橡胶把手）的重复，构成使用过程中的品牌感知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_角磨机_008"
+    source_images:
+      - filename: "角磨机__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__14.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线X-LOCK角磨机，型号GWX18V-10P，深蓝色机身+黑色顶部，前端银白压铸齿轮箱，红色X-LOCK区，后端无电池（bare tool），电池仓滑槽明显，黑色橡胶侧把手"
+    product_name: "Bosch GWX18V-10P 18V Cordless X-LOCK Angle Grinder (Bare Tool)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "无线", "18V", "X-LOCK"]
+    design_language:
+      silhouette: "无线炮管型，后端电池仓滑槽为特征区别于有线款，整体更粗壮"
+      light_opening: "N/A"
+      thermal: "机身侧面散热区"
+      cmf:
+        color: "深蓝色+黑色双色机身（有线款以纯蓝为主，无线款顶部黑色区域更多），银白齿轮箱，红色X-LOCK"
+        material: "工程塑料，压铸金属齿轮箱"
+        finish: "哑光蓝+哑光黑组合，银色压铸"
+      mounting: "18V无线（BOSCH Professional 18V系统），后部滑入式电池仓"
+      signature_detail: "蓝黑双色分区（有线款更纯蓝，无线款后半段更多黑色），X-LOCK红色标识，后端电池接口"
+    design_level:
+      score: 3
+      reason: "18V无线平台标准设计，通过色彩分区（更多黑色）区分有线/无线产品线，执行一致"
+    design_tags: ["角磨机", "无线", "18V", "X-LOCK", "GWX系列", "CORE18V"]
+    hero_feature: "18V无线形态+X-LOCK快换系统的组合，有线专业性能与无线便携的结合"
+    problem_solved: "无线专业研磨，X-LOCK快换配合18V高功率"
+    transferable_technique: "有线/无线产品线通过机身黑色占比区分（无线后段更多黑色），而非全新造型，降低设计成本维持家族感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_角磨机_009"
+    source_images:
+      - filename: "角磨机__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__15.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线角磨机套装，包含：GWX18V-8PC工具本体（深蓝黑色，CORE18V电池插入状态，红色X-LOCK，红黑CORE18V大容量电池）、快充充电器、蓝色工具袋"
+      - filename: "角磨机__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__16.jpg"
+        image_role: "variant"
+        visual_anchor: "18V无线角磨机套装，包含工具本体GWX18V-8（无电池裸机，深蓝黑色）、CORE18V电池、充电器、蓝色工具袋"
+      - filename: "角磨机__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__17.jpg"
+        image_role: "variant"
+        visual_anchor: "18V无线角磨机套装（另一变体），大容量CORE18V红黑电池包，充电器，蓝色工具袋，工具本体GWX18V-8P，无线+X-LOCK"
+      - filename: "角磨机__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/角磨机/角磨机__18.jpg"
+        image_role: "variant"
+        visual_anchor: "18V无线大型角磨机套装，GWS18V-13P，蓝色机身，银灰色大型压铸齿轮箱，无X-LOCK，CORE18V大电池，充电器，蓝色工具袋"
+    product_name: "Bosch 18V Cordless Angle Grinder Kit Series (GWX18V / GWS18V)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "无线", "18V", "套装"]
+    design_language:
+      silhouette: "无线角磨机套装，蓝色工具袋与工具颜色统一形成品牌套装感"
+      light_opening: "N/A"
+      thermal: "机身散热区域"
+      cmf:
+        color: "深蓝色机身+黑色，红黑色CORE18V电池包（与工具配色对比强烈），蓝色工具袋"
+        material: "工程塑料，压铸金属，织物工具袋"
+        finish: "哑光蓝工具，亮红黑电池包，蓝色织物袋"
+      mounting: "18V无线（CORE18V大容量电池）"
+      signature_detail: "CORE18V红黑电池包视觉冲击强，深蓝工具袋的品牌统一感，电池大容量红色顶盖标志"
+    design_level:
+      score: 3
+      reason: "套装包装通过颜色统一（蓝色工具袋与工具一致）传达品牌系统感，CORE18V红黑电池形成强烈视觉对比点，产品线形象完整"
+    design_tags: ["角磨机", "无线", "18V", "套装", "CORE18V", "工具袋", "GWX系列", "GWS系列"]
+    hero_feature: "CORE18V红黑大容量电池包+蓝色工具袋的套装组合视觉"
+    problem_solved: "无线高功率研磨，大容量CORE18V电池延长续航"
+    transferable_technique: "套装产品通过配件（工具袋）与主体颜色统一，实现品牌一致性；电池包的独立色彩语言（红黑）在整个18V平台通用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

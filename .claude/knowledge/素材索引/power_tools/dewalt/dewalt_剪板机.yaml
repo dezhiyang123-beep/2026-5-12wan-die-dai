@@ -1,0 +1,190 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "剪板机"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/剪板机/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_剪板机_001"
+    source_images:
+      - filename: "剪板机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/剪板机/剪板机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX无绳剪板机侧面，灰色大型平刃剪切头斜向前伸，枪形黄色机身无电池"
+      - filename: "剪板机__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/剪板机/剪板机__06.jpg"
+        image_role: "scene"
+        visual_anchor: "同款无绳剪板机配20V MAX XR电池已安装+充电器散放展示"
+    product_name: "DeWalt 20V MAX Swivel Head Shear"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "剪板机"
+      - "无绳剪板机"
+    design_language:
+      silhouette: "细长枪形主体向前收窄，灰色铸铁剪切头在黄色枪形机身前端以锐角伸出，整体呈三角形动势"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身腰部两侧三条纵向散热槽，黄色壳体上线性排列"
+      cmf:
+        color: "黄色（机身）+ 黑色（握把/触发器）+ 银灰色（铸铁剪切头）"
+        material: "工程塑料机身，铸铁剪切头，橡胶覆盖握把"
+        finish: "哑光黄注塑，铸铁裸露本色"
+      mounting: "20V MAX标准滑入式电池接口，位于手枪握把底部"
+      signature_detail: "剪切头与机身之间的黑色颈环连接件，材质与颜色明确区分功能区与机身"
+    design_level:
+      score: 3
+      reason: "系统内造型语言高度统一，剪切头三色分区具有功能可读性，但工业味重，设计创新度有限"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "金属剪切"
+      - "枪形机身"
+      - "H03_分件线设计"
+    hero_feature: "灰色大平刃剪切头从黄色枪形机身前端斜向伸出，形成明确的工具与机身的视觉对话"
+    problem_solved: "无绳自由移动剪切薄钢板/铝板，剪切头可旋转适应不同切割方向"
+    transferable_technique: "工具头与动力机身三色区分策略，让用户一眼识别工作端（H03分件线）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_剪板机_002"
+    source_images:
+      - filename: "剪板机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/剪板机/剪板机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "有绳剪板机，紧凑小型银色圆形剪切头，机身侧面圆形散热孔阵列，电源线直接从把手引出"
+    product_name: "DeWalt Corded Metal Shear"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "剪板机"
+      - "有绳剪板机"
+    design_language:
+      silhouette: "前端圆形剪切头与枪形机身的平滑过渡，整体更紧凑，无电池块的额外体量"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身侧面圆形散热孔阵列（约15个孔），规则网格布局，与无绳款的条形散热不同"
+      cmf:
+        color: "黄色（机身）+ 黑色（握把）+ 银色（剪切头）"
+        material: "工程塑料机身，钢质剪切头，橡胶握把"
+        finish: "哑光黄，金属拉丝剪切头"
+      mounting: "直接电源线供电，无电池接口；剪切头螺栓可调节转向角度"
+      signature_detail: "机身侧面圆形散热孔阵列与无绳款的槽形散热形成鲜明对比，一眼识别有绳款"
+    design_level:
+      score: 2
+      reason: "有绳设计在当前市场显得保守，圆孔散热阵列有特色但整体设计无亮点"
+    design_tags:
+      - "有绳"
+      - "金属剪切"
+      - "圆孔散热"
+      - "紧凑型"
+    hero_feature: "机身侧面圆形散热孔规则阵列，区别于无绳款的条形散热"
+    problem_solved: "连续长时间剪切作业，不用担心电量，圆孔散热支持持续高负荷"
+    transferable_technique: "圆孔阵列散热作为视觉纹理元素（H04参数化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_剪板机_003"
+    source_images:
+      - filename: "剪板机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/剪板机/剪板机__03.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX直刃剪板机，灰色小型直刃剪头，机身腰部明显散热槽，无电池裸机"
+    product_name: "DeWalt 20V MAX Metal Shear (straight blade)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "剪板机"
+      - "无绳剪板机"
+    design_language:
+      silhouette: "比001更紧凑，直刃剪切头体量更小，机身与头部比例接近1:1，整体更平衡"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身腰部三条宽间距纵向散热槽"
+      cmf:
+        color: "黄色（机身）+ 黑色（握把）+ 灰色（剪切头）"
+        material: "工程塑料，铸铁/钢质剪头"
+        finish: "哑光黄注塑"
+      mounting: "20V MAX标准电池底部插入"
+      signature_detail: "机身从握把到剪切头有明显锥形收窄，形成力量聚焦感"
+    design_level:
+      score: 3
+      reason: "与001同平台但更小巧，锥形收窄的造型逻辑清晰"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "直刃"
+      - "紧凑型"
+    hero_feature: "机身从握把到剪头的锥形收窄，视觉上强调精准切入"
+    problem_solved: "轻量化设计，单手操作薄金属板剪切"
+    transferable_technique: "锥形收窄造型强化工作端精准感（形态导向性语言）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_剪板机_004"
+    source_images:
+      - filename: "剪板机__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/剪板机/剪板机__04.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX大规格剪板机，银色大型圆弧直刃剪切头，剪头体量与机身接近，用于厚料"
+      - filename: "剪板机__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/剪板机/剪板机__05.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX弧刃剪板机，铸铁弧形剪切头向前下方弯曲，专用于厚钢材弧形切割"
+    product_name: "DeWalt 20V MAX Heavy Gauge Metal Shear"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "剪板机"
+      - "无绳剪板机"
+    design_language:
+      silhouette: "剪切头体量显著增大，与枪形机身形成头重感，重心前移，整体呈T形侧面轮廓"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身腰部三条散热槽，与轻型版相同系统"
+      cmf:
+        color: "黄色（机身）+ 黑色（握把）+ 铸铁银灰（剪切头）"
+        material: "工程塑料机身，铸铁大型剪切头"
+        finish: "哑光黄，铸铁裸露本色（较粗糙质感）"
+      mounting: "20V MAX标准电池底部插入"
+      signature_detail: "铸铁剪切头的粗旷工业质感与黄色光滑塑料机身形成强烈材质对比"
+    design_level:
+      score: 3
+      reason: "大剪切头带来的重量感与整体造型平衡，材质对比有力，但属于功能优先设计"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "重型"
+      - "大规格剪切"
+      - "材质对比"
+      - "H02_包覆设计"
+    hero_feature: "铸铁大型剪切头与黄色塑料机身的材质与体量对比"
+    problem_solved: "厚钢板/不锈钢的无绳剪切，大剪切力需要大头部结构支撑"
+    transferable_technique: "重型工具头与轻量机身的材质对比语言，放大功能感知（H02）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

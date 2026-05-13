@@ -1,0 +1,122 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "摄像头"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/摄像头/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_camera_001"
+    source_images:
+      - filename: "38.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/摄像头/38.jpg"
+        image_role: "hero"
+        visual_anchor: "Anker C200 网络摄像头双色版并排：黑色+银灰色，方形机身+折叠夹架"
+      - filename: "39.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/摄像头/39.jpg"
+        image_role: "detail"
+        visual_anchor: "C200银灰色版：镜头关闭状态（橙红色光圈遮帘）+镜头开启斜角视图"
+    product_name: "Anker PowerConf C200 Webcam"
+    brand_name: "Anker"
+    brand_confidence: "high"
+    category_path: ["消费电子", "摄像头"]
+    design_language:
+      silhouette: "正方形圆角机身，底部延伸出V形折叠夹架，整体小巧紧凑"
+      light_opening: "无"
+      thermal: "顶部细密散热孔排"
+      cmf:
+        color: "黑色版/银灰色版双SKU"
+        material: "工程塑料机身+铝合金质感面板"
+        finish: "哑光磨砂，银灰版有金属拉丝效果"
+      mounting: "V形折叠夹架，可夹显示器或平放桌面"
+      signature_detail: "镜头遮帘关闭时显示橙红色光圈，隐私状态有视觉反馈"
+    design_level:
+      score: 4
+      reason: "方形轮廓在webcam品类中辨识度高，隐私遮帘的橙红色视觉反馈是功能美学亮点"
+    design_tags: ["方形轮廓", "隐私遮帘", "双色SKU", "折叠夹架", "webcam"]
+    hero_feature: "镜头隐私遮帘关闭时橙红色光圈外露，隐私状态一目了然"
+    problem_solved: "用户对摄像头隐私焦虑，物理遮帘+颜色反馈提供直觉式隐私保证"
+    transferable_technique: "功能状态通过颜色暴露（开/关对应不同颜色），可迁移到需要状态指示的设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_camera_002"
+    source_images:
+      - filename: "96.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/摄像头/96.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑方形安防摄像头壁挂安装，对角线构图，镜头模组位于机身底部"
+    product_name: "Panasonic Wall-Mount Security Camera"
+    brand_name: "Panasonic"
+    brand_confidence: "medium"
+    category_path: ["消费电子", "摄像头"]
+    design_language:
+      silhouette: "竖向矩形箱体，顶面平整，镜头模组集中于底部突出区域，整体建筑感强"
+      light_opening: "无"
+      thermal: "无明显散热开口，封闭式防护结构"
+      cmf:
+        color: "全哑黑"
+        material: "金属外壳"
+        finish: "均匀哑光，无装饰"
+      mounting: "背面平板固定支架，直接壁挂"
+      signature_detail: "极简黑色箱体+底部镜头模组，建筑融合感强，不像传统摄像头"
+    design_level:
+      score: 4
+      reason: "打破常规球形/半球形安防摄像头形态，建筑感极简设计让产品融入环境，设计克制有力"
+    design_tags: ["极简", "建筑感", "壁挂", "安防", "全黑", "方形箱体"]
+    hero_feature: "竖向方形箱体+底部镜头集中区，彻底脱离传统监控摄像头视觉语言"
+    problem_solved: "安防摄像头通常外形突兀，此设计融入建筑立面，减少视觉干扰"
+    transferable_technique: "将功能模组（镜头）收缩到局部区域，主体保持建筑感简洁轮廓"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_camera_003"
+    source_images:
+      - filename: "98.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/摄像头/98.jpg"
+        image_role: "hero"
+        visual_anchor: "Highfive会议摄像头：黑色方形镜头模组骑坐在长条铝合金声场横梁上，反射台面"
+      - filename: "99.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/摄像头/99.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "Highfive装置于电视机顶部，横梁与屏幕宽度比例协调"
+    product_name: "Highfive Conference Camera System"
+    brand_name: "Highfive"
+    brand_confidence: "high"
+    category_path: ["消费电子", "摄像头"]
+    design_language:
+      silhouette: "T字形构图：细长铝合金横梁+中央方形摄像头模组竖向骑坐，比例优雅"
+      light_opening: "无"
+      thermal: "无明显散热结构"
+      cmf:
+        color: "银色横梁+黑色摄像头模组，双色对比"
+        material: "铝合金横梁+工程塑料摄像头体"
+        finish: "横梁拉丝铝，摄像头体磨砂黑"
+      mounting: "置于显示器/TV顶部平放，横梁两端悬挑平衡"
+      signature_detail: "蓝色发光圆环环绕镜头，工作状态指示，远距离可见"
+    design_level:
+      score: 5
+      reason: "T字形构图在会议摄像头品类极具辨识度，横梁兼做麦克风/扬声器载体，形态逻辑完整，蓝圈细节精准"
+    design_tags: ["T字形", "会议摄像头", "横梁麦克风", "蓝色指示环", "铝合金", "TV顶置"]
+    hero_feature: "T字形横梁结构将摄像头+麦克风整合，蓝色发光圆环为状态指示"
+    problem_solved: "会议室摄像头+麦克风分散安装混乱，横梁一体化方案简化部署"
+    transferable_technique: "横梁结构承载多功能模组，蓝色光圈状态指示可迁移到其他AV设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

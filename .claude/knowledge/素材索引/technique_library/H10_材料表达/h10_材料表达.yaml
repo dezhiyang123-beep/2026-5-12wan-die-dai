@@ -1,0 +1,397 @@
+schema_version: product_dna_v1
+category:
+  primary: H10_材料表达
+  secondary: 家具/器皿/灯具
+  tertiary: ''
+source:
+  source_type: technique_library
+  source_folder: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H10_材料表达/
+  generated_at: '2026-05-09'
+products:
+- product_id: h10_furniture_001
+  source_images:
+  - filename: H10_furniture_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H10_材料表达/H10_furniture_001.jpg
+    image_role: hero
+    visual_anchor: 竖条纹压花玻璃杯和玻璃瓶，透明+竖棱纹理，特写
+  product_name: 竖纹压花玻璃器皿（杯+瓶组合）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H10_材料表达
+  - 器皿
+  - 玻璃器皿
+  design_language:
+    silhouette: 圆柱形杯+细颈圆柱瓶，形态极简；形态服从于竖棱纹理的展示
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 透明无色（轻微冷灰调）
+      material: 模制玻璃
+      finish: 压花竖棱纹，底部为菱形压纹，其余面光滑透明
+    mounting: N/A
+    signature_detail: 材料本身是设计：玻璃的透明性+压花棱纹折射光线，形成竖向光栅视觉效果。棱纹密度均匀，产生节奏感。底部菱形纹提供握持摩擦并强化手工质感。形态完全服从于材料的光学特性展示
+  design_level:
+    score: 4
+    reason: H10经典示范：形态极简，将全部视觉张力交给材料处理——玻璃的透明+压花纹的折光构成唯一设计语言，无多余装饰
+  design_tags:
+  - H10材料表达
+  - 压花玻璃
+  - 竖棱纹
+  - 折光效果
+  - 形态服从材料
+  - 器皿
+  hero_feature: 竖棱压花玻璃的折光纹理本身即是产品全部设计，形态退到最简
+  problem_solved: 普通玻璃器皿形态单一；此设计通过材料工艺（压花）为玻璃注入视觉层次，无需增加形态复杂度
+  transferable_technique: 用材料工艺（压花/蚀刻/纹理）在极简形态上建立视觉层次，令材料本身成为主角——适用于玻璃/金属/塑料表面处理，消费品/家居/灯具扩散板
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h10_furniture_002
+  source_images:
+  - filename: H10_furniture_002.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H10_材料表达/H10_furniture_002.jpg
+    image_role: hero
+    visual_anchor: 多层亚麻/棉布面料平铺，标注Transport/Material/Packaging文字
+  product_name: 天然纺织物料样板（品牌材料展示）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H10_材料表达
+  - 纺织/包装
+  - 材料展示
+  design_language:
+    silhouette: 多层面料堆叠平铺，利用层叠的厚度和自然悬垂感形成构图
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 原麻米色、浅米白、米灰，多层近似色叠加
+      material: 亚麻/棉混纺面料
+      finish: 未漂白原色，布边毛边处理，印刷文字为品牌分类标注
+    mounting: N/A
+    signature_detail: 材料本身传达品牌价值：未漂白原色亚麻=天然/可持续/诚实；毛边处理=刻意不精修=原始质感；多层叠加=材料丰富度与层次。'Transport/Material/Packaging'文字标注于面料上，将面料本身作为传播媒介——材料即信息载体
+  design_level:
+    score: 3
+    reason: H10材料表达的品牌层应用：面料质感传达品牌调性，但作为产品设计迁移参考偏抽象，更接近品牌传播素材
+  design_tags:
+  - H10材料表达
+  - 原色亚麻
+  - 材料即信息
+  - 天然/可持续
+  - 面料质感
+  - 品牌传播
+  hero_feature: 未漂白亚麻面料的原色和毛边处理，让材料本身成为品牌'天然诚实'价值的直接载体
+  problem_solved: 品牌需要在不使用过度设计的前提下传达可持续价值观；原料面料直接说话
+  transferable_technique: 选择未经精修的原始材料状态作为产品表面，让材料工艺痕迹（纹路/毛边/原色）直接传达品牌价值——适用于可持续品牌的包装、标签、产品触感材料
+  confidence:
+    visual_description: high
+    category: medium
+    brand: low
+    product_grouping: medium
+  needs_human_review: false
+  review_reason: ''
+- product_id: h10_furniture_004
+  source_images:
+  - filename: H10_furniture_004.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H10_材料表达/H10_furniture_004.jpg
+    image_role: hero
+    visual_anchor: 户外庭院场景，镀锌钢格栅收纳架+红色金属椅+陶盆植物
+  product_name: 户外镀锌钢格栅收纳架系统
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H10_材料表达
+  - 家具
+  - 户外收纳/置物架
+  design_language:
+    silhouette: 轻量感格栅框架，细方管立柱+穿孔网格层板，户外使用
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 镀锌银灰（架体），暗红色涂层（椅子），陶土原色（花盆）
+      material: 镀锌钢管/钢板穿孔网格
+      finish: 热镀锌表面，保留金属锌花纹理（不打磨）
+    mounting: 独立落地，无固定
+    signature_detail: 材料表达核心：热镀锌的锌花纹理（结晶状金属光泽图案）被保留而非打磨平，成为架体的视觉语言。镀锌工艺本身既是防锈功能处理，又是材料美学的来源——功能性处理=装饰语言，无二次涂装
+  design_level:
+    score: 4
+    reason: H10材料表达清晰：热镀锌锌花纹理=功能性防护工艺直接成为美学语言，无需额外表面处理。工业材料美学化的良好示范
+  design_tags:
+  - H10材料表达
+  - 热镀锌
+  - 功能工艺即美学
+  - 金属锌花纹理
+  - 户外家具
+  - 工业材料美学化
+  hero_feature: 热镀锌锌花纹理不被打磨，功能性防锈工艺直接成为产品的视觉表情
+  problem_solved: 户外金属家具通常需要喷涂掩盖材料本色；此设计将防护工艺本身转化为美学语言，省去二次涂装
+  transferable_technique: 将功能性材料处理工艺（镀锌/阳极氧化/磷化/拉丝）的工艺痕迹保留为可见美学语言，无需二次装饰覆盖——适用于工业/户外/工具类产品的表面处理
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h10_furniture_005
+  source_images:
+  - filename: H10_furniture_005.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H10_材料表达/H10_furniture_005.jpg
+    image_role: hero
+    visual_anchor: String Furniture白色模块收纳柜，鞋架+滑门组合，室内玄关场景
+  product_name: String Furniture模块收纳系统（白色玄关版）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H10_材料表达
+  - 家具
+  - 模块收纳系统
+  design_language:
+    silhouette: 横向展开的低柜形态，细钢丝网格立柱+白色烤漆层板+白色滑门；整体轻薄，浮于地面感
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 全白（层板+门板+立柱同色系）
+      material: 粉末涂层钢板（层板）+ 钢丝网格（立柱）+ 粉末涂层钢板（门板）
+      finish: 哑光白粉末涂层
+    mounting: 独立落地，钢丝立柱插入地面防倾
+    signature_detail: 材料表达：钢丝网格立柱（String专利形式）是H10的核心——钢丝的纤细性使立柱在视觉上接近'消失'，材料的线性让家具获得最大透明感。白色烤漆层板的哑光质感统一整体，材料一致性>形态复杂度
+  design_level:
+    score: 3
+    reason: H10表达较弱：白色整体色彩掩盖了材料语言，钢丝立柱的材料特征在全白系中不够突出；更多体现H05模块化
+  design_tags:
+  - H10材料表达
+  - 钢丝网格立柱
+  - 轻质透明感
+  - 白色系
+  - 模块收纳
+  - H05模块化
+  hero_feature: 钢丝网格立柱的纤细线性让支撑结构在视觉上趋近消失，家具获得最大透明感
+  problem_solved: 收纳家具体量感强、视觉压迫；钢丝立柱将材料厚度减到最小，空间通透
+  transferable_technique: 用线性/网格形态的材料作为结构件，利用材料的纤细性使结构视觉上消失，产品获得悬浮/透明感——适用于家具腿部、产品支撑件、展示架
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h10_furniture_006
+  source_images:
+  - filename: H10_furniture_006.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H10_材料表达/H10_furniture_006.jpg
+    image_role: hero
+    visual_anchor: String Furniture胡桃木层板+深棕金属立柱，书架特写，暖光环境
+  product_name: String Furniture书架（胡桃木+深棕金属）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H10_材料表达
+  - 家具
+  - 壁挂书架
+  design_language:
+    silhouette: 细金属立柱+木质层板，壁挂；胡桃木纹理在暖光下高度显现
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 胡桃木深棕纹理，深棕/黑色金属立柱，暖黄光环境
+      material: 实木/木皮层板（胡桃木）+ 钢丝立柱（深棕涂层）
+      finish: 木材自然油/蜡处理，保留木纹；金属哑光深棕
+    mounting: 壁挂，钢丝立柱背面固定
+    signature_detail: 材料表达核心：胡桃木的纹理在暖光下被最大化显现，木纹的不规则性是主要视觉语言。深棕金属立柱与胡桃木颜色呼应，形成同色系材料对话。自然材料处理（油/蜡）让木纹'呼吸'而非封闭——材料生命感
+  design_level:
+    score: 5
+    reason: H10教科书级示范：胡桃木纹理在暖光下完整呈现，金属与木材颜色呼应而非对比，材料之间形成对话。形态退到极简，材料承载全部情感温度
+  design_tags:
+  - H10材料表达
+  - 胡桃木纹理
+  - 木材油蜡处理
+  - 材料对话
+  - 暖光强化材料
+  - 自然材料
+  hero_feature: 胡桃木纹理在暖光下充分呈现，自然木材处理（非封闭漆）让材料有生命感，形态完全服从于材料展示
+  problem_solved: 木质家具常用厚漆封闭木纹导致材料感消失；此设计保留木材自然纹理和触感
+  transferable_technique: 用开放式油/蜡处理代替封闭漆，保留天然材料纹理的可见性与触感；配合暖光选择强化木纹视觉——适用于任何需要传达'天然/温暖/手工'品牌感的木质产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h10_furniture_007
+  source_images:
+  - filename: H10_furniture_007.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H10_材料表达/H10_furniture_007.jpg
+    image_role: hero
+    visual_anchor: 乳白色玻璃吊灯（扁圆饼形），白色细线悬挂，背景胡桃木书架
+  product_name: 乳白玻璃吊灯（扁球形）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H10_材料表达
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 扁椭球体，上端有小圆球帽，极简轮廓；两个相同灯具并排悬挂
+    light_opening: 乳白玻璃全体发光，漫射均匀，无明确发光口方向
+    thermal: N/A（LED驱动功率低，散热隐蔽）
+    cmf:
+      color: 乳白色（轻微暖调）
+      material: 吹制/压制乳白玻璃
+      finish: 光滑哑光乳白，轻微光泽
+    mounting: 极细白色线缆悬挂，线缆粗细约1mm
+    signature_detail: 材料表达核心：乳白玻璃的半透明乳化质感是唯一设计语言——光线通过玻璃漫射时，玻璃自身从内部发光，边缘略有透光渐变。材料同时承担发光+造型功能。形态（扁球）服务于乳白玻璃漫射光的最佳展示角度
+  design_level:
+    score: 4
+    reason: H10灯具示范：乳白玻璃材料性能（漫射+半透明）与形态（扁球）完美匹配，材料即形态逻辑清晰；细线悬挂进一步强化'发光球漂浮'感
+  design_tags:
+  - H10材料表达
+  - 乳白玻璃
+  - 漫射发光
+  - 材料即功能
+  - 扁球形灯
+  - 玻璃吊灯
+  hero_feature: 乳白玻璃从内部均匀发光，材料的半透明性是产品唯一设计语言，形态完全服从于材料光学特性
+  problem_solved: 灯具设计中形态和光源分离导致产品视觉割裂；此设计让玻璃材料同时承担造型和发光功能
+  transferable_technique: 选择光学特性（透明度/漫射/折射）作为产品设计主语言，形态服从材料展示——适用于所有涉及光的产品（灯具/屏幕扩散板/车灯透镜/发光标识）
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h10_furniture_008
+  source_images:
+  - filename: H10_furniture_008.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H10_材料表达/H10_furniture_008.jpg
+    image_role: hero
+    visual_anchor: 圆形棕色大理石台面边几+哑黑钢板支架，木地板卧室场景
+  product_name: 大理石台面边几（石+钢双材料）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H10_材料表达
+  - 家具
+  - 边几/小桌
+  design_language:
+    silhouette: 圆形台面+两片交叉钢板底座，整体轮廓简洁；台面圆形与底座矩形形成形态对比
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 棕色大理石（Emperador棕石纹）+ 哑黑钢板
+      material: 天然大理石（台面）+ 粉末涂层钢板（底座）
+      finish: 大理石抛光面，保留天然石纹；钢板哑黑粉末涂层
+    mounting: 独立落地
+    signature_detail: 材料表达核心：棕色大理石的天然石纹（Emperador纹理）是主视觉。石纹的不规则性对比钢板底座的工业规整性，形成有机vs几何的材料对话。大理石的厚重感（重量+视觉）由细窄钢板支撑，制造材料张力——轻支撑重的视觉悬念
+  design_level:
+    score: 5
+    reason: H10教科书示范：天然石纹的不规则性是绝对主角，哑黑钢底座完全收敛作为配角；材料对比（有机石纹vs工业钢板）产生高级感，形态极简不抢材料风头
+  design_tags:
+  - H10材料表达
+  - 天然大理石
+  - 石纹主视觉
+  - 有机vs几何材料对比
+  - 轻支撑重
+  - 边几
+  hero_feature: Emperador棕大理石天然石纹是唯一设计语言，哑黑钢板底座完全让位，轻薄钢板支撑厚重石台形成材料张力
+  problem_solved: 石材家具形态复杂掩盖了天然材料美；此设计将形态减到最简，让石纹绝对主导
+  transferable_technique: 将天然材料（石材/木材/皮革）的纹理作为绝对主角，配合极简形态和收敛的配色让天然纹理不受干扰——适用于任何以天然材料为卖点的产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h10_furniture_009
+  source_images:
+  - filename: H10_furniture_009.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H10_材料表达/H10_furniture_009.jpg
+    image_role: hero
+    visual_anchor: 北欧风格休闲椅，黑色漆木框架+白色布克莱织物坐靠垫
+  product_name: 北欧休闲椅（黑框架+布克莱织物）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H10_材料表达
+  - 家具
+  - 椅子
+  design_language:
+    silhouette: A形架构，靠背高于肩线，坐垫+靠背为一体悬挂式；线性黑色木框与丰盈白色织物形成视觉对比
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 黑色漆木框架 + 乳白色布克莱（Boucle）织物
+      material: 实木（黑色染色）+ 布克莱羊毛织物（圈圈纹）
+      finish: 木材黑色染色油漆 + 布克莱卷圈质感
+    mounting: N/A
+    signature_detail: 材料表达核心：布克莱织物的卷圈纹理（圈圈毛感）是主视觉语言——丰盈、柔软、触感被视觉预告的织物与极细黑色木框形成'柔软vs硬朗/白vs黑'的双重材料对话。织物的不规则卷圈vs木框的线性规整制造有趣张力
+  design_level:
+    score: 4
+    reason: H10材料表达清晰：布克莱织物质感（卷圈纹）是主角，黑色木框架为配角。材料对比（柔vs硬/白vs黑）产生北欧高质感。形态简洁为材料服务
+  design_tags:
+  - H10材料表达
+  - 布克莱织物
+  - 卷圈纹理
+  - 软硬材料对比
+  - 黑白对比
+  - 北欧椅
+  hero_feature: 布克莱羊毛织物的丰厚卷圈质感与极细黑色木框的硬朗线性形成柔/硬、白/黑双重材料对话
+  problem_solved: 椅子外形相似度高，材料质感是差异化核心；布克莱织物的触感被视觉预告，建立情感联系
+  transferable_technique: 选择具有强烈触感预告的材料（卷圈织物/皮革纹路/粗糙石材）作为产品主材，让视觉触发触觉想象——适用于家具软装、消费品手持区域、高触感产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h10_furniture_010
+  source_images:
+  - filename: H10_furniture_010.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H10_材料表达/H10_furniture_010.jpg
+    image_role: hero
+    visual_anchor: Calacatta大理石咖啡桌（两件套嵌套），混凝土质感墙，极简客厅
+  product_name: Calacatta大理石嵌套咖啡桌（两件套）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H10_材料表达
+  - 家具
+  - 咖啡桌
+  design_language:
+    silhouette: 两个矩形体块，不同高度嵌套错位摆放；体块形态极度简化（纯六面体），完全服从材料展示
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: Calacatta大理石（白底+黑灰纹路+金色矿脉）
+      material: 天然大理石（Calacatta Viola或类似黑纹变种）
+      finish: 抛光面，最大化反光，强化石纹视觉冲击
+    mounting: 独立落地
+    signature_detail: 材料表达最高级示范：形态为纯六面体（消除所有形态干扰），将100%视觉注意力交给Calacatta大理石的戏剧性黑色闪电纹路。抛光表面强化反光，让石纹在暗色背景（混凝土墙）下极度突出。两件嵌套在形态上增加层次但不引入新材料——材料语言绝对统一
+  design_level:
+    score: 5
+    reason: H10最高级示范：纯六面体形态是H10的终极策略——形态完全退场，大理石纹路成为绝对主角。Calacatta黑纹的戏剧性石纹+抛光反光+暗色背景三重强化，材料张力极强
+  design_tags:
+  - H10材料表达
+  - Calacatta大理石
+  - 纯六面体形态退场
+  - 抛光强化石纹
+  - 戏剧性石纹
+  - 材料最大化
+  hero_feature: 纯六面体形态完全退场，Calacatta大理石的黑色闪电纹路是唯一设计语言，形态是材料的展台
+  problem_solved: 大理石家具形态设计常与石纹竞争视觉注意；此设计用最简形态让石纹获得全部视觉主权
+  transferable_technique: 当使用视觉冲击力极强的天然材料时，将形态简化为最基础几何体（六面体/球/圆柱），让材料纹理不受任何形态干扰地成为主角——适用于任何以高价值天然材料（大理石/木纹/皮革）为核心差异点的产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

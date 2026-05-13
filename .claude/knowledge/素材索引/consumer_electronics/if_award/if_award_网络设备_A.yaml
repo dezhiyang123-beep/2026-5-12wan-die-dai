@@ -1,0 +1,326 @@
+schema_version: product_dna_v1
+category:
+  primary: 消费电子
+  secondary: 网络设备
+  tertiary: ''
+source:
+  source_type: award_collection
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备
+  generated_at: '2026-05-08'
+products:
+- product_id: if_network_001
+  source_images:
+  - filename: 06.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/06.jpg
+    image_role: hero
+    visual_anchor: 正面全图，圆角方形机身，居中状态指示区
+  - filename: 07.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/07.jpg
+    image_role: angle
+    visual_anchor: 3/4侧面，底部支脚清晰可见
+  product_name: Deutsche Telekom DSL Router
+  brand_name: Deutsche Telekom
+  brand_confidence: high
+  category_path:
+  - 消费电子
+  - 网络设备
+  - 家用路由器
+  design_language:
+    silhouette: 大圆角矩形扁平卧式机身，宽高比约4:3，整体轮廓柔和无尖角
+    light_opening: 顶面中央凹陷状态面板，含5个LED点阵指示灯，标签清晰
+    thermal: 机身底部细缝通风，散热隐藏于底座
+    cmf:
+      color: 全白
+      material: ABS塑料
+      finish: 哑光喷漆
+    mounting: 桌面卧式，底部四脚支撑；07.jpg显示亦可竖置（附底部支架）
+    signature_detail: 两个独立圆角胶囊按键（WLAN / WPS）与状态指示区形成主视觉层级
+  design_level:
+    score: 3
+    reason: 功能清晰、界面整洁，但形态保守，整体造型无突破性记忆点，属行业标准解法
+  design_tags:
+  - 极简整合
+  - 白色家电感
+  - 卧式路由器
+  - 胶囊按键
+  - 状态面板居中
+  hero_feature: WLAN/WPS胶囊按键与状态点阵面板的分层布局，兼顾可操作性与视觉秩序
+  problem_solved: 将多功能路由器控制界面简化为两个物理按键+一块状态面板，降低用户认知负担
+  transferable_technique: H07极简整合：将多个功能键收敛为少量有标签的胶囊按键，可迁移至其他家用网络/智能家居设备
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_network_002
+  source_images:
+  - filename: 100.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/100.jpg
+    image_role: hero
+    visual_anchor: 正面全图，顶部长条形开槽散热口为最强视觉特征
+  - filename: 101.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/101.jpg
+    image_role: angle
+    visual_anchor: 3/4侧面，显示机身厚度与顶部散热槽深度
+  product_name: Nokia WiFi Beacon (Rectangular)
+  brand_name: Nokia
+  brand_confidence: high
+  category_path:
+  - 消费电子
+  - 网络设备
+  - Mesh路由器
+  design_language:
+    silhouette: 竖立长方形石碑造型，四角大圆角，宽高比约1:1.5，两侧弧面过渡
+    light_opening: 顶部居中单个微型LED状态指示点（蓝色）
+    thermal: 顶部贯穿式长条形开口散热槽，内部可见黑色鳍片，是主要视觉元素
+    cmf:
+      color: 主体白色，顶部开槽内部黑色，底座黑色
+      material: ABS塑料
+      finish: 哑光
+    mounting: 桌面竖置，底座黑色矩形脚垫
+    signature_detail: 顶部贯通黑色长条散热槽——功能与形式合一，成为品牌记忆点
+  design_level:
+    score: 4
+    reason: 将散热口升华为设计语言的核心元素，黑白对比强烈，家居感与技术感平衡，记忆点清晰
+  design_tags:
+  - H09隐藏工程
+  - H08对比强调
+  - 黑白双色
+  - 竖立石碑形
+  - 散热即设计
+  - Mesh路由器
+  hero_feature: 顶部贯穿黑色长条形散热槽——功能性结构直接成为最强视觉签名
+  problem_solved: 让散热这一工程需求变成设计亮点，避免路由器外观因散热孔而显得廉价
+  transferable_technique: H09隐藏工程反转用法：将散热开口做成贯穿式主视觉元素，可迁移至任何需要兼顾散热与美观的消费电子设备
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_network_004
+  source_images:
+  - filename: 112.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/112.jpg
+    image_role: hero
+    visual_anchor: 正面全图，顶部同心圆环散热结构为核心记忆点
+  product_name: Nokia WiFi Beacon (Cylindrical, Ring-top)
+  brand_name: Nokia
+  brand_confidence: high
+  category_path:
+  - 消费电子
+  - 网络设备
+  - Mesh路由器
+  design_language:
+    silhouette: 纯圆柱体，高宽比约2:1，无任何分件线打断柱身
+    light_opening: 顶面中心单个微型LED（绿色），嵌于同心圆环中央
+    thermal: 顶部同心圆环形散热结构（3-4圈），黑色对比白色柱体，工程美学化
+    cmf:
+      color: 主体白色，顶部散热环黑色，底座黑色
+      material: ABS塑料
+      finish: 哑光
+    mounting: 桌面竖置，黑色圆形底座
+    signature_detail: 顶部同心圆环散热盖——将散热孔设计成唱片/雷达图形，家居艺术感强
+  design_level:
+    score: 4
+    reason: 圆柱体去除一切冗余细节，顶部同心圆环赋予强烈的仪式感与记忆点，黑白对比克制而有力
+  design_tags:
+  - H07极简整合
+  - H08对比强调
+  - 圆柱造型
+  - 同心圆散热
+  - 黑白双色
+  - Mesh路由器
+  - 家居艺术感
+  hero_feature: 顶部同心圆环形散热结构——兼具散热功能与视觉雕塑感，俯视角度记忆点极强
+  problem_solved: 让路由器成为桌面装饰品而非需要隐藏的设备，顶部圆环从任何角度都具观赏性
+  transferable_technique: H08对比强调：顶部功能性结构（散热）通过几何化处理升华为视觉焦点，可迁移至智能音箱、空气净化器等圆柱形产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_network_005
+  source_images:
+  - filename: 116.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/116.jpg
+    image_role: hero
+    visual_anchor: 两种摆放姿态对比（平铺/竖立），展示枢轴旋转系统
+  - filename: 117.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/117.jpg
+    image_role: family
+    visual_anchor: 全产品线俯视平铺，包含路由器/中继器/充电器/小型节点，体系化展示
+  product_name: Vodafone EasyBox Router Ecosystem
+  brand_name: Vodafone
+  brand_confidence: high
+  category_path:
+  - 消费电子
+  - 网络设备
+  - 家用路由器
+  design_language:
+    silhouette: 超薄矩形平板形态，可通过底部枢轴在水平与垂直之间自由旋转；侧面厚度极薄
+    light_opening: 正面中央单个金色/黄铜色圆形Vodafone Logo兼状态指示，极克制
+    thermal: 底座内置通风，正面全封闭
+    cmf:
+      color: 深空灰（近黑）
+      material: 金属质感外壳（铝合金或高光ABS）
+      finish: 哑光磨砂，Logo金属黄铜色点睛
+    mounting: 可桌面平卧或枢轴竖立，系列产品含圆形节点、小方块节点、充电插头节点
+    signature_detail: 金色圆环Vodafone Logo居中——深灰背景+金属徽章，高端感签名；枢轴双姿态系统
+  design_level:
+    score: 5
+    reason: 将路由器做成精品家居品，深灰+金属Logo极具高端感；枢轴系统解决空间适配问题；产品生态系统设计统一，是网络设备品类中设计语言最完整的案例之一
+  design_tags:
+  - H07极简整合
+  - H08对比强调
+  - H05模块化
+  - 深灰金属感
+  - 枢轴旋转
+  - 黄铜Logo
+  - 产品生态系统
+  - 高端路由器
+  hero_feature: 深灰磨砂平板机身+金属黄铜圆环Logo——以精品家居美学颠覆路由器视觉常规
+  problem_solved: 彻底消除路由器的「工具感」，使其成为客厅/书房值得展示的精品；枢轴系统解决横竖摆放需求
+  transferable_technique: H08对比强调：深色主体+单点金属色Logo的高反差组合，可迁移至任何需要高端感的消费电子品类；枢轴双姿态底座可迁移至智能屏/家庭网关
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_network_006
+  source_images:
+  - filename: 12.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/12.jpg
+    image_role: hero
+    visual_anchor: 大小两个圆柱体并排，清晰展示同系列不同规格
+  product_name: Nokia WiFi Beacon Mesh Pair
+  brand_name: Nokia
+  brand_confidence: high
+  category_path:
+  - 消费电子
+  - 网络设备
+  - Mesh路由器
+  design_language:
+    silhouette: 纯圆柱体，底部黑色散热裙边环绕，与白色柱身形成明确分件线
+    light_opening: 柱身正面底部区域隐约可见品牌文字，无显眼状态灯
+    thermal: 底部黑色散热裙（周向细密散热槽），功能与美观兼顾
+    cmf:
+      color: 主体白色，底部散热裙黑色
+      material: ABS塑料
+      finish: 哑光
+    mounting: 桌面竖置
+    signature_detail: 底部黑色散热裙环——形成视觉「底座感」，与白色柱身的分件线干净利落
+  design_level:
+    score: 3
+    reason: 圆柱形态干净，黑白分件清晰，但整体辨识度依赖Nokia品牌，纯造型记忆点不及004（同心圆顶）版本
+  design_tags:
+  - 圆柱造型
+  - 黑白分件
+  - 底部散热裙
+  - Mesh路由器
+  - 家居友好
+  hero_feature: 白色圆柱+黑色底部散热裙的大小规格组合——系统感强，适合Mesh套装场景展示
+  problem_solved: 通过大小两个尺寸规格，视觉上传达Mesh网络「主从节点」概念，降低用户认知门槛
+  transferable_technique: 底部功能件（散热/电源入口）通过深色分件线独立成设计语言，避免底部视觉凌乱，可迁移至智能音箱、桌面净化器等圆柱形产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_network_007
+  source_images:
+  - filename: 19.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/19.jpg
+    image_role: hero
+    visual_anchor: 左侧顶部俯视特写（径向散热鳍片），右侧整机正视图
+  product_name: Huawei WiFi Router (Cylindrical)
+  brand_name: Huawei
+  brand_confidence: high
+  category_path:
+  - 消费电子
+  - 网络设备
+  - 家用路由器
+  design_language:
+    silhouette: 细长圆柱体，高宽比约3:1，顶部收口过渡，比Nokia Beacon更纤细
+    light_opening: 顶面中央圆形区域内嵌圆点阵LED（绿色），顶盖可见复位按键
+    thermal: 顶部环形放射状散热鳍片（约40片细密叶片），俯视呈菊花/涡轮形态
+    cmf:
+      color: 全白
+      material: ABS塑料
+      finish: 哑光
+    mounting: 桌面竖置，底部圆形底座
+    signature_detail: 顶部放射状细密散热鳍片——俯视角度类似涡轮叶片，工程精度感极强
+  design_level:
+    score: 4
+    reason: 顶部放射鳍片在细长白色圆柱上形成极强工程美学，俯视记忆点突出，整体比例优雅
+  design_tags:
+  - H09隐藏工程
+  - H04参数化
+  - 圆柱造型
+  - 放射散热鳍片
+  - 全白
+  - Huawei路由器
+  - 工程美学
+  hero_feature: 顶部放射状细密散热鳍片——参数化工程结构直接成为产品视觉皇冠
+  problem_solved: 将必要的散热结构转化为产品最高辨识度的装饰性元素，使路由器具有精密仪器质感
+  transferable_technique: H04参数化：放射状重复单元（鳍片/叶片）作为顶部/冠部装饰手法，可迁移至智能音箱、空气净化器、桌面路由器等需要顶部散热的圆柱形设备
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_network_008
+  source_images:
+  - filename: 21.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/21.jpg
+    image_role: hero
+    visual_anchor: 壁挂实景，白色铝合金护盖+黑色底座摄像头模组的双色分件清晰可见
+  product_name: Panasonic KX-Series Outdoor Network Camera
+  brand_name: Panasonic
+  brand_confidence: high
+  category_path:
+  - 消费电子
+  - 网络设备
+  - 室外安防摄像头
+  design_language:
+    silhouette: L形结构：上部白色矩形防护罩（遮阳/防雨）+ 下部黑色摄像头模组；整体壁挂安装
+    light_opening: 摄像头模组正面双镜头（广角+长焦）作为功能性视觉焦点
+    thermal: 无外露散热结构，全密封防水设计
+    cmf:
+      color: 上部银白色，下部摄像头模组黑色
+      material: 铝合金护盖，工程塑料摄像头座
+      finish: 上部磨砂金属，下部哑光黑塑料
+    mounting: 壁挂固定，背板贴墙，L形结构使摄像头自然朝下方向
+    signature_detail: 白色铝合金L形遮阳护盖——将防护功能转化为建筑构件感的设计语言
+  design_level:
+    score: 3
+    reason: L形遮阳护盖的建筑感处理有一定设计思考，但整体较功能导向，视觉记忆点有限
+  design_tags:
+  - H02包覆
+  - L形结构
+  - 室外安防
+  - 双色分件
+  - 铝合金护盖
+  - 壁挂安装
+  - 摄像头
+  hero_feature: 白色铝合金L形遮阳护盖——将工程防护件升华为建筑感外观构件
+  problem_solved: 室外摄像头需要防雨遮阳的同时保持视觉克制，不像传统安防设备那样突兀
+  transferable_technique: H02包覆：用结构性护盖包覆功能模组，使设备融入建筑/室外环境，可迁移至室外智能门铃、室外传感器等需要防护的壁挂设备
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

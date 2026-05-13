@@ -1,0 +1,115 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "胶枪"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/胶枪/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_胶枪_001"
+    source_images:
+      - filename: "胶枪__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/胶枪/胶枪__01.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX胶枪套装（腊肠包/铝管型）：银色铝合金圆筒管（DEWALT黑体字标识）+黑色锥形喷嘴，右侧黄色/黑色电机体（20V MAX标签+USA徽标），顶部黑色J形悬挂钩，底部2Ah黄色电池块，另配DCB112充电器"
+      - filename: "胶枪__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/胶枪/胶枪__05.jpg"
+        image_role: "hero"
+        visual_anchor: "同款20V MAX腊肠包铝管胶枪裸机（无电池）：银色铝管筒+黑色锥形喷嘴，黄色电机体（20V MAX+USA标识），黑色J形悬挂钩，底部黄色电池接口座（无电池插入）"
+    product_name: "DeWalt 20V MAX Cordless Caulk Gun - Sausage Pack (Aluminum Barrel)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "胶枪"
+      - "腊肠包胶枪"
+    design_language:
+      silhouette: "水平长管（银色铝合金圆筒，约300-600ml腊肠包装容量）+右端紧凑枪形电机体，整体呈端对端水平形态，总长约500mm；顶部J形钩从电机体上方伸出"
+      light_opening: "N/A（电动工具）；锥形喷嘴口为出胶开口"
+      thermal: "电机体两侧散热格栅"
+      cmf:
+        color: "银色（铝合金圆筒）+ 黑色（喷嘴+电机散热区+J形钩）+ 黄色（电机主体面板）"
+        material: "铝合金圆筒，工程塑料电机体，TPR防滑握把，钢质J形钩"
+        finish: "铝合金本色（拉丝银），哑光黄，哑光黑橡胶"
+      mounting: "20V MAX标准电池底部滑入（电机体底端）"
+      signature_detail: "银色铝合金圆筒是腊肠包胶枪的品类特征：密封筒体代替开框托架，允许腊肠包完全封闭挤压，出胶效率更高；DEWALT黑体字横向印在银色筒上，银黄对比鲜明"
+    design_level:
+      score: 3
+      reason: "银色铝管筒与黄色枪体的双材质组合形成强视觉，20V MAX无绳在胶枪品类具有差异化，整体设计执行到位"
+    design_tags:
+      - "20V MAX"
+      - "无绳"
+      - "腊肠包"
+      - "铝合金筒"
+      - "H10_材料表达"
+      - "H08_对比强调"
+    hero_feature: "银色铝合金圆筒+黑色喷嘴+黄色枪体的三段材质对比，银黄对比将DEWALT标识在胶枪品类中高度可识别"
+    problem_solved: "无绳施打腊肠包密封胶/结构胶，免拉绳管，铝筒密封挤压出胶率更高（腊肠包vs标准卡装）"
+    transferable_technique: "银色铝合金功能筒体与黄色电动枪体的材质+色彩双重对比，将两个功能区域的分工直接外显（H08+H10）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_胶枪_002"
+    source_images:
+      - filename: "胶枪__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/胶枪/胶枪__02.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX开框胶枪套装（标准卡装型）：黑色镂空框架托架（两根平行导轨+前端圆盘压板）替代铝管，黑色连接颈+黄色电机体（20V MAX）+黑色J形悬挂钩，2Ah电池+充电器"
+      - filename: "胶枪__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/胶枪/胶枪__03.jpg"
+        image_role: "hero"
+        visual_anchor: "同款开框胶枪裸机，侧视角：黑色双导轨框架（上下两根平行方管+前端支撑盘+后端卡扣），中部连接段，右侧黄黑电机体，顶部J形钩"
+      - filename: "胶枪__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/胶枪/胶枪__04.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX开框胶枪套装（稍大容量版，约10oz/300ml），黄色比例更高的电机体（'MADE IN THE USA WITH GLOBAL ASSEMBLY'标识），黑色双导轨框架，2Ah电池+充电器"
+      - filename: "胶枪__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/胶枪/胶枪__06.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX开框胶枪裸机（黄色更主导版本），黄色大面积电机体（散热肋纹清晰），黑色双导轨框架，顶部J形钩，底部黄色电池接口座"
+    product_name: "DeWalt 20V MAX Cordless Caulk Gun - Open Frame (Standard Cartridge)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "胶枪"
+      - "开框胶枪"
+    design_language:
+      silhouette: "水平双导轨开框架（两根平行导轨+前端压盘+后端）+右端枪形电机体，标准卡装密封胶管放入开框内，整体比铝管型更轻量通透；顶部J形钩从电机上方悬出"
+      light_opening: "N/A（电动工具）；前端喷嘴口为出胶开口"
+      thermal: "电机体两侧散热格栅，黄色主面板上可见竖向肋纹"
+      cmf:
+        color: "黑色（双导轨框架+连接颈+J形钩）+ 黄色（电机主体面板）+ 黑色（电机散热区+扳机）"
+        material: "工程塑料框架导轨，工程塑料电机体，TPR防滑握把，钢质J形钩"
+        finish: "哑光黑框架，哑光黄电机体，哑光黑橡胶"
+      mounting: "20V MAX标准电池底部滑入"
+      signature_detail: "黑色镂空双导轨框架使卡装胶管完全可见——用户可实时看到剩余胶量，功能透明性内嵌于造型；与腊肠包铝管型形成材质+结构的双重差异"
+    design_level:
+      score: 3
+      reason: "开框架托架的镂空结构将标准品类形态做到足够好，黄黑DeWalt CMF在胶枪品类完整延伸，J形悬挂钩是工地实用细节"
+    design_tags:
+      - "20V MAX"
+      - "无绳"
+      - "开框架"
+      - "标准卡装"
+      - "J形悬挂钩"
+      - "H09_隐藏工程"
+    hero_feature: "黑色镂空双导轨框架——通透结构使胶量实时可见，功能可读性内嵌于造型；顶部J形钩可悬挂于梯档/架杆"
+    problem_solved: "无绳施打标准300ml卡装密封胶，J形悬挂钩解放双手（高处施工），开框透视剩余胶量"
+    transferable_technique: "开框镂空托架将容量状态实时外显，用结构透明性代替独立显示窗口（H09逆向——去除遮挡，功能自显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

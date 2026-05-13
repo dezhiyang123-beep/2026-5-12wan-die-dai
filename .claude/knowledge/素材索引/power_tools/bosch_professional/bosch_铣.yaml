@@ -1,0 +1,511 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "铣"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bosch_铣_001"
+    source_images:
+      - filename: "铣__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__01.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线修边机（Compact Router/Palm Router），型号GKF18V-25（COLT系列），深蓝色机身，上部CORE18V红黑大容量电池插入，黑色机身底部有金属导向底座（银灰色铝制），红色电源开关，机身右侧有弹夹式刀具锁紧机构（金属），顶部有COLT标识"
+      - filename: "铣__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__13.jpg"
+        image_role: "variant"
+        visual_anchor: "18V无线修边机，型号GKF18V-25，同款不同角度，展示银灰色铝制底座和机身蓝色塑料结构"
+    product_name: "Bosch GKF18V-25 COLT 18V Cordless Palm Router"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "修边机", "无线", "18V"]
+    design_language:
+      silhouette: "竖直圆柱形整体轮廓，上部电池仓突出，下部金属底座收窄，形成梯形侧视剪影"
+      light_opening: "N/A"
+      thermal: "机身上部有散热格栅"
+      cmf:
+        color: "深蓝色塑料机身，红黑色CORE18V电池（顶部）银灰色铝合金底座（底部），红色电源开关"
+        material: "工程塑料机身，铝合金底座，CORE18V锂电池"
+        finish: "哑光蓝塑料，阳极氧化银灰铝底座，亮红黑电池"
+      mounting: "18V无线（CORE18V电池从顶部插入）"
+      signature_detail: "COLT标识（奔马图案），顶部CORE18V电池仓成为视觉顶部，银灰铝合金底座+机身蓝塑料形成材质分层，弹夹式刀具锁紧"
+    design_level:
+      score: 4
+      reason: "竖直圆柱无线修边机形态独特，COLT子品牌标识（奔马）增加个性，铝合金底座+塑料机身的材质分层有设计层次感，整体比有线款更有现代感"
+    design_tags: ["修边机", "无线", "18V", "COLT", "铝合金底座", "竖直圆柱形", "GKF系列"]
+    hero_feature: "竖直圆柱形无线形态+顶部CORE18V电池+铝合金底座三段式材质分层"
+    problem_solved: "无线修边打型，单手可操作竖直握持，CORE18V电池提供高功率续航"
+    transferable_technique: "竖直圆柱形握持姿态（区别于卧式握持），三段材质分层（电池-塑料-金属底座）可迁移至其他小型竖直握持工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_002"
+    source_images:
+      - filename: "铣__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__02.jpg"
+        image_role: "hero"
+        visual_anchor: "有线固定底座型大型木工铣机，蓝色机身顶部，银灰色铸铝圆柱底座（透明底板，可见刀头），两侧大型黑色橡胶球形把手，顶部红色调速旋钮，机身上方有散热格栅，整体为圆柱形"
+    product_name: "Bosch MRF23EVS Fixed Base Router"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "木工铣机", "有线", "固定底座"]
+    design_language:
+      silhouette: "圆柱形，上部蓝色电机+下部银灰圆柱底座，两侧球形把手向外延伸，底部透明底板"
+      light_opening: "N/A"
+      thermal: "顶部中心区散热格栅"
+      cmf:
+        color: "深蓝色顶部电机盖，银灰色铸铝底座，黑色橡胶球形把手，透明底板，红色调速旋钮"
+        material: "工程塑料电机盖，铸铝底座，橡胶把手，PC透明底板"
+        finish: "哑光蓝顶盖，银色铸铝底座，橡胶球形把手"
+      mounting: "有线"
+      signature_detail: "大型橡胶球形把手（双侧），透明底板可视导向，红色调速旋钮，铸铝精密底座"
+    design_level:
+      score: 3
+      reason: "经典大型铣机形态，铸铝底座传达精密感，球形橡胶把手人机工程合理，整体执行标准"
+    design_tags: ["木工铣机", "有线", "固定底座", "大型", "球形把手", "铸铝底座"]
+    hero_feature: "两侧大型橡胶球形把手+透明底板+铸铝精密底座组合"
+    problem_solved: "木材成型铣削，双手球形把手提供精确控制，透明底板可见导向线"
+    transferable_technique: "球形双把手的设计语言（源自机床），铸铝+透明底板的精密感组合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_003"
+    source_images:
+      - filename: "铣__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__03.jpg"
+        image_role: "hero"
+        visual_anchor: "有线浮动底座型大型铣机，蓝色顶部电机，银灰色铝制浮动底座（带深度标尺），两侧大型黑色把手（方形截面而非球形），两根银色垂直导柱，圆形精密底板，红色调速旋钮，深度锁紧旋钮"
+    product_name: "Bosch MRP23EVS Plunge Base Router"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "木工铣机", "有线", "浮动底座"]
+    design_language:
+      silhouette: "高柱形，两根垂直导柱支撑浮动底座，整体纵向结构强调精密升降，两侧方形把手"
+      light_opening: "N/A"
+      thermal: "顶部散热"
+      cmf:
+        color: "深蓝色顶盖，银灰色铝底座，黑色橡胶把手，银色导柱，红色调速旋钮"
+        material: "工程塑料顶盖，铸铝底座，不锈钢导柱，橡胶把手"
+        finish: "哑光蓝，银灰铸铝，银光不锈钢导柱"
+      mounting: "有线"
+      signature_detail: "双垂直导柱+深度标尺（精密感），方形大把手，浮动底座机构"
+    design_level:
+      score: 3
+      reason: "浮动底座铣机标准形态，双导柱结构是品类身份锚点，精密深度标尺强调专业性，整体执行合格"
+    design_tags: ["木工铣机", "有线", "浮动底座", "双导柱", "深度标尺", "大型"]
+    hero_feature: "双垂直导柱+深度标尺的精密浮动结构，使机床感觉"
+    problem_solved: "精密深度控制铣削，浮动底座允许垂直进刀，双导柱保证垂直精度"
+    transferable_technique: "双导柱垂直结构作为精密感设计语言，深度标尺的精密刻度外显"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_004"
+    source_images:
+      - filename: "铣__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__04.jpg"
+        image_role: "hero"
+        visual_anchor: "有线修边机（Compact Router），蓝色机身上部，银灰色透明底座（含刀头可视区），左侧为浮动底座配件（无主机），右侧为带修边机的固定底座配件组合展示，蓝色COLT标识"
+    product_name: "Bosch COLT PR20EVSPK Compact Router with Plunge Base"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "修边机", "有线", "配件套装"]
+    design_language:
+      silhouette: "小型圆柱修边机+可互换底座系统，展示模块化设计"
+      light_opening: "N/A"
+      thermal: "顶部通风"
+      cmf:
+        color: "蓝色机身，银灰铝制底座，透明PC底板"
+        material: "工程塑料，铝合金，PC透明"
+        finish: "哑光蓝，银灰铝，透明PC"
+      mounting: "有线"
+      signature_detail: "可互换固定/浮动底座系统，透明底板可视性"
+    design_level:
+      score: 3
+      reason: "模块化底座系统是产品差异化，设计语言统一，透明底板是实用性设计，执行标准"
+    design_tags: ["修边机", "有线", "模块化底座", "COLT", "配件系统"]
+    hero_feature: "可互换固定/浮动双底座模块化系统"
+    problem_solved: "一机两用，固定底座做边缘铣削，浮动底座做精密深度控制"
+    transferable_technique: "模块化底座可互换的设计策略，同一电机单元对应多种底座附件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_005"
+    source_images:
+      - filename: "铣__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__05.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线修边机，型号GLF18V-25，深蓝色机身，顶部有18V电池接口（无刷标识），银灰色透明底座，精简圆柱形，与GKF18V-25同平台但机身更纤细"
+    product_name: "Bosch GLF18V-25 18V Cordless Laminate Trimmer"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "修边机", "无线", "18V", "贴面修边"]
+    design_language:
+      silhouette: "细长竖直圆柱形，比GKF18V-25更纤细，底座透明"
+      light_opening: "N/A"
+      thermal: "机身顶部散热"
+      cmf:
+        color: "深蓝色机身，银灰色透明底座，18V电池接口区黑色"
+        material: "工程塑料，铝/PC底座，18V锂电"
+        finish: "哑光蓝，透明PC底座"
+      mounting: "18V无线（电池从顶部插入）"
+      signature_detail: "无刷电机标识，细长圆柱形无线形态，透明底座"
+    design_level:
+      score: 3
+      reason: "18V无线修边机简洁造型，无刷技术标识，整体执行标准，造型比GKF系列更简洁"
+    design_tags: ["修边机", "无线", "18V", "无刷", "贴面修边", "GLF系列"]
+    hero_feature: "细长无线圆柱形态+透明底座可视组合"
+    problem_solved: "无线贴面/层压板修边，轻量便携"
+    transferable_technique: "透明底座的功能可视性设计，用户可看到刀头位置精确对线"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_006"
+    source_images:
+      - filename: "铣__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__06.jpg"
+        image_role: "hero"
+        visual_anchor: "有线修边机套装，型号GKF125CE，含工具本体（蓝色小型圆柱修边机）、浮动底座（银灰铝制）、各种导向配件（直线导板、圆形导板等铝制配件）、扳手，搭配蓝色硬壳工具箱"
+      - filename: "铣__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__07.jpg"
+        image_role: "variant"
+        visual_anchor: "有线修边机套装，型号GKF125CE，另一展示角度，工具本体+直线导板+扳手+蓝色硬壳箱"
+    product_name: "Bosch GKF125CE Palm Router with Case and Accessories"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "修边机", "有线", "套装"]
+    design_language:
+      silhouette: "修边机套装，蓝色硬壳工具箱承载全套配件，银灰铝制配件系统"
+      light_opening: "N/A"
+      thermal: "工具本体顶部通风"
+      cmf:
+        color: "蓝色工具本体，银灰铝制配件，蓝色硬壳工具箱（L-BOXX系统）"
+        material: "工程塑料，铝合金配件，硬壳ABS工具箱"
+        finish: "哑光蓝，银色铝配件，蓝色注塑工具箱"
+      mounting: "有线"
+      signature_detail: "L-BOXX系统蓝色硬壳工具箱，铝制精密导向配件系统，套装完整性"
+    design_level:
+      score: 3
+      reason: "套装配置完整，L-BOXX工具箱系统提升专业形象，铝制配件系统精密感强，整体产品线一致"
+    design_tags: ["修边机", "有线", "套装", "L-BOXX", "导向配件", "GKF系列"]
+    hero_feature: "L-BOXX蓝色硬壳工具箱+铝制精密导向配件套装体系"
+    problem_solved: "修边全场景覆盖，不同导向配件适应不同工作需求"
+    transferable_technique: "L-BOXX系统（蓝色硬壳箱）作为品牌系统感载体；套装产品通过工具箱颜色统一形成视觉整体"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_007"
+    source_images:
+      - filename: "铣__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__08.jpg"
+        image_role: "hero"
+        visual_anchor: "有线小型修边机，型号GKF125CE，蓝色机身，银灰色透明底座，红色电源开关，顶部COLT标识，散热格栅，圆柱形单手操作，整体紧凑"
+    product_name: "Bosch GKF125CE COLT Palm Router"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "修边机", "有线", "掌形"]
+    design_language:
+      silhouette: "圆柱形掌托修边机，上蓝下透明，中间有金属环形夹紧，比例上2/3蓝色1/3透明底座"
+      light_opening: "N/A"
+      thermal: "机身上部散热格栅"
+      cmf:
+        color: "蓝色机身，透明PC底座，红色电源开关，银灰金属夹环"
+        material: "工程塑料，PC透明底座，金属夹环"
+        finish: "哑光蓝，透明光滑底座，金属银夹环"
+      mounting: "有线"
+      signature_detail: "COLT标识，透明底座，金属夹紧环，红色方形电源开关"
+    design_level:
+      score: 3
+      reason: "有线掌形修边机标准设计，透明底座是功能性设计亮点，COLT子品牌有辨识度，执行规整"
+    design_tags: ["修边机", "有线", "掌形", "透明底座", "COLT", "GKF系列"]
+    hero_feature: "透明PC底座可视刀头位置，一体化金属夹紧环"
+    problem_solved: "边缘修整和图案铣削，透明底座提升对线精度"
+    transferable_technique: "透明底座设计（功能性透明，非装饰性），金属夹紧环作为材质过渡和结构特征"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_008"
+    source_images:
+      - filename: "铣__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__09.jpg"
+        image_role: "hero"
+        visual_anchor: "早期有线修边机（COLT PR20EVS），蓝色机身，银灰色铝制透明底座，深度标尺刻度在底座侧面，COLT LOOP标识，红色电源开关，比现款更早设计语言，底部前侧有方形导向底板"
+    product_name: "Bosch COLT PR20EVS Palm Router (Legacy)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "修边机", "有线", "历史款"]
+    design_language:
+      silhouette: "修边机圆柱形，早期造型线条更硬朗，铝制底座有刻度标尺，底部方形底板"
+      light_opening: "N/A"
+      thermal: "顶部通风"
+      cmf:
+        color: "蓝色机身，银灰铝底座，红色开关，透明底板"
+        material: "工程塑料，铸铝底座，透明PC"
+        finish: "哑光蓝，铸铝银，透明"
+      mounting: "有线"
+      signature_detail: "铝制底座侧面深度刻度标尺，COLT LOOP标识，方形导向底板"
+    design_level:
+      score: 3
+      reason: "早期COLT修边机，铸铝底座精密感，刻度标尺功能外显，设计较现款更硬朗，品牌延续性强"
+    design_tags: ["修边机", "有线", "历史款", "COLT", "铸铝底座", "深度标尺"]
+    hero_feature: "铸铝底座+侧面深度标尺的精密工具感"
+    problem_solved: "修边铣削精密深度控制"
+    transferable_technique: "刻度标尺作为精密感设计语言外显于机身侧面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_009"
+    source_images:
+      - filename: "铣__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__10.jpg"
+        image_role: "hero"
+        visual_anchor: "有线修边机套装，COLT PR20EVSPK，含工具本体、多种底座配件（固定底座、浮动底座、边缘导向底座）、各种铝制配件、扳手、钻头，搭配蓝色硬壳工具箱"
+    product_name: "Bosch COLT PR20EVSPK Router Master Kit"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "修边机", "有线", "全套配件"]
+    design_language:
+      silhouette: "修边机全套展示，多种底座配件构成模块化系统，蓝色工具箱为视觉主体"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "蓝色工具箱，蓝色工具本体，银灰铝制配件群"
+        material: "工程塑料，铝合金配件，硬壳ABS工具箱"
+        finish: "蓝色注塑箱，银色铝配件"
+      mounting: "有线"
+      signature_detail: "模块化多底座系统，全套配件展示，蓝色工具箱统一视觉"
+    design_level:
+      score: 3
+      reason: "全套系统展示，配件丰富度传达专业性，蓝色工具箱作为品牌视觉统一载体"
+    design_tags: ["修边机", "有线", "全套配件", "模块化底座", "COLT", "工具箱套装"]
+    hero_feature: "多底座模块化配件系统的完整性展示"
+    problem_solved: "一机覆盖所有修边/铣削场景"
+    transferable_technique: "模块化系统通过工具箱整合展示，强化系统价值感而非单品价值"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_010"
+    source_images:
+      - filename: "铣__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__11.jpg"
+        image_role: "hero"
+        visual_anchor: "有线修边机（COLT PR20EVS另一角度），蓝色机身，铝制底座，左侧展示浮动底座配件（银灰色），右侧展示带固定底座的本体，方形底板"
+    product_name: "Bosch COLT PR20EVS with Plunge Base Combo"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "修边机", "有线", "固定+浮动双底座"]
+    design_language:
+      silhouette: "修边机+浮动底座配件对比展示，浮动底座双导柱结构"
+      light_opening: "N/A"
+      thermal: "顶部通风"
+      cmf:
+        color: "蓝色本体，银灰铝配件"
+        material: "工程塑料，铝合金底座"
+        finish: "哑光蓝，银灰铝"
+      mounting: "有线"
+      signature_detail: "固定与浮动底座可互换，展示模块化能力"
+    design_level:
+      score: 3
+      reason: "模块化底座系统展示，设计语言一致，执行标准"
+    design_tags: ["修边机", "有线", "模块化底座", "COLT", "双导柱浮动底座"]
+    hero_feature: "固定/浮动底座可互换的模块化系统"
+    problem_solved: "单电机对应多种作业需求"
+    transferable_technique: "底座配件模块化策略降低用户工具成本，增加平台粘性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_011"
+    source_images:
+      - filename: "铣__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__12.jpg"
+        image_role: "hero"
+        visual_anchor: "12V无线小型铣机，型号GKF12V-25，深蓝色机身，黑色顶部，弧形顶部设计（类似手枪形而非标准圆柱形），银灰色精密底座（矩形底板），红色电源开关，绿色EC indicator LED灯，整体更小巧"
+    product_name: "Bosch GKF12V-25 12V Cordless Palm Router"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "修边机", "无线", "12V"]
+    design_language:
+      silhouette: "12V超小型，顶部弧形手枪握持造型（区别于18V款的竖直圆柱），底部精密矩形底座，整体更低矮"
+      light_opening: "N/A"
+      thermal: "机身侧面散热"
+      cmf:
+        color: "深蓝色+黑色双色机身，银灰色矩形底座，红色电源开关，绿色LED指示"
+        material: "工程塑料，铝合金底座，12V电池集成在机身内"
+        finish: "哑光蓝+哑光黑，银灰铝底座"
+      mounting: "12V无线（电池集成/插入式）"
+      signature_detail: "弧形手枪型顶部（区别于圆柱握持），绿色LED状态指示，矩形精密底座带刻度"
+    design_level:
+      score: 4
+      reason: "12V款采用非常规弧形手枪握持形态，区别于同系列圆柱款，人机工程差异化明显，绿色LED状态指示设计细节到位，整体有一定造型创新"
+    design_tags: ["修边机", "无线", "12V", "手枪形握持", "紧凑型", "GKF系列", "LED指示"]
+    hero_feature: "弧形手枪握持形态+矩形精密底座，完全区别于圆柱型修边机"
+    problem_solved: "12V轻量精密修边，手枪形握持更适合单手低角度作业"
+    transferable_technique: "同品类不同功率产品通过握持形态（手枪型vs圆柱型）实现差异化，而非仅靠尺寸区分"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_012"
+    source_images:
+      - filename: "铣__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__14.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线修边机套装（L-BOXX版），GKF18V-25，含COLT蓝色本体+CORE18V电池+充电器+浮动底座+透明/蓝色附件护罩，搭配蓝色L-BOXX硬壳工具箱"
+    product_name: "Bosch GKF18V-25 COLT 18V Router Kit with L-BOXX"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "修边机", "无线", "18V", "套装", "L-BOXX"]
+    design_language:
+      silhouette: "无线修边机L-BOXX套装展示，蓝色系统视觉整体"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "蓝色工具主体，红黑CORE18V电池，蓝色L-BOXX工具箱，透明配件护罩"
+        material: "工程塑料，锂电，硬壳ABS"
+        finish: "哑光蓝，透明PC护罩"
+      mounting: "18V无线（CORE18V）"
+      signature_detail: "L-BOXX蓝色硬壳系统箱，CORE18V红黑电池，透明配件护罩可见内部"
+    design_level:
+      score: 3
+      reason: "L-BOXX套装展示系统感，蓝色统一视觉，标准套装配置执行"
+    design_tags: ["修边机", "无线", "18V", "L-BOXX", "套装", "COLT", "CORE18V"]
+    hero_feature: "L-BOXX+CORE18V+工具三件套系统视觉整体"
+    problem_solved: "无线修边全套解决方案，L-BOXX保护和携带"
+    transferable_technique: "L-BOXX硬壳箱系统是Bosch Professional高端套装标志，蓝色系统统一感强"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_013"
+    source_images:
+      - filename: "铣__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__15.jpg"
+        image_role: "hero"
+        visual_anchor: "有线大型固定底座铣机，蓝色顶盖，银灰色大型铸铝圆柱底座，两侧木质圆球形把手（自然木色，与蓝色/银灰形成对比），透明圆形底板，红色小型开关旋钮"
+    product_name: "Bosch 1617EVS Fixed Base Router with Wood Handles"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "木工铣机", "有线", "固定底座", "木把手"]
+    design_language:
+      silhouette: "经典大型铣机圆柱形，木质球形把手向两侧对称延伸，底部透明大圆底板"
+      light_opening: "N/A"
+      thermal: "顶盖中心散热"
+      cmf:
+        color: "蓝色顶盖，银灰铸铝底座，自然木色球形把手，透明PC底板"
+        material: "工程塑料顶盖，铸铝底座，实木球形把手，PC透明底板"
+        finish: "哑光蓝，银色铸铝，木材自然纹理，透明底板"
+      mounting: "有线"
+      signature_detail: "实木球形把手（自然木色）与专业蓝色机身的材质对比，大圆透明底板"
+    design_level:
+      score: 4
+      reason: "实木把手在全蓝色工业工具语境中是罕见的材质对比，木材的温暖感与铸铝/蓝色塑料的冷工业感形成有意义的张力，有独特记忆点"
+    design_tags: ["木工铣机", "有线", "固定底座", "木质把手", "材质对比", "大型铣机"]
+    hero_feature: "自然木色实木球形把手与蓝色工业机身的材质对比"
+    problem_solved: "精密木工铣削，木质把手在长时间操作中提供更舒适的触感"
+    transferable_technique: "工业工具中引入天然材质（木材），在纯工程材料环境下创造强烈记忆点；球形把手的人机工程与装饰统一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_铣_014"
+    source_images:
+      - filename: "铣__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__16.jpg"
+        image_role: "hero"
+        visual_anchor: "有线大型固定底座铣机，型号MRF23EVS，蓝色顶盖，银灰色大型铸铝圆柱底座，两侧黑色橡胶球形把手（包胶，区别于木柄款），透明圆形底板，红色调速旋钮显著，深度调节指示环"
+      - filename: "铣__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/铣/铣__17.jpg"
+        image_role: "variant"
+        visual_anchor: "有线大型浮动底座铣机，型号MRP23EVS，蓝色顶盖，银灰铸铝浮动底座，两侧黑色橡胶把手，双垂直导柱，深度标尺，圆形精密底板，与MRF23EVS同系列浮动版"
+    product_name: "Bosch MRF23EVS / MRP23EVS Router Series"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "木工铣机", "有线", "大型专业"]
+    design_language:
+      silhouette: "圆柱形大型铣机，固定底座版（MRF）vs浮动底座版（MRP），橡胶球形把手，铸铝精密底座"
+      light_opening: "N/A"
+      thermal: "顶部散热"
+      cmf:
+        color: "蓝色顶盖，银灰铸铝底座，黑色橡胶球形把手，透明或不透明圆形底板，红色调速旋钮"
+        material: "工程塑料顶盖，重型铸铝底座，橡胶球形把手，PC底板"
+        finish: "哑光蓝，银色铸铝，橡胶软质，透明底板"
+      mounting: "有线"
+      signature_detail: "红色调速旋钮在蓝色顶盖上的视觉对比，重型铸铝底座的精密工业质感，球形橡胶双把手"
+    design_level:
+      score: 3
+      reason: "专业大型铣机标准执行，铸铝底座精密感，球形把手人机合理，红色调速旋钮清晰可操作，整体品牌识别度高"
+    design_tags: ["木工铣机", "有线", "大型", "铸铝底座", "球形把手", "调速旋钮", "MR系列"]
+    hero_feature: "重型铸铝圆柱底座+红色调速旋钮的精密专业工具语言"
+    problem_solved: "专业木工精密铣削，大功率电机，精密深度调节"
+    transferable_technique: "红色功能旋钮在蓝色机身上的视觉焦点策略；铸铝底座作为精密感象征"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

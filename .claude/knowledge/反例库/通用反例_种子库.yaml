@@ -1,0 +1,33 @@
+# 通用反例种子库
+# 覆盖最常见的设计迁移失败模式，适用于所有品类
+# 随项目积累，每个品类会有自己的专属反例卡
+
+- anti_id: "ANTI-SEED-001"
+  source_product: "消费电子圆润语言用于工业产品"
+  what_not_to_do: "把消费电子的圆润过渡曲面直接用在工业/专业工具上"
+  why_dangerous: "圆润曲面传递亲和感，但工业用户期待力量感和耐用感，会显得不专业"
+  applies_to: "电动工具、工业灯具、专业设备"
+
+- anti_id: "ANTI-SEED-002"
+  source_product: "整块CNC铝一体壳"
+  what_not_to_do: "用整块CNC铝削出一体化外壳来追求极简"
+  why_dangerous: "CNC铝壳BOM极高（适合Apple/Bang&Olufsen），OEM品类成本走廊通常不支持"
+  applies_to: "OEM灯具、中低端消费电子、电动工具"
+
+- anti_id: "ANTI-SEED-003"
+  source_product: "过度装饰线条"
+  what_not_to_do: "用大量装饰性线条、纹理、棱线来制造'设计感'"
+  why_dangerous: "过度装饰让产品看起来像廉价玩具而非专业工具/高端产品，模具成本也高"
+  applies_to: "所有品类"
+
+- anti_id: "ANTI-SEED-004"
+  source_product: "标志性品牌语言直接借用"
+  what_not_to_do: "直接借用Dyson/Apple/Braun等标志性品牌的核心设计语言"
+  why_dangerous: "一眼看出在模仿，损害客户品牌独立性，有抄袭风险"
+  applies_to: "所有品类"
+
+- anti_id: "ANTI-SEED-005"
+  source_product: "双曲面玻璃等高难工艺"
+  what_not_to_do: "使用双曲面玻璃、超薄悬浮结构等需要极高模具精度的工艺"
+  why_dangerous: "普通OEM供应链没有对应模具能力，良率低、成本高、交期长"
+  applies_to: "OEM灯具、中低端消费电子"

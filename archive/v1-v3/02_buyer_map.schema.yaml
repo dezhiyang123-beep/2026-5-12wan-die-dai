@@ -1,0 +1,33 @@
+# 02_buyer_map.schema.yaml — G2买家地图
+
+schema_version: "2.0"
+
+required:
+  value_perceiver:
+    type: string
+    description: "谁感受到价值（实际使用者）"
+
+  payer:
+    type: string
+    required_hard: true
+    description: "谁付钱（个人/企业/项目方，有确认）。UNKNOWN→HOLD"
+
+  decision_process:
+    type: list
+    description: "从发现需求到下单的步骤"
+
+  roi_impact_points:
+    type: list
+    description: "影响ROI判断的关键节点，用于G6成本ROI计算"
+
+  current_alternatives:
+    type: list
+    description: "目前替代方案（用户现在用什么解决同样问题）"
+
+  switching_cost:
+    type: string
+    description: "从替代方案切换的成本/阻力"
+
+validation:
+  - required_hard字段：payer，UNKNOWN→HOLD
+  - roi_impact_points不得为空（用于G6 ROI计算依据）

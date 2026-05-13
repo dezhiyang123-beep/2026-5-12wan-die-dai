@@ -1,0 +1,363 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "壁挂灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_壁挂灯_001"
+    source_images:
+      - filename: "01__from路桩灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯/01__from路桩灯.jpg"
+        image_role: "hero"
+        visual_anchor: "顶部密集平行散热鳍片+底部裸露LED阵列条带"
+    product_name: "RAB 壁挂式工业散热鳍片LED灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁挂灯"]
+    design_language:
+      silhouette: "矩形砖块轮廓，顶部微前倾，四角带小型安装耳扣"
+      light_opening: "底部水平条带开口，LED阵列直接外露，无玻璃面罩"
+      thermal: "顶盖密集平行散热鳍片，竖向排列约12-14条，功能外显"
+      cmf:
+        color: "哑光黑"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光"
+      mounting: "四角安装耳扣，直接壁面固定"
+      signature_detail: "散热鳍片与LED裸阵并置，工程感强，无遮挡"
+    design_level:
+      score: 3
+      reason: "功能外显语言清晰，散热结构即视觉特征，但整体造型较传统，无明显差异化记忆点"
+    design_tags: ["散热鳍片外显", "LED裸阵", "工业风", "功能即造型", "H11功能外显"]
+    hero_feature: "顶部密集散热鳍片与底部LED裸阵的并置构图"
+    problem_solved: "高功率户外LED壁挂灯的散热可视化，向用户传递耐用性信心"
+    transferable_technique: "散热鳍片作为主视觉特征的手法，可迁移至需要强调散热/耐用性的工具类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_壁挂灯_002"
+    source_images:
+      - filename: "02__from路桩灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯/02__from路桩灯.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面内凹弧线分件+底部黄色COB LED阵列"
+    product_name: "RAB 弧线分件壁挂LED灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁挂灯"]
+    design_language:
+      silhouette: "梯形侧剖面，顶部宽底部窄，侧面有内凹弧线分件"
+      light_opening: "底部水平开口，黄色COB LED线阵外露，配反光器"
+      thermal: "外壳整体厚实，散热依靠壳体热容，无外露鳍片"
+      cmf:
+        color: "深灰黑"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光"
+      mounting: "直接背板壁挂，侧面可见安装孔位"
+      signature_detail: "侧面弓形内凹曲线增加视觉层次，非功能性造型语言"
+    design_level:
+      score: 3
+      reason: "侧面弧线是少见的非功能装饰语言，但整体比例偏笨重，上下比例略失调"
+    design_tags: ["弧线分件", "COB LED外露", "梯形轮廓", "非功能装饰线", "H03分件线"]
+    hero_feature: "侧面弓形内凹弧线分件，在纯功能壁挂灯中引入造型语言"
+    problem_solved: "在功能性商业壁挂灯上增加视觉识别度，避免纯盒子感"
+    transferable_technique: "非功能性弧线分件在功能产品上增加设计感的手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_壁挂灯_003"
+    source_images:
+      - filename: "03__from路桩灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯/03__from路桩灯.jpg"
+        image_role: "hero"
+        visual_anchor: "大曲面弧形遮罩+底部横条白色发光面"
+    product_name: "RAB 弯曲面板壁挂LED灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁挂灯"]
+    design_language:
+      silhouette: "近正方形轮廓，正面主盖板为内外双弧面弯曲造型，顶部两枚外露螺丝"
+      light_opening: "底部横向条形开口，白色磨砂漫射面板"
+      thermal: "封闭式外壳，散热依靠背部金属壳体"
+      cmf:
+        color: "深灰（近似青铜黑）"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光"
+      mounting: "背板嵌入式，侧面可见安装螺丝"
+      signature_detail: "正面盖板双向弯曲弧面，从平面产品中制造雕塑感"
+    design_level:
+      score: 4
+      reason: "弯曲弧面盖板是同类商业壁挂灯中少见的雕塑语言，兼顾功能防水与视觉立体感，设计密度较高"
+    design_tags: ["双曲面盖板", "雕塑感", "漫射发光", "H07极简整合", "H10材料表达"]
+    hero_feature: "正面向内外双向弯曲的弧面盖板，赋予功能灯具雕塑感轮廓"
+    problem_solved: "在商业安全照明中实现较高设计感，适用于有外观要求的商业/建筑入口"
+    transferable_technique: "双曲面盖板手法可迁移至需要在功能性外壳上制造视觉张力的品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_壁挂灯_004"
+    source_images:
+      - filename: "11__from景观射灯_from壁挂灯_from路桩灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯/11__from景观射灯_from壁挂灯_from路桩灯.jpg"
+        image_role: "hero"
+        visual_anchor: "横向长条散热鳍片组+弧形顶盖+壁挂臂"
+    product_name: "RAB 横向鳍片壁挂泛光灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁挂灯"]
+    design_language:
+      silhouette: "宽扁横向矩形，弧形顶盖向前悬挑，底部为发光腔开口"
+      light_opening: "底面全幅开口，内嵌LED阵列，配防眩遮光板"
+      thermal: "顶盖上方密集横向平行散热鳍片（约18-20条），整体热管理可视"
+      cmf:
+        color: "深青铜棕"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光"
+      mounting: "左侧L形壁挂臂，固定于墙面，灯头可调仰角"
+      signature_detail: "顶盖弧形遮檐+大面积密集横向鳍片，形成强烈水平节奏"
+    design_level:
+      score: 4
+      reason: "横向鳍片密度与弧形遮檐形成强烈水平韵律，壁挂臂比例协调，整体造型工业感与秩序感并存"
+    design_tags: ["横向鳍片", "弧形遮檐", "壁挂臂可调", "水平节奏", "H11功能外显", "H04参数化"]
+    hero_feature: "大面积密集横向散热鳍片与弧形遮檐构成的强水平节奏"
+    problem_solved: "大功率户外壁挂泛光灯的散热与防眩，同时保持强烈视觉秩序感"
+    transferable_technique: "密集鳍片的参数化节奏感可迁移至工业/户外产品的视觉强化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_壁挂灯_005"
+    source_images:
+      - filename: "12__from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯/12__from泛光灯.jpg"
+        image_role: "hero"
+        visual_anchor: "紧凑正方形+切角顶部+大面积棱纹透明面板"
+    product_name: "RAB 紧凑型棱纹面板壁挂灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁挂灯"]
+    design_language:
+      silhouette: "近正方形轮廓，顶部右侧切角处理，侧面可见两枚螺钉"
+      light_opening: "正面全幅大面积棱纹透明PC/玻璃面板，平嵌于金属框架内"
+      thermal: "封闭式外壳，无外露散热鳍片，紧凑热容散热"
+      cmf:
+        color: "深灰黑"
+        material: "压铸铝框架+棱纹透明PC面板"
+        finish: "框架粉末喷涂哑光，面板高透光"
+      mounting: "背板壁挂，侧面螺钉安装"
+      signature_detail: "顶角切斜处理，赋予方正轮廓方向感"
+    design_level:
+      score: 3
+      reason: "切角顶部是经典壁挂灯语言，面板占比大但棱纹为通用处理，整体设计较成熟规范，无突破性"
+    design_tags: ["切角轮廓", "棱纹透明面板", "紧凑方形", "传统壁挂", "H09隐藏工程"]
+    hero_feature: "顶部切斜角赋予方正壁挂灯明确的方向性与光线投射暗示"
+    problem_solved: "通用商业/住宅户外壁挂照明，兼顾防水与光线漫射"
+    transferable_technique: "切角处理赋予方正体块方向感的手法，低成本高效"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_壁挂灯_006"
+    source_images:
+      - filename: "13__from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯/13__from泛光灯.jpg"
+        image_role: "hero"
+        visual_anchor: "超宽横向矩形+大面积棱纹漫射面板+极薄顶盖"
+    product_name: "RAB 宽版横向棱纹面板壁挂灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁挂灯"]
+    design_language:
+      silhouette: "极宽横向矩形，宽高比约3:1，顶盖极薄，整体扁平横置"
+      light_opening: "正面全幅横向棱纹漫射面板，占据绝大部分正面面积"
+      thermal: "封闭式宽体外壳，顶部侧面可见安装孔，无外露散热结构"
+      cmf:
+        color: "深灰黑"
+        material: "压铸铝框架+棱纹漫射PC面板"
+        finish: "框架粉末喷涂哑光"
+      mounting: "顶部壁挂，横向长幅安装"
+      signature_detail: "超宽横向比例在壁挂灯中形成强烈横向线条感，近似建筑线条灯语言"
+    design_level:
+      score: 4
+      reason: "超宽横向比例突破传统壁挂灯方形/竖形惯例，接近建筑线条灯的视觉语言，适合现代商业立面"
+    design_tags: ["超宽横向", "线条感", "极简建筑语言", "漫射面板", "H07极简整合"]
+    hero_feature: "3:1宽高比的超横向轮廓，在壁挂灯品类中制造建筑级线条感"
+    problem_solved: "现代商业建筑立面对横向连续照明线条的视觉需求，同时满足安全照明功能"
+    transferable_technique: "通过极端比例突破品类惯例的手法，可迁移至其他需要建筑感的照明品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_壁挂灯_007"
+    source_images:
+      - filename: "14__from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯/14__from泛光灯.jpg"
+        image_role: "hero"
+        visual_anchor: "大号方形壁挂+全幅棱纹透明面板+厚实金属框架"
+      - filename: "15__from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯/15__from泛光灯.jpg"
+        image_role: "side"
+        visual_anchor: "侧面超薄剖面+顶部LED阵列+菲涅尔纹理面板侧视"
+    product_name: "RAB 大号开放式棱纹面板壁挂灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁挂灯"]
+    design_language:
+      silhouette: "大号方形，正面全幅棱纹透明玻璃/PC面板，厚实铸铝边框，侧视极薄"
+      light_opening: "正面全幅开口，棱纹高透明面板+内置LED阵列，光效可见"
+      thermal: "超薄侧剖面靠背部金属散热，顶部有控制器元件可见"
+      cmf:
+        color: "深青铜棕黑"
+        material: "压铸铝框架+棱纹透明PC面板"
+        finish: "框架粉末喷涂哑光"
+      mounting: "左侧壁挂支架，可见调节锁紧结构"
+      signature_detail: "超薄侧剖面与大幅面正面产生强烈正侧视觉对比，轻巧感强"
+    design_level:
+      score: 3
+      reason: "侧薄正厚的视觉对比是优点，但整体设计语言较通用，棱纹面板是品类标配处理"
+    design_tags: ["正侧对比", "超薄侧剖", "大幅面透明面板", "功能性商业灯", "H08对比强调"]
+    hero_feature: "超薄侧剖面与大幅面正视的强烈正侧对比，制造轻巧感"
+    problem_solved: "商业停车场/建筑外墙大面积安全照明，强调光效输出与耐候性"
+    transferable_technique: "正侧截面极端对比比例的手法，可迁移至需要轻量感的功能性产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_壁挂灯_008"
+    source_images:
+      - filename: "16__from删除桶.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯/16__from删除桶.jpg"
+        image_role: "hero"
+        visual_anchor: "大斜面棱纹透明面板+极薄金属侧框+单螺钉"
+    product_name: "RAB 斜面大玻璃壁挂灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁挂灯"]
+    design_language:
+      silhouette: "竖向矩形，顶部向后倾斜切削，正面为大斜面透明棱纹面板，侧框极薄"
+      light_opening: "正面全幅大斜面棱纹透明PC面板，面板面积占整体80%以上"
+      thermal: "封闭极薄壳体，热管理依靠金属背板"
+      cmf:
+        color: "哑光黑"
+        material: "薄壁铸铝框架+大面积棱纹透明PC面板"
+        finish: "框架粉末喷涂哑光"
+      mounting: "侧面单螺钉安装，极简固定方式"
+      signature_detail: "顶部切削斜面使透明面板呈倾斜角度，强化向下投光的视觉暗示"
+    design_level:
+      score: 4
+      reason: "顶部斜切使整体造型获得动态方向感，透明面板占比极高制造通透轻盈感，在功能性壁挂灯中属于较高设计密度"
+    design_tags: ["斜切顶部", "大面积透明面板", "极薄框架", "通透感", "H07极简整合", "H08对比强调"]
+    hero_feature: "顶部切削斜面赋予透明面板向下投光的动态方向感，极简框架凸显面板通透性"
+    problem_solved: "在强调通透感与轻量化的商业/住宅户外场景中提供高光效壁挂照明"
+    transferable_technique: "斜切顶部与大面积透明面板结合制造通透动态感的手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_壁挂灯_009"
+    source_images:
+      - filename: "21__from删除桶.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯/21__from删除桶.jpg"
+        image_role: "hero"
+        visual_anchor: "圆角竖向壳体+底部漫射灯罩+顶部光感应窗"
+    product_name: "RAB 竖向圆角壁挂安全灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁挂灯"]
+    design_language:
+      silhouette: "紧凑竖向矩形，顶部大圆角，右侧对角斜向分件线，封闭式壳体"
+      light_opening: "底部向下乳白色漫射灯罩，宽横向条形发光，灯罩有竖向棱纹"
+      thermal: "封闭式塑料/铝合金壳体，无外露散热结构，功率较低"
+      cmf:
+        color: "哑光黑"
+        material: "工程塑料或薄壁铸铝"
+        finish: "粉末喷涂哑光"
+      mounting: "背部平板壁挂，侧面可见安装螺丝孔"
+      signature_detail: "顶部正面有小型方形光感应窗，支持自动黄昏开启功能，功能外露"
+    design_level:
+      score: 2
+      reason: "紧凑实用型安全灯，造型语言非常通用，圆角壳体+漫射灯罩是品类最低门槛形态，无明显设计亮点"
+    design_tags: ["光感应器外露", "漫射灯罩", "圆角壳体", "紧凑安全灯", "入门级"]
+    hero_feature: "顶部光感应窗的功能外显，明确传达自动感应功能"
+    problem_solved: "经济型户外安全壁挂照明，自动感应黄昏开启，适合住宅/小型商业"
+    transferable_technique: "功能传感器窗口的外露设计作为功能沟通点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_壁挂灯_010"
+    source_images:
+      - filename: "25__from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁挂灯/25__from泛光灯.jpg"
+        image_role: "hero"
+        visual_anchor: "楔形横向轮廓+水平分件线+极简底部光腔"
+    product_name: "RAB 楔形极简壁挂LED灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁挂灯"]
+    design_language:
+      silhouette: "横向楔形，正面从左至右逐渐收薄，正视面为大面积平滑曲面，水平分件线将上下两部分划分"
+      light_opening: "底部横向窄缝发光腔，内嵌LED阵列，有防眩光格栅"
+      thermal: "封闭平滑外壳，顶部有通气/传感器孔位，散热依靠大面积金属外壳"
+      cmf:
+        color: "深灰黑"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光，表面光滑无纹理"
+      mounting: "左侧锁扣结构，顶部传感器可见"
+      signature_detail: "楔形轮廓+平滑无纹理表面，在RAB产品线中属于最简洁的造型语言"
+    design_level:
+      score: 4
+      reason: "楔形轮廓赋予壁挂灯方向感与动态感，表面极简无纹理处理提升整体品质感，水平分件线比例精准，是RAB产品中设计语言最克制的一款"
+    design_tags: ["楔形轮廓", "极简平滑", "水平分件", "方向感", "H07极简整合", "H03分件线"]
+    hero_feature: "从左至右收薄的楔形轮廓，在功能性壁挂灯中制造方向感与动态张力"
+    problem_solved: "现代商业/建筑入口需要兼顾设计感与功能性的户外壁挂照明"
+    transferable_technique: "楔形轮廓制造方向感的手法，可广泛迁移至需要方向性暗示的功能性产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

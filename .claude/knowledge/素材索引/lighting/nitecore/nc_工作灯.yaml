@@ -1,0 +1,149 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "手电筒"
+  tertiary: "工作灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/工作灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_工作灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/工作灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "双LED头部+硅胶灯体二合一造型，黑色铝合金头与半透明硅胶筒体对比鲜明"
+    product_name: "Nitecore LR70"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "工作灯"]
+    design_language:
+      silhouette: "矩形短筒型，前段黑色铝合金头部+后段半透明硅胶筒体，整体呈横置枕形"
+      light_opening: "双LED并排椭圆形出光口，宽扁比例，无传统圆形反光杯"
+      thermal: "铝合金头部兼散热，硅胶体提供握持保护"
+      cmf:
+        color: "哑黑铝合金头 + 半透明暖白硅胶体"
+        material: "铝合金头部 + 硅胶筒体"
+        finish: "哑光阳极氧化 + 硅胶磨砂"
+      mounting: "无专用安装结构，尾部可直立放置"
+      signature_detail: "模型切换按钮嵌于头部顶面，侧面COB补光灯条集成于硅胶体"
+    design_level:
+      score: 4
+      reason: "手电+灯笼二合一创新结构，材质分件语言清晰，双光源视觉整合干净"
+    design_tags: ["双光源", "硅胶包覆", "二合一", "模块化头部", "营地灯"]
+    hero_feature: "铝合金手电头可独立拆卸，硅胶灯笼体兼作漫射罩"
+    problem_solved: "户外场景需要同时具备聚光手电和泛光营地灯能力"
+    transferable_technique: "硬质功能模块+软质漫射体的材质二分法，可迁移至其他多场景照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_工作灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/工作灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "复古船灯造型，橄榄绿半球形帽檐+铁笼护罩+爱迪生灯丝外观LED"
+    product_name: "Nitecore LR40 Lantern"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "工作灯"]
+    design_language:
+      silhouette: "钟形/船灯形：上部半球帽檐+下部球形透明灯室+铁艺笼架围护"
+      light_opening: "球形全向散射，透明玻璃罩+金属保护笼，爱迪生灯丝视觉效果"
+      thermal: "铝合金帽体兼散热，灯丝LED低发热"
+      cmf:
+        color: "橄榄绿哑光主体 + 哑黑金属笼架"
+        material: "铝合金帽体 + 玻璃灯罩 + 金属丝笼"
+        finish: "哑光烤漆 + 镀黑金属"
+      mounting: "顶部D型提手，可悬挂或手持"
+      signature_detail: "爱迪生灯丝LED复古美学，旋转顶盖调光"
+    design_level:
+      score: 4
+      reason: "复古工业美学与现代LED技术结合，造型识别度极高，细节完成度高"
+    design_tags: ["复古工业", "营地灯", "全向散射", "悬挂式", "爱迪生灯丝"]
+    hero_feature: "铁艺笼架+爱迪生灯丝视觉，户外营地氛围感满分"
+    problem_solved: "户外露营需要兼具功能照明与氛围营造的桌面/悬挂灯"
+    transferable_technique: "金属保护笼+球形漫射罩结构，可迁移至工业风台灯或便携灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_工作灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/工作灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "警黄色折叠支架工作灯，COB面光源+手电头二合一，折叠支架可自立"
+    product_name: "Nitecore NWL20"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "工作灯"]
+    design_language:
+      silhouette: "矩形面板+圆柱手电头组合，折叠L形支架集成于背面，整体呈T形站立姿态"
+      light_opening: "主面COB大面积泛光+底部圆形手电聚光头，双出光方向"
+      thermal: "铝合金手电头散热，COB区域有散热槽纹"
+      cmf:
+        color: "警黄色主面板 + 深灰/哑黑结构件"
+        material: "铝合金 + ABS工程塑料"
+        finish: "哑光烤漆 + 菱形防滑纹理"
+      mounting: "折叠金属支架，可立放或挂置，磁吸底部可选"
+      signature_detail: "警黄+深灰撞色分件，折叠支架露出后呈现强工具感"
+    design_level:
+      score: 3
+      reason: "工具感强、双光源功能完整，但黄黑配色略显跟随工具品类惯例，创新度中等"
+    design_tags: ["折叠支架", "COB面光源", "双光源", "工具黄", "自立"]
+    hero_feature: "可折叠L形支架令产品无需外部支撑自立，适合工地或车修场景"
+    problem_solved: "工作维修场景需要解放双手、定向照明的便携工作灯"
+    transferable_technique: "集成折叠支架+磁吸底部的自立系统，可迁移至检修灯、摄影补光等场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_工作灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/工作灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "橄榄绿方形阵列LED工作灯，12颗LED矩阵面板，双旋钮侧置，厚实方正机身"
+    product_name: "Nitecore NWL30"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "工作灯"]
+    design_language:
+      silhouette: "正方形厚板块，中央凹陷LED阵列面板，四周黑色橡胶防护框，顶部双旋钮突出"
+      light_opening: "12颗LED矩阵阵列，独立反光杯，均匀宽光束面光源"
+      thermal: "大面积铝合金背板散热，橡胶边框隔热保护"
+      cmf:
+        color: "橄榄绿铝合金主体 + 哑黑橡胶防护框"
+        material: "铝合金 + 橡胶包边"
+        finish: "哑光阳极氧化 + 橡胶磨砂纹"
+      mounting: "底部旋转云台座，可调仰角，侧面有挂点"
+      signature_detail: "顶部双滚花旋钮造型强烈，12颗独立LED阵列呈现强专业感"
+    design_level:
+      score: 3
+      reason: "专业工具感强，LED阵列视觉有冲击力，但整体造型较方正保守，差异化中等"
+    design_tags: ["LED阵列", "橡胶包边", "云台旋转", "专业工作灯", "军绿"]
+    hero_feature: "12颗独立LED矩阵+橡胶四边防护框，专业野战工作灯气质"
+    problem_solved: "需要大面积均匀照射的专业工作或野外作业场景"
+    transferable_technique: "多LED矩阵阵列+橡胶防护框架结构，可迁移至户外摄影灯、工程巡检灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

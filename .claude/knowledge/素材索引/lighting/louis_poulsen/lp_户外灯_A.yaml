@@ -1,0 +1,394 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "lp_户外灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "锥形平顶灯罩+细竖杆+金属底座，暖白哑光涂层，室内风格台灯"
+    product_name: "LP 锥形台灯（疑似室内款）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "倒锥梯形灯罩+垂直细杆，轮廓简洁对称"
+      light_opening: "灯罩开口向下，遮光充分，无眩光"
+      thermal: "无明显散热结构，推测低功率光源"
+      cmf:
+        color: "米白/暖灰"
+        material: "金属（喷涂）"
+        finish: "哑光"
+      mounting: "台面放置"
+      signature_detail: "灯罩与杆连接处极简，无多余装饰"
+    design_level:
+      score: 3
+      reason: "造型克制但缺乏辨识度，品牌语义弱，疑为室内产品被归入户外文件夹"
+    design_tags: ["极简", "锥形灯罩", "台灯", "哑光金属", "北欧简约"]
+    hero_feature: "锥形平顶灯罩与细竖杆形成的极简比例"
+    problem_solved: "提供低调、不抢眼的台面点光源"
+    transferable_technique: "灯罩与杆比例控制——罩径:杆高约1:2.5，视觉重心平衡"
+    confidence:
+      visual_description: "high"
+      category: "low"
+      brand: "high"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "图片显示典型室内台灯场景（室内墙壁+木椅），疑误入户外灯文件夹，需确认产品归类"
+
+  - product_id: "lp_户外灯_002"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "暗色半球形壁灯，上半圆弧遮光帽覆盖光源，暖光向下泄出"
+    product_name: "Flindt Garden Wall（疑似）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "正圆半球体，上部遮光帽与下部发光体融为一体"
+      light_opening: "底部弧形开口向下配光，防眩光"
+      thermal: "壳体厚实，可能集成被动散热"
+      cmf:
+        color: "深炭灰/哑黑"
+        material: "铝合金"
+        finish: "哑光粉末喷涂"
+      mounting: "直接壁挂，嵌入式安装"
+      signature_detail: "上部遮光帽形成盔甲感轮廓，光晕向下集中"
+    design_level:
+      score: 4
+      reason: "轮廓辨识度强，遮光与造型高度统一，夜景光晕效果出色，典型LP户外语言"
+    design_tags: ["壁灯", "半球形", "向下配光", "户外防水", "暗色系", "遮光帽结构"]
+    hero_feature: "遮光帽与圆球体的一体化造型——功能即形式"
+    problem_solved: "户外墙面防眩光照明，同时提供有仪式感的光晕效果"
+    transferable_technique: "遮光帽与发光体整合成单一几何体——消除视觉分件感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_003"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "左侧铜色叠层圆盘柱灯、右侧灰色同款，立于地面，叠层鳍片结构清晰"
+    product_name: "LP 叠层圆盘立柱灯（Bysted Garden 系列疑似）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "短立柱+多层水平圆盘叠加，自下而上收分，整体低矮稳重"
+      light_opening: "各层圆盘间隙出光，360°环形散射"
+      thermal: "叠层鳍片结构兼顾散热与造型"
+      cmf:
+        color: "铜色（氧化铜/铜锈色）/ 浅灰"
+        material: "铝合金或黄铜"
+        finish: "自然氧化或粉末喷涂"
+      mounting: "地面立柱，底部固定"
+      signature_detail: "叠层圆盘间距均匀，层层透光，形成光晕叠加效果"
+    design_level:
+      score: 5
+      reason: "叠层结构同时解决散热、配光、造型三个问题，铜色版本质感极高，LP最具标志性的户外语言之一"
+    design_tags: ["立柱灯", "叠层圆盘", "庭院灯", "铜色", "360度配光", "散热即造型", "H04参数化"]
+    hero_feature: "多层水平圆盘叠加——散热结构即装饰语言"
+    problem_solved: "庭院路径标识照明，兼顾360°环境光与雕塑感外观"
+    transferable_technique: "将功能性散热鳍片转化为视觉节奏元素（H04参数化+H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_004"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色碗形壁灯横排，悬臂出挑，暖光向下打亮木板墙"
+    product_name: "LP Flindt 壁灯 / Nimbus 壁灯（疑似）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "圆碗形灯头+水平悬臂，侧面剪影如逗号"
+      light_opening: "碗口向下，半球形漫射配光"
+      thermal: "碗壁厚实，被动散热"
+      cmf:
+        color: "哑黑"
+        material: "铝合金"
+        finish: "哑光粉末喷涂"
+      mounting: "悬臂壁挂，臂长约15-20cm"
+      signature_detail: "悬臂与碗体连接极简，无多余装饰构件"
+    design_level:
+      score: 4
+      reason: "成排使用形成强烈节奏感，碗形遮光兼顾防眩，悬臂比例优雅，LP经典户外语言"
+    design_tags: ["壁灯", "碗形", "悬臂", "向下配光", "哑黑", "成排布置", "景观照明"]
+    hero_feature: "悬臂+碗形一体的简洁轮廓，成排后节奏感极强"
+    problem_solved: "户外展示墙/长廊均匀照明，防眩光同时保持设计感"
+    transferable_technique: "成排壁灯悬臂长度统一控制——视觉节奏来自重复而非变化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_005"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "两支锈铜色竖杆地插灯，杆身斜切开口出光，暖光从侧面缝隙透出"
+    product_name: "Gavia Garden（疑似）/ LP 竖杆斜切地插灯"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "方/圆截面竖杆，顶部斜切形成倾斜发光面，轮廓如刀削"
+      light_opening: "侧面斜切开口，光线向前单侧投射"
+      thermal: "杆体封闭，内置LED，无明显外部散热"
+      cmf:
+        color: "锈铜/Corten钢色"
+        material: "耐候钢或铜合金"
+        finish: "自然氧化，锈斑肌理"
+      mounting: "地插/地埋底座"
+      signature_detail: "杆顶斜切角度精准，开口与杆身比约1:6，出光极克制"
+    design_level:
+      score: 5
+      reason: "极简几何与自然材料的完美结合，斜切开口将光束精确导向，锈铜色在植被中辨识度极高，LP标志性户外设计"
+    design_tags: ["地插灯", "竖杆", "斜切开口", "耐候钢", "锈铜", "单侧配光", "庭院", "H07极简整合"]
+    hero_feature: "杆顶斜切开口——最少的形态变化实现精准配光"
+    problem_solved: "花园路径低位照明，光束定向不扰乱夜间景观"
+    transferable_technique: "单一几何体上的最小切削即可定义出光方向（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_006"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "白色小型蘑菇罩便携台灯，置于户外茶几，暖光漫射"
+    product_name: "Panthella Portable（户外使用版）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "半球形灯罩+圆锥喇叭底座，整体轮廓饱满圆润"
+      light_opening: "乳白漫射罩360°均匀出光，无明显方向性"
+      thermal: "LED内置，底座可能集成充电模块"
+      cmf:
+        color: "白色"
+        material: "乳白亚克力罩+金属底座"
+        finish: "哑光亚克力+白色喷涂底座"
+      mounting: "台面放置，便携无线"
+      signature_detail: "罩与底座的曲线过渡圆润无缝，比例高度精炼"
+    design_level:
+      score: 4
+      reason: "Panthella原版经典造型移植户外，充电便携使用场景扩展自然，圆润比例在户外家具间辨识度强"
+    design_tags: ["便携台灯", "蘑菇罩", "无线充电", "户外台面", "白色", "圆润", "Panthella"]
+    hero_feature: "半球罩与喇叭底座的圆润曲线一体感"
+    problem_solved: "户外餐桌/茶几无线照明，无需走线"
+    transferable_technique: "底座曲线与罩体曲线相切过渡——消除分件感（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_007"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "黄色圆球罩+细颈+喇叭底座便携台灯，强调色彩，户外/半户外使用"
+    product_name: "Flowerpot VP9 Portable"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "正圆球罩+极细颈杆+外扩喇叭底座，三段式轮廓对比强烈"
+      light_opening: "球形乳白罩全向漫射出光"
+      thermal: "底座内置电池和充电模块"
+      cmf:
+        color: "信号黄（高饱和）"
+        material: "金属罩+金属底座"
+        finish: "高光喷漆"
+      mounting: "台面放置，便携无线"
+      signature_detail: "细颈与球罩、喇叭底座的三段比例——1:3:2，视觉张力来自颈部极度收窄"
+    design_level:
+      score: 5
+      reason: "Flowerpot是LP最具辨识度的图标之一，细颈比例极端但完美，高光黄色夜间发光效果戏剧性强，户外场景中标志性极高"
+    design_tags: ["便携台灯", "球形罩", "细颈", "高光色", "信号黄", "Flowerpot", "户外便携", "图标款"]
+    hero_feature: "极细颈部与球罩的悬浮感——比例激进但平衡"
+    problem_solved: "户外/阳台氛围照明，强调色彩表达而非功能照度"
+    transferable_technique: "极细颈部造成球罩悬浮视觉错觉——比例极端化是记忆点来源（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_008"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "三层水平遮光碟+细铬杆台灯，铬黄色，阳台桌面使用"
+    product_name: "PH 3½-2½ Portable"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "三层渐缩水平遮光碟堆叠，顶大底小，侧视呈阶梯锥形"
+      light_opening: "层间间隙出光，向下配光为主，防直视眩光"
+      thermal: "LED内置，三层金属碟散热面积大"
+      cmf:
+        color: "铬黄/硫磺黄"
+        material: "金属（铝合金）"
+        finish: "高光喷漆+铬杆"
+      mounting: "台面放置，便携无线"
+      signature_detail: "三层碟径比约1:0.75:0.55，Poul Henningsen经典分层配光原理"
+    design_level:
+      score: 5
+      reason: "PH系列是灯具设计史级经典，三层遮光系统将配光物理原理变为造型语言，铬黄色版本现代感强，户外阳台场景极具质感"
+    design_tags: ["台灯", "三层遮光碟", "PH系列", "户外便携", "铬黄", "Poul Henningsen", "经典款", "防眩光"]
+    hero_feature: "三层渐缩遮光碟——配光科学即造型逻辑"
+    problem_solved: "户外阳台桌面高品质照明，完全无眩光"
+    transferable_technique: "多层渐缩遮光碟的径比控制——每层直径差约25%实现平滑遮光过渡（H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_009"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "米白色半球罩蘑菇形台灯，花园木桌上，水面倒影，暮色背景"
+    product_name: "Panthella Portable（户外花园版）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "半球形漫射罩+圆锥喇叭底座，整体轮廓柔和圆润"
+      light_opening: "乳白罩360°均匀漫射，无方向性"
+      thermal: "底座内置充电，低功率LED"
+      cmf:
+        color: "米白/暖白"
+        material: "乳白亚克力罩+金属底座"
+        finish: "哑光亚克力+哑白金属底座"
+      mounting: "台面放置，便携无线"
+      signature_detail: "水面倒影强化了蘑菇罩的球形完整性，氛围感极强"
+    design_level:
+      score: 4
+      reason: "与006同款但不同色彩（米白vs纯白），户外花园夜景呈现LP最经典的情感化灯光语言"
+    design_tags: ["便携台灯", "蘑菇罩", "无线", "户外花园", "米白", "Panthella", "氛围照明"]
+    hero_feature: "半球罩漫射光在夜间环境中的柔和晕染感"
+    problem_solved: "户外花园桌面氛围营造，无线便携随意摆放"
+    transferable_technique: "乳白漫射罩选材——亚克力厚度控制出光均匀度与色温暖度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_010"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "深棕色竖杆地插灯，杆身侧面弧形凹槽出光，前景大柱模糊，海岸背景"
+    product_name: "Gavia Garden（疑似）/ LP 弧形凹槽竖杆灯"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "圆柱杆，侧面纵向弧形凹入形成发光槽，顶部封闭，轮廓几乎等径"
+      light_opening: "杆身侧面弧形开口，线型出光，向前单侧"
+      thermal: "杆体封闭，内置LED，无外部散热结构"
+      cmf:
+        color: "深棕/近黑"
+        material: "铝合金或耐候钢"
+        finish: "哑光深色喷涂"
+      mounting: "地插固定"
+      signature_detail: "弧形凹槽是对圆柱杆的最小切削，出光缝隙与杆径比约1:5，极度克制"
+    design_level:
+      score: 5
+      reason: "弧形凹槽将光源完全隐藏于杆体内，仅见光不见灯，是H09隐藏工程的极致表达，与09.jpg竖杆斜切为同系列不同语言"
+    design_tags: ["地插灯", "竖杆", "弧形凹槽", "线型出光", "深棕", "隐藏光源", "H09隐藏工程", "庭院"]
+    hero_feature: "杆身弧形凹槽——光源完全隐藏，只见光晕不见灯具"
+    problem_solved: "花园路径低位导向照明，极简外观融入自然环境"
+    transferable_technique: "在实体几何上用最小弧形凹入定义出光方向并隐藏光源（H09隐藏工程）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_户外灯_011"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/户外灯/18.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆形壁灯阵列，嵌入混凝土弧形外墙，向下配光，建筑感极强"
+    product_name: "Flindt Wall（大号）/ LP 圆形外墙壁灯"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯"]
+    design_language:
+      silhouette: "正圆形薄碟体，几乎与墙面齐平，侧面极薄"
+      light_opening: "底部弧形开口向下配光，遮光帽隐藏光源"
+      thermal: "圆碟背面贴墙，散热依赖建筑墙体"
+      cmf:
+        color: "白色/浅灰"
+        material: "铝合金"
+        finish: "哑光喷涂"
+      mounting: "直接壁挂，近乎嵌入式"
+      signature_detail: "正圆形轮廓与弧形建筑墙面的几何呼应，阵列等间距强化建筑节奏"
+    design_level:
+      score: 4
+      reason: "正圆形极简造型与现代建筑高度契合，阵列布置产生强烈建筑感，遮光设计优雅，LP商业/公共空间户外灯典型语言"
+    design_tags: ["壁灯", "圆形", "建筑照明", "阵列", "白色", "向下配光", "公共空间", "极简"]
+    hero_feature: "正圆薄碟形态——几何纯粹性与建筑融合"
+    problem_solved: "公共建筑外墙均匀防眩光照明，灯具本身成为建筑立面元素"
+    transferable_technique: "壁灯阵列等间距布置，间距=灯具直径的2-3倍——节奏感与照度均匀性平衡"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

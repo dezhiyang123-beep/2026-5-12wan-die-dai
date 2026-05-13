@@ -1,0 +1,445 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "创意台灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "foscarini_创意台灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向椭圆环形整体发光，环框纯白哑光，无灯罩无底座，环体直接立于极小底座上"
+    product_name: "Anish"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯", "环形台灯"]
+    design_language:
+      silhouette: "竖椭圆环形，宽边框，中心镂空，整体比例约1:1.3（宽:高），轮廓极简纯净"
+      light_opening: "环形内边缘均匀发光，光从椭圆内环面漫射，正面呈现柔和面光效果"
+      thermal: "环形结构内置LED，极薄截面，无热积聚问题"
+      cmf:
+        color: "全身哑光白"
+        material: "polycarbonate/ABS复合"
+        finish: "亚光喷涂，均匀无肌理"
+      mounting: "小型矩形底座落地，单侧出线"
+      signature_detail: "椭圆环体即是光源本身，框与灯合一，无单独灯罩，极致减法"
+    design_level:
+      score: 5
+      reason: "将灯的功能性完全融入纯几何造型，环形即是光，品牌标志性雕塑感语言的极致表达"
+    design_tags: ["环形", "几何极简", "减法设计", "整体发光", "H01减法", "H07极简整合"]
+    hero_feature: "竖向椭圆环形一体成型，无传统灯罩/灯杆分件，环体即光源"
+    problem_solved: "台灯结构拆解感消除，作为光雕塑而非照明工具存在"
+    transferable_technique: "环形/框架形态即光源一体化设计手法；薄壁均匀发光处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意台灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "大号正黄色圆锥形灯罩向一侧倾斜，罩内白色漫射面，矮锥形基座，整体高饱和黄色单色"
+    product_name: "Binic"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯", "方向台灯"]
+    design_language:
+      silhouette: "圆锥形灯罩（开口朝侧向倾斜约45°），罩径远大于基座，整体重心偏高偏侧，形如灯塔或花蕾"
+      light_opening: "圆形正面开口漫射，开口约45°朝下偏侧，白色哑光内壁均匀反射光"
+      thermal: "聚酯/聚碳酸酯罩体轻量，LED热源极小，结构简单散热良好"
+      cmf:
+        color: "柠檬黄（高饱和暖黄）整体单色，包括罩体、基座、连接部"
+        material: "polycarbonate注塑"
+        finish: "亮面喷涂，表面有光泽感"
+      mounting: "矮圆锥形底座直接落地，无独立底盘"
+      signature_detail: "灯罩倾斜角度形成视觉动势，圆锥罩与基座比例夸张（罩大基小），单色整体是品牌经典手法"
+    design_level:
+      score: 5
+      reason: "Binic是Foscarini landmark产品之一，极简锥形造型+夸张色彩+倾斜动势，品牌识别度极高"
+    design_tags: ["锥形", "倾斜动势", "高饱和单色", "灯塔形", "H08对比强调", "H01减法", "经典款"]
+    hero_feature: "圆锥灯罩大幅倾斜，形成强烈方向感与动态张力，整体单色处理令造型更纯粹"
+    problem_solved: "台灯方向感通常靠可调节机构实现，Binic将方向性直接固化在造型里"
+    transferable_technique: "固定倾斜角度赋予静止产品动感；单一纯色覆盖全身以强化造型轮廓"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意台灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "细长锥形白色哑光玻璃灯罩，上宽下收，架于细铁杆上，圆形底盘，底座与杆为蓝灰色"
+    product_name: "Birdie"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯", "传统台灯形态-精简版"]
+    design_language:
+      silhouette: "倒锥形（上宽下收）玻璃罩体，比例修长，杆细于常规，底盘圆而低，整体重心在上"
+      light_opening: "玻璃罩体整体透光，下方开口向下漫射，罩体乳白色均匀透射"
+      thermal: "玻璃罩体导热适中，杆内走线，底盘散热"
+      cmf:
+        color: "灯罩乳白色/半透明白；底座及杆为冷蓝灰色（矿物蓝）"
+        material: "手吹玻璃灯罩；金属杆+底盘"
+        finish: "玻璃磨砂/乳化处理；金属亚光喷涂"
+      mounting: "圆形金属底盘，细直杆居中，尾部出线于底盘侧"
+      signature_detail: "玻璃罩与金属杆色彩对比（白罩/蓝灰杆），比例上罩体体量远大于杆，视觉漂浮感"
+    design_level:
+      score: 4
+      reason: "传统台灯结构的精简升华版，手吹玻璃工艺与色彩搭配展示Foscarini材料精工语言"
+    design_tags: ["锥形罩", "手吹玻璃", "细杆", "色彩对比", "H10材料表达", "H01减法"]
+    hero_feature: "倒锥形手吹玻璃罩体体量感与极细金属杆形成强烈轻重对比"
+    problem_solved: "用玻璃罩体的柔和透光替代布罩，同时保留传统台灯优雅比例"
+    transferable_technique: "罩体与支撑体色彩/材质对比设计；倒锥形罩体比例拉伸增加修长感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意台灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "无底座锥形乳白半透明灯体直接落地，顶部圆形开口，底部圆形底面发出地面光晕"
+    product_name: "Gregg"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯", "落地式台灯"]
+    design_language:
+      silhouette: "圆台形（上宽下收），顶部圆形开口，底面直接贴台面，无杆无底盘，纯体量感"
+      light_opening: "顶部圆形敞口向上漫射；罩体半透明整体透光；底面散光于台面形成光晕"
+      thermal: "聚乙烯或聚碳酸酯整体成型，LED置内，底面小量导热"
+      cmf:
+        color: "全身乳白色/白色半透明"
+        material: "半透明聚乙烯或注塑件"
+        finish: "哑光/磨砂半透明"
+      mounting: "底面直接落地，无独立底座结构，单线从底部侧引出"
+      signature_detail: "灯体即是灯罩即是底座，三合一简约造型；底面光晕强调产品与台面的关系"
+    design_level:
+      score: 4
+      reason: "极简结构整合，灯体自身承重落台，减去所有多余结构，朴素又有雕塑感"
+    design_tags: ["圆台形", "落地式", "无底座", "整体透光", "H07极简整合", "H01减法"]
+    hero_feature: "锥体直接置于台面，顶部开口向上，底面漏光，灯体即底座，三合一结构"
+    problem_solved: "消除底座与灯罩分离感，使台灯成为单一体量的光雕塑"
+    transferable_technique: "将功能底座与灯罩合并为单一体量；底面透光强化产品与置放面的互动"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意台灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "极细水平LED线性光管架于倒V形两端支脚，深红色全身，整体为A字架俯瞰线框结构"
+    product_name: "Filo"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯", "线性台灯"]
+    design_language:
+      silhouette: "水平线性灯管横跨两组倒V支脚，俯视呈A字形，侧视呈门框形，极纤细结构，无任何面体量"
+      light_opening: "线性LED均匀下照，光从横管底面向下漫射，形成线状光带打亮台面"
+      thermal: "线性LED管散热良好，细铝型材截面导热，大面积台面散热"
+      cmf:
+        color: "深酒红色/深红（整体单色，包括光管及支脚）"
+        material: "铝型材光管 + 金属支脚"
+        finish: "亚光喷涂，颜色均匀深沉"
+      mounting: "四支脚落地，无底盘，支脚末端直接接触台面，极轻巧"
+      signature_detail: "灯具完全去除了体量感，仅剩「线」与「面」的结构骨架；单色处理使结构与光管浑然一体"
+    design_level:
+      score: 5
+      reason: "彻底挑战台灯形态惯例，将照明器减至纯线框骨架，是Foscarini减法哲学的极致案例"
+    design_tags: ["线性", "A字架", "极简骨架", "减法极致", "H01减法", "H07极简整合", "单色"]
+    hero_feature: "水平LED线管架于A字形支脚，整灯无一处面体量，只有线的骨架结构"
+    problem_solved: "传统台灯占据视觉空间感重，线框结构最大化减少视觉重量，使灯具消隐于环境"
+    transferable_technique: "线性光管与极细支脚组合消除体量感；单色骨架结构的视觉轻盈处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意台灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向修长椭球形灯罩（似花瓶或茧），顶部圆形开口，底部圆柱形透明玻璃基座"
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/07.jpg"
+        image_role: "variant"
+        visual_anchor: "宽扁球形灯罩（蘑菇帽形），上方大圆开口，底部圆柱透明基座，浅裸粉色"
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/08.jpg"
+        image_role: "variant"
+        visual_anchor: "圆球形灯罩（接近正球），大圆顶开口，底部短圆柱半透明基座，橄榄黄绿色"
+    product_name: "Chouchin"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯", "茧形台灯"]
+    design_language:
+      silhouette: "茧/球/花瓶三种形态变体同属一族：06为竖向修长椭球（花瓶型），07为宽扁半球（蘑菇型），08为近正球型；共同特征为顶部大圆开口+透明圆柱基座"
+      light_opening: "顶部大圆开口向上漫射（upward wash）；玻璃罩体半透明整体透光，灯体自身发光"
+      thermal: "玻璃/陶瓷罩体散热适中，透明圆柱底座内置光源"
+      cmf:
+        color: "06为乳白色/象牙白（高光泽）；07为裸粉/烟熏玫瑰（高光泽）；08为橄榄黄绿/芥末黄（高光泽）"
+        material: "手吹玻璃罩体；透明吹制玻璃底座"
+        finish: "高光泽玻璃釉面，Murano玻璃工艺感"
+      mounting: "透明圆柱玻璃底座，直接落台，单侧出线"
+      signature_detail: "罩体高光泽有机形态如艺术品；透明底座使罩体视觉上悬浮；顶部开口与底座对应形成通透感"
+    design_level:
+      score: 5
+      reason: "Chouchin是Foscarini核心代表作，手吹玻璃有机茧形+透明底座悬浮感+多色版本，品牌雕塑语言的完美诠释"
+    design_tags: ["茧形", "有机球体", "手吹玻璃", "顶部开口", "透明底座", "高光泽", "H10材料表达", "经典款"]
+    hero_feature: "手吹玻璃有机球体（三种形态）配透明圆柱底座，高光泽釉色，顶部大开口向上漫光"
+    problem_solved: "赋予台灯雕塑级别的材料质感与有机形态，超越功能性成为居家艺术品"
+    transferable_technique: "有机球体形态家族化（同一设计语言做竖/扁/圆三种比例变体）；透明底座悬浮视觉手法；高光泽单色釉面强化玻璃质感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意台灯_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "宽沿平板式灯罩（深灰黑，圆角方形），透明水晶玻璃喇叭形底座，灯罩与底座连接处发光"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/10.jpg"
+        image_role: "variant"
+        visual_anchor: "相同造型但灯罩为纯白色，底座透明玻璃更通透，灯罩更圆润"
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/11.jpg"
+        image_role: "variant"
+        visual_anchor: "相同造型，灯罩为暖灰褐色（灰豆沙），光泽更高，底座为透明玻璃"
+    product_name: "Chouchin M"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯", "平沿台灯"]
+    design_language:
+      silhouette: "宽平圆角方形灯罩（伞形，沿宽内弧），架于透明喇叭形玻璃底座上，连接点细腰，整体蘑菇感"
+      light_opening: "灯罩下方向下照射；底座透明玻璃内置光点，连接处形成光环效果"
+      thermal: "透明玻璃底座散热良好，LED置于底座内部或连接颈部"
+      cmf:
+        color: "09深灰黑/碳灰色（高光）；10纯白色（高光）；11暖灰褐/灰豆沙色（高光）"
+        material: "注塑/吹制灯罩（哑/亮混合）；透明吹制玻璃底座"
+        finish: "灯罩高光漆面；底座透明玻璃"
+      mounting: "透明喇叭形玻璃底座直接落台，侧出线"
+      signature_detail: "透明玻璃底座使灯罩视觉漂浮；宽沿灯罩投影在桌面形成大面积光晕；灯罩色彩与背景环境融合"
+    design_level:
+      score: 4
+      reason: "宽沿灯罩+透明玻璃底座的组合干净优雅，多色变体展现Foscarini色彩系统深度"
+    design_tags: ["宽沿灯罩", "透明底座", "漂浮感", "多色系", "H10材料表达", "H07极简整合"]
+    hero_feature: "透明玻璃喇叭底座令宽沿灯罩视觉悬浮，底座内发光点在腰部形成光环"
+    problem_solved: "传统台灯底座笨重，透明玻璃底座消解重量感，使灯罩成为视觉主角"
+    transferable_technique: "透明/半透明底座悬浮灯罩手法；宽沿灯罩加大投影面积设计思路"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意台灯_008"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "红色金属钩挂顶框+绿色缠绕线束+白色锥形小灯罩+深红玻璃球+白色肋纹玻璃球，红色圆底盘"
+    product_name: "Tress"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "创意台灯", "装饰雕塑台灯"]
+    design_language:
+      silhouette: "竖向线束雕塑，顶部金属弯钩+线束缠绕体+底部圆盘，各组件悬挂叠置，整体呈自由纵向延伸"
+      light_opening: "小型锥形白罩向侧下漫射；无主要大面积光面，以氛围点光源为主"
+      thermal: "金属框架+软性线束散热良好，多个小光源分散热量"
+      cmf:
+        color: "深红色金属框架+底盘；墨绿色线束；白色锥罩；深红玻璃球；白色肋纹玻璃球"
+        material: "钢管框架；编织线/缆束；手吹玻璃装饰球；注塑锥罩"
+        finish: "金属哑光喷涂；玻璃高光"
+      mounting: "厚圆盘底座落地，单线从底盘引出"
+      signature_detail: "多种材质/色彩/形态元素拼贴组合，极强装饰性与叙事感，打破灯具功能性边界"
+    design_level:
+      score: 4
+      reason: "叙事性强、装饰张力极高的创意装置台灯，多元素拼贴体现Foscarini艺术化设计边界探索"
+    design_tags: ["装饰拼贴", "线束缠绕", "玻璃球", "多色彩", "H12人机界面强化", "艺术装置感"]
+    hero_feature: "金属弯钩框+线束缠绕+多个玻璃球装饰元素组合，既是灯具又是雕塑装置"
+    problem_solved: "将照明从功能性器具提升为具有叙事性的空间装置艺术品"
+    transferable_technique: "线束缠绕体量感构建；多异质元素拼贴组合产生装置感；弯钩悬挂结构作为造型骨架"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "多组件拼贴设计，品牌确认度中等，需核实具体型号（Tress/Signal/其他）"
+
+  - product_id: "foscarini_创意台灯_009"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "深棕红色扁圆柱体帽盖覆于细透明圆管上，管底从内部发光形成底部光晕，外形似试管/香水瓶"
+    product_name: "未知型号（Foscarini便携/管形台灯）"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "创意台灯", "管形台灯"]
+    design_language:
+      silhouette: "细透明圆管（直立）+扁圆柱形帽盖压顶，比例细高，形似试管或胶囊，轮廓极简"
+      light_opening: "底部圆形向下射光（底面发光，打亮台面），顶部帽盖为非透光遮光元件"
+      thermal: "透明玻璃管导热良好，LED置于管底"
+      cmf:
+        color: "帽盖深棕红/勃艮第红（亮面）；管体透明无色玻璃"
+        material: "玻璃管；陶瓷/金属帽盖"
+        finish: "玻璃透明；帽盖亮光釉面"
+      mounting: "管体直接落台（无底座），帽盖压顶，侧面无出线（可能为无线/内置电池）"
+      signature_detail: "透明管体+有色帽盖的极简两段式结构；底部向下发光照亮台面而非向上照明空间"
+    design_level:
+      score: 4
+      reason: "颠覆传统照明方向逻辑（从底部向下发光），极简两段式造型高度精炼"
+    design_tags: ["管形", "底部发光", "两段式", "胶囊形", "H01减法", "H07极简整合"]
+    hero_feature: "透明细管配彩色顶盖，光源置于底部向下照射台面，反转常规台灯向上/向下照明逻辑"
+    problem_solved: "创造一种台面装饰性光源，强调台面光圈效果而非空间照明"
+    transferable_technique: "细圆管+顶帽两段式结构语言；底部发光向下打台面创造局部光圈氛围"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "具体型号未能确认，需核实是否为Foscarini某款便携灯或限量系列"
+
+  - product_id: "foscarini_创意台灯_010"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "白色半球形纸/纤维灯罩，底部敞开，下方多支细长金/铜色铁丝腿向外撑开，形似水母"
+    product_name: "Tartan（或Spokes）"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "创意台灯", "仿生台灯"]
+    design_language:
+      silhouette: "半球形罩体+多支向外放射状细腿，整体轮廓如水母或海胆，纤细腿部强化漂浮轻盈感"
+      light_opening: "半球形透光罩体整体向下漫射，纸/纤维材质柔和透光"
+      thermal: "纸/纤维玻璃罩体导热差但重量极轻，LED置于罩内顶部"
+      cmf:
+        color: "罩体白色/米白（自然纤维本色）；腿部金色/香槟色金属丝"
+        material: "手工纸或玻璃纤维罩体；金属铁丝腿"
+        finish: "纸质/纤维哑面自然肌理；金属丝本色"
+      mounting: "多支细铁丝腿直接落台（约5-6支，向外撑开），无底盘，稳定性靠腿部展开角度"
+      signature_detail: "细铁丝腿模拟生物触须/足部，赋予静态灯具生物感；半球罩体与丝腿的材质对比（软柔体+硬细线）"
+    design_level:
+      score: 4
+      reason: "仿生设计手法高明，水母/蜘蛛造型隐喻清晰，材质对比产生独特轻盈雕塑感"
+    design_tags: ["仿生", "水母形", "细铁丝腿", "纤维罩", "H06仿生", "H10材料表达"]
+    hero_feature: "半球形纤维罩体由多支细金属丝腿直接撑起落台，无底盘，似水母漂浮于台面"
+    problem_solved: "底座结构轻量化极致，以铁丝腿代替实体底座，最大程度保留视觉通透性"
+    transferable_technique: "细线腿支撑替代实体底座的设计手法；软质半透明罩体与硬金属细线的材质张力"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "具体型号需核实（Tartan/Spokes/其他Foscarini仿生台灯系列）"
+
+  - product_id: "foscarini_创意台灯_011"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "大体量深红色高光鼓形灯罩（圆台形，沿曲），架于三叉抛光铬金属底座，经典品牌红+银组合"
+    product_name: "Lumiere"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯", "经典台灯"]
+    design_language:
+      silhouette: "圆台形灯罩（顶略小底略大，边缘内弧曲线），体量感强，三叉形金属底座由中央杆分三叉撑起，整体比例沉稳优雅"
+      light_opening: "灯罩底部大圆开口向下照射，内壁白色漫射；半透明罩体侧面漫光"
+      thermal: "玻璃罩体散热良好，铬合金底座导热，三叉结构增大散热面积"
+      cmf:
+        color: "灯罩深红（cherry red）高光泽；底座三叉杆抛光铬银色"
+        material: "手吹玻璃灯罩；铸铝/钢三叉底座"
+        finish: "玻璃高光泽釉；金属镜面抛光铬"
+      mounting: "三叉形底座落地，中央细杆承托灯罩，线从底座引出"
+      signature_detail: "深红玻璃罩+抛光铬底座经典色彩配对；三叉底座设计成为品牌识别符号；体量比例大而端庄"
+    design_level:
+      score: 5
+      reason: "Lumiere是Foscarini最具代表性的landmark产品，深红玻璃罩+三叉底座是品牌图腾，持续热销超30年"
+    design_tags: ["圆台灯罩", "三叉底座", "深红玻璃", "抛光铬", "经典款", "H10材料表达", "品牌图腾"]
+    hero_feature: "深红高光手吹玻璃大圆台罩+抛光铬三叉底座，品牌最具识别度的色彩与结构组合"
+    problem_solved: "赋予台灯博物馆级别的工艺质感，让台灯成为空间精神中心"
+    transferable_technique: "高光泽单色玻璃罩+金属底座的色彩撞色设计；三叉底座结构的轻盈稳定性与装饰性兼顾"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意台灯_012"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意台灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色哑光球形体（顶部略压扁）坐于白色发光圆盘上，球与盘之间有白色圆环光带，强烈明暗对比"
+    product_name: "Gregg Surface（或Buds相关系列）"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "创意台灯", "氛围台灯"]
+    design_language:
+      silhouette: "压扁球体（黑色实体，不透光）叠置于宽扁圆盘（白色发光）上，连接处有细白光环，整体似日食效果"
+      light_opening: "白色圆盘整体向上/侧向漫射环境光；球体-盘体连接处光环向侧漫射；黑球本身不透光"
+      thermal: "黑色球体为遮光件（非发光体），白色盘体内置LED，散热通过盘体底面"
+      cmf:
+        color: "黑色哑光球体；白色半透明发光圆盘；连接环白色"
+        material: "不透光注塑/金属黑球；半透明聚乙烯/玻璃白色圆盘"
+        finish: "球体亚光喷涂；圆盘磨砂半透明"
+      mounting: "圆盘直接落台，无独立底座，单线从盘底引出"
+      signature_detail: "黑色实体遮光球+白色发光盘的强对比组合制造日食/月食视觉隐喻；光从边缘漏出而非正面照射"
+    design_level:
+      score: 4
+      reason: "光与遮光的戏剧性对比设计，日食隐喻清晰有力，用最少元素制造强视觉张力"
+    design_tags: ["日食隐喻", "黑白对比", "遮光球", "圆盘发光", "H08对比强调", "氛围光"]
+    hero_feature: "黑色实体球体压于白色发光盘上，从盘与球之间缝隙漏出的光环是唯一直接光源，制造日食戏剧感"
+    problem_solved: "利用光与影的极端对比创造强叙事氛围，而非提供功能性照明"
+    transferable_technique: "遮光体与发光体叠置产生戏剧光缝的设计手法；圆盘形光源的全向漫射底面光处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "具体型号需核实，黑球白盘双组件形态在Foscarini系列中的具体产品线待确认"

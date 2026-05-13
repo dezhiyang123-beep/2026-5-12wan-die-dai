@@ -1,0 +1,763 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "庭院灯"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "bega_户外_庭院灯_b2_001"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "纤细圆柱灯柱，顶端白色乳白圆柱形灯罩，与深色金属柱身无缝过渡"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "极细圆柱形bollard，柱径均一，顶端乳白圆柱灯罩约占整体高度1/4"
+      light_opening: "顶端圆柱形乳白漫射罩，360°全向出光，柔和环境光"
+      thermal: "铝合金实心柱体散热，无外露散热鳍片"
+      cmf:
+        color: "深石墨黑（柱身）+ 亮白（灯罩）"
+        material: "压铸铝（柱身）+ 乳白亚克力或PMMA（灯罩）"
+        finish: "亚光粉末喷涂（柱身），哑光乳白（灯罩）"
+      mounting: "地面埋入式或地脚安装"
+      signature_detail: "柱身与灯罩直径完全一致，形成笔直一体感；灯罩与柱身颜色对比鲜明"
+    design_level:
+      score: 4
+      reason: "比例极简克制，白/黑双色对比干净有力，圆柱一体化处理达到高完成度"
+    design_tags:
+      - "极简主义"
+      - "圆柱bollard"
+      - "乳白顶罩"
+      - "单色调"
+      - "线条感"
+      - "H07极简整合"
+    hero_feature: "笔直超细圆柱+顶端乳白罩，昼夜两态轮廓都极净"
+    problem_solved: "在庭院/步道场景中用最少视觉干扰提供柔和引导光"
+    transferable_technique: "灯罩与柱身同径一体化——消除阶差，形成连贯线性轮廓"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_002"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/22.jpg"
+        image_role: "hero"
+        visual_anchor: "细长方形截面灯柱，前面整面白色发光面板，深灰色方柱身"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "细薄矩形截面bollard，正面全面发光，侧面极薄，高宽比约10:1"
+      light_opening: "正面全幅矩形乳白漫射面板，单侧发光，高度约占柱高1/2强"
+      thermal: "扁平铝壳体，无可见散热结构"
+      cmf:
+        color: "深灰（柱身）+ 亮白（发光面）"
+        material: "挤压铝合金（柱身）+ 乳白扩散板"
+        finish: "亚光粉末喷涂（柱身），均匀漫射白（面板）"
+      mounting: "地面埋入式"
+      signature_detail: "极薄截面+满幅发光面板，从正面看几乎是一条发光线"
+    design_level:
+      score: 4
+      reason: "方形截面+全面发光设计极具现代感，比例与精度一流，BEGA典型语言"
+    design_tags:
+      - "方形截面"
+      - "全面发光"
+      - "面发光bollard"
+      - "极薄"
+      - "现代简约"
+      - "H07极简整合"
+      - "H11功能外显"
+    hero_feature: "薄板截面bollard正面满幅发光面板，创造线性光柱视觉"
+    problem_solved: "用最薄的实体截面实现宽幅均匀照明，减少遮挡感"
+    transferable_technique: "扁方截面+全面漫射板——用形态本身定义出光方向"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_003"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/23.jpg"
+        image_role: "hero"
+        visual_anchor: "深色方形截面bollard，顶部有开放式矩形框架，框架内可见细白光条"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "方形截面bollard，上半段为开放矩形框架结构，下半段为实心方柱"
+      light_opening: "开放式矩形镂空框架内嵌竖向窄光条，侧向出光，两侧透光"
+      thermal: "铝方柱体自然散热，顶部框架结构增大散热表面积"
+      cmf:
+        color: "深石墨灰（全身）"
+        material: "压铸/挤压铝合金"
+        finish: "亚光粉末喷涂，统一深灰色"
+      mounting: "地面埋入式"
+      signature_detail: "顶部镂空矩形框架结构，光从框内透出，白天看像雕塑，夜晚出光精准"
+    design_level:
+      score: 5
+      reason: "镂空框架作为光口的处理极具创意，形态雕塑感与功能完美统一，BEGA顶级设计语言"
+    design_tags:
+      - "镂空框架"
+      - "方形截面"
+      - "雕塑感"
+      - "侧向出光"
+      - "H09隐藏工程"
+      - "H01减法"
+      - "建筑感"
+    hero_feature: "镂空矩形框架作为灯口——白天是雕塑，夜晚精准出光"
+    problem_solved: "将结构框架与光口合一，消除多余构件，形态即功能"
+    transferable_technique: "开放框架替代封闭灯罩——用负空间控制出光方向，降低遮挡感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_004"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/24.jpg"
+        image_role: "hero"
+        visual_anchor: "深色高细方形截面灯柱，顶端有小型立方体灯头，灯头内白色发光方块"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "细长方形截面bollard，顶端微扩展的正方体灯头，整体比例约8:1"
+      light_opening: "顶端正方体四侧均有乳白玻璃/PMMA窗口，360°低角度出光"
+      thermal: "铝合金柱体，灯头铸铝外壳"
+      cmf:
+        color: "深石墨黑（全身）+ 白（灯口漫射面）"
+        material: "铸铝（柱身与灯头）+ 乳白扩散材料（窗口）"
+        finish: "亚光粉末喷涂深灰黑"
+      mounting: "地面埋入式"
+      signature_detail: "顶端正方体小灯头与方形柱身的几何延续性；方中有方的嵌套关系"
+    design_level:
+      score: 4
+      reason: "方柱顶接方灯头，几何语言一致且有层次，小巧灯头与长柱的比例极有张力"
+    design_tags:
+      - "方形截面"
+      - "立方体灯头"
+      - "几何嵌套"
+      - "360度出光"
+      - "H07极简整合"
+    hero_feature: "细长方柱顶端悬停一枚迷你立方体灯头，白天像雕塑标志，夜晚4面发光"
+    problem_solved: "在视觉最小化的柱体上提供全方位低角度路径照明"
+    transferable_technique: "同形嵌套灯头——用几何重复而非异形过渡来连接柱与头"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_005"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/25.jpg"
+        image_role: "hero"
+        visual_anchor: "双柱U形拱门造型，两根方形截面立柱顶部通过楔形顶帽连接，内部开放空间"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "倒U形/门框形bollard，两根方截面立柱+楔形顶部连接板，内部完全镂空"
+      light_opening: "顶部连接板内侧内嵌光源，向下出光（downlight型），无可见扩散板"
+      thermal: "铝合金立柱，顶部铸铝结构件"
+      cmf:
+        color: "深石墨黑与银灰双色金属感（渐变）"
+        material: "铸铝或挤压铝合金"
+        finish: "亚光粉末喷涂，深黑/深灰"
+      mounting: "地面双脚埋入式"
+      signature_detail: "双立柱形成的门洞负空间是核心视觉记忆点；顶部楔形切角处理"
+    design_level:
+      score: 5
+      reason: "打破单柱bollard常规，用门框负空间构成独特雕塑感，BEGA最具创新性的路灯形态之一"
+    design_tags:
+      - "双柱门框"
+      - "负空间"
+      - "U形轮廓"
+      - "向下出光"
+      - "雕塑感"
+      - "H01减法"
+      - "H06仿生"
+      - "品类假设挑战"
+    hero_feature: "双柱门框造型——用建筑拱廊语言重新定义bollard形态"
+    problem_solved: "在需要低眩光向下路径照明的场景中提供强烈视觉标识性"
+    transferable_technique: "双立柱+顶部连接的门框结构替代单柱——创造负空间记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_006"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/26.jpg"
+        image_role: "hero"
+        visual_anchor: "银灰色圆柱bollard，顶端圆形盖帽，上部正面嵌有大圆角矩形琥珀/铜色窗口"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "中粗圆柱bollard，顶端平盖，前侧嵌入圆角矩形光窗，整体高宽比约4:1"
+      light_opening: "正面大圆角矩形光窗，暖琥珀色光，前向单侧出光"
+      thermal: "铝合金圆柱体，顶部圆形盖片"
+      cmf:
+        color: "银灰/钛金属色（柱身）+ 深黑（顶盖边圈）+ 琥珀暖色（光窗）"
+        material: "铸铝（柱身）+ 玻璃或PMMA（光窗）"
+        finish: "拉丝金属感哑光处理（柱身），暖色玻璃"
+      mounting: "地面埋入式"
+      signature_detail: "与27.jpg为同款产品不同光窗形状变体——宽矩形圆角窗，带来更大出光面积"
+    design_level:
+      score: 4
+      reason: "金属质感圆柱配琥珀色光窗，材质与色温搭配温暖精致，BEGA高端系列典型"
+    design_tags:
+      - "圆柱bollard"
+      - "圆角矩形光窗"
+      - "琥珀色"
+      - "金属质感"
+      - "单侧出光"
+      - "H10材料表达"
+    hero_feature: "银灰金属圆柱+琥珀色大圆角矩形光窗，温暖的工业精密感"
+    problem_solved: "在高档庭院中用温暖色调光窗提供路径指引，避免冷白色调"
+    transferable_technique: "圆柱体上嵌入大比例圆角矩形光窗——光窗尺寸主导整体形态感知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_007"
+    source_images:
+      - filename: "27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/27.jpg"
+        image_role: "hero"
+        visual_anchor: "银灰色圆柱bollard，顶端平盖，前侧嵌有竖向窄椭圆形琥珀色光窗"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "中粗圆柱bollard，顶端平盖，前侧嵌入竖向窄椭圆（底部圆弧收尾）光窗"
+      light_opening: "正面竖向窄椭圆光窗，暖琥珀色光，前向单侧出光，出光面积较26小"
+      thermal: "铝合金圆柱体，顶部圆形盖片"
+      cmf:
+        color: "银灰/钛金属色（柱身）+ 深黑（顶盖边圈）+ 琥珀暖色（光窗）"
+        material: "铸铝（柱身）+ 玻璃或PMMA（光窗）"
+        finish: "拉丝金属感哑光处理（柱身），暖色玻璃"
+      mounting: "地面埋入式"
+      signature_detail: "窄椭圆光窗——比26更精致克制，光口像一道切缝"
+    design_level:
+      score: 4
+      reason: "与26构成同系列形态变体，椭圆窗口更为精炼，比例感更强"
+    design_tags:
+      - "圆柱bollard"
+      - "竖向椭圆光窗"
+      - "琥珀色"
+      - "金属质感"
+      - "切缝出光"
+      - "H10材料表达"
+      - "H01减法"
+    hero_feature: "银灰金属圆柱+精细竖向椭圆切缝光窗，克制而温暖"
+    problem_solved: "在需要精准方向性照明的场景提供低调引导光"
+    transferable_technique: "细长椭圆切缝替代宽面光窗——减少出光面积以强调精密感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_008"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/28.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色圆柱bollard，顶端小圆柱灯头带透明竖向棱纹玻璃罩，内可见暖金色灯丝"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "圆柱bollard，顶端小圆形灯头（直径小于柱径），灯头带透明棱纹圆柱玻璃罩+平顶盖"
+      light_opening: "顶端360°棱纹玻璃圆柱灯罩，透明出光，可见灯丝/光源"
+      thermal: "铝合金柱体及灯头外壳"
+      cmf:
+        color: "深石墨灰（柱身与灯头外框）+ 透明（玻璃棱纹罩）+ 暖金（灯源）"
+        material: "铸铝（主体）+ 棱纹玻璃（灯罩）"
+        finish: "亚光粉末喷涂（柱身），清透抛光玻璃（棱纹罩）"
+      mounting: "地面埋入式"
+      signature_detail: "棱纹透明玻璃罩内裸露暖色灯丝——融合工业精密与温暖复古的对比美学"
+    design_level:
+      score: 5
+      reason: "棱纹玻璃+可见灯丝的组合极具辨识度，材质与光效高度统一，属BEGA顶级美学表达"
+    design_tags:
+      - "棱纹玻璃"
+      - "可见灯丝"
+      - "复古工业"
+      - "360度出光"
+      - "H10材料表达"
+      - "H08对比强调"
+    hero_feature: "透明棱纹玻璃灯罩内可见暖色灯丝——光源本身成为装饰性视觉焦点"
+    problem_solved: "在高档庭院场景用可见灯丝创造温暖氛围感，超越纯功能照明"
+    transferable_technique: "棱纹玻璃+可见光源——让光源工程细节成为美学主体"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_009"
+    source_images:
+      - filename: "29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/29.jpg"
+        image_role: "hero"
+        visual_anchor: "两个高矮不同的深灰粗圆柱bollard，顶端均有圆形平盖+白色乳白圆环发光带"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "粗圆柱bollard（比21更粗），顶部平盖下方有环形乳白漫射带，展示两种高度规格"
+      light_opening: "顶部平盖与柱身交接处环形乳白漫射带，360°低角度出光"
+      thermal: "厚壁铝合金圆柱体自然散热"
+      cmf:
+        color: "深石墨灰（柱身与盖）+ 亮白（环形漫射带）"
+        material: "铸铝（柱身与顶盖）+ 乳白PMMA（漫射环）"
+        finish: "亚光粉末喷涂深灰"
+      mounting: "地面埋入式"
+      signature_detail: "顶盖之下的环形发光带——像一道光圈悬浮于柱身顶部"
+    design_level:
+      score: 4
+      reason: "粗圆柱+环形光圈处理克制精准，双高度规格展示说明系列化完整性"
+    design_tags:
+      - "粗圆柱bollard"
+      - "环形光带"
+      - "系列化"
+      - "360度出光"
+      - "H07极简整合"
+    hero_feature: "顶部平盖下方环形发光圈——光口隐藏在结构交接线中"
+    problem_solved: "在现代景观中提供全方向低眩光路径照明，同时维持极简外观"
+    transferable_technique: "利用顶盖与柱身的结构缝隙设置环形光口——隐藏出光逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_010"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/30.jpg"
+        image_role: "hero"
+        visual_anchor: "两个高矮不同的深灰粗圆柱bollard，顶端大直径扁平帽檐+下方透明发光环"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "粗圆柱bollard，顶端宽直径平帽（宽于柱径），帽下可见透明镜面发光环，展示两种高度"
+      light_opening: "宽帽檐下方360°环形透明玻璃或PMMA光环，向下及侧向出光"
+      thermal: "厚壁铝柱体，宽帽增加顶部散热面积"
+      cmf:
+        color: "深石墨灰（柱身与顶帽）+ 银/铬（反射内圈）"
+        material: "铸铝（柱身与顶帽）+ 玻璃/PMMA（透明环）"
+        finish: "亚光粉末喷涂（柱身），镜面反射（内圈）"
+      mounting: "地面埋入式"
+      signature_detail: "宽帽檐出挑比例——帽直径明显大于柱径，强调蘑菇感但帽身极扁平"
+    design_level:
+      score: 4
+      reason: "宽帽设计强调顶部重量感，与透明出光环的组合形成精密机械美感"
+    design_tags:
+      - "宽帽檐"
+      - "向下出光"
+      - "环形光口"
+      - "系列化"
+      - "H07极简整合"
+      - "H09隐藏工程"
+    hero_feature: "宽扁帽檐+帽檐下环形发光口，强烈的冠状形态"
+    problem_solved: "提供定向向下路径照明，同时用宽帽遮挡直射眩光"
+    transferable_technique: "超出柱径的宽帽遮光结构——用物理遮蔽替代光学控光部件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_011"
+    source_images:
+      - filename: "31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/31.jpg"
+        image_role: "hero"
+        visual_anchor: "两个高矮不同的深灰圆柱bollard，顶部有宽圆弧形蘑菇帽，无明显光口可见"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "圆柱bollard，顶端宽大半球形蘑菇帽（帽直径约为柱径1.8倍），展示两种高度"
+      light_opening: "帽檐下方隐藏光源，向下出光，白天无可见光口（全隐藏式）"
+      thermal: "铝柱+铝蘑菇帽，帽体增大散热面积"
+      cmf:
+        color: "深石墨灰（全身）"
+        material: "铸铝"
+        finish: "亚光粉末喷涂，统一深灰"
+      mounting: "地面埋入式"
+      signature_detail: "圆柱配宽蘑菇帽，全单色——白天纯雕塑感，夜晚光从帽下渗出"
+    design_level:
+      score: 4
+      reason: "蘑菇帽比例宽扁有力，单色处理极为干净，隐藏光口设计高度克制"
+    design_tags:
+      - "蘑菇帽"
+      - "全隐藏光口"
+      - "向下出光"
+      - "雕塑感"
+      - "系列化"
+      - "H01减法"
+      - "H09隐藏工程"
+    hero_feature: "宽蘑菇帽+全隐藏光口——白天是雕塑，夜晚光从帽下漫溢"
+    problem_solved: "在高端景观中提供完全无眩光路径照明，日间外观零光学痕迹"
+    transferable_technique: "蘑菇帽+帽下全隐藏光口——形态即遮光器"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_012"
+    source_images:
+      - filename: "32.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/32.jpg"
+        image_role: "hero"
+        visual_anchor: "两个高矮不同的深灰圆柱bollard，顶端薄圆盘盖帽，帽沿极窄，整体单色"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "圆柱bollard，顶端超薄圆形扁盘帽（帽直径略大于柱径），帽身极薄，展示两种高度"
+      light_opening: "极薄帽盘下缘隐藏光口（推测为环形LED），向下出光，白天几乎不可见"
+      thermal: "铝柱体，薄盘帽散热面积有限，适合低功率LED"
+      cmf:
+        color: "深石墨灰（全身）"
+        material: "铸铝"
+        finish: "亚光粉末喷涂，统一深灰"
+      mounting: "地面埋入式"
+      signature_detail: "超薄圆盘帽——帽厚度极小，形成像刀片一样薄的顶冠"
+    design_level:
+      score: 5
+      reason: "超薄圆盘顶帽代表BEGA减法美学的极致——比蘑菇帽更激进的比例压缩"
+    design_tags:
+      - "超薄圆盘帽"
+      - "全隐藏光口"
+      - "向下出光"
+      - "极简主义"
+      - "系列化"
+      - "H01减法"
+      - "H09隐藏工程"
+    hero_feature: "刀片般超薄圆盘顶帽——将遮光结构压缩到视觉极限"
+    problem_solved: "在极简现代景观中提供完全无眩光照明，顶部结构视觉重量接近零"
+    transferable_technique: "将帽盖厚度压缩至结构极限——用薄度本身创造张力"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_013"
+    source_images:
+      - filename: "33.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/33.jpg"
+        image_role: "hero"
+        visual_anchor: "灰色圆柱细杆，顶端偏置圆形薄盘灯头，灯头侧向悬挑，有小圆盘底座"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "细圆杆+顶部偏心悬挑圆形薄盘灯头，灯头直径约为杆径3倍，T形不对称轮廓"
+      light_opening: "圆形薄盘灯头下表面向下出光，定向照射，灯头内可见LED光口"
+      thermal: "细铝圆杆，灯头铝合金薄盘，低热量LED"
+      cmf:
+        color: "中灰（全身）"
+        material: "铸铝（杆与灯头）"
+        finish: "亚光粉末喷涂中灰"
+      mounting: "圆形底座地面安装（非埋入）"
+      signature_detail: "偏心悬挑薄圆盘灯头——非对称T形轮廓在bollard类型中少见，强调方向性"
+    design_level:
+      score: 4
+      reason: "偏心悬挑设计打破bollard对称传统，定向性明确，底座设计精炼"
+    design_tags:
+      - "偏心悬挑"
+      - "圆盘灯头"
+      - "向下出光"
+      - "不对称"
+      - "T形轮廓"
+      - "H08对比强调"
+    hero_feature: "偏心悬挑薄圆盘头——不对称轮廓在对称bollard群中极具辨识度"
+    problem_solved: "在需要精确定向路径照明的场景提供可视觉引导方向的灯具"
+    transferable_technique: "偏置灯头+中心杆——用不对称性表达方向意图"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_014"
+    source_images:
+      - filename: "34.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/34.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色细圆杆，顶端侧向安装楔形/三角形斜面灯头，灯头向一侧倾斜出光"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "细圆杆+顶端侧挂楔形扁平灯头，灯头由一面斜切形成三角截面，方向感极强"
+      light_opening: "楔形灯头斜面朝下/前方出光（定向不对称光分布），内部隐藏LED，无可见扩散板"
+      thermal: "铝圆杆+铝楔形灯体，低热量LED"
+      cmf:
+        color: "深石墨黑（全身）"
+        material: "铸铝"
+        finish: "亚光粉末喷涂深黑灰"
+      mounting: "圆形底座地面安装"
+      signature_detail: "楔形三角灯头——切割感极强的几何造型，表达强烈的方向性"
+    design_level:
+      score: 5
+      reason: "楔形灯头是BEGA最有角度感的设计，用简单三角截面传达精确方向意图，设计语言独特"
+    design_tags:
+      - "楔形灯头"
+      - "定向出光"
+      - "三角截面"
+      - "方向性"
+      - "H01减法"
+      - "H08对比强调"
+    hero_feature: "三角楔形灯头——几何切割感定义方向，无需任何额外指示"
+    problem_solved: "在需要定向路径照明的场景用几何语言强化出光方向的视觉可读性"
+    transferable_technique: "用楔形（三角截面）替代对称灯头——形态本身即方向指示器"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_015"
+    source_images:
+      - filename: "35.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/35.jpg"
+        image_role: "hero"
+        visual_anchor: "小型深灰地插射灯，喇叭形COB灯头有竖向散热鳍片，可倾转关节+小圆形底座"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "小型地面射灯，喇叭形灯头（前宽后窄）+竖向鳍片散热体+可调倾斜关节+圆形底座"
+      light_opening: "正面圆形大开口，内嵌菲涅尔纹透镜，COB光源可见，发光面积大"
+      thermal: "竖向鳍片散热外壳，主动散热设计，适合大功率COB"
+      cmf:
+        color: "深石墨黑（全身）"
+        material: "压铸铝（灯头与散热体）+ 玻璃/PMMA透镜"
+        finish: "亚光粉末喷涂深黑，散热鳍片纹理可见"
+      mounting: "圆形底座地面安装，可旋转调向"
+      signature_detail: "外露散热鳍片+菲涅尔纹透镜——工程机械美学，功能性细节高度外显"
+    design_level:
+      score: 4
+      reason: "散热鳍片与COB透镜的功能外显美学精准，小尺寸高光效射灯典范"
+    design_tags:
+      - "地面射灯"
+      - "COB光源"
+      - "散热鳍片"
+      - "可调角度"
+      - "工业美学"
+      - "H11功能外显"
+      - "H08对比强调"
+    hero_feature: "外露散热鳍片+大口径COB透镜——工程细节完全视觉化"
+    problem_solved: "在庭院景观中对植物/建筑面进行精确定向投光"
+    transferable_technique: "将散热鳍片作为美学元素外显——功能纹理即装饰语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_016"
+    source_images:
+      - filename: "36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/36.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰圆柱形大直径射灯头，可调节倾转关节+外露电缆+圆形底座，COB内可见"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "大直径圆柱形灯筒（无散热鳍片）+侧面外露电缆+可调倾转关节+圆形底座"
+      light_opening: "正面圆形大开口，内嵌透镜，可见COB光源，无遮光罩"
+      thermal: "圆柱铝合金灯筒，整体散热，无外露鳍片（与35不同）"
+      cmf:
+        color: "深石墨黑（全身）"
+        material: "铸铝（灯筒与底座）"
+        finish: "亚光粉末喷涂深黑"
+      mounting: "圆形底座地面安装，可旋转+倾转调向"
+      signature_detail: "外露连接电缆+可见关节结构——刻意保留的工业机械感，与35相比更大更粗犷"
+    design_level:
+      score: 3
+      reason: "功能完整，但形态上比35更常规，外露电缆是设计选择而非缺陷"
+    design_tags:
+      - "地面射灯"
+      - "圆柱灯头"
+      - "外露电缆"
+      - "可调角度"
+      - "H11功能外显"
+    hero_feature: "刻意外露的连接电缆+粗壮可调关节——机械工业感作为设计语言"
+    problem_solved: "在庭院中对大面积建筑或植物群进行中大功率投光"
+    transferable_technique: "外露电缆+关节结构作为设计元素——工程诚实性即美学立场"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_b2_017"
+    source_images:
+      - filename: "37.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/37.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色宽矩形扁平泛光灯头，内嵌COB发光面，可调旋转关节+圆形底座"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "宽矩形扁平灯头（横向宽于高度）+可调俯仰关节+外露连接线+圆形底座"
+      light_opening: "正面宽矩形大面积发光口，内可见暖色COB光源，透明漫射板或压花玻璃"
+      thermal: "扁平铝合金灯体，大面积散热"
+      cmf:
+        color: "深石墨黑（全身）"
+        material: "铸铝（灯体与底座）+ 压花玻璃/PMMA（透明面）"
+        finish: "亚光粉末喷涂深黑"
+      mounting: "圆形底座地面安装，可旋转调向+俯仰调角"
+      signature_detail: "横向宽矩形发光面——与35/36圆形光口形成系列形态对比，泛光而非聚光"
+    design_level:
+      score: 3
+      reason: "功能性强，矩形大光口设计在同系列中形成面发光对比，但形态相对工程化"
+    design_tags:
+      - "地面泛光灯"
+      - "矩形发光面"
+      - "COB面光源"
+      - "可调角度"
+      - "H11功能外显"
+    hero_feature: "宽矩形大发光面+可调关节——大面积均匀泛光，发光面即功能表达"
+    problem_solved: "在庭院中对宽幅建筑立面或草坪区域进行均匀大面积泛光照明"
+    transferable_technique: "矩形大面积发光口+可调关节底座——用光口形状定义照明模式（泛光vs聚光）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

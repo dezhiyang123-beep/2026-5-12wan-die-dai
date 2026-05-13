@@ -1,0 +1,468 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "装饰落地灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "foscarini_装饰落地灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "锥形白色灯罩配细杆暖粉色立柱，灯罩与立柱色差形成强视觉对比"
+    product_name: "Lumiere floor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "传统造型"]
+    design_language:
+      silhouette: "传统台灯轮廓——收窄锥形灯罩置于细直立柱顶端，比例修长，整体线条简洁"
+      light_opening: "向下漫射锥形开口，灯罩开口朝下，光线向下及侧向散射"
+      thermal: "灯罩与立柱双色处理，灯罩纯白色、立柱及底座同色（暖粉/玫瑰色）"
+      cmf:
+        color: "立柱与底座暖粉/玫瑰色（哑光），灯罩白色（半透明/乳白）"
+        material: "立柱金属，灯罩玻璃或聚碳酸酯"
+        finish: "立柱哑光粉色涂层，灯罩乳白半透明"
+      mounting: "weighted disc（圆形加重底座，直径约为立柱2-3倍）"
+      signature_detail: "灯罩与立柱的撞色处理——同一产品上主体与罩体分属两种颜色，制造轻盈但有温度的视觉张力"
+    design_level:
+      score: 4
+      reason: "造型本身传统，但色彩语言高级——粉色立柱+白色罩体的组合具有强烈品牌辨识度，不落俗套"
+    design_tags: ["撞色设计", "传统造型现代化", "轻奢", "北欧风格", "居家温馨"]
+    hero_feature: "立柱与灯罩的高级撞色——消色灯罩+有色立柱，颠倒常规注意力分配"
+    problem_solved: "传统落地灯造型过于普通，通过色彩重构让经典比例焕发设计感"
+    transferable_technique: "主结构赋予高级色彩，灯具部分保持中性白——适用于需要优雅而非激进创新的品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "极细垂直发光柱体，无灯头无灯罩，整体即为光源，深酒红色，底部小圆底座"
+    product_name: "Tige floor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "极简光柱"]
+    design_language:
+      silhouette: "单一垂直细圆柱体，无任何附加结构，从底座直接延伸至顶端，无灯头，极简到接近消失"
+      light_opening: "360度侧向发光，整根柱体全长均匀发光，光从圆柱表面向周围漫射"
+      thermal: "柱体发光时外壁呈现内发光效果，与深酒红色外观形成从暗到亮的层次对比"
+      cmf:
+        color: "深酒红/勃艮第红（整体同色）"
+        material: "半透明聚合物或玻璃发光柱体，金属底座"
+        finish: "半透明哑光柱体，底座同色哑光"
+      mounting: "weighted disc（极小圆形底座，直径约为柱体3-4倍，非常克制）"
+      signature_detail: "整根柱体即灯具——去掉所有附件，将灯具还原为最纯粹的光：一根会发光的细杆"
+    design_level:
+      score: 4
+      reason: "设计语言极度克制，将落地灯的形式减法进行到极致，产品即光、光即产品，概念完整度极高"
+    design_tags: ["极简主义", "光柱", "功能消隐", "减法设计", "现代极简"]
+    hero_feature: "无灯头设计——整根柱体均匀发光，消除了所有传统落地灯的功能性附件"
+    problem_solved: "传统落地灯结构复杂（立柱+灯头+灯罩），此设计将三者合并为一个元素，降低视觉噪音"
+    transferable_technique: "将功能部件与结构部件合并为同一物体——适用于希望极简化产品轮廓的设计场景（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "矩形银色面板斜靠放置，面板上嵌入4个圆形乳白发光圆盘，无立柱无底座，整体如一面发光标牌"
+    product_name: "Dolmen floor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "面板型"]
+    design_language:
+      silhouette: "宽扁矩形面板，长宽比约3:1，向后斜倚放置（非垂直），4个大圆形开孔内嵌乳白扩散片"
+      light_opening: "4个圆形正面发光开口，光线向正前方和侧前方投射，正面照明为主"
+      thermal: "银灰色金属外框与乳白发光圆形形成高对比，发光时圆形呈现强烈点阵效果"
+      cmf:
+        color: "外框银灰色（铝质感），发光区域乳白色"
+        material: "铝合金外框，乳白聚碳酸酯扩散圆盘"
+        finish: "外框拉丝铝/亮光铝，扩散圆盘磨砂乳白"
+      mounting: "无独立底座，面板底部直接接触地面，斜靠放置"
+      signature_detail: "斜倚姿态+4圆点阵——面板并非垂直而是向后倾斜约15-20度，产生既像陈列物又像灯具的模糊感"
+    design_level:
+      score: 4
+      reason: "脱离了所有落地灯传统约定（无立柱、无底座、非垂直），将灯具变为可斜靠的发光装置，概念独特"
+    design_tags: ["面板灯", "非传统造型", "装置感", "圆点矩阵", "工业现代"]
+    hero_feature: "斜靠放置的发光矩形面板——彻底颠覆落地灯必须垂直站立的品类假设"
+    problem_solved: "落地灯作为空间物件过于功能化，此设计让灯具兼具装置艺术属性，在关灯时仍有强烈视觉存在感"
+    transferable_technique: "用倾斜放置替代垂直站立——改变产品的空间姿态以制造装置感，可迁移至展示类或装饰类产品（H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "细金属杆顶端挂有鸟笼状椭圆形线框，内含红色玻璃球、绿色小球和锥形小灯罩，红色电缆沿杆缠绕"
+    product_name: "Visivi floor"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "装饰落地灯", "雕塑装置型"]
+    design_language:
+      silhouette: "极细金属直杆，顶端弯成钩状，悬挂椭圆形线框笼，笼内多个光源和装饰元素组合，整体轮廓不规则"
+      light_opening: "多点光源：锥形小灯罩向下投射，玻璃球体全向漫射，组合出复杂的多方向光环境"
+      thermal: "强烈的多色视觉——红色电缆、红色玻璃球、绿色球、米白锥形灯罩构成高饱和色彩组合"
+      cmf:
+        color: "银色金属杆，红色棉质缠绕电缆，红色玻璃球，绿色小玻璃球，米白灯罩"
+        material: "钢制杆，吹制彩色玻璃，布缆，金属线框"
+        finish: "金属杆哑光银，玻璃球高光彩色，灯罩哑光米白"
+      mounting: "weighted disc（灰色圆形底座）"
+      signature_detail: "将灯具做成可移动的室内雕塑——鸟笼框架内部的多元素组合如同一件微型装置艺术"
+    design_level:
+      score: 4
+      reason: "高度原创的雕塑性设计，将灯具的实用性退到次位，前卫感强，适合高端艺术收藏型消费者"
+    design_tags: ["雕塑灯", "装置艺术", "多色组合", "手工艺感", "收藏级"]
+    hero_feature: "悬挂式鸟笼+多材质混搭——整根结构是悬吊的动态构成，每个元素都有自己的视觉重量"
+    problem_solved: "打破灯具作为背景物的被动地位，让落地灯成为空间中主动的艺术焦点"
+    transferable_technique: "将功能部件（电缆、光源、结构杆）转化为装饰语言的组成部分——电缆即装饰（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "白色条纹肌理球形灯罩置于极细黑色金属杆顶端，球体表面可见横向细纹路理，小圆底座"
+    product_name: "Gem floor (XL)"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "球形灯罩"]
+    design_language:
+      silhouette: "正圆球体灯罩，直径约为立柱高度的20-25%，球体与细杆比例悬殊，强调球体的漂浮感"
+      light_opening: "全向球形漫射，360度均匀发光，整个球面都是出光面"
+      thermal: "冷色调——深色背景下白色球体高度发光，产生强烈的明暗对比，有失重感"
+      cmf:
+        color: "灯罩纯白，立柱及底座深黑/深灰"
+        material: "吹制玻璃（表面有横向条纹肌理），金属立柱和底座"
+        finish: "玻璃哑光乳白（条纹肌理），金属立柱亮黑"
+      mounting: "weighted disc（小圆底座，直径约为立柱2倍，低调）"
+      signature_detail: "球体表面细密横向条纹——不是光滑玻璃球而是带有纹理的定制吹制玻璃，增加手工艺感和光线漫射层次"
+    design_level:
+      score: 4
+      reason: "球形灯罩本身常见，但横向条纹吹制玻璃将普通球体提升为有质感的工艺品，加上深色细杆的比例张力，整体精到"
+    design_tags: ["球形灯罩", "吹制玻璃", "条纹肌理", "极简立柱", "手工艺感"]
+    hero_feature: "条纹肌理吹制玻璃球——表面细密横纹在发光时产生柔和漫射，质感远胜普通磨砂球"
+    problem_solved: "普通球形落地灯质感单调，条纹肌理赋予玻璃球更丰富的光影层次和手工价值感"
+    transferable_technique: "在圆形/球形面上施加均匀横向纹理以增加光漫射质感——可迁移至任何球形或柱形半透明灯具设计（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "有机不规则椭球形白色乳白玻璃灯罩，顶部略平、侧面鼓出不均，整体如同石头或卵石，细白杆底座"
+    product_name: "Gregg floor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "有机球形"]
+    design_language:
+      silhouette: "不规则有机体——接近球形但故意不对称，顶部略平、右侧更圆润，整体轮廓如光滑卵石或鹅卵石"
+      light_opening: "全向球形漫射，但因不对称形态产生非均匀的空间光分布"
+      thermal: "全白系——白色灯罩配白色立柱配白色底座，整体极度统一，如同雕塑"
+      cmf:
+        color: "全体乳白色（灯罩、立柱、底座一致）"
+        material: "吹制乳白玻璃灯罩，金属立柱和底座"
+        finish: "玻璃哑光乳白，金属哑光白涂层"
+      mounting: "weighted disc（圆形底座，与立柱同色，整体统一）"
+      signature_detail: "有机不规则轮廓——Foscarini的代表性设计语言，用手工吹制工艺制造不可复制的有机形态，每件微有差异"
+    design_level:
+      score: 4
+      reason: "Gregg系列是Foscarini的核心产品线，有机不规则形态结合全白统一CMF，视觉纯粹而有温度"
+    design_tags: ["有机造型", "吹制玻璃", "全白", "仿生", "雕塑感"]
+    hero_feature: "有机不规则吹制玻璃体——非几何、非对称，模拟自然形态（石头/卵石），拒绝完美圆形"
+    problem_solved: "几何球形灯罩过于理性冷漠，有机形态赋予灯具自然温度和手工唯一性"
+    transferable_technique: "用有机不对称形态替代几何对称——保留球体的功能感知但注入自然感，可迁移至陶瓷、软包、玻璃等手工类产品（H06仿生）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "纵向拉长的梭形/鱼雷形乳白灯体，上下两端收尖，中间三段分节，底部X形四脚底座"
+    product_name: "Havana floor"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "装饰落地灯", "柱体型"]
+    design_language:
+      silhouette: "垂直梭形——两端收尖的纺锤体，长径比约4:1，三段分节（上下两端各一节，中间一节），整体像放大的茧或梭"
+      light_opening: "360度侧向漫射为主，全柱面均匀出光，上下两尖端为次要出光点"
+      thermal: "全白发光体——整个梭形在通电时均匀发出柔和白光，视觉纯净"
+      cmf:
+        color: "灯体乳白色，底座银/铝色"
+        material: "聚碳酸酯或吹制玻璃灯体，金属十字底座"
+        finish: "灯体哑光半透明乳白，底座哑光银"
+      mounting: "four-leg cross（X形四脚底座，低矮稳固）"
+      signature_detail: "X形四脚底座与梭形灯体的对比——底部横向展开的X底座与上部纵向收紧的梭形形成强烈的形态对比"
+    design_level:
+      score: 4
+      reason: "梭形整体造型具有强烈的雕塑感，X底座与梭形的比例和形态对比处理精准，整体视觉张力强"
+    design_tags: ["梭形", "纺锤形", "柱体发光", "X底座", "雕塑感"]
+    hero_feature: "整体梭形发光体——无灯头、无灯罩，整个纺锤形结构即为灯具和光源"
+    problem_solved: "传统落地灯有明确的灯头方向，梭形设计消除方向性，让灯具在空间中形成360度均匀光场"
+    transferable_technique: "用纺锤/梭形替代圆柱，通过上下收尖赋予柱体造型优雅的终结——可迁移至柱形展示架、花瓶、柱型产品（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "宽口截锥形乳白玻璃灯罩，灯罩宽度明显大于传统台灯，银色极细金属立柱，圆形底座"
+    product_name: "Lumiere XXL floor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "传统造型"]
+    design_language:
+      silhouette: "宽扁截锥体灯罩置于极细立柱上，灯罩宽度约为立柱高度的30-35%，宽与细的比例对比是视觉核心"
+      light_opening: "向下宽口漫射，截锥开口朝下，底部开口较大，光线向下及侧向大角度散射"
+      thermal: "冷白色调——乳白玻璃灯罩配银色金属结构，整体清冷理性"
+      cmf:
+        color: "灯罩乳白，立柱及底座银色/不锈钢色"
+        material: "吹制乳白玻璃灯罩，金属立柱和底座"
+        finish: "玻璃亮光乳白，金属亮光银/拉丝不锈钢"
+      mounting: "weighted disc（圆形底座，直径适中，与立柱同材质）"
+      signature_detail: "超宽截锥灯罩配极细立柱——故意夸大灯罩相对于立柱的尺度，制造不成比例的轻盈张力"
+    design_level:
+      score: 4
+      reason: "Lumiere系列是Foscarini核心产品线，吹制玻璃宽截锥与极细金属立柱的比例张力是品牌标志性设计之一"
+    design_tags: ["截锥灯罩", "吹制玻璃", "不锈钢立柱", "比例张力", "现代经典"]
+    hero_feature: "超宽吹制玻璃截锥灯罩——灯罩宽度远超传统比例，让灯罩成为空间中占主导的形态"
+    problem_solved: "传统落地灯灯罩比例保守，夸大灯罩尺寸使灯具获得更强的空间存在感和光照面积"
+    transferable_technique: "故意打破结构比例——将某一部件尺寸推向极端以制造视觉张力（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "极细黑色金属直杆，顶端安装可旋转圆柱形聚光灯头，灯头以悬臂小钩固定，整体极简功能主义风格"
+    product_name: "Magneto floor"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "装饰落地灯", "任务照明型"]
+    design_language:
+      silhouette: "垂直极细直杆，顶端偏置可调节圆柱灯头，灯头与杆的连接为小型悬挂钩，整体剪影简洁但灯头造成不对称"
+      light_opening: "单向聚光，圆柱灯头可旋转调向，光线定向集中投射，适合任务照明"
+      thermal: "全黑——立柱、底座、灯头均为深黑色，消隐视觉存在感"
+      cmf:
+        color: "全体深黑/哑光黑"
+        material: "金属（钢或铝）立柱、灯头和底座"
+        finish: "全体哑光黑涂层"
+      mounting: "weighted disc（小圆形底座，直径约为立柱3倍）"
+      signature_detail: "圆柱形灯头以悬钩形式附着于杆顶——连接方式像挂件而非焊接，强调灯头的独立性和可调节性"
+    design_level:
+      score: 3
+      reason: "设计简洁功能明确，但在Foscarini产品线中相对保守，缺乏品牌标志性的戏剧感"
+    design_tags: ["任务照明", "聚光灯", "可调节", "全黑哑光", "极简功能主义"]
+    hero_feature: "悬钩式可旋转圆柱灯头——灯头不是固定的而是通过小钩悬挂，视觉上强调了功能性和可调节性"
+    problem_solved: "装饰性落地灯无法满足任务照明需求，此设计将精准照明控制融入极简外观"
+    transferable_technique: "用悬挂/钩挂方式替代固定连接——让部件产生可调节感知，适合任何需要强调灵活性的产品（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "极细纤维编织的倒锥形灯体，从顶部宽口向下收细至底部圆形底座，全体发光，金黄背景下呈现温暖质感"
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/11.jpg"
+        image_role: "alternate_colorway"
+        visual_anchor: "同款产品不同背景（青蓝色背景），清楚可见编织纤维横向条纹结构，底座圆形深色"
+    product_name: "Tress floor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "纺织编织型"]
+    design_language:
+      silhouette: "倒锥形（顶部宽开口、底部收细）——整个灯体是一个向上开口的喇叭形纤维结构，无独立灯头，灯体即底座到顶端的连续形体"
+      light_opening: "顶部开口向上漫射为主（torchiere式），同时灯体侧面半透明纤维均匀发光向外漫射"
+      thermal: "自然米白/亚麻色，温暖质感，发光时呈现蜡烛般的柔和暖光"
+      cmf:
+        color: "米白/自然亚麻色（纤维本色）"
+        material: "细密编织纺织纤维（灯罩主体），金属底座"
+        finish: "纺织哑光自然色，金属底座银色或深色"
+      mounting: "weighted disc（圆形底座，直径约为灯体底部2倍）"
+      signature_detail: "整个倒锥形均为纺织编织结构——没有玻璃、没有金属面板，纺织物既是结构也是灯罩，温度感无与伦比"
+    design_level:
+      score: 5
+      reason: "Tress是Foscarini标志性产品之一，将纺织材料推进到落地灯主体结构，材料与形态高度统一，温暖感极强，是品牌CMF创新的代表作"
+    design_tags: ["纺织编织", "倒锥形", "柔软材料", "手工艺感", "温暖光效", "标志性产品"]
+    hero_feature: "纺织编织倒锥形结构——用编织纤维取代玻璃和金属成为灯具主体，材料即形态即光效"
+    problem_solved: "玻璃和金属灯罩过于冷硬，纺织结构赋予灯具家居温度感和触觉友好性"
+    transferable_technique: "将软性编织材料用于通常使用硬性材料的结构部位——纺织代替玻璃作为光扩散介质（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_011"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "银色三脚架底座，垂直细杆上附着5片不同形状和颜色的发光灯盘（红、绿、蓝、黄、白），灯盘随机分布于杆的两侧"
+    product_name: "Orbital floor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "多灯头型"]
+    design_language:
+      silhouette: "垂直细杆+三脚架底座，杆上随机位置附着5片独立有机形状灯盘，整体轮廓不规则，类似树形或雕塑装置"
+      light_opening: "多点多方向发光——5个灯盘各有独立发光面，整体形成360度多方向光环境"
+      thermal: "高饱和多色——红、绿、蓝、黄各自独立，加白色，视觉热闹活泼，强烈的波普风格"
+      cmf:
+        color: "红、绿、蓝、黄、白五色灯盘，银色金属杆和三脚架底座"
+        material: "彩色聚碳酸酯或玻璃灯盘，金属立杆，金属三脚架"
+        finish: "灯盘哑光彩色，金属杆亮光银/拉丝"
+      mounting: "three-leg（三脚架底座，低矮稳固）"
+      signature_detail: "5片不同颜色+不同形状的有机灯盘随机排布——没有规律、没有对称，每片灯盘形状独立（肾形、三角、圆形等）"
+    design_level:
+      score: 4
+      reason: "波普艺术感鲜明，多色多形态组合方式大胆，强烈的收藏属性，设计主张明确——装饰优先于实用"
+    design_tags: ["多灯头", "波普艺术", "多色", "有机形态", "装置感", "三脚架"]
+    hero_feature: "5片彩色有机形态灯盘随机悬挂——每片颜色、形状均不同，整体如同可发光的Calder活动雕塑"
+    problem_solved: "落地灯通常只有一个发光点，多灯盘设计创造了丰富的光层次，同时让灯具成为空间艺术焦点"
+    transferable_technique: "将单一光源拆分为多个独立有机形态单元——每个单元有自己的颜色和形状身份（H05模块化+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_012"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "高挑拉长的泪珠形/气球形白色条纹吹制玻璃灯罩，顶部收圆、底部收细，置于极细白色立柱上，小圆底座"
+    product_name: "Rituals 3 floor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "球形灯罩"]
+    design_language:
+      silhouette: "拉长泪珠形——接近椭圆但顶部更饱满，底部收细并与立柱相接，整体有向上漂浮感，高挑感强"
+      light_opening: "全向漫射为主，顶部圆润饱满处漫射光最亮，整体有气球发光的温暖感"
+      thermal: "全白系——白色条纹玻璃罩+白色立柱+白色底座，统一冷白偏暖"
+      cmf:
+        color: "全体白色（灯罩、立柱、底座一致）"
+        material: "吹制白色玻璃（横向条纹肌理），金属立柱和底座"
+        finish: "玻璃哑光乳白（条纹肌理），金属哑光白涂层"
+      mounting: "weighted disc（小圆形底座，与立柱同色）"
+      signature_detail: "拉长泪珠/气球形状的条纹玻璃罩——比球形更有动态感，顶部饱满底部收细，如同充气气球或泡泡"
+    design_level:
+      score: 4
+      reason: "Rituals系列将手工条纹吹制玻璃推向极致，泪珠形比球形更具动感，全白统一CMF使其在任何室内风格中均可融入"
+    design_tags: ["泪珠形", "吹制玻璃", "条纹肌理", "气球感", "全白", "手工艺"]
+    hero_feature: "拉长气球形条纹吹制玻璃罩——介于球形和柱形之间的有机过渡形态，顶部饱满底部收紧"
+    problem_solved: "标准球形灯罩过于静态，拉长的泪珠形赋予灯具向上的动势感，在发光时有气球飘浮的轻盈感"
+    transferable_technique: "将球体进行纵向拉伸到顶部饱满/底部收细——制造有重力感但又向上漂浮的有机形态（H06仿生）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_装饰落地灯_013"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/装饰落地灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "近正圆但略扁的白色条纹吹制玻璃球形灯罩，表面横向细纹，极细白色立柱，小圆底座"
+    product_name: "Rituals 1 floor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "球形灯罩"]
+    design_language:
+      silhouette: "近正球形（略扁球），直径约为立柱高度的28%，球体与细杆形成鲜明的轻重对比"
+      light_opening: "全向球形漫射，360度均匀出光"
+      thermal: "全白系——白色条纹玻璃罩+白色立柱+白色底座，与Rituals 3同色系"
+      cmf:
+        color: "全体白色"
+        material: "吹制白色玻璃（横向条纹肌理），金属立柱和底座"
+        finish: "玻璃哑光乳白（条纹肌理），金属哑光白涂层"
+      mounting: "weighted disc（小圆形底座，与立柱同色）"
+      signature_detail: "条纹肌理吹制玻璃球——与Rituals 3共享相同的肌理语言，但球形更饱满圆润，尺寸更小巧"
+    design_level:
+      score: 4
+      reason: "Rituals 1是该系列中最经典的圆形版本，条纹肌理玻璃是品牌标志性语言，全白CMF优雅克制"
+    design_tags: ["球形灯罩", "吹制玻璃", "条纹肌理", "全白", "手工艺感", "经典比例"]
+    hero_feature: "条纹肌理吹制玻璃球体——手工横向条纹在光线透射时形成柔和光晕，质感比光滑玻璃球更丰富"
+    problem_solved: "光滑玻璃球灯罩质感单调，手工条纹肌理增加光漫射层次，同时赋予玻璃手工艺收藏价值"
+    transferable_technique: "通过手工条纹肌理将普通几何形（球/柱/锥）升级为高质感工艺品——肌理密度和均匀度是关键（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

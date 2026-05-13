@@ -1,0 +1,44 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "嵌入式壁灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/嵌入式壁灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_嵌入壁灯_001"
+    source_images:
+      - filename: "14__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/嵌入式壁灯/14__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "大面积灰色矩形面板，中央横向内凹矩形开口，开口内有遮光挡板，正视图"
+    product_name: "RAB 嵌入式壁灯（横向开口款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "嵌入式壁灯"]
+    design_language:
+      silhouette: "横向宽矩形面板，面板占据整个安装区域，与墙面齐平嵌入"
+      light_opening: "中央横向矩形内凹开口，开口内有弧形遮光挡板，LED模组置于遮光板后方，出光向下"
+      thermal: "封闭面板内部散热，外部无可见散热结构"
+      cmf:
+        color: "中灰色/银灰"
+        material: "压铸铝合金"
+        finish: "粉末喷涂，哑光细腻质感"
+      mounting: "嵌墙安装，面板与墙面齐平，无外凸结构"
+      signature_detail: "极简矩形面板+横向内凹遮光开口，出光隐藏于面板后，强调H09隐藏工程"
+    design_level:
+      score: 4
+      reason: "极度克制的设计语言，齐墙面板几乎消隐于建筑表面，遮光结构设计精细，嵌入感极强"
+    design_tags: ["H09隐藏工程", "嵌入式", "极简面板", "H07极简整合", "遮光设计", "建筑融合"]
+    hero_feature: "齐平墙面矩形面板+横向内凹遮光开口的极简消隐感"
+    problem_solved: "壁挂灯具体量感破坏建筑立面整洁性的问题"
+    transferable_technique: "将光源完全隐藏于内凹遮光腔内，仅露出面板轮廓，实现灯具建筑化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

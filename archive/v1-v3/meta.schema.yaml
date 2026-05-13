@@ -1,0 +1,58 @@
+# meta.schema.yaml — 通用meta字段+版本管理
+
+schema_version: "2.0"
+
+description: |
+  所有关卡产物的通用meta字段。每个产物文件必须包含这些字段。
+  版本管理规则：回流时旧文件加前缀_obsolete_并标lifecycle: obsolete，
+  新版本parent_version指向旧版本文件名，只读lifecycle: active的文件。
+
+meta_fields:
+  project_id:
+    type: string
+    required: true
+    description: "项目唯一标识，格式 YYYYMMDD-客户缩写-品类缩写"
+
+  schema_type:
+    type: string
+    required: true
+    description: "本文件对应的schema名称，如 01_business_gate"
+
+  created_at:
+    type: string
+    required: true
+    description: "创建时间 YYYY-MM-DD HH:MM"
+
+  updated_at:
+    type: string
+    required: true
+    description: "最后更新时间 YYYY-MM-DD HH:MM"
+
+  lifecycle:
+    type: enum
+    values: ["active", "obsolete", "archived"]
+    required: true
+    description: |
+      active: 当前有效版本
+      obsolete: 已被新版本替代（回流产生的旧版本）
+      archived: 项目结束后归档
+
+  parent_version:
+    type: string
+    required: false
+    description: "回流时前一版本的文件名（如_obsolete_03_direction_space_v1.yaml）"
+
+  superseded_by:
+    type: string
+    required: false
+    description: "被哪个文件替代（回流时填写，与parent_version互指）"
+
+  search_timestamp:
+    type: string
+    required: false
+    description: "搜索执行时间戳（scout产物使用）"
+
+validation:
+  - lifecycle必须是active/obsolete/archived之一
+  - lifecycle: obsolete的文件不得被下游引用
+  - 回流时必须同时更新旧文件的superseded_by和新文件的parent_version

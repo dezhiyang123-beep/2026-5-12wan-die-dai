@@ -1,0 +1,667 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "手动工具"
+  tertiary: "锤子"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/"
+  generated_at: "2026-05-08"
+
+# ============================================================
+# 分类警告：本批18张图片实际内容均为Milwaukee电动锤钻
+# （Rotary Hammer / Demolition Hammer），并非手动锤子。
+# 文件名"手动工具__锤子"为爬虫误标。
+# 建议将本文件整体迁移至：
+#   素材索引/power_tools/milwaukee/milwaukee_锤钻.yaml
+# 所有条目均已标注 needs_human_review: true
+# ============================================================
+
+products:
+  - product_id: "milwaukee_手动工具_021"
+    source_images:
+      - filename: "手动工具__锤子__21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__21.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL SDS-Plus锤钻套装，机身红色+灰色壳体，D型手柄，前置黑色辅助把手，配红色硬壳收纳箱、2块M18 XC电池及充电器，白底展示"
+    product_name: "Milwaukee M18 FUEL SDS-Plus 1-1/8\" Rotary Hammer Kit"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Plus电锤"]
+    design_language:
+      silhouette: "SDS-Plus枪型机身，前粗后细，D型握持区镂空，比例约3:1（机头:手柄）"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee标志红（主体机壳）+ 浅灰（齿轮箱/机头壳）+ 黑（辅助把手/扳机/电池底座）"
+        material: "工程塑料机壳，钢制齿轮箱，橡胶包覆辅助把手"
+        finish: "哑光注塑，机头区域轻微纹理，Milwaukee闪电标识丝印"
+      mounting: "D型手柄一体成型，前置可旋转辅助把手"
+      signature_detail: "Milwaukee FUEL红色闪电logo大面积印于机身侧面，AVS振动抑制标识显著"
+    design_level:
+      score: 4
+      reason: "M18 FUEL旗舰线造型成熟，红灰配色辨识度极高，AVS振动系统外化为可见的设计语言，品牌一致性强"
+    design_tags: ["SDS-Plus", "锤钻", "M18FUEL", "套装", "AVS振动抑制", "无线电动工具"]
+    hero_feature: "大面积Milwaukee红色机壳+闪电FUEL标识，配合AVS波形振动抑制视觉标签"
+    problem_solved: "旋转冲击打孔，适用于混凝土/砌体，M18无线平台免去拖线束缚"
+    transferable_technique: "红灰双色分件线设计：功能区（齿轮箱/冲击头）用灰色，动力区（电机/电池）用品牌红，直观传递能量流向"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee M18 FUEL SDS-Plus电锤套装，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_022"
+    source_images:
+      - filename: "手动工具__锤子__22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__22.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL SDS-Plus锤钻单机，红色+灰色机身，侧面模式选择旋钮清晰可见，前置Milwaukee黑色辅助把手，白底纯产品图"
+    product_name: "Milwaukee M18 FUEL SDS-Plus 1-1/8\" Rotary Hammer (Tool Only)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Plus电锤"]
+    design_language:
+      silhouette: "SDS-Plus枪型，灰色齿轮箱前置，红色机身后段，D型手柄镂空，前后比例均衡"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee标志红（电机壳/电池座）+ 中灰（齿轮箱）+ 黑（辅助把手/扳机/模式旋钮）"
+        material: "工程塑料机壳，合金齿轮箱，橡胶过模辅助把手"
+        finish: "哑光注塑，模式选择旋钮黑色哑光，Milwaukee+FUEL白色丝印"
+      mounting: "D型手柄，前置可旋转黑色辅助把手"
+      signature_detail: "AVS标识显著，模式旋钮（旋转/冲击/凿）突出于机身，红色卡扣式电池锁位于底部"
+    design_level:
+      score: 4
+      reason: "产品图干净，三模式旋钮作为功能外显设计元素清晰，FUEL系列造型语言统一"
+    design_tags: ["SDS-Plus", "锤钻", "M18FUEL", "单机版", "AVS振动抑制", "三模式"]
+    hero_feature: "三模式选择旋钮功能外显+红灰双色分区机壳"
+    problem_solved: "混凝土/砌体旋转冲击打孔，三模式切换适应不同作业场景"
+    transferable_technique: "功能模式旋钮作为视觉焦点：将内部功能切换机制外化为大尺寸旋钮，既是操作界面也是设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee M18 FUEL SDS-Plus电锤，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_023"
+    source_images:
+      - filename: "手动工具__锤子__23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__23.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL SDS-Max大型锤钻，红色+灰色机身，机头更粗短，ONE-KEY标识可见，前置粗黑辅助把手，枪型外形更紧凑，白底"
+    product_name: "Milwaukee M18 FUEL SDS-Max 1-9/16\" Rotary Hammer (One-Key, Tool Only)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Max电锤"]
+    design_language:
+      silhouette: "SDS-Max粗壮枪型，机头直径明显大于SDS-Plus版，机身比例更短粗有力，D型手柄"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee红（主机壳）+ 深灰（齿轮箱/AVS壳体）+ 黑（把手/旋钮）"
+        material: "加强工程塑料，重型合金齿轮箱，橡胶把手"
+        finish: "哑光，One-Key蓝色WiFi图标为唯一彩色点缀"
+      mounting: "D型手柄，前置可旋转重型辅助把手，ONE-KEY无线模块集成"
+      signature_detail: "One-Key蓝色WiFi圆形标识嵌入机身，是数字化工具管理的视觉符号"
+    design_level:
+      score: 4
+      reason: "SDS-Max系列外形比SDS-Plus更具攻击性，机头粗壮感强，ONE-KEY数字化标识差异化突出"
+    design_tags: ["SDS-Max", "锤钻", "M18FUEL", "ONE-KEY", "数字化管理", "重型"]
+    hero_feature: "SDS-Max粗壮机头+One-Key蓝色WiFi标识的数字化工具管理符号"
+    problem_solved: "重型混凝土钻孔与凿破，SDS-Max适配大直径钻头，One-Key支持工具追踪与使用数据管理"
+    transferable_technique: "数字化功能视觉化：One-Key蓝色WiFi标识作为小面积彩色点缀，在全红黑配色中形成视觉锚点，传递智能化价值"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee M18 FUEL SDS-Max大型电锤，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_024"
+    source_images:
+      - filename: "手动工具__锤子__24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__24.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL SDS-Max锤钻套装，含工具本体+红色硬壳大箱+2块M18 FORGE HD12.0电池+充电器，蓝色WiFi图标可见，白底全套展示"
+    product_name: "Milwaukee M18 FUEL SDS-Max 1-9/16\" Rotary Hammer Kit (One-Key, Forge Batteries)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Max电锤"]
+    design_language:
+      silhouette: "与23号同款机身，套装展示强调整体生态系统"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee红（工具+箱体）+ 灰+黑；FORGE电池为深红色带金色FORGE字标"
+        material: "工程塑料，FORGE电池采用不同质感外壳"
+        finish: "哑光，FORGE电池金色文字对比强烈"
+      mounting: "同23号，套装形态"
+      signature_detail: "FORGE高容量电池（HD12.0）作为套装视觉重点，金色FORGE字样差异化"
+    design_level:
+      score: 4
+      reason: "套装构图专业，FORGE电池金色标识升级感强，整套红色系统感一致"
+    design_tags: ["SDS-Max", "锤钻", "M18FUEL", "ONE-KEY", "FORGE电池", "套装", "重型"]
+    hero_feature: "FORGE高容量电池金色标识+M18 FUEL全红系统套装视觉一致性"
+    problem_solved: "重型专业施工场景，FORGE大容量电池确保长续航重载作业"
+    transferable_technique: "系列内产品差异化：同色系下用材质/标识字体区分产品等级（FORGE金色vs标准红色），建立清晰的产品层级感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee M18 FUEL SDS-Max电锤套装，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_025"
+    source_images:
+      - filename: "手动工具__锤子__25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__25.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL D-Handle SDS-Plus锤钻，大面积红色机身，D型手柄比枪型版更开放，前置黑色辅助把手，整体更扁平横向延伸，白底"
+    product_name: "Milwaukee M18 FUEL SDS-Plus D-Handle Rotary Hammer (Tool Only)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Plus电锤"]
+    design_language:
+      silhouette: "D型手柄横向构型，比枪型版更扁宽，整体呈水平长条形，适合需要水平推力的打孔作业"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "大面积Milwaukee红（机身前后段）+ 灰色（齿轮箱/模式区）+ 黑（把手纹理/扳机）"
+        material: "工程塑料，合金齿轮箱"
+        finish: "哑光，Milwaukee+FUEL白色丝印，M18徽标嵌入"
+      mounting: "D型开口手柄（区别于枪型），前置可旋转辅助把手"
+      signature_detail: "D型手柄将标准枪型握持转变为推力方向更直觉的水平握持，手柄镂空区域成为造型亮点"
+    design_level:
+      score: 3
+      reason: "D型手柄版在外形上与枪型版有明显差异化，红色面积更大，但整体设计语言与系列一致"
+    design_tags: ["SDS-Plus", "锤钻", "M18FUEL", "D型手柄", "横向构型"]
+    hero_feature: "D型开放式手柄造型，将功能需求（水平推力）直接转化为独特外形轮廓"
+    problem_solved: "水平方向混凝土打孔作业，D型手柄提供更直接的推力控制，减少手腕疲劳"
+    transferable_technique: "手柄形态即使用场景：D型vs枪型手柄形态差异直接传达使用姿势，用造型引导用户操作行为"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee M18 FUEL D-Handle SDS-Plus电锤，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_026"
+    source_images:
+      - filename: "手动工具__锤子__26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__26.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL SDS-Max大型锤钻单机，大面积银灰色齿轮箱壳体配红色电机区，机头粗重，三个银色散热凸点，前置黑色粗辅助把手，M18 FORGE电池在侧，白底"
+    product_name: "Milwaukee M18 FUEL SDS-Max 2\" Rotary Hammer with Forge Battery"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Max电锤"]
+    design_language:
+      silhouette: "大型SDS-Max枪型，银灰色齿轮箱占主体前段，后段红色电机壳，机头有粗重的圆筒感"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "银灰色（大面积齿轮箱）+ Milwaukee红（电机壳/电池座）+ 黑（把手/扳机）"
+        material: "厚壁工程塑料，重型铸铝齿轮箱"
+        finish: "银灰哑光，三个圆形银色通风孔为造型细节点"
+      mounting: "枪型手柄，前置重型可旋转辅助把手"
+      signature_detail: "三个银色圆形散热通风孔对称分布于机身顶部，是重型机器散热外化的设计语言"
+    design_level:
+      score: 4
+      reason: "银灰+红的色彩反转（相对普通版更多灰色）给产品增加重型专业感，散热孔细节精致"
+    design_tags: ["SDS-Max", "锤钻", "M18FUEL", "重型", "2英寸", "FORGE电池"]
+    hero_feature: "大面积银灰齿轮箱壳体+三圆散热孔，视觉传递重型机械感"
+    problem_solved: "2英寸以上大直径重型混凝土钻孔，FORGE大容量电池支持持续重载"
+    transferable_technique: "灰色作为重量感传递：银灰色占主体面积时，比全红方案更能传达重型/专业级别的视觉重量"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee M18 FUEL大型SDS-Max电锤，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_027"
+    source_images:
+      - filename: "手动工具__锤子__27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__27.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL SDS-Max锤钻+红色大型硬壳收纳箱套装，配2块FORGE XC9.0电池+充电器，白底全套俯角展示"
+    product_name: "Milwaukee M18 FUEL SDS-Max Rotary Hammer Kit (Forge XC9.0)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Max电锤"]
+    design_language:
+      silhouette: "与26号同款机型，套装形态，箱体为Milwaukee标志红色大型硬壳"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee红（工具+箱体统一）+ 灰+黑；FORGE电池深红色"
+        material: "硬壳ABS箱体，海绵内衬"
+        finish: "箱体哑光模压，Milwaukee logo浮雕+丝印"
+      mounting: "套装展示，箱体携带系统"
+      signature_detail: "Milwaukee统一红色系统感：工具+箱体+电池同色系，视觉形成强烈品牌识别套装"
+    design_level:
+      score: 3
+      reason: "套装形态展示标准，全红系统感强，但与24号套装差异不大"
+    design_tags: ["SDS-Max", "锤钻", "M18FUEL", "套装", "FORGE电池", "重型"]
+    hero_feature: "Milwaukee全红系统：工具+箱+电池色彩统一形成强品牌套装识别"
+    problem_solved: "重型施工现场完整解决方案，携带箱保护工具同时强化专业形象"
+    transferable_technique: "套装色彩系统化：工具/配件/收纳箱使用统一品牌色，提升套装整体价值感和专业定位"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee M18 FUEL SDS-Max电锤套装，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_028"
+    source_images:
+      - filename: "手动工具__锤子__28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__28.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 Brushless D-Handle SDS-Plus锤钻，红色+灰色机身，D型手柄，BRUSHLESS标识，AVS波形标识，白底产品图"
+    product_name: "Milwaukee M18 Brushless SDS-Plus D-Handle Rotary Hammer (Tool Only)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Plus电锤"]
+    design_language:
+      silhouette: "D型手柄横向构型，与25号FUEL版相似但BRUSHLESS非FUEL，机身略细"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee红（主机壳）+ 浅灰（齿轮箱）+ 黑（把手/扳机）"
+        material: "工程塑料，合金齿轮箱"
+        finish: "哑光，BRUSHLESS白色字样标注，Milwaukee丝印"
+      mounting: "D型手柄，前置辅助把手"
+      signature_detail: "BRUSHLESS字样标识区别于FUEL系列，是产品线差异化的文字视觉信号"
+    design_level:
+      score: 3
+      reason: "设计语言与FUEL系列一致但规格定位略低，BRUSHLESS标识清晰，整体造型干净"
+    design_tags: ["SDS-Plus", "锤钻", "M18", "Brushless", "D型手柄", "AVS"]
+    hero_feature: "D型手柄造型+BRUSHLESS/AVS双技术标识组合"
+    problem_solved: "中型混凝土打孔，D型手柄水平作业，无刷电机延长工具寿命"
+    transferable_technique: "技术标识层级：BRUSHLESS vs FUEL文字标识区分产品线档次，同一造型语言下通过标识传达性能差异"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee M18 Brushless D-Handle SDS-Plus电锤，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_029"
+    source_images:
+      - filename: "手动工具__锤子__29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__29.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18旧款SDS-Plus锤钻，红色+银灰机身，方形模式选择旋钮，前置辅助把手，配M18 RedLithium XC电池，造型更早期，白底"
+    product_name: "Milwaukee M18 SDS-Plus 1\" Rotary Hammer (Previous Generation)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Plus电锤"]
+    design_language:
+      silhouette: "早期枪型SDS-Plus，机身线条较现款更圆润，无D型手柄镂空，整体更保守"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "红色+银灰（旧款配色，银灰面积比现款更大）+ 黑把手"
+        material: "工程塑料，旧款银灰色塑料件"
+        finish: "哑光，Milwaukee HEAVY-DUTY标识（旧款用语）"
+      mounting: "枪型手柄，前置辅助把手"
+      signature_detail: "方形/圆形模式选择旋钮，旧款更圆润的转角设计，与FUEL系列的硬边线形成世代差异"
+    design_level:
+      score: 2
+      reason: "旧款设计语言，造型圆润不如现款FUEL系列锐利，品牌识别度相对低，设计参考价值主要在于代际对比"
+    design_tags: ["SDS-Plus", "锤钻", "M18", "旧款", "历史参考", "代际对比"]
+    hero_feature: "旧款Milwaukee造型语言参考：圆润线条+大面积银灰，与FUEL系列的硬边红色形成清晰代际对比"
+    problem_solved: "同SDS-Plus锤钻功能，作为历史参考图了解Milwaukee设计语言演进"
+    transferable_technique: "设计语言代际演进参考：从圆润银灰（旧）到硬边全红（新），Milwaukee品牌视觉重塑路径"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee M18旧款SDS-Plus电锤，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_030"
+    source_images:
+      - filename: "手动工具__锤子__30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__30.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee HammerVac粉尘收集附件，红色矩形主体+黑色半透明粉尘收集仓，侧面HAMMERVAC标识，左侧伸出银色抽吸管+黑色夹具，HEPA FILTER和OSHA标识可见，白底"
+    product_name: "Milwaukee HammerVac Dust Extractor Attachment (Universal SDS)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻配件", "粉尘收集器"]
+    design_language:
+      silhouette: "矩形扁平体，左侧伸出抽吸管，底部为黑色半透明粉尘收集仓，整体呈T型横截面"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee红（主壳体）+ 黑色（两颗操作按钮/夹具）+ 半透明烟灰色（粉尘收集仓可视窗）"
+        material: "工程塑料，透明PC粉尘仓，金属抽吸管"
+        finish: "哑光红色，烟灰色半透明收集仓，HAMMERVAC丝印白色"
+      mounting: "夹具式安装于锤钻辅助把手位置"
+      signature_detail: "半透明烟灰色粉尘收集仓：可视化粉尘积累量，功能外显设计典型案例"
+    design_level:
+      score: 3
+      reason: "配件设计与Milwaukee主工具语言高度一致（红色+黑色），OSHA合规标识突出专业性，半透明仓体功能外显"
+    design_tags: ["锤钻配件", "粉尘收集", "HammerVac", "HEPA", "OSHA合规", "配件设计"]
+    hero_feature: "半透明粉尘收集仓：将内部粉尘积累状态可视化，是功能外显（H11）的优秀案例"
+    problem_solved: "锤钻作业粉尘污染控制，满足OSHA粉尘暴露法规要求，HEPA过滤保护用户健康"
+    transferable_technique: "功能状态可视化：使用半透明材料直接显示工具内部工作状态（粉尘量），无需开盖检查，提升用户控制感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee HammerVac粉尘收集配件，建议重新归类至电动工具/锤钻配件"
+
+  - product_id: "milwaukee_手动工具_031"
+    source_images:
+      - filename: "手动工具__锤子__31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__31.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线SDS-Plus紧凑型锤钻+硬壳收纳箱套装，红色机身+白色/灰色齿轮箱，AVS标识，电源线可见，白底斜视角"
+    product_name: "Milwaukee SDS-Plus Rotary Hammer Kit (Corded, Compact)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Plus有线电锤"]
+    design_language:
+      silhouette: "有线SDS-Plus枪型，机头白色（区别于M18版的灰色），前辅助把手下置，比例更紧凑"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee红（主机壳）+ 白色/浅灰（齿轮箱，与M18版不同）+ 黑把手"
+        material: "工程塑料，合金齿轮箱"
+        finish: "哑光，Milwaukee白色丝印，AVS波形标识"
+      mounting: "枪型手柄，前置辅助把手，有线（电源线出尾部）"
+      signature_detail: "白色齿轮箱壳体是有线版区别于M18无线版的视觉差异标志，暗示不同产品线"
+    design_level:
+      score: 3
+      reason: "有线版设计语言与Milwaukee品牌一致，白色齿轮箱是有线系列的识别特征，整体干净"
+    design_tags: ["SDS-Plus", "锤钻", "有线", "紧凑型", "AVS", "套装"]
+    hero_feature: "白色齿轮箱壳体作为有线系列与无线M18系列的视觉区分标志"
+    problem_solved: "轻型混凝土打孔，有线版无需电池管理，适合固定工位作业"
+    transferable_technique: "配色区分产品线：同品牌内用壳体颜色（白vs灰）区分有线/无线系列，简单有效的产品线视觉识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee有线SDS-Plus紧凑型电锤套装，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_032"
+    source_images:
+      - filename: "手动工具__锤子__32.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__32.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线SDS-Max锤钻，大型机身，红色+银灰双色，大直径SDS-Max接头，前置粗辅助把手，AVS标识，电源线，三角形通风格栅，白底"
+    product_name: "Milwaukee SDS-Max Rotary Hammer (Corded, Heavy-Duty)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Max有线电锤"]
+    design_language:
+      silhouette: "大型SDS-Max横向构型，机头巨大圆柱形，机身三角形通风格栅为重要细节，整体重量感强"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee红（下部机壳）+ 银灰（上部齿轮箱大面积）+ 黑（把手/格栅）"
+        material: "厚壁工程塑料，铸铝重型齿轮箱"
+        finish: "哑光，通风格栅斜切面细节，Milwaukee+AVS丝印"
+      mounting: "枪型手柄，前置重型辅助把手，有线"
+      signature_detail: "倒三角形通风格栅切口是散热设计外化的强烈几何语言，在机身侧面形成视觉节奏"
+    design_level:
+      score: 4
+      reason: "倒三角形格栅是本款最强设计细节，散热功能转化为几何装饰语言，形式与功能结合好"
+    design_tags: ["SDS-Max", "锤钻", "有线", "重型", "AVS", "散热格栅", "几何语言"]
+    hero_feature: "倒三角形散热格栅：将工业散热需求转化为有节奏的几何装饰语言"
+    problem_solved: "大直径重型混凝土钻孔，有线持续大功率输出，AVS减振保护操作者"
+    transferable_technique: "散热口几何化：将必要的散热通风口设计为有规律的几何图案（倒三角形阵列），功能件成为视觉焦点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee有线SDS-Max重型电锤，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_033"
+    source_images:
+      - filename: "手动工具__锤子__33.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__33.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线大型SDS-Max重型破碎锤，长机身以银灰色为主，红色仅在握把区，超长圆柱形机头，Milwaukee HEAVY-DUTY标识，电源线，侧把手，白底"
+    product_name: "Milwaukee SDS-Max Demolition Hammer (Corded, Heavy-Duty)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Max有线破碎锤"]
+    design_language:
+      silhouette: "超长水平构型，机头占总长约60%，以圆柱形为主，整体呈大炮/火箭形，重心前置"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "大面积银灰（机头/齿轮箱/主壳体）+ 红色（握把区域，仅后段）+ 黑把手"
+        material: "铸铝重型壳体，工程塑料握持区"
+        finish: "哑光银灰，Milwaukee HEAVY-DUTY字标，少量红色点缀"
+      mounting: "侧把手，后部枪式握持，有线"
+      signature_detail: "银灰色占主导（约70%面积），Milwaukee红色退居次要，传递超重型机械专业感，区别于一般Milwaukee红色印象"
+    design_level:
+      score: 3
+      reason: "功能形态直白有力，银灰主导色传递重型机械感，但造型较纯功能性，设计语言不如FUEL系列精炼"
+    design_tags: ["SDS-Max", "破碎锤", "有线", "超重型", "HEAVY-DUTY", "银灰主导"]
+    hero_feature: "超长圆柱形机头+银灰主导配色：传递超重型破碎工具的力量感"
+    problem_solved: "大体量混凝土结构破碎拆除，超长机头聚焦冲击能量，适合持续凿破作业"
+    transferable_technique: "颜色退位传递重量感：在Milwaukee体系中，银灰色面积增大（红色减少）可作为标识重型/专业升级的配色规律"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee有线SDS-Max大型破碎锤，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_034"
+    source_images:
+      - filename: "手动工具__锤子__34.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__34.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线SDS-Max凿破锤，红色+灰色大型机身，D型环形辅助把手（非棒状），前置SDS-Max接头，底部球形减震脚垫，有线，白底"
+    product_name: "Milwaukee SDS-Max Combination Hammer (Corded, D-Handle)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Max有线组合锤"]
+    design_language:
+      silhouette: "大型SDS-Max机身，D型环形辅助把手替代棒状，底部球形减震脚垫为独特细节，整体更紧凑方正"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee红（机壳主体）+ 灰色（前齿轮区）+ 黑（D型把手/底部脚垫）"
+        material: "工程塑料，重型合金齿轮箱，橡胶减震脚垫"
+        finish: "哑光，Milwaukee丝印，AVS标识"
+      mounting: "D型环形辅助把手（360度握持）+ 枪式主把手，底部球形减震脚垫"
+      signature_detail: "D型环形辅助把手（非普通棒状）：允许任意角度握持，提升作业灵活性，同时成为造型差异点"
+    design_level:
+      score: 4
+      reason: "D型环形把手是本款最强差异化设计，功能需求（多角度握持）直接转化为独特造型，底部球形脚垫细节加分"
+    design_tags: ["SDS-Max", "组合锤", "有线", "D型环形把手", "球形脚垫", "多角度操作"]
+    hero_feature: "D型环形辅助把手：替代传统棒状把手，实现360度任意角度握持，功能需求即设计语言"
+    problem_solved: "多角度复杂施工场景下的混凝土破碎，D型把手适应任意握持角度，球形脚垫竖立使用时防滑"
+    transferable_technique: "把手形态即使用自由度：D型环形把手相比棒状把手在造型上传达更高的操作灵活性，是功能自由度的形态外化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee有线SDS-Max D型环形把手组合锤，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_035"
+    source_images:
+      - filename: "手动工具__锤子__35.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__35.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线SDS-Plus D-Handle锤钻+红色收纳箱套装，红色机身+银灰齿轮箱，D型手柄，电源线，与收纳箱搭配展示，白底"
+    product_name: "Milwaukee SDS-Plus D-Handle Rotary Hammer Kit (Corded)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Plus有线电锤"]
+    design_language:
+      silhouette: "有线D型手柄SDS-Plus，与25号M18版相比机身更扁，D型手柄镂空更大"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee红（机壳）+ 银灰（齿轮箱）+ 黑（把手）"
+        material: "工程塑料，合金齿轮箱"
+        finish: "哑光，Milwaukee丝印"
+      mounting: "D型手柄，前置辅助把手，有线"
+      signature_detail: "有线D型手柄版，D型镂空比M18版更大，视觉更通透"
+    design_level:
+      score: 3
+      reason: "标准Milwaukee有线系列设计语言，D型手柄造型清晰，无特别突出设计创新点"
+    design_tags: ["SDS-Plus", "锤钻", "有线", "D型手柄", "套装"]
+    hero_feature: "有线D型手柄造型，大镂空D型设计简洁通透"
+    problem_solved: "水平方向混凝土打孔，有线持续供电，D型手柄精准控制"
+    transferable_technique: "把手镂空比例控制：D型镂空越大视觉越通透轻盈，镂空越小越厚重，可作为视觉重量调节手段"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee有线SDS-Plus D-Handle电锤套装，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_036"
+    source_images:
+      - filename: "手动工具__锤子__36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__36.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线SDS-Max锤钻，红色+灰色机身，前段大直径圆柱SDS-Max接头，两段色彩分区清晰，前置辅助把手，Milwaukee标识，有线，白底"
+    product_name: "Milwaukee SDS-Max Rotary Hammer (Corded, Mid-Size)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Max有线电锤"]
+    design_language:
+      silhouette: "中型SDS-Max枪型，机头圆柱短粗，机身两段式分色，前灰后红比例约4:6"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee红（后机壳/握把区）+ 灰色（前齿轮箱/机头）+ 黑把手"
+        material: "工程塑料，合金齿轮箱"
+        finish: "哑光，Milwaukee白色丝印"
+      mounting: "枪型手柄，前置辅助把手，有线"
+      signature_detail: "两段式前灰后红的分色比例，灰色齿轮箱前置形成工程感，红色后段强化品牌认知"
+    design_level:
+      score: 3
+      reason: "造型标准，两段分色清晰，Milwaukee品牌识别度高，但无特别突出的设计亮点"
+    design_tags: ["SDS-Max", "锤钻", "有线", "中型", "两段分色"]
+    hero_feature: "前灰后红两段分色：齿轮区灰色强调工程机械感，电机区红色强调品牌能量感"
+    problem_solved: "中型混凝土钻孔破碎，SDS-Max大扭矩适合专业施工"
+    transferable_technique: "功能区配色语言：齿轮/传动区用灰/银色（机械性），动力/品牌区用品牌色（能量感），形成功能分区的色彩编码"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee有线SDS-Max中型电锤，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_037"
+    source_images:
+      - filename: "手动工具__锤子__37.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__37.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线SDS-Plus锤钻旧款，红色+银灰机身，圆形大模式旋钮，Milwaukee HEAVY-DUTY标识，黑色电机底壳，有线，整体较早期设计，白底"
+    product_name: "Milwaukee SDS-Plus Rotary Hammer (Corded, Previous Generation)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Plus有线电锤"]
+    design_language:
+      silhouette: "旧款枪型，机身更圆润，无明显硬边，整体轮廓柔和，圆形大旋钮突出"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "红色+银灰+黑色底部（三色）；旧款配色层次更多，不如现款纯粹"
+        material: "工程塑料"
+        finish: "哑光，HEAVY-DUTY字标（Milwaukee旧用语，现已弃用）"
+      mounting: "枪型手柄，前置辅助把手，有线"
+      signature_detail: "Milwaukee HEAVY-DUTY文字标识（已被FUEL/Brushless取代），是品牌定位用语演变的历史证据"
+    design_level:
+      score: 2
+      reason: "旧款设计，造型圆润过时，三色配色不如现款纯粹，设计参考价值主要为品牌历史对比"
+    design_tags: ["SDS-Plus", "锤钻", "有线", "旧款", "HEAVY-DUTY", "历史参考"]
+    hero_feature: "Milwaukee HEAVY-DUTY历史标识：品牌从HEAVY-DUTY到FUEL定位演进的视觉证据"
+    problem_solved: "同SDS-Plus有线锤钻功能，历史产品参考"
+    transferable_technique: "品牌标语即设计元素：Milwaukee工具的HEAVY-DUTY/FUEL文字标语不仅是营销语言，也作为丝印设计元素出现在机身显要位置"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee有线SDS-Plus旧款电锤，建议重新归类至电动工具/锤钻"
+
+  - product_id: "milwaukee_手动工具_038"
+    source_images:
+      - filename: "手动工具__锤子__38.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/手动工具__锤子__38.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线大型SDS-Max破碎锤，红色机身+灰色机头，顶部竖置辅助把手（非侧置），D型前置辅助把手，球形底部脚垫，有线，整体壮硕，白底"
+    product_name: "Milwaukee SDS-Max Demolition Hammer (Corded, Top-Handle)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "锤子"]
+    actual_category_path: ["电动工具", "锤钻", "SDS-Max有线破碎锤"]
+    design_language:
+      silhouette: "大型SDS-Max，顶部竖置T型辅助把手（垂直方向，区别于其他款侧置把手），前置D型把手，球形脚垫，整体构型独特"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "Milwaukee红（主机壳）+ 灰色（机头/前段）+ 黑（把手/脚垫）"
+        material: "工程塑料，重型铸铝齿轮箱，橡胶球形脚垫"
+        finish: "哑光，Milwaukee丝印"
+      mounting: "顶部竖置T型辅助把手+前置D型把手+球形底部脚垫（三点支撑系统）"
+      signature_detail: "顶部竖置T型把手：向上伸出机身顶部，提供第三握持点，是本款最独特的造型语言，也是使用姿势的直接体现"
+    design_level:
+      score: 4
+      reason: "顶部T型把手是非常独特且功能驱动的造型元素，三点支撑系统（顶把手+前D型把手+球形脚垫）形成完整使用生态设计"
+    design_tags: ["SDS-Max", "破碎锤", "有线", "顶部T型把手", "三点支撑", "竖立使用"]
+    hero_feature: "顶部竖置T型辅助把手：独特的第三握持点，配合球形底脚形成完整的三点支撑使用体系"
+    problem_solved: "需要双手控制的重型破碎作业，顶部T型把手提供竖向操作控制，球形底脚允许工具竖立放置"
+    transferable_technique: "使用姿势即造型：顶部T型把手将'双手垂直向下破碎'的操作姿势直接转化为机身顶部造型，是功能形态化的教科书案例"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名误标为手动工具锤子，实为Milwaukee有线SDS-Max顶部T型把手大型破碎锤，建议重新归类至电动工具/锤钻"

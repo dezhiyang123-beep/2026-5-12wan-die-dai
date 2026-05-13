@@ -1,0 +1,372 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "砂光机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "milwaukee_砂光机_001"
+    source_images:
+      - filename: "砂光机__砂带机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__砂带机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL砂带机侧面全视角，亮红色矩形机身，黑色橡胶弓形握把，前端黑色防尘布袋（附Milwaukee标志），机身侧面红色FUEL徽章，底部传送带研磨面清晰可见，附黑色布袋配件"
+    product_name: "Milwaukee M18 FUEL Belt Sander"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "砂带机"]
+    design_language:
+      silhouette: "矩形低重心卧式轮廓，前宽后窄，顶部弓形把手形成封闭式抓握空间，整体紧凑水平延伸"
+      light_opening: "N/A"
+      thermal: "顶部弓形把手区域与机身主体之间形成自然通风间隙"
+      cmf:
+        color: "主色亮红色（RAL 3020级别）覆盖机身外壳；把手区黑色橡胶TPE包覆；传动轮银灰色金属"
+        material: "机身红色工程塑料ABS注塑；把手区TPE软胶包覆；传动滚轮压铸铝合金"
+        finish: "机身亮面注塑；橡胶区哑光颗粒纹防滑；金属件本色抛光"
+      mounting: "M18电池底座（图中未装电池，展示裸机状态）"
+      signature_detail: "封闭弓形顶部把手 + Milwaukee FUEL红色盾牌徽章嵌入红色机身（白色字体对比强烈）"
+    design_level:
+      score: 4
+      reason: "M18 FUEL系列一致设计语言，封闭弓形把手是强记忆点，红黑配色高辨识度，专业感强"
+    design_tags:
+      - "砂带机"
+      - "M18_FUEL"
+      - "卧式轮廓"
+      - "封闭弓形把手"
+      - "红黑配色"
+      - "集尘布袋"
+    hero_feature: "封闭弓形顶部把手与机身一体成型的弓门结构，提供稳固双手持握"
+    problem_solved: "木工表面大面积快速打磨，配套集尘布袋控制粉尘"
+    transferable_technique: "封闭弓形握把形态可迁移至其他需要稳固双手控制的电动工具；红黑主次分件线做法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_砂光机_002"
+    source_images:
+      - filename: "砂光机__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__综合__06.jpg"
+        image_role: "hero"
+        visual_anchor: "M12 FUEL细节砂锉机/笔式砂带机，竖直向上展示，亮红色机身+黑色橡胶把手，顶部细长砂带悬臂机构，银灰色金属托架，Milwaukee FUEL徽章在机身中部"
+      - filename: "砂光机__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__综合__07.jpg"
+        image_role: "detail"
+        visual_anchor: "同款笔式砂带机另一角度，更清晰呈现细砂带悬臂从机头垂直伸出，细长比例突出，机身与把手分件清晰"
+    product_name: "Milwaukee M12 FUEL Compact Band File / Detail Belt Sander"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "砂带机", "笔式砂带机"]
+    design_language:
+      silhouette: "竖向握枪式轮廓，机身细长，顶部悬臂伸出细砂带，整体似手枪持握向上操作"
+      light_opening: "N/A"
+      thermal: "机身侧面小型散热格栅孔"
+      cmf:
+        color: "主色亮红色机身；黑色橡胶TPE把手区；银灰色压铸铝托架/砂带支架"
+        material: "机身ABS工程塑料；把手TPE；砂带支架压铸铝"
+        finish: "机身亮面；把手哑光颗粒纹；金属件本色"
+      mounting: "M12底座（图中无电池，裸机展示）"
+      signature_detail: "细砂带从机头竖直延伸出的悬臂结构，极细长比例，可深入管道/缝隙打磨"
+    design_level:
+      score: 4
+      reason: "极具功能外显性的设计，细砂带悬臂形态直接传达专业打磨能力，M12 FUEL系列统一语言"
+    design_tags:
+      - "笔式砂带机"
+      - "M12_FUEL"
+      - "竖向握枪式"
+      - "细砂带悬臂"
+      - "红黑银三色"
+      - "缝隙打磨"
+    hero_feature: "细长竖向砂带悬臂机构，可伸入管道、凹槽等狭小空间精确打磨"
+    problem_solved: "金属管道、焊缝、内角等狭小空间的精细打磨研磨"
+    transferable_technique: "功能部件外显化设计手法（H11）；细长悬臂比例语言可迁移至其他精细操作工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_砂光机_003"
+    source_images:
+      - filename: "砂光机__轨道砂光机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__轨道砂光机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL 5英寸轨道砂光机，侧面45度视角，红色圆弧形上壳，黑色交叉纹大面积橡胶顶部握区，Milwaukee FUEL红色徽章，黑色集尘布袋从右侧伸出，底部黑色圆形打磨盘"
+    product_name: "Milwaukee M18 FUEL 5-Inch Random Orbital Sander"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "轨道砂光机"]
+    design_language:
+      silhouette: "上宽下收蘑菇形轮廓，顶部大面积圆弧握区，下部收窄连接圆形打磨底盘，集尘袋从后侧水平延伸"
+      light_opening: "N/A"
+      thermal: "机身中部侧面散热槽缝"
+      cmf:
+        color: "上半部亮红色弧面外壳；顶面及握区大面积黑色橡胶；底部打磨盘黑色；集尘布袋黑色织物"
+        material: "外壳ABS注塑；顶面TPE软胶大面积覆盖；底盘橡胶绒面"
+        finish: "外壳亮面；TPE区哑光交叉菱格纹防滑；布袋织物质感"
+      mounting: "M18电池底座（图中裸机）"
+      signature_detail: "顶面大面积交叉菱格纹TPE覆盖区，提供全掌握持舒适度；Milwaukee FUEL徽章嵌入侧面红色区"
+    design_level:
+      score: 4
+      reason: "蘑菇形轮廓是M18 FUEL轨道砂光机标志性形态，大面积顶部TPE是功能性设计特征，集尘系统整合良好"
+    design_tags:
+      - "轨道砂光机"
+      - "M18_FUEL"
+      - "蘑菇形轮廓"
+      - "大面积TPE顶面"
+      - "红黑配色"
+      - "集尘布袋"
+      - "5英寸"
+    hero_feature: "大面积顶部菱格纹TPE全掌握持区，配合低重心蘑菇形轮廓，提供极稳定的施压控制"
+    problem_solved: "木材/涂料表面大面积精细打磨，减少划痕，M18无线自由操作"
+    transferable_technique: "大面积软胶顶面覆盖手法（H02包覆）；蘑菇形上大下小轮廓在手持工具中的人机工程应用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_砂光机_004"
+    source_images:
+      - filename: "砂光机__轨道砂光机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__轨道砂光机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "M12 FUEL 5英寸轨道砂光机，侧视图，红色机身后段+黑色大面积前段握区，Milwaukee FUEL徽章，顶部有细长出气口，底部圆形打磨盘，无集尘配件，机身更紧凑"
+      - filename: "砂光机__轨道砂光机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__轨道砂光机__03.jpg"
+        image_role: "detail"
+        visual_anchor: "同款M12轨道砂光机稍不同角度，更清晰显示机身后部红色电池座区域和顶面速度调节滑块"
+      - filename: "砂光机__轨道砂光机__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__轨道砂光机__04.jpg"
+        image_role: "kit"
+        visual_anchor: "M12 FUEL轨道砂光机套装，主机+M12充电器+2块M12 RED LITHIUM HIGH OUTPUT电池+6英寸打磨垫，白色背景平铺展示"
+      - filename: "砂光机__轨道砂光机__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__轨道砂光机__05.jpg"
+        image_role: "detail"
+        visual_anchor: "M12 FUEL轨道砂光机，与02/03同款，红色后段+黑色前握区，底部换装为红色打磨垫，突出红色打磨底盘细节"
+    product_name: "Milwaukee M12 FUEL 5-Inch Random Orbital Sander"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "轨道砂光机"]
+    design_language:
+      silhouette: "前后分件式紧凑轮廓，前段黑色大握区占约60%，后段红色电池连接区占40%，底部圆形打磨盘，整体比M18款更低矮紧凑"
+      light_opening: "顶部细长出气孔槽"
+      thermal: "顶部出气孔排列"
+      cmf:
+        color: "后段亮红色；前段大面积哑黑色橡胶；底盘打磨垫红色（或黑色）；银灰色M12标识嵌件"
+        material: "外壳ABS注塑；前握区大面积TPE软胶；打磨底盘橡胶"
+        finish: "红色外壳亮面；黑色TPE哑光菱格防滑纹；底盘哑光"
+      mounting: "M12电池底座，后端红色接口"
+      signature_detail: "前后两段式红黑对比分件，Milwaukee FUEL徽章居中，速度调节拨盘内嵌于侧面"
+    design_level:
+      score: 4
+      reason: "M12 FUEL系列统一设计语言，前后分件红黑对比明确，紧凑形态适合细致打磨场景"
+    design_tags:
+      - "轨道砂光机"
+      - "M12_FUEL"
+      - "前后分件式"
+      - "紧凑低矮轮廓"
+      - "红黑对比"
+      - "5英寸"
+    hero_feature: "前大黑后小红的两段式分件设计，明确区分握持区与动力区，视觉焦点集中"
+    problem_solved: "轻量化无线精细轨道打磨，M12平台适合室内木工细作场景"
+    transferable_technique: "前后功能分区的分件线设计手法（H03）；小平台工具的紧凑比例控制经验"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_砂光机_005"
+    source_images:
+      - filename: "砂光机__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "M12 FUEL小型轨道砂光机侧视图，红色机身+黑色顶部手柄区，Milwaukee FUEL徽章，侧面附黑色集尘布袋，底部小圆形砂盘，机身明显比M18款小一号"
+      - filename: "砂光机__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__综合__02.jpg"
+        image_role: "detail"
+        visual_anchor: "M12 FUEL多功能角落砂光机，侧视，红色上壳+黑色大握区，底部尖角三角形砂纸托，Milwaukee FUEL徽章，机身纤细可深入角落"
+    product_name: "Milwaukee M12 FUEL Compact Detail / Corner Sander"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "多功能砂光机"]
+    design_language:
+      silhouette: "综合__01为小型蘑菇形轮廓；综合__02为倒锥形瘦削机身，底部尖角三角形托盘，可伸入90°角"
+      light_opening: "N/A"
+      thermal: "机身侧面小型散热孔"
+      cmf:
+        color: "红色上壳；黑色握区TPE；底部砂盘/尖角托均为黑色"
+        material: "ABS注塑外壳；TPE握区；橡胶砂盘底"
+        finish: "外壳亮面；TPE哑光菱格纹"
+      mounting: "M12电池底座"
+      signature_detail: "综合__02的尖角三角形砂纸托盘——专为直角拐角设计的品类特征"
+    design_level:
+      score: 3
+      reason: "M12紧凑系列标准设计，三角托盘是功能特征但造型较基础"
+    design_tags:
+      - "角落砂光机"
+      - "多功能砂光机"
+      - "M12_FUEL"
+      - "三角砂盘"
+      - "紧凑形态"
+      - "红黑配色"
+    hero_feature: "尖角三角形砂纸托盘，专为90°直角内角打磨设计"
+    problem_solved: "橱柜内角、窗框等直角位置的精细打磨，M12平台轻量便携"
+    transferable_technique: "功能形态外显（H11）——底盘形状直接反映使用场景；工具尖端功能区设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_砂光机_006"
+    source_images:
+      - filename: "砂光机__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__综合__03.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL 1/4页砂光机侧视图，红色矩形机身，黑色顶部大握区，Milwaukee FUEL徽章，右侧黑色集尘布袋，底部矩形砂纸底盘，速度调节拨轮嵌于顶面，银色金属夹砂纸机构"
+      - filename: "砂光机__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__综合__04.jpg"
+        image_role: "kit"
+        visual_anchor: "M18轨道砂光机附件展示：主机（黑色机身+红色Milwaukee徽章）+集尘盒+砂盘适配器+两片打磨砂盘，展示产品配件生态"
+    product_name: "Milwaukee M18 1/4-Sheet Orbital Sander"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "片形砂光机"]
+    design_language:
+      silhouette: "方正矩形机身，顶部宽大平顶握区，底部矩形砂盘，整体比轨道砂光机更方正平直"
+      light_opening: "N/A"
+      thermal: "机身两侧散热格栅槽"
+      cmf:
+        color: "主色亮红色机身外壳；顶部握区黑色橡胶；集尘布袋黑色"
+        material: "ABS注塑机身；TPE顶部握区；砂纸夹为钢板冲压件"
+        finish: "外壳亮面；TPE哑光；金属夹本色"
+      mounting: "M18底座（图中裸机）"
+      signature_detail: "矩形底盘+顶部拨盘速度控制+前端金属砂纸弹簧夹，三要素定义1/4片砂光机类型"
+    design_level:
+      score: 3
+      reason: "功能完整，红黑配色清晰，但形态相对基础，方正矩形缺乏差异化记忆点"
+    design_tags:
+      - "片形砂光机"
+      - "1/4片砂光机"
+      - "M18"
+      - "方正轮廓"
+      - "红黑配色"
+      - "集尘布袋"
+    hero_feature: "矩形平底砂盘+金属弹簧砂纸夹，标准化片砂光机功能外显"
+    problem_solved: "大面积平面打磨，1/4砂纸高性价比，适合装修施工场景"
+    transferable_technique: "方正矩形机身分件比例；顶部嵌入式控制拨盘的位置设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_砂光机_007"
+    source_images:
+      - filename: "砂光机__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__综合__08.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL 21mm轨道抛光机，长轴形态，黑色为主+两端红色，前端黑色球形辅助握把，中部Milwaukee FUEL红色徽章板，后端红色电池接口端盖，底部大圆形抛光盘"
+      - filename: "砂光机__综合__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__综合__09.jpg"
+        image_role: "detail"
+        visual_anchor: "同款M18 FUEL 21mm抛光机，侧视稍不同角度，更清晰呈现前端辅助球形把手与主机身之间的过渡关系，以及顶面速度拨盘位置"
+    product_name: "Milwaukee M18 FUEL 21mm Random Orbital Polisher"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "抛光机", "轨道抛光机"]
+    design_language:
+      silhouette: "长轴水平形态，前端球形辅助把手-中部机身主体-后端电池接口端盖三段式构成，比例细长，类似专业汽车美容设备"
+      light_opening: "中部机身两侧散热开口"
+      thermal: "机身中段两侧散热槽缝，明显功能散热区"
+      cmf:
+        color: "机身主体哑黑色；中部Milwaukee FUEL徽章面板亮红色；两端端盖亮红色；底部抛光盘黑色"
+        material: "机身ABS+TPE复合；徽章面板高光红色ABS；端盖ABS"
+        finish: "机身哑黑；徽章面板高光；端盖哑面红色"
+      mounting: "M18 REDLITHIUM电池，后端卡扣接口"
+      signature_detail: "两端红色三明治夹心设计——黑色机身主体两端各有一块亮红色端盖，形成强烈品牌视觉节奏"
+    design_level:
+      score: 5
+      reason: "长轴形态在Milwaukee产品线中独特，两端红色三明治夹心是极强记忆点，专业汽车护理级别设计感，品牌语法应用娴熟"
+    design_tags:
+      - "轨道抛光机"
+      - "M18_FUEL"
+      - "长轴三段式"
+      - "两端红色夹心"
+      - "黑色主体"
+      - "球形辅助把手"
+      - "21mm偏心"
+    hero_feature: "两端亮红色端盖+中段哑黑机身的三明治色彩结构，结合前端球形辅助把手，极具专业感记忆点"
+    problem_solved: "汽车漆面精细抛光，21mm大偏心距高效覆盖，M18无线操作自由"
+    transferable_technique: "两端色彩节点+中段对比色主体的三明治设计手法（H08对比强调）；球形辅助把手的人机整合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_砂光机_008"
+    source_images:
+      - filename: "砂光机__综合__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__综合__10.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M12 FUEL直磨机（Die Grinder），竖向直筒形态，顶端黑色金属卡头，机身上半段红色+Milwaukee FUEL徽章，下半段黑色橡胶握区+FUEL BRUSHLESS标识，底端红色M12电池接口，左侧附有黑色金属工件夹具"
+      - filename: "砂光机__综合__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/砂光机/砂光机__综合__11.jpg"
+        image_role: "kit"
+        visual_anchor: "M12 FUEL直磨机套装全家福：主机+M12 FUEL充电器（红色方块）+2块M12 HIGH OUTPUT电池+附件+红色携带包，展示M12完整生态"
+    product_name: "Milwaukee M12 FUEL Die Grinder"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "直磨机"]
+    design_language:
+      silhouette: "细长直筒形态，顶端金属卡头-上段机身-下段握区-底端电池座四段垂直叠加，整体如粗笔形"
+      light_opening: "机身侧面小型散热孔"
+      thermal: "机身中段散热孔阵列，微小圆孔排列"
+      cmf:
+        color: "顶端银黑金属卡头；上半红色机壳；下半黑色TPE握区；底端红色M12接口"
+        material: "机壳ABS注塑；握区TPE；卡头金属"
+        finish: "红色机壳亮面；TPE哑光菱格纹；金属本色"
+      mounting: "M12竖插式电池底座"
+      signature_detail: "红-黑-红三段交替色彩节奏（顶部红徽章区-中部黑握区-底端红接口），与M18抛光机的三明治手法相似"
+    design_level:
+      score: 4
+      reason: "M12 FUEL直磨机紧凑直筒形态，三段色彩节奏清晰，品牌一致性强"
+    design_tags:
+      - "直磨机"
+      - "M12_FUEL"
+      - "直筒形态"
+      - "三段色彩节奏"
+      - "细长比例"
+      - "红黑配色"
+    hero_feature: "细长直筒形态+顶端金属卡头，可伸入极小空间进行精细研磨"
+    problem_solved: "金属零件内孔、焊缝、铸造飞边的精细研磨，M12平台轻量灵活"
+    transferable_technique: "细长直筒形态在精细操作工具中的人机比例；上红下黑的分件线位置规律"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,731 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "吊灯"
+  tertiary: "创意吊灯"
+
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "if_吊灯_创意吊灯_b4_001"
+    source_images:
+      - filename: "61.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/61.jpg"
+        image_role: "hero"
+        visual_anchor: "三层叠置碟形灯罩，从上至下依次为黄色宽边碟、蓝色锥形中体、白色方形底座，色彩对比鲜明"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "三段叠加竖向构成：宽幅浅碟（上）+ 倒锥体（中）+ 短方台（下），整体呈陀螺形"
+      light_opening: "底部方形乳白扩散板向下出光，形成柔和下照"
+      thermal: "多层分件结构之间存在自然气流间隙，被动散热"
+      cmf:
+        color: "黄色（顶碟）、深蓝色（中锥）、白色（底座）；另有红色+蓝色+白色配色版本"
+        material: "金属喷漆灯罩，乳白亚克力扩散板"
+        finish: "哑光喷漆"
+      mounting: "单线缆吊装，顶部接线盒连接"
+      signature_detail: "三种撞色几何体垂直叠置，形成强烈孟菲斯风格视觉语言"
+    design_level:
+      score: 4
+      reason: "多色几何体叠置构成极具辨识度，孟菲斯美学与功能照明结合，色彩系统可组合延伸，具备明确设计主张"
+    design_tags:
+      - "H08对比强调"
+      - "H05模块化"
+      - "孟菲斯风格"
+      - "撞色设计"
+      - "多层叠置"
+      - "几何构成"
+    hero_feature: "三层不同几何体叠置产生的立体撞色视觉张力"
+    problem_solved: "打破传统单体灯罩的视觉单调，通过几何分层赋予吊灯雕塑感与可玩性"
+    transferable_technique: "几何体分层叠置构成法——同一产品拆分为3个可独立配色的几何单元，通过比例差异形成主次关系"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_002"
+    source_images:
+      - filename: "62.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/62.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色金属线框构成的矩形和六边形悬挂灯具系统，仅边框嵌LED发光，中心完全镂空"
+      - filename: "63.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/63.jpg"
+        image_role: "context"
+        visual_anchor: "办公室场景中多个线框吊灯组合使用，展示矩形、六边形和线性条形三种形态"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "薄型线框几何形——矩形、六边形、线性条三种轮廓，截面极薄，仅框边发光"
+      light_opening: "仅框架截面侧向和向下出光，光线以线型呈现，不形成面光"
+      thermal: "铝型材框架自然散热，发热量低"
+      cmf:
+        color: "哑光黑"
+        material: "铝合金型材内嵌LED灯带"
+        finish: "哑光粉末涂层"
+      mounting: "多点细线缆吊装，可模块化组合不同形状"
+      signature_detail: "仅框架边缘发光，中央完全透空，光以线条方式勾勒几何形态"
+    design_level:
+      score: 4
+      reason: "以极简线框取代实体灯罩，将光本身变为几何绘图工具，H01减法执行彻底，系统扩展性强"
+    design_tags:
+      - "H01减法"
+      - "H07极简整合"
+      - "线框几何"
+      - "线型光"
+      - "模块化系统"
+      - "商业照明"
+    hero_feature: "线框即光源——框架截面就是唯一发光面，去除所有实体灯罩"
+    problem_solved: "商业空间吊灯在关灯时作为装饰雕塑存在，开灯后以线型光定义空间几何感"
+    transferable_technique: "线框即光源构成法——用铝型材截面替代传统灯罩，光的形态即产品轮廓"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_003"
+    source_images:
+      - filename: "64.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/64.jpg"
+        image_role: "detail"
+        visual_anchor: "仰视角度，深黑色锥柱体底部为大直径穿孔圆盘，细密孔阵发出均匀点状光"
+      - filename: "65.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/65.jpg"
+        image_role: "hero"
+        visual_anchor: "侧视角，宽幅圆环形穿孔盘悬挂于深色背景，环形边缘散发点状光晕"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "细高锥柱体（顶部）+ 宽幅扁平圆环盘（底部），整体呈蘑菇状，圆环为主视觉元素"
+      light_opening: "圆环盘面密集穿孔向下漫射出光，形成星空般点状光效"
+      thermal: "深色金属表面辐射散热，上部锥柱提供热量向上导流空间"
+      cmf:
+        color: "深空黑/炭黑"
+        material: "金属冲压穿孔盘，铝合金锥柱体"
+        finish: "哑光深色涂层"
+      mounting: "多根细钢缆从锥柱顶部分散吊装"
+      signature_detail: "大直径穿孔圆环——数百个均匀圆孔形成全覆盖点状出光，关灯时是精密冲孔金属工艺品"
+    design_level:
+      score: 4
+      reason: "穿孔圆环形态高度原创，将工业冲孔工艺转化为星空光效，关灯/开灯呈现完全不同的美感层次"
+    design_tags:
+      - "H04参数化"
+      - "H09隐藏工程"
+      - "穿孔出光"
+      - "圆环形态"
+      - "星空光效"
+      - "工业美学"
+    hero_feature: "宽幅穿孔圆环底盘——数百孔阵形成漫天繁星式点状光效"
+    problem_solved: "在保持工业感外观的同时实现柔和均匀的漫射照明，避免直射眩光"
+    transferable_technique: "穿孔盘漫射技术——通过金属冲孔密度和孔径控制光通量分布，无需磨砂扩散板"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_004"
+    source_images:
+      - filename: "66.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/66.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色截头圆锥灯罩，罩身两侧开有倾斜叶片状窗口，内部发白光透出"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "截头圆锥体，锥面开有两组对称斜向切缝/开窗，切缝处翻折成叶片状"
+      light_opening: "锥面斜向叶片窗口侧向透光，形成戏剧性侧散光；底部封闭无正面出光"
+      thermal: "锥形金属体被动散热，侧向开口提供额外通风路径"
+      cmf:
+        color: "深灰/深蓝灰"
+        material: "钢板冲压成型，蓝色小方块装饰件点缀顶部固定环"
+        finish: "哑光深色喷涂"
+      mounting: "顶部细线缆单点吊挂"
+      signature_detail: "锥面切割出的斜向叶片开口——光从侧面溢出而非底部，完全颠覆常规出光逻辑"
+    design_level:
+      score: 4
+      reason: "将光从侧面输出的设计挑战了吊灯下照惯例，叶片开口形成强烈雕塑感，光影效果独特"
+    design_tags:
+      - "H01减法"
+      - "H03分件线"
+      - "H08对比强调"
+      - "侧向出光"
+      - "切缝光效"
+      - "锥形灯罩"
+    hero_feature: "锥面斜向切割叶片窗口——光从侧面溢出，产生戏剧性侧散光晕"
+    problem_solved: "为餐厅/居家场景提供氛围感侧光，同时保持灯罩外观的雕塑完整性"
+    transferable_technique: "锥面切缝侧出光——在封闭锥形罩面开斜向切口，用开口角度和宽度精确控制侧向光分布方向"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_005"
+    source_images:
+      - filename: "67.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/67.jpg"
+        image_role: "hero"
+        visual_anchor: "三个大小不一的银灰色钟形/拱形灯罩成群组悬挂，顶部为锈色铜质固定环，底部开放"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "饱满拱顶钟罩形，顶部收窄为圆柱颈，底部大口径开放，三件组成大中小尺寸系列"
+      light_opening: "底部完全开放向下直接出光，兼顾直射照明与灯罩内壁漫反射"
+      thermal: "金属灯罩顶部热量向外辐射，底部开口促进对流"
+      cmf:
+        color: "银灰色（主体）、锈铜色（顶部固定件）"
+        material: "金属旋压成型灯罩，铜合金顶部固定环"
+        finish: "亮面拉丝/旋压纹路，自然金属质感"
+      mounting: "细线缆单点穿顶部铜环吊挂"
+      signature_detail: "旋压金属罩面呈现的同心圆生长纹路，顶部铜环与银灰罩体形成暖冷金属对比"
+    design_level:
+      score: 3
+      reason: "经典工业钟罩形态，旋压金属工艺精良，铜件点缀提升质感，但形态创新度有限"
+    design_tags:
+      - "H10材料表达"
+      - "H02包覆"
+      - "旋压成型"
+      - "工业风"
+      - "金属质感"
+      - "群组组合"
+    hero_feature: "旋压金属罩面同心圆纹路与锈铜顶环的暖冷金属对比"
+    problem_solved: "以精良手工艺感的旋压金属灯罩为工业/餐饮空间提供有温度的照明装置"
+    transferable_technique: "旋压金属工艺表达——通过旋压成型自然形成同心圆纹路，无需后处理即获得有机质感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_006"
+    source_images:
+      - filename: "68.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/68.jpg"
+        image_role: "hero"
+        visual_anchor: "超薄圆盘形吊灯三件成组挂于厨房岛台上方，铜红色玻璃盘边缘隐约透出红色光晕"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "极薄圆盘形，直径远大于厚度，近似飞碟/黑胶唱片比例"
+      light_opening: "下边缘环形细缝出光，光向下向外漫射，中心区域出光为主"
+      thermal: "超薄金属盘体被动散热，热量沿盘面均匀分布"
+      cmf:
+        color: "铜红/琥珀色玻璃（盘面），黑色金属（边框和线缆）"
+        material: "有色玻璃盘面，金属边框"
+        finish: "透明有色玻璃"
+      mounting: "单根编织黑色线缆顶部吊挂"
+      signature_detail: "铜红色有色玻璃盘面——在深色厨房背景下透出琥珀色光晕，极薄比例使其近乎消隐"
+    design_level:
+      score: 4
+      reason: "超薄圆盘比例极具辨识度，有色玻璃选材使光色与空间氛围高度匹配，三件组合形成律动感"
+    design_tags:
+      - "H01减法"
+      - "H10材料表达"
+      - "超薄设计"
+      - "有色玻璃"
+      - "氛围照明"
+      - "厨房吊灯"
+    hero_feature: "超薄铜红色玻璃飞碟盘——极薄比例加有色材质产生漂浮琥珀光晕"
+    problem_solved: "在暗色调厨房中提供具有氛围感的暖色照明，同时灯具本身保持极低视觉存在感"
+    transferable_technique: "超薄有色玻璃盘体——通过盘体厚度比例压缩和玻璃着色实现漂浮感与光色统一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_007"
+    source_images:
+      - filename: "69.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/69.jpg"
+        image_role: "context"
+        visual_anchor: "办公室场景中荧光黄绿色方形平板吊灯，高饱和色彩在白色天花中形成强对比"
+      - filename: "71.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/71.jpg"
+        image_role: "context"
+        visual_anchor: "展廊场景中蓝色方形平板吊灯，蓝色面板与蓝色柜门形成空间色彩呼应"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "正方形扁平板状，极低高度，比例接近天花板嵌入灯，但以悬挂方式呈现"
+      light_opening: "整个下表面均匀面出光，类似平板灯效果"
+      thermal: "平板内部LED模组，金属框架被动散热"
+      cmf:
+        color: "高饱和荧光黄绿色（上表面），另有蓝色版本；下表面白色扩散"
+        material: "金属上盖，乳白扩散板"
+        finish: "高饱和色彩哑光喷漆"
+      mounting: "四角线缆吊挂，悬挂于天花下方"
+      signature_detail: "高饱和色彩上表面与白色扩散下表面的双面设计——俯视是色彩装置，仰视是照明工具"
+    design_level:
+      score: 3
+      reason: "通过高饱和色彩将功能性平板灯转化为装饰性色彩装置，设计策略清晰，但形态本身较简单"
+    design_tags:
+      - "H08对比强调"
+      - "H07极简整合"
+      - "彩色平板灯"
+      - "双面设计"
+      - "办公照明"
+      - "色彩装置"
+    hero_feature: "高饱和荧光色上表面——将平板工作灯变成空间色彩装置"
+    problem_solved: "办公空间平板灯的视觉单调问题，通过色彩使照明设备本身成为空间亮点"
+    transferable_technique: "双面色彩策略——功能面（出光）保持中性白，装饰面（上表面）使用高饱和色彩"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_008"
+    source_images:
+      - filename: "70.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/70.jpg"
+        image_role: "hero"
+        visual_anchor: "三件叠挂展示：有机花瓣/叶片形声学吊灯，中央圆形开口嵌LED环，黑、灰、浅灰三种颜色"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "四瓣花形/十字叶片有机轮廓，外缘圆润，中央有圆形通孔嵌LED下照灯"
+      light_opening: "中央圆形嵌入式LED环向下直射出光，聚焦照明"
+      thermal: "毡/纤维材料本身不产热，LED模组小型化，热量集中于中央金属基座"
+      cmf:
+        color: "深黑色、中灰色、浅灰色（三个色调版本）"
+        material: "声学吸音毡/纤维复合板（主体），金属LED模组（中央）"
+        finish: "织物质感哑面"
+      mounting: "单根线缆从中央穿过悬挂"
+      signature_detail: "有机花瓣轮廓声学板与中央精密LED环形灯的材质对比——粗粝织物质感与精密金属光源并置"
+    design_level:
+      score: 4
+      reason: "将声学吸音功能与照明完美整合，有机花瓣轮廓赋予工程产品艺术形态，织物+金属的材质张力突出"
+    design_tags:
+      - "H05模块化"
+      - "H10材料表达"
+      - "H06仿生"
+      - "声学照明一体化"
+      - "有机轮廓"
+      - "吸音吊灯"
+    hero_feature: "有机花瓣形声学吸音板与中央精密LED嵌灯的功能双合一设计"
+    problem_solved: "开放式办公/商业空间的噪音控制与照明同时解决，减少天花安装件数量"
+    transferable_technique: "声学+照明一体化——以声学吸音板为灯罩基体，将LED模组嵌入中央，一件实现两种功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_009"
+    source_images:
+      - filename: "72.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/72.jpg"
+        image_role: "hero"
+        visual_anchor: "细长黑色横梁上搭载两个大椭圆形黑色声学挡板及两个可调向射灯头，形成混合照明系统"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "细长矩形横梁（约2m）+ 两个椭圆形声学挡板 + 两个圆柱形射灯头，水平线性布局"
+      light_opening: "射灯头提供可调向聚光照明，声学板背面可能有辅助环境光"
+      thermal: "射灯模组金属散热，声学板不产热"
+      cmf:
+        color: "哑光黑"
+        material: "金属横梁，声学毡/纤维椭圆板，金属射灯头"
+        finish: "哑光粉末涂层"
+      mounting: "横梁两端及中部多点细线缆吊装"
+      signature_detail: "声学吸音椭圆挡板与可调射灯头同置于单一横梁——将照明轨道与声学处理合并为一个悬挂系统"
+    design_level:
+      score: 4
+      reason: "将声学挡板、导轨射灯整合于单一悬挂系统，大幅简化天花安装，系统集成度高且视觉语言统一"
+    design_tags:
+      - "H05模块化"
+      - "H07极简整合"
+      - "H11功能外显"
+      - "声学照明系统"
+      - "横梁系统"
+      - "导轨射灯"
+    hero_feature: "声学椭圆挡板与可调射灯头共轨整合——一根横梁解决声学与照明两个天花系统"
+    problem_solved: "开放空间同时需要声学控制和灵活照明，避免安装两套独立系统的复杂度"
+    transferable_technique: "共轨多功能横梁——在单一悬挂梁上挂载声学板和照明头，统一结构语言，减少天花穿孔"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_010"
+    source_images:
+      - filename: "73.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/73.jpg"
+        image_role: "hero"
+        visual_anchor: "深蓝色多个椭圆形碟片沿弧形长杆排列，末端一个碟片连接圆形弧线收尾，形成行星轨道感构成"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "长弧形横杆（约3m）串联4个不同大小倾斜椭圆盘 + 末端圆弧环，整体呈行星轨道/太阳系构成"
+      light_opening: "每个椭圆盘底部嵌有小型射灯头向下出光，点状聚光照明"
+      thermal: "小型LED射灯模组，金属杆自然散热"
+      cmf:
+        color: "深海蓝/深靛蓝（盘体和杆）"
+        material: "金属椭圆盘（可能内含吸音材料），金属弧杆，金属圆环"
+        finish: "哑光深色涂层"
+      mounting: "多根细线缆从椭圆盘上方分散吊挂至天花"
+      signature_detail: "行星轨道式构成——大小不一的椭圆盘沿弧线分布，配合末端圆环形成完整的天体运动隐喻"
+    design_level:
+      score: 5
+      reason: "构成语言极具原创性，行星轨道隐喻彻底，椭圆盘的大小渐变与弧杆弯曲形成高度完整的叙事，兼具照明功能与空间装置感"
+    design_tags:
+      - "H06仿生"
+      - "H05模块化"
+      - "H08对比强调"
+      - "行星轨道构成"
+      - "艺术装置"
+      - "声学+照明"
+    hero_feature: "多椭圆盘沿弧形长杆的行星轨道式空间构成——照明装置即天体运动雕塑"
+    problem_solved: "大空间需要兼具照明功能与艺术装置感的超尺度吊灯，打破单点或线性阵列的常规布局"
+    transferable_technique: "行星轨道构成法——将多个相似单元沿弧形轴线按大小渐变分布，用末端封闭元素完成构成"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_011"
+    source_images:
+      - filename: "74.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/74.jpg"
+        image_role: "hero"
+        visual_anchor: "工作室场景中两个大直径浅锥形软木/软毡质感飞碟盘悬挂于工作台上方，低调中性色"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "宽幅浅锥形大圆盘（UFO/斗笠形），直径约80-100cm，中央微微隆起，边缘薄而宽"
+      light_opening: "下表面中央区域LED面板向下出光，宽幅遮光边缘防止眩光"
+      thermal: "天然软木或毡面材料透气，LED模组集中于中央，热量通过中央金属件散出"
+      cmf:
+        color: "软木米色/浅灰色（软毡质感）"
+        material: "天然软木或回收毡纤维（盘面），金属内部结构"
+        finish: "天然材料原色，粗粝有机质感"
+      mounting: "多根细线缆从盘面均匀分布点吊挂"
+      signature_detail: "超大直径软木/毡面浅锥盘——将办公照明与天然声学材料结合，呈现大地色系有机质感"
+    design_level:
+      score: 4
+      reason: "天然软木/毡材与超大宽盘形态高度匹配，将声学功能无缝融入灯具，材料选择符合可持续设计趋势"
+    design_tags:
+      - "H10材料表达"
+      - "H01减法"
+      - "声学照明一体化"
+      - "天然材料"
+      - "超大尺度"
+      - "防眩光设计"
+    hero_feature: "超大直径天然软木/毡面浅锥盘——宽幅遮光边同时提供声学吸音"
+    problem_solved: "开放办公对大面积均匀照明和声学控制的双重需求，同时避免商业平板灯的冷硬感"
+    transferable_technique: "宽幅遮光边声学化——将灯罩边缘扩展为声学吸音材料区域，边缘功能从遮光扩展至吸音"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_012"
+    source_images:
+      - filename: "75.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/75.jpg"
+        image_role: "hero"
+        visual_anchor: "宽幅帽檐形声学浅盘，中央嵌大椭圆形乳白LED扩散板，灰色毡质边缘与白色发光面形成强对比"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "宽幅浅锥形帽檐盘（直径约80cm），中央凹陷嵌入大椭圆形发光体，整体如戴帽的UFO"
+      light_opening: "中央大椭圆乳白扩散板向下均匀面出光，提供主照明"
+      thermal: "LED面板集中于中央，毡面边缘隔热，通过中央金属环散热"
+      cmf:
+        color: "浅灰色（毡边缘），乳白色（中央发光面），黑色（边框环）"
+        material: "声学吸音毡（宽幅边缘），乳白亚克力扩散板（中央），金属结构件"
+        finish: "织物哑面（边缘），高透雾面（中央发光板）"
+      mounting: "三根细线缆从盘体上方吊挂，加一根黑色电源线"
+      signature_detail: "宽幅灰色毡边缘将大椭圆白色发光面框住——两种材质的强对比使发光区域像嵌入的宝石"
+    design_level:
+      score: 4
+      reason: "毡边框与发光面的材质二元对比构成清晰，声学功能与照明功能区域视觉上明确分离，设计语言干净"
+    design_tags:
+      - "H10材料表达"
+      - "H08对比强调"
+      - "H07极简整合"
+      - "声学照明一体化"
+      - "毡材灯具"
+      - "面发光"
+    hero_feature: "灰色声学毡宽边框与嵌入式椭圆发光面的材质二元对比"
+    problem_solved: "将面积型声学吸音板与高质量均匀面光源整合，避免天花同时安装吸音板和灯具的双重繁杂"
+    transferable_technique: "材质二元框架法——用一种材质（毡）做功能性框架，另一种材质（亚克力）做发光核心，形成清晰的功能区域视觉分离"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_013"
+    source_images:
+      - filename: "76.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/76.jpg"
+        image_role: "hero"
+        visual_anchor: "白色半球形灯罩覆盖全身菱形格浮雕纹路，底部开放出乳白暖光，从导轨悬挂"
+      - filename: "77.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/77.jpg"
+        image_role: "alternate"
+        visual_anchor: "同款菱形纹吊灯的钟形版本，颈部更细长，菱格纹路从底部延伸至顶部细颈，底部开放"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "半球形（76.jpg）和钟形（77.jpg）两种变体，表面全覆盖菱形格浮雕纹路，底部开口"
+      light_opening: "底部大口径开放，乳白扩散内衬均匀向下出光"
+      thermal: "3D打印材料（PLA或类似材料）本身导热性有限，开口底部促进对流散热"
+      cmf:
+        color: "纯白色"
+        material: "3D打印聚合物（表面菱格纹路精度高），乳白亚克力内衬"
+        finish: "3D打印层纹肌理，半哑面"
+      mounting: "细线缆连接导轨悬挂适配器，可在导轨上移动定位"
+      signature_detail: "全覆盖菱形格浮雕纹路——密集的菱格在光线下产生强烈的明暗起伏，将简单几何体转化为织物质感"
+    design_level:
+      score: 4
+      reason: "3D打印制造使菱格浮雕全覆盖成为可能，将数字制造优势转化为独特表面质感，两种形态变体扩展系列延展性"
+    design_tags:
+      - "H04参数化"
+      - "H10材料表达"
+      - "3D打印"
+      - "菱格纹路"
+      - "导轨吊灯"
+      - "数字制造"
+    hero_feature: "全覆盖菱形格3D打印浮雕纹路——数字制造赋予灯罩精密织物质感"
+    problem_solved: "为导轨系统提供具有强烈材质表达力的装饰性吊灯，弥补导轨灯具通常工程感过强的视觉缺陷"
+    transferable_technique: "3D打印表面参数化纹路——利用数字制造在复杂曲面实现全覆盖规则浮雕，无需额外工序"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_014"
+    source_images:
+      - filename: "78.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/78.jpg"
+        image_role: "hero"
+        visual_anchor: "橄榄绿色叶片/冲浪板形声学毡吊灯，中央嵌入细长白色管状LED光源，整体呈有机流线形"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "细长叶片/冲浪板形有机轮廓（约1.5m长），两端圆润收尖，中部最宽，整体偏平薄"
+      light_opening: "中央线性管状LED从一端延伸至另一端，向下和两侧出光"
+      thermal: "毡面材料不产热，线性LED管金属端盖散热"
+      cmf:
+        color: "橄榄绿/苔绿色（毡面），白色（LED管）"
+        material: "声学吸音毡（主体板），金属或亚克力管（LED部分）"
+        finish: "毡面织物哑面质感"
+      mounting: "两端细线缆对称吊挂，保持水平"
+      signature_detail: "线性LED管嵌于叶片轴心位置——光从叶脉处发出，强化叶片仿生意象"
+    design_level:
+      score: 4
+      reason: "叶片仿生形态与线型光源沿中轴排布形成高度统一的叙事逻辑，绿色选材强化自然意象，声学功能整合自然"
+    design_tags:
+      - "H06仿生"
+      - "H10材料表达"
+      - "H07极简整合"
+      - "叶片仿生"
+      - "声学照明"
+      - "线型光源"
+    hero_feature: "叶片仿生轮廓与沿叶脉中轴排布的线性LED——形态与光源位置形成完整仿生叙事"
+    problem_solved: "为自然风格空间提供兼具声学功能的仿生照明，让工程功能（声学吸音）具备诗意形态"
+    transferable_technique: "仿生轮廓+中轴光源——将光源位置对应到仿生对象的中轴结构（叶脉/脊骨），强化形态隐喻"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_015"
+    source_images:
+      - filename: "79.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/79.jpg"
+        image_role: "hero"
+        visual_anchor: "极细长方形铜褐色吊灯，下部前侧开有细长发光缝，将光线精准投射至书桌"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "纤细垂直矩形柱体（约15cm高×5cm宽），比例接近书签/名片，极简轮廓"
+      light_opening: "前侧面开细长纵向缝，光线从缝隙向下精准投射，形成聚焦点光"
+      thermal: "小体积金属外壳，LED功率低，自然散热"
+      cmf:
+        color: "铜褐色/暖棕色"
+        material: "金属外壳（可能为铜合金或喷漆铝合金）"
+        finish: "暖色金属质感，轻微拉丝或哑面"
+      mounting: "顶部单细线缆吊挂"
+      signature_detail: "书签比例的纤细矩形体配合前侧细缝出光——极简到几乎消失的灯体，光线精准点射桌面"
+    design_level:
+      score: 4
+      reason: "书签比例的极致减法将吊灯存在感压缩至极限，细缝出光精准点照，整体形态与餐桌/书桌场景高度契合"
+    design_tags:
+      - "H01减法"
+      - "H09隐藏工程"
+      - "H07极简整合"
+      - "细缝出光"
+      - "极细比例"
+      - "桌面点照"
+    hero_feature: "书签比例纤细铜色矩形体加前侧细缝出光——灯具形体消隐，光线精准点照"
+    problem_solved: "单人座位或书桌需要精准点照而不希望大灯罩遮挡视线，灯具存在感越低越好"
+    transferable_technique: "极细比例+单侧细缝出光——将灯体压缩为最小截面，仅在功能方向开细缝，使光源定向而灯体消隐"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b4_016"
+    source_images:
+      - filename: "80.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/80.jpg"
+        image_role: "hero"
+        visual_anchor: "椭圆形大尺度声学毡挡板，中央搭载横向线性LED管，品牌名Luxwerk可见"
+    product_name: "unknown"
+    brand_name: "Luxwerk"
+    brand_confidence: "medium"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "大椭圆形扁平声学板（约1.5m×1m），中央水平线性LED管穿过椭圆短轴方向"
+      light_opening: "中央线性LED管向下和两侧发光，覆盖椭圆板下方区域"
+      thermal: "毡/声学纤维板不产热，LED管两端金属端盖散热"
+      cmf:
+        color: "浅灰色（声学毡），白色（LED管）"
+        material: "声学吸音毡/玻璃纤维板（椭圆主体），金属LED管壳"
+        finish: "织物哑面（毡），白色哑面（LED管）"
+      mounting: "两根细线缆从椭圆板上方吊挂"
+      signature_detail: "极大椭圆声学板配单根细线性LED管——以最少发光元素覆盖最大声学面积，比例关系极度克制"
+    design_level:
+      score: 4
+      reason: "声学板尺度巨大而LED管极细，强烈的尺度对比本身成为设计语言；Luxwerk品牌做到了功能极简与美学极简的高度统一"
+    design_tags:
+      - "H01减法"
+      - "H10材料表达"
+      - "H07极简整合"
+      - "声学照明一体化"
+      - "椭圆形态"
+      - "线型光源"
+    hero_feature: "巨型椭圆声学板配极细线性LED管——尺度极差产生的强烈视觉张力"
+    problem_solved: "大空间声学控制与照明的最小化整合，以最少视觉元素覆盖最大功能面积"
+    transferable_technique: "声学板主导+点缀光源——以声学板为主体视觉元素，光源尽量细化为线或点，通过尺度反差建立层次"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

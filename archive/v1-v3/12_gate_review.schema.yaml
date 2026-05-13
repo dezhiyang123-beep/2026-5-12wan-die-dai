@@ -1,0 +1,82 @@
+# 12_gate_review.schema.yaml — 关卡审查产物
+
+schema_version: "2.0"
+
+required:
+  gate:
+    type: enum
+    values: ["G1", "G2", "G3", "G5", "G6"]
+    description: "被审查的关卡"
+
+  review_mode:
+    type: enum
+    values: ["lite", "full"]
+    description: "lite=硬门槛+UNKNOWN阻断；full=7维度+假阳性+竞品引用"
+
+  hard_gate_check:
+    type: object
+    description: "硬门槛检查结果（所有模式必做）"
+    fields:
+      gates_checked:
+        type: list
+        description: "检查的硬门槛字段列表"
+      unknown_fields:
+        type: list
+        description: "发现的UNKNOWN硬门槛字段"
+      hard_gate_pass:
+        type: boolean
+
+  dimension_review:
+    type: list
+    description: "7维度审查（full模式）"
+    item_schema:
+      dimension: string
+      boss_question: string
+      current_answer: string
+      competitor_ref: string
+      weakness: string
+      risk_level:
+        type: enum
+        values: ["致命", "非致命"]
+
+  false_positive_check:
+    type: object
+    description: "假阳性3条检查（full模式）"
+    fields:
+      decision_core_real:
+        type: enum
+        values: ["真实", "虚假"]
+      contradiction_solved:
+        type: enum
+        values: ["真正消解", "折中妥协"]
+      dfm_pass_real:
+        type: enum
+        values: ["真实PASS", "形式PASS"]
+
+  verdict:
+    type: enum
+    values: ["通过", "HOLD", "回流"]
+    description: "判定结果，只有三种"
+
+  verdict_reason:
+    type: string
+    description: "判定理由，1-2句话"
+
+  fatal_issues:
+    type: list
+    item_schema:
+      issue: string
+      dimension: string
+      fix_required: string
+
+  non_fatal_issues:
+    type: list
+
+  backflow_target:
+    type: string
+    description: "回流时必填，如G3/G4/G1"
+
+validation:
+  - verdict=回流时backflow_target必须填写
+  - verdict=HOLD时hard_gate_check.unknown_fields不得为空
+  - full模式必须有dimension_review（7条）和false_positive_check

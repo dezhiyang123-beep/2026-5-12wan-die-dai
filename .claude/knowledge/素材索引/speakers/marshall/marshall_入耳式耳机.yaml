@@ -1,0 +1,10 @@
+schema_version: product_dna_v1
+category:
+  primary: 音箱
+  secondary: 入耳式耳机
+  tertiary: ''
+source:
+  source_type: brand_official
+  source_folder: 01_品类标杆库/音箱/marshall/入耳式耳机/
+  generated_at: '2026-05-08'
+products: []

@@ -1,0 +1,471 @@
+schema_version: product_dna_v1
+category:
+  primary: 家电
+  secondary: 冰箱
+  tertiary: ''
+source:
+  source_type: award_collection
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱
+  generated_at: '2026-05-08'
+products:
+- product_id: if_fridge_001
+  source_images:
+  - filename: 01.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/01.jpg
+    image_role: hero
+    visual_anchor: 黑紫渐变玻璃面板从顶部黑色向底部深紫色过渡，六门布局轮廓分明
+  - filename: 02.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/02.jpg
+    image_role: detail
+    visual_anchor: 嵌入式触控面板特写，玻璃表面反射人影，手指触碰隐形把手
+  product_name: ''
+  brand_name: Hitachi
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 冰箱
+  design_language:
+    silhouette: 高耸矩形六门日式布局：上部双开冷藏（最大比例）+ 中部两个抽屉 + 下部两个大抽屉，整体比例高挑
+    light_opening: 无外露把手，隐形触碰开门
+    thermal: 多温区独立分仓
+    cmf:
+      color: 黑紫双色渐变（顶部纯黑→底部深紫罗兰）
+      material: 全钢化玻璃面板
+      finish: 镜面高光
+    mounting: 独立落地式
+    signature_detail: 整机渐变色玻璃面板 + 极简隐形触控把手，无任何外凸五金件
+  design_level:
+    score: 5
+    reason: 渐变玻璃色彩处理在冰箱品类极为罕见，隐形把手+触控面板实现全平整外观，整体完成度极高
+  design_tags:
+  - 渐变色
+  - 玻璃面板
+  - 隐形把手
+  - 六门
+  - 日系
+  - 极简
+  - 高光镜面
+  hero_feature: 黑紫渐变钢化玻璃全覆盖门板，无把手纯平外观
+  problem_solved: 传统冰箱五金把手破坏立面完整性，渐变玻璃将家电变为厨房装饰品
+  transferable_technique: 渐变色玻璃面板可迁移至其他家电品类（洗碗机/洗衣机）提升视觉高级感；隐形触控把手逻辑可用于嵌入式设计
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_fridge_002
+  source_images:
+  - filename: 06.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/06.jpg
+    image_role: hero
+    visual_anchor: 同款冰箱三种配色并排展示（黑玻璃/白纹理/不锈钢），右侧一台完全打开露出内部
+  product_name: ''
+  brand_name: Siemens
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 冰箱
+  design_language:
+    silhouette: 上冷藏下冷冻两门布局，上门占比约65%，整体修长矩形
+    light_opening: 无
+    thermal: 上下两区独立控温
+    cmf:
+      color: 多配色：黑色高光玻璃 / 白色纹理 / 拉丝不锈钢
+      material: 玻璃（黑色版）/ 金属拉丝（银色版）/ 钢板（白色版）
+      finish: 高光（黑）/ 拉丝（银）/ 哑光（白）
+    mounting: 独立落地式
+    signature_detail: 上门居中小型数显触控面板，门板面积极简无装饰
+  design_level:
+    score: 3
+    reason: 设计语言稳健克制，多配色策略覆盖不同厨房风格，但造型本身无突破性记忆点
+  design_tags:
+  - 双门
+  - 下冷冻
+  - 多配色
+  - 触控面板
+  - 欧系
+  - 克制简洁
+  hero_feature: 同一机型提供三种表面材质（玻璃/金属/钢板），适配不同装修风格
+  problem_solved: 消费者难以在不同厨房风格中找到匹配冰箱，多配色策略解决视觉适配问题
+  transferable_technique: 同一产品线多表面材质策略可迁移至其他大家电，降低消费者选择障碍
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_fridge_003
+  source_images:
+  - filename: 105.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/105.jpg
+    image_role: hero
+    visual_anchor: 全黑窄体红酒柜，单扇玻璃门半开，内部木质层架与酒瓶清晰可见
+  - filename: 106.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/106.jpg
+    image_role: secondary
+    visual_anchor: 同款红酒柜正面关闭状态，全黑外壳配透明玻璃门，底部蜂窝散热格栅
+  product_name: ''
+  brand_name: Baliry
+  brand_confidence: medium
+  category_path:
+  - 家电
+  - 冰箱
+  - 红酒柜
+  design_language:
+    silhouette: 窄体高挑矩形（宽约30cm），单门，顶部触控操作区
+    light_opening: 无
+    thermal: 单温区恒温控制
+    cmf:
+      color: 全哑黑
+      material: 金属外壳 + 钢化玻璃门 + 实木层架
+      finish: 哑光黑（外壳）+ 透明（门）+ 原木色（架）
+    mounting: 独立落地式，可嵌入橱柜下方
+    signature_detail: 黑色框架+木质层架形成强对比，蜂窝形底部散热格栅作为装饰细节
+  design_level:
+    score: 4
+    reason: 黑框+木架的材质对比语言精准，产品气质与葡萄酒品鉴场景高度契合，细节一致性强
+  design_tags:
+  - 红酒柜
+  - 窄体
+  - 黑色
+  - 木质层架
+  - 玻璃门
+  - 嵌入式
+  - 精品家电
+  hero_feature: 全哑黑金属框架 + 实木层架材质对比，赋予红酒柜精品酒窖质感
+  problem_solved: 普通红酒柜外观廉价感强，哑黑+实木组合提升产品在开放式厨房中的陈列价值
+  transferable_technique: 哑黑框+实木内衬的材质对比语言可迁移至咖啡机、饮水机等精品小家电
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_fridge_004
+  source_images:
+  - filename: 13.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/13.jpg
+    image_role: hero
+    visual_anchor: 拉丝不锈钢下冷冻双门冰箱，上门居中小LCD控制面板，侧面拉手极细
+  - filename: 14.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/14.jpg
+    image_role: interior
+    visual_anchor: 双门全部打开，VitaFresh保鲜抽屉用蓝色边框标识，BigBox冷冻抽屉清晰
+  - filename: 63.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/63.jpg
+    image_role: lifestyle
+    visual_anchor: 俯视视角，黑色玻璃版本冰箱门半开，上门LCD面板在俯视角清晰可见
+  product_name: ''
+  brand_name: Bosch
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 冰箱
+  design_language:
+    silhouette: 上冷藏下冷冻两门，上门约60%高度，整体矩形无弧度
+    light_opening: 无
+    thermal: 上下分区，VitaFresh 0℃保鲜区独立控温
+    cmf:
+      color: 拉丝不锈钢（主）/ 黑色玻璃（可选）
+      material: 不锈钢面板（主）/ 钢化玻璃（黑色版）
+      finish: 拉丝（不锈钢版）/ 高光（黑玻璃版）
+    mounting: 独立落地式
+    signature_detail: 门面上居中嵌入式LCD数显面板，蓝色边框VitaFresh抽屉作为内部品牌识别元素
+  design_level:
+    score: 3
+    reason: 经典欧系冰箱造型，完成度高但设计语言保守，内部收纳系统标注清晰是实用亮点
+  design_tags:
+  - 双门
+  - 下冷冻
+  - 不锈钢
+  - LCD面板
+  - VitaFresh
+  - 欧系
+  - 保鲜抽屉
+  hero_feature: VitaFresh 蓝色标识保鲜抽屉系统，内部分区逻辑视觉化
+  problem_solved: 用户不清楚冰箱各区域最优储存方式，蓝色标识分区将功能逻辑直接外显
+  transferable_technique: 内部功能区色彩编码（蓝色=高湿保鲜）可迁移至其他储存类产品的分区视觉语言
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_fridge_005
+  source_images:
+  - filename: 15.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/15.jpg
+    image_role: hero
+    visual_anchor: 深灰拉丝金属五门法式冰箱正面，居中竖向细长触控条贯穿上两门分缝
+  - filename: 16.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/16.jpg
+    image_role: interior
+    visual_anchor: 五扇门全部展开，上部双开冷藏+中部四门+底部抽屉，内部分区极为丰富
+  product_name: ''
+  brand_name: Casarte
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 冰箱
+  design_language:
+    silhouette: 五门法式布局：上双开（冷藏）+ 中四门（独立分区）+ 下单抽（冷冻），整体宽体方正
+    light_opening: 无
+    thermal: 多温区：冷藏/冷冻/0℃保鲜/变温区独立控制
+    cmf:
+      color: 深灰棕（古铜调）
+      material: 拉丝金属面板
+      finish: 拉丝哑光
+    mounting: 独立落地式
+    signature_detail: 居中纵向触控显示条贯穿上两扇门之间的分缝，成为立面视觉焦点
+  design_level:
+    score: 4
+    reason: 五门法式布局国内少见，古铜拉丝色调差异化明显，触控条作为分缝设计将功能件转化为装饰线
+  design_tags:
+  - 五门
+  - 法式
+  - 拉丝金属
+  - 古铜色
+  - 触控条
+  - 多温区
+  - 国产高端
+  hero_feature: 居中纵向触控显示条嵌入门缝，将控制界面融入立面构成
+  problem_solved: 多门冰箱立面分缝破碎感强，纵向触控条将分缝转化为设计语言主轴
+  transferable_technique: 将控制/显示元素嵌入结构分缝（而非独立贴附）的整合手法，可迁移至洗衣机/烤箱等产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_fridge_006
+  source_images:
+  - filename: 23.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/23.jpg
+    image_role: interior
+    visual_anchor: 嵌入黑色橱柜中的冰箱双门半开，内部白色层架与黑色框形成鲜明对比
+  - filename: 24.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/24.jpg
+    image_role: interior_alt
+    visual_anchor: 同款嵌入式冰箱更大开角展示，VitaFresh XXL保鲜抽屉和NoFrost冷冻区清晰可见
+  product_name: ''
+  brand_name: Bosch
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 冰箱
+  - 嵌入式冰箱
+  design_language:
+    silhouette: 嵌入式两门（上冷藏下冷冻），黑色铝合金薄边框，与橱柜齐平
+    light_opening: 无
+    thermal: 上下分区，VitaFresh 保鲜独立控温
+    cmf:
+      color: 外框黑色，内部纯白
+      material: 黑色铝合金边框 + 白色ABS内胆
+      finish: 哑黑（框）/ 哑白（内）
+    mounting: 嵌入式（内嵌橱柜）
+    signature_detail: 极细黑色铝框与橱柜门板视觉融合，冰箱成为整体厨房立面的一部分
+  design_level:
+    score: 4
+    reason: 嵌入安装实现冰箱与橱柜的视觉统一，黑框白内胆的对比在开门时产生戏剧性视觉效果
+  design_tags:
+  - 嵌入式
+  - 黑色边框
+  - 整体厨房
+  - 隐藏式安装
+  - VitaFresh
+  - 欧系
+  hero_feature: 极细黑铝边框嵌入黑色橱柜，冰箱立面与整体厨房完全融合
+  problem_solved: 独立式冰箱在整体厨房中显得突兀割裂，嵌入式方案实现厨房立面的连续性
+  transferable_technique: 家电与橱柜融合设计逻辑（薄边框+齐平安装）可应用于烤箱、蒸箱等嵌入式厨电
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_fridge_007
+  source_images:
+  - filename: 29.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/29.jpg
+    image_role: hero
+    visual_anchor: 深灰色对开门冰箱，左门贯通式竖拉手，右门上角红色细线品牌标识
+  - filename: 38.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/38.jpg
+    image_role: interior
+    visual_anchor: 对开门全展开正面图，左侧BigFreeze冷冻抽屉+右侧HumidityFresh保鲜区，顶部LED灯带
+  product_name: HygienicGuard
+  brand_name: Bosch
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 冰箱
+  design_language:
+    silhouette: 对开门（Side-by-Side），两门等宽，整体宽体方正，比例1:1左右
+    light_opening: 无
+    thermal: 左冷冻右冷藏独立控温，HumidityFresh 保鲜独立分区
+    cmf:
+      color: 深空灰（近黑）
+      material: 烤漆钢板
+      finish: 半哑光
+    mounting: 独立落地式
+    signature_detail: 左门贯通全高竖向拉手条 + 右门顶角红白品牌标识线，两门间隙极窄
+  design_level:
+    score: 4
+    reason: 深灰色调在对开门冰箱中具差异化，贯通竖拉手极具雕塑感，HygienicGuard 防菌功能外显于命名
+  design_tags:
+  - 对开门
+  - 深灰色
+  - 贯通竖拉手
+  - HygienicGuard
+  - 抗菌
+  - 欧系
+  - 宽体
+  hero_feature: 贯通全高的细线型竖向拉手，从顶至底形成强烈垂直线条感
+  problem_solved: 对开门冰箱拉手设计通常笨重，贯通细线拉手在保证力学的前提下极大减少视觉重量
+  transferable_technique: 贯通全高竖向拉手设计语言（线条感替代块感）可迁移至冰柜、饮水机等垂直家电
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_fridge_008
+  source_images:
+  - filename: 30.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/30.jpg
+    image_role: hero
+    visual_anchor: 嵌入式冰箱正面打开，顶部触控面板条横贯全宽，内部HyperFresh抽屉蓝色标识
+  - filename: 31.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/31.jpg
+    image_role: secondary
+    visual_anchor: 同款斜角视图，顶部控制面板细节更清晰，门铰链设计精致
+  product_name: ''
+  brand_name: Siemens
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 冰箱
+  - 嵌入式冰箱
+  design_language:
+    silhouette: 嵌入式两门（上冷藏下冷冻），纯白外观，顶部横向触控面板为唯一装饰元素
+    light_opening: 无
+    thermal: 上下分区，HyperFresh 0℃保鲜，NoFrost冷冻
+    cmf:
+      color: 纯白
+      material: 白色钢板外壳 + ABS内胆
+      finish: 哑光白
+    mounting: 嵌入式（内嵌橱柜）
+    signature_detail: 顶部横向全宽黑色触控面板条，底部NoFrost冷冻区带独立灯光
+  design_level:
+    score: 3
+    reason: 嵌入式白色冰箱经典方案，内部分区逻辑清晰，顶部控制条设计整洁，无突破性视觉记忆点
+  design_tags:
+  - 嵌入式
+  - 纯白
+  - HyperFresh
+  - NoFrost
+  - 触控面板
+  - 欧系
+  - 整体厨房
+  hero_feature: 全宽顶置触控面板条，将所有控制集中于顶部一横，立面极简无打扰
+  problem_solved: 嵌入式冰箱控制面板选位影响立面整洁性，顶置全宽方案在视觉上几乎消隐
+  transferable_technique: 控制面板顶置全宽设计可迁移至洗碗机、蒸箱等嵌入式厨电，统一厨房操控语言
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_fridge_009
+  source_images:
+  - filename: 80.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/80.jpg
+    image_role: hero
+    visual_anchor: 全黑背景下制冰机出冰口特写，碎冰在戏剧性侧打光下呈现水晶质感
+  product_name: ''
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 冰箱
+  - 制冰机
+  design_language:
+    silhouette: 局部细节图，无法判断整机轮廓
+    light_opening: 无
+    thermal: 制冰功能
+    cmf:
+      color: 哑黑（机体）+ 银色（出冰口内壁）
+      material: 不锈钢出冰口
+      finish: 拉丝（内壁）
+    mounting: 未知
+    signature_detail: 出冰抽屉开启角度与内部灯光配合，碎冰在强侧光下形成强烈戏剧感
+  design_level:
+    score: 3
+    reason: 图片本身是产品摄影典范，光影处理极佳，但无法从单张细节图判断整机设计水准
+  design_tags:
+  - 制冰机
+  - 黑色
+  - 不锈钢
+  - 戏剧光影
+  - 细节摄影
+  - 出冰口
+  hero_feature: 出冰口内部灯光 + 黑色背景的戏剧性光影处理
+  problem_solved: 制冰机出冰操作通常是无趣的功能动作，戏剧性灯光将取冰变为仪式感体验
+  transferable_technique: 内部功能腔体的戏剧性照明设计（功能灯→仪式感灯）可迁移至酒柜、精品冰箱内胆照明
+  confidence:
+    visual_description: high
+    category: medium
+    brand: unknown
+    product_grouping: medium
+  needs_human_review: true
+  review_reason: 仅有局部特写，无法确认整机品类（独立制冰机 vs 冰箱内置制冰机组件），建议补充整机图
+- product_id: if_fridge_010
+  source_images:
+  - filename: 85.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/冰箱/85.jpg
+    image_role: interior
+    visual_anchor: 四门法式冰箱全部展开，黑色边框+白色内胆强对比，分区抽屉整齐排列
+  product_name: ''
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 冰箱
+  design_language:
+    silhouette: 四门法式布局：上双开冷藏 + 下四门独立分区，宽体方正
+    light_opening: 无
+    thermal: 上下分区，下部四门独立温区控制
+    cmf:
+      color: 外框黑色 + 内胆纯白
+      material: 黑色边框（材质不详）+ 白色ABS内胆
+      finish: 哑黑（框）/ 哑白（内）
+    mounting: 独立落地式
+    signature_detail: 黑色外框与纯白内胆的强对比在四门全展开时视觉冲击力极强
+  design_level:
+    score: 3
+    reason: 四门法式布局内部收纳系统规整，黑白对比有设计意图，但品牌特征不明确
+  design_tags:
+  - 四门
+  - 法式
+  - 黑白对比
+  - 多分区
+  - 宽体
+  hero_feature: 黑色外框与纯白内胆的强色彩对比在全开门状态下形成视觉戏剧感
+  problem_solved: 冰箱内部通常为单一白色缺乏层次，黑框界定分区边界使内部视觉更有秩序感
+  transferable_technique: 内外强色彩对比（黑框+白内）的视觉分层手法可迁移至其他有内外腔体的产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: medium
+  needs_human_review: true
+  review_reason: 品牌不明确，仅有内部展开图，缺少外观正面图，建议补充外观图确认品牌

@@ -1,0 +1,788 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "台灯"
+  tertiary: "学习台灯"
+
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/"
+  generated_at: "2026-05-08"
+
+# ── GROUPING NOTES ──────────────────────────────────────────────────────────────
+# 01+02  → same product: art deco brass/black pentagon-shade lamp (hero + base detail)
+# 05+06+15 → same product: white dual-bar crane lamp with rotating round dial (3 angles)
+# 07+08  → same product: dark grey cylindrical tower lamp (2 lifestyle angles)
+# 09+10  → same product: white T-bar symmetric linear lamp with horizontal round base (2 angles)
+# 11+12  → same product: silver multi-joint articulated arm with flat bar head (2 angles)
+# 13     → standalone: white diagonal arm with low flat pebble-disc shade
+# 14     → standalone: white T-bar with off-center rotating knob (different product from 09/10)
+# 16+17  → same product: balance-beam pendulum lamp, silver/nickel with ball counterweight (2 angles)
+# 18+19+20 → same product: black/grey folding articulated arm, disc head, round base (3 angles)
+# 21     → standalone: same family as 18-20 but clamp-mount version lit on desk
+# 22     → standalone: dark grey modular T+angle arm with interchangeable orange-ring cylindrical light heads
+# 24     → standalone: close-up detail of light grey capsule-form shade (downward-facing panel)
+# 25     → standalone: white minimal T-bar lamp with round base, lit (different product from 09/10)
+# 27+28  → same product: dark grey organic curved S-scroll arm, dual curved panel head (2 angles)
+# 29     → standalone: black two-joint articulated arm, circular ring-diffuser disc head
+# ────────────────────────────────────────────────────────────────────────────────
+
+products:
+
+  - product_id: "if_台灯_学习_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "Pentagon-shaped frosted fabric shade glowing warm amber, mounted on a Y-forked brass arm over a cross-shaped antiqued brass base"
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/02.jpg"
+        image_role: "detail"
+        visual_anchor: "Close-up of brushed brass cross base with knurled cylindrical dimmer knob and matte black inset tray layer"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Inverted pentagon frosted shade suspended from a bifurcated Y-fork arm rising from a flat cross-shaped base; art deco geometric silhouette"
+      light_opening: "Bottom-facing open aperture through frosted fabric/diffuser panel spanning full pentagon face; warm diffuse downlight with soft halo glow on arm"
+      thermal: "Open-bottom shade geometry allows passive convection; no visible heat fins"
+      cmf:
+        color: "Antiqued brushed brass (warm gold) body; matte black inset tray on base"
+        material: "Metal arm and base (brass-finished); frosted fabric or acrylic diffuser shade"
+        finish: "Brushed satin brass on arm and base top; matte black on base perimeter"
+      mounting: "Weighted cross-shaped flat base with four rounded lobes for stability"
+      signature_detail: "Y-forked bifurcated arm splitting from single vertical column to cradle the pentagon shade from two points — a structural and aesthetic centrepiece"
+    design_level:
+      score: 4
+      reason: "Strong Art Deco revival with refined material execution; bifurcated arm is genuinely distinctive; cross base with knurled knob shows high tactile detail investment"
+    design_tags:
+      - "H08对比强调"
+      - "H10材料表达"
+      - "Art Deco revival"
+      - "brass"
+      - "pentagon shade"
+      - "bifurcated arm"
+      - "frosted diffuser"
+      - "warm ambient"
+    hero_feature: "Y-shaped bifurcated arm cradling a flat pentagon frosted shade — structural form that doubles as signature silhouette"
+    problem_solved: "Delivers warm ambient bedside/desk light with a sculptural object quality; avoids the utilitarian look of conventional task lamps"
+    transferable_technique: "Bifurcated fork arm as both structural support and visual identity element — eliminates need for a separate shade bracket"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_002"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "White dual horizontal bar heads extending left and right from a central rotating dial, supported by a triangular cable-stay arm structure on a rectangular base"
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/06.jpg"
+        image_role: "orthographic"
+        visual_anchor: "Front elevation showing T-symmetry; side elevation showing cable-stay triangle arm with rectangular shade panel"
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/15.jpg"
+        image_role: "three_quarter"
+        visual_anchor: "Three-quarter view showing dual extended bar heads, triangular cable-stay arm with looped cable guide at apex, round control dial at junction"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Symmetrical T-cross: two long rectangular bar heads extending horizontally from a central knuckle; vertical post and rectangular flat base; cable-stay diagonal brace from post apex to knuckle creates a triangular structural frame"
+      light_opening: "Bottom-facing linear aperture along full length of each bar head; wide-area diffuse downlight covering large desk zone; both bars independently rotatable"
+      thermal: "Linear bar form with passive convection; no visible thermal fins"
+      cmf:
+        color: "All white with silver/chrome dial accent"
+        material: "Aluminium or painted steel bar heads; polished metal circular control dial"
+        finish: "Matte white powder coat; polished chrome on dial"
+      mounting: "Rectangular flat base with rounded corners; off-centre post position"
+      signature_detail: "Cable-stay triangular brace from post top to bar junction — engineering structure made visible as design language"
+    design_level:
+      score: 4
+      reason: "Dual-bar symmetric coverage is functionally innovative; cable-stay structural brace is a bold engineering-as-design move; clean monochromatic execution"
+    design_tags:
+      - "H07极简整合"
+      - "H11功能外显"
+      - "H05模块化"
+      - "dual bar"
+      - "cable stay"
+      - "wide-area illumination"
+      - "symmetric"
+      - "white"
+    hero_feature: "Dual rotating horizontal bar heads giving wide symmetric desk coverage, structurally braced by a visible cable-stay triangular arm"
+    problem_solved: "Single lamp head creates uneven desk illumination; dual symmetric bars cover full desk width without shadows"
+    transferable_technique: "Cable-stay brace as explicit structural-aesthetic element — communicates engineering precision and lightness simultaneously"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_003"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "Dark matte grey cylinder body with rotated flat cap on top creating a crescent gap that emits warm light; hand touching side slider control with blue LED indicator"
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/08.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "Same cylindrical tower lamp on dining table, woman reading by warm glow; compact form factor like a thermos or vase"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Upright cylinder with slightly tapered body; flat pivoting cap sits offset on top, creating a crescent-shaped opening gap — like a drinking cup with a tilted lid"
+      light_opening: "Crescent-shaped horizontal gap between cylinder top and offset rotating cap; warm light exits sideways and upward through this gap; 360-degree ambient spread"
+      thermal: "Cylindrical form with cap gap allows passive airflow; compact LED source"
+      cmf:
+        color: "Dark matte grey/charcoal body; same dark cap"
+        material: "Anodised aluminium or ABS cylinder; possibly soft-touch coating"
+        finish: "Matte textured surface"
+      mounting: "Self-standing flat-bottom cylinder; no base plate"
+      signature_detail: "Rotating offset cap creating a crescent aperture — single gesture controls both light direction and amount"
+    design_level:
+      score: 4
+      reason: "Highly original form language borrowed from non-lighting objects (thermos/canister); crescent aperture is a clever combined dimmer/direction control; compact and portable"
+    design_tags:
+      - "H01减法"
+      - "H07极简整合"
+      - "H12人机界面强化"
+      - "H06仿生"
+      - "cylinder"
+      - "rotating cap"
+      - "crescent aperture"
+      - "portable"
+      - "ambient"
+      - "dark grey"
+    hero_feature: "Rotating tilted cap that creates a crescent light gap — dim and direct light through a single physical gesture"
+    problem_solved: "Traditional desk lamps are directional only; this provides 360-degree ambient glow adjustable by cap rotation, bridging task and mood lighting"
+    transferable_technique: "Offset rotating cap mechanism as combined aperture control and direction control — single-component interaction design"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_004"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "Ultra-thin white T-bar lamp with long symmetric horizontal bar head, single vertical post, small square base; lit scene showing upward and downward light emission"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/10.jpg"
+        image_role: "orthographic"
+        visual_anchor: "Front elevation: perfect T-shape with centre-mounted connector knob; bar head extends equally on both sides of post"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Perfect T-cross: ultra-thin rectangular bar head centred on vertical post; elongated horizontal oval/rectangular base; near-architectural minimalism"
+      light_opening: "Dual-direction linear emission from top and bottom face of bar head; upward indirect ambient + downward direct task light simultaneously; full bar length active"
+      thermal: "Thin bar profile with exposed top surface for passive convection"
+      cmf:
+        color: "All white"
+        material: "Aluminium bar head; aluminium or steel post; plastic base likely"
+        finish: "Matte white powder coat throughout"
+      mounting: "Elongated rounded-rectangle flat base; centre-post attachment"
+      signature_detail: "Symmetric T-bar emitting both up and down — the pure geometric cross is the entire design statement"
+    design_level:
+      score: 4
+      reason: "Reduction to pure geometry executed with excellent proportion; dual-direction emission is a genuine functional innovation visible in the light scene; total minimalism"
+    design_tags:
+      - "H01减法"
+      - "H07极简整合"
+      - "H11功能外显"
+      - "T-bar"
+      - "symmetric"
+      - "dual emission"
+      - "up-down light"
+      - "white"
+      - "ultra-thin"
+    hero_feature: "Perfectly symmetric T-bar with simultaneous upward indirect and downward direct LED emission — form is the function"
+    problem_solved: "Most task lamps are directional only; this provides layered ambient + task light from a single ultra-minimal form"
+    transferable_technique: "Dual-face linear LED bar (up + down emission) inside a single thin extrusion — doubles illumination modes without adding form complexity"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_005"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "Silver/grey multi-joint articulated arm with three pivot points; long flat rectangular bar head angled diagonally; circular flat base"
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/12.jpg"
+        image_role: "detail"
+        visual_anchor: "Side profile close-up of flat bar head showing small knurled control knobs on top surface and pivot joint mechanism with braided cable"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Classic architect lamp silhouette: two flat rectangular arm segments joined at angled pivot; long flat bar head at end; low circular disc base"
+      light_opening: "Bottom-facing linear aperture along full underside of flat bar head; direct task downlight; bar head pivots at its junction for angle adjustment"
+      thermal: "Flat bar head with aluminium body for passive convection; exposed metal surfaces"
+      cmf:
+        color: "Silver/light grey throughout"
+        material: "Anodised aluminium arm segments and bar head; stainless steel pivot hardware with braided cable routing"
+        finish: "Brushed aluminium; polished pivot joints"
+      mounting: "Low flat circular disc base with visible screw/bolt detail"
+      signature_detail: "Knurled metallic control knobs protruding from top surface of bar head — tactile controls integrated flush into the arm's flat profile"
+    design_level:
+      score: 4
+      reason: "Premium material execution with excellent joint detailing; braided cable routing through joints is a refined engineering touch; control knobs on head top surface is intuitive and visually clean"
+    design_tags:
+      - "H03分件线"
+      - "H10材料表达"
+      - "H12人机界面强化"
+      - "H09隐藏工程"
+      - "articulated arm"
+      - "aluminium"
+      - "flat bar head"
+      - "knurled knob"
+      - "braided cable"
+      - "silver"
+    hero_feature: "Multi-pivot articulated aluminium arm with braided cable routing through joints and knurled top-surface control knobs — engineering made tactile"
+    problem_solved: "Combines full arm position flexibility with premium tactile material quality; controls on head surface eliminate a separate switch"
+    transferable_technique: "Braided cable routed through pivot joints as visible design element — turns engineering necessity into a craftsmanship signal"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_006"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "White lamp with single diagonal curved tube arm sweeping upward; wide flat disc-like pebble shade at top with smooth rounded edges; oval flat base"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Single sweeping curved arm rises diagonally from flat oval base to support a wide, low, pebble-disc shade; organic arc profile"
+      light_opening: "Downward-facing aperture on underside of flat disc shade; direct task downlight with soft edge due to rounded diffuser perimeter"
+      thermal: "Low flat shade with passive convection through open underside"
+      cmf:
+        color: "All white"
+        material: "Painted steel or aluminium arm; moulded plastic or aluminium disc shade"
+        finish: "Matte white throughout"
+      mounting: "Flat oval/elliptical base"
+      signature_detail: "Continuous smooth curve from base post to shade edge — no hard joints or hinges visible; monolithic flowing form"
+    design_level:
+      score: 3
+      reason: "Clean minimalist form with pleasing curve; disc shade is simple but effective; lacks strong innovation — similar to Muuto Align family; good execution of known archetype"
+    design_tags:
+      - "H01减法"
+      - "H07极简整合"
+      - "H06仿生"
+      - "curved arm"
+      - "disc shade"
+      - "pebble"
+      - "white"
+      - "Scandinavian"
+    hero_feature: "Single unbroken curved arm flowing from base to wide flat pebble disc shade — no visible joints"
+    problem_solved: "Delivers focused downlight with a furniture-quality organic silhouette that reads as decorative object rather than utilitarian lamp"
+    transferable_technique: "Arm-to-shade continuous curve with no visible joint — requires careful junction design but produces a visually seamless premium form"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_007"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "White T-bar lamp with asymmetric bar head and prominent circular polished dial at off-centre junction; flat rectangular base with T-foot"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "T-cross form but asymmetric: bar head extends significantly more to one side of the post; large circular polished control dial at the off-centre bar junction; T-shaped flat foot base"
+      light_opening: "Linear aperture along underside of bar head; direct downward task light; bar length provides wide coverage"
+      thermal: "Flat bar passive convection; exposed aluminium surfaces"
+      cmf:
+        color: "White with polished chrome/silver dial accent"
+        material: "Aluminium bar; polished metal rotating dial"
+        finish: "Matte white powder coat; mirror-polished dial"
+      mounting: "T-shaped flat foot base extending forward and backward from post"
+      signature_detail: "Large prominent circular polished dial at bar junction — oversized relative to bar profile, functioning as visual focal point and rotary controller"
+    design_level:
+      score: 3
+      reason: "Asymmetric bar with large dial is a clear design statement; polished dial contrasts well against matte white; functional but the overall form is close to common linear lamp archetypes"
+    design_tags:
+      - "H08对比强调"
+      - "H12人机界面强化"
+      - "H01减法"
+      - "T-bar"
+      - "asymmetric"
+      - "rotary dial"
+      - "white"
+      - "chrome accent"
+    hero_feature: "Oversized polished circular rotary dial at the asymmetric bar junction — scale contrast between slim bar and large dial creates the visual signature"
+    problem_solved: "Provides wide-area linear task light with an intuitive rotary dimmer integrated prominently into the arm structure"
+    transferable_technique: "Intentionally oversized control element as design focal point — breaking scale convention to signal quality and ease of use"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_008"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "Nickel/silver lamp with trumpet-bell base; long diagonal rod balanced at a central sphere pivot; large glowing circular disc head on one end, small white ball counterweight on the other"
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/17.jpg"
+        image_role: "lifestyle_interaction"
+        visual_anchor: "Hand adjusting the counterweight end of the rod to tilt the disc head; demonstrates balance mechanism in use"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Seesaw/balance beam silhouette: long diagonal rod pivoting on a central sphere joint atop a flared trumpet pedestal base; circular disc LED head on one end, small sphere counterweight on other"
+      light_opening: "Front-facing circular disc aperture with frosted/diffuser panel; wide area soft frontal illumination; head angle adjusted by moving counterweight on opposite arm"
+      thermal: "Open circular disc frame with convection; no enclosed housing"
+      cmf:
+        color: "Brushed nickel/silver throughout; white frosted disc diffuser; white ball counterweight"
+        material: "Solid metal rod and base; frosted acrylic or glass disc diffuser; metal sphere pivot"
+        finish: "Satin brushed nickel"
+      mounting: "Flared trumpet bell base — heavy cast metal for counterweight stability"
+    design_language:
+      silhouette: "Balance beam diagonal rod on sphere pivot atop flared trumpet base; disc head one end, ball counterweight other"
+      light_opening: "Circular disc aperture with frosted diffuser panel facing forward/downward; direction changed by adjusting counterweight arm angle"
+      thermal: "Open circular frame; passive convection"
+      cmf:
+        color: "Satin brushed nickel/silver; white diffuser disc"
+        material: "Solid cast metal rod and base; frosted diffuser panel; sphere pivot joint"
+        finish: "Brushed satin nickel throughout"
+      mounting: "Heavy flared trumpet pedestal base providing counterbalance stability"
+      signature_detail: "White ball counterweight on opposite arm from disc head — physical physics demonstration as interaction design; moving the ball changes the light angle"
+    design_level:
+      score: 5
+      reason: "Truly original mechanism: balance beam physics as light direction control — no electronics, purely mechanical and tactile; trumpet base is sculptural; disc head is clean; the concept is elegant and patentable"
+    design_tags:
+      - "H06仿生"
+      - "H11功能外显"
+      - "H08对比强调"
+      - "H12人机界面强化"
+      - "balance beam"
+      - "counterweight"
+      - "pendulum"
+      - "disc head"
+      - "nickel"
+      - "mechanical"
+      - "kinetic"
+    hero_feature: "Balance beam mechanism: a sliding ball counterweight on the opposite arm physically adjusts the angle of the disc LED head — purely mechanical angle control"
+    problem_solved: "Lamp angle adjustment is typically achieved with friction joints or motors; this uses visible Newtonian physics (balance/counterweight) as the interaction mechanism"
+    transferable_technique: "Balance beam counterweight as directional adjustment mechanism — transfers position control from joint friction to weight distribution; inherently intuitive"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_009"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/18.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "Dark grey/black angular folding-arm desk lamp on wooden desk; two-segment arm forms Z-shape; flat disc-like oval shade head; round flat base"
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/19.jpg"
+        image_role: "product_two_variants"
+        visual_anchor: "Two colorway variants side by side on plinths: silver/white version with circular glowing disc head; black version with narrow rectangular shade head; both on round bases with small top knob"
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/20.jpg"
+        image_role: "product_two_configs"
+        visual_anchor: "Two mount configurations: left unit with desk clamp base and thin long bar head; right unit with round weighted base and same bar head — both dark grey with red cable accent loops at joints"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Two-segment articulated Z-arm: lower arm angled one way, upper arm angled opposite, creating angular reaching posture; flat oval/disc head at tip; round base"
+      light_opening: "Downward-facing flat oval disc aperture; direct focused task light from disc LED panel"
+      thermal: "Flat disc head with passive convection; metal arm construction"
+      cmf:
+        color: "Dark charcoal grey/matte black; red cable accent loops at pivot joints (signature accent)"
+        material: "Anodised aluminium arms; flat metal disc head"
+        finish: "Matte dark anodised; red rubber or silicone cable loops"
+      mounting: "Round weighted disc base (standard) or desk clamp (alternate config)"
+      signature_detail: "Red cable loops at each pivot joint — functional cable management made into a bold colour accent that marks every articulation point"
+    design_level:
+      score: 4
+      reason: "Red cable loops are a genuinely distinctive accent that also serve cable management — form-function integration with strong colour contrast; Z-arm posture is dynamic and task-efficient"
+    design_tags:
+      - "H03分件线"
+      - "H08对比强调"
+      - "H11功能外显"
+      - "H05模уль化"
+      - "articulated arm"
+      - "Z-arm"
+      - "red accent"
+      - "cable management"
+      - "disc head"
+      - "dark grey"
+      - "clamp mount"
+    hero_feature: "Red cable loops at every pivot joint — functional cable routing elevated to a signature colour accent visible from any angle"
+    problem_solved: "Articulated lamps often have messy cable routing at joints; red loops solve routing elegantly while creating a brand-recognisable detail"
+    transferable_technique: "Coloured cable loop at pivot joints as simultaneous cable management and brand accent — a functional necessity turned into a design signature"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "Images 18/19/20 show related products (same design family, Z-arm + disc head) but may be different SKUs — 19 shows two colorways with different shade heads, 20 shows two mounting options. Grouped as product family."
+
+  - product_id: "if_台灯_学习_010"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/21.jpg"
+        image_role: "hero_lit"
+        visual_anchor: "Dark grey clamp-mounted articulated arm lamp lit on desk edge; long thin bar head casting wide horizontal light beam; red cable loops at joints visible"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Two-segment articulated arm with clamp base; long narrow rectangular bar head extending horizontally; arm forms angular reach posture"
+      light_opening: "Linear bottom-facing aperture across full length of thin bar head; very wide horizontal task light beam visible in image"
+      thermal: "Thin bar head passive convection; open arm construction"
+      cmf:
+        color: "Dark charcoal grey; red cable accent loops at joints"
+        material: "Anodised aluminium"
+        finish: "Matte dark anodised"
+      mounting: "Desk edge clamp base — attaches to desk without occupying surface space"
+      signature_detail: "Clamp mounting with red cable loops — same family as 009 but clamp variant enabling full desk surface clearance"
+    design_level:
+      score: 4
+      reason: "Clamp mounting with wide linear bar head is particularly effective for desk workspace; lit image shows impressive beam width coverage; consistent with the red-loop design language"
+    design_tags:
+      - "H08对比强调"
+      - "H11功能外显"
+      - "articulated arm"
+      - "clamp mount"
+      - "linear bar"
+      - "red accent"
+      - "dark grey"
+      - "wide beam"
+    hero_feature: "Clamp-mounted wide linear bar head delivering broad horizontal task illumination — no base footprint on desk surface"
+    problem_solved: "Desk clamp eliminates base footprint while wide bar head covers full desk width; maximises usable desk area"
+    transferable_technique: "Clamp + wide linear head combination as desk-area-maximising configuration — particularly effective for small desks"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_011"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/22.jpg"
+        image_role: "hero"
+        visual_anchor: "Two dark grey lamp configurations shown: left has vertical T-bar with horizontal rail and cylindrical interchangeable light module; right has diagonal arm with same cylindrical module at angle; orange-ring accent on cylinders"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Modular system: dark grey T-arm or diagonal arm frame; cylindrical light modules with transparent housing and orange accent rings attach at arm end via pivot joint; square base"
+      light_opening: "Cylindrical downward-facing aperture from translucent cylinder module; visible internal LED/heat sink structure through transparent housing; directional spot output"
+      thermal: "Transparent cylindrical housing reveals internal heat sink fins — thermal management made fully visible"
+      cmf:
+        color: "Dark grey arm and base; orange accent rings on cylindrical modules; transparent/clear cylinder housing"
+        material: "Anodised aluminium frame; polycarbonate transparent cylinder; orange silicone or anodised aluminium ring"
+        finish: "Matte dark anodised; clear polished cylinder; matte orange accent"
+      mounting: "Square flat base with single centred post"
+      signature_detail: "Fully transparent cylindrical light module revealing internal LED and heat sink — H09隐藏工程 inverted: everything exposed; orange ring accent creates industrial-chic colour pop"
+    design_level:
+      score: 4
+      reason: "Transparent module showing internal mechanics is a confident and distinctive design statement; modular swappable heads are genuinely innovative; orange accent is bold and consistent"
+    design_tags:
+      - "H09隐藏工程"
+      - "H05模块化"
+      - "H08对比强调"
+      - "H11功能外显"
+      - "transparent housing"
+      - "exposed internals"
+      - "modular"
+      - "orange accent"
+      - "cylindrical module"
+      - "dark grey"
+      - "industrial"
+    hero_feature: "Fully transparent cylindrical light modules exposing internal LED and heat sink — anti-convention display of engineering as aesthetics"
+    problem_solved: "Most lamps hide electronics; this celebrates them — the visible internals signal technical quality and differentiate from black-box competitors"
+    transferable_technique: "Transparent housing over LED module — exposing heat sink and circuit as design feature; requires clean PCB layout and intentional component arrangement"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_012"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/24.jpg"
+        image_role: "detail"
+        visual_anchor: "Close-up overhead view of a light grey capsule-shaped shade: rounded rectangular form with a recessed oval slot in upper face; thin arm enters from left side"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Capsule (stadium/pill) shaped shade — wide rounded rectangle with uniform edge radius; very flat profile; arm connects from narrow end"
+      light_opening: "Downward-facing open face on underside of capsule (not visible in this top-down detail); recessed oval slot on top face likely for touch control or sensor integration"
+      thermal: "Flat low-profile shade with passive convection from open underside"
+      cmf:
+        color: "Light grey / warm white"
+        material: "Painted aluminium or moulded plastic shade"
+        finish: "Smooth matte light grey"
+      mounting: "Arm attachment at narrow end of capsule — cantilever"
+      signature_detail: "Recessed oval control slot inset into the top surface of the capsule shade — touch sensor or dimmer integrated flush into the shade body"
+    design_level:
+      score: 3
+      reason: "Detail-only image limits full assessment; capsule form is clean and contemporary; flush recessed control slot is a good H09 hidden engineering detail; overall product context unknown"
+    design_tags:
+      - "H01减法"
+      - "H09隐藏工程"
+      - "H07极简整合"
+      - "capsule shade"
+      - "flush control"
+      - "pill form"
+      - "light grey"
+    hero_feature: "Flush recessed oval control slot integrated into top surface of capsule shade — touch interface invisible until needed"
+    problem_solved: "External buttons or switches disrupt clean shade surfaces; recessed slot integrates control without visible hardware"
+    transferable_technique: "Recessed flush control zone on shade top surface — haptic touch control with no protruding elements"
+    confidence:
+      visual_description: "medium"
+      category: "medium"
+      brand: "unknown"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "Detail-only close-up; full product silhouette and context not visible — cannot confirm category or grouping with full confidence"
+
+  - product_id: "if_台灯_学习_013"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/25.jpg"
+        image_role: "hero_lit"
+        visual_anchor: "White minimal T-bar lamp fully lit on dark desk; horizontal bar head glowing on both top and bottom surfaces creating V-shaped shadow cone on wall behind; circular disc base"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "T-bar: horizontal rectangular bar head centred on vertical post; small circular flat base; extremely minimal — only three visible components"
+      light_opening: "Dual-direction linear emission from top and bottom face of bar simultaneously; creates characteristic V-shaped shadow projection on walls; full bar width illuminated"
+      thermal: "Flat bar top surface used for passive heat dissipation"
+      cmf:
+        color: "All white"
+        material: "Aluminium bar head; metal post; base likely aluminium or dense plastic"
+        finish: "Matte white throughout"
+      mounting: "Small circular disc base"
+      signature_detail: "V-shaped shadow cone on wall caused by dual-direction emission — the light pattern itself becomes the product's visual signature in situ"
+    design_level:
+      score: 4
+      reason: "The lit wall shadow pattern is a remarkable emergent visual phenomenon — the lamp 'draws' on the wall with its shadow; dual-emission T-bar in near-perfect minimal form"
+    design_tags:
+      - "H01减法"
+      - "H07极简整合"
+      - "H11功能外显"
+      - "T-bar"
+      - "dual emission"
+      - "shadow pattern"
+      - "white"
+      - "minimal"
+      - "up-down light"
+    hero_feature: "Dual-face T-bar emission creating a distinctive V-shadow cone on wall — the shadow pattern is part of the design"
+    problem_solved: "Standard lamps illuminate surfaces but not atmosphere; dual-emission T-bar creates layered ambient light with a wall pattern that signals presence and direction"
+    transferable_technique: "Dual-face LED bar creating predictable shadow geometry on wall — design the shadow pattern as part of the product experience"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_014"
+    source_images:
+      - filename: "27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/27.jpg"
+        image_role: "hero"
+        visual_anchor: "Dark grey organic curved arm with three pivot balls; upper arm curves into a dual-panel butterfly/scroll-shaped head with two curved LED panels facing different directions; circular base with top control knob"
+      - filename: "28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/28.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "Same lamp in black colorway on desk beside monitor and laptop; organic curved arm and scroll head visible in context of workspace"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Organic flowing arm with three ball-pivot joints; arm curves in an S-shape; head splits into two curved scroll/wing panels (like an open book or butterfly wings) facing slightly different angles"
+      light_opening: "Two curved panel apertures on the scroll head; both panels emit from their inner curved face; combined coverage provides broad arc of soft illumination; secondary smaller panel below main provides fill light"
+      thermal: "Open curved panels allow convection; ball joints are exposed metal"
+      cmf:
+        color: "Dark grey (product view) / black (lifestyle)"
+        material: "Anodised aluminium curved arm; frosted or diffused panel inserts in scroll head frame; polished metal ball pivot joints"
+        finish: "Matte dark anodised; satin ball joints"
+      mounting: "Circular disc base with top-surface rotary control knob"
+      signature_detail: "Dual curved scroll/wing LED panels at head — like two petals or book pages; the organic head form is highly unusual among task lamps"
+    design_level:
+      score: 5
+      reason: "Genuinely novel head form — scroll/wing dual panel is unlike any standard lamp archetype; organic curves throughout contradict the usual angular task lamp language; ball joints add kinetic quality; extremely memorable silhouette"
+    design_tags:
+      - "H06仿生"
+      - "H08对比强调"
+      - "H03分件线"
+      - "H04参数化"
+      - "organic arm"
+      - "scroll head"
+      - "butterfly"
+      - "dual panel"
+      - "ball joint"
+      - "dark grey"
+      - "black"
+      - "curved"
+    hero_feature: "Dual curved scroll/wing LED panel head — two curved light-emitting surfaces forming an open-book or butterfly wing silhouette; entirely unlike conventional task lamp heads"
+    problem_solved: "Provides wide-arc soft illumination from an organic form that reads as decorative sculpture rather than office equipment"
+    transferable_technique: "Split dual-panel curved head as light surface — two independently angled panels provide broader coverage and softer light than a single flat panel"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_015"
+    source_images:
+      - filename: "29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/29.jpg"
+        image_role: "hero"
+        visual_anchor: "Black two-joint articulated arm: vertical post from circular base, single pivot knee joint, upper arm extending diagonally to a circular ring-diffuser disc head; all matte black"
+    product_name: "unknown"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+    design_language:
+      silhouette: "Two-segment articulated arm from circular base: lower vertical post, pivot knee, upper diagonal arm ending in a circular thin-ring framed disc head; clean angular geometry"
+      light_opening: "Circular disc aperture with frosted/opal diffuser panel facing downward and slightly forward; even circular soft downlight; ring frame is thin and visible around diffuser"
+      thermal: "Open circular head frame allows convection around disc; no enclosed housing"
+      cmf:
+        color: "All matte black"
+        material: "Anodised aluminium arm and ring frame; frosted diffuser panel"
+        finish: "Matte black anodised throughout"
+      mounting: "Low flat circular disc base"
+      signature_detail: "Circular ring-framed disc head — thin metal ring border around frosted disc creates a clean geometric aperture contrast; the ring detail reads as precision engineering"
+    design_level:
+      score: 4
+      reason: "Refined execution of articulated arm with elegant circular disc head; thin ring frame around frosted disc is a quality detail; all-black monochrome is confident; proportions are well-balanced"
+    design_tags:
+      - "H01减法"
+      - "H08对比强调"
+      - "H03分件线"
+      - "articulated arm"
+      - "circular disc head"
+      - "ring frame"
+      - "matte black"
+      - "monochrome"
+      - "frosted diffuser"
+    hero_feature: "Circular ring-framed frosted disc head — precise thin metal ring border around diffuser creates a magnifying-glass / lens aesthetic"
+    problem_solved: "Delivers focused circular task light with a high-precision visual identity; all-black monochrome elevates it above typical utilitarian desk lamps"
+    transferable_technique: "Thin ring frame around circular diffuser disc — frame-within-form detail that adds perceived precision without adding material bulk"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

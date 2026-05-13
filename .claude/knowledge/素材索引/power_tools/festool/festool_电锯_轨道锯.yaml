@@ -1,0 +1,305 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "轨道锯"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/"
+  generated_at: "2026-05-08"
+
+# 注意：本文件夹31张图中仅7张为轨道锯，其余24张为非轨道锯产品（角磨机/电刨/锤钻/砂光机/收纳箱等）
+# 误标图片列表：01-12, 18-20, 24, 27, 31, 35, 39-43
+# 轨道锯图片：13, 32, 33, 34, 36, 37, 38
+
+products:
+  - product_id: "festool_轨道锯_001"
+    source_images:
+      - filename: "电锯__轨道锯__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__轨道锯__13.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面视角，机身主体绿色覆盖约70%（绿色上盖+绿色后把手），前部大圆弧银色铝质锯片护罩，底部扁平铝底板，左侧圆形深度调节旋钮（黑色），顶部有绿色手柄，机身铭牌标注TS 55 REBQ，整体低矮扁平轮廓，锯机正面可见弧形锯片护罩与铝底板咬合关系"
+    product_name: "Festool TS 55 REBQ 轨道锯（旧款有线）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "轨道锯"]
+    design_language:
+      silhouette: "极扁平低矮轮廓，前部圆弧锯片护罩为视觉重心，机身从后把手到护罩呈流线型过渡，整体高度仅约150mm，底板大面积暴露"
+      light_opening: "N/A"
+      thermal: "机身后部左侧有椭圆形集尘管接口（黑色），顶部格栅散热"
+      cmf:
+        color: "绿色（Festool Racing Green）主导机身上盖约70%，银色铝质锯片护罩与底板，黑色把手及功能部件"
+        material: "工程塑料机身上盖，铝合金锯片护罩，铝合金底板（带防滑纹理），橡胶把手覆层"
+        finish: "绿色塑料细纹理注塑，铝件哑光拉丝，底板铝合金阳极氧化亮银"
+      mounting: "有线（电源线，圆形集尘管接口可见）"
+      signature_detail: "圆弧铝质锯片护罩是品类标志性元素，绿色机身+银色护罩的色彩对比构成Festool轨道锯视觉密码"
+    design_level:
+      score: 5
+      reason: "品类定义者，Festool TS系列创造了轨道锯这一品类的设计标准，绿+银配色+扁平导轨适配设计已成为全球轨道锯参照系"
+    design_tags: ["轨道锯", "H05_模块化设计", "H07_极简整合", "H10_材料表达", "品类定义者", "有线", "旧款"]
+    hero_feature: "圆弧铝质锯片护罩+平底铝底板构成精密导轨耦合系统，锯机与导轨的咬合关系是品类核心视觉特征"
+    problem_solved: "圆锯在无导轨下直线精度差；轨道锯通过导轨系统实现0.1mm级精密直线切割"
+    transferable_technique: "扁平机身+大面积铝底板+圆弧护罩的三角形构图；机身颜色与功能性铝件的材质对比语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道锯_002"
+    source_images:
+      - filename: "电锯__轨道锯__34.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__轨道锯__34.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面视角，机身上盖深蓝灰+绿色双色组合（绿色区域减少至约40%，集中在顶部手柄及后部功能键），大圆弧银色铝质锯片护罩，银色铝底板，铭牌TS 55 FEBQ，底部可见绿色深度锁定拨片，前左侧圆形黑色集尘管接口，整体比旧款更精炼"
+    product_name: "Festool TS 55 FEBQ 轨道锯（新款有线）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "轨道锯"]
+    design_language:
+      silhouette: "与旧款相同的低矮扁平轮廓，圆弧护罩更大更圆润，机身线条更流畅，从俯视看机身更窄更精炼"
+      light_opening: "N/A"
+      thermal: "左侧圆形集尘管接口，机身顶部格栅"
+      cmf:
+        color: "深蓝灰（Festool新一代主色）+绿色局部（顶把手+深度标尺+锁定拨片），银色铝护罩，银色铝底板"
+        material: "工程塑料机身，铝合金护罩，铝合金底板"
+        finish: "深蓝灰塑料细纹理，铝件哑光拉丝，铝底板阳极氧化银"
+      mounting: "有线（电源线从机身后部引出）"
+      signature_detail: "圆弧铝护罩面积更大，占整机侧视约50%；底部绿色深度锁定拨片为功能外显设计点"
+    design_level:
+      score: 5
+      reason: "品类标杆现行款，设计进化后的TS 55 F系列是目前全球轨道锯设计基准，蓝灰+绿+银三色系统更精炼"
+    design_tags: ["轨道锯", "H07_极简整合", "H10_材料表达", "H11_功能外显", "品类定义者", "有线", "现行款"]
+    hero_feature: "圆弧铝锯片护罩占侧面50%面积，成为整机视觉焦点；护罩与铝底板的银色统一形成精密质感语言"
+    problem_solved: "精密直线切割，Splinter Guard（防崩边）功能集成于护罩导边"
+    transferable_technique: "大面积功能性铝件作为视觉主体；深色塑料+局部功能色绿+大面积银铝的三层配色结构"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道锯_003"
+    source_images:
+      - filename: "电锯__轨道锯__36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__轨道锯__36.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面视角，机身整体白色/浅灰（无线款特有色彩方案），绿色仅出现在后把手区域及功能按键，圆弧铝锯片护罩银色，底板银色铝合金，铭牌TSC 55 KSEB，机身底部后端可见电池卡槽（18V电池缺席，仅见卡口），整机比有线款更轻盈"
+      - filename: "电锯__轨道锯__37.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__轨道锯__37.jpg"
+        image_role: "secondary"
+        visual_anchor: "与36相同型号TSC 55 KEB（略早期版本），白色机身+绿色把手+银色护罩，与KSEB版本外观几乎相同，可见底部电池滑轨接口，集尘口同样在左侧"
+    product_name: "Festool TSC 55 KEB/KSEB 无线轨道锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "轨道锯"]
+    design_language:
+      silhouette: "与有线款TS 55相同轮廓，低矮扁平，圆弧护罩，但机身底部后端增加了电池卡接区域，整机重心略后移"
+      light_opening: "N/A"
+      thermal: "集尘口左侧，顶部格栅，无线款发热较低"
+      cmf:
+        color: "白色/浅灰主色（约60%），绿色局部（把手+功能键+深度标尺拨片），银色铝护罩+铝底板"
+        material: "工程塑料机身（白色），铝合金护罩，铝合金底板，电池18V Li-ion"
+        finish: "白色塑料细纹理注塑，铝件哑光拉丝，铝底板阳极氧化银"
+      mounting: "无线（18V电池，Festool HPC/AIRSTREAM系统）"
+      signature_detail: "白色机身是TSC系列区别于有线TS系列的视觉标识；电池卡接在机身后端底部，不破坏主轮廓"
+    design_level:
+      score: 5
+      reason: "无线轨道锯品类定义者，将Festool精密导轨系统延伸至无绳领域，白色机身语言简洁区分有线/无线，工程美学标杆"
+    design_tags: ["轨道锯", "H07_极简整合", "H10_材料表达", "品类定义者", "无线", "18V电池"]
+    hero_feature: "无线版保持与有线版相同的精密切割性能，白色机身+银色护罩建立独立的无线产品视觉家族"
+    problem_solved: "精密直线切割无线化，施工现场无需电源即可实现0.1mm直线精度"
+    transferable_technique: "有线/无线同品类用色彩方案区分（白vs深色），保持相同形态语言；电池集成不破坏轮廓轮廓的底部后端隐藏式设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道锯_004"
+    source_images:
+      - filename: "电锯__轨道锯__32.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__轨道锯__32.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面视角，机身深蓝灰+绿色（上盖绿色比TS 55更少，约30%），圆弧锯片护罩比TS 55更大更宽（对应60mm锯片），银色铝底板更宽，铭牌TS 60 KEBQ，底部绿色深度锁定拨片，整机体量明显大于55系列，集尘口左侧黑色圆形接口"
+    product_name: "Festool TS 60 KEBQ 轨道锯（60mm大锯）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "轨道锯"]
+    design_language:
+      silhouette: "比TS 55更高更宽的轮廓，圆弧护罩直径更大，底板宽度增加，切割深度可达60mm（TS 55为55mm），整机重量和体量增大但比例关系保持一致"
+      light_opening: "N/A"
+      thermal: "集尘口左侧，机身顶部格栅，大功率电机对应更多散热口"
+      cmf:
+        color: "深蓝灰主色（约65%），绿色局部（顶把手+深度拨片），银色铝护罩+铝底板"
+        material: "工程塑料，铝合金护罩，铝合金底板"
+        finish: "深蓝灰细纹理注塑，铝件哑光拉丝，底板阳极氧化银"
+      mounting: "有线（电源线）"
+      signature_detail: "更大的圆弧护罩体量是TS 60区别于55的视觉标识；底板宽度增加使整机更稳定的视觉感"
+    design_level:
+      score: 5
+      reason: "TS 60是Festool轨道锯谱系中的主力大锯，设计语言与TS 55完全统一，体量升级的同时保持精炼比例，专业工坊首选"
+    design_tags: ["轨道锯", "H07_极简整合", "H10_材料表达", "品类定义者", "有线", "大锯60mm"]
+    hero_feature: "更大的圆弧铝护罩为60mm大锯提供足够保护空间，KickBack Stop防回踢系统集成"
+    problem_solved: "厚板材（35-60mm）的精密轨道直线切割，兼顾斜切功能"
+    transferable_technique: "同族产品通过体量（护罩尺寸+底板宽度）区分规格，保持统一视觉语言；大功率工具维持扁平比例不失精炼"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道锯_005"
+    source_images:
+      - filename: "电锯__轨道锯__33.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__轨道锯__33.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面视角，与TS 60 KEBQ外观极相似，机身深蓝灰+绿色，圆弧银色护罩，宽银色铝底板，铭牌TSV 60 KEBQ（TSV=带划线锯），机身底部可见额外的小型划线锯片护罩（前端底部有凸出的小圆弧），整机体量与TS 60相同"
+    product_name: "Festool TSV 60 KEBQ 轨道锯（带划线锯）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "轨道锯"]
+    design_language:
+      silhouette: "与TS 60相同主轮廓，区别在于底板前端有小型划线锯片凸出（约5mm宽），整体轮廓在底部前端略有变化"
+      light_opening: "N/A"
+      thermal: "与TS 60相同散热方案"
+      cmf:
+        color: "与TS 60相同：深蓝灰+绿色局部+银色铝件"
+        material: "与TS 60相同，底板增加划线锯片槽"
+        finish: "与TS 60相同"
+      mounting: "有线（电源线）"
+      signature_detail: "前端底板增加小型划线锯片（Scoring Blade），可在主切割前预划线防崩边，是橱柜行业标配"
+    design_level:
+      score: 5
+      reason: "TSV系列是Festool为橱柜/精细木工专门开发的高阶轨道锯，双锯片系统设计整合精密，防崩边能力业界第一"
+    design_tags: ["轨道锯", "H05_模块化设计", "H07_极简整合", "H11_功能外显", "品类定义者", "有线", "划线锯", "橱柜专用"]
+    hero_feature: "底板前端集成划线锯片（Scoring Blade），主副双锯片先划后切，实现双面零崩边切割"
+    problem_solved: "精细材料（双面贴皮板/刨花板/铝扣板）切割崩边问题；橱柜行业对切割质量的极致要求"
+    transferable_technique: "在标准产品基础上通过底板前端功能扩展区分高阶版本；功能增加不破坏主轮廓完整性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道锯_006"
+    source_images:
+      - filename: "电锯__轨道锯__38.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__轨道锯__38.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面视角，机身几乎全部为纯白/浅灰色（约80%白色，绿色仅在把手顶部有极小面积），圆弧锯片护罩为白色与银色交界的浅色调，铭牌TS 75 EBQ，底板为银灰铝合金，整机体量最大（75mm锯片），无集尘管接口可见（在另一侧），整体极简干净，像工业设计展品"
+    product_name: "Festool TS 75 EBQ 轨道锯（75mm最大锯）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "轨道锯"]
+    design_language:
+      silhouette: "TS系列中体量最大，圆弧护罩直径最大，底板最宽，切割深度75mm，但比例关系依然优雅，低矮扁平特征保持"
+      light_opening: "N/A"
+      thermal: "机身侧面散热格栅，顶部散热孔"
+      cmf:
+        color: "白色/浅灰主色（约80%，这一代早期配色方案），极少绿色点缀，银色铝底板"
+        material: "工程塑料机身（白色），铝合金底板，金属内部结构"
+        finish: "白色细纹理注塑，铝底板阳极氧化哑光银，整体质感极为纯净"
+      mounting: "有线（电源线）"
+      signature_detail: "白色机身+极简绿色点缀是TS 75这一代的标志；体量最大但线条最克制，有高端家电的质感"
+    design_level:
+      score: 5
+      reason: "TS 75是Festool轨道锯谱系顶配，白色极简配色赋予其与众不同的高级感，体量最大但视觉最克制，设计成熟度最高"
+    design_tags: ["轨道锯", "H07_极简整合", "H10_材料表达", "品类定义者", "有线", "最大锯75mm", "极简白"]
+    hero_feature: "白色极简配色与巨大体量形成反差美学，75mm最大切割深度，重型板材切割（CLT/LVL等工程木材）专用"
+    problem_solved: "工程级厚板（50-75mm LVL/CLT/厚实木板）的精密轨道切割，建筑施工与高端木工工坊使用"
+    transferable_technique: "大体量工具通过极简配色（白色）抵消视觉重量感；白+银+极少绿点的最简配色结构"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+# ============================================================
+# 误标图片记录（本文件夹中非轨道锯的图片，附产品识别）
+# ============================================================
+mislabeled_images:
+  - filename: "电锯__轨道锯__01.jpg"
+    actual_product: "Festool 混合工具组合（ETS轨道砂光机 + TID电动螺丝刀）+ Systainer收纳箱"
+    actual_category: "砂光机/电动螺丝刀"
+  - filename: "电锯__轨道锯__02.jpg"
+    actual_product: "Festool BHC 18 无绳锤钻"
+    actual_category: "锤钻"
+  - filename: "电锯__轨道锯__03.jpg"
+    actual_product: "Festool AGC 18 无绳角磨机"
+    actual_category: "角磨机"
+  - filename: "电锯__轨道锯__04.jpg"
+    actual_product: "Festool SYSROCK DAB+ 工地音响"
+    actual_category: "工地设备/音响"
+  - filename: "电锯__轨道锯__05.jpg"
+    actual_product: "Festool OSC 18 无绳振荡多功能工具"
+    actual_category: "多功能工具"
+  - filename: "电锯__轨道锯__06.jpg"
+    actual_product: "Festool HL 850 EB 电刨"
+    actual_category: "电刨"
+  - filename: "电锯__轨道锯__07.jpg"
+    actual_product: "Festool KA 65 封边机"
+    actual_category: "封边机"
+  - filename: "电锯__轨道锯__08.jpg"
+    actual_product: "Festool MX 1000 RE EF 搅拌机"
+    actual_category: "搅拌机"
+  - filename: "电锯__轨道锯__09.jpg"
+    actual_product: "Festool SYS-PowerStation Systainer电源站"
+    actual_category: "工地设备/电源"
+  - filename: "电锯__轨道锯__10.jpg"
+    actual_product: "Festool KAPEX KS 120 滑动斜锯"
+    actual_category: "斜锯/斜切锯"
+  - filename: "电锯__轨道锯__11.jpg"
+    actual_product: "Festool HK 55 EBQ 手持圆锯（非轨道锯）"
+    actual_category: "圆锯"
+  - filename: "电锯__轨道锯__12.jpg"
+    actual_product: "Festool 研磨抛光机（RAS/RAP系列）"
+    actual_category: "抛光机"
+  - filename: "电锯__轨道锯__18.jpg"
+    actual_product: "Festool 18V电池组+充电器（AIRSTREAM系列）"
+    actual_category: "配件/电池"
+  - filename: "电锯__轨道锯__19.jpg"
+    actual_product: "Festool 铣刀/钻头套装（路由器刀头）"
+    actual_category: "配件/刀具"
+  - filename: "电锯__轨道锯__20.jpg"
+    actual_product: "Festool Systainer3 收纳箱"
+    actual_category: "收纳/工具箱"
+  - filename: "电锯__轨道锯__24.jpg"
+    actual_product: "Festool CTH 26 E AirStream 工业吸尘器 + SYS-AIR M 空气过滤器"
+    actual_category: "吸尘设备"
+  - filename: "电锯__轨道锯__27.jpg"
+    actual_product: "Festool USB 50/35 Bi/OSC 振荡锯片（配件）"
+    actual_category: "配件/锯片"
+  - filename: "电锯__轨道锯__31.jpg"
+    actual_product: "Festool Exosuit 人体工学背带（手持工具减重系统）"
+    actual_category: "工地设备/人体工学"
+  - filename: "电锯__轨道锯__35.jpg"
+    actual_product: "Festool ETS EC 150/5 EQ 轨道砂光机"
+    actual_category: "砂光机"
+  - filename: "电锯__轨道锯__39.jpg"
+    actual_product: "Festool OF 1400 EBQ 路由器（修边机）"
+    actual_category: "路由器/修边机"
+  - filename: "电锯__轨道锯__40.jpg"
+    actual_product: "Festool TID 18 无绳冲击起子"
+    actual_category: "冲击起子"
+  - filename: "电锯__轨道锯__41.jpg"
+    actual_product: "Festool Exosuit 外骨骼背带（全套展示）"
+    actual_category: "工地设备/人体工学"
+  - filename: "电锯__轨道锯__42.jpg"
+    actual_product: "Festool DF 700 EQ Domino 木销机"
+    actual_category: "木销机/榫接机"
+  - filename: "电锯__轨道锯__43.jpg"
+    actual_product: "Festool PSC 420 EB 无绳曲线锯 + T 18+3 无绳电钻 套装"
+    actual_category: "曲线锯/电钻"

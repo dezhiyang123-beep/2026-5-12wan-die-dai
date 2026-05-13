@@ -1,0 +1,38 @@
+# 06_image_review_matrix.schema.yaml — G5图像回审矩阵
+
+schema_version: "2.0"
+
+required:
+  reviews:
+    type: list
+    description: "逐包图像审查结果"
+    item_schema:
+      concept_id:
+        type: string
+        description: "对应的渲染定义包ID，如RDP-03"
+      hero_image:
+        type: string
+        description: "主图文件名或链接"
+      phase:
+        type: enum
+        values: ["phase1", "phase2"]
+      deviation_points:
+        type: list
+        item_schema:
+          type:
+            type: enum
+            values: ["轮廓偏差", "发光面偏差", "分件线偏差", "CMF偏差", "比例偏差", "禁止元素出现"]
+          description: string
+          level:
+            type: enum
+            values: ["致命", "非致命"]
+      correction_direction:
+        type: list
+        description: "修正指令，英文，可直接附加在提示词末尾"
+      verdict:
+        type: enum
+        values: ["可用", "需修正1轮", "需修正2轮", "废弃重出"]
+
+validation:
+  - verdict为可用但有致命偏差→错误
+  - correction_direction必须是英文

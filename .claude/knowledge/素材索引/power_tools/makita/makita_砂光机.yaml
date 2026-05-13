@@ -1,0 +1,134 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "砂光机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/砂光机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "makita_砂光机_砂带机_001"
+    source_images:
+      - filename: "砂光机__砂带机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/砂光机/砂光机__砂带机__01.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "蓝绿色砂带机+蓝绿色Makita Makpac硬壳箱+充电器+18V LXT电池，砂带机横向细长形态，细长砂带暴露，黑色前辅助把手，蓝绿主机身"
+      - filename: "砂光机__砂带机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/砂光机/砂光机__砂带机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿色砂带机单体，前方细长灰色辅助把手，机身蓝绿色，后电池槽，砂带水平伸出，Makita白字，BL Brushless标识"
+    product_name: "Makita 18V LXT 无绳砂带机（Belt Sander，如XOB01Z/DBO180Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "砂带机"]
+    design_language:
+      silhouette: "纵向横卧细长形态，砂带前伸形成品类轮廓识别，前部灰色细圆柱辅助把手，整体水平延伸"
+      light_opening: "N/A"
+      thermal: "机身侧面及顶部散热格栅"
+      cmf:
+        color: "蓝绿色（Makita teal）主机身+黑色后电池座分件+灰色前辅助把手"
+        material: "工程塑料机壳+橡胶软包+金属砂带轮毂"
+        finish: "哑光蓝绿机壳，灰色哑光前把手，黑色哑光后段"
+      mounting: "18V LXT电池后端纵向滑入"
+      signature_detail: "细长砂带向前伸出是砂带机品类锚点；蓝绿+灰+黑三色系区别于其他砂光类"
+    design_level:
+      score: 3
+      reason: "砂带机品类中蓝绿+灰三色执行标准，功能形态清晰，Makpac硬壳箱配套显专业"
+    design_tags: ["H11功能外显", "H08对比强调", "H07极简整合"]
+    hero_feature: "细长砂带向前伸出的品类标志形态+灰色圆柱前辅助把手"
+    problem_solved: "金属/木材表面精细打磨，砂带可更换不同目数"
+    transferable_technique: "细长轮廓识别（砂带前伸）+圆柱辅助把手的人机分区策略；蓝绿+灰的材质分区逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_砂光机_长杆砂光机_001"
+    source_images:
+      - filename: "砂光机__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/砂光机/砂光机__综合__02.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "蓝绿色长杆砂光机（Drywall Sander，打磨天花板用），银色铝伸缩杆，黑色软管集尘，底部大圆砂盘，充电器+18V LXT电池+包，整体极长"
+      - filename: "砂光机__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/砂光机/砂光机__综合__03.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿色长杆砂光机单体，同款，银色铝伸缩杆细长，底部黑色圆形砂盘头，Makita标识在顶部马达舱，LXT标识"
+      - filename: "砂光机__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/砂光机/砂光机__综合__04.jpg"
+        image_role: "hero_variant"
+        visual_anchor: "与03相同长杆砂光机，角度略有差异，无kit配件，清晰呈现伸缩杆+顶部马达+底部圆盘结构"
+      - filename: "砂光机__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/砂光机/砂光机__综合__07.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "长杆砂光机+充电器+18V LXT电池+蓝绿色大帆布包，整机较短版本或不同构型"
+    product_name: "Makita 18V LXT 无绳长杆干墙砂光机（Drywall Sander，如XLS01Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "长杆砂光机"]
+    design_language:
+      silhouette: "超长纵向轮廓（长杆+伸缩），顶部马达舱蓝绿色，中部银色铝合金伸缩杆，底部大圆砂盘，整体T/I形态"
+      light_opening: "N/A"
+      thermal: "顶部马达舱散热格栅"
+      cmf:
+        color: "蓝绿色顶部马达舱+银色铝合金伸缩杆+黑色圆形砂盘头及集尘管"
+        material: "工程塑料马达舱+铝合金伸缩杆+橡胶砂盘衬垫+软管"
+        finish: "哑光蓝绿马达舱，光亮铝银伸缩杆，哑光黑砂盘头"
+      mounting: "18V LXT电池顶部马达舱插入（倒置位于顶部）"
+      signature_detail: "银色铝合金伸缩杆是该品类最显著特征；电池倒置顶部是平衡重心的功能考量"
+    design_level:
+      score: 4
+      reason: "长杆砂光机在Makita产品线中属特殊品类，银色铝杆+蓝绿马达+黑盘头三段式结构清晰，材质分段明确，造型逻辑成立"
+    design_tags: ["H05模块化", "H10材料表达", "H11功能外显"]
+    hero_feature: "银色铝合金伸缩杆+底部大圆砂盘，三段式结构视觉逻辑清晰"
+    problem_solved: "天花板/高墙面干墙打磨，免搭脚手架，单人操作"
+    transferable_technique: "三段式模块化材质分区（马达舱/杆/头）在长型工具中的视觉节奏控制；铝杆作为精度感知材质"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_砂光机_矩形砂光机_001"
+    source_images:
+      - filename: "砂光机__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/砂光机/砂光机__综合__05.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿色矩形片砂光机（Finishing Sander），顶部圆形旋钮，黑色集尘袋后伸，BL Brushless，矩形砂纸底板，Makita白字，紧凑掌心尺寸"
+      - filename: "砂光机__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/砂光机/砂光机__综合__08.jpg"
+        image_role: "hero_variant"
+        visual_anchor: "蓝绿色圆形随机轨道砂光机（Random Orbital Sander），圆形底盘，顶部两个圆形调速/锁定旋钮，黑色集尘袋，BL Brushless，Makita白字，掌心式握持"
+    product_name: "Makita 18V LXT 无绳掌式砂光机套系（矩形/圆形，如XOB02Z/XOB01Z）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "掌式砂光机"]
+    design_language:
+      silhouette: "掌心式低矮方形/圆形轮廓，顶部旋钮，后置集尘袋，整体扁平紧凑"
+      light_opening: "N/A"
+      thermal: "机身侧面细密散热槽"
+      cmf:
+        color: "蓝绿色（Makita teal）主机身+黑色集尘袋及侧分件+顶部功能区银/黑旋钮"
+        material: "工程塑料机壳+布质集尘袋+橡胶砂盘垫"
+        finish: "哑光蓝绿机壳，黑色哑光布袋，银色/黑色塑料旋钮"
+      mounting: "18V LXT电池底部或侧部滑入（掌式砂光机通常为底部短电池）"
+      signature_detail: "顶部圆形旋钮（调速）是掌式砂光机品类识别标志；后置布质集尘袋"
+    design_level:
+      score: 3
+      reason: "掌式砂光机品类标准执行，蓝绿+黑系统一致，旋钮功能外显清晰"
+    design_tags: ["H07极简整合", "H11功能外显", "H08对比强调"]
+    hero_feature: "顶部圆形调速旋钮+后置集尘袋系统，功能集成紧凑"
+    problem_solved: "精细木工表面收尾打磨，矩形版适合边角，圆形随机轨道版适合大面"
+    transferable_technique: "顶部旋钮控制器的视觉外显策略（功能件在顶部正中央，握持时可见）；集尘袋布质材质与塑料机壳的材质对比"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

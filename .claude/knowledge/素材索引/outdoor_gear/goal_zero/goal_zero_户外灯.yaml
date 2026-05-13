@@ -1,0 +1,184 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "户外装备"
+  secondary: "户外灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "goal_zero_light_001"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "横向条状LED灯具，哑光黑铝合金外壳，顶部集成光伏板，两端金属挂钩"
+    product_name: "Goal Zero Torch Bar"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外灯", "营地灯"]
+    design_language:
+      silhouette: "细长横向矩形条，长宽比约6:1，顶部集成太阳能板，轮廓极简"
+      light_opening: "底面全长条形漫射光面"
+      thermal: "铝合金外壳被动散热"
+      cmf:
+        color: "哑光黑（主体铝合金）+ 黑色（太阳能板）"
+        material: "铝合金外壳 + 单晶硅太阳能板"
+        finish: "铝阳极氧化哑面"
+      mounting: "两端金属挂钩，可悬挂于帐篷横杆或树枝"
+      signature_detail: "顶部全长太阳能板与底部全长发光面形成上下对应结构，整体一体感强"
+    design_level:
+      score: 4
+      reason: "太阳能收集面与发光面同轴全长布局极为简洁，铝合金工艺感强，悬挂功能无需额外配件"
+    design_tags: ["条形灯", "太阳能集成", "铝合金", "悬挂灯", "营地灯", "全长发光面"]
+    hero_feature: "顶部全长太阳能板与底部全长条形发光面上下完全对应的一体化设计"
+    problem_solved: "营地夜间照明需要无需外接电源、可悬挂于任意位置的均匀泛光灯"
+    transferable_technique: "功能面与能源收集面同轴一体集成——消除外部连接件，产品自给自足，可迁移至户外工具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_light_002"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "白色折叠硅胶提灯，压扁状态，顶部圆形充电/控制区，侧面Goal Zero标识"
+    product_name: "Goal Zero Crush Light (White)"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外灯", "折叠灯"]
+    design_language:
+      silhouette: "折叠压扁后为扁平圆饼，充气/展开后为圆筒形提灯，顶部硬质圆形帽"
+      light_opening: "硅胶灯体全面漫射发光，360度均匀出光"
+      thermal: "硅胶体被动散热"
+      cmf:
+        color: "白色（硅胶灯体）+ 黑色（顶部ABS控制区）"
+        material: "柔性硅胶灯体 + ABS顶盖 + LED模组"
+        finish: "硅胶半透明磨砂"
+      mounting: "顶部集成提环，可悬挂"
+      signature_detail: "硅胶灯体可折叠压扁至极薄，收纳体积约为使用时1/10，展开无需充气依靠弹性恢复形状"
+    design_level:
+      score: 4
+      reason: "硅胶可压缩灯体在品类内创新性强，收纳极紧凑，全面漫射发光均匀，顶部设计简洁"
+    design_tags: ["折叠硅胶灯", "可压缩", "圆筒灯", "360度发光", "营地灯", "极致收纳"]
+    hero_feature: "柔性硅胶灯体可压缩至扁饼状，使用时弹性恢复圆筒形，无需充气"
+    problem_solved: "背包空间有限的徒步者需要可极限压缩收纳的照明设备"
+    transferable_technique: "弹性硅胶折叠体设计——利用材料弹性实现折叠态/使用态自动切换，无需机械展开机构"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_light_003"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "绿色折叠硅胶提灯，展开圆筒状态，顶部黑色控制区，侧面品牌标识可见"
+    product_name: "Goal Zero Crush Light (Green)"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外灯", "折叠灯"]
+    design_language:
+      silhouette: "与白色版完全相同的圆筒折叠结构，顶部黑色硬质帽"
+      light_opening: "硅胶灯体全面漫射发光，360度均匀出光"
+      thermal: "硅胶体被动散热"
+      cmf:
+        color: "绿色（硅胶灯体）+ 黑色（顶部ABS控制区）"
+        material: "柔性硅胶灯体 + ABS顶盖 + LED模组"
+        finish: "硅胶半透明磨砂"
+      mounting: "顶部集成提环，可悬挂"
+      signature_detail: "绿色硅胶配色与白色版形成家族色系选择，户外感更强"
+    design_level:
+      score: 3
+      reason: "与白色版共享设计语言，绿色配色增强户外调性，但无独立设计突破点，作为配色变体处理"
+    design_tags: ["折叠硅胶灯", "可压缩", "绿色配色", "360度发光", "营地灯", "家族色系"]
+    hero_feature: "绿色硅胶灯体折叠可压缩，与白色版形成配色家族"
+    problem_solved: "需要户外感更强配色的折叠营地灯用户"
+    transferable_technique: "同一折叠硅胶结构通过配色建立家族系列，满足不同审美偏好"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_light_004"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "小型圆柱体营地灯，顶部折叠提环，哑光黑主体，底部圆形漫射发光面"
+    product_name: "Goal Zero Lighthouse Micro Charge"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外灯", "营地灯"]
+    design_language:
+      silhouette: "短粗圆柱体，顶部集成折叠金属提环，整体比例接近正方体"
+      light_opening: "侧面全周漫射发光，底部反射补光"
+      thermal: "无明显散热结构，LED低热设计"
+      cmf:
+        color: "哑光黑（主体ABS）+ 银色（顶部提环金属）+ 荧光黄绿（底部橡胶垫/品牌标识）"
+        material: "ABS外壳 + 金属提环 + 橡胶底垫"
+        finish: "哑面磨砂"
+      mounting: "顶部折叠提环，可悬挂；平底可桌面直立"
+      signature_detail: "超紧凑圆柱体形态，折叠提环在使用时打开、收纳时贴平，USB充电集成于侧面"
+    design_level:
+      score: 3
+      reason: "极致小巧的圆柱形态在品类中辨识度高，折叠提环功能与收纳兼顾，荧光绿点缀符合品牌语言"
+    design_tags: ["圆柱灯", "折叠提环", "营地灯", "超紧凑", "USB充电", "荧光点缀"]
+    hero_feature: "短粗圆柱体配合折叠金属提环，既可悬挂又可桌面直立的双模式营地灯"
+    problem_solved: "超轻量徒步或应急包中需要体积最小的可靠营地照明"
+    transferable_technique: "折叠提环设计——提环折平时不增加体积，展开即具备悬挂功能，零成本附加功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_light_005"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "多个圆柱灯串联悬挂，白色发光体配黑色顶帽，磁吸串联接头清晰可见"
+    product_name: "Goal Zero Light-A-Life 350 (String Set)"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外灯", "串联营地灯"]
+    design_language:
+      silhouette: "多节圆柱体串联排列，每节顶部黑色帽含磁吸接头，整体呈灯串形态"
+      light_opening: "每节灯体侧面360度漫射发光，全乳白半透明发光柱"
+      thermal: "无明显散热结构"
+      cmf:
+        color: "乳白（发光硅胶/ABS灯体）+ 哑光黑（顶帽接头区）"
+        material: "半透明ABS或硅胶灯体 + ABS顶帽 + 磁吸接头"
+        finish: "半透明磨砂 + 哑面黑"
+      mounting: "顶部磁吸接头串联，可单独使用也可多节串联延伸"
+      signature_detail: "磁吸串联接头允许任意数量灯节拼接，单节可独立工作，顶部挂点串联灯串形成营地氛围灯"
+    design_level:
+      score: 5
+      reason: "磁吸串联模块化设计极具创新性，既是功能照明也是氛围营造工具，模块可拆分组合的设计逻辑清晰，是该品类设计标杆"
+    design_tags: ["串联模块", "磁吸接头", "营地灯", "模块化", "氛围灯", "可拼接"]
+    hero_feature: "磁吸串联接口允许任意节数拼接，单节独立/多节串联两种模式自由切换"
+    problem_solved: "营地需要根据空间大小灵活调整照明范围，固定长度灯串无法适配"
+    transferable_technique: "磁吸模块串联系统——标准化接口让产品可无限延伸，可迁移至任何需要灵活延伸的照明或工具产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

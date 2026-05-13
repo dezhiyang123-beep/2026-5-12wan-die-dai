@@ -1,0 +1,84 @@
+# 关卡审查模板（reviewer输出）
+# 符合 contracts/gate_review.schema.yaml
+
+project_id: "20260403-ACG-LIGHT"
+review_gate: "G3"
+review_date: "2026-04-03"
+reviewed_artifact: "artifacts/projects/20260403-ACG-LIGHT/05_g3_package.yaml"
+
+boss_7d_review:
+  - dimension: "使用场景"
+    boss_question: "你说场景是管道井接线，但管道井里的技工通常带几个工具？他怎么把这个灯带进去？夹持动作在狭小空间能完成吗？"
+    current_answer: "方案描述了管道井检修场景，但未说明空间尺寸约束下的操作可行性"
+    competitor_ref: "DEWALT DCL040在工地评论中被提到'空间不够时不好展开'，本方案夹臂展开需要至少80mm侧方空间"
+    weakness: "使用场景画面感不够具体，缺少空间约束下的操作验证"
+    risk_level: "非致命"
+
+  - dimension: "目标人群"
+    boss_question: "专业技工和重度DIY用户，在Amazon上买工具的决策逻辑完全不同。你的方案到底对哪类人更有说服力？为什么他们不买DEWALT的同类产品？"
+    current_answer: "两类用户都提到，未区分优先级"
+    competitor_ref: "DEWALT DCL040 Amazon评论90%来自'自称专业工人'，DIY用户倾向选更便宜的选项"
+    weakness: "用户画像不够精确，两类用户的购买决策逻辑未区分"
+    risk_level: "非致命"
+
+  - dimension: "差异化"
+    boss_question: "你说夹持力比NEBO强，但NEBO的差异化是四合一多用途，不是专门主打夹持。你的真正竞品应该是专业夹持灯，有没有搜过？"
+    current_answer: "对比了NEBO，但未搜索专业夹持工作灯"
+    competitor_ref: "Magnetic LED Clamp Light类目在Amazon有明确竞品，情报包未覆盖"
+    weakness: "竞品对比基准选择有问题，存在更直接的竞品未被发现"
+    risk_level: "致命"
+
+  - dimension: "制造可行性"
+    boss_question: "铰链耐久5000次，你们工厂做过类似精度的铰链吗？上次类似结构的良品率是多少？模具费估算了吗？"
+    current_answer: "铰链风险已标注，但工厂能力未评估"
+    competitor_ref: "UNKNOWN（情报包中无竞品铰链结构的技术分析）"
+    weakness: "DFM CONDITIONAL没有对应的工厂能力确认"
+    risk_level: "致命"
+
+  - dimension: "成本结构"
+    boss_question: "BOM $11-14，零售$30，毛利率怎么算？工厂给你的价格是含模具摊销的吗？"
+    current_answer: "BOM估算$11-14，在目标价格带内"
+    competitor_ref: "NEBO Slyde King $19.99，BOM估计$6-8[M]"
+    weakness: "BOM估算为[M]，未包含模具摊销，实际成本可能更高"
+    risk_level: "非致命"
+
+  - dimension: "市场规模"
+    boss_question: "管道井检修这个场景，美国有多少电工每年要买工作灯？有渠道数据吗？Home Depot这个品类的货架位有多宽？"
+    current_answer: "UNKNOWN"
+    competitor_ref: "UNKNOWN"
+    weakness: "市场规模完全未验证"
+    risk_level: "非致命"
+
+  - dimension: "客户买单"
+    boss_question: "ACG上次拒绝了什么类似方案？这个方案的夹持机构增加了$2-3 BOM，他们愿意让零售价从$25提高到$30吗？"
+    current_answer: "客户档案中无历史项目记录参考"
+    competitor_ref: "UNKNOWN（无ACG历史项目数据）"
+    weakness: "无法评估ACG对价格上移的接受度"
+    risk_level: "非致命"
+
+false_positive_check:
+  decision_core_real:
+    verdict: "真实"
+    reason: "夹持锁定确实是磁吸无法替代的功能，在非金属面场景差异化成立"
+  contradiction_solved:
+    verdict: "折中妥协"
+    reason: "TRIZ矛盾'固定可靠性vs安装速度'并未真正消解——夹持比磁吸确实更可靠，但操作步骤更多（需对齐夹入），只是在可接受范围内"
+  dfm_pass_real:
+    verdict: "形式PASS"
+    reason: "CONDITIONAL判定但未对应工厂铰链制造能力的实际评估，是纸面通过"
+
+fatal_issues:
+  - issue: "竞品对比基准错误——未搜索'magnetic clamp work light'类目的直接竞品"
+    dimension: "差异化"
+    fix_required: "补充G1情报：搜索Amazon clamp work light类目，更新竞品矩阵，重新评估差异化"
+  - issue: "DFM CONDITIONAL未对应工厂铰链制造能力评估"
+    dimension: "制造可行性"
+    fix_required: "联系工厂确认铰链制造能力，获取类似结构的良品率数据，或降低铰链设计复杂度"
+
+non_fatal_issues:
+  - "使用场景画面感不够具体，建议补充空间约束下的操作流程描述"
+  - "目标用户画像需区分专业技工vs DIY用户的优先级"
+  - "市场规模UNKNOWN，建议在PPT中用渠道数据补充"
+
+verdict: "不通过"
+verdict_reason: "存在2个致命问题：竞品对比基准不正确导致差异化论据不可靠，DFM判定为形式PASS。修复后重新审查。"

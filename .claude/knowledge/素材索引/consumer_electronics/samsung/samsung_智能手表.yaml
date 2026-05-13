@@ -1,0 +1,184 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "智能手表"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手表/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "samsung_watch_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手表/01.jpg"
+        image_role: "hero"
+        visual_anchor: "Galaxy Watch Ultra水下场景特写，圆形表盘+橙色细节点缀，蓝灰色硅胶表带"
+    product_name: "Samsung Galaxy Watch Ultra"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手表"]
+    design_language:
+      silhouette: "圆形表盘，表壳厚度明显高于普通手表（运动旗舰定位）；表耳与壳体一体成型感强"
+      light_opening: "圆形AMOLED屏，复杂表盘设计，外圈刻度环清晰可读"
+      thermal: "无可见散热结构"
+      cmf:
+        color: "深海蓝（Marine Blue）表壳，橙色秒针+刻度点缀，深蓝灰硅胶表带"
+        material: "Grade 4钛合金表壳，蓝宝石水晶表镜，氟橡胶表带"
+        finish: "表壳拉丝+局部抛光，表带哑光橡胶"
+      mounting: "20mm快拆表带，弹簧棒式"
+      signature_detail: "橙色秒针与刻度点作为运动功能色彩信号，钛合金表圈棱面切割强化立体感"
+    design_level:
+      score: 4
+      reason: "钛合金+蓝宝石+厚实表壳传递极强运动旗舰质感；橙色点缀作为功能色精准有力；水下场景强化防水卖点；整体设计语言有明确方向性"
+    design_tags: ["运动旗舰", "钛合金", "圆形表盘", "橙色功能色", "防水", "复杂表盘"]
+    hero_feature: "钛合金厚壳+橙色功能色点缀——在圆形智能手表上建立运动专业感的视觉语言"
+    problem_solved: "智能手表运动场景的高强度耐用性与精密仪器质感的统一"
+    transferable_technique: "功能色点缀策略——在深色主体上用单一高饱和度功能色（橙/红）标注关键操控点，可迁移至其他运动/户外穿戴设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_watch_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手表/02.jpg"
+        image_role: "hero"
+        visual_anchor: "Galaxy Watch8 Classic月相背景特写，黑色不锈钢旋转表圈，皮质表带"
+    product_name: "Samsung Galaxy Watch8 Classic"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手表"]
+    design_language:
+      silhouette: "圆形表盘，外圈带有经典旋转表圈（Rotating Bezel）；整体轮廓接近传统腕表比例"
+      light_opening: "圆形AMOLED屏，经典复杂表盘（月相+计时），刻度环与旋转圈双层边界"
+      thermal: "无可见散热结构"
+      cmf:
+        color: "哑光黑不锈钢表壳与旋转表圈，黑色皮质表带，橙色指针点缀"
+        material: "316L不锈钢表壳，蓝宝石水晶表镜，皮质表带"
+        finish: "表壳拉丝+表圈刻纹，皮带压纹"
+      mounting: "20mm标准表带接口，弹簧棒式"
+      signature_detail: "实体旋转表圈（Physical Rotating Bezel）——Samsung Galaxy Watch Classic系列标志性功能交互元素，刻度清晰可操作"
+    design_level:
+      score: 4
+      reason: "旋转表圈是Samsung智能手表中极具辨识度的设计语言；月相表盘+皮带+不锈钢表壳组合精准传递经典腕表美学；与Ultra形成清晰的系列差异化"
+    design_tags: ["经典腕表风", "旋转表圈", "不锈钢", "皮带", "月相表盘", "橙色指针"]
+    hero_feature: "实体旋转表圈——将机械腕表的操控语言移植至智能手表，兼具功能性与经典美学"
+    problem_solved: "智能手表触屏操控在户外/手套佩戴场景的可用性问题，旋转表圈提供实体交互备选"
+    transferable_technique: "实体旋转环交互——将机械旋转操控元素引入数字设备的「人机界面强化」手法（H12），可迁移至其他需要精细操控的穿戴/手持设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_watch_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手表/03.jpg"
+        image_role: "hero"
+        visual_anchor: "Galaxy Watch7三色展示（绿/奶油/银），圆形表盘，硅胶表带，运动表盘"
+    product_name: "Samsung Galaxy Watch7"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手表"]
+    design_language:
+      silhouette: "圆形表盘，无旋转表圈；表壳纤薄，轮廓比Watch Ultra/Classic更轻巧"
+      light_opening: "圆形AMOLED屏，运动风格表盘，数字大字体清晰易读"
+      thermal: "无可见散热结构"
+      cmf:
+        color: "三色方案：军绿（Green）/ 奶油（Cream）/ 银（Silver），配套同色硅胶表带"
+        material: "铝合金表壳，硅胶运动表带"
+        finish: "表壳哑光喷砂，表带哑光硅胶"
+      mounting: "20mm快拆表带，弹簧棒式"
+      signature_detail: "表带与表壳同色系同材质，整体感强；蓝/橙双色小细节点缀表带接口区域"
+    design_level:
+      score: 3
+      reason: "标准入门旗舰智能手表造型，设计语言克制；三色方案展示扩大覆盖人群；无突破性设计，但色彩策略精准，属Samsung大众线标准水准"
+    design_tags: ["运动风格", "铝合金", "多色方案", "轻巧", "日常通用", "同色系配套"]
+    hero_feature: "表壳与表带同色系搭配方案，降低用户搭配门槛，强化整体感"
+    problem_solved: "智能手表配色选择复杂性，同色系套装降低用户决策成本"
+    transferable_technique: "主体+附件同色系策略——硬件主体与软性附件颜色统一的配色逻辑，可迁移至其他带有可更换配件的穿戴/手持设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_watch_004"
+    source_images:
+      - filename: "05__01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手表/05__01.jpg"
+        image_role: "hero"
+        visual_anchor: "Galaxy Watch8斜侧近景，珍珠白表壳，圆形屏显示睡眠数据，柔和紫色渐变背景"
+    product_name: "Samsung Galaxy Watch8（健康监测场景）"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手表"]
+    design_language:
+      silhouette: "圆形表盘，无旋转表圈；侧面展示表冠按键与侧键；整体轮廓与Watch7同代"
+      light_opening: "圆形AMOLED屏，屏内显示Sleep Score健康数据UI，UI设计圆角卡片风格"
+      thermal: "无可见散热结构"
+      cmf:
+        color: "珍珠白（Pearl White）表壳，浅灰白色硅胶表带"
+        material: "铝合金表壳，硅胶表带"
+        finish: "表壳细腻哑光白，表带柔软哑光硅胶"
+      mounting: "20mm快拆表带"
+      signature_detail: "屏幕UI展示Sleep 92分数据卡片，强调健康AI功能属性；侧面按键布局对称清晰"
+    design_level:
+      score: 3
+      reason: "与Watch7为同代同轮廓设计，本张图片的核心价值在于展示健康监测UI与珍珠白配色；设计语言无新增突破，健康场景叙事明确"
+    design_tags: ["健康监测", "睡眠追踪", "珍珠白", "圆形表盘", "AI健康", "柔和配色"]
+    hero_feature: "屏幕UI将健康数据以「评分卡片」形式呈现，将复杂传感器数据简化为单一清晰数字"
+    problem_solved: "健康数据可读性问题，睡眠/心率等多维数据的简洁化显示"
+    transferable_technique: "数据评分卡片UI——将多维监测数据聚合为单一评分的信息架构，可迁移至其他健康监测穿戴设备的屏幕UI设计参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_watch_005"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手表/09.jpg"
+        image_role: "hero"
+        visual_anchor: "与05__01.jpg为同款Galaxy Watch8，相同角度相同背景，图片重复"
+    product_name: "Samsung Galaxy Watch8（重复素材）"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手表"]
+    design_language:
+      silhouette: "与samsung_watch_004完全相同"
+      light_opening: "圆形AMOLED屏，与samsung_watch_004相同"
+      thermal: "无"
+      cmf:
+        color: "与samsung_watch_004相同"
+        material: "与samsung_watch_004相同"
+        finish: "与samsung_watch_004相同"
+      mounting: "20mm快拆表带"
+      signature_detail: "与samsung_watch_004相同"
+    design_level:
+      score: 2
+      reason: "与samsung_watch_004（05__01.jpg）为同一张图片，无增量信息价值；建议替换为其他型号/颜色/角度"
+    design_tags: ["重复素材", "需替换"]
+    hero_feature: "同samsung_watch_004"
+    problem_solved: "同samsung_watch_004"
+    transferable_technique: "同samsung_watch_004"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "05__01.jpg与09.jpg为同一张图片，建议确认09.jpg是否应为其他型号/配色/角度素材"

@@ -1,0 +1,78 @@
+# g2_concepts.schema.yaml — G2关卡概念包（conceptor输出，G2用户决策输入，packager的输入）
+
+schema_version: "1.0"
+
+required:
+  project_id:
+    type: string
+  selected_direction_id:
+    type: string
+    description: 用户在G1选定的方向ID
+
+  persona_group:
+    type: list
+    description: 本次选用的4个人格及选择理由
+    item_fields:
+      name: string
+      thinking_type: string   # 减法/加法/仿生/系统/成本/体验/材料/破坏
+      label: string           # 严格/经验/直觉 + 保守/平衡/激进
+      selection_reason: string
+
+  triz_contradiction:
+    type: object
+    fields:
+      improve_param: string   # 改善参数
+      worsen_param: string    # 恶化参数
+      statement: string       # "要提升[X]，但会导致[Y]变差"
+      solution_directions:
+        type: list
+        description: 2个解法方向（结构/材料 vs 用户行为/模式）
+
+  concepts:
+    type: list
+    description: 3-5个概念卡，不超过5个
+    item_fields:
+      concept_id:
+        type: string
+        description: C-01 / C-02 等
+      driven_by:
+        type: string
+        description: 驱动人格名称或TRIZ解法方向
+      title:
+        type: string
+        description: 概念标题（10字以内）
+      core_concept:
+        type: string
+        description: 核心概念描述，≤100字
+      decision_core:
+        type: string
+        description: 这个概念的不可替代点——去掉这个点它就变成别的东西
+      counterfactual:
+        type: string
+        description: 如果不这样做，用户会怎样——反事实陈述
+      differentiator:
+        type: string
+        description: 和竞品矩阵中最接近竞品的真实差异（必须引用竞品名）
+      structure_path:
+        type: string
+        description: 核心实现方式，2句话，说清结构路径
+      bom_estimate:
+        type: string
+        description: BOM粗估，格式"$X-Y"，超目标价格带25%标"激进备选"
+      dfm_flag:
+        type: string
+        description: 最大制造风险，1句话
+      dfm_verdict:
+        type: string
+        enum: [PASS, FAIL, CONDITIONAL]
+        description: DFM初判
+
+  homogeneity_check:
+    type: string
+    description: 同质性检查结果——如果3+概念结构路径高度相似，记录在此并说明如何处理
+
+validation:
+  - concepts 数量3-5
+  - 每个concept必须有differentiator且引用竞品名
+  - bom_estimate不得为空，搜索失败估算时标[M]
+  - dfm_verdict只能是PASS/FAIL/CONDITIONAL

@@ -1,0 +1,219 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "路桩灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/路桩灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_路桩灯_001"
+    source_images:
+      - filename: "01__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/路桩灯/01__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "方形立柱+顶部折面三角形光口+矩形基座"
+    product_name: "RAB 方形立柱折面路桩灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "路桩灯"]
+    design_language:
+      silhouette: "高瘦方形立柱+矩形基座，纵向比例约6:1，极简石碑感"
+      light_opening: "顶部一侧折面三角形切口，光从斜切面向侧下方射出，隐藏光源"
+      thermal: "封闭方柱壳体，LED功率低，无需外露散热结构"
+      cmf:
+        color: "深灰（Graphite）"
+        material: "铸铝"
+        finish: "消光粉末涂层"
+      mounting: "矩形底板地面固定"
+      signature_detail: "顶部折面三角形切口——在极简方柱上制造戏剧性光影，形成强记忆点"
+    design_level:
+      score: 5
+      reason: "极度克制的方柱造型中，顶部三角折面切口的设计张力极强，光影戏剧性与造型简洁性完美平衡，具有高端商业景观产品的气质"
+    design_tags: ["方形立柱", "折面切口", "隐藏光源", "极简造型", "H07极简整合", "H09隐藏工程", "石碑感"]
+    hero_feature: "顶部折面三角切口——唯一的视觉破口，在极简方柱上创造出光的出口与戏剧感"
+    problem_solved: "景观路桩灯白天需要低调、夜晚需要有识别性，折面切口在不破坏整洁造型的前提下实现定向出光"
+    transferable_technique: "在极简几何体上用单一折面切口制造光口，兼顾白天造型干净与夜间光效识别，可迁移至庭院灯、标识柱等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_路桩灯_002"
+    source_images:
+      - filename: "03__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/路桩灯/03__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱立柱+纵向通缝发光槽+圆形底座"
+    product_name: "RAB 圆柱通缝路桩灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "路桩灯"]
+    design_language:
+      silhouette: "细长圆柱+圆形底盘，纵向比例约8:1，轻盈柱感"
+      light_opening: "圆柱侧面纵向通长细缝，线状光从缝隙中透出，光源完全隐藏"
+      thermal: "封闭圆柱壳体，低功率LED，无需外露散热"
+      cmf:
+        color: "深灰（Graphite）"
+        material: "铝合金挤出型材"
+        finish: "消光粉末涂层"
+      mounting: "圆形底盘地面固定"
+      signature_detail: "侧面纵向通长发光细缝——线光源贯穿全高，强调竖向延伸感"
+    design_level:
+      score: 4
+      reason: "纵向线缝发光手法简洁有力，圆柱与线缝的几何对比产生优雅张力，比例控制好，但整体手法在路桩灯品类中已较普遍"
+    design_tags: ["圆柱立柱", "线缝发光", "隐藏光源", "纵向节奏", "H09隐藏工程", "极简"]
+    hero_feature: "纵向通长发光细缝——将光源隐入柱体，白天是线条，夜晚是光刃"
+    problem_solved: "路桩灯白天需融入景观不显突兀，纵向细缝白天几乎不可见，夜间形成强导向性线光"
+    transferable_technique: "将发光元件藏入纵向细缝的手法，可迁移至柱形标识、扶手灯、台阶侧面导向灯等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_路桩灯_003"
+    source_images:
+      - filename: "05__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/路桩灯/05__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "方形立柱+顶部横向出光扁板+方形底座"
+    product_name: "RAB 方形立柱顶灯路桩灯（横向出光款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "路桩灯"]
+    design_language:
+      silhouette: "方形中高立柱+顶部水平出光扁板，整体呈「T」形或倒「L」形侧影"
+      light_opening: "顶部横向全宽扁平出光面，磨砂漫射板向下均匀照射"
+      thermal: "封闭方柱+顶部扁壳，低功率，无显露散热结构"
+      cmf:
+        color: "深灰（Graphite）"
+        material: "铸铝+铝型材"
+        finish: "消光粉末涂层"
+      mounting: "方形底板地面固定"
+      signature_detail: "顶部横向扁平出光板——光向正下方漫射，照路面而不照行人眼睛，防眩光设计"
+    design_level:
+      score: 3
+      reason: "T形结构功能明确，防眩光逻辑清晰，但造型较中规中矩，无突出记忆点，属于标准商业景观路桩语言"
+    design_tags: ["方形立柱", "顶部出光", "横向漫射", "防眩光", "T形轮廓"]
+    hero_feature: "顶部全宽横向漫射板——将光压在地面层，路桩灯不刺眼的核心结构逻辑"
+    problem_solved: "路桩灯高度与行人视线接近，顶部向下漫射结构从根本上消除眩光困扰"
+    transferable_technique: "顶部出光板+向下漫射的结构逻辑，可迁移至户外矮柱灯、桌面灯、台阶立面灯等需要防眩光的场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_路桩灯_004"
+    source_images:
+      - filename: "09__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/路桩灯/09__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱立柱+顶部内嵌光源+透明侧壁光柱效果"
+    product_name: "RAB 圆柱透光路桩灯（侧透光款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "路桩灯"]
+    design_language:
+      silhouette: "细长圆柱+平顶，纵向比例约9:1，极简柱感"
+      light_opening: "顶部内嵌，光通过透明或半透明圆柱侧壁向周围漫射，整柱发光效果"
+      thermal: "封闭圆柱，低功率LED，无外露散热"
+      cmf:
+        color: "黑色+透明侧壁"
+        material: "铝合金+PC透明管"
+        finish: "消光涂层+透明"
+      mounting: "圆形底盘地面固定"
+      signature_detail: "透明圆柱侧壁+内部光源——整柱体成为发光体，360°全向均匀发光"
+    design_level:
+      score: 3
+      reason: "整柱发光概念清晰，但侧面视觉较平淡，光效均匀性强但缺乏焦点，整体设计语言偏基础"
+    design_tags: ["圆柱立柱", "侧透光", "360度发光", "PC透明管", "均匀漫射"]
+    hero_feature: "透明圆柱侧壁全周发光——路桩本身成为光源体，360°标识性强"
+    problem_solved: "路桩灯需要全方向可见，透明柱侧壁确保从任何角度都能看到发光标识"
+    transferable_technique: "透明管包裹内置光源的结构，可迁移至护栏灯、标识柱、安全警示柱等需要360°可见的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_路桩灯_005"
+    source_images:
+      - filename: "12__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/路桩灯/12__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "蘑菇帽顶+喇叭形颈部+细杆+尖头插地"
+    product_name: "RAB 蘑菇帽景观路径灯（插地款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "路桩灯"]
+    design_language:
+      silhouette: "大帽沿蘑菇顶+收腰喇叭颈+细杆+尖头插地，侧面呈流畅喇叭+蘑菇伞复合曲线"
+      light_opening: "帽沿下方环形出光，白色漫射环带向下漫射"
+      thermal: "帽顶封闭铸铝，低功率，无需散热结构"
+      cmf:
+        color: "深铜棕（Bronze）"
+        material: "铸铝+不锈钢杆"
+        finish: "消光粉末涂层"
+      mounting: "尖杆插地，适合草坪直接安装"
+      signature_detail: "大帽沿蘑菇造型+收腰喇叭颈——有机曲线语言，园林气质强"
+    design_level:
+      score: 3
+      reason: "蘑菇帽形态经典耐看，曲线过渡流畅，但属于路径灯品类常见造型范式，原创性一般"
+    design_tags: ["蘑菇帽", "插地安装", "路径灯", "有机曲线", "园林风格", "帽沿出光"]
+    hero_feature: "收腰喇叭颈+大帽沿——有机曲线组合形成标志性路径灯剪影"
+    problem_solved: "草坪路径需要低位柔和照明，蘑菇帽插地灯安装无需开孔，帽沿防雨遮光"
+    transferable_technique: "收腰喇叭颈的曲线过渡方式，可迁移至其他有机风格户外灯具或景观家具脚部设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_路桩灯_006"
+    source_images:
+      - filename: "13__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/路桩灯/13__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱立柱+圆顶帽+腰部横向发光环带"
+    product_name: "RAB 圆柱腰环发光路桩灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "路桩灯"]
+    design_language:
+      silhouette: "粗圆柱+圆顶帽盖，整体呈饱满短柱形，稳重感强"
+      light_opening: "腰部横向环形发光带，漫射光向侧面及斜下方发散"
+      thermal: "封闭圆柱厚壁铸铝，无外露散热"
+      cmf:
+        color: "哑光黑"
+        material: "铸铝"
+        finish: "消光粉末涂层"
+      mounting: "底部地面螺栓固定"
+      signature_detail: "腰部水平环形发光带——将发光区集中于中腰，形成「腰灯」视觉焦点"
+    design_level:
+      score: 4
+      reason: "腰部环形发光带的位置选择独特，打破了顶部或全身发光的惯例，圆柱饱满比例配合腰环有雕塑感，记忆点清晰"
+    design_tags: ["圆柱立柱", "腰部环带发光", "圆顶帽", "地面固定", "雕塑感", "H08对比强调"]
+    hero_feature: "腰部横向环形发光带——将发光位置下移至中腰，反常规的光效焦点创造独特辨识度"
+    problem_solved: "标准顶部出光路桩灯夜间标识性弱，腰部环带出光增强侧面可见度，提升路径安全性"
+    transferable_technique: "将发光带从顶部移至腰部的设计决策逻辑，可迁移至任何柱形产品的光效差异化设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

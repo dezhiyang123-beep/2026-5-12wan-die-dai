@@ -1,0 +1,675 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "园林工具"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/"
+  generated_at: "2026-05-08"
+  note: "文件夹内含4类产品混合：绿篱机(01-11)、割草机(户外电动__割草机__)、吹叶机(户外电动__吹叶机__)、高枝锯(电锯__高枝锯__)"
+
+products:
+  - product_id: "dewalt_园林工具_001"
+    source_images:
+      - filename: "园林工具__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/园林工具__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX紧凑型绿篱机裸机，黄色枪形机身+黑色顶盖，短黄色双刃（约40cm），前端黑色翼形安全防护片"
+      - filename: "园林工具__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/园林工具__05.jpg"
+        image_role: "hero"
+        visual_anchor: "同款安装20V MAX电池版，配件完整，刃体前端黑色翼片清晰"
+    product_name: "DeWalt 20V MAX Cordless Hedge Trimmer (Compact)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "无绳绿篱机"
+    design_language:
+      silhouette: "枪形紧凑机身，刃体长度约为机身长度的1.5倍，前端黑色蝴蝶翼形安全护板是视觉重音，整体轻盈"
+      light_opening: "N/A（园林工具）"
+      thermal: "电机仓两侧散热槽"
+      cmf:
+        color: "黄色（机身）+ 黑色（顶盖/安全护板/握把）+ 银色（双刃刀片）"
+        material: "工程塑料机身，钢质双刃"
+        finish: "哑光黄注塑，黑色哑光顶盖"
+      mounting: "20V MAX电池后部插入；双手操作设计，安全护板保护双手"
+      signature_detail: "前端蝴蝶翼形黑色安全护板在黄色机身前端构成视觉焦点，功能与美学统一"
+    design_level:
+      score: 3
+      reason: "黄黑配色统一，蝴蝶翼安全护板形态具有识别性，整体设计成熟实用，无突破"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "绿篱机"
+      - "紧凑型"
+      - "蝴蝶翼护板"
+      - "H03_分件线设计"
+    hero_feature: "前端黑色蝴蝶翼形安全护板与黄色机身的颜色对比，功能件成为造型亮点"
+    problem_solved: "轻量单手操作修剪低矮绿篱，蝴蝶翼防止双手接触刃面"
+    transferable_technique: "安全防护件造型化：功能件（安全护板）设计成蝴蝶翼形，在产品中产生视觉张力"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_002"
+    source_images:
+      - filename: "园林工具__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/园林工具__02.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX标准绿篱机，黑色顶盖更长，黄色刃体约55cm，机身侧面电量LED指示灯"
+      - filename: "园林工具__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/园林工具__10.jpg"
+        image_role: "hero"
+        visual_anchor: "同系列+20V MAX电池，前视角，安全护板和刃体比例清晰"
+    product_name: "DeWalt 20V MAX Cordless Hedge Trimmer (Standard)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "无绳绿篱机"
+    design_language:
+      silhouette: "比001更长机身，刃体长度约55cm，黑色顶盖延伸更长，机身重心后移"
+      light_opening: "N/A（园林工具）"
+      thermal: "电机仓两侧散热格栅"
+      cmf:
+        color: "黄色（机身）+ 黑色（顶盖/护板）+ 银色（刃体）"
+        material: "工程塑料，钢质双刃"
+        finish: "哑光黄注塑"
+      mounting: "20V MAX电池后部插入"
+      signature_detail: "侧面LED电量指示灯在作业中方便电量监控"
+    design_level:
+      score: 3
+      reason: "标准款在001基础上延长刃体，整体设计语言相同，无额外突破"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "绿篱机"
+      - "标准型"
+    hero_feature: "黄色机身+银色长刃的强烈比例对比，刃体长度信号化功率级别"
+    problem_solved: "标准家庭绿篱修剪，更长刃体提高单次修剪宽度效率"
+    transferable_technique: "刃体长度作为功率感知信号（刃越长=等级越高的语义）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_003"
+    source_images:
+      - filename: "园林工具__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/园林工具__03.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR长刃绿篱机+电池，刃体超长约60cm且刃面印DeWalt字样，D形提手更大，三条黄色散热格栅条"
+      - filename: "园林工具__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/园林工具__06.jpg"
+        image_role: "hero"
+        visual_anchor: "同款裸机侧视，刃体DeWalt字样清晰，机身黑色顶盖圆润更流畅"
+    product_name: "DeWalt 20V MAX XR Cordless Hedge Trimmer (Long Blade)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "无绳绿篱机"
+    design_language:
+      silhouette: "超长刃体（约60cm），刃体与机身长度比超过2:1，整体极度水平延伸感"
+      light_opening: "N/A（园林工具）"
+      thermal: "机身腰部三条黄色散热格栅线条"
+      cmf:
+        color: "黄色（机身/刃体涂装）+ 黑色（顶盖/护板）"
+        material: "工程塑料，镀黄色涂层钢质双刃"
+        finish: "哑光黄注塑，刃体黄色涂装+黑字"
+      mounting: "20V MAX XR电池后部插入"
+      signature_detail: "刃体本身涂装为黄色并印DeWalt字样，将品牌延伸到工作头部——在所有绿篱机型中唯此款"
+    design_level:
+      score: 4
+      reason: "黄色刃体是DeWalt绿篱机系列的顶级特征，刃体品牌化处理在品类中有独特性，极长比例有强视觉冲击"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "XR系列"
+      - "超长刃"
+      - "黄色刃体"
+      - "品牌刃面"
+      - "H08_对比强调"
+    hero_feature: "黄色涂装刃体+DeWalt印字——品牌色延伸到工具工作端，刃体即品牌展示面"
+    problem_solved: "高灌木和大面积绿篱修剪，超长刃体减少重复修剪次数"
+    transferable_technique: "工作刃面品牌色化：功能部件（刃体）涂装品牌色，视觉上统一工具全身颜色系统（H08对比强调反向：不是对比而是统一）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_004"
+    source_images:
+      - filename: "园林工具__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/园林工具__04.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX长杆高枝绿篱机裸机，黄色手枪把手+黑色1.5m长杆+顶端黄色机头+黄色长刃，极纤细整体"
+      - filename: "园林工具__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/园林工具__09.jpg"
+        image_role: "hero"
+        visual_anchor: "同款+电池完整版，整体比例和黄黑配色更完整"
+    product_name: "DeWalt 20V MAX Cordless Pole Hedge Trimmer"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "无绳长杆绿篱机"
+    design_language:
+      silhouette: "总长约1.5m的极纤细杆形，两端是黄色机头和手枪把，中间黑色杆，整体呈斜向针形轮廓"
+      light_opening: "N/A（园林工具）"
+      thermal: "机头内部散热（外部不可见）"
+      cmf:
+        color: "黄色（两端机头/把手）+ 黑色（中杆/刃面护板）+ 银色（铝伸缩杆）"
+        material: "铝质伸缩杆，工程塑料两端"
+        finish: "哑光黄，铝杆自然色"
+      mounting: "20V MAX电池在手把底部插入；机头角度可调"
+      signature_detail: "两端黄色机头+把手，中间黑色/银色杆，极纤细杆比例，站立使用时视觉纤长"
+    design_level:
+      score: 3
+      reason: "长杆绿篱机的品类标准形态，黄黑两端+银色杆的设计合理，但同类品牌产品设计雷同"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "长杆"
+      - "高枝"
+      - "绿篱机"
+    hero_feature: "极纤细长杆从一端手把延伸到远端切割头，整体比例在使用中产生轻盈感"
+    problem_solved: "无需梯子修剪高处（1.8-2.5m）绿篱，可调角度覆盖顶面"
+    transferable_technique: "两端功能件颜色统一（黄色）强调产品整体系统感，中间连接件颜色不同（黑色/银色）做视觉分节"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_005"
+    source_images:
+      - filename: "园林工具__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/园林工具__07.jpg"
+        image_role: "hero"
+        visual_anchor: "FLEXVOLT 54V绿篱机+FLEXVOLT电池，黑色圆弧D形大提手，黄色刃体，无安全护板翼片但有前端黑色盾形护板"
+      - filename: "园林工具__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/园林工具__08.jpg"
+        image_role: "hero"
+        visual_anchor: "同款裸机，黑色D形大提手更显眼，机身更圆润流线，前端盾形护板"
+    product_name: "DeWalt FLEXVOLT 54V Cordless Hedge Trimmer"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "无绳绿篱机"
+    design_language:
+      silhouette: "更圆润的机身顶部曲线，黑色D形大提手几乎与机身等高，前端圆形盾形护板替代蝴蝶翼"
+      light_opening: "N/A（园林工具）"
+      thermal: "机身两侧散热格栅"
+      cmf:
+        color: "黄色（机身主体）+ 黑色（提手/顶盖/护板）"
+        material: "工程塑料，钢质刃体"
+        finish: "哑光黄，哑光黑"
+      mounting: "FLEXVOLT 54V/60V MAX电池后部插入"
+      signature_detail: "超大黑色D形提手几乎半包围机身顶部，提手体量是整个机身视觉中心"
+    design_level:
+      score: 3
+      reason: "更大D形提手带来更强专业感，整体设计在品系内成熟一致，FLEXVOLT定位清晰"
+    design_tags:
+      - "无绳"
+      - "FLEXVOLT"
+      - "54V"
+      - "大D形提手"
+      - "绿篱机"
+    hero_feature: "超大黑色D形提手半包围黄色机身——提手体量远超常规，形成强烈视觉重量"
+    problem_solved: "专业大面积绿篱修剪，FLEXVOLT高电压支持更长时间连续作业"
+    transferable_technique: "放大功能握持件（提手）至视觉统治地位，用体量传达专业/高功率定位"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_006"
+    source_images:
+      - filename: "园林工具__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/园林工具__11.jpg"
+        image_role: "hero"
+        visual_anchor: "气油多功能杆机主机（上）+绿篱刀附件（下），产品分体展示，主机黄色发动机+灰色杆+黑色T把"
+      - filename: "电锯__高枝锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/电锯__高枝锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "同款主机+高枝锯附件，锯头在长杆末端，主机在上部"
+    product_name: "DeWalt Gas Multi-Tool System (Hedge Trimmer / Pole Saw Attachments)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "气油多功能杆机"
+    design_language:
+      silhouette: "分体式：黄色气油主机在上（小型发动机+油箱一体），灰色伸缩杆在中，各种附件头在下/前"
+      light_opening: "N/A（园林工具）"
+      thermal: "发动机散热鳍片外露，气冷自然对流"
+      cmf:
+        color: "黄色（发动机/手把）+ 灰色（杆）+ 黑色（附件头/T型辅把）"
+        material: "铝合金杆，工程塑料外壳，钢质附件刃"
+        finish: "哑光黄，铝杆本色"
+      mounting: "附件通过卡扣连接至传动轴，可快换不同功能头"
+      signature_detail: "同一主机配绿篱刀/锯头/割草头等多种附件，一机多用的模块化系统"
+    design_level:
+      score: 3
+      reason: "模块化系统理念有价值，但气油主机体积显眼，整体设计较传统，与无绳款相比无美学优势"
+    design_tags:
+      - "气油"
+      - "多功能"
+      - "模块化"
+      - "可换头"
+      - "H05_模块化设计"
+    hero_feature: "一个主机驱动多个功能附件头的模块化平台设计"
+    problem_solved: "专业园丁/承包商需要多种功能但不想携带多台机器，一机多头降低成本"
+    transferable_technique: "动力主机与功能执行件分离的模块化系统（H05），标准化快换接口"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_007"
+    source_images:
+      - filename: "户外电动__割草机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__割草机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "60V MAX FLEXVOLT无绳割草机，黄色轮毂+黑色甲板+黄色把手连接件，前端电机盒黄色，集草袋背面DeWalt大字"
+    product_name: "DeWalt 60V MAX Brushless Cordless Lawn Mower"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "无绳割草机"
+    design_language:
+      silhouette: "标准推进式割草机形态，低矮黑色甲板，四个黄色轮毂+黑色橡胶轮胎是视觉焦点，银色铝把手，集草袋占后部"
+      light_opening: "N/A（园林工具）"
+      thermal: "电机盒顶部格栅散热"
+      cmf:
+        color: "黑色（甲板/集草袋）+ 黄色（轮毂/把手连接件/电机盒）+ 银色（铝把手杆）"
+        material: "钢质甲板，工程塑料集草袋，铝合金把手"
+        finish: "黑色哑光甲板，黄色注塑轮毂"
+      mounting: "60V MAX FLEXVOLT电池前部插入；4轮推进"
+      signature_detail: "鲜黄色轮毂在全黑甲板背景下极其醒目，是该款割草机的首要视觉特征"
+    design_level:
+      score: 4
+      reason: "黄色轮毂在全黑甲板上形成强烈对比，无绳电动割草机整洁度远超汽油款，整体设计比汽油款更精炼"
+    design_tags:
+      - "无绳"
+      - "60V MAX"
+      - "FLEXVOLT"
+      - "割草机"
+      - "黄色轮毂"
+      - "H08_对比强调"
+    hero_feature: "黄色轮毂在黑色甲板衬托下——四点强调让全黑机体获得品牌识别锚点"
+    problem_solved: "无绳割草免除油污和尾气，适合住宅/商业场所，60V支持中大面积草坪"
+    transferable_technique: "轮毂品牌色化：功能滚动件涂装品牌色（黄色轮毂），在使用中产生动态品牌展示"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_008"
+    source_images:
+      - filename: "户外电动__割草机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__割草机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "2×20V MAX无绳割草机，黑色甲板+黄色底部，灰色轮毂，把手顶部有黄色细安全杆"
+      - filename: "户外电动__割草机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__割草机__03.jpg"
+        image_role: "hero"
+        visual_anchor: "同款不同角度，黄色底部更突出，灰色轮毂明显"
+    product_name: "DeWalt 2×20V MAX Brushless Cordless Lawn Mower"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "无绳割草机"
+    design_language:
+      silhouette: "标准推进式，甲板黑色为主，底部边缘露出黄色，灰色轮毂低调，银色把手，整体比60V款更紧凑"
+      light_opening: "N/A（园林工具）"
+      thermal: "电机盒顶部排气"
+      cmf:
+        color: "黑色（甲板主体）+ 黄色（底部收边/电机盒）+ 灰色（轮毂）"
+        material: "钢质甲板，塑料集草袋"
+        finish: "黑色哑光，黄色注塑"
+      mounting: "2×20V MAX双电池（前端）；4轮推进"
+      signature_detail: "甲板底部黄色收边在使用中（从正面看）形成一条黄色地线，强化品牌标识"
+    design_level:
+      score: 3
+      reason: "入门级无绳割草机，灰色轮毂比60V款的黄色轮毂识别性弱，整体设计实用够用"
+    design_tags:
+      - "无绳"
+      - "2×20V MAX"
+      - "割草机"
+      - "双电池"
+    hero_feature: "双电池前端横置布局，视觉强调双倍电量感知"
+    problem_solved: "中等面积草坪割草，双20V组合提供足够功率，成本低于60V款"
+    transferable_technique: "甲板底部黄色收边：从正面看整个机器底部有一条品牌色线，低成本强化品牌"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_009"
+    source_images:
+      - filename: "户外电动__割草机__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__割草机__04.jpg"
+        image_role: "hero"
+        visual_anchor: "DeWalt气油RWD后驱割草机正面，黄色发动机罩+黑色甲板，RWD字样，把手顶端灰色控制器"
+      - filename: "户外电动__割草机__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__割草机__05.jpg"
+        image_role: "hero"
+        visual_anchor: "同款斜前视角，黄色发动机罩更显眼，RWD标识在甲板前部"
+      - filename: "户外电动__割草机__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__割草机__07.jpg"
+        image_role: "hero"
+        visual_anchor: "同款大侧视角，黑色集草袋占后半，DeWalt RWD标识可见"
+    product_name: "DeWalt Gas RWD Self-Propelled Lawn Mower"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "汽油割草机"
+    design_language:
+      silhouette: "标准推进式气油割草机，黄色引擎罩居中突出，黑色甲板+集草袋，黑色把手+RWD控制器"
+      light_opening: "N/A（园林工具）"
+      thermal: "引擎罩顶部散热格栅（细横缝），气冷发动机自然散热"
+      cmf:
+        color: "黄色（引擎罩）+ 黑色（甲板/集草袋/把手）+ 灰色（轮毂）"
+        material: "钢质甲板，铸铝引擎罩，工程塑料集草袋"
+        finish: "黄色喷涂引擎罩，黑色甲板"
+      mounting: "RWD后轮驱动自走；拖曳绳启动；草袋后挂"
+      signature_detail: "黄色引擎罩顶部圆形突出，中心有油箱盖，与黑色甲板形成功率中心视觉焦点"
+    design_level:
+      score: 3
+      reason: "汽油款的黄色引擎罩设计是品牌标识，整体设计成熟，但汽油款相比无绳款视觉整洁度低"
+    design_tags:
+      - "汽油"
+      - "RWD后驱"
+      - "自走式"
+      - "割草机"
+    hero_feature: "黄色发动机罩居中突出——在黑色甲板上形成动力核心的视觉焦点"
+    problem_solved: "大面积草坪持续割草，不受电量限制，RWD后驱适应坡地"
+    transferable_technique: "动力核心（引擎罩）品牌色突出，将功率感知视觉化为色彩焦点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_010"
+    source_images:
+      - filename: "户外电动__割草机__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__割草机__08.jpg"
+        image_role: "hero"
+        visual_anchor: "DeWalt HW48商用站立式Walk-Behind割草机，全黄色机体，48英寸宽幅甲板，银色铝散热格栅，大型充气轮胎"
+    product_name: "DeWalt HW48 Commercial Walk-Behind Mower"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "商用割草机"
+    design_language:
+      silhouette: "宽幅低矮甲板（48英寸），机体后部高起的黄色引擎舱，前端两个小脚轮+后端两个大充气轮，整体近似工程车辆"
+      light_opening: "N/A（园林工具）"
+      thermal: "发动机银色铝质散热格栅板（矩形排列，带热警告标识），外显于机体中部"
+      cmf:
+        color: "黄色（机体全身）+ 黑色（把手/部分结构件）+ 银色（铝散热板）"
+        material: "钢质甲板，铝合金散热格栅，充气橡胶轮胎"
+        finish: "全黄色喷涂，铝散热格栅本色"
+      mounting: "四轮，前置小脚轮+后置大驱动轮；站立跟随操作"
+      signature_detail: "银色铝质散热格栅板居机体正中，带热源警告标识，外显散热是核心工业美感"
+    design_level:
+      score: 4
+      reason: "全黄色商用机器体量感强，铝制散热格栅外显工业感突出，HW48的比例和体量在割草机品类中有强烈存在感"
+    design_tags:
+      - "商用"
+      - "汽油"
+      - "Walk-Behind"
+      - "48英寸"
+      - "全黄色"
+      - "外显散热"
+      - "H11_功能外显"
+    hero_feature: "银色铝质散热格栅居中外显——大型商用割草机把散热结构作为设计核心，工业直白"
+    problem_solved: "大面积商业草坪高效割草，宽幅甲板减少通道数，站立操作减少疲劳"
+    transferable_technique: "散热格栅作为工业美学核心视觉元素（H11功能外显），不隐藏而主动展示"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_011"
+    source_images:
+      - filename: "户外电动__吹叶机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__吹叶机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR无绳吹叶机裸机，黑色锥形长管从黄色圆形涡轮前端伸出，XR BRUSHLESS字样印在黑管上"
+      - filename: "户外电动__吹叶机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__吹叶机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "同款+20V MAX电池版，电池安装在涡轮机身侧后"
+    product_name: "DeWalt 20V MAX XR Brushless Blower (Axial)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "无绳吹叶机"
+    design_language:
+      silhouette: "枪形手持，黄色圆形涡轮体为主体，黑色锥形喷管从前端水平伸出，整体流线"
+      light_opening: "N/A（园林工具）"
+      thermal: "涡轮机身侧面散热缝"
+      cmf:
+        color: "黄色（涡轮机身）+ 黑色（喷管）"
+        material: "工程塑料"
+        finish: "哑光黄，哑光黑管"
+      mounting: "20V MAX XR电池后部侧插"
+      signature_detail: "黑色喷管上的XR BRUSHLESS压纹字样，强化无刷高端系列识别"
+    design_level:
+      score: 3
+      reason: "轴流吹风机的标准形态，黄黑配色一致，黑管上品牌字是差异化细节，整体无突破"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "XR系列"
+      - "吹叶机"
+      - "轴流"
+    hero_feature: "黄色涡轮机身与黑色锥形喷管的颜色截断，一眼区分动力区和气流区"
+    problem_solved: "无绳清扫落叶/碎屑，适合家庭/小型场所"
+    transferable_technique: "动力圆体+直管喷口的两色截断设计，标准轴流吹叶机的品类语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_012"
+    source_images:
+      - filename: "户外电动__吹叶机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__吹叶机__03.jpg"
+        image_role: "hero"
+        visual_anchor: "60V MAX FLEXVOLT背负式吹叶机，黑色背架+灰色网格背垫+黄色机体，左手黄色枪形握把，黑色喷管"
+      - filename: "户外电动__吹叶机__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__吹叶机__11.jpg"
+        image_role: "hero"
+        visual_anchor: "同款15Ah FLEXVOLT电池版，背架整体侧视，灰网背垫更清晰"
+      - filename: "户外电动__吹叶机__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__吹叶机__14.jpg"
+        image_role: "hero"
+        visual_anchor: "同款裸机背面，黑色框架+灰网背垫整体展示"
+    product_name: "DeWalt 60V MAX FLEXVOLT Brushless Backpack Blower"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "无绳背负式吹叶机"
+    design_language:
+      silhouette: "背包形态，黄色圆形涡轮机体+黑色矩形框架+灰色网格背垫，左手黄色握把，整体像工业背包"
+      light_opening: "N/A（园林工具）"
+      thermal: "背负电机后部进气，内部对流"
+      cmf:
+        color: "黑色（框架/喷管）+ 黄色（机体/握把连接件）+ 灰色（背垫网布）"
+        material: "工程塑料机体，钢质框架，透气网格背垫"
+        finish: "哑光黑框架，黄色注塑"
+      mounting: "FLEXVOLT 60V MAX电池侧面插入机体；背带肩负"
+      signature_detail: "左手黄色枪形遥控握把通过软管连接到机体，操作手从背负位置控制风速"
+    design_level:
+      score: 4
+      reason: "背负形态解放双手持握把，软管连接的双手分离操作方式是设计亮点，灰黑黄三色背包视觉专业感强"
+    design_tags:
+      - "无绳"
+      - "60V MAX"
+      - "FLEXVOLT"
+      - "背负式"
+      - "吹叶机"
+      - "H05_模块化设计"
+    hero_feature: "背负+左手遥控握把的分体操控方式，机器背上、手持握把在前的人机工学设计"
+    problem_solved: "专业大面积落叶清扫，背负减少疲劳，60V大功率长时间作业"
+    transferable_technique: "主机背负+遥控握把分离的双件操作系统（H05模块化），解放主手自由度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_013"
+    source_images:
+      - filename: "户外电动__吹叶机__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__吹叶机__07.jpg"
+        image_role: "hero"
+        visual_anchor: "60V MAX手持吹叶机（侧流型），全黄色大圆盘涡轮+侧视正面圆形进气格栅，灰色直喷管，正面视角突出进气圆网"
+      - filename: "户外电动__吹叶机__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__吹叶机__08.jpg"
+        image_role: "hero"
+        visual_anchor: "同款裸机，圆形进气格栅正面特写，放射状网格纹理在黄色大盘上"
+    product_name: "DeWalt 60V MAX Brushless Handheld Blower (Centrifugal)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "无绳吹叶机"
+    design_language:
+      silhouette: "大圆盘形涡轮机体+侧面出气转弯接灰色直喷管，正面是大圆形进气格栅，整体像工业风扇截面"
+      light_opening: "N/A（园林工具）"
+      thermal: "正面大圆形进气格栅即工作进气口"
+      cmf:
+        color: "黄色（大圆盘机体）+ 灰色（直喷管）+ 黑色（格栅/把手）"
+        material: "工程塑料"
+        finish: "哑光黄，灰色管"
+      mounting: "60V MAX FLEXVOLT电池左侧插入；手持握把在上方"
+      signature_detail: "正面大圆形进气格栅的放射状纹理在黄色圆盘上形成强烈视觉中心，类似轮毂设计"
+    design_level:
+      score: 4
+      reason: "侧流型风机的圆盘形态在品类中有高辨识度，正面进气圆格栅纹理是设计亮点，黄色圆盘尺寸决定功率感知"
+    design_tags:
+      - "无绳"
+      - "60V MAX"
+      - "吹叶机"
+      - "侧流型"
+      - "圆盘形态"
+      - "H04_参数化渐变"
+    hero_feature: "正面大圆形进气格栅放射纹理——吸气面即产品正脸，把功能面做成品牌视觉"
+    problem_solved: "高风速落叶清扫，侧流型风机可获得更高风压，适合湿叶/堆积物"
+    transferable_technique: "进气面正脸化：把工作进气口放在产品正面，功能即颜值（H04参数化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_园林工具_014"
+    source_images:
+      - filename: "户外电动__吹叶机__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__吹叶机__15.jpg"
+        image_role: "hero"
+        visual_anchor: "20V XR大型吹叶机裸机，灰色十字放射进气格栅在黄色机身侧后，黑色喷管"
+      - filename: "户外电动__吹叶机__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/园林工具/户外电动__吹叶机__16.jpg"
+        image_role: "hero"
+        visual_anchor: "同款+5Ah电池+充电器套装，机身更完整"
+    product_name: "DeWalt 20V MAX XR Brushless Blower (Large, with side intake)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "园林工具"
+      - "无绳吹叶机"
+    design_language:
+      silhouette: "比20V轴流款更大机体，侧面有灰色十字放射形进气格栅，黑色喷管向前伸出，枪形握把在顶部"
+      light_opening: "N/A（园林工具）"
+      thermal: "N/A（进气用于吸风）"
+      cmf:
+        color: "黄色（机身）+ 灰色（进气格栅）+ 黑色（喷管/握把）"
+        material: "工程塑料"
+        finish: "哑光黄，灰色格栅"
+      mounting: "20V MAX XR电池右侧插入"
+      signature_detail: "灰色十字放射纹理进气格栅在黄色机身侧面，与013的纯黄圆盘相比，灰色格栅形成颜色对比"
+    design_level:
+      score: 3
+      reason: "十字放射格栅有视觉特色，整体设计属于标准专业吹叶机形态，无特别突破"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "XR系列"
+      - "吹叶机"
+      - "侧面进气格栅"
+    hero_feature: "灰色十字放射进气格栅在黄色机身侧面，功能开口的纹理装饰设计"
+    problem_solved: "家庭/半专业大面积落叶清扫，风量比紧凑款更大"
+    transferable_technique: "进气格栅颜色与机身区分（灰色vs黄色），功能区视觉标识化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

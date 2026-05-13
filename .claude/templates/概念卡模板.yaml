@@ -1,0 +1,45 @@
+# 概念卡模板（V2 - 造型翻译引擎版）
+# Step 05 阶段B生成的完整概念卡格式
+
+concept_id: "C-XX"                    # 概念编号
+
+# === 来源追溯 ===
+source_strategy: "S-XX"               # 来自哪条造型策略（链接Step 04翻译表）
+source_references: []                  # 参照了哪些素材（素材库ID列表）
+generation_method: ""                  # 生成方法：单策略深挖 / 策略交叉 / 反向激进 / 细节拼接 / wildcard / 品类假设挑战
+
+# === 概念定义（层级化结构，不允许平铺特征列表）===
+form_definition:
+  base_form: ""                        # 品牌DNA绿灯表范围内的基础形态（几何语言描述）
+  hero_feature: ""                     # 单一夸张的视觉主特征（14字以内）
+  functional_alibi: ""                 # hero_feature的工程/功能硬理由
+  how_it_solves: ""                    # 用户看到造型时如何理解它解决了什么问题
+
+# === 需求链接（B=60%核心字段）===
+pain_point: ""                         # 这个概念回应的消费者痛点（链接Step 04第3层）
+visual_signal: ""                      # 造型要传达的视觉信号
+visual_test_pass: ""                   # 是否通过visual_test（是/否+理由）
+
+# === 用户可见的钩子信息 ===
+hard_sell_point: ""                    # 唯一硬卖点（18字以内）
+first_glance_10m: ""                   # 10米外第一眼看到什么
+why_this_brand: ""                     # 为什么像这个品牌该出的
+sacrifice: ""                          # 为了强化什么，主动放弃了什么
+
+# === 渲染锚定（为Step 08和09准备）===
+render_anchor:
+  primary_reference_image: ""          # 渲染时用这张图做img2img起点（素材库ID）
+  delta_from_reference: ""             # 和参考图相比的具体差异描述
+
+# === 品类谱系定位 ===
+spectrum_position: ""                  # 在品类设计谱系图上的大致坐标
+within_design_radius: ""               # 是否在客户设计半径内（核心区/延伸区/禁区）
+
+# === 初步可行性 ===
+estimated_bom_tier: ""                 # BOM档位：低/中/高
+key_dfm_risk: ""                       # 最大的制造风险（一句话）
+
+purchase_sentence: ""          # "我们这款产品比普通产品更____，因为你一眼能看到____"
+design_verb: ""                # 统一设计动词（shield/compress/float/wrap等）
+challenged_assumption: ""      # 挑战了什么假设（品类假设挑战概念才填）
+market_role: ""                # 冠军款/安全款1/安全款2/边界款1/边界款2

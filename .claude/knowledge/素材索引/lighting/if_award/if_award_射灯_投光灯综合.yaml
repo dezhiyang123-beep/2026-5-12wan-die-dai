@@ -1,0 +1,464 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "射灯"
+  tertiary: "投光灯+综合"
+source:
+  source_type: "if_design_award"
+  source_folder:
+    - "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/投光灯/"
+    - "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/"
+  generated_at: "2026-05-08"
+products:
+
+  # ─── 投光灯 01-02：Govee Sky Light Projector (Aurora) ───────────────────────
+  - product_id: "if_射灯_投光灯_001"
+    source_images:
+      - filename: "投光灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/投光灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色球形灯体，背面有扇形竖向散热肋片，正面圆形出光口内嵌折射镜头+红外传感器，竖向肋片底座支撑，双视角展示"
+      - filename: "投光灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/投光灯/02.jpg"
+        image_role: "detail"
+        visual_anchor: "正面特写：球体灯头偏转45°，出光口折射镜头发光，底座肋片竖向线条清晰，顶部三粒功能按键"
+    product_name: "Govee Sky Light Projector Aurora 激光星空投影灯"
+    brand_name: "Govee"
+    brand_confidence: "high"
+    category_path: ["灯具", "射灯", "投光灯", "激光投影灯"]
+    design_language:
+      silhouette: "球形灯头（约130mm直径）+ 竖向肋片柱状底座 + 圆形底盘三段组合；灯头可在底座上自由转向，整体轮廓类双目望远镜或早期摄影机"
+      light_opening: "圆形出光口，内嵌多片式折射/衍射镜头组，激光束通过镜头投射形成星空/极光图案，光束角度宽广（可覆盖整面墙/天花板）；下方小圆孔为红外传感器窗口，非出光口"
+      thermal: "球体灯头背侧设计8-10条纵向弧形散热肋（仿贝壳/涡轮叶片形态），底座同样采用竖向密肋，被动对流散热；两处散热区域共同构成设计语言主视觉"
+      cmf:
+        color: "深太空灰（接近深炭灰 #3C3C3C），全机同色"
+        material: "ABS工程塑料主体，镜头组为光学级聚碳酸酯或玻璃"
+        finish: "细腻哑光喷涂，局部亮面镜头圈形成对比；底盘为轻微磨砂质感"
+      mounting: "底盘平置桌面（摩擦防滑），灯头通过底座中轴转动调向，无需固定安装；底盘刻有认证及品牌信息"
+      signature_detail: "球形灯头背侧弧形散热肋片是核心识别语言：肋片从顶部汇聚向底部散开，兼具散热与仿生贝壳装饰感，使功能结构成为设计亮点"
+    design_level:
+      score: 4
+      reason: "球体 + 散热肋一体化设计，功能结构即视觉语言；激光光学模组与消费电子美学融合，品类感清晰，iF获奖水准"
+    design_tags: ["激光投影", "球形灯头", "散热肋片", "仿生贝壳", "深灰哑光", "桌面摆放", "消费电子感", "iF获奖", "Govee"]
+    hero_feature: "球体背侧弧形散热肋片，将散热结构转化为主视觉语言，远看像摄影镜头或望远镜"
+    problem_solved: "消费级激光投影灯外形廉价塑料感强；此设计以仿生肋片 + 球形整体赋予产品高端电子产品质感"
+    transferable_technique: "散热肋片视觉化（功能即装饰）；球形灯头可旋转调向机构；消费品级工业设计语言迁移至照明品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 投光灯 03-04：Philips Tango LED 泛光灯 ────────────────────────────────
+  - product_id: "if_射灯_投光灯_002"
+    source_images:
+      - filename: "投光灯/03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/投光灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "三尺寸系列户外LED泛光灯（大/中/小），银灰色矩形扁平灯体，正面透明钢化玻璃面板内可见LED矩阵，L形金属安装支架"
+      - filename: "投光灯/04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/投光灯/04.jpg"
+        image_role: "detail"
+        visual_anchor: "深灰色版本大尺寸正面特写：透明面板内8×17阵列LED模组清晰可见，灯体背面为实体铝合金板，底部L形支架铰接可调角度"
+    product_name: "Philips Tango LED 户外泛光灯系列"
+    brand_name: "Philips"
+    brand_confidence: "high"
+    category_path: ["灯具", "射灯", "投光灯", "户外泛光灯"]
+    design_language:
+      silhouette: "矩形扁平板状体（纵横比约3:4），圆角处理；正面透明面板占据90%面积，背面铝制散热背板；L形铰接支架从灯体底边延伸，三尺寸共享同一比例语言"
+      light_opening: "全面板出光：钢化玻璃保护面板内多组LED矩阵均匀分布（点阵式布局），大角度泛光，适合建筑立面/场地照明；无独立遮光罩，依赖玻璃面板漫射"
+      thermal: "灯体背面为大面积铝合金压铸散热板，利用背板整体面积被动散热；户外自然风对流辅助；设计上散热板厚实感明显但不外露于正视图"
+      cmf:
+        color: "银灰色（浅版）/ 深炭灰（深版）两色，Philips工程灰系"
+        material: "铝合金压铸主体 + 钢化玻璃面板 + 不锈钢固定件"
+        finish: "粉末涂层哑光，户外级耐候，轻微纹理质感；玻璃面板透明无色"
+      mounting: "L形铰接金属支架，支架底端带长孔可壁面/地面固定，铰接点可锁定角度（约0-90°俯仰调节）；系列化三尺寸共享支架设计语言"
+      signature_detail: "正面LED点阵可见性是设计语言核心：工业感的规则点阵透过玻璃清晰可见，将功能模组转化为视觉秩序感；三尺寸缩放比例一致保持家族感"
+    design_level:
+      score: 4
+      reason: "工程美学与功能的直接表达；LED阵列可视化、系列化三尺寸缩放设计手法成熟；Philips工业照明典型语言，iF获奖水准"
+    design_tags: ["户外泛光灯", "LED矩阵可视", "铝合金压铸", "系列化缩放", "银灰哑光", "L形支架", "工程照明", "iF获奖", "Philips"]
+    hero_feature: "透明玻璃面板内LED点阵均匀可见，工程感秩序美感，功能即装饰"
+    problem_solved: "大功率户外泛光灯通常体积臃肿、比例沉重；此设计扁平化灯体 + L支架使大功率灯具轻盈感显著提升"
+    transferable_technique: "功能矩阵（LED/散热孔）规则排布转化为视觉秩序；扁平板状体 + 铰接L支架是户外投光灯标准结构语言可迁移骨架"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 综合 01-02：方形头轨道射灯（疑似 iGuzzini / 高端建筑照明品牌）────────
+  - product_id: "if_射灯_综合_001"
+    source_images:
+      - filename: "综合/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/01.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色方形截面轨道射灯，灯头为正方形（约90×90mm），正面出光口内嵌蝶形折射镜片，背面三相轨道适配器，灯头旋转节"
+      - filename: "综合/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/02.jpg"
+        image_role: "context"
+        visual_anchor: "同款方形头轨道射灯安装状态特写，轨道侧面视角，灯头45°俯角，出光口折射镜清晰可见"
+    product_name: "方形头精准光学轨道射灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "射灯", "轨道射灯"]
+    design_language:
+      silhouette: "正方形截面灯头（非惯常圆筒，属品类假设挑战）；灯头正面四角轻微倒角，侧面平整无线条；整体比例接近正方体，高宽相近；灯头通过球形旋转节连接轨道适配器"
+      light_opening: "正方形出光口，内嵌三叶蝶形大口径折射镜组（高透光光学设计），镜片结构精密可见，光束可聚焦（窄角）；方形开口相比圆形提供更均匀矩形光斑，适合商业陈设照明"
+      thermal: "黑色铝合金主体被动散热，方形截面增大散热面积；无独立散热鳍片，外观整洁"
+      cmf:
+        color: "消光黑（全机一色）"
+        material: "铝合金压铸灯头 + 工程塑料轨道适配器"
+        finish: "细腻哑光粉末涂层，无光泽，专业感强"
+      mounting: "三相轨道适配器（通用），灯头通过球形旋转节可360°水平旋转 + 约±90°俯仰调节；适配器有锁紧拨片"
+      signature_detail: "方形截面灯头是核心识别点：打破轨道射灯圆筒惯例，正方体比例配合三叶蝶形光学镜片，形成强烈的精密仪器感；光学镜片从出光口正面可见，将精密工程美学外显"
+    design_level:
+      score: 5
+      reason: "方形灯头打破品类圆筒惯例且功能合理（矩形光斑）；大口径蝶形光学镜片外显，将工程美学与光学精度合一，iF顶级水准"
+    design_tags: ["方形灯头", "轨道射灯", "蝶形镜片", "消光黑", "精密光学", "品类假设挑战", "商业照明", "iF获奖"]
+    hero_feature: "正方形截面灯头 + 三叶蝶形折射镜片从出光口可见，精密仪器感极强"
+    problem_solved: "轨道射灯圆筒形态千篇一律；方形截面 + 大口径光学镜片提供强识别度同时提升光斑均匀性"
+    transferable_technique: "圆筒→方形截面灯头的形态挑战；精密光学镜片外显（功能即Hero Feature）；黑色哑光全机一色消除视觉噪音"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 综合 03：极简圆筒轨道射灯（纯黑暗调）────────────────────────────────
+  - product_id: "if_射灯_综合_002"
+    source_images:
+      - filename: "综合/03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/03.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑暗背景，黑色细圆筒轨道射灯，灯头封闭端（出光口朝向左下），后部铰接调节旋钮，细短支架连接轨道；极简无装饰"
+    product_name: "极简细圆筒轨道射灯"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "射灯", "轨道射灯"]
+    design_language:
+      silhouette: "细长圆筒（长径比约2.5:1），前端封闭（出光口内嵌不可见），后端通过小铰接件连接短支架至轨道；轮廓极度简化，无任何外露装饰线"
+      light_opening: "前端出光口完全内嵌，灯头直径约60mm，出光端面内凹形成深遮光筒，深遮光结构有效防眩；光束类型为窄聚光（推测），光源不可见"
+      thermal: "铝合金圆筒整体被动散热，全封闭外观隐藏内部散热结构；黑色涂层辅助辐射散热"
+      cmf:
+        color: "消光黑（全机一色，深入暗部无反光）"
+        material: "铝合金圆筒"
+        finish: "极细腻哑光涂层，表面无任何纹理，接近绒面质感"
+      mounting: "小铰接关节（约25mm直径圆盘）连接轨道短悬臂，可俯仰调节；整体悬挂于轨道之下，结构最小化"
+      signature_detail: "极简单一圆筒 + 深遮光内凹开口：整灯如一根悬浮的黑色金属棒，灯光不可见而空间效果可见，强调隐形照明哲学"
+    design_level:
+      score: 4
+      reason: "极简主义轨道射灯典范，减法语言彻底，深遮光内凹设计防眩出色，黑色暗调拍摄强化设计意图"
+    design_tags: ["极简主义", "圆筒射灯", "深遮光", "消光黑", "隐形照明", "轨道射灯", "减法设计", "iF获奖"]
+    hero_feature: "灯头完全封闭+深内凹出光口，灯具本身趋于消失，只见光效不见灯"
+    problem_solved: "轨道射灯视觉噪音大，装饰线繁多；此设计以彻底减法使灯具退隐于空间"
+    transferable_technique: "深遮光内凹口防眩设计；全机单色消光涂层消除边界感；极简几何体（圆筒）在建筑空间中的消隐策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 综合 05：Philips 透明质感圆筒轨道射灯 ──────────────────────────────────
+  - product_id: "if_射灯_综合_003"
+    source_images:
+      - filename: "综合/05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/05.jpg"
+        image_role: "hero"
+        visual_anchor: "Philips品牌轨道射灯，圆筒灯体为拉丝银色半透明肌理外壳，内部COB光源透过壳体隐约可见，出光口内凹，黑色轨道"
+    product_name: "Philips 半透明肌理圆筒轨道射灯"
+    brand_name: "Philips"
+    brand_confidence: "high"
+    category_path: ["灯具", "射灯", "轨道射灯"]
+    design_language:
+      silhouette: "标准圆筒轨道射灯轮廓，但外壳为喇叭口收腰造型（上窄下宽约15%），出光端微微扩口；整体比例偏短粗（长径比约1.8:1）"
+      light_opening: "圆形出光口，内凹深度约20mm（浅遮光），内壁可见横向纹理反射环，COB光源在内部可通过半透明壳体隐约透光；出光口边缘为黑色消光圈"
+      thermal: "半透明纹理外壳可能为特殊导热聚合物或薄铝管+半透明覆膜；传统轨道灯铝筒被创新材料替换，散热方式兼顾材料传导"
+      cmf:
+        color: "拉丝银白（壳体）+ 黑色轨道适配器形成撞色"
+        material: "半透明纹理复合材料外壳（推测为聚碳酸酯编织纹或磨砂铝管），内部铝合金结构件"
+        finish: "半透明编织纹/磨砂质感外壳，光线可微透；出光口内壁哑银反射"
+      mounting: "标准单相/三相轨道适配器，黑色，可旋转调向"
+      signature_detail: "半透明纹理外壳是核心创新：灯体本身在通电状态下轻微发光（漫透光），使灯体成为次级光源，产生柔和的氛围感；材料表达挑战了铝筒射灯的惯例"
+    design_level:
+      score: 4
+      reason: "材料创新（半透明外壳）赋予射灯双重光效（主出光 + 壳体漫透光），Philips品牌 + iF获奖，材料表达手法（H10）典范"
+    design_tags: ["半透明外壳", "材料表达", "轨道射灯", "拉丝银", "双重光效", "Philips", "H10材料创新", "iF获奖"]
+    hero_feature: "半透明纹理外壳通电后轻微发光，灯体本身成为柔和光源，颠覆铝筒射灯全不透明惯例"
+    problem_solved: "标准铝筒射灯材质单调、关灯状态视觉沉重；半透明壳体使灯具有通透感，开灯时柔化环境"
+    transferable_technique: "H10材料表达：以半透明材料替换不透明壳体，激活灯体本身的光效价值；拉丝银+黑色双色策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 综合 06：超细磁吸轨道系统（多灯类模块）────────────────────────────────
+  - product_id: "if_射灯_综合_004"
+    source_images:
+      - filename: "综合/06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/06.jpg"
+        image_role: "hero"
+        visual_anchor: "极细黑色磁吸轨道系统，轨道断面约8mm×16mm，安装于天花板；轨道上挂有多种灯型：细圆筒射灯、吊线球形灯、细管吊灯、线形灯，极细线条空间感"
+    product_name: "极细磁吸轨道多灯型照明系统"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "射灯", "磁吸轨道系统"]
+    design_language:
+      silhouette: "轨道断面极薄（约8mm高×16mm宽），视觉上几乎消失于天花板；系统内含多灯型：射灯圆筒（约φ25mm）、线形灯条、球形吊灯、锥形吊灯；整体形成几何线条网格"
+      light_opening: "射灯端：小圆筒下照（窄聚光）；线形端：侧面漫射条状出光；吊灯端：下照泛光；系统整合多种出光方式于同一轨道"
+      thermal: "各灯型体积极小，散热主要通过铝合金外壳被动辐射；磁吸接口导热至轨道主体"
+      cmf:
+        color: "全系消光黑，轨道、灯体、连接件统一黑色"
+        material: "铝合金挤压轨道 + 铝合金灯体，磁吸铁芯"
+        finish: "哑光粉末涂层，极细腻无纹理"
+      mounting: "磁吸式安装，灯体可沿轨道任意移位，无需工具；轨道嵌入或贴附天花板；系统可L形/T形/直线多种布局"
+      signature_detail: "轨道断面极度薄化（约8mm），使空间中的轨道几乎退化为线条；多灯型以同一纤细比例语言保持家族感，创造'漂浮灯具'视觉效果"
+    design_level:
+      score: 5
+      reason: "磁吸系统 + 极薄轨道 + 多灯型家族整合，系统设计思维突出；轨道消隐哲学与各灯型的轻盈比例高度统一，iF顶级水准"
+    design_tags: ["磁吸轨道", "极细轨道", "系统设计", "多灯型家族", "消光黑", "空间消隐", "模块化", "H05模块化", "iF获奖"]
+    hero_feature: "约8mm超薄断面轨道在空间中退化为线条，灯具如漂浮悬挂，轨道系统趋于无形"
+    problem_solved: "传统轨道视觉体量大、破坏天花板洁净感；超薄磁吸轨道系统将轨道降级为细线，空间感极大提升"
+    transferable_technique: "磁吸模块化接口设计；轨道断面极薄化（消隐哲学）；多灯型系列共享比例 + 单色统一家族感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 综合 07：磁吸轨道双灯型（圆筒射灯 + 细管吊灯）────────────────────────
+  - product_id: "if_射灯_综合_005"
+    source_images:
+      - filename: "综合/07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/07.jpg"
+        image_role: "context"
+        visual_anchor: "实景安装：黑色磁吸轨道，右侧细圆筒射灯（约φ30mm×90mm，镜面出光口），左侧细圆柱吊灯（黑色木纹质感，吊线悬挂），天花板背景米白色"
+    product_name: "磁吸轨道细圆筒射灯+细管吊灯组合"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "射灯", "磁吸轨道射灯"]
+    design_language:
+      silhouette: "射灯：细圆筒（长径比约3:1），前端出光口内嵌镜面反射锥，后端小型磁吸卡扣；吊灯：超细圆柱（径约25mm，长约200mm），顶端磁吸头连接细钢丝绳"
+      light_opening: "射灯：圆形出光口，内嵌聚焦反射锥（可见镜面光锥），窄角聚光（推测约15-24°）；吊灯：底端下照出光，小圆形点光源"
+      thermal: "射灯铝合金圆筒被动散热；极细比例限制功率（5-10W范围），散热压力小"
+      cmf:
+        color: "消光黑（射灯体）+ 黑色木纹质感（吊灯体）"
+        material: "铝合金射灯体 + 木材或木纹贴膜吊灯体"
+        finish: "射灯哑光涂层；吊灯木纹质感与金属轨道形成温暖-冷峻材质对比"
+      mounting: "磁吸卡扣式安装于细磁吸轨道，可滑动定位；吊灯通过钢丝绳调节悬挂高度"
+      signature_detail: "同一磁吸轨道上金属射灯（冷工业感）与木纹吊灯（温暖感）并置，材质对话形成空间层次；两灯型在极细比例上统一，视觉家族感强"
+    design_level:
+      score: 4
+      reason: "材质对比策略（金属+木纹）与磁吸系统模块性结合，实景安装感强，比例控制精准"
+    design_tags: ["磁吸轨道", "细圆筒射灯", "木纹吊灯", "材质对比", "冷暖对话", "H10材料表达", "iF获奖"]
+    hero_feature: "金属射灯与木纹吊灯在同一极细磁吸轨道上并置，工业冷感与温暖材质形成对话"
+    problem_solved: "全金属轨道系统感觉冷硬；木纹灯体引入温度感，适应家居/精品酒店场景"
+    transferable_technique: "同系统内金属+木材双材质策略；磁吸轨道多灯型并置的比例统一原则"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 综合 08-09：球形吊线射灯（香槟金 + 玫瑰金，高端装饰射灯）───────────
+  - product_id: "if_射灯_综合_006"
+    source_images:
+      - filename: "综合/08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/08.jpg"
+        image_role: "hero"
+        visual_anchor: "香槟金/摩卡棕球形射灯，通过两股细钢丝绳吊挂，钢丝绳顶端汇聚于小银色珠形扣件；灯头圆球带玫瑰铜色口圈，出光口朝下微偏斜"
+      - filename: "综合/09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/09.jpg"
+        image_role: "detail"
+        visual_anchor: "同款正面特写：球形灯体约φ100mm，出光口朝向左下方，口圈为玫瑰铜色圆环，内部黑色深遮光腔，外壳哑光香槟金，顶部细圆柱安装座"
+    product_name: "双钢丝吊线球形可调向射灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "射灯", "装饰射灯", "吊线射灯"]
+    design_language:
+      silhouette: "球形灯体（约φ100mm），出光口圆形开孔偏心设于球面（非正前方，约20°偏斜），使球体视觉方向感模糊；顶部细圆柱插脚连接吊线系统；整体轮廓似'眼球'或'独眼怪'"
+      light_opening: "圆形出光口，内有玫瑰铜色金属口圈（宽约8mm）包边，黑色深遮光内腔；可通过旋转球体调向，口圈角度暗示精准聚光方向；光束角推测15-30°"
+      thermal: "实心感球体铝合金，球形增大散热表面积，被动散热；功率估计10-15W（装饰级），热管理压力较小"
+      cmf:
+        color: "外壳：哑光香槟金（类似摩卡/米灰金）；口圈：玫瑰铜/玫瑰金（形成撞色）；内腔：消光黑"
+        material: "铝合金球体 + 铜合金口圈 + 钢丝绳（镀镍）"
+        finish: "外壳磨砂哑光；口圈拉丝玫瑰铜；内腔消光黑"
+      mounting: "双股细钢丝绳吊挂（钢丝绳间距约30mm，顶端汇聚于球形钢丝锁），钢丝长度可调；顶部安装座连接天花板电盒；球体可手动转向锁定"
+      signature_detail: "偏心出光口 + 玫瑰铜口圈：使球体打破对称感，产生'眼球'方向感；铜圈与香槟金壳的撞色是视觉记忆点；双钢丝绳吊挂轻盈感与球体重量感形成张力"
+    design_level:
+      score: 5
+      reason: "球形 + 偏心出光口的品类假设挑战；玫瑰铜口圈撞色是强Hero Feature；双钢丝吊挂系统优雅且实用，高端装饰射灯顶级水准"
+    design_tags: ["球形射灯", "偏心出光口", "玫瑰铜口圈", "香槟金", "双钢丝吊线", "装饰射灯", "眼球语言", "品类假设挑战", "iF获奖"]
+    hero_feature: "玫瑰铜圆口圈嵌于香槟金球体，偏心斜置产生'眼球'注视感，出光方向可视且有表情"
+    problem_solved: "装饰射灯通常在精准照明与装饰美感间取舍；此设计以球形可调向 + 铜圈装饰实现两者兼得"
+    transferable_technique: "偏心开口破对称（为规则几何体增加方向感）；金属口圈撞色强化出光口识别度；双钢丝吊挂的优雅悬挂语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 综合 10：L形磁吸轨道多灯型模块系统 ─────────────────────────────────────
+  - product_id: "if_射灯_综合_007"
+    source_images:
+      - filename: "综合/10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/10.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色L形磁吸轨道系统产品展示，多种轨道配置（L形墙角延伸+独立水平段），灯型包括：细圆筒射灯、磁吸LED灯条、多头点射灯串（小圆球阵列）、细圆柱吊灯"
+    product_name: "L形延展磁吸轨道模块照明系统"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "射灯", "磁吸轨道系统"]
+    design_language:
+      silhouette: "轨道系统可配置L形（墙面到天花板延伸，垂直转角）+ 水平独立段；展示图中有3种配置并排，轨道断面约10mm×20mm，角铝挤压，消光黑"
+      light_opening: "系统内多灯型：①细圆筒射灯（窄聚光下照）；②线形灯条（漫射均匀光）；③多头小球点射（分布式点光）；④细管吊灯（悬挂点光）；同轨道承载多出光方式"
+      thermal: "各灯型小体积被动散热，轨道铝合金导热辅助"
+      cmf:
+        color: "全系消光黑"
+        material: "铝合金挤压轨道 + 铝合金灯体，磁吸模块化接口"
+        finish: "哑光粉末涂层，统一视觉语言"
+      mounting: "磁吸吸附安装，L形转角通过专用转角件连接；墙面固定点间距约600mm；系统可延伸至墙面（垂直段），实现墙面+天花板连续照明"
+      signature_detail: "L形垂直延伸至墙面的独特配置：轨道从天花板折转至墙面，使竖向墙面也进入轨道系统控制范围，为竖向陈列/画廊场景提供新解法"
+    design_level:
+      score: 4
+      reason: "L形延伸至墙面的系统创新，解决竖向照明与水平照明同轨道整合的难题；系统思维强，iF获奖水准"
+    design_tags: ["磁吸轨道", "L形配置", "墙面延伸", "系统设计", "多灯型整合", "消光黑", "H05模块化", "iF获奖"]
+    hero_feature: "轨道从天花板垂直折转至墙面，水平+竖向照明系统合一，适合画廊/零售陈列场景"
+    problem_solved: "射灯轨道通常只在水平天花板运行；L形延伸版将竖向墙面纳入控制，消除照明死角"
+    transferable_technique: "轨道系统垂直延伸至墙面的结构设计；模块化接口支持多灯型混用的系统架构"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 综合 11-12：KEEV 轨道射灯系列（圆筒+遮光罩可换）───────────────────────
+  - product_id: "if_射灯_综合_008"
+    source_images:
+      - filename: "综合/11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/11.jpg"
+        image_role: "hero"
+        visual_anchor: "KEEV品牌轨道射灯，黑白双色系列（各3-4个叠放展示），圆筒灯头+弧形手柄支架+三相轨道适配器，出光口蜂巢格栅可见"
+      - filename: "综合/12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/12.jpg"
+        image_role: "detail"
+        visual_anchor: "KEEV黑色单灯头正面特写（局部图像粗糙感），蜂巢防眩格栅清晰，出光口圆形，灯头微下俯，弧形手柄KEEV logo可见"
+    product_name: "KEEV 弧形手柄轨道射灯系列"
+    brand_name: "KEEV"
+    brand_confidence: "high"
+    category_path: ["灯具", "射灯", "轨道射灯"]
+    design_language:
+      silhouette: "圆筒灯头（约φ80mm×80mm，短粗比例）+ 宽弧形手柄支架（类勺形，弧度饱满）+ 顶部适配器三段式；弧形支架为识别语言核心，与竞品直角支架明显区分"
+      light_opening: "圆形出光口，内嵌蜂巢防眩格栅（约3mm格栅间距），有效控制光束角度并消除眩光；可配换不同规格蜂巢格栅（推测）；光束角估计24-36°"
+      thermal: "圆筒铝合金被动散热，弧形支架铝合金导热辅助；弧形支架增大了金属面积，散热效率较直角支架更优"
+      cmf:
+        color: "消光黑 / 消光白 双色版本，全机一色"
+        material: "铝合金压铸灯头 + 铝合金弧形支架，工程塑料适配器"
+        finish: "细腻哑光涂层，黑白两色均无光泽"
+      mounting: "三相轨道适配器，标准卡入式，灯头可270°旋转（水平），支架提供约±60°俯仰调节"
+      signature_detail: "弧形手柄支架（勺形弧）是KEEV品牌核心识别语言：将功能性连接件设计为有温度的弧形，打破方头支架的工业冷感；蜂巢格栅从出光口正面可见，强化光学专业感"
+    design_level:
+      score: 4
+      reason: "弧形支架形态差异化明显，蜂巢格栅出光口设计专业，黑白双色系列策略完整，品牌识别度高"
+    design_tags: ["弧形支架", "蜂巢格栅", "轨道射灯", "黑白双色", "防眩设计", "KEEV", "品牌识别语言", "iF获奖"]
+    hero_feature: "勺形弧形支架将功能连接件转化为品牌识别语言，有温度的弧度在轨道射灯品类中高度差异化"
+    problem_solved: "轨道射灯支架均为直角或折弯，工业感强；弧形支架引入设计温度感，适合零售/精品空间"
+    transferable_technique: "功能连接件（支架）的形态差异化（直角→弧形）；蜂巢格栅防眩 + 可视化光学设计；双色系列化（黑/白）覆盖不同天花板色系"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 综合 13：极简白色轨道射灯+灯板组合 ─────────────────────────────────────
+  - product_id: "if_射灯_综合_009"
+    source_images:
+      - filename: "综合/13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/13.jpg"
+        image_role: "hero"
+        visual_anchor: "白色磁吸轨道系统，轨道上安装两个灯型：左侧L形支架+矩形线形灯板（白色），右侧细圆筒射灯（白色，出光口内蜂巢格栅），白色背景极简"
+    product_name: "白色磁吸轨道线形灯板+圆筒射灯组合系统"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "射灯", "磁吸轨道系统"]
+    design_language:
+      silhouette: "白色磁吸轨道（约12mm高断面）+ 两灯型：①L形支架连接矩形线形灯板（约200mm×60mm×20mm）；②圆筒射灯（约φ50mm×80mm，细长比例）；两灯型同色异形，家族感强"
+      light_opening: "线形灯板：正面均匀漫射（大面积柔光）；圆筒射灯：圆形出光口+蜂巢防眩格栅（约4mm格栅），精准聚光；同轨道泛光+聚光两种出光方式互补"
+      thermal: "两灯型均铝合金被动散热；轨道铝合金可导热辅助"
+      cmf:
+        color: "全系消光白，轨道、灯体、支架一色"
+        material: "铝合金挤压 + 铝合金压铸，磁吸接口"
+        finish: "细腻哑光白色涂层，融入浅色天花板环境"
+      mounting: "磁吸滑动安装，L形支架连接灯板可调节方向；圆筒射灯可旋转俯仰"
+      signature_detail: "全白系统在白色天花板背景下的极度消隐效果：灯具与建筑几乎融为一体，只有光效可见而灯具趋于无形；与消光黑系统完全相反的消隐策略"
+    design_level:
+      score: 4
+      reason: "白色消隐策略与极简形态高度统一；线形+圆筒双灯型整合于同轨道，满足不同光效需求；白色版补充了黑色系的系列完整性"
+    design_tags: ["消光白", "磁吸轨道", "线形灯板", "圆筒射灯", "消隐设计", "泛光+聚光整合", "极简主义", "iF获奖"]
+    hero_feature: "全白系统与白色天花板融合，灯具趋于消失——白色消隐策略（对应黑色消隐的镜像路径）"
+    problem_solved: "浅色空间中黑色轨道破坏天花板洁净感；全白系统保持天花板视觉连续性"
+    transferable_technique: "白色消隐策略（对应场景化配色）；线形泛光+圆筒聚光同轨道互补出光方式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 综合 18：黑色圆筒穿孔散热轨道射灯 ──────────────────────────────────────
+  - product_id: "if_射灯_综合_010"
+    source_images:
+      - filename: "综合/18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/射灯/综合/18.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色圆筒轨道射灯，灯筒上半段密布圆形穿孔（直径约4mm，规则阵列），出光口COB光源+光学透镜清晰可见，白色轨道，俯仰约30°"
+    product_name: "穿孔散热圆筒轨道射灯"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "射灯", "轨道射灯"]
+    design_language:
+      silhouette: "标准圆筒轨道射灯（长径比约2:1），但灯筒上半段（约60%面积）密布圆形穿孔（规则矩阵排列），形成多孔肌理；出光口圆形，无额外遮光罩；白色轨道适配器"
+      light_opening: "圆形出光口，内嵌光学透镜（可见弧面透镜），COB光源发光；透镜精准聚光，束角约24°；穿孔非出光口，为散热/装饰孔"
+      thermal: "灯筒上段密布圆形穿孔是核心散热结构：穿孔增大散热面积，同时允许热对流气流穿过；将散热工程可视化为规则点阵纹理，功能即装饰"
+      cmf:
+        color: "消光黑（灯体）+ 白色（轨道适配器）形成撞色"
+        material: "铝合金圆筒（穿孔冲压或CNC加工）"
+        finish: "哑光粉末涂层，穿孔截面边缘利落"
+      mounting: "标准轨道适配器（白色版），灯头可旋转调向，白色轨道"
+      signature_detail: "圆形穿孔阵列是Hero Feature：散热孔规则排布形成参数化点阵肌理，使灯筒从单调圆柱升级为有呼吸感的精密结构件；开灯后光线从穿孔微漏，形成次级环境光效"
+    design_level:
+      score: 4
+      reason: "穿孔散热结构视觉化（H04参数化 + H09隐藏工程外显），功能与美学结合；黑白撞色策略强化对比，品类识别度高"
+    design_tags: ["穿孔散热", "点阵肌理", "圆筒射灯", "参数化纹理", "黑白撞色", "H04参数化", "H09功能外显", "iF获奖"]
+    hero_feature: "灯筒上段密布圆形穿孔散热阵列，功能结构形成参数化点阵肌理，开灯后微漏光增加层次"
+    problem_solved: "高功率轨道射灯散热孔通常藏于背面不可见；将穿孔正面化使散热成为视觉设计语言"
+    transferable_technique: "H04参数化：规则穿孔阵列将功能结构转化为视觉纹理；穿孔孔径/间距控制视觉疏密感；黑体+白色适配器撞色的对比策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

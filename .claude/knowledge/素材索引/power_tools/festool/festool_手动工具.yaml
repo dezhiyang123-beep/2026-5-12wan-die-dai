@@ -1,0 +1,48 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "手动工具"
+  tertiary: "电钻/螺丝刀"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/手动工具/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "festool_手动工具_001"
+    source_images:
+      - filename: "电钻__螺丝刀__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/手动工具/电钻__螺丝刀__01.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool DWC 18-2500 + AF 65-DWC 自动进钉螺丝刀组合，白色背景右斜45度视角。主机为深灰蓝色枪形机身，标准手枪握把，后部竖向安装18V锂电池包（绿色Festool标签，蓝牙图标可见）。前端附加AF 65-DWC自动进钉弹夹，透明/黑色料盒，螺钉带以弧形排列展示于前方。机身侧面绿色竖条与绑带挂钩，FESTOOL白色斜体LOGO，侧面标注DURADRIVE字样。机身散热格栅竖向排列。整体线条硬朗，枪形比例标准，功能附件造型独特"
+      - filename: "电钻__螺丝刀__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/手动工具/电钻__螺丝刀__02.jpg"
+        image_role: "detail"
+        visual_anchor: "与01视角高度相似，为同款产品DWC 18-2600（电池容量略有不同），侧面FESTOOL LOGO与型号标注差异。图片构图、颜色、角度基本一致，显示产品系列图库规格一致性。"
+    product_name: "Festool DWC 18 DURADRIVE 自动进钉无线螺丝刀"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "电钻/螺丝刀"]
+    design_language:
+      silhouette: "标准枪形握把，前端带自动进钉弹夹附件，整体造型前重后轻，侧面轮廓呈L形延伸"
+      light_opening: "N/A"
+      thermal: "机身侧面竖向散热格栅，嵌入式设计"
+      cmf:
+        color: "深灰蓝色机身为主，绿色（Festool Green）标签与侧条点缀，黑色电池包底部，透明进钉弹夹"
+        material: "工程塑料机身，ABS电池包外壳，透明PC料盒盖"
+        finish: "机身哑光深灰蓝，电池包绿色标签哑光，透明料盒光面"
+      mounting: "无线（18V锂电池，竖向后置）"
+      signature_detail: "AF 65-DWC自动进钉弹夹附件，弧形螺钉带展示，DURADRIVE系统标识，蓝牙无线连接图标"
+    design_level:
+      score: 4
+      reason: "自动进钉弹夹附件与主机整合紧凑，功能差异化明确；品牌语法完全延续（深灰蓝+绿色点缀+枪形）；DURADRIVE系统化产品定位鲜明；透明料盒功能可视化是优秀设计细节"
+    design_tags: ["H05模块化", "H11功能外显", "H12人机界面强化", "H09隐藏工程"]
+    hero_feature: "AF 65-DWC自动进钉弹夹系统——弧形螺钉带弹夹使大批量螺丝作业无需手动换钉，功能差异化极强且视觉辨识度高"
+    problem_solved: "木工/石膏板大面积打螺丝效率问题；无需手动供钉，大幅提升专业施工速度"
+    transferable_technique: "附件模块化系统设计——专业功能扩展附件与主机视觉语言统一的整合手法；透明料盒功能可视化手法可迁移至需要展示内部状态的工具品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

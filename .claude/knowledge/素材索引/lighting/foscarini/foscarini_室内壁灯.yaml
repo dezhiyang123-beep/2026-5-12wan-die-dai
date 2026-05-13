@@ -1,0 +1,449 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内壁灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "foscarini_室内壁灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "深红/暗红色正圆球体，直贴墙面，四周粉红背景有光晕，无可见支架"
+    product_name: "Bahia Wall (Sphere, Red)"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "色彩球形直贴壁灯"]
+    design_language:
+      silhouette: "正球体，直接贴墙，无臂无支架，球体与墙面接触点极小，视觉上悬浮于墙"
+      light_opening: "背光设计——光从球体与墙壁之间的缝隙向外渗出，形成球体周围的光晕环；球体本身不透光为主"
+      thermal: "实体球（非透明），热量通过球体内腔与墙面细缝散发，安装接口隐藏于背面"
+      cmf:
+        color: "深红色（暗哑）"
+        material: "吹制不透明玻璃或聚合物"
+        finish: "哑光深色，无反光"
+      mounting: "直贴壁装，背面隐藏安装件，灯体几乎触墙"
+      signature_detail: "不透明彩色球体+背光光晕——球体遮挡光源，光从球体边缘渗出，形成「日食」式光晕效果"
+    design_level:
+      score: 5
+      reason: "Bahia系列是Foscarini最具辨识度的产品之一，用背光光晕原理颠覆传统壁灯「灯体即光源」逻辑，纯色球体成为视觉焦点雕塑"
+    design_tags: ["背光光晕", "色彩球体", "直贴壁装", "雕塑感", "不透明灯体", "日食效果", "Foscarini红"]
+    hero_feature: "不透明色球背光——球体挡住直射光，仅允许边缘光晕渗出，灯具点亮后变成「发光星球」"
+    problem_solved: "壁灯通常以投射/漫射为主，Bahia反其道用不透明体制造间接背光，既有装饰雕塑价值又有功能照明"
+    transferable_technique: "将彩色不透明体紧贴安装面，在体与面之间留3-8mm间隙，光源置于间隙内朝向安装面；体的阴影成为设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_室内壁灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "倒梯形斗状灯体，深灰色外壁白色内腔，上下双向出光，灯体无可见固定件"
+    product_name: "Aplomb Wall (or similar cone sconce)"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "室内壁灯", "锥斗形双向壁灯"]
+    design_language:
+      silhouette: "倒锥台（下宽上窄逆转：底部窄顶部开口大），四角倒圆；截面为横向长方形圆角形；整体造型如向上开口的斗"
+      light_opening: "上方大开口向上投光（主照）；底部收口处有细长出光缝向下漫射（辅助）；双向出光"
+      thermal: "开口式灯体，热量通过上开口自然对流散逸，灯体背面直贴墙"
+      cmf:
+        color: "外壁深灰/石墨色；内腔白色"
+        material: "金属喷漆或混凝土质感材料（外壁），白色涂层（内腔反光面）"
+        finish: "外壁哑光粗糙；内腔哑光白色反光"
+      mounting: "直贴壁装，背面不可见固定结构，灯体底部有细缝出光即提示安装贴合度"
+      signature_detail: "内外双色——外壁深色遮光，内腔白色反光最大化向上投射，内外材质/色彩对比在开口边缘形成明显的深浅线"
+    design_level:
+      score: 4
+      reason: "锥斗形壁灯将材质对比（暗色外/白色内）与功能（上下双向出光）完美结合，造型克制但光效丰富"
+    design_tags: ["锥斗形", "上下出光", "内外双色", "混凝土感", "功能外显", "间接照明"]
+    hero_feature: "深色外壁+白色内腔锥斗——外部哑光深色降低眩光，内腔白色反射最大化上射光效率"
+    problem_solved: "壁灯眩光问题，通过锥斗遮光结构将光源完全隐藏，仅提供间接上射和底部细缝出光"
+    transferable_technique: "开口向上的锥形遮光罩+白色内腔：外壁遮光材料（深色/哑光）+ 内壁高反射涂层，底部收口缝提供向下补光"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "灯具造型确认为Foscarini产品但具体型号需核实（可能为Aplomb系列壁灯版本）"
+
+  - product_id: "foscarini_室内壁灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "正圆白色浅碟，中央小凸起，同心圆层次，无手柄无支架，蓝灰背景"
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/04.jpg"
+        image_role: "lit_state"
+        visual_anchor: "同款浅碟点亮，内环发光，外圈形成光晕，正面看更扁平"
+    product_name: "Lumiere Wall"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "同心圆碟形贴壁灯"]
+    design_language:
+      silhouette: "正圆平碟形，直径远大于厚度（厚径比约1:8），碟面有3层同心圆浮雕层级，中心最高，边缘最低"
+      light_opening: "碟面向前全面积漫射，光从各同心层之间的层差处渗出形成层次；内圈为主出光区"
+      thermal: "超薄碟形，散热面大；内部光源（LED板）紧贴碟面后腔，热量通过碟体向墙面传导"
+      cmf:
+        color: "全白（哑光暖白）"
+        material: "聚合物或陶瓷质感注塑/压铸"
+        finish: "哑光白，无光泽"
+      mounting: "直贴壁装，碟体背面直接固定于墙；正面无可见螺丝，中央凸起为固定盖"
+      signature_detail: "多层同心圆浮雕——三层台阶式圆环在单色白表面制造出纯形态光影，点亮后层差成为出光缝"
+    design_level:
+      score: 4
+      reason: "Lumiere wall是高度克制的形态练习，单色白+同心圆浮雕，依靠纯几何层次和光产生视觉深度，极简而有内涵"
+    design_tags: ["同心圆", "浮雕层次", "贴壁平碟", "全白", "极简", "几何", "漫射光"]
+    hero_feature: "同心圆三层浮雕碟面——暗灭时是白色浮雕艺术品，点亮后层差出光缝激活立体感"
+    problem_solved: "壁灯在不亮时常显笨重或无趣，Lumiere通过纯形态浮雕在暗灭状态下也具观赏价值"
+    transferable_technique: "在扁平灯体表面设计同心圆台阶浮雕，台阶高差3-5mm；光源置于后腔，层差缝隙自然出光"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_室内壁灯_004"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "S形曲线大型红色面板，中央圆形银色旋钮，红色背景，背光光晕强烈"
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/06.jpg"
+        image_role: "colorway"
+        visual_anchor: "横向椭圆形蓝色平面板，中央银色旋钮，蓝色背景，背光更均匀"
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/07.jpg"
+        image_role: "colorway"
+        visual_anchor: "正圆形白色面板，中央银色旋钮，灰白背景，白色背光最柔和"
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/08.jpg"
+        image_role: "colorway_mini"
+        visual_anchor: "小尺寸不规则三角形绿色面板，中央银色旋钮，绿色背景"
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/09.jpg"
+        image_role: "colorway_mini"
+        visual_anchor: "小尺寸不规则四边形黄色面板，中央银色旋钮，黄色背景"
+    product_name: "Bahia Wall (Flat Panel Series)"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "异形平面板背光壁灯"]
+    design_language:
+      silhouette: "系列共享「不规则有机曲线平板」形态语言：05号为S形双曲线大板；06号为横向椭圆；07号为正圆；08号为圆角三角；09号为不规则四边形——同一DNA，不同形态变体"
+      light_opening: "所有变体均为背光设计——平板背面安装光源，光从板体四周边缘与墙面间隙向外渗出，形成彩色光晕；板体正面不透光"
+      thermal: "薄平板贴墙，板与墙面之间20-30mm间隙容纳光源和散热；银色中央旋钮为调光控制件"
+      cmf:
+        color: "多色系：红/蓝/白/绿/黄（板体颜色与光晕颜色一致）"
+        material: "热塑性聚合物或玻璃钢（板体）；铬/银金属（旋钮）"
+        finish: "板体哑光（红/绿/黄）或半光泽（白/蓝）；旋钮亮铬"
+      mounting: "板体直贴壁装，背面有隐藏安装支架；中央旋钮为调光/开关的唯一外露控制件"
+      signature_detail: "中央银色圆形旋钮——在彩色异形板面的视觉中心，金属质感与彩色板形成材质对比，兼具功能（调光）和造型（视觉锚点）"
+    design_level:
+      score: 5
+      reason: "Bahia平板系列将「调光旋钮」与「不规则有机板体」结合，背光光晕技法与大胆色彩体系共同构建了Foscarini最具品牌识别度的壁灯家族"
+    design_tags: ["背光光晕", "异形平板", "调光旋钮", "色彩系统", "有机曲线", "雕塑壁灯", "背光渗缝"]
+    hero_feature: "不透明彩色异形平板+背光渗缝——板体形状、颜色、背光同色光晕三位一体，关灯是雕塑，开灯是光绘"
+    problem_solved: "壁灯通常形态固定（圆/方/臂式），Bahia系列用有机异形板体创造可识别的「造型系统」，旋钮提供直觉控制"
+    transferable_technique: "不透明有机形态板体离墙20-30mm安装，板后缘安装LED条向墙面照射；光从板边四周漫出；板体颜色决定光晕色调"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_室内壁灯_005"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "圆方形乳白玻璃球体，顶部黄铜弧形夹片固定于墙，球体大且饱满，黄金色背景"
+    product_name: "Chouchin Wall"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "乳白玻璃球壁灯"]
+    design_language:
+      silhouette: "圆方形超圆角球体（接近正方形圆角处理），宽高比约1:1，体积饱满，顶部有扁弧形黄铜夹片作为唯一安装件"
+      light_opening: "乳白玻璃360度漫射，无定向出光口；球体与墙面之间有缝隙，背侧光线反射至墙面形成辅助光晕"
+      thermal: "大体积玻璃球体，内腔散热；黄铜安装夹片兼作散热导热通道"
+      cmf:
+        color: "乳白色（亮面光泽）；黄铜色安装夹片"
+        material: "吹制乳白玻璃（灯体）；黄铜（安装夹片）"
+        finish: "灯体亮面光泽；夹片拉丝/磨砂黄铜"
+      mounting: "顶部单件黄铜弧形夹片抱紧球体颈部固定于墙；安装件极简可见"
+      signature_detail: "黄铜弧形夹片——以简洁的金属弧片抱持玻璃球，暴露安装逻辑反成设计语言；黄铜与白玻璃的色温呼应"
+    design_level:
+      score: 4
+      reason: "Chouchin Wall延续Chouchin系列玻璃语言，黄铜夹片做法将安装件转化为装饰细节，材质搭配精准"
+    design_tags: ["乳白玻璃", "黄铜夹件", "圆方球体", "漫射光", "安装件设计化", "暖白光", "工艺感"]
+    hero_feature: "黄铜弧形夹片安装系统——将必要的安装件转化为精致设计语言，夹片的弧线与球体曲面相切，形成视觉连贯"
+    problem_solved: "壁灯安装件通常被隐藏或显得笨拙，Chouchin Wall将安装夹片设计为视觉焦点，功能件即装饰件"
+    transferable_technique: "使用单片弧形金属夹（黄铜/哑光铬）抱持灯体颈部固定于墙，夹片宽度约为灯体宽度的1/3；夹片内弧与灯体颈部曲率匹配"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_室内壁灯_006"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "大型白色圆形甜甜圈/环形灯体，中央有孔洞，中心白色小圆形固定件，灰背景侧光"
+    product_name: "Folio Wall (or Mite Wall large disc)"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "室内壁灯", "圆形环状贴壁灯"]
+    design_language:
+      silhouette: "大型正圆，中央有圆形通孔（甜甜圈/环状），整体呈正圆环；厚度较薄，轮廓从侧面看为半球截面；中心白色小圆形固定销"
+      light_opening: "圆环体全面积漫射出光；中央孔洞不出光（背面有光源腔）；光从圆环前面向外漫射，边缘也有光溢出"
+      thermal: "环形体内腔为光源腔，开孔中心提供部分散热通道；灯体较厚（约100-150mm），散热空间充足"
+      cmf:
+        color: "全白（乳白漫射）"
+        material: "吹制玻璃或玻璃钢"
+        finish: "哑光乳白，均匀漫射"
+      mounting: "中央小圆形固定销直接贴壁安装，无外露支架"
+      signature_detail: "环形通孔——正圆环中央的孔洞打破了封闭球的单调，点亮时孔洞成为暗区与发光圆环产生对比，形成「光圈」视觉"
+    design_level:
+      score: 4
+      reason: "环形通孔设计在壁灯品类中少见，孔洞作为负形与发光环形形成正负对比，雕塑感强"
+    design_tags: ["环形通孔", "圆形灯体", "漫射光", "负形设计", "贴壁", "白色", "雕塑壁灯"]
+    hero_feature: "中央通孔圆环体——孔洞打破封闭形，暗区负形与发光正形形成戏剧性对比"
+    problem_solved: "大面积壁灯灯体沉重感强，环形通孔减轻视觉重量，同时创造独特的「光圈」效果"
+    transferable_technique: "在大型圆形灯体中央开圆孔（孔径约为灯体直径的1/4），孔洞大小影响正负形对比强度；光源置于环状腔体内"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "环形壁灯确认为Foscarini产品，具体型号需人工核实（可能为Folio或其他系列）"
+
+  - product_id: "foscarini_室内壁灯_007"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "两根白色竖向圆柱体并排紧贴，上下出光，米白背景，无可见安装件"
+    product_name: "Tress Wall (or Double Cylinder Wall)"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "室内壁灯", "双柱形贴壁灯"]
+    design_language:
+      silhouette: "两根等高等径的白色圆柱体并排紧贴排列，柱体截面正圆，高宽比约2:1，柱间无可见缝隙（紧密贴合）"
+      light_opening: "顶部开口向上投射（主照天花）；底部开口向下出光（补充下方照度）；柱间缝隙及柱体壁面漫射侧光"
+      thermal: "开口圆柱体，自然对流散热；背面直贴壁，安装件隐藏于柱体背部"
+      cmf:
+        color: "全白"
+        material: "注塑聚合物或玻璃钢"
+        finish: "哑光白，轻微纹理感"
+      mounting: "背面直贴壁装，两柱共用隐藏安装背板"
+      signature_detail: "双柱并排紧贴——两根独立柱体模块的并排产生「一体双筒」视觉，柱体接合线成为分件设计语言"
+    design_level:
+      score: 3
+      reason: "双柱形式较为直白，但执行工整，双向出光功能完善；整体设计偏向功能导向，装饰性较同系列其他产品弱"
+    design_tags: ["双柱形", "上下出光", "模块感", "白色", "间接照明", "贴壁"]
+    hero_feature: "双圆柱并排贴合——模块化重复单元并排的叠加形态，柱间接缝成为分件细节"
+    problem_solved: "单柱壁灯造型单薄，双柱并排增加体积感和层次，同时实现上下双向照明"
+    transferable_technique: "将两个相同竖向圆柱紧贴排列，共用背板安装于墙面；柱顶开口上射，柱底开口下射；接缝线成分件语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "双柱壁灯形态符合Foscarini风格，但型号需人工核实"
+
+  - product_id: "foscarini_室内壁灯_008"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "大型横向长方形磨砂玻璃面板，四角微弯，两侧两枚小圆形银色固定销，蓝白背景"
+    product_name: "Elan Wall Panel"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "室内壁灯", "大幅玻璃面板壁灯"]
+    design_language:
+      silhouette: "大横向长方形，长宽比约4:3，四角圆弧；整体轮廓微向前弯曲（中央凸出），非完全平整；四边极薄"
+      light_opening: "整块磨砂玻璃面板全面积向前漫射出光，玻璃为主出光面；边缘也有光溢出"
+      thermal: "大面积薄玻璃，内侧空腔容纳光源；两枚固定销之间保持玻璃与墙面的间距用于散热"
+      cmf:
+        color: "半透明白（磨砂玻璃）"
+        material: "磨砂玻璃（面板），金属（固定销）"
+        finish: "磨砂哑光（均匀漫射），固定销亮铬"
+      mounting: "两枚圆形亮铬固定销穿透玻璃两侧中央固定于墙；固定销外露为设计细节"
+      signature_detail: "两枚暴露固定销——将安装件外露为设计细节，圆形销钉点缀在大幅玻璃面板两侧中央，提供比例参考和精致感"
+    design_level:
+      score: 3
+      reason: "极度克制的形态，大幅磨砂玻璃面板是核心，固定销工业感设计到位；整体偏向背景型壁灯，功能性强于装饰性"
+    design_tags: ["大幅玻璃面板", "磨砂玻璃", "漫射光", "外露固定销", "极简", "横向构图", "背景照明"]
+    hero_feature: "整块大幅磨砂玻璃面板+外露固定销——玻璃尺寸营造画框感，固定销将安装逻辑显性化为精致细节"
+    problem_solved: "大面积均匀漫射照明通常需嵌入式处理，本品以壁挂形式实现大幅漫射光面，适合廊道/背景墙照明"
+    transferable_technique: "大幅玻璃板（≥400x300mm）+ 两侧暴露固定销（直径8-12mm亮铬）穿透玻璃两侧固定于墙，玻璃与墙保持20mm间距"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "形态属Foscarini体系，具体型号需核实"
+
+  - product_id: "foscarini_室内壁灯_009"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "横向细长形深紫红色面板，表面密集花卉植物浮雕肌理，两端细金属支架，深紫红背景"
+    product_name: "Gioia Wall (Floral Relief Bar)"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "浮雕装饰面板壁灯"]
+    design_language:
+      silhouette: "极细长横向矩形（长宽比约10:1），厚度薄；长条两端各有一个细金属立柱支架固定于墙；整体如一幅装饰浮雕画"
+      light_opening: "灯体为不透光浮雕板，光从板体两端金属架底部向下/向墙射出（背光型）；浮雕肌理在光下产生强烈阴影层次"
+      thermal: "细长金属架体散热；浮雕板本身可能为陶瓷/玻璃材质，热容量大"
+      cmf:
+        color: "深紫红/波尔多红（整体单色）"
+        material: "玻璃或陶瓷模压浮雕（灯体），金属（支架）"
+        finish: "亮面光泽（浮雕面），与深色底色形成花纹与背景对比"
+      mounting: "两端独立金属竖支架固定于墙，板体水平悬挑于支架之间"
+      signature_detail: "密集花卉浮雕肌理——花朵、叶片、藤蔓布满整个长条表面，单色统一，光照下浮雕阴影产生极强装饰效果"
+    design_level:
+      score: 4
+      reason: "Gioia将传统装饰工艺（浮雕）与现代壁灯形态结合，单色浮雕表面在光下变化丰富，装饰性极高且有工艺价值"
+    design_tags: ["浮雕肌理", "花卉图案", "横向长条", "装饰壁灯", "工艺感", "单色", "背光阴影"]
+    hero_feature: "密集花卉浮雕长条面板——点亮后光从两端渗入，浮雕阴影在单色面上呈现出戏剧性深浅层次"
+    problem_solved: "壁灯兼顾功能照明和装饰艺术的需求，Gioia把光源隐藏，将浮雕面板本身作为视觉主角"
+    transferable_technique: "细长浮雕面板（长度≥500mm，厚度≤30mm）+ 两端金属竖架支撑；光源置于支架内朝向墙面；浮雕深度5-10mm产生最佳阴影效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_室内壁灯_010"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "半月形/D形白色有机波纹体，顶部黄铜小底盖，黄暖背景，左侧半圆漫射，右侧贴墙"
+    product_name: "Gem Wall"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "半球形波纹贴壁灯"]
+    design_language:
+      silhouette: "D形/半圆形（球体被墙面切割的一半），正面为圆弧，背面平直贴墙；整体有机不规整，略呈梨形；全表面覆盖水平波纹肌理"
+      light_opening: "D形前弧面全面积漫射出光；顶部黄铜底盖下方有光溢出向上；底部无出光口"
+      thermal: "半球形开放背面，散热优于封闭球体；黄铜顶盖兼作散热和安装件"
+      cmf:
+        color: "全白；顶部黄铜盖"
+        material: "玻璃钢或模压玻璃（灯体）；黄铜（顶盖）"
+        finish: "灯体哑光白波纹纹理；顶盖拉丝黄铜"
+      mounting: "顶部单个黄铜圆形底盖直接固定于墙，灯体悬挂于顶盖下方"
+      signature_detail: "半球波纹体+黄铜顶盖——Gem天花版的壁灯变体，将球体一半贴墙，露出的半球面保留完整波纹肌理语言"
+    design_level:
+      score: 4
+      reason: "Gem Wall是Gem系列在壁灯品类的精准延伸，D形切割既保留品牌肌理语言又适配壁挂场景，黄铜顶盖点睛"
+    design_tags: ["半球形", "波纹肌理", "黄铜细节", "D形截面", "漫射光", "贴壁", "白色"]
+    hero_feature: "半球D形切割+全面波纹肌理——同一球体语言适配壁灯场景，切割面贴墙，弧面朝外，肌理在弧面产生光影变化"
+    problem_solved: "球形灯在壁灯场景安装困难，半球切割方案保留球形视觉特征同时解决安装贴合度问题"
+    transferable_technique: "将完整球形沿中心平面切割，平切面贴墙安装；切割面保留完整肌理（波纹）延伸至边缘"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_室内壁灯_011"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形磨砂玻璃外圆盘+中央悬挂天然石/大理石碎片，顶部黄铜固定销，浅绿背景"
+    product_name: "Sfera Wall (Marble Disc)"
+    brand_name: "Foscarini"
+    brand_confidence: "medium"
+    category_path: ["灯具", "室内壁灯", "大理石装饰圆盘壁灯"]
+    design_language:
+      silhouette: "大型正圆碟形，中央有一块有机形天然大理石/矿石薄片悬挂于圆心，通过黄铜小销钉从顶部悬挂；圆盘外径比内嵌石片大约4倍"
+      light_opening: "磨砂玻璃外圆盘向前漫射出光（柔和大面积光）；大理石内嵌片遮挡部分中央光线，石片本身半透产生天然纹理光影"
+      thermal: "大面积薄玻璃圆盘，散热良好；顶部黄铜销钉为安装和散热双功能"
+      cmf:
+        color: "磨砂白（圆盘）+ 天然大理石灰白纹理（内嵌石片）+ 黄铜（销钉）"
+        material: "磨砂玻璃（主体圆盘），天然大理石/石英（内嵌片），黄铜（销钉和悬挂件）"
+        finish: "圆盘哑光磨砂；大理石自然光泽；黄铜拉丝"
+      mounting: "顶部单枚黄铜销钉穿透圆盘固定于墙，大理石片通过小黄铜夹从圆盘正面悬挂"
+      signature_detail: "天然大理石悬挂内嵌——在工业制造的玻璃圆盘中心嵌入一片天然石材，自然肌理与工业材料形成强烈对比；石片的不规则有机形与圆盘正圆形成正负形对比"
+    design_level:
+      score: 5
+      reason: "天然材质（大理石）与工业材质（玻璃）的混搭不寻常；圆盘的大背景光与石片的局部遮光形成层次；黄铜销钉将两者连接为统一设计语言"
+    design_tags: ["天然大理石", "混合材质", "圆形碟盘", "黄铜细节", "漫射光", "材质对比", "自然肌理"]
+    hero_feature: "磨砂玻璃圆盘+中心悬浮大理石片——两种截然不同的材质（工业玻璃vs天然石材）通过黄铜销钉组合，工业与自然的对话"
+    problem_solved: "现代灯具缺乏天然材质温度感，本品将大理石引入光源设计，石材纹理在透光时呈现独特视觉效果"
+    transferable_technique: "圆形/方形薄玻璃主体（400-600mm）中央悬挂天然石片（尺寸约主体1/4），黄铜销钉作为悬挂件和视觉连接件；石片半透程度决定光影效果强弱"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "天然大理石+玻璃混合壁灯设计精良，确认属Foscarini体系，具体系列型号需人工核实"
+
+  - product_id: "foscarini_室内壁灯_012"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/室内壁灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "宽扁圆球体（斜切底部），顶部金色薄圆台底盖，哑光白色，黄暖背景，有背光光晕"
+    product_name: "Gregg Wall"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "斜切球形贴壁灯"]
+    design_language:
+      silhouette: "宽扁圆球体（横向压扁），底部有斜切平面贴近墙面；顶部细薄金色圆台底盖；整体如一块光滑鹅卵石贴墙"
+      light_opening: "乳白玻璃球体全面积漫射；背面与墙之间有间隙，背光渗出形成球体周围光晕；底部与墙面之间细缝也有光溢出"
+      thermal: "球形玻璃体积大散热佳；顶部黄铜底盖为主要散热接口；背侧通风间隙辅助散热"
+      cmf:
+        color: "乳白色（哑光）；金色/黄铜底盖"
+        material: "吹制乳白玻璃（灯体）；黄铜/金色金属（顶盖）"
+        finish: "灯体哑光哑光乳白；顶盖抛光金色"
+      mounting: "顶部薄圆台黄铜盖直接固定于墙，灯体悬垂于顶盖下方，斜切底面紧贴但不接触墙面"
+      signature_detail: "斜切底面+背光光晕——球体底部斜切平面与墙面之间产生均匀细缝，配合背光形成浮贴感；金色顶盖与白球的比例精准"
+    design_level:
+      score: 4
+      reason: "Gregg Wall是经典吹制玻璃球在壁灯场景的精准诠释，斜切贴墙设计解决球体安装问题同时保留球形完整轮廓，黄铜顶盖为亮点"
+    design_tags: ["斜切球形", "乳白玻璃", "背光光晕", "黄铜顶盖", "漫射光", "贴壁", "吹制玻璃"]
+    hero_feature: "宽扁球体斜切底面贴墙——球形在视觉上保持完整，斜切面与墙面之间的细缝让背光自然渗出，形成悬浮感"
+    problem_solved: "圆球无法平贴墙面，斜切底面解决安装稳定性，同时斜切面与墙的间隙实现背光效果"
+    transferable_technique: "将球形/椭球形灯体底部做小角度斜切（切除约15-20%体积），斜切面作为安装贴合面；斜切与墙间距5-15mm留背光缝"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

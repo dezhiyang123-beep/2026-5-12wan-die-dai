@@ -1,0 +1,335 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 户外壁灯
+  tertiary: 户外壁灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_户外壁灯_001
+  source_images:
+  - filename: 02.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/02.jpg
+    image_role: hero
+    visual_anchor: 白色圆柱壁灯成组贴墙，底部小圆深腔向下投出窄光束。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 户外壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 白色圆柱壁灯成组贴墙，底部小圆深腔向下投出窄光束
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 户外壁灯
+  - 深腔
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色圆柱壁灯成组贴墙，底部小圆深腔向下投出窄光束
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_户外壁灯_002
+  source_images:
+  - filename: 03.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/03.jpg
+    image_role: hero
+    visual_anchor: 白黑两色方形支架投光灯，前端矩阵透镜面板安装在短臂上。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 户外壁灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 高光/镜面局部反射，发光面柔化处理
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 白黑两色方形支架投光灯，前端矩阵透镜面板安装在短臂上
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 户外壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白黑两色方形支架投光灯，前端矩阵透镜面板安装在短臂上
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_户外壁灯_003
+  source_images:
+  - filename: 06.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/06.jpg
+    image_role: hero
+    visual_anchor: 白色圆盘斜切成椭圆开口，暖色内腔从墙面侧向发光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 户外壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色圆盘斜切成椭圆开口，暖色内腔从墙面侧向发光
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 户外壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色圆盘斜切成椭圆开口，暖色内腔从墙面侧向发光
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_户外壁灯_004
+  source_images:
+  - filename: 08.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/08.jpg
+    image_role: hero
+    visual_anchor: 多只白色楔形户外壁灯以不同角度展示，窄缝光从底部射出。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 户外壁灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 多只白色楔形户外壁灯以不同角度展示，窄缝光从底部射出
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 户外
+  - 户外壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 多只白色楔形户外壁灯以不同角度展示，窄缝光从底部射出
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_户外壁灯_005
+  source_images:
+  - filename: 10.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/10.jpg
+    image_role: hero
+    visual_anchor: 铜色细长圆柱吊挂在户外立面前，黑色顶线形成悬垂安装。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 户外壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 铜色细长圆柱吊挂在户外立面前，黑色顶线形成悬垂安装
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 户外
+  - 户外壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 铜色细长圆柱吊挂在户外立面前，黑色顶线形成悬垂安装
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_户外壁灯_006
+  source_images:
+  - filename: 21.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/21.jpg
+    image_role: hero
+    visual_anchor: 黑白两只截锥形壁灯上下洗墙，暖黄背景突出双向光束。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 户外壁灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 黑白两只截锥形壁灯上下洗墙，暖黄背景突出双向光束
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 户外壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑白两只截锥形壁灯上下洗墙，暖黄背景突出双向光束
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_户外壁灯_007
+  source_images:
+  - filename: 22.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/22.jpg
+    image_role: hero
+    visual_anchor: 黑白截锥形户外壁灯成对展示，窄颈处形成上下对称光锥。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 户外壁灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 黑白截锥形户外壁灯成对展示，窄颈处形成上下对称光锥
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 户外
+  - 户外壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑白截锥形户外壁灯成对展示，窄颈处形成上下对称光锥
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_户外壁灯_008
+  source_images:
+  - filename: 27.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/27.jpg
+    image_role: hero
+    visual_anchor: 黑色弯头户外壁灯像短管从墙面伸出，椭圆白色光口朝下前方。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 户外壁灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 黑色弯头户外壁灯像短管从墙面伸出，椭圆白色光口朝下前方
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 户外
+  - 户外壁灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色弯头户外壁灯像短管从墙面伸出，椭圆白色光口朝下前方
+  problem_solved: 壁灯需要在有限墙面凸出内提供有效照明，同时保持立面干净和安装存在感低。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

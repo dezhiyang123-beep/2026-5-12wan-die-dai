@@ -1,0 +1,499 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "手电筒"
+  tertiary: "迷你手电"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_迷你_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/01.jpg"
+        image_role: "hero"
+        visual_anchor: "横向方形铝合金体+OLED显示屏+双LED头部"
+    product_name: "Nitecore TIKI PLUS"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "横向扁方形，宽高比约1.8:1，棱角收边，枪灰色整体"
+      light_opening: "双LED并排，嵌入铝合金头部，圆形出光口"
+      thermal: "铝合金一体壳被动散热，无散热鳍片"
+      cmf:
+        color: "枪灰色（Gunmetal）"
+        material: "铝合金机身+黑色工程塑料按键"
+        finish: "喷砂阳极氧化+哑光"
+      mounting: "四角螺丝可见，一侧挂绳孔"
+      signature_detail: "顶面嵌入OLED屏实时显示亮度等级（TURBO 600LM），双功能按键（模式切换+电源）"
+    design_level:
+      score: 4
+      reason: "OLED亮度实时显示在钥匙灯尺寸内罕见，铝合金棱面造型工艺精良，双LED与屏幕三元素排布有品牌辨识度"
+    design_tags: ["OLED显示", "双LED", "铝合金", "钥匙灯形态", "枪灰色", "双按键", "扁方形"]
+    hero_feature: "OLED实时亮度显示屏嵌入钥匙灯尺寸机身"
+    problem_solved: "随时掌握当前亮度档位和电量，无需记忆按键逻辑"
+    transferable_technique: "在小尺寸EDC工具上集成信息显示屏，提升状态可见性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/02.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向矩形橙色铝合金体+顶部出光口+双按键"
+    product_name: "Nitecore TIP3"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "竖向矩形，类似打火机轮廓，顶部单LED出光"
+      light_opening: "顶部单LED，小圆形出光口嵌入机身顶端"
+      thermal: "铝合金一体壳被动散热"
+      cmf:
+        color: "橙色阳极氧化（Safety Orange）"
+        material: "铝合金机身+黑色工程塑料按键"
+        finish: "光面阳极氧化"
+      mounting: "底部USB-C充电口，顶角挂绳环"
+      signature_detail: "正面四点LED电量指示+锁定图标，双独立按键（模式+电源），橙色高辨识度配色"
+    design_level:
+      score: 3
+      reason: "打火机造型直觉易懂，橙色配色高辨识，但整体语言较常规，无突破性设计细节"
+    design_tags: ["打火机形态", "顶部出光", "橙色", "铝合金", "双按键", "USB-C", "四点电量指示"]
+    hero_feature: "Safety Orange高辨识阳极氧化配色+顶部出光打火机造型"
+    problem_solved: "紧急场景下快速找到手电，顶部出光便于点状照明"
+    transferable_technique: "高饱和安全色在EDC工具上的辨识度应用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/03.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向矩形黑色铝合金体+OLED大屏+双按键"
+    product_name: "Nitecore TUP2"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "竖向矩形，顶部出光口，整体纯黑色，比TIP3更宽"
+      light_opening: "顶部单LED出光口，直径较小"
+      thermal: "铝合金机身被动散热"
+      cmf:
+        color: "全黑（Matte Black）"
+        material: "铝合金机身+黑色工程塑料按键"
+        finish: "哑光喷砂阳极氧化"
+      mounting: "底部有充电接口，四角挂绳孔"
+      signature_detail: "顶部嵌入OLED屏显示TURBO 1200LM大字体，双功能按键，Nitecore品牌字标居中"
+    design_level:
+      score: 4
+      reason: "1200LM的OLED大字体显示在打火机尺寸上视觉冲击强，全黑极简配色与信息密度形成张力"
+    design_tags: ["OLED显示", "顶部出光", "全黑", "铝合金", "双按键", "打火机形态", "高流明"]
+    hero_feature: "OLED大字体亮度显示（TURBO 1200LM）在打火机尺寸机身"
+    problem_solved: "无需任何操作即可直视当前最大亮度，增强产品信任感"
+    transferable_technique: "产品核心参数视觉化外显，在待机状态即传递性能感知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/04.jpg"
+        image_role: "hero"
+        visual_anchor: "横向扁方形黑色镜面铝合金体+双LED+OLED屏"
+    product_name: "Nitecore TIKI"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "横向扁方形，类U盘比例，黑色镜面处理"
+      light_opening: "双LED并排，嵌入侧面，圆形出光口"
+      thermal: "铝合金一体壳被动散热"
+      cmf:
+        color: "镜面黑（Glossy Black）"
+        material: "铝合金机身+黑色工程塑料按键"
+        finish: "镜面抛光"
+      mounting: "一侧USB-A直充接口（无线），角部挂绳孔"
+      signature_detail: "OLED屏显示TURBO MODE 500LM，双圆形按键并排，镜面反光强视觉感"
+    design_level:
+      score: 3
+      reason: "镜面黑配合OLED有科技感，但镜面抗划痕差，U盘形态已是EDC常规解法"
+    design_tags: ["OLED显示", "双LED", "镜面黑", "铝合金", "双按键", "U盘形态", "USB直充"]
+    hero_feature: "镜面黑铝合金+OLED屏的U盘形态钥匙灯"
+    problem_solved: "钥匙环携带，随时可用，镜面黑提升精品感"
+    transferable_technique: "镜面处理在小尺寸EDC上的精品质感呈现"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/05.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱形透明灰PC壳+黑色金属头+单圆形按键"
+    product_name: "Nitecore TINI2"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "圆柱形，头部金属扩径，整体接近指形"
+      light_opening: "单LED，头部银色铝合金反光杯"
+      thermal: "金属头部散热，透明塑料尾部隔热"
+      cmf:
+        color: "透明烟灰色（Smoked Clear）"
+        material: "透明PC机身+铝合金头部"
+        finish: "透明本色+金属拉丝"
+      mounting: "尾部直插USB-C（无盖）"
+      signature_detail: "透明PC壳内可见电池/电路板，单圆形电源按键嵌入上表面，USB-C直接内嵌尾部"
+    design_level:
+      score: 4
+      reason: "透明壳内部可视性极强，是Nitecore差异化设计语言，内部构造即为视觉卖点；USB-C直嵌尾部解决了充电接口暴露问题"
+    design_tags: ["透明壳", "圆柱形", "铝合金头部", "USB-C直充", "单按键", "内部可视", "烟灰透明"]
+    hero_feature: "透明PC壳内可见电路板与电池，内构即设计"
+    problem_solved: "让用户直观看到电量状态和内部品质，减少黑盒焦虑"
+    transferable_technique: "透明壳可视化内构作为品牌信任度建立手法，可迁移至其他EDC工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/06.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱形蓝色半透明塑料壳+黑色金属头"
+    product_name: "Nitecore TINI"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "圆柱形，头部扩径，尾部圆润收尾"
+      light_opening: "单LED，黑色金属头部，单圆形出光口"
+      thermal: "金属头部被动散热"
+      cmf:
+        color: "蓝色半透明（Blue Translucent）"
+        material: "半透明蓝色PC壳+铝合金头部"
+        finish: "半透明本色+金属喷砂"
+      mounting: "尾部可见充电口"
+      signature_detail: "整体颜色鲜明，圆形大按键居中，半透明蓝色透出内部轮廓"
+    design_level:
+      score: 2
+      reason: "配色鲜明但设计语言简单，圆柱形加大按键是最基础的解法，无明显创新点"
+    design_tags: ["半透明壳", "圆柱形", "蓝色", "铝合金头部", "单按键", "入门款"]
+    hero_feature: "蓝色半透明PC壳的简洁圆柱形钥匙灯"
+    problem_solved: "低成本、高辨识度、易上手的日常携带光源"
+    transferable_technique: "彩色半透明壳在小尺寸产品上的亲和力表达"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/07.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向矩形全黑铝合金体+OLED大屏4000LM+双按键+底部挂绳孔"
+    product_name: "Nitecore T4K"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "竖向矩形，接近TUP2但稍高，圆角更小，更趋向方正"
+      light_opening: "顶部单LED出光口，直径较小"
+      thermal: "铝合金一体壳被动散热，无外部散热鳍"
+      cmf:
+        color: "全黑（Matte Black）"
+        material: "铝合金机身+黑色工程塑料按键"
+        finish: "哑光喷砂阳极氧化"
+      mounting: "底部挂绳孔，顶部出光口，四角暗色螺丝"
+      signature_detail: "OLED大字体显示TURBO 4000LMS，品牌LOGO居顶，双独立按键，底部金属挂绳环"
+    design_level:
+      score: 5
+      reason: "在打火机尺寸实现4000流明是品类极端性能标杆，OLED数字显示'4000LMS'在视觉上即是产品核心卖点；设计语言与性能完全统一，黑色极简衬托数字冲击力"
+    design_tags: ["OLED显示", "顶部出光", "全黑", "铝合金", "双按键", "4000流明", "极端性能", "打火机形态"]
+    hero_feature: "4000流明顶部OLED实时显示，打火机尺寸的极端性能外显"
+    problem_solved: "专业户外/应急场景需要极高流明量但不想携带大型手电"
+    transferable_technique: "性能数字视觉化外显（OLED大字体）作为最强差异化手法；在最小尺寸实现品类最高性能的反差冲击"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/08.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱形透明灰PC壳+银色金属头，单按键"
+    product_name: "Nitecore TINI2（透明银变体）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "圆柱形，头部金属扩径，与05.jpg（TINI2烟灰版）同款轮廓"
+      light_opening: "单LED，银色铝合金反光杯，金色LED可见"
+      thermal: "金属头部散热，透明PC尾部"
+      cmf:
+        color: "透明本色（Clear）+银色金属头"
+        material: "透明PC机身+银色铝合金头部"
+        finish: "透明本色+金属拉丝"
+      mounting: "尾部直插USB-C"
+      signature_detail: "银色金属头配合全透明PC壳，对比度比烟灰版更高；黑色小矩形按键嵌入透明壳上方"
+    design_level:
+      score: 3
+      reason: "与nc_迷你_005（烟灰版）为同款产品的配色变体，银白色调更轻盈，设计层面无额外创新，分值因同款降分"
+    design_tags: ["透明壳", "圆柱形", "银色金属头", "USB-C直充", "单按键", "内部可视", "配色变体"]
+    hero_feature: "全透明PC壳+银色金属头，内构可视最大化"
+    problem_solved: "同TINI2烟灰版，银色版更适合追求轻盈感的用户"
+    transferable_technique: "同一产品形态通过金属头部色彩（银/黑）与壳体透明度组合，低成本扩充SKU差异化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/09.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱形全黑铝合金+黑塑料尾+单按键+侧面clip"
+    product_name: "Nitecore TINI（黑色铝合金版）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "圆柱形，头部轻微扩径，整体接近子弹形"
+      light_opening: "单LED，黑色铝合金头部，单圆形出光口"
+      thermal: "铝合金头部被动散热"
+      cmf:
+        color: "全黑（Matte Black）"
+        material: "铝合金机身+黑色工程塑料尾部"
+        finish: "哑光喷砂"
+      mounting: "侧面金属clip，可夹帽檐/口袋"
+      signature_detail: "铝合金+塑料尾的材质分件清晰，侧clip提供三种携带方式，单小矩形按键嵌入上表面"
+    design_level:
+      score: 3
+      reason: "全黑圆柱形是EDC手电的成熟可靠解法，侧clip是功能亮点但非创新，整体稳健但不突出"
+    design_tags: ["圆柱形", "全黑", "铝合金", "侧面clip", "单按键", "材质分件", "EDC"]
+    hero_feature: "铝合金+塑料尾的材质分件+侧clip三种携带方式"
+    problem_solved: "多场景固定方式满足不同EDC习惯（口袋/帽檐/钥匙环）"
+    transferable_technique: "材质分件清晰化（金属头部+塑料尾部）降低成本同时保持品质感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/10.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱形透明烟灰PC壳+银色金属头+单按键"
+    product_name: "Nitecore TINI SE"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "圆柱形，头部铝合金扩径，比TINI2稍短，比例更接近子弹形"
+      light_opening: "单LED，银色铝合金反光杯，金色LED可见"
+      thermal: "铝合金头部散热"
+      cmf:
+        color: "透明烟灰（Smoked Clear）+银色金属头"
+        material: "透明PC机身+银色铝合金头部"
+        finish: "透明本色+金属拉丝"
+      mounting: "尾部USB-C直充接口"
+      signature_detail: "透明烟灰壳透出内部电路隐约轮廓，小矩形按键嵌入上表面，比TINI2略短胖"
+    design_level:
+      score: 3
+      reason: "与TINI2透明版设计语言高度相似，SE版本比例略有不同，是产品线内的入门简化版，无独立创新点"
+    design_tags: ["透明壳", "圆柱形", "银色金属头", "USB-C直充", "单按键", "烟灰透明", "入门款"]
+    hero_feature: "透明烟灰PC壳+银色金属头的圆柱形EDC钥匙灯"
+    problem_solved: "低成本入门版透明壳EDC手电，保留透明壳视觉语言"
+    transferable_technique: "透明壳品牌语言在入门价格段的延续"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_011"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/11.jpg"
+        image_role: "hero"
+        visual_anchor: "扁平矩形半透明黑色塑料+斜纹浮雕+单LED+挂绳孔"
+    product_name: "Nitecore TUBE2"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "扁平横向矩形，接近U盘形态，厚度极薄"
+      light_opening: "单LED，嵌入侧端，出光口极小"
+      thermal: "塑料壳自然散热，低功率无需主动散热"
+      cmf:
+        color: "半透明黑色（Translucent Black）"
+        material: "半透明ABS/PC塑料机身"
+        finish: "半透明本色+表面斜纹浮雕"
+      mounting: "两端各有挂绳孔，可双侧悬挂"
+      signature_detail: "表面大面积斜纹浮雕增加握持纹理，方形大按键嵌入正面，两端金属挂绳环，NITECORE字标压纹"
+    design_level:
+      score: 2
+      reason: "超薄U盘形态极简可靠，但设计语言与品牌高端线差距明显，斜纹浮雕为低成本增质感的常规手法"
+    design_tags: ["超薄扁平", "半透明黑", "U盘形态", "斜纹浮雕", "双端挂绳孔", "单LED", "入门款"]
+    hero_feature: "极薄扁平形态+双端挂绳孔，钥匙环最薄携带方案"
+    problem_solved: "最低存在感的随身光源，挂在钥匙环上几乎感受不到重量"
+    transferable_technique: "超薄扁平形态+双挂孔在钥匙灯品类的极简减负解法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_012"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/12.jpg"
+        image_role: "hero"
+        visual_anchor: "方形全黑铝合金+皮卡汀尼导轨兼容夹具+侧面单LED"
+    product_name: "Nitecore VL10"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "横向宽扁方形，底部带皮卡汀尼接口夹具，主体较厚实"
+      light_opening: "侧面单LED，出光轴垂直于夹持轴"
+      thermal: "铝合金机身被动散热"
+      cmf:
+        color: "全黑（Matte Black）"
+        material: "铝合金机身+黑色聚合物夹具"
+        finish: "哑光喷砂+金属NITECORE浮雕"
+      mounting: "底部皮卡汀尼导轨夹具，可装枪/装备"
+      signature_detail: "NITECORE金属浮雕标识嵌入正面面板，皮卡汀尼接口提供战术装备安装能力，螺丝外露可见"
+    design_level:
+      score: 3
+      reason: "战术夹具设计面向专业用户，功能明确，但视觉语言较工程化，设计美学服从功能性"
+    design_tags: ["全黑", "铝合金", "皮卡汀尼导轨", "战术夹具", "方形", "侧面出光", "专业装备"]
+    hero_feature: "皮卡汀尼导轨兼容夹具，可安装于战术装备/枪支导轨"
+    problem_solved: "双手解放场景下的战术照明，不占握持空间"
+    transferable_technique: "通用装备接口（皮卡汀尼）的夹具集成方案可迁移至户外装备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_013"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/13.jpg"
+        image_role: "hero"
+        visual_anchor: "扁平椭圆形黑灰双色塑料+双LED+侧发光带+Solar充电窗+双方形按键"
+    product_name: "Nitecore THUMB（含Solar充电版）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "扁平横向椭圆矩形，四角大圆角，比TUBE2更厚实"
+      light_opening: "双LED并排嵌入侧端，侧发光设计"
+      thermal: "塑料壳低功率自然散热"
+      cmf:
+        color: "黑色+深灰双色（Black/Dark Gray）"
+        material: "ABS/PC塑料机身，哑光黑+灰色双件"
+        finish: "哑光本色，带斜线纹路浮雕装饰"
+      mounting: "顶面嵌入太阳能充电窗口（矩形），双端均有连接点"
+      signature_detail: "顶面太阳能充电窗外露，斜线纹路辐射型装饰图案，双方形按键（R+S标识），黑灰分件视觉分区"
+    design_level:
+      score: 4
+      reason: "太阳能充电整合到钥匙灯是品类少见功能，结合侧发光和双LED实现多灯效，斜线辐射纹路有设计感；EDC小物集成太阳能充电是可迁移的创新方向"
+    design_tags: ["太阳能充电", "双LED", "侧发光", "扁平椭圆", "黑灰双色", "双按键", "辐射纹路", "无线充电"]
+    hero_feature: "太阳能充电窗口集成于钥匙灯尺寸机身，实现免线充电"
+    problem_solved: "户外长期携带无需充电线，太阳能补能延长续航"
+    transferable_technique: "Solar充电窗口集成在小尺寸EDC工具上的功能创新，可迁移至户外手表/传感器等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_迷你_014"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/迷你手电/14.jpg"
+        image_role: "hero"
+        visual_anchor: "横向宽体深灰+黑双色+三LED阵列（2红1白）+帽夹clip+AAA电池"
+    product_name: "Nitecore CL10"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "迷你手电"]
+    design_language:
+      silhouette: "横向宽扁方形，比TIKI宽2倍，厚度中等，头部较宽"
+      light_opening: "三LED横排（2个红光+1个白光），嵌入宽头部，各带独立反光镜"
+      thermal: "铝合金+塑料复合壳体，低功率自然散热"
+      cmf:
+        color: "深灰+黑双色（Dark Gray/Black）"
+        material: "铝合金+ABS塑料复合机身"
+        finish: "哑光喷砂，顶面散热栅格纹"
+      mounting: "底部帽夹（Hat Brim Clip），可夹帽檐，AAA电池供电"
+      signature_detail: "三LED横排阵列（红白混合），顶面散热栅格纹理，帽夹clip底部伸出，适合免双手的读图/作业场景"
+    design_level:
+      score: 3
+      reason: "红白混合LED是品类功能创新（白光作业+红光保护夜视），帽夹固定方式有特定场景价值；整体造型较工程化，美学设计一般"
+    design_tags: ["红白混合LED", "三LED阵列", "帽夹clip", "AAA电池", "宽体方形", "深灰黑双色", "红光夜视保护"]
+    hero_feature: "红白混合三LED阵列+帽夹固定，免双手阅图/作业专用"
+    problem_solved: "户外作业/读地图场景，红光保护夜视，白光用于精细作业，帽夹固定解放双手"
+    transferable_technique: "红白混合光源阵列在小尺寸灯具上的专业场景细分；帽夹固定方式可迁移至头灯替代品设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

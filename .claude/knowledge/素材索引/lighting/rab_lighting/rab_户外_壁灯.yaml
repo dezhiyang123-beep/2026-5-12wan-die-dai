@@ -1,0 +1,476 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "壁灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_户外壁灯_001"
+    source_images:
+      - filename: "02__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/02__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "X形双棱锥几何造型，上下两个四棱锥对顶，中腰白色光带"
+    product_name: "Diamond X-Facet Wall Sconce"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "正方形对顶双锥体，X截面轮廓，顶面平坦"
+      light_opening: "中腰水平环形白色磨砂扩散板，上下出光"
+      thermal: "结构件兼散热，无独立散热鳍片"
+      cmf:
+        color: "哑光深青铜黑"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光"
+      mounting: "底部螺钉直接壁装"
+      signature_detail: "上下棱锥折面对称形成X视觉语言，几何感极强"
+    design_level:
+      score: 5
+      reason: "造型原创度极高，双棱锥X结构在壁灯品类中罕见，几何折面处理精准，品牌识别度强"
+    design_tags: ["几何折面", "双向出光", "对称结构", "建筑感", "H07极简整合", "H08对比强调"]
+    hero_feature: "上下对顶四棱锥形成X字造型，中腰白色光带横贯"
+    problem_solved: "在强调功能性的商用户外壁灯中植入雕塑感，兼顾装饰性与防眩光"
+    transferable_technique: "利用几何折面分件代替传统雨棚，将结构件本身变为装饰语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_002"
+    source_images:
+      - filename: "07__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/07__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形底座+圆柱颈+大椭圆遮光碟，侧向安装"
+    product_name: "Disc Shield Wall Spotlight"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "圆形底盘＋短圆柱颈＋大椭圆遮光碟的侧向悬挑结构"
+      light_opening: "圆柱颈正面朝下出光，椭圆碟板完全遮蔽直射光"
+      thermal: "圆柱颈后段内藏LED模组，无外露散热片"
+      cmf:
+        color: "哑光深石墨灰"
+        material: "压铸铝"
+        finish: "粉末喷涂细砂纹"
+      mounting: "圆形底盘螺钉壁装"
+      signature_detail: "超大椭圆遮光碟悬挑，比灯体直径宽2倍以上，形成强烈视觉对比"
+    design_level:
+      score: 4
+      reason: "遮光碟尺寸比例夸张且功能合理，造型语言简洁有力，工业感强"
+    design_tags: ["遮光碟", "防眩光", "圆形语言", "H09隐藏工程", "H08对比强调"]
+    hero_feature: "超尺度椭圆遮光碟与细圆柱颈的比例对比"
+    problem_solved: "壁装聚光灯防眩光同时保持造型简洁，无需额外格栅"
+    transferable_technique: "以大尺度遮光板作为主造型元素，功能件即设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_003"
+    source_images:
+      - filename: "09__from壁挂灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/09__from壁挂灯.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向圆柱筒体，双端开口出光，L形壁装托臂"
+    product_name: "Dual-End Cylinder Up/Down Wall Light"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "竖向圆柱体，上下两端均开口，L形方截面托臂侧连"
+      light_opening: "顶端上照+底端下照，双向出光，底端内嵌反射杯可见"
+      thermal: "圆柱体外壁兼散热，铝制筒体"
+      cmf:
+        color: "纯白"
+        material: "压铸铝"
+        finish: "粉末喷涂亮白"
+      mounting: "L形方臂侧壁安装，螺钉固定"
+      signature_detail: "纯圆柱体无任何装饰细节，双端出光靠比例和颜色传达品质感"
+    design_level:
+      score: 3
+      reason: "造型极简克制，圆柱筒为常见形态，但白色+双向出光组合执行干净"
+    design_tags: ["圆柱筒", "双向出光", "极简", "建筑壁灯", "H07极简整合"]
+    hero_feature: "纯圆柱几何体双端开口，线条干净无冗余"
+    problem_solved: "建筑立面需要上下双向洗墙效果，同时保持外观简洁不破坏立面"
+    transferable_technique: "圆柱截面加L托臂是上下出光壁灯的标准骨架，可快速适配不同风格"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_004"
+    source_images:
+      - filename: "14__from场地灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/14__from场地灯.jpg"
+        image_role: "hero"
+        visual_anchor: "工业鼓形灯体+密集散热鳍片顶冠+水平壁装托臂"
+    product_name: "Industrial Drum Wall-Arm Flood"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "圆台形鼓体，顶部密集辐射状散热鳍片，底部白色光扩散环，侧接圆管托臂"
+      light_opening: "底面朝下出光，半透明乳白扩散环"
+      thermal: "顶部外露密集放射状鳍片，散热结构即造型特征"
+      cmf:
+        color: "浅灰/铸铝本色"
+        material: "压铸铝+注塑扩散件"
+        finish: "粉末喷涂浅灰"
+      mounting: "水平圆管托臂，壁面法兰盘安装"
+      signature_detail: "顶冠密集放射鳍片如涡轮叶轮，工业机械感强烈"
+    design_level:
+      score: 3
+      reason: "功能驱动造型，散热鳍片外显有识别度，但整体语言偏工程感，设计主动性有限"
+    design_tags: ["散热鳍片外显", "工业风", "圆台造型", "H11功能外显", "商业照明"]
+    hero_feature: "顶冠密集放射散热鳍片构成类涡轮机械美学"
+    problem_solved: "大功率户外壁灯散热需求与防护等级兼顾，散热结构直接外露即造型"
+    transferable_technique: "将功能性散热鳍片设计为顶冠装饰语言，适用于高功率户外灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_005"
+    source_images:
+      - filename: "18__from雨棚灯_from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/18__from雨棚灯_from泛光灯.jpg"
+        image_role: "hero"
+        visual_anchor: "大矩形框架壳体，内嵌白色大面板，顶部LED线条光源"
+    product_name: "Rectangular Frame Canopy Wall Pack"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "大型扁平矩形框架，宽高比约2:1，正面开放内嵌白色扩散板"
+      light_opening: "顶部内侧LED线条光源打向扩散面板，大面积漫反射出光"
+      thermal: "框架结构内藏驱动，无外露散热件"
+      cmf:
+        color: "哑光黑"
+        material: "钢板折弯焊接"
+        finish: "粉末喷涂哑光黑"
+      mounting: "背板直接壁装，四角螺钉"
+      signature_detail: "超大矩形黑色框架内嵌纯白发光面，形成强烈黑白负空间对比"
+    design_level:
+      score: 4
+      reason: "框架+内嵌面板构成强烈黑白对比，尺度感突出，适合门廊和商业入口，造型简练有张力"
+    design_tags: ["大尺度框架", "黑白对比", "线性光源", "H08对比强调", "H07极简整合", "雨棚灯"]
+    hero_feature: "超大黑色矩形金属框架内嵌白色大面积发光板"
+    problem_solved: "雨棚/门廊大面积均匀照明，同时具备强烈建筑装饰性"
+    transferable_technique: "框架即灯罩，负空间作为光出口，黑框+白漫反射板的对比适用于商业入口照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_006"
+    source_images:
+      - filename: "19__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/19__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "椭圆形灯体，黑色金属格栅笼+竖纹磨砂玻璃球"
+    product_name: "Oval Bulkhead Cage Lantern"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "竖向椭圆轮廓，金属格栅肋骨覆盖于磨砂玻璃外表面"
+      light_opening: "正面全面积磨砂玻璃漫反射出光，格栅不遮挡主出光面"
+      thermal: "LED内置，热量由铝制外框传导"
+      cmf:
+        color: "哑光黑（框架）+ 纹理白（玻璃）"
+        material: "压铸铝框架+竖纹磨砂PC/玻璃扩散片"
+        finish: "粉末喷涂哑光黑"
+      mounting: "椭圆背板直接壁装"
+      signature_detail: "格栅肋骨均匀分布于椭圆表面，同心椭圆纹理磨砂玻璃内可见"
+    design_level:
+      score: 3
+      reason: "传统船用/工业灯笼造型，执行工整，但造型语言无创新，属于经典复刻"
+    design_tags: ["格栅笼", "传统灯笼", "椭圆造型", "船用风格", "磨砂玻璃"]
+    hero_feature: "金属格栅肋骨覆盖椭圆同心纹理磨砂玻璃球"
+    problem_solved: "需要传统工业/船用视觉语言的户外壁灯，兼顾耐候性"
+    transferable_technique: "格栅笼作为防护与装饰双重语言，适用于需要工业复古感的品牌"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_007"
+    source_images:
+      - filename: "19__from雨棚灯_from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/19__from雨棚灯_from泛光灯.jpg"
+        image_role: "hero"
+        visual_anchor: "紧凑矩形壁包灯，黑色壳体，倒角顶部，前面板竖纹磨砂扩散板"
+    product_name: "Compact LED Wall Pack Mini"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "小尺寸竖向矩形体，顶部单侧斜切倒角，整体比例偏瘦高"
+      light_opening: "正面竖纹磨砂PC面板，全面积均匀出光"
+      thermal: "铝制外壳整体散热，无外露鳍片"
+      cmf:
+        color: "哑光黑"
+        material: "压铸铝+磨砂PC面板"
+        finish: "粉末喷涂哑光黑"
+      mounting: "背板螺钉壁装，底部接线"
+      signature_detail: "顶部单侧斜切倒角使矩形体有方向感，前面板圆角竖纹扩散板"
+    design_level:
+      score: 2
+      reason: "形态常规，倒角处理略显特色但整体属于标准经济型壁包灯，无明显差异化"
+    design_tags: ["壁包灯", "经济型", "紧凑矩形", "磨砂面板", "商用户外"]
+    hero_feature: "小型矩形体顶部单侧斜切，赋予方向感"
+    problem_solved: "低成本户外壁灯需求，满足基础防护和均匀照明"
+    transferable_technique: "单侧斜切倒角为矩形体增加方向感，低成本形态差异化手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_008"
+    source_images:
+      - filename: "20__from壁挂灯_from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/20__from壁挂灯_from泛光灯.jpg"
+        image_role: "hero"
+        visual_anchor: "正面大圆角矩形磨砂白面板，深黑色边框，极简正视图"
+    product_name: "Flush Lens Wall Pack"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "矩形体，正面几乎全覆盖圆角磨砂白扩散面板，黑色边框极窄"
+      light_opening: "正面全面积大圆角磨砂PC面板，漫反射均匀出光"
+      thermal: "铝制壳体散热，无外露结构"
+      cmf:
+        color: "哑光黑（框）+ 磨砂白（面板）"
+        material: "压铸铝+磨砂PC"
+        finish: "粉末喷涂哑光黑"
+      mounting: "背面壁装"
+      signature_detail: "面板占正面面积90%以上，边框极窄，视觉上接近纯白发光砖"
+    design_level:
+      score: 3
+      reason: "极简克制，黑框白面板执行干净，但造型语言过于通用，无强识别特征"
+    design_tags: ["大面板", "极简边框", "均匀漫反射", "H07极简整合"]
+    hero_feature: "近乎全面积大圆角磨砂白发光面板，边框极窄"
+    problem_solved: "需要高均匀度漫反射照明且外观极简不抢眼的场景"
+    transferable_technique: "最大化扩散面板占比、最小化框体宽度，视觉上接近浮光砖效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_009"
+    source_images:
+      - filename: "22__from删除桶.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/22__from删除桶.jpg"
+        image_role: "hero"
+        visual_anchor: "梯形壳体上半段深灰金属，下半段白色半透明光罩，顶部光电传感器"
+    product_name: "Trapezoid Wall Pack with Photocell"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "上宽下窄倒梯形体，上半段为深色金属壳，下半段白色矩形光罩"
+      light_opening: "下半段白色乳白PC光罩，前向及下方出光"
+      thermal: "上部铝壳整体导热"
+      cmf:
+        color: "深青铜灰（上）+ 乳白（下）"
+        material: "压铸铝+乳白PC"
+        finish: "粉末喷涂细砂纹"
+      mounting: "顶部及背板螺钉壁装，两颗安装螺钉可见"
+      signature_detail: "顶部突出的圆形光电传感器帽，功能件外显形成识别细节"
+    design_level:
+      score: 2
+      reason: "形态功能导向，倒梯形分体造型中规中矩，光电传感器外露稍显粗糙"
+    design_tags: ["传感器外显", "商用壁包", "分体色块", "经济型"]
+    hero_feature: "顶部外露圆形光电传感器帽"
+    problem_solved: "经济型带光感自动控制的户外壁包灯"
+    transferable_technique: "将传感器帽设计为顶冠识别细节而非隐藏，成本低且辨识度高"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_010"
+    source_images:
+      - filename: "23__from删除桶.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/23__from删除桶.jpg"
+        image_role: "hero"
+        visual_anchor: "深色折角壳体+顶部弧形雨棚+大白色方形光罩，侧面光电传感器"
+    product_name: "Hooded Wall Pack with Sensor"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "上部深色折角雨棚帽向前悬挑，下部大面积白色方形光罩，整体呈L向前探头形态"
+      light_opening: "大面积方形乳白PC光罩，正面及下方出光"
+      thermal: "上部铝制壳体传导散热"
+      cmf:
+        color: "深青铜棕（壳）+ 乳白（光罩）"
+        material: "压铸铝+乳白PC"
+        finish: "粉末喷涂细砂纹"
+      mounting: "侧背壁装，左侧圆形光电传感器"
+      signature_detail: "顶部弧形折面雨棚向前探出，与大面积白光罩形成强对比"
+    design_level:
+      score: 3
+      reason: "雨棚帽折面设计有一定塑造力，金属棕与白光罩色块清晰，比经济型壁包更有设计意图"
+    design_tags: ["雨棚壁包", "色块分割", "光电传感器", "H08对比强调"]
+    hero_feature: "深色折角金属雨棚帽向前悬挑覆盖白色光罩"
+    problem_solved: "需要防雨遮光同时带自动控制的中端户外壁包灯"
+    transferable_technique: "雨棚帽作为壁包灯主造型语言，同时承担遮光和防水功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_011"
+    source_images:
+      - filename: "23__from删除桶_from场地灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/23__from删除桶_from场地灯.jpg"
+        image_role: "hero"
+        visual_anchor: "工业防爆灯笼，灰色铸件头壳+金属丝笼+白色圆柱玻璃罩"
+      - filename: "24__from删除桶.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/24__from删除桶.jpg"
+        image_role: "variant"
+        visual_anchor: "同款不同色：浅灰铸件头壳+镀铬丝笼，更亮色调"
+    product_name: "Vaportight Industrial Cage Wall Light"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "工业防爆灯笼造型：圆形法兰背板+弯管颈+铸造头壳+金属线笼保护罩+圆柱玻璃灯罩"
+      light_opening: "圆柱竖纹磨砂玻璃灯罩全周面出光，线笼露光"
+      thermal: "铸铁/铸铝头壳整体散热"
+      cmf:
+        color: "深灰铸铁色（23版）/ 浅灰铸铝色（24版），线笼：黑色（23版）/ 镀铬（24版）"
+        material: "铸铁/铸铝+金属线笼+竖纹磨砂玻璃"
+        finish: "铸造本色+粉末喷涂"
+      mounting: "圆形法兰背板壁装，多螺钉固定"
+      signature_detail: "暴露全部铸件细节：螺钉、分型线、锁定旋钮，工业真实感不加修饰"
+    design_level:
+      score: 3
+      reason: "忠实还原传统工业防爆灯笼造型，细节真实，深受工业复古风市场欢迎，但无设计创新"
+    design_tags: ["防爆灯笼", "工业复古", "线笼保护", "铸件暴露", "H11功能外显"]
+    hero_feature: "裸露铸件螺钉细节+金属线笼包裹圆柱玻璃罩"
+    problem_solved: "工业/港口/仓库场景需要耐用且视觉匹配环境的防护壁灯"
+    transferable_technique: "不掩盖功能性铸件结构，将螺钉和分型线作为设计语言而非缺陷"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_012"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/26.jpg"
+        image_role: "hero"
+        visual_anchor: "哑光黑，矩形体下窄上宽，隐藏底部出光口，正面完全封闭"
+      - filename: "28__from壁挂灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/28__from壁挂灯.jpg"
+        image_role: "variant"
+        visual_anchor: "深石墨色，侧边亮铬竖向光泽条，底部出光隐藏"
+      - filename: "29__from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/29__from泛光灯.jpg"
+        image_role: "variant"
+        visual_anchor: "拉丝古铜金色，金属纹理竖向丝纹，底部出光隐藏"
+    product_name: "Concealed-Aperture Wall Pack (Multi-Finish)"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "下窄上宽梯形体，正面全封闭无开口，底部隐藏出光缝，侧面轻微弧度"
+      light_opening: "底部隐藏出光缝，光线向下投射，正面无可见开口"
+      thermal: "铝制壳体整体散热，无外露鳍片"
+      cmf:
+        color: "哑光黑 / 深石墨灰+亮铬边 / 拉丝古铜金（三种配色）"
+        material: "压铸铝"
+        finish: "粉末喷涂 / 拉丝金属镀层"
+      mounting: "背板壁装，左侧隐藏安装螺钉"
+      signature_detail: "正面完全封闭无出光口，底部出光槽完全隐藏，形成'哑光砖块'视觉语言"
+    design_level:
+      score: 4
+      reason: "隐藏出光口是较强的设计决策，三种配色策略完整，古铜金版有装饰属性，整体有品位"
+    design_tags: ["隐藏出光口", "极简封闭体", "多配色策略", "H09隐藏工程", "H10材料表达"]
+    hero_feature: "正面无任何开口的封闭体块，出光口完全隐藏于底部"
+    problem_solved: "建筑师需要外观极简不可见出光口的户外壁灯，同时支持多种建筑风格配色"
+    transferable_technique: "将出光口完全隐藏于产品底部，正面作为纯净建筑语言表面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_户外壁灯_013"
+    source_images:
+      - filename: "27__from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/壁灯/27__from泛光灯.jpg"
+        image_role: "hero"
+        visual_anchor: "楔形斜顶壁包灯，石墨灰，底部白色磨砂出光缝，RAB品牌logo正面可见"
+    product_name: "Wedge Wall Pack"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "壁灯"]
+    design_language:
+      silhouette: "顶面斜切楔形体，后高前低，底部前缘设出光缝，整体侧面呈平行四边形"
+      light_opening: "底部前缘横向磨砂白出光缝，向前下方投射"
+      thermal: "铝制壳体整体散热"
+      cmf:
+        color: "深石墨灰"
+        material: "压铸铝"
+        finish: "粉末喷涂细砂纹"
+      mounting: "后背板壁装，左侧十字螺钉可见"
+      signature_detail: "正面居中RAB品牌标志压印，顶面斜切角度赋予方向感"
+    design_level:
+      score: 3
+      reason: "楔形斜顶给矩形体增加动势，底部出光缝位置合理，品牌标志压印位置克制，整体执行工整"
+    design_tags: ["楔形", "斜顶", "底部出光缝", "品牌logo外显", "H08对比强调"]
+    hero_feature: "斜切楔形顶面赋予方向动势，底部出光缝清晰定义投光方向"
+    problem_solved: "需要明确投光方向指示且造型简洁的中型户外壁包灯"
+    transferable_technique: "顶面斜切代替雨棚，同时传达方向感并减少积水，适用于紧凑型壁包设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

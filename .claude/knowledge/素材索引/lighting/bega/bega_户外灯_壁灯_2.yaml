@@ -1,0 +1,549 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "壁灯"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "bega_户外_壁灯_014"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，深灰色圆形壁灯，白色乳白玻璃面板，细边框，整体扁平紧凑"
+    product_name: "圆形乳白玻璃壁灯（平框款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "正圆形，厚度极薄，轮廓简洁，无多余装饰"
+      light_opening: "正面全开口——整个圆形面板为乳白扩散玻璃，发光面积最大化，360°均匀散射光"
+      thermal: "金属外壳侧面暗藏散热，表面无可见散热结构"
+      cmf:
+        color: "哑光深灰（graphite）"
+        material: "压铸铝 + 乳白玻璃"
+        finish: "细砂纹粉末涂层"
+      mounting: "直接背贴墙面，无外露安装件"
+      signature_detail: "深灰金属边框与白色玻璃面的极简对比，边框极细显得玻璃面板悬浮"
+    design_level:
+      score: 3
+      reason: "经典圆形壁灯形态，工艺精良，但设计语言常见，无突出创新点"
+    design_tags:
+      - "圆形"
+      - "极简"
+      - "乳白玻璃"
+      - "扩散光"
+      - "户外防护"
+      - "贴墙安装"
+    hero_feature: "近乎无边框的纯圆形玻璃发光面"
+    problem_solved: "户外环境需要均匀无眩光的环境照明，全面发光圆盘形态实现柔和大面积散射"
+    transferable_technique: "极细金属边框 + 大面积乳白玻璃扩散面——可迁移至室内壁灯或吸顶灯设计，增大视觉发光面积"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_015"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "正面略带角度视角，深灰色圆形壁灯，顶部有弧形遮罩遮住约1/4圆，乳白玻璃面板"
+    product_name: "圆形遮罩壁灯（半月遮光款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "正圆形灯体，顶部附加一体化弧形金属遮罩，整体轮廓从正面看呈扁圆 + 遮光翼"
+      light_opening: "遮罩遮住顶部约1/4圆弧，发光口为下方约3/4乳白玻璃面——向下及水平方向投射，避免上溢光污染天空"
+      thermal: "遮罩与主体间有空隙，利于散热通风"
+      cmf:
+        color: "哑光深灰（graphite）"
+        material: "压铸铝 + 乳白玻璃"
+        finish: "细砂纹粉末涂层"
+      mounting: "直接背贴墙面"
+      signature_detail: "顶部弧形金属遮罩与圆形灯体形成同心圆切割感，遮罩与灯体材质同色形成整体性"
+    design_level:
+      score: 4
+      reason: "在标准圆形壁灯基础上增加防溢光遮罩，功能导向的形态语言清晰，遮罩与主体的几何关系优雅"
+    design_tags:
+      - "圆形"
+      - "遮光罩"
+      - "防天光污染"
+      - "乳白玻璃"
+      - "功能形态"
+      - "户外防护"
+    hero_feature: "顶部弧形遮罩精准切断向上溢光，功能即形态"
+    problem_solved: "户外壁灯向上溢光造成光污染和眩光问题，弧形遮罩从造型层面直接解决"
+    transferable_technique: "同心弧形遮罩 + 圆形灯体——可迁移至路灯、庭院灯设计，通过局部遮罩控制配光方向而无需改变整体形态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_016"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，深灰色圆球形壁灯，上半部深灰金属圆顶帽覆盖，下半部乳白玻璃半球外露，顶部有两根垂直金属分件线"
+    product_name: "球形蘑菇顶壁灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "完整球体轮廓，上半部为深灰色金属半球帽，下半部乳白玻璃半球，分件线水平居中"
+      light_opening: "下半球乳白玻璃开口——向下及水平方向发光，金属半球帽遮挡上溢光，形成半球形发光区"
+      thermal: "金属上半球有效散热，玻璃下半球传导热量少"
+      cmf:
+        color: "哑光深灰金属帽 + 白色乳白玻璃"
+        material: "压铸铝（上帽） + 乳白玻璃（下半球）"
+        finish: "细砂纹粉末涂层"
+      mounting: "直接背贴墙面，紧凑无外露架"
+      signature_detail: "两根细竖条金属分件线从上帽延伸至玻璃部分，形成视觉锚点和几何装饰，增加立体层次"
+    design_level:
+      score: 4
+      reason: "球形两段式分件处理经典，竖向分件线为纯圆球形态增加精致感和品牌辨识度，整体比例饱满有力"
+    design_tags:
+      - "球形"
+      - "两段式"
+      - "分件线"
+      - "乳白玻璃"
+      - "防天光"
+      - "户外防护"
+      - "经典造型"
+    hero_feature: "球形灯体上下两段材质对比 + 两根细竖向分件线"
+    problem_solved: "户外照明需要360°发光感知但又要防上溢光，球形上下两段式解决美观性与功能性平衡"
+    transferable_technique: "球体上下材质分段 + 竖向分件线——竖线在圆形体上增加方向感和品质感，可迁移至柱灯、落地灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_017"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "正面略带角度视角，深灰色圆形壁灯，宽平边框，乳白玻璃面板呈拱形凸起，四颗不锈钢螺钉露出固定玻璃"
+    product_name: "圆形凸透玻璃壁灯（螺钉固定款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "正圆形，边框宽而平，玻璃面板向外略微凸起（凸透镜形），整体厚度适中"
+      light_opening: "正面全开口——凸起乳白玻璃覆盖整个圆形面，均匀扩散发光，无遮挡方向"
+      thermal: "宽铝边框提供散热面积"
+      cmf:
+        color: "哑光深灰（graphite）金属框 + 乳白玻璃"
+        material: "压铸铝 + 乳白玻璃"
+        finish: "细砂纹粉末涂层"
+      mounting: "直接背贴墙面，四颗外露不锈钢螺钉固定玻璃"
+      signature_detail: "四颗均匀分布的不锈钢螺钉与深灰边框形成材质对比，工业感设计语言，功能件外显为装饰细节"
+    design_level:
+      score: 4
+      reason: "宽边框 + 外露螺钉的工业感处理与乳白玻璃的柔和形成强烈对比，螺钉节点设计精致，整体工业美学突出"
+    design_tags:
+      - "圆形"
+      - "宽边框"
+      - "外露螺钉"
+      - "工业感"
+      - "凸透玻璃"
+      - "全扩散光"
+      - "户外防护"
+    hero_feature: "四颗均匀分布外露不锈钢螺钉——功能件转化为装饰语言"
+    problem_solved: "户外灯具防水固定通常藏匿紧固件，本设计反其道而行将螺钉外显，实现工业美学同时强化防水可靠性感知"
+    transferable_technique: "外露紧固件作为装饰节点——螺钉均匀分布于圆形面板，可迁移至工业风室内灯、户外壁挂设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_018"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/18.jpg"
+        image_role: "hero"
+        visual_anchor: "正面略带角度视角，纯白色圆形壁灯，整体极简，无可见边框，乳白玻璃直接构成整个圆盘形态"
+    product_name: "纯白圆盘壁灯（无边框款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "正圆形，极扁平，几乎无可见边框，整个圆盘即为灯体与发光面合一"
+      light_opening: "正面全开口——整个圆盘为乳白扩散面，前向均匀发光，侧面无发光"
+      thermal: "超薄圆盘形态，内置散热，无外露散热结构"
+      cmf:
+        color: "纯白色"
+        material: "乳白玻璃或白色树脂"
+        finish: "哑光白"
+      mounting: "直接背贴墙面，无外露紧固件"
+      signature_detail: "极度克制——无任何分件线、紧固件、色彩对比，纯白色圆盘形态达到极简极限"
+    design_level:
+      score: 4
+      reason: "极简设计哲学执行彻底，纯白无边框圆盘与灰色背景形成空灵感，但识别度极高；挑战在于色彩策略与BEGA惯用深灰不同"
+    design_tags:
+      - "圆形"
+      - "极简"
+      - "纯白"
+      - "无边框"
+      - "圆盘"
+      - "全扩散光"
+      - "克制美学"
+    hero_feature: "纯白色无边框圆盘——形体与材质的极简化处理"
+    problem_solved: "现代简约建筑需要与墙面融合的照明器具，纯白无边框圆盘最大化减少视觉干扰"
+    transferable_technique: "去除所有分件线和边框的单材质圆盘形态——适用于需要融入白色墙面或天花的室内外灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_019"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/19.jpg"
+        image_role: "hero"
+        visual_anchor: "正面略带角度视角，圆形壁灯，外壳深灰，内圈有白色细内框，乳白玻璃面板，整体略小于014款"
+    product_name: "圆形双层边框壁灯（内白外灰款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "正圆形，深灰外框内嵌一圈白色内框，形成双层边框结构，玻璃面板居中"
+      light_opening: "正面全开口——乳白玻璃覆盖圆形面，360°均匀扩散发光，双层边框限定发光区域"
+      thermal: "金属外壳，内嵌结构提供一定散热路径"
+      cmf:
+        color: "深灰外框 + 白色内框 + 乳白玻璃"
+        material: "压铸铝 + 乳白玻璃"
+        finish: "细砂纹粉末涂层（外）+ 白色涂层（内框）"
+      mounting: "直接背贴墙面"
+      signature_detail: "深灰外圆框与白色细内框的双层嵌套——材质/色彩对比创造视觉层次，类似镜框结构"
+    design_level:
+      score: 3
+      reason: "双层边框处理增加层次感，但与014款相比形态差异较小，区分度靠材质对比体现"
+    design_tags:
+      - "圆形"
+      - "双层边框"
+      - "层次感"
+      - "乳白玻璃"
+      - "全扩散光"
+      - "户外防护"
+    hero_feature: "深灰外框 + 白色细内框双层嵌套结构"
+    problem_solved: "在保持圆形壁灯基本形态下，通过双层边框增加视觉精致度和层次感"
+    transferable_technique: "同心双层框结构（外深内浅色对比）——增加圆形灯具的视觉层次，可迁移至室内吸顶灯或圆形镜框式装饰灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_020"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，较大圆形壁灯，深灰宽金属边框，乳白玻璃面板内嵌一圈灰色细内槽，整体比例更大更厚"
+    product_name: "大型圆形壁灯（宽框深体款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "正圆形，边框宽且体厚，侧面深度明显，整体体量感强，工业感十足"
+      light_opening: "正面全开口——大面积乳白玻璃，发光面积大，乳白玻璃内侧有一圈灰色细内槽形成凹陷过渡"
+      thermal: "大体积金属框体提供充分散热面积，适合高功率光源"
+      cmf:
+        color: "哑光深灰（graphite）"
+        material: "压铸铝 + 乳白玻璃"
+        finish: "细砂纹粉末涂层"
+      mounting: "直接背贴墙面，重量较重需要坚固安装"
+      signature_detail: "超宽金属边框与大面积玻璃的比例关系——边框宽度约占直径20%，形成建筑感框架效果"
+    design_level:
+      score: 3
+      reason: "标准圆形大壁灯，工艺精良，体量感强，适合大型户外建筑场景，但缺乏设计上的突破点"
+    design_tags:
+      - "圆形"
+      - "大尺寸"
+      - "宽边框"
+      - "建筑感"
+      - "乳白玻璃"
+      - "全扩散光"
+      - "户外防护"
+    hero_feature: "超宽金属边框与大面积玻璃形成的建筑感比例"
+    problem_solved: "大型建筑外墙需要高照度均匀照明，大尺寸圆形壁灯提供充足光通量和视觉锚点"
+    transferable_technique: "宽框与玻璃面积的比例控制——边框宽度作为设计语言，宽框增强建筑感，细框增强轻盈感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_021"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，纯白色圆形壁灯，整个灯体为光滑白色玻璃球体，无金属框架，完全贴墙安装，高光点在中央"
+    product_name: "纯玻璃球形壁灯（无框全玻款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "完整球体（背面平切贴墙），正面视角为完美正圆，无任何金属框架可见"
+      light_opening: "整个球体表面发光——全向360°均匀扩散，球体本身即为光源载体"
+      thermal: "玻璃球体自身散热，内部光源需低热量LED"
+      cmf:
+        color: "纯白色（乳白）"
+        material: "乳白玻璃球体"
+        finish: "光滑玻璃表面，高光反射"
+      mounting: "背面平切直接贴墙，无外露安装机构"
+      signature_detail: "完全无金属框架的纯玻璃球体——将灯具简化为一颗发光球，极致减法设计"
+    design_level:
+      score: 5
+      reason: "设计语言达到极简极致——灯即球，球即灯，无任何多余元素；光滑玻璃表面反光点赋予生命感；是BEGA极简哲学的标志性表达"
+    design_tags:
+      - "球形"
+      - "极简"
+      - "纯玻璃"
+      - "无框架"
+      - "全向发光"
+      - "减法设计"
+      - "标志性"
+    hero_feature: "完全无框架的纯白玻璃球——形体与光源合一"
+    problem_solved: "户外照明器具通常结构复杂视觉繁琐，纯玻璃球将复杂性内隐，实现最纯粹的发光体形态"
+    transferable_technique: "球体形态无边框处理——将结构连接完全隐藏，灯体即光体；可迁移至落地灯球体、悬挂球灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_022"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/22.jpg"
+        image_role: "hero"
+        visual_anchor: "45度视角，深灰色半球形壁灯，上半为深灰金属半圆帽，下半为乳白玻璃半球凸出，形态饱满"
+    product_name: "半球形帽式壁灯（金属帽 + 玻璃下球）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "球体形态，上半为深灰金属半球帽，下半为乳白玻璃半球，整体轮廓为完整球形"
+      light_opening: "下半球乳白玻璃开口——向下及水平方向发光，金属上帽遮挡垂直上溢光，发光区域为下半球面"
+      thermal: "金属上帽提供散热，玻璃下球传导热量有限"
+      cmf:
+        color: "哑光深灰（graphite）金属帽 + 白色乳白玻璃"
+        material: "压铸铝（上帽） + 乳白玻璃（下半球）"
+        finish: "细砂纹粉末涂层"
+      mounting: "直接背贴墙面"
+      signature_detail: "深灰金属帽与白色玻璃球体的分界线水平居中，形成黑白强对比的半月形视觉分割"
+    design_level:
+      score: 4
+      reason: "球形两段式经典形态，金属帽与玻璃球体量感均衡，比例协调，视觉上形成完整饱满的球体感"
+    design_tags:
+      - "球形"
+      - "两段式"
+      - "防上溢光"
+      - "乳白玻璃"
+      - "下投光"
+      - "户外防护"
+    hero_feature: "深灰金属半球帽与乳白玻璃下半球的黑白对比分割"
+    problem_solved: "球形灯具全向发光导致上溢光问题，金属上帽精确遮挡上方光线，同时维持完整球体形态美感"
+    transferable_technique: "球体上半金属遮罩策略——功能性遮罩与灯体共享圆弧轮廓线，形态统一不割裂；迁移至路灯、庭院球灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_023"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/23.jpg"
+        image_role: "hero"
+        visual_anchor: "正面略带角度视角，深灰色壁灯，弧形片状金属遮罩从顶部横跨圆形玻璃球体，遮罩呈翻折弯曲片状"
+    product_name: "弧形片状遮罩球灯壁灯（深灰款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "圆形玻璃球体 + 横跨顶部的弯曲弧形片状金属遮罩，遮罩宽度超出球体两侧，整体视觉重心偏上"
+      light_opening: "遮罩从顶部覆盖球体约1/3，下方及前方玻璃球体自由发光——形成向下和前方的主要发光区，遮罩内侧为暗色"
+      thermal: "金属片状遮罩与球体之间留有空间，利于散热"
+      cmf:
+        color: "哑光深灰（graphite）"
+        material: "压铸铝（遮罩） + 乳白玻璃球体"
+        finish: "细砂纹粉末涂层"
+      mounting: "遮罩两端嵌入墙面或通过隐藏安装件固定，球体悬挂于遮罩下方"
+      signature_detail: "弧形翻折片状遮罩——单一弯折金属片横跨整个灯体，遮罩的弧形与球体形成圆弧呼应，同时有飞翼动感"
+    design_level:
+      score: 5
+      reason: "形态高度原创——弯折金属片 + 玻璃球体的组合极具张力；遮罩不是附件而是主造型元素；视觉记忆点极强，BEGA高端设计代表"
+    design_tags:
+      - "弧形遮罩"
+      - "片状金属"
+      - "球形"
+      - "飞翼形态"
+      - "高原创性"
+      - "防溢光"
+      - "建筑感"
+    hero_feature: "单片弯折金属弧形遮罩横跨圆形玻璃球体——形成强烈的几何张力"
+    problem_solved: "既需要防上溢光又需要独特视觉识别度，片状弯折遮罩同时解决功能问题和形态记忆点"
+    transferable_technique: "弯折金属片遮罩策略——单片材料通过弯折形成遮罩+支撑结构合一，可迁移至路灯悬臂、建筑照明悬挑设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_024"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/24.jpg"
+        image_role: "hero"
+        visual_anchor: "正面略带角度视角，铜色/铜棕色弧形片状金属遮罩 + 白色玻璃球体，与023款造型相同但配色为铜色"
+    product_name: "弧形片状遮罩球灯壁灯（铜色款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "与023款完全相同：圆形玻璃球体 + 横跨顶部的弯曲弧形片状金属遮罩"
+      light_opening: "与023款相同——遮罩覆盖球体顶部约1/3，下方及前方玻璃球体自由发光"
+      thermal: "与023款相同，金属遮罩散热"
+      cmf:
+        color: "铜棕色（copper/corten色）遮罩 + 白色乳白玻璃球体"
+        material: "铜或铜色涂层铝（遮罩） + 乳白玻璃球体"
+        finish: "哑光铜色氧化效果或铜色粉末涂层"
+      mounting: "与023款相同"
+      signature_detail: "铜色遮罩与白色玻璃球体——暖铜色金属与冷白玻璃的温度对比；铜色版本更具装饰性和高端感"
+    design_level:
+      score: 5
+      reason: "023款形态设计分数延续，铜色版本进一步提升材质美感——铜色与白色对比极富张力，适合高端建筑和精品酒店场景"
+    design_tags:
+      - "弧形遮罩"
+      - "铜色"
+      - "球形"
+      - "材质对比"
+      - "高端感"
+      - "暖色调"
+      - "建筑感"
+    hero_feature: "铜色弧形金属遮罩与纯白玻璃球的暖冷材质对比"
+    problem_solved: "需要高端装饰感的户外照明场景，铜色版本提升材质价值感，同时保持功能性遮光结构"
+    transferable_technique: "同一形态多配色策略——铜色版本将工业形态转化为装饰性语言；暖色金属 + 冷白发光体对比法则可迁移至各类灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: "023与024为同一产品系列不同配色版本，已归为不同product_id"
+
+  - product_id: "bega_户外_壁灯_025"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/25.jpg"
+        image_role: "hero"
+        visual_anchor: "正面略带角度视角，深灰色方形底座 + 圆筒形透明玻璃罩壁灯，内有金色LED发光管，竖条纹透明玻璃筒，底座为方形"
+    product_name: "竖纹玻璃筒壁灯（方形底座款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "方形深灰金属底座 + 圆筒形透明竖纹玻璃罩，圆筒顶部有深灰金属封口盖，整体呈底座横出 + 玻璃筒纵立结构"
+      light_opening: "透明竖纹玻璃筒360°侧向发光——内部金色LED管可见，竖条纹玻璃折射光线产生条纹光影效果"
+      thermal: "金属底座和顶盖提供散热，玻璃筒侧面通气"
+      cmf:
+        color: "深灰（graphite）金属底座+顶盖 + 透明竖纹玻璃筒 + 金色内部LED管"
+        material: "压铸铝（底座+顶盖） + 竖纹透明玻璃筒 + LED光源"
+        finish: "细砂纹粉末涂层（金属） + 模压竖纹透明玻璃"
+      mounting: "方形底座直接固定于墙面，向前悬臂伸出后托起玻璃筒"
+      signature_detail: "竖条纹透明玻璃筒透露内部金色LED发光管——材质通透性与内部光源的金色形成强烈装饰效果，类灯笼美学"
+    design_level:
+      score: 5
+      reason: "在BEGA产品线中极为特殊——透明竖纹玻璃筒 + 可见金色LED管的设计极具装饰性；方底座+圆筒的圆方对比张力强；灯笼式形态在现代户外壁灯中辨识度极高"
+    design_tags:
+      - "圆筒形"
+      - "透明玻璃"
+      - "竖条纹"
+      - "可见光源"
+      - "金色LED"
+      - "灯笼美学"
+      - "方圆对比"
+      - "装饰性"
+      - "高原创性"
+    hero_feature: "竖条纹透明玻璃筒内可见金色LED发光管——内部结构外显为装饰核心"
+    problem_solved: "普通户外壁灯遮蔽光源导致失去装饰感，透明竖纹玻璃筒将光源可见化，夜间形成灯笼式视觉效果"
+    transferable_technique: "内部光源可见化策略 + 竖条纹玻璃折射——让光源本身成为装饰元素；竖纹玻璃的光影条纹效果可迁移至室内灯、建筑立面照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

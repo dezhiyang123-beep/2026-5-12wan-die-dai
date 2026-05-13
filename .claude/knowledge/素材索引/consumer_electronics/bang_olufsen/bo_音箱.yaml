@@ -1,0 +1,218 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/音箱/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bo_speaker_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/音箱/01.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视图，圆角矩形低矮体态，编织网面+铝合金顶底边+棕色皮质提手"
+    product_name: "Beosound A5"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "音箱"]
+    design_language:
+      silhouette: "扁平圆角矩形卧式，宽高比约3:2，整体非常低矮厚重"
+      light_opening: "顶部铝合金条内隐藏控制区，无可见开孔"
+      thermal: "无可见散热格栅"
+      cmf:
+        color: "天然米白编织网面（Natural Weave）；磨砂银铝合金顶底框架；棕色皮质提手"
+        material: "织物网面；铝合金框架；皮革提手"
+        finish: "织物哑光自然编织纹；铝合金拉丝亚光；皮革云光粒面"
+      mounting: "桌面或地面平置，皮质提手可提携"
+      signature_detail: "顶部铝合金框架居中的'B&O Est.1925'金属徽标；棕色皮革提手两端金属铆钉"
+    design_level:
+      score: 5
+      reason: "编织网面覆盖整个主体面积，质感极强；铝合金顶底框恰好收边不过度；皮革提手细节精准参考高端手提箱逻辑；整体是B&O便携音箱中比例最完美的产品之一"
+    design_tags: ["便携音箱", "编织网面", "皮质提手", "铝合金框架", "家居家具感", "斯堪的纳维亚", "奢侈品级"]
+    hero_feature: "全幅编织网面主体+皮革铆钉提手，将音箱造型语言迁移至高端旅行箱/野餐篮品类"
+    problem_solved: "让蓝牙音箱在室内静止时成为装饰摆件，不显突兀；户外携带时具备皮具级质感"
+    transferable_technique: "大面积织物网面代替塑料格栅作为喇叭罩面；皮革提手两端铆钉收口手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_speaker_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/音箱/03.jpg"
+        image_role: "hero"
+        visual_anchor: "正面，深木纹+金属细条纹主体，海军蓝顶框+提手，Riva联名标志"
+    product_name: "Beosound A5 x Riva联名款"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "音箱"]
+    design_language:
+      silhouette: "与标准A5完全相同的圆角矩形卧式轮廓"
+      light_opening: "顶部控制区无可见开孔"
+      thermal: "无可见散热设计"
+      cmf:
+        color: "深核桃木纹主体（Walnut）配金色金属细条纹；海军蓝铝合金顶框与提手"
+        material: "木纹贴面/实木片；铝合金细金属条；铝合金顶框；弧形铝合金/ABS提手"
+        finish: "木纹自然哑光；金属条抛光金；顶框哑光深蓝阳极氧化"
+      mounting: "桌面或地面平置，弧形提手可提携"
+      signature_detail: "主体正面木纹与等距金色金属条交替排列，形成竖向律动格栅；'Riva'草书字体Logo镌刻"
+    design_level:
+      score: 5
+      reason: "木纹与金属条交替的竖向格栅既是装饰又是功能性透声结构，材质对比极有张力；海军蓝与深木色的色彩关系有游艇美学参照；联名Riva完全合理且提升叙事层次"
+    design_tags: ["便携音箱", "木纹面板", "金属竖条格栅", "联名款", "游艇美学", "双材质对比", "收藏级"]
+    hero_feature: "深核桃木纹与等距金色铝合金竖条交替排列的透声格栅，游艇甲板舱室质感"
+    problem_solved: "通过材质故事（游艇木材+黄铜）将音箱定位为收藏品，联名强化溢价叙事"
+    transferable_technique: "木纹片+金属细条纵向交替格栅作为透声面板；不同材质平行排列的律动感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_speaker_003"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/音箱/05.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形织物面大型桌面音箱，三脚木腿支撑，米白色织物+金色铝圈"
+    product_name: "Beoplay A9 (4th Gen)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "音箱"]
+    design_language:
+      silhouette: "正圆形薄饼状主体，三脚架式木腿向外展开支撑，整体像现代艺术装置"
+      light_opening: "无可见开孔（全织物覆盖）"
+      thermal: "无可见散热设计"
+      cmf:
+        color: "米白/浅沙色织物面（Natural/Sand）；金色铝合金外圈；浅木色橡木三脚腿"
+        material: "织物网面；铝合金圆形外框；实木三脚腿"
+        finish: "织物哑光自然纹；铝框拉丝哑金；木腿自然橡木清漆"
+      mounting: "落地式，三脚架，可调高度"
+      signature_detail: "超薄圆形轮廓+三脚架形态，使产品更接近于北欧家具而非电子设备"
+    design_level:
+      score: 5
+      reason: "A9是B&O最标志性的产品之一，圆盘+三脚架形态模糊了音箱与家居装饰的边界；织物+金属圈+木腿三材质搭配是北欧极简主义的完美范本"
+    design_tags: ["落地音箱", "圆形轮廓", "三脚架", "织物网面", "铝合金圆框", "实木脚", "家具化", "北欧设计", "标志性产品"]
+    hero_feature: "正圆形薄饼造型悬浮于三脚实木腿上，金色铝圈精确收边，设备即家具"
+    problem_solved: "将落地音箱从电子设备视觉语言中彻底解脱，成为北欧风格室内陈设的一部分"
+    transferable_technique: "圆形面板+三脚架支撑的家具化电子产品形态；织物面+金属圈收边的无缝处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_speaker_004"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/音箱/07.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱织物上体+实木圆台底座的两段式音箱，金色铝合金腰部过渡"
+    product_name: "Beosound Balance (Oak)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "音箱"]
+    design_language:
+      silhouette: "上部圆柱（织物包裹）+下部较矮圆台（实木），两段式叠加，腰部金属环收口"
+      light_opening: "顶部金属环处无可见开孔；织物全覆盖"
+      thermal: "无可见散热设计"
+      cmf:
+        color: "上体米白织物（Natural）；腰部金色铝合金环；下台浅橡木（Natural Oak）"
+        material: "织物网面；铝合金腰环；实木台座（橡木）"
+        finish: "织物哑光自然纹；铝环拉丝哑金；橡木自然纹清漆"
+      mounting: "桌面/落地平置"
+      signature_detail: "金色铝合金腰环作为上下两段材质分界线，同时是视觉重心；品牌字嵌于木台底部"
+    design_level:
+      score: 4
+      reason: "两段材质分区通过金属腰环收口处理极为精致；实木底座让产品重心落定，织物上体显轻盈；整体叙事清晰（技术在上，根植于自然在下）"
+    design_tags: ["桌面音箱", "两段式造型", "织物上体", "实木底座", "金属腰环", "北欧家具感", "材质叙事"]
+    hero_feature: "金色铝合金腰环精确分隔织物上体与橡木下座，两种材质语言通过金属环无缝交接"
+    problem_solved: "赋予智能家居音箱视觉上的稳重感和自然材质温度，消除冷硬电子产品印象"
+    transferable_technique: "金属腰环作为两种材质分界线的收口手法；重心较低的实木底座配轻盈织物上体"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_speaker_005"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/音箱/09.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向书本形态音箱，宽幅木纹主体+右侧竖条织物透声带+顶部圆角控制面板"
+    product_name: "Beosound Emerge (Oak)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "音箱"]
+    design_language:
+      silhouette: "竖向扁平矩形（书本形态），正面木纹主导，侧面织物条带，顶面圆弧控制区"
+      light_opening: "顶部控制面板有极细触控点阵；织物侧带为透声区"
+      thermal: "无可见散热设计"
+      cmf:
+        color: "浅橡木纹正面主体（Natural Oak）；米白织物右侧竖带；金色铝合金底座底脚"
+        material: "实木贴面/MDF；织物网面侧带；铝合金底脚"
+        finish: "木纹清漆亚光；织物哑光自然纹；铝合金拉丝哑金"
+      mounting: "桌面竖置，极薄可靠墙摆放"
+      signature_detail: "正面木纹区域占比约70%，织物透声带仅占右侧约30%，形成极不对称但平衡的构图"
+    design_level:
+      score: 4
+      reason: "书本造型是B&O对'音箱如何融入书架'问题的直接回答；木纹大面积主导+织物窄条的不对称分割有强烈设计主张；整体比例极薄，像精装书"
+    design_tags: ["桌面音箱", "书本形态", "木纹面板", "竖向织物条", "极薄造型", "书架融合", "不对称分割"]
+    hero_feature: "书本形态竖向比例+大面积实木贴面正面，使音箱放入书架后视觉融合"
+    problem_solved: "解决音箱放在书架或书桌时造成的视觉突兀问题，使其成为书籍文化生活的延伸"
+    transferable_technique: "产品横截面极薄化以模拟书本形态；木纹面板大面积+织物小面积的黄金比例分割"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_speaker_006"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/音箱/13.jpg"
+        image_role: "hero"
+        visual_anchor: "方形便携蓝牙音箱，顶部无线充电平台放置手机，皮质提手，金属网格面板"
+    product_name: "Beolit 20"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "音箱"]
+    design_language:
+      silhouette: "近正方体圆角矩形，顶面为平台，侧面全金属冲孔网格，皮质提手横跨顶部"
+      light_opening: "顶部圆角控制面板极细触控点；侧面全面积冲孔网格透声"
+      thermal: "冲孔网格兼顾透声与散热"
+      cmf:
+        color: "主体白灰色（Grey Mist）铝合金冲孔网格；顶面白色；皮革提手自然米色；铝合金边框银"
+        material: "铝合金冲孔网格面板；铝合金顶盖；皮革提手；铝合金边框"
+        finish: "网格哑光拉丝铝；顶面哑白；皮革亚光自然粒面"
+      mounting: "桌面或地面平置，皮提手可提携；顶面兼做Qi无线充电台"
+    design_level:
+      score: 3
+      reason: "冲孔铝合金网格是金属材质的务实处理，但相较A5编织布版本缺乏独特材质故事；顶部无线充电平台是功能亮点；整体设计方正稳健但惊喜感低于A5/A9"
+    design_tags: ["便携音箱", "冲孔铝合金", "无线充电台", "皮质提手", "方形轮廓", "多功能"]
+    hero_feature: "顶部平坦铝合金面板兼做Qi无线充电台，功能外显且使用场景清晰"
+    problem_solved: "一个设备同时解决蓝牙音频和手机无线充电两个需求，减少桌面设备数量"
+    transferable_technique: "产品顶面平台化设计，兼做充电/置物台；皮革提手铆钉收口横跨顶部的携带方案"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

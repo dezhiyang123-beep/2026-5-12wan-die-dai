@@ -1,0 +1,486 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "管道工具"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_管道工具_001"
+    source_images:
+      - filename: "管道工具__排水管清洁__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__排水管清洁__01.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX XR Brushless Drain Cleaning Auger套装：大黄色甜甜圈形（环形/圆环）主机（内圈开口供排水蛇线穿过，顶部黑色D形提手），黑色漏斗状导向靴，盘绕的螺旋排水蛇线，黑色硬壳箱+2Ah电池+充电器"
+      - filename: "管道工具__排水管清洁__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__排水管清洁__02.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR排水清洁机裸机特写：黄色大圆环主机（正视圆形，侧视矩形厚度约80mm），顶部黑色D形提手，前端黑色漏斗靴（宽喇叭口收窄至排水蛇线出口），侧面XR标识"
+    product_name: "DeWalt 20V MAX XR Brushless Drain Cleaning Auger"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "管道工具"
+      - "排水管清洁机"
+    design_language:
+      silhouette: "大圆环（甜甜圈/环面）主体形态——品类唯一，中心大开口为排水蛇线的穿出通道，顶部D形提手使整体呈P形侧视轮廓"
+      light_opening: "N/A（电动工具）；圆环中心开口是蛇线导出的功能开口"
+      thermal: "环形机体两侧散热槽，无绳电机散热"
+      cmf:
+        color: "黄色（环形主机体）+ 黑色（D形提手+漏斗靴+电池块）+ 白色（XR标识文字）"
+        material: "工程塑料机体，橡胶防滑把手，钢质漏斗导向靴，弹簧钢蛇线"
+        finish: "哑光黄，哑光黑橡胶"
+      mounting: "20V MAX XR标准电池，底部滑轨插入（圆环底部集成电池接口）"
+      signature_detail: "大黄色圆环形主机——与所有其他电动工具形态截然不同，圆环中心的大开口是功能与造型的双重焦点"
+    design_level:
+      score: 5
+      reason: "排水清洁机品类内极为罕见的整体圆环形态，将蛇线导出的功能需求（需要中心通道）直接转化为品类标志性轮廓，造型即功能，功能即造型，黄黑XR系统完整延伸"
+    design_tags:
+      - "20V MAX XR"
+      - "无绳"
+      - "圆环形态"
+      - "排水清洁"
+      - "H11_功能外显"
+      - "H07_极简整合"
+    hero_feature: "大黄色圆环主机——圆环中心开口即蛇线导出通道，功能结构直接外显为品类唯一记忆形态"
+    problem_solved: "无绳疏通下水管道堵塞，圆环形态使蛇线可360°任意角度进入管道，免去拉绳启动和电线束缚"
+    transferable_technique: "将工具的核心功能通道（蛇线导出孔）放大为产品主体的中心开口，功能开口即造型特征（H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_管道工具_002"
+    source_images:
+      - filename: "管道工具__排水管清洁__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__排水管清洁__03.jpg"
+        image_role: "scene"
+        visual_anchor: "排水清洁附件：螺旋阶梯锥形钻头（深灰钢质，底部六角柄，顶部逐级扩大的螺旋阶梯锥，黄色领圈），用于贯通堵塞"
+      - filename: "管道工具__排水管清洁__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__排水管清洁__04.jpg"
+        image_role: "scene"
+        visual_anchor: "黑色圆饼形HDPE电缆方向导向帽，正视圆形，浮雕文字'CABLE DIRECTION'，中心圆孔（蛇线穿出孔），四周无装饰"
+    product_name: "DeWalt Drain Cleaning Accessories (Spiral Step Cone Bit + Cable Direction Guide)"
+    brand_name: "DeWalt"
+    brand_confidence: "medium"
+    category_path:
+      - "电动工具"
+      - "管道工具"
+      - "排水清洁配件"
+    design_language:
+      silhouette: "锥形附件：底宽顶窄螺旋台阶锥形，六角柄；导向帽：低矮圆饼形"
+      light_opening: "N/A（配件）"
+      thermal: "N/A"
+      cmf:
+        color: "钢灰色（螺旋锥体）+ 黄色（领圈）；黑色（导向帽）"
+        material: "高强钢螺旋锥，黑色HDPE导向帽"
+        finish: "金属本色，哑光黑塑料"
+      mounting: "六角柄插入排水清洁机蛇线头；导向帽套在排水管口"
+      signature_detail: "螺旋阶梯锥的台阶渐变造型将切割功能直接外显为结构形态"
+    design_level:
+      score: 2
+      reason: "标准配件设计，功能导向，无视觉创新"
+    design_tags:
+      - "排水配件"
+      - "螺旋锥"
+      - "H11_功能外显"
+    hero_feature: "螺旋台阶锥形附件，每级台阶对应不同管径"
+    problem_solved: "配合排水清洁机贯通不同口径管道堵塞"
+    transferable_technique: "台阶渐变形态直观传达多尺寸兼容性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_管道工具_003"
+    source_images:
+      - filename: "管道工具__管道套丝__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__管道套丝__03.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX无线管道套丝机裸机：直立枪形握持形态，顶部大银色圆形模头座（中心开环，直径约为机身宽度2倍），黄色/黑色机身（DeWalt 20V MAX标签在握把区），黑色扳机，正面可见模头座中心圆孔"
+    product_name: "DeWalt 20V MAX Cordless Pipe Threader"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "管道工具"
+      - "管道套丝机"
+    design_language:
+      silhouette: "枪形机身+顶部大圆环模头座——模头座直径远大于机身宽度，形成强烈T形/蘑菇形侧视轮廓；圆环开口允许管道穿入并旋转套丝"
+      light_opening: "N/A（电动工具）；模头座中心圆孔是管道穿入的功能开口"
+      thermal: "机身两侧散热格栅"
+      cmf:
+        color: "黄色（机身主体）+ 黑色（握把区+扳机）+ 银色（模头座+钢质刀具刃）"
+        material: "工程塑料机体，铸钢模头座，合金钢刀刃"
+        finish: "哑光黄，哑光黑橡胶，钢质本色"
+      mounting: "20V MAX标准电池底部滑入"
+      signature_detail: "大直径银色圆环模头座从黄色机身顶部伸出，圆与矩形的体量对比强烈，模头座直径约为机身宽度的1.8倍"
+    design_level:
+      score: 4
+      reason: "模头座圆环与枪形机身的体量比例关系清晰传达品类功能（套丝即围绕管道旋转），无绳设计在该品类具有技术突破性"
+    design_tags:
+      - "20V MAX"
+      - "无绳"
+      - "管道套丝"
+      - "圆环模头"
+      - "H11_功能外显"
+      - "H08_对比强调"
+    hero_feature: "银色大圆环模头座从黄色枪形机身顶部凸出，圆环即功能——套丝机的动作逻辑外显为造型"
+    problem_solved: "无绳现场管道螺纹切削，免去有绳/手动套丝的束缚，20V MAX系统通用电池"
+    transferable_technique: "工具的核心功能开口（模头圆环）放大为产品最显眼的造型元素，功能逻辑即视觉焦点（H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_管道工具_004"
+    source_images:
+      - filename: "管道工具__管道套丝__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__管道套丝__04.jpg"
+        image_role: "scene"
+        visual_anchor: "套丝模头 1/2\" NPT：黄色短圆柱体+灰色铸铁正面板（四个对称刀具槽，每槽一枚银色钢质切削刃，4枚银色安装螺钉），中心圆孔，DEWALT标识在黄色侧面"
+      - filename: "管道工具__管道套丝__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__管道套丝__06.jpg"
+        image_role: "scene"
+        visual_anchor: "套丝模头 1-1/4\" NPT：同设计，直径明显更大，灰色面板4刀具槽，黄色圆柱侧面更宽"
+      - filename: "管道工具__管道套丝__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__管道套丝__07.jpg"
+        image_role: "scene"
+        visual_anchor: "套丝模头 3/4\" NPT：同CMF，中等直径"
+      - filename: "管道工具__管道套丝__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__管道套丝__09.jpg"
+        image_role: "scene"
+        visual_anchor: "套丝模头 1\" NPT：同CMF，直径居中"
+      - filename: "管道工具__管道套丝__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__管道套丝__11.jpg"
+        image_role: "scene"
+        visual_anchor: "套丝模头 1-1/2\" NPT：同CMF，直径明显更大，黄色侧面体量增宽"
+      - filename: "管道工具__管道套丝__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__管道套丝__13.jpg"
+        image_role: "scene"
+        visual_anchor: "套丝模头 2\" NPT：同CMF，最大规格，黄色体量最宽，面板直径最大"
+    product_name: "DeWalt Pipe Threading Die Head Set (1/2\" to 2\" NPT)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "管道工具"
+      - "套丝模头配件"
+    design_language:
+      silhouette: "短圆柱体：黄色侧面圆柱+灰色正面圆盘（四象限对称刀具槽），系列化尺寸梯度清晰"
+      light_opening: "N/A（配件）；中心圆孔即管道穿入口"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（圆柱侧面体）+ 灰色（铸铁正面板）+ 银色（钢质切削刃+安装螺钉）"
+        material: "黄色注塑侧体，铸铁正面板，高速钢切削刃"
+        finish: "哑光黄注塑，铸铁本色，不锈钢刃"
+      mounting: "卡入管道套丝机模头座（定位键+锁销机构）"
+      signature_detail: "灰色铸铁面板上4个四象限对称刀具槽——规则几何排布将精密制造感直接外显，每枚刃都可见"
+    design_level:
+      score: 3
+      reason: "系列化配件设计，黄色圆柱+灰色铸铁面板的CMF与主机高度一致，四象限刀具槽的几何秩序感强"
+    design_tags:
+      - "套丝模头"
+      - "系列化"
+      - "NPT"
+      - "H11_功能外显"
+    hero_feature: "灰色铸铁面板四象限对称切削刃槽，精密制造感通过几何秩序外显"
+    problem_solved: "覆盖1/2\"到2\" NPT全规格管道螺纹切削，黄色标准侧面体快速辨识规格"
+    transferable_technique: "系列化配件通过尺寸梯度（同CMF，不同直径）使规格差异一目了然"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_管道工具_005"
+    source_images:
+      - filename: "管道工具__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__综合__06.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX PEX管扩口机套装：L形扩口工具（小型枪形机身+90°转向头，头端银色扩口锥），5个黑色扩口头模具，黑色硬壳箱+2Ah电池+充电器+PEX润滑脂"
+      - filename: "管道工具__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__综合__07.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX PEX扩口机裸机：侧视L形轮廓清晰——黄色握把体（垂直向）+90°弯头（水平向），头端银色金属扩口锥（可见多爪张开构造），2个黑色附件扩口头展示"
+      - filename: "管道工具__综合__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__综合__09.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX PEX扩口机入门套装：同款工具+2x2Ah电池+DCB112充电器，无硬壳箱"
+    product_name: "DeWalt 20V MAX Cordless PEX Pipe Expander (Standard)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "管道工具"
+      - "PEX管扩口机"
+    design_language:
+      silhouette: "L形侧视轮廓：垂直握把体（下部电池块+上部电机）+水平90°转向头（末端扩口锥），L形弯折角度约90°，头部水平伸出长度约为握把高度的60%"
+      light_opening: "N/A（电动工具）；扩口锥张开动作即核心功能"
+      thermal: "机体两侧散热槽"
+      cmf:
+        color: "黄色（机身主体+握把）+ 黑色（电池块+扳机区）+ 银色（扩口锥+头部金属件）"
+        material: "工程塑料机体，合金钢扩口锥，TPR防滑握把"
+        finish: "哑光黄，哑光黑，不锈钢锥面"
+      mounting: "20V MAX标准电池底部滑入"
+      signature_detail: "90°转向头使工具可在狭窄管道空间内操作PEX管扩口，L形弯折是该品类的特征性人机工程设计"
+    design_level:
+      score: 4
+      reason: "L形转向头是PEX扩口机品类的人机工程最优解（管道往往在狭窄空间），黄黑系统到位，银色扩口锥功能外显清晰"
+    design_tags:
+      - "20V MAX"
+      - "无绳"
+      - "PEX扩口"
+      - "L形转向头"
+      - "H12_人机界面强化"
+      - "H11_功能外显"
+    hero_feature: "90°转向L形头部——PEX扩口锥直接外露在转向头末端，L形弯折将狭窄空间操作逻辑外显为造型"
+    problem_solved: "无绳PEX管道扩口连接，L形头部使工具可深入墙体/管道夹层操作"
+    transferable_technique: "90°转向头将握持方向与工作方向解耦，使工具可进入同轴方向无法操作的狭窄空间（H12）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_管道工具_006"
+    source_images:
+      - filename: "管道工具__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__综合__08.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX XR无刷PEX扩口机套装（XR版）：黑色主导机身，5Ah大电池+4A充电器，同L形转向头形态，整体黑色比例更高，XR标识"
+      - filename: "管道工具__综合__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__综合__10.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR无刷PEX扩口机裸机（直立形态）：高握把枪形，黑色主导（XR标识标签在握把），头部灰/黑色（非标准版L形，而是近直筒形），头端红色领圈+银色扩口锥，顶部吊环"
+    product_name: "DeWalt 20V MAX XR Brushless PEX Pipe Expander"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "管道工具"
+      - "PEX管扩口机"
+    design_language:
+      silhouette: "直立高握把枪形（区别于标准版的L形），头部近直线伸出，整体更高更直立，顶部有吊环（高处作业用）"
+      light_opening: "N/A（电动工具）；扩口锥动作"
+      thermal: "机体散热格栅"
+      cmf:
+        color: "黑色（主导：机体+握把+头部壳体）+ 灰色（头部局部）+ 红色（扩口头领圈）+ 银色（扩口锥）"
+        material: "工程塑料机体，合金钢扩口锥，橡胶防滑握把"
+        finish: "哑光黑，灰色，不锈钢"
+      mounting: "20V MAX XR大容量电池（5Ah），底部滑入"
+      signature_detail: "红色领圈在扩口锥连接处——与标准版黄色形成XR系列升级标志，红色=PERFORM-PROTECT/高性能系列在管道工具的延伸；顶部吊环为高处操作设计"
+    design_level:
+      score: 4
+      reason: "XR黑色主导+红色领圈完整延伸品牌高端系统，直立枪形+顶部吊环针对高处施工场景的人机工程优化"
+    design_tags:
+      - "20V MAX XR"
+      - "无刷"
+      - "PEX扩口"
+      - "黑色主导"
+      - "吊环"
+      - "H12_人机界面强化"
+    hero_feature: "黑色主导机身+头部红色领圈+顶部吊环，XR高端定位与高处操作场景双重外显"
+    problem_solved: "高强度施工现场PEX扩口，XR无刷电机更大扭矩，吊环使操作者可系绳防摔"
+    transferable_technique: "顶部吊环将安全功能外显为设计特征，使工具面向专业高处施工场景的定位直接可读"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_管道工具_007"
+    source_images:
+      - filename: "管道工具__综合__26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__综合__26.jpg"
+        image_role: "scene"
+        visual_anchor: "60V FLEXVOLT无刷管道套丝机套装：灰色大圆环模头（开环，直径约400mm）+黄色机身+灰色管道支撑托架，2x9Ah FLEXVOLT大电池+快充器+黄色工具袋+黑色硬壳箱"
+      - filename: "管道工具__综合__27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__综合__27.jpg"
+        image_role: "scene"
+        visual_anchor: "同款60V FLEXVOLT套丝机+完整8件套丝模头（黄色/灰色系列，1/2\"到2\" NPT），模头整齐排列展示套丝系统完整性"
+    product_name: "DeWalt 60V MAX FLEXVOLT Brushless Pipe Threader"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "管道工具"
+      - "管道套丝机"
+    design_language:
+      silhouette: "工业级大型设备形态：超大灰色圆环模头（直径约400mm，开环供管道穿入）+黄色机身+灰色管道水平支撑托架，整体呈宽厚工业机器形态，区别于20V MAX枪形"
+      light_opening: "N/A（大型设备）；圆环中心是管道穿入的功能开口"
+      thermal: "机身两侧散热格栅，大功率60V散热"
+      cmf:
+        color: "黄色（机身主体）+ 灰色（圆环模头+支撑托架）+ 黑色（电池块+附件）"
+        material: "工程塑料机体，铸钢圆环模头，钢质支撑托架，FLEXVOLT 9Ah电池"
+        finish: "哑光黄，灰色铸钢，哑光黑"
+      mounting: "FLEXVOLT 60V 9Ah大电池（2块并联），侧面或后端插入"
+      signature_detail: "超大直径灰色圆环模头——直径远超20V MAX版，视觉体量强化工业级能力感知，配套管道支撑托架的存在暗示可处理更大管径"
+    design_level:
+      score: 4
+      reason: "60V FLEXVOLT使管道套丝从有绳专业机迈向无绳，超大圆环模头的工业体量感和完整8件模头套装系统展示，设计语言从20V枪形升级为工业机器形态"
+    design_tags:
+      - "FLEXVOLT"
+      - "60V"
+      - "无绳"
+      - "管道套丝"
+      - "工业级"
+      - "H08_对比强调"
+      - "H11_功能外显"
+    hero_feature: "超大直径灰色圆环模头+支撑托架，工业机器形态直接传达大管径高强度套丝能力"
+    problem_solved: "无绳大管径管道螺纹切削（1/2\"-2\" NPT），FLEXVOLT 60V提供有绳级别扭矩，免电线束缚"
+    transferable_technique: "大型套装中将全系列配件完整展示，系统化陈列将兼容性广度视觉化（H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_管道工具_008"
+    source_images:
+      - filename: "管道工具__综合__34.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__综合__34.jpg"
+        image_role: "scene"
+        visual_anchor: "TOUGHSYSTEM 2.0黑黄硬壳箱+4个黑色圆形压接钳口（CTS标准，2.5\"/3\"/4\" CTS+标准钳口），钳口呈C形开口设计，用于DCE200A压接工具"
+    product_name: "DeWalt Press Fitting Jaw Set - CTS Type (TOUGHSYSTEM 2.0 Kit)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "管道工具"
+      - "压接钳口配件"
+    design_language:
+      silhouette: "C形钳口：宽圆弧开口（约220°圆弧），两端钳臂对称，整体呈宽C形或马蹄形；黑色哑光表面无多余装饰"
+      light_opening: "N/A（配件）"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（钳口主体）+ 银色（枢轴销/合页销，不可见）"
+        material: "合金钢钳口，TOUGHSYSTEM 2.0工程塑料箱"
+        finish: "黑色磷化/发黑处理，亚光"
+      mounting: "插入DCE200A压接工具头（定位槽+弹性卡扣）"
+      signature_detail: "黑色C形钳口的大开口圆弧——开口即功能，圆弧直径对应管道公称直径，不同尺寸钳口形态相同仅直径变化"
+    design_level:
+      score: 2
+      reason: "标准压接配件设计，功能导向，TOUGHSYSTEM收纳提升系统专业感"
+    design_tags:
+      - "压接配件"
+      - "CTS"
+      - "TOUGHSYSTEM"
+      - "系统化收纳"
+    hero_feature: "C形大圆弧钳口，开口即功能，尺寸即配件身份"
+    problem_solved: "配合DCE200A压接工具完成CTS管道接头压紧密封"
+    transferable_technique: "配件套装用TOUGHSYSTEM收纳展示，将配件系统化收纳本身作为专业感的载体"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_管道工具_009"
+    source_images:
+      - filename: "管道工具__综合__36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__综合__36.jpg"
+        image_role: "scene"
+        visual_anchor: "TOUGHSYSTEM 2.0黑黄硬壳箱+6个银色NIBCO PressACR压接钳口（1/4\"/3/8\"/1/2\"/5/8\"/3/4\"/7/8\" OD），钳口呈宽C形，NIBCO PressACR+DEWALT COMPACT双标识，银色哑光金属表面"
+    product_name: "DeWalt x NIBCO Press Fitting Jaw Set - PressACR Type (TOUGHSYSTEM 2.0 Kit)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "管道工具"
+      - "压接钳口配件"
+    design_language:
+      silhouette: "宽C形钳口（与CTS型相同形态），但材质从黑色钢换为银色合金；NIBCO PressACR钳口设计有更宽的圆弧肩部"
+      light_opening: "N/A（配件）"
+      thermal: "N/A"
+      cmf:
+        color: "银色/钢灰色（钳口主体）+ 黄色TOUGHSYSTEM箱（收纳）"
+        material: "合金钢钳口（银色哑光），工程塑料收纳箱"
+        finish: "银色钢质本色，哑光"
+      mounting: "插入兼容压接工具头（NIBCO PressACR标准）"
+      signature_detail: "银色钳口对比CTS系列黑色——同形态不同CMF区分产品线（黑色=通用CTS，银色=NIBCO PressACR制冷/管道专用），DeWalt×NIBCO联名双标识"
+    design_level:
+      score: 3
+      reason: "DeWalt×NIBCO联名配件，银色CMF与CTS黑色形成产品线区分逻辑，TOUGHSYSTEM收纳系统一致性强"
+    design_tags:
+      - "压接配件"
+      - "PressACR"
+      - "NIBCO联名"
+      - "TOUGHSYSTEM"
+      - "银色CMF"
+    hero_feature: "银色钳口+NIBCO PressACR双标识，区别于标准黑色CTS钳口的产品线CMF系统"
+    problem_solved: "NIBCO PressACR制冷管道/铜管压接接头专用（1/4\"-7/8\" OD），6尺寸覆盖制冷管道全规格"
+    transferable_technique: "同形态不同CMF（黑色vs银色）区分两个产品线，用颜色传递产品线层级信息无需改变结构"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_管道工具_010"
+    source_images:
+      - filename: "管道工具__综合__37.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/管道工具/管道工具__综合__37.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX XR无线压接工具套装：黄色/黑色枪形主机（后置电机，前伸直筒头端银色压接钳口已装），4个黑色压接钳口，2x20V MAX XR电池+充电器+肩带+黑色硬壳箱"
+    product_name: "DeWalt 20V MAX XR Cordless Press Tool"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "管道工具"
+      - "压接工具"
+    design_language:
+      silhouette: "枪形主机（握把垂直+机头水平前伸），头端压接钳口张开的C形钳口可见，整体呈类似压接钳的前伸形态"
+      light_opening: "N/A（电动工具）；压接钳口张开即功能开口"
+      thermal: "机体散热格栅"
+      cmf:
+        color: "黄色（机身主体）+ 黑色（握把+电池+钳口附件）+ 银色（头端已装压接钳口）"
+        material: "工程塑料机体，合金钢压接钳口，橡胶防滑握把，20V MAX XR电池"
+        finish: "哑光黄，哑光黑橡胶，钢质银色钳口"
+      mounting: "20V MAX XR电池，底部滑入；压接钳口快换插拔"
+      signature_detail: "前伸头端的压接钳口直接可见，C形钳口张开状态直白传达压接工具的工作动作"
+    design_level:
+      score: 3
+      reason: "标准20V MAX XR枪形工具设计，头端压接钳口的功能形态清晰，套装包含肩带（大型工具便携考量）"
+    design_tags:
+      - "20V MAX XR"
+      - "无绳"
+      - "压接工具"
+      - "H11_功能外显"
+    hero_feature: "枪形机头前端的C形压接钳口直接外露，压接工具的工作动作形态外显为造型"
+    problem_solved: "无绳管道接头压接连接，20V MAX XR系统通用性，压接更快更安全（无明火焊接）"
+    transferable_technique: "工具末端功能件（钳口）直接外露展示，以功能动作形态传达工具用途（H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

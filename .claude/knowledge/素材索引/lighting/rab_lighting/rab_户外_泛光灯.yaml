@@ -1,0 +1,394 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "泛光灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_泛光灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "横向矩形灯体+大面积LED阵列+带调节夹的滑竿安装架"
+    product_name: "RAB 中型LED泛光灯（滑竿夹式）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "泛光灯"]
+    design_language:
+      silhouette: "横向矩形扁体，圆角处理，正面大开窗比例约70%，整体紧凑"
+      light_opening: "矩形平面LED阵列，白色背板+透明平板镜片，LED点阵均匀排列"
+      thermal: "灯体背部一体铸铝壳，无外露散热鳍片，热量通过壳体传导"
+      cmf:
+        color: "青铜黑（Bronze）"
+        material: "压铸铝合金壳体"
+        finish: "粉末喷涂哑光"
+      mounting: "可调节滑竿夹（Slip Fitter），可绕竿旋转定向，底部锁紧螺丝"
+      signature_detail: "侧面单颗圆头螺丝作为视觉点缀，安装架采用十字星形锁紧头"
+    design_level:
+      score: 3
+      reason: "标准商用泛光灯语言，功能形态清晰，无设计亮点，属RAB主力SKU形态"
+    design_tags: ["矩形扁体", "LED阵列", "滑竿安装", "商用户外", "青铜黑"]
+    hero_feature: "滑竿夹安装系统，可无工具快速调整照射角度"
+    problem_solved: "商业停车场/建筑外墙需要大面积均匀泛光，安装灵活可调"
+    transferable_technique: "滑竿夹调节安装结构可迁移至需要现场方向调整的户外设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_泛光灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "COB条状光源+白色内腔深腔结构+方形柱脚安装座"
+    product_name: "RAB COB泛光灯（方形柱座）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "泛光灯"]
+    design_language:
+      silhouette: "横向矩形，灯体比01更厚实，侧面呈梯形截面，顶部向前倾斜遮光"
+      light_opening: "单条COB光源横向居中，黄色发光条置于白色深腔中，视觉冲击强"
+      thermal: "灯体背部加厚铸铝，无鳍片，依赖大体积散热"
+      cmf:
+        color: "深灰（Graphite）"
+        material: "压铸铝合金"
+        finish: "粉末喷涂哑光"
+      mounting: "方形柱安装座，柱体粗壮，带旋转调节节点"
+      signature_detail: "单条COB发光带居中布置，形成强烈视觉聚焦"
+    design_level:
+      score: 3
+      reason: "COB单条光源形态有辨识度，但整体造型仍属标准商用风格，无突破"
+    design_tags: ["COB光源", "深腔结构", "单条发光带", "方形柱座", "深灰"]
+    hero_feature: "横向COB单条光源，视觉上形成强烈的水平光带感"
+    problem_solved: "需要聚光感强、单一方向泛光的场景，如建筑立面照明"
+    transferable_technique: "深腔白色内衬+单条COB的视觉强化手法可迁移至工业/商业灯具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_泛光灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "超大尺寸LED矩阵泛光灯+混合点阵（黄+白LED）+滑竿夹安装"
+    product_name: "RAB 大功率混色LED泛光灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "泛光灯"]
+    design_language:
+      silhouette: "大尺寸横向矩形，前倾式顶盖遮光板明显外伸，整体比例更宽扁"
+      light_opening: "双色混合LED点阵（暖白+冷白LED交错排列），密度极高，覆盖面板约80%"
+      thermal: "大体积铸铝背壳，边缘有明显加强筋"
+      cmf:
+        color: "深灰黑"
+        material: "压铸铝合金"
+        finish: "粉末喷涂哑光"
+      mounting: "滑竿夹，带螺栓锁紧，结构更粗壮"
+      signature_detail: "双色LED交错排列形成视觉上的密集光点阵列，量感十足"
+    design_level:
+      score: 2
+      reason: "超大功率工程灯，设计服务于功能性，造型粗犷，设计语言基础"
+    design_tags: ["大功率", "双色LED阵列", "工程级", "滑竿安装", "宽扁比例"]
+    hero_feature: "双色混合LED高密度排列，色温可调或高显色性诉求"
+    problem_solved: "大面积运动场/工业厂区需要高流明输出的泛光照明"
+    transferable_technique: "双色LED交错点阵的纹理感可作为工业美感迁移元素"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_泛光灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "灰色防爆级泛光灯+菱形纹路边框+U形安装架"
+    product_name: "RAB 防爆/防腐蚀级LED泛光灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "泛光灯"]
+    design_language:
+      silhouette: "近方形厚实灯体，边框厚度显著，四角圆润但整体敦实"
+      light_opening: "矩形LED点阵，玻璃盖板外框有明显密封结构"
+      thermal: "四边宽厚边框兼顾密封与散热，边框上有菱形浮雕纹路装饰兼防滑"
+      cmf:
+        color: "浅灰（Light Gray）"
+        material: "铸铝+强化玻璃盖"
+        finish: "粉末喷涂哑光，耐腐蚀处理"
+      mounting: "U形支架，带圆形刻度盘调节节点，可精确调整仰角"
+      signature_detail: "边框菱形浮雕纹路+圆形刻度调节盘，工业感强烈"
+    design_level:
+      score: 3
+      reason: "工业/防爆专用设计，菱形浮雕纹有独特性，整体形态服务于极端环境需求"
+    design_tags: ["防爆", "防腐蚀", "菱形浮雕纹", "U形支架", "浅灰", "工业级"]
+    hero_feature: "菱形浮雕边框纹路，兼顾视觉辨识与功能性防护"
+    problem_solved: "石化/化工/港口等危险环境需要防爆认证的大功率泛光照明"
+    transferable_technique: "菱形浮雕纹路作为功能性装饰元素可迁移至工业设备外壳设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_泛光灯_005"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "超宽横向矩形+两翼侧遮光板+LED条行阵列+滑竿安装"
+    product_name: "RAB 宽体大功率LED泛光灯（带侧挡板）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "泛光灯"]
+    design_language:
+      silhouette: "超宽扁矩形，宽高比约3:1，两侧各有垂直遮光翼，强调水平延展性"
+      light_opening: "白色平面背板，LED点阵按行均匀排列，密集均匀，无遮罩"
+      thermal: "背部一体铸铝，无明显鳍片，体积大靠壳体散热"
+      cmf:
+        color: "深灰黑（Graphite）"
+        material: "压铸铝合金"
+        finish: "粉末喷涂哑光"
+      mounting: "中心滑竿夹安装，U形结构，带锁紧旋钮"
+      signature_detail: "两翼侧遮光板形成强烈的水平延伸感，宽屏比例在同类中突出"
+    design_level:
+      score: 3
+      reason: "宽屏形态比例独特，侧挡板功能与造型一体，但整体仍属商用工具感"
+    design_tags: ["超宽比例", "侧遮光翼", "LED行列阵列", "滑竿安装", "深灰黑"]
+    hero_feature: "两翼侧遮光板扩大水平照射宽度的同时形成强烈造型标识"
+    problem_solved: "需要宽角度水平泛光的场景，如停车场顶部、运动场边线照明"
+    transferable_technique: "侧翼延伸遮光板结构可迁移至需要水平宽角度控光的灯具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_泛光灯_006"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "灰色方形大功率泛光灯+圆形孔位螺丝边框+U形支架"
+    product_name: "RAB 方形大功率LED泛光灯（防护级）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "泛光灯"]
+    design_language:
+      silhouette: "接近正方形的厚实灯体，边框均匀，整体比例稳重"
+      light_opening: "大面积LED点阵，暖色温LED，盖板平整，边框有均匀圆孔装饰/固定螺丝"
+      thermal: "厚实铸铝边框，圆孔均匀分布于四周作为散热辅助及视觉韵律"
+      cmf:
+        color: "浅灰（Light Gray）"
+        material: "铸铝合金"
+        finish: "粉末喷涂哑光"
+      mounting: "U形下置支架，紧凑，安装点在灯体底部"
+      signature_detail: "四边均匀排列圆孔形成强烈的工业节奏感"
+    design_level:
+      score: 3
+      reason: "方形比例端正，圆孔节奏感有工业美感，功能与造型平衡较好"
+    design_tags: ["方形灯体", "圆孔节奏", "防护级", "U形支架", "浅灰", "工业感"]
+    hero_feature: "四边均匀圆孔排列，形成工业节奏感并兼顾散热与视觉辨识"
+    problem_solved: "工业/商业场所需要IP65+高防护等级的大功率泛光灯"
+    transferable_technique: "均匀圆孔排列作为工业设备外壳设计节奏语言可广泛迁移"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_泛光灯_007"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "双面板拼接大功率泛光灯+中缝分件+带锁扣安装座"
+    product_name: "RAB 双面板大功率LED泛光灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "泛光灯"]
+    design_language:
+      silhouette: "超大横向矩形，灯面由两块等宽面板拼接，中间分件线明显，宽高比约2:1"
+      light_opening: "双面板各含独立LED点阵，透明镜片保护，LED呈圆形透镜形态"
+      thermal: "背部厚铸铝一体，中缝分件线兼顾制造与散热"
+      cmf:
+        color: "深灰黑（Graphite）"
+        material: "压铸铝合金"
+        finish: "粉末喷涂哑光"
+      mounting: "复合锁扣安装座，带多个锁紧点，适合大重量灯体固定"
+      signature_detail: "双面板中缝分件结构，视觉上强化大功率模块化感"
+    design_level:
+      score: 4
+      reason: "双面板模块化拼接有较强设计识别度，分件比例处理得当，超大功率形态中少见的完整感"
+    design_tags: ["双面板", "模块拼接", "超大功率", "分件线", "深灰黑", "竞技场级"]
+    hero_feature: "双面板模块化分件结构，视觉传达超大功率的量感与模块可扩展性"
+    problem_solved: "体育场/大型工地等需要超高流明输出，且需要模块化维护的泛光场景"
+    transferable_technique: "双面板拼接+中缝分件的模块化造型语言可迁移至大型工业设备外观设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_泛光灯_008"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "双头可调COB泛光灯头+六角形中央安装底座+壁挂式"
+    product_name: "RAB 双头可调COB壁挂泛光灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "泛光灯"]
+    design_language:
+      silhouette: "对称双头布局，中央六角形底座，两侧灯头可独立旋转，整体呈蝴蝶展翼形态"
+      light_opening: "COB圆形光源，白色内腔+透明封面，灯头为截锥形"
+      thermal: "灯头小体积，散热依赖铝制外壳"
+      cmf:
+        color: "深灰黑（Bronze）"
+        material: "铸铝+工程塑料底座"
+        finish: "粉末喷涂哑光"
+      mounting: "六角形底座直接壁挂，两颗螺丝固定"
+      signature_detail: "六角形中央底座+双头对称展开的蝴蝶形态，居家商业皆宜"
+    design_level:
+      score: 3
+      reason: "对称双头形态亲切，六角底座有设计细节，但整体较常见于消费级产品"
+    design_tags: ["双头可调", "COB光源", "六角底座", "壁挂", "对称蝴蝶形", "居家商业"]
+    hero_feature: "双灯头独立旋转，一灯同时覆盖两个方向，安装灵活"
+    problem_solved: "住宅入口/小型商业门头需要双向泛光同时节省安装点位"
+    transferable_technique: "六角形底座+双头对称展翼的形态语言可迁移至消费级户外照明设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_泛光灯_009"
+    source_images:
+      - filename: "16__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯/16__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "双头可调LED壁挂泛光灯+六角底座+传统PAR型灯头"
+    product_name: "RAB 双头PAR型壁挂泛光灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "泛光灯"]
+    design_language:
+      silhouette: "与009形态相近，双头对称，但灯头为传统PAR碗形，更偏传统安全灯外观"
+      light_opening: "LED替换PAR型灯泡，圆形开口+格栅透镜，视觉更传统"
+      thermal: "铸铝灯头+工程塑料底座组合"
+      cmf:
+        color: "深灰黑"
+        material: "铸铝+工程塑料"
+        finish: "粉末喷涂哑光"
+      mounting: "六角形底座壁挂，同009"
+      signature_detail: "PAR碗形灯头保留传统安全灯语言，LED升级内核"
+    design_level:
+      score: 2
+      reason: "传统PAR碗形外观，设计语言守旧，属升级替换型产品，无设计突破"
+    design_tags: ["双头PAR型", "传统安全灯", "六角底座", "壁挂", "LED替换"]
+    hero_feature: "兼容传统安全灯视觉习惯同时升级为LED光源"
+    problem_solved: "老旧建筑改造，希望保持传统安全灯外观同时获得LED节能优势"
+    transferable_technique: "传统灯具形态与LED技术的兼容设计思路适用于改造型产品策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "文件名含__from雨棚灯，形态兼具泛光灯与雨棚灯特征，需确认主分类归属"
+
+  - product_id: "rab_泛光灯_010"
+    source_images:
+      - filename: "17__from壁挂灯_from雨棚灯_from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯/17__from壁挂灯_from雨棚灯_from泛光灯.jpg"
+        image_role: "hero"
+        visual_anchor: "深腔矩形壁挂灯+折射纹理透明盖板+侧面快拆扣件"
+    product_name: "RAB 深腔矩形LED壁挂/泛光灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "泛光灯"]
+    design_language:
+      silhouette: "横向矩形深腔，灯体厚度大，侧边开口使内腔可见，盖板明显外延"
+      light_opening: "折射纹理透明盖板覆盖深腔，透过纹理可见光源，漫射感强"
+      thermal: "厚实铸铝背壳，盖板与腔体间有密封结构"
+      cmf:
+        color: "黑褐（Bronze/Black）"
+        material: "铸铝+折射玻璃/PC盖板"
+        finish: "粉末喷涂哑光"
+      mounting: "背部直接壁挂，侧面有快拆扣件"
+      signature_detail: "折射纹理盖板形成独特的光泽质感，有别于普通平板泛光灯"
+    design_level:
+      score: 4
+      reason: "折射纹理盖板与深腔结构组合有较强视觉质感，兼具壁灯、雨棚灯、泛光灯三种使用场景，形态适应性强"
+    design_tags: ["深腔结构", "折射纹理盖板", "多场景通用", "快拆扣件", "黑褐色"]
+    hero_feature: "折射纹理透明盖板，在光照时形成漫射光效，关灯时有材质质感"
+    problem_solved: "需要兼顾泛光照明与建筑立面装饰感的场景，如入口雨棚、建筑外墙"
+    transferable_technique: "折射纹理盖板的材质表达可迁移至消费电子、家居灯具等需要质感提升的设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名含多个__from标签（壁挂灯/雨棚灯/泛光灯），需确认各分类索引已同步"
+
+  - product_id: "rab_泛光灯_011"
+    source_images:
+      - filename: "18__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/泛光灯/18__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "双头圆筒形泛光灯+圆形乳白漫射面+传感器+壁挂底盘"
+    product_name: "RAB 双头圆筒可调泛光灯（带传感器）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "泛光灯"]
+    design_language:
+      silhouette: "双头圆柱体灯头，各自独立旋转，圆形乳白漫射面，圆底盘壁挂，整体圆润现代"
+      light_opening: "圆形乳白PC漫射板，无明显LED点阵，均匀漫射光出光"
+      thermal: "铸铝圆柱灯头，通过壳体散热"
+      cmf:
+        color: "深灰黑"
+        material: "铸铝+乳白PC漫射板"
+        finish: "粉末喷涂哑光"
+      mounting: "圆形底盘壁挂，底盘上有DIMMER/COLOR/ON-OFF控制拨片"
+      signature_detail: "乳白漫射圆面+底盘集成控制拨片，兼具现代感与功能可达性"
+    design_level:
+      score: 4
+      reason: "圆形漫射面取代常规LED点阵，现代感明显强于同类；底盘集成控制界面设计简洁实用"
+    design_tags: ["圆筒灯头", "乳白漫射面", "内置传感器", "底盘控制", "现代感", "双头可调"]
+    hero_feature: "乳白圆形漫射出光面，去除LED点阵视觉噪声，形成干净现代的发光面"
+    problem_solved: "住宅/商业入口需要现代感强、带传感器和色温调节的户外泛光灯"
+    transferable_technique: "乳白漫射面替代裸露LED阵列的设计手法可迁移至需要提升品质感的户外灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "文件名含__from雨棚灯，形态兼具雨棚灯特征，需确认主分类归属"

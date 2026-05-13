@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "刨"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/刨/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "festool_刨_001"
+    source_images:
+      - filename: "刨__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/刨/刨__01.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool EHL 65 EQ 电刨，深灰蓝色机身，右侧视角45度。拱桥式机身轮廓，顶部圆弧手柄与机身一体成型。左端精密刻度旋钮（银灰色，印有刻度线）用于刨削深度调节；机身侧面绿色竖条形点缀装饰与功能标记；底部铝合金底板银色。白色FESTOOL斜体LOGO印于机身中部，下方标注型号EHL 65 EQ。机身前部散热格栅横向平行线条排列。整体无多余装饰，线条干净收敛。"
+    product_name: "Festool EHL 65 EQ 电刨"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "刨"]
+    design_language:
+      silhouette: "拱桥式一体轮廓，顶部手柄与机身平滑过渡，侧面呈低矮扁平流线型"
+      light_opening: "N/A"
+      thermal: "前部横向平行散热格栅，嵌入机身不突出"
+      cmf:
+        color: "深灰蓝色（Festool深色主调）为主，绿色（Festool Green）条形点缀，银灰色底板与旋钮"
+        material: "工程塑料机身，铝合金底板，橡胶防滑覆层局部"
+        finish: "哑光质感机身，铝合金底板拉丝银色，旋钮磨砂灰"
+      mounting: "有线（corded）"
+      signature_detail: "左端精密刻度深度调节旋钮，绿色竖条功能点缀，铝制底板"
+    design_level:
+      score: 4
+      reason: "人机工程手柄与机身一体成型设计优秀，功能控件精密可读，CMF克制统一，德国制造精度感强；缺少革命性视觉突破，但系统完成度极高"
+    design_tags: ["H07极简整合", "H12人机界面强化", "H10材料表达", "H03分件线"]
+    hero_feature: "拱桥式一体手柄轮廓 + 精密刻度深度旋钮，视觉上将精密仪器感引入手持工具"
+    problem_solved: "木工刨削深度精确控制；人机工程手柄减疲劳；底板导向稳定性"
+    transferable_technique: "刻度旋钮与功能控件精密感设计语言可迁移至其他需要精密调节的工具品类；一体拱桥手柄与机身无缝过渡手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_刨_002"
+    source_images:
+      - filename: "刨__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/刨/刨__02.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool HLC 82 EB 无线电刨，右侧45度视角，18V锂电池包安装于后部竖直方向。深灰蓝色机身，绿色功能点缀（调节旋钮圆盖、侧面竖条）。左端圆形深度调节旋钮，顶部弓形手柄，后部竖立电池包带Festool绿色标签显示电量，铝合金底板银色。整体比有线版更紧凑，电池包竖向延伸增加了机器高度感。FESTOOL白色斜体LOGO印于机身侧面，下方型号HLC 82 EB。"
+    product_name: "Festool HLC 82 EB 无线电刨"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "刨"]
+    design_language:
+      silhouette: "拱桥手柄+竖立电池包组合，侧面T字形轮廓，比有线版更高挑"
+      light_opening: "N/A"
+      thermal: "机身侧面横向散热格栅，嵌入不突出"
+      cmf:
+        color: "深灰蓝色为主，绿色点缀旋钮盖与侧条，银色底板，电池包绿色标签"
+        material: "工程塑料机身，铝合金底板，电池包ABS外壳"
+        finish: "哑光机身，拉丝铝底板，电池包哑光绿色标签"
+      mounting: "无线（18V锂电池，后置竖向）"
+      signature_detail: "后置竖向18V电池包，绿色深度调节旋钮盖，铝制底板"
+    design_level:
+      score: 4
+      reason: "无线版在有线版成熟设计基础上增加电池包，整合干净；电池包竖向安装是明确设计决策（重心靠后，操作稳定）；整体语言完全延续，系统一致性高"
+    design_tags: ["H07极简整合", "H12人机界面强化", "H10材料表达", "H05模块化"]
+    hero_feature: "竖向后置18V电池包与机身弓形手柄的协调整合，无线版与有线版视觉语言高度统一"
+    problem_solved: "无绳作业自由度；后置电池包平衡重心；精密深度调节延续有线版精度"
+    transferable_technique: "电池包作为设计元素融入机身整体轮廓的模块化整合手法；同一产品系列有线/无线视觉语言统一策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

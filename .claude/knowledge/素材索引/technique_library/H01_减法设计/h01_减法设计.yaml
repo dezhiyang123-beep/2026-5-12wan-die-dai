@@ -1,0 +1,297 @@
+schema_version: product_dna_v1
+category:
+  primary: H01_减法设计
+  secondary: 灯具
+  tertiary: ''
+source:
+  source_type: technique_library
+  source_folder: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H01_减法设计/
+  generated_at: '2026-05-09'
+products:
+- product_id: h01_artemide_001
+  source_images:
+  - filename: H01_artemide_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H01_减法设计/H01_artemide_001.jpg
+    image_role: hero
+    visual_anchor: 大尺寸透明玻璃穹顶下缘发出一圈细白光带，整体像一个悬浮的飞碟
+  product_name: Ameluna
+  brand_name: artemide
+  brand_confidence: medium
+  category_path:
+  - H01_减法设计
+  - 灯具
+  design_language:
+    silhouette: 扁平椭圆碟形，上下对称的玻璃穹体，极低高宽比
+    light_opening: LED光带隐藏于玻璃穹体内缘圆周边沿，向下散射
+    thermal: 玻璃穹体内部气流自然对流，无外露散热鳍片
+    cmf:
+      color: 透明/银灰色
+      material: 透明吹制玻璃 + 金属结构圈
+      finish: 抛光透明
+    mounting: 细钢缆吊装，两根细线几乎不可见
+    signature_detail: 整个灯具只有玻璃壳体一个零件可见，所有电器、光源、固定件均藏入其中，外轮廓零打断
+  design_level:
+    score: 5
+    reason: 教科书级减法案例：光源、结构、电气全部隐藏于单一透明穹体内，观者只见形态不见机械，减法彻底性极高
+  design_tags:
+  - H01减法设计
+  - 隐藏光源
+  - 透明壳体
+  - 飞碟造型
+  - 吊灯
+  hero_feature: 透明玻璃穹体内只露出一圈光，所有工程细节零可见
+  problem_solved: 传统吊灯灯头、灯泡、固定支架裸露在外，视觉噪音多；此设计把所有结构藏入玻璃穹体，实现单一干净形态
+  transferable_technique: 将光源和固定结构全部内藏于单一透明/半透明壳体，外轮廓只呈现纯几何形——可迁移到台灯、工具灯、户外灯等任何需要高端感的灯具品类
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h01_bega_001
+  source_images:
+  - filename: H01_bega_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H01_减法设计/H01_bega_001.jpg
+    image_role: hero
+    visual_anchor: 一个完整的黑色细圆环悬挂在空中，内缘嵌一圈白色LED，顶部一个小圆柱固定节点
+  product_name: Ring pendant
+  brand_name: bega
+  brand_confidence: medium
+  category_path:
+  - H01_减法设计
+  - 灯具
+  design_language:
+    silhouette: 正圆环形，单一闭合圆圈，截面极细
+    light_opening: 圆环内缘嵌LED，发光面朝内圈方向
+    thermal: 金属环型材本身导热，无额外散热结构
+    cmf:
+      color: 哑光黑（外侧）/ 白色（发光内缘）
+      finish: 喷砂哑光
+      material: 铝合金型材
+    mounting: 单根细缆从顶部小圆柱节点吊装
+    signature_detail: 整个产品只有一个几何原语——圆环——无任何附加装饰或多余零件，顶部固定节点也被简化为最小的圆柱
+  design_level:
+    score: 5
+    reason: 极致减法：产品形态等于数学上的圆环，没有任何额外结构，减法思路一目了然，示范价值极高
+  design_tags:
+  - H01减法设计
+  - 单一几何
+  - 圆环形
+  - 吊灯
+  - 极简黑白
+  hero_feature: 产品即圆环，只有一个几何原语，无多余结构
+  problem_solved: 灯具通常需要灯罩、灯臂、灯座等多个零件；此设计把灯具简化为单一圆环，电气和光源全嵌于环截面内
+  transferable_technique: 将产品形态压缩到单一基本几何体（圆/方/线），把光源或功能元件嵌入型材截面内部，外观实现零附加件——可迁移到线形灯、工业灯、标牌照明等
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h01_bega_002
+  source_images:
+  - filename: H01_bega_002.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H01_减法设计/H01_bega_002.jpg
+    image_role: hero
+    visual_anchor: 三个大小相近的黑色发光圆环以不同角度固定在一根黑色圆柱立柱上，形成扇形展开
+  product_name: Multi-ring ceiling
+  brand_name: bega
+  brand_confidence: medium
+  category_path:
+  - H01_减法设计
+  - 灯具
+  design_language:
+    silhouette: 三圆环放射状组合，主轴为竖向圆柱，三环以不同仰角展开
+    light_opening: 每个圆环内缘嵌LED发光带
+    thermal: 铝合金圆柱与圆环型材自然散热
+    cmf:
+      color: 全哑光黑
+      material: 铝合金型材
+      finish: 喷砂哑光
+    mounting: 圆柱直接安装于天花板
+    signature_detail: 三个相同模块（圆环）以不同角度组合，形成丰富构成感，但每个单元仍是bega_001同款极简圆环
+  design_level:
+    score: 4
+    reason: 将单一减法单元（圆环）重复组合，在保持每个单元极简性的同时形成视觉复杂度，是减法+模块化的好示范
+  design_tags:
+  - H01减法设计
+  - 模块重复
+  - 圆环矩阵
+  - 吸顶灯
+  - 全黑配色
+  hero_feature: 三个相同极简圆环以不同角度放射组合，单元极简整体丰富
+  problem_solved: 单一灯头照度覆盖范围有限；用多个相同极简单元以不同方向覆盖空间，同时保持视觉干净
+  transferable_technique: 用单一减法单元的多角度重复组合替代设计复杂的多头灯具——可迁移到工业照明、展览灯、工具灯阵列
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h01_bega_003
+  source_images:
+  - filename: H01_bega_003.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H01_减法设计/H01_bega_003.jpg
+    image_role: hero
+    visual_anchor: 超大直径扁平圆环吸顶灯近景，外侧哑光黑，内缘细窄铜色金属圈，中心白色漫射面板
+  product_name: Ring ceiling flush
+  brand_name: bega
+  brand_confidence: medium
+  category_path:
+  - H01_减法设计
+  - 灯具
+  design_language:
+    silhouette: 超大直径低矮圆环，高宽比极低（高约为直径1/10），紧贴天花板
+    light_opening: 顶部白色漫射面板向下出光，铜色内缘环反射补充侧向光
+    thermal: 哑光黑铝合金圆环体自然散热
+    cmf:
+      color: 哑光黑（外环）/ 拉丝铜色（内缘）/ 白色（漫射面）
+      material: 铝合金 + 漫射亚克力/玻璃
+      finish: 外表面哑光喷涂；内缘拉丝铜
+    mounting: 直接吸顶安装
+    signature_detail: 外黑内铜的双色环截面设计，铜色只在内缘可见，外观保持黑色极简，点亮后铜色被光线烘托
+  design_level:
+    score: 4
+    reason: 外观极度克制（纯黑圆环），但内缘铜色在点亮状态下形成惊喜感；减法中藏有一个精准的材料亮点，示范价值高
+  design_tags:
+  - H01减法设计
+  - 双色截面
+  - 克制外观
+  - 吸顶灯
+  - 黑铜配色
+  hero_feature: 哑光黑圆环外观极简，内缘拉丝铜色在点亮时才完整呈现
+  problem_solved: 大尺寸吸顶灯视觉过于厚重；超扁圆环形态最大化减少视觉体积，同时铜色内缘增加点亮后的温暖感
+  transferable_technique: 将装饰性材料/颜色隐藏在产品内壁或截面内侧，外观保持极简——可迁移到电器壳体、工具内衬、容器内壁等
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h01_bega_004
+  source_images:
+  - filename: H01_bega_004.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H01_减法设计/H01_bega_004.jpg
+    image_role: hero
+    visual_anchor: 哑光黑锥形吊灯，底部开口露出铜色内壁，一根细黑缆垂直吊装
+  product_name: Cone pendant
+  brand_name: bega
+  brand_confidence: medium
+  category_path:
+  - H01_减法设计
+  - 灯具
+  design_language:
+    silhouette: 正锥台形（上窄下宽），纵截面为梯形，侧面无任何曲率变化
+    light_opening: 底部开口向下出光，LED藏于锥体内部
+    thermal: 铝合金锥形壳体自然散热
+    cmf:
+      color: 哑光黑（外壁）/ 拉丝铜（内壁）
+      material: 铝合金
+      finish: 外壁哑光喷涂；内壁拉丝铜处理
+    mounting: 单根细黑缆顶部吊装，缆细到几乎不可见
+    signature_detail: 外表面无一条多余分件线或装饰，整体就是一个纯锥台，铜色内壁只在仰视时可见，是典型克制中的惊喜
+  design_level:
+    score: 5
+    reason: 教科书级减法吊灯：外轮廓是无装饰纯锥台，铜色内壁作为唯一设计亮点被精准隐藏，是'减去一切冗余，保留一个精华'的完美示范
+  design_tags:
+  - H01减法设计
+  - 锥形轮廓
+  - 内壁铜色
+  - 吊灯
+  - 克制惊喜
+  hero_feature: 纯锥台外观零装饰，仰视才见铜色内壁——减法与材料惊喜的完美结合
+  problem_solved: 普通灯罩通常有装饰线脚或多件组合，视觉繁复；此设计用单一锥台实现全部功能，删除所有非必要元素
+  transferable_technique: 用单一几何体（锥/球/筒）作为外壳，在内壁或不可见面使用高价值材料/颜色作为惊喜——可迁移到工具把手内衬、容器、扬声器外壳
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h01_flos_001
+  source_images:
+  - filename: H01_flos_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H01_减法设计/H01_flos_001.jpg
+    image_role: hero
+    visual_anchor: 一根细长水平直线形吊灯，由7-8个等间距透明圆筒模块串联，细钢缆吊装
+  product_name: String Light（线形版）
+  brand_name: flos
+  brand_confidence: medium
+  category_path:
+  - H01_减法设计
+  - 灯具
+  design_language:
+    silhouette: 水平细长线形，整体比例约1:20（高度与长度），各模块截面为圆形
+    light_opening: 每个透明圆筒模块360°全向发光
+    thermal: 模块之间连接节点处为金属，兼作散热点
+    cmf:
+      color: 透明/银灰
+      material: 透明玻璃或亚克力圆筒 + 金属连接节
+      finish: 光面透明
+    mounting: 两根细透明钢缆等间距吊装
+    signature_detail: 整灯只由等径透明圆筒和细金属连接节两种零件重复构成，安装线几乎不可见，形成纯粹线性发光体
+  design_level:
+    score: 4
+    reason: 将线形灯具减法到只剩两种零件的重复——透明圆筒+金属节，整体像一根发光的铅笔，减法清晰，手法可学性强
+  design_tags:
+  - H01减法设计
+  - 线形重复模块
+  - 透明壳体
+  - 吊灯
+  - 工业感
+  hero_feature: 整灯由等径透明圆筒重复串联构成，整体即一条发光直线
+  problem_solved: 线性照明通常需要灯槽或铝槽导轨，视觉笨重；此设计用串联透明模块代替，几乎零物理存在感
+  transferable_technique: 用单一重复透明模块串联替代传统线型灯具壳体——可迁移到橱柜灯、展示灯、工作台灯
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h01_flos_002
+  source_images:
+  - filename: H01_flos_002.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H01_减法设计/H01_flos_002.jpg
+    image_role: hero
+    visual_anchor: 一根细长水平吊灯，由8个等间距透明玻璃球体串联在一根细银色横杆上
+  product_name: String Light（球形版）
+  brand_name: flos
+  brand_confidence: medium
+  category_path:
+  - H01_减法设计
+  - 灯具
+  design_language:
+    silhouette: 水平细长线形，8个等径球体等间距排列，整体高宽比约1:15
+    light_opening: 每个透明玻璃球体360°全向发光
+    thermal: 细金属横杆传导，球体-杆连接节点散热
+    cmf:
+      color: 透明/银色
+      material: 透明玻璃球 + 细铬钢横杆
+      finish: 光面透明玻璃
+    mounting: 两根细透明钢缆等间距吊装
+    signature_detail: 整灯只有两种元素：等径玻璃球 + 细银杆，球体在视觉上浮于空中，杆细到几乎隐形
+  design_level:
+    score: 5
+    reason: 减法极致：产品语言压缩为'一排等距玻璃球'，两种零件，零装饰，形态即功能的完美示范
+  design_tags:
+  - H01减法设计
+  - 球形重复模块
+  - 透明玻璃
+  - 吊灯
+  - 线性构成
+  hero_feature: 8个等径透明玻璃球穿于一根细银杆，整灯就是'一排悬浮球'
+  problem_solved: 多头吊灯通常结构复杂；此设计把所有光源单元统一为同一几何体（球），以最少零件种类实现多点照明
+  transferable_technique: 用单一几何体（球/圆柱/正方体）的等间距重复排列替代多头灯具的复杂结构——可迁移到阵列灯具、展示陈列灯
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

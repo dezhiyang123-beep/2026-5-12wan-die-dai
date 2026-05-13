@@ -1,0 +1,93 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 射灯
+  tertiary: 射灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/射灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_射灯_001
+  source_images:
+  - filename: 50.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/射灯/50.jpg
+    image_role: hero
+    visual_anchor: 黑色圆筒射灯特写，前端银色环框包住深腔凸透镜。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 射灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 黑色圆筒射灯特写，前端银色环框包住深腔凸透镜
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 射灯
+  - 深腔
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色圆筒射灯特写，前端银色环框包住深腔凸透镜
+  problem_solved: 定向灯具需要精准控光和灵活调节，同时保持轨道或灯头系统整洁。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_射灯_002
+  source_images:
+  - filename: 116.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/射灯/116.jpg
+    image_role: hero
+    visual_anchor: 黑色线性轨道上嵌入多个小圆射灯，局部铜色灯头从轨道侧面伸出。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 射灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色线性轨道上嵌入多个小圆射灯，局部铜色灯头从轨道侧面伸出
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 射灯
+  - 灯具
+  - 线性
+  - 轨道
+  - 逐张视觉识别
+  hero_feature: 黑色线性轨道上嵌入多个小圆射灯，局部铜色灯头从轨道侧面伸出
+  problem_solved: 定向灯具需要精准控光和灵活调节，同时保持轨道或灯头系统整洁。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

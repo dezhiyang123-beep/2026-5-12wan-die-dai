@@ -1,0 +1,394 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "其他配件"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_accessory_001"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/15.jpg"
+        image_role: "hero"
+        visual_anchor: "方形旅行充电器+内置线+全球插头组件爆炸展示"
+    product_name: "IDMIX MR Charger CH05 旅行充电器"
+    brand_name: "IDMIX"
+    brand_confidence: "high"
+    category_path: ["消费电子", "其他配件", "充电器"]
+    design_language:
+      silhouette: "正方形砖块体，圆角处理，紧凑感强"
+      light_opening: "无发光开口，顶部内置线缆收纳槽"
+      thermal: "PC V0阻燃外壳，无明显散热孔"
+      cmf:
+        color: "全黑"
+        material: "PC防火材料"
+        finish: "哑光"
+      mounting: "折叠插脚直插墙面，附3种全球插头模块"
+      signature_detail: "内置Type-C/Lightning线缆收纳于把手结构中，线即把手"
+    design_level:
+      score: 4
+      reason: "三合一整合创意强（充电器+移动电源+内置线），线即把手的结构创新解决了携带乱线痛点，工程整合度高"
+    design_tags: ["充电器", "旅行配件", "模块化插头", "内置线缆", "功能整合", "H05模块化", "H09隐藏工程"]
+    hero_feature: "充电线即把手，无需额外携带线缆"
+    problem_solved: "出差旅行多设备充电需携带多根线和多个适配器的混乱问题"
+    transferable_technique: "将附属配件（线）整合进主体结构充当把手，做到零冗余携带"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_accessory_002"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/17.jpg"
+        image_role: "hero"
+        visual_anchor: "细长笔形轮廓，中部银色品牌logo腰带，黑色笔身"
+    product_name: "Wacom Pro Pen 电磁压感笔"
+    brand_name: "Wacom"
+    brand_confidence: "high"
+    category_path: ["消费电子", "其他配件", "手写笔"]
+    design_language:
+      silhouette: "仿真笔形圆柱体，笔尖端渐细，尾端略宽"
+      light_opening: "无"
+      thermal: "无散热需求"
+      cmf:
+        color: "哑光黑主体，银色金属腰带"
+        material: "工程塑料+金属环"
+        finish: "磨砂哑光"
+      mounting: "手持握持，可停放于Wacom平板磁吸槽"
+      signature_detail: "中部银色金属腰带嵌入品牌字logo，侧面两颗功能按键与笔身融为一体"
+    design_level:
+      score: 3
+      reason: "造型克制精准，银色腰带是唯一识别特征，整体无多余装饰，符合专业工具美学"
+    design_tags: ["手写笔", "专业工具", "极简", "H07极简整合", "握持人机"]
+    hero_feature: "银色腰带+侧键与笔身无缝融合，无突兀感"
+    problem_solved: "数字绘图需要接近真实画笔的握持体验与操控精度"
+    transferable_technique: "腰带式品牌区间分割笔身比例，兼具功能定位与视觉识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_accessory_003"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/18.jpg"
+        image_role: "hero"
+        visual_anchor: "细长笔形+圆柱形收纳管并排展示，正视图"
+    product_name: "Wacom Bamboo Ink 触控笔+收纳管套装"
+    brand_name: "Wacom"
+    brand_confidence: "high"
+    category_path: ["消费电子", "其他配件", "手写笔"]
+    design_language:
+      silhouette: "笔形圆柱体配同等直径圆柱收纳管，比例协调"
+      light_opening: "无"
+      thermal: "无散热需求"
+      cmf:
+        color: "全黑"
+        material: "铝合金或高密度工程塑料"
+        finish: "哑光"
+      mounting: "配套收纳管作为笔套/保护壳使用"
+      signature_detail: "收纳管直径与笔身完全一致，形成统一整体感；Wacom品牌字竖排刻于管壁"
+    design_level:
+      score: 3
+      reason: "笔与管同径设计是亮点，整体感强，但创新层面属于精细工艺而非概念突破"
+    design_tags: ["手写笔", "收纳", "系列化设计", "H07极简整合"]
+    hero_feature: "笔与收纳管同径等高，展示时浑然一体"
+    problem_solved: "触控笔无处收纳、易丢失的使用痛点"
+    transferable_technique: "配件与主体同径设计策略，视觉上消解附件感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_accessory_004"
+    source_images:
+      - filename: "42.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/42.jpg"
+        image_role: "hero"
+        visual_anchor: "4色iPhone皮革信封套+腕带，正面并列展示"
+    product_name: "Apple iPhone 12 皮革信封保护套"
+    brand_name: "Apple"
+    brand_confidence: "high"
+    category_path: ["消费电子", "其他配件", "手机保护套"]
+    design_language:
+      silhouette: "信封袋形，顶部开口可看到屏幕通知，底部穿过腕带"
+      light_opening: "顶部开口透出屏幕显示"
+      thermal: "无"
+      cmf:
+        color: "Baltic Blue / PRODUCT RED / 橙红 / Saddle Brown 四色"
+        material: "粒面皮革"
+        finish: "皮革本色，机缝线收边"
+    mounting: "MagSafe磁吸固定于iPhone机身，底部皮质腕带"
+    signature_detail: "顶部弧形开口露出Always-On式通知屏；皮质腕带与套身同色"
+    design_level:
+      score: 4
+      reason: "信封形态将时装配件语言带入手机保护套，MagSafe磁吸+皮革工艺质感高，色系克制时髦"
+    design_tags: ["手机保护套", "皮革", "MagSafe", "时尚配件", "H10材料表达", "色彩系列"]
+    hero_feature: "顶部弧形开口设计，无需取出手机即可查看通知"
+    problem_solved: "手机保护套功能性与时尚配件身份感的矛盾"
+    transferable_technique: "信封开口露出关键信息区的功能性开孔策略，可迁移至其他保护类配件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_accessory_005"
+    source_images:
+      - filename: "43.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/43.jpg"
+        image_role: "hero"
+        visual_anchor: "Saddle Brown皮革全包手机套+皮腕带，苹果logo居中"
+    product_name: "Apple iPhone 12 皮革全包套（Saddle Brown）"
+    brand_name: "Apple"
+    brand_confidence: "high"
+    category_path: ["消费电子", "其他配件", "手机保护套"]
+    design_language:
+      silhouette: "全包圆角矩形，背面略鼓以容纳MagSafe磁圈"
+      light_opening: "背面镂空Apple logo压印"
+      thermal: "无"
+      cmf:
+        color: "Saddle Brown 鞍棕色"
+        material: "粒面皮革"
+        finish: "皮革本色"
+      mounting: "MagSafe磁吸，银色铆钉固定皮质腕带"
+      signature_detail: "Apple压印logo作为背面唯一装饰，银色小圆铆钉连接腕带"
+    design_level:
+      score: 4
+      reason: "皮革质感与Apple极简美学高度融合，铆钉+皮腕带细节呼应Hermès风格，整体品质感强"
+    design_tags: ["手机保护套", "皮革", "MagSafe", "极简", "H10材料表达"]
+    hero_feature: "全粒面皮革包裹+Apple压印logo，呈现轻奢手工配件质感"
+    problem_solved: "希望手机保护套具备精品皮具美感的用户需求"
+    transferable_technique: "压印品牌标识代替贴标/印刷，提升材料高级感的工艺手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_accessory_006"
+    source_images:
+      - filename: "50.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/50.jpg"
+        image_role: "hero"
+        visual_anchor: "iPhone保护壳+三脚架挂载，正面/背面双视角"
+    product_name: "OZAKI iCoat Slim-Y iPhone保护壳（含三脚架接口）"
+    brand_name: "OZAKI"
+    brand_confidence: "high"
+    category_path: ["消费电子", "其他配件", "手机保护套"]
+    design_language:
+      silhouette: "横向矩形，铝合金外框+皮革纹理背板，底部集成三脚架螺孔"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "白色铝框+黑色皮纹背板"
+        material: "铝合金+合成皮革"
+        finish: "金属拉丝+皮纹压花"
+      mounting: "底部标准1/4英寸螺孔可接三脚架；顶部圆形金属扣接挂绳"
+      signature_detail: "集成标准三脚架螺孔于保护壳底部，无需额外夹具"
+    design_level:
+      score: 3
+      reason: "功能整合思路清晰，解决了手机摄影支架安装痛点，但整体造型偏工业感，美观度一般"
+    design_tags: ["手机保护套", "摄影配件", "功能整合", "H05模块化", "H11功能外显"]
+    hero_feature: "保护壳底部原生集成标准三脚架螺孔"
+    problem_solved: "手机摄影需要专门夹具固定三脚架，麻烦且易松动"
+    transferable_technique: "将行业标准接口（1/4螺孔）内置进消费配件，消除转接器"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_accessory_007"
+    source_images:
+      - filename: "51.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/51.jpg"
+        image_role: "hero"
+        visual_anchor: "4色iPhone保护壳+长腕带，棒状吊带与壳体同色系"
+    product_name: "OZAKI iCoat Formfitted iPhone保护壳套装"
+    brand_name: "OZAKI"
+    brand_confidence: "high"
+    category_path: ["消费电子", "其他配件", "手机保护套"]
+    design_language:
+      silhouette: "矩形全包壳体，顶部金属转轴连接扁平硅胶腕带"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "棕/黑/黄/白 四色，壳与腕带同色系"
+        material: "铝合金外框+皮纹背板+硅胶腕带"
+        finish: "金属拉丝+皮纹+硅胶磨砂"
+      mounting: "金属转轴连接腕带，可作手持环或挂脖"
+      signature_detail: "宽扁硅胶腕带从壳顶部延伸，形如相机肩带，整体联感强"
+    design_level:
+      score: 3
+      reason: "色系统一是亮点，腕带与壳同色带来强整体感，转轴细节做工精良，但造型语言偏平淡"
+    design_tags: ["手机保护套", "腕带", "色彩系列", "H10材料表达"]
+    hero_feature: "壳体与腕带色系完全统一，整体感媲美时装配件"
+    problem_solved: "保护壳与腕带颜色不统一的视觉碎片化问题"
+    transferable_technique: "配件与附件全色系统一策略，提升系列感与精品感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_accessory_008"
+    source_images:
+      - filename: "66.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/66.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形大屏台式智能终端，蛋形侧面，双腿支架"
+    product_name: "圆屏家庭智能通讯终端（品牌不明）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "其他配件", "智能家居终端"]
+    design_language:
+      silhouette: "正圆形屏幕嵌入椭圆蛋形壳体，双V形支脚落地"
+      light_opening: "正面整圆屏发光，背面椭圆扬声器格栅"
+      thermal: "背面扬声器格栅兼散热"
+      cmf:
+        color: "银白机身+黑色屏幕面板+黑色支脚"
+        material: "铝合金机身+钢化玻璃屏"
+        finish: "金属拉丝+高光屏"
+      mounting: "双腿落地直立，无壁挂设计"
+      signature_detail: "正圆屏内嵌于椭圆壳体，圆中有圆的比例关系，视觉聚焦感强"
+    design_level:
+      score: 4
+      reason: "圆屏+蛋形机身的形态少见，仿生感强，双腿支架语言独特，整体识别度极高"
+    design_tags: ["智能终端", "圆形屏", "仿生", "家居", "H06仿生", "H08对比强调"]
+    hero_feature: "正圆屏幕嵌于蛋形机身，强烈的几何对比形成视觉记忆点"
+    problem_solved: "家庭通讯设备外观过于工业感，难以融入家居环境"
+    transferable_technique: "圆中有圆的嵌套几何比例策略；双腿支架作为视觉设计语言元素"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "品牌未知；产品类型介于通讯终端与智能家居之间，需人工确认分类"
+
+  - product_id: "if_accessory_009"
+    source_images:
+      - filename: "68.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/68.jpg"
+        image_role: "hero"
+        visual_anchor: "6色Logitech平板保护套，带折叠支架，侧视图+正面阵列"
+    product_name: "Logitech Big Bang iPad保护套"
+    brand_name: "Logitech"
+    brand_confidence: "high"
+    category_path: ["消费电子", "其他配件", "平板保护套"]
+    design_language:
+      silhouette: "矩形折叠保护套，背面V形支架折出可多角度站立"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "红/蓝双色、紫双色、绿/青双色、白/黄双色、灰双色、黑/红双色"
+        material: "硬质PP外壳+织物贴面"
+        finish: "织物纹理"
+      mounting: "背面集成V形折叠支架，多角度站立"
+      signature_detail: "双色拼接设计，颜色分割线对齐支架折叠线，功能与色彩语言合一"
+    design_level:
+      score: 3
+      reason: "双色拼接与功能分区结合有想法，色系活跃，适合年轻市场，但支架机构本身无突破"
+    design_tags: ["平板保护套", "支架", "双色拼接", "系列化", "H08对比强调", "H05模块化"]
+    hero_feature: "双色拼接线精确对齐支架折叠结构线，色彩即功能边界"
+    problem_solved: "平板看视频时需单独购买支架的不便"
+    transferable_technique: "将产品功能分区边界作为色彩分割线，视觉强化功能逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_accessory_010"
+    source_images:
+      - filename: "78.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/78.jpg"
+        image_role: "hero"
+        visual_anchor: "平板从牛皮纸板式包装中滑出，环保包装展开图"
+    product_name: "平板电脑环保纸板包装（品牌未明确）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "其他配件", "产品包装"]
+    design_language:
+      silhouette: "平板形态的折叠纸板信封，打开后分三层托起产品"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "原色牛皮纸棕"
+        material: "再生瓦楞纸板"
+        finish: "原纸自然质感，压线折叠"
+      mounting: "N/A（包装）"
+      signature_detail: "包装即产品托盘，展开即展示，无泡沫/塑料，纸板厚度精确控制以固定平板"
+    design_level:
+      score: 4
+      reason: "全纸板一体成型包装，无塑料无泡沫，展开即展台的设计逻辑清晰，环保与功能兼得，执行精准"
+    design_tags: ["包装设计", "环保包装", "一体成型", "可持续设计", "H09隐藏工程"]
+    hero_feature: "全瓦楞纸板一体折叠，展开即展示托盘，零废弃材料"
+    problem_solved: "电子产品包装大量使用泡沫塑料造成的环境负担"
+    transferable_technique: "折叠纸板同时承担运输保护+展示展台两重功能，消除内托结构"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "品牌标志不清晰；包装内平板品牌疑似国内品牌，需确认"
+
+  - product_id: "if_accessory_011"
+    source_images:
+      - filename: "84.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/其他配件/84.jpg"
+        image_role: "hero"
+        visual_anchor: "Chargigo多接口充电线组，U形架+折叠刀状收纳，灰色"
+    product_name: "Chargigo 多接口折叠充电线套装"
+    brand_name: "Chargigo"
+    brand_confidence: "high"
+    category_path: ["消费电子", "其他配件", "充电线"]
+    design_language:
+      silhouette: "折叠刀形态，细长扁平主体，U形挂扣收纳架"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "深灰色"
+        material: "硅胶+金属接头"
+        finish: "磨砂硅胶"
+      mounting: "U形挂扣可附挂于包包/钥匙环，折叠收纳"
+      signature_detail: "多接头充电线收纳进瑞士军刀式折叠结构，展开即用，收拢成一把"
+    design_level:
+      score: 5
+      reason: "将充电线多头问题用瑞士军刀逻辑解决，折叠机构精巧，U形架兼具收纳和挂载功能，设计语言统一，是配件设计的范本级案例"
+    design_tags: ["充电线", "多接口", "折叠收纳", "瑞士军刀逻辑", "H05模块化", "H09隐藏工程", "H07极简整合"]
+    hero_feature: "多接口充电线以瑞士军刀方式折叠收纳于单一扁平体内"
+    problem_solved: "多设备用户携带多根不同接口充电线混乱、易缠绕的痛点"
+    transferable_technique: "瑞士军刀折叠展开结构迁移至充电线收纳，展开即用无需解缠"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

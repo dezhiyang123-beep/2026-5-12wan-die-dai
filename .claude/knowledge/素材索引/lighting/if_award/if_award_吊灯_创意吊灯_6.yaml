@@ -1,0 +1,777 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "吊灯"
+  tertiary: "创意吊灯"
+
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "if_吊灯_创意吊灯_b6_001"
+    source_images:
+      - filename: "101.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/101.jpg"
+        image_role: "hero"
+        visual_anchor: "餐厅场景中三只超薄圆盘形吊灯从细线垂下，灯具极度扁平，直径远大于厚度，向下投射聚焦光晕"
+    product_name: "Ultra-thin Disc Pendant"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "超扁平圆盘形，直径约为厚度的10倍以上；从侧面看几乎只是一条水平线"
+      light_opening: "底部圆形开口向下出光，形成柔和聚焦光斑"
+      thermal: "超薄形态暗示内置LED模组，无明显散热结构外露"
+      cmf:
+        color: "深哑光银灰色，底部出光面略亮"
+        material: "金属（铝合金）"
+        finish: "哑光喷砂"
+      mounting: "单根细金属线/钢缆吊挂，顶部圆形吸顶盘"
+      signature_detail: "极端扁薄比例，灯盘边缘锋利干净，视觉重量极轻"
+    design_level:
+      score: 4
+      reason: "比例控制极度克制，将功能性最小化为一条线的存在感；餐厅场景下三只成组悬挂形成强节奏感；H01减法手法执行彻底"
+    design_tags:
+      - "H01减法"
+      - "H07极简整合"
+      - "餐厅照明"
+      - "超薄"
+      - "圆盘形"
+      - "金属"
+      - "直接照明"
+    hero_feature: "超薄圆盘轮廓——从任意水平视角几乎消失，只在天花板下留下光的存在"
+    problem_solved: "餐厅环境中灯具本体对视线的遮挡与干扰，让光而非灯具成为主角"
+    transferable_technique: "极端扁平化比例控制可迁移至其他需要低视觉干扰的照明产品；边缘锋利收口工艺"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_002"
+    source_images:
+      - filename: "102.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/102.jpg"
+        image_role: "hero"
+        visual_anchor: "仰视角度，密集爱迪生球形灯泡呈椭圆形簇状排列，从黑色金属管组集中向下垂挂，整体轮廓近似圆顶形"
+      - filename: "103.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/103.jpg"
+        image_role: "context"
+        visual_anchor: "侧仰视角，展示同一装置挂于木梁天花下，灯泡群落呈波浪起伏的矩形平面，波峰波谷高度差明显"
+    product_name: "Edison Bulb Cluster Chandelier"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "大尺度矩形/椭圆形簇状吊装，灯泡密集排布形成有机起伏的面状轮廓；整体尺度达数米"
+      light_opening: "每只球形灯泡全方向出光，整体无指向性，形成温暖氛围光"
+      thermal: "开放式灯泡阵列，自然散热，无封闭腔体"
+      cmf:
+        color: "黑色金属管 + 暖琥珀色灯丝光"
+        material: "钢管骨架 + 透明玻璃球形灯泡"
+        finish: "黑色烤漆金属 + 清透玻璃"
+      mounting: "多根黑色金属管从天花板集中引出，各管末端悬挂单只灯泡"
+      signature_detail: "灯泡密度极高，排列形成波浪起伏的三维曲面，灯丝图案在近距离清晰可见"
+    design_level:
+      score: 3
+      reason: "大尺度装置感强，工业复古美学执行一致；但手法较为常见，技术创新度有限；场景适配性（木梁餐厅/酒吧）强"
+    design_tags:
+      - "H05模块化"
+      - "爱迪生灯泡"
+      - "工业复古"
+      - "装置感"
+      - "阵列排布"
+      - "氛围照明"
+      - "大尺度"
+    hero_feature: "数十只爱迪生灯泡密集成群，形成温暖发光的有机云团"
+    problem_solved: "大尺度空间（餐厅/宴会厅）需要同时提供氛围照明与视觉焦点的双重需求"
+    transferable_technique: "模块化灯泡阵列的密度与高度差设计可控制整体轮廓起伏；黑色金属管的隐蔽性处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_003"
+    source_images:
+      - filename: "104.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/104.jpg"
+        image_role: "hero"
+        visual_anchor: "灰色背景上单只吊灯：上半球体为磨损黄铜色金属帽，下半球体为竖条纹磨砂玻璃，交界处可见红色RGB光晕渗出"
+    product_name: "Hemisphere Split Pendant with RGB Accent"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "完整球形，上下两半材质对分：金属上盖 + 玻璃下半球；细铜棒吊杆从顶部穿入"
+      light_opening: "底部半球玻璃透光，为漫射出光；上下交界缝隙处RGB彩色光渗出为点睛细节"
+      thermal: "金属上盖兼作散热体，玻璃下球为漫射罩"
+      cmf:
+        color: "做旧黄铜色（上盖）+ 白色磨砂（下球）+ 红色RGB缝隙光"
+        material: "黄铜/铜合金上盖 + 竖条纹磨砂玻璃下球"
+        finish: "做旧/氧化黄铜哑面 + 竖肋磨砂玻璃"
+      mounting: "细铜棒吊杆，顶部无装饰性吸顶盘"
+      signature_detail: "上下两半材质对分的球体 + 交界缝隙处RGB彩色光带，白天看是材质对比，夜晚亮灯后缝隙发光"
+    design_level:
+      score: 4
+      reason: "材质对比手法精准，上下分件线恰在球体赤道，比例完美；RGB缝隙光是有克制的戏剧性；竖条纹玻璃增加光效层次；H08对比强调运用出色"
+    design_tags:
+      - "H03分件线"
+      - "H08对比强调"
+      - "H10材料表达"
+      - "球形"
+      - "黄铜"
+      - "磨砂玻璃"
+      - "RGB"
+      - "材质对分"
+      - "竖肋纹理"
+    hero_feature: "球体赤道处的材质分界线 + RGB彩光缝隙——上下两个世界在球体中线相遇"
+    problem_solved: "单一造型吊灯缺乏层次感；通过材质分区和彩色缝隙光在同一产品中实现功能照明与氛围装饰的分层"
+    transferable_technique: "球体赤道分件线的材质对分策略；缝隙光作为产品记忆点的克制运用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_004"
+    source_images:
+      - filename: "105.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/105.jpg"
+        image_role: "hero"
+        visual_anchor: "客厅场景，多根黑色细线从天花板吸顶盘集中引出，末端连接可弯曲的黑色细管臂，臂端点亮白色LED光点，整体形态如章鱼或瀑布"
+    product_name: "Flexible Multi-Arm LED Point Chandelier"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "中央集束后向外弯曲散开，臂端LED点光下垂，整体呈倒置伞状或章鱼触手形态"
+      light_opening: "各臂末端点光源，全向微小光点，非定向照明；整体为氛围装饰光"
+      thermal: "LED点光源功率极小，无明显散热需求"
+      cmf:
+        color: "哑黑色细管臂 + 冷白LED光点"
+        material: "柔性导电细管（可能为硅胶/金属软管）"
+        finish: "哑黑涂层"
+      mounting: "中央大圆形吸顶盘，多线束集中固定"
+      signature_detail: "柔性臂可自由弯曲调整形态，每根臂末端单独发光，现代解构吊灯轮廓"
+    design_level:
+      score: 4
+      reason: "将传统枝形吊灯解构为极简线性元素；柔性可调形态赋予用户个性化空间；与壁炉古典背景形成强烈对比张力；H06仿生（水母/章鱼）隐喻清晰"
+    design_tags:
+      - "H06仿生"
+      - "H05模块化"
+      - "H01减法"
+      - "柔性可调"
+      - "点光源"
+      - "枝形吊灯现代化"
+      - "氛围照明"
+      - "解构"
+    hero_feature: "多根柔性发光臂从中央向外弯垂，形似发光水母触手——可手动调整每根臂的弯曲方向"
+    problem_solved: "传统枝形吊灯造型固化、无法适配现代极简空间；柔性臂系统让每个装置都是独一无二的形态"
+    transferable_technique: "柔性导电管末端点光源策略；多线束从单一吸顶盘发散的结构隐藏手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_005"
+    source_images:
+      - filename: "106.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/106.jpg"
+        image_role: "hero"
+        visual_anchor: "楼梯井场景，多根黑色细杆从天花板垂挂，各杆不同长度，每根杆上间隔排布白色发光球形LED节点，形成垂直光点瀑布"
+    product_name: "Cascading LED Node Pendant Array"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "多根垂直细杆，长度渐变排布，杆上等距分布球形光节点；整体呈现雨丝或星帘意象"
+      light_opening: "每个球形节点全方向漫射出光；多点分布提供均匀散射氛围光"
+      thermal: "各节点LED功率极小，细杆兼导线功能"
+      cmf:
+        color: "哑黑色细杆 + 纯白球形光节点"
+        material: "金属/塑料细杆 + 乳白玻璃/塑料球节点"
+        finish: "哑黑 + 乳白漫射"
+      mounting: "顶部集束固定，多杆并排从同一区域引出"
+      signature_detail: "不同长度的杆形成高低错落的光点矩阵，在楼梯高空间中尤其震撼"
+    design_level:
+      score: 4
+      reason: "充分利用楼梯井垂直空间；多高度差错落节点创造三维光点矩阵效果；极简构件实现强装置感；H04参数化阵列逻辑清晰"
+    design_tags:
+      - "H04参数化"
+      - "H05模块化"
+      - "垂直空间"
+      - "光点阵列"
+      - "楼梯井"
+      - "雨丝意象"
+      - "氛围照明"
+      - "球形节点"
+    hero_feature: "高度错落的光点瀑布——数十个发光白球在垂直空间中构成三维星云"
+    problem_solved: "楼梯井等高挑空间的照明通常难以兼顾氛围与视觉焦点；多杆节点系统可精确填充任意高度的垂直空间"
+    transferable_technique: "杆长度参数化渐变控制整体轮廓；节点等距排布与杆高度差的双层参数化设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_006"
+    source_images:
+      - filename: "107.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/107.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝色背景，三只同系列不同尺寸的透明亚克力柱状吊灯并排，每只由透明圆柱主体穿插不同几何形态的透明玻璃/亚克力装饰块组成，顶部镀铬金属固定件"
+    product_name: "Crystal Totem Pendant (Stacked Geometry Series)"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "垂直细长柱体，沿轴线穿插多个不同几何形态的透明折射体（钻石形、圆柱形、碗形、花形）；整体如图腾柱"
+      light_opening: "各玻璃/亚克力几何体折射内置LED光，多向漫射出光；光从各节点折射散出"
+      thermal: "顶部金属件内置LED驱动，透明主体导光散热"
+      cmf:
+        color: "全透明（无色）+ 顶部镀铬银色金属件"
+        material: "透明亚克力/水晶柱体 + 透明玻璃几何装饰块 + 镀铬金属"
+        finish: "光学级透明抛光 + 镜面镀铬"
+      mounting: "单线吊挂，顶部小型镀铬圆柱固定件"
+      signature_detail: "透明柱体上串联的异形几何折射体——钻石切面与圆弧体交替穿插，光线在内部折射形成棱镜效果"
+    design_level:
+      score: 4
+      reason: "全透明材质策略使产品在不同光照条件下呈现截然不同的视觉效果；几何形态的图腾柱逻辑新颖；三种尺寸的家族化设计完整；H10材料表达（透明折射）是核心手法"
+    design_tags:
+      - "H10材料表达"
+      - "H05模块化"
+      - "H04参数化"
+      - "透明"
+      - "水晶/亚克力"
+      - "图腾柱"
+      - "折射"
+      - "几何堆叠"
+      - "家族化"
+    hero_feature: "沿垂直轴串联的多个透明几何折射体——每个切面都是微型棱镜，整体是一根发光的水晶图腾"
+    problem_solved: "水晶吊灯通常体积庞大笨重；此设计将折射美学压缩至极细的垂直线条中"
+    transferable_technique: "透明材质轴线穿插异形几何体的堆叠策略；光学折射作为装饰语言的运用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_007"
+    source_images:
+      - filename: "108.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/108.jpg"
+        image_role: "hero"
+        visual_anchor: "灰白背景，展示同一系统三种配置：左侧为发光白色大环形管弯折成蛇形；右侧为黑色U形托架悬挂直线管，并附带垂挂小圆柱筒灯"
+      - filename: "109.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/109.jpg"
+        image_role: "detail"
+        visual_anchor: "同一系统的椭圆环形配置特写：黑色U形金属托架固定在天花板，白色发光椭圆管环挂于其下"
+    product_name: "Modular LED Tube System (Flexible Loop + Bar Configurations)"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "系统化：同一LED发光管可弯折为椭圆环、蛇形曲线、直线排列等多种形态；黑色U形托架为共用骨架"
+      light_opening: "白色乳白发光管全周漫射出光（360°），兼顾直接照明与氛围照明"
+      thermal: "管状LED内置，管体兼散热；黑色金属托架辅助散热"
+      cmf:
+        color: "哑黑金属托架 + 亮白发光管体"
+        material: "铝合金 U形托架 + 乳白聚碳酸酯/硅胶发光管"
+        finish: "黑色粉末喷涂 + 乳白漫射"
+      mounting: "U形托架直接固定于天花板，钢丝辅助悬挂发光管"
+      signature_detail: "黑色工程语言托架与纯白发光软管的强对比；软管可弯折成任意封闭或开放曲线形态"
+    design_level:
+      score: 5
+      reason: "模块化系统思维将单一产品扩展为空间照明语言；黑色托架与白色光管的二元对比极度克制且有力；可形成蛇形、环形、直线等多种形态，适配任意空间需求；H05模块化与H07极简整合协同"
+    design_tags:
+      - "H05模块化"
+      - "H07极简整合"
+      - "H08对比强调"
+      - "LED软管"
+      - "系统化"
+      - "可弯折"
+      - "环形"
+      - "工业设计"
+      - "黑白对比"
+      - "线性照明"
+    hero_feature: "同一黑色U形托架骨架 + 可弯折白色发光管——一套系统可以是椭圆、蛇形或直线，创造空间照明语言"
+    problem_solved: "定制化空间照明需要昂贵的专项设计；模块化可弯折管系统用标准化组件实现无限形态可能"
+    transferable_technique: "U形托架作为通用骨架的模块化策略；柔性发光管的弯折塑形与刚性金属支架的配合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_008"
+    source_images:
+      - filename: "110.jpeg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/110.jpeg"
+        image_role: "hero"
+        visual_anchor: "灰白空间角落，超细超长黑色V形金属杆从天花板单点吊挂，两臂向两侧45°伸展，末端极细，整体几乎隐形"
+    product_name: "Ultra-thin V-bar Pendant"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "从侧面看：单点悬挂的细线；从正面看：平展的V形或Y形超细水平杆，两臂夹角约120°"
+      light_opening: "杆体下侧线形LED出光缝，形成超细线形光带；出光极为克制"
+      thermal: "铝合金杆体本身作为散热件"
+      cmf:
+        color: "哑黑色"
+        material: "铝合金型材"
+        finish: "哑黑阳极氧化或粉末喷涂"
+      mounting: "V形顶点单线悬挂，极简"
+      signature_detail: "整体产品在视觉上接近消失——在灰白空间中仅留下两条黑色线条和极细光带"
+    design_level:
+      score: 5
+      reason: "将灯具存在感压缩至几何抽象的极限；V形杆的对称张力感强；单点悬挂在角落空间形成与建筑线条的精确对话；H01减法与H09隐藏工程的极致体现"
+    design_tags:
+      - "H01减法"
+      - "H09隐藏工程"
+      - "H07极简整合"
+      - "超薄"
+      - "线形"
+      - "V形"
+      - "建筑感"
+      - "极简主义"
+      - "几何"
+      - "黑色"
+    hero_feature: "V形细杆从单点悬挂张开——从侧面几乎消失，正面仅见两条黑色线条和内嵌光缝"
+    problem_solved: "现代极简空间中灯具本体破坏建筑语言的一致性；此设计将灯具几何化为空间线条的一部分"
+    transferable_technique: "单点悬挂多臂展开的结构逻辑；下开缝线形LED的隐藏式出光策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_009"
+    source_images:
+      - filename: "111.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/111.jpg"
+        image_role: "hero"
+        visual_anchor: "大型客厅场景，多组黑色金属线框U形环从天花板垂挂，环内嵌入竖向LED发光管，部分组件延伸至地面，整体如音符或发光拱形帘"
+      - filename: "113.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/113.jpg"
+        image_role: "context"
+        visual_anchor: "同一产品系统的另一视角，展示更多组合配置：U形环宽窄不同，LED竖管长短各异，部分组件落地"
+    product_name: "Looped LED Tube Pendant System"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "黑色金属U形/拱形线框作为结构骨架，框内悬挂垂直LED发光管；多件成组形成帘状装置"
+      light_opening: "竖向LED发光管侧面全周出光，形成均匀竖向光柱；无定向"
+      thermal: "LED管体内置，金属框架辅助导热"
+      cmf:
+        color: "哑黑色金属框 + 暖白LED管"
+        material: "黑色钢管框架 + 乳白LED发光管"
+        finish: "哑黑粉末喷涂 + 乳白漫射"
+      mounting: "从天花板多点垂挂，部分配置延伸触地（落地款混合使用）"
+      signature_detail: "U形金属线框作为可视结构骨架，与发光管形成框-光的双层视觉逻辑；多件成组时形成韵律感极强的空间装置"
+    design_level:
+      score: 4
+      reason: "金属骨架与发光管的双层视觉逻辑清晰；模块化组合覆盖从小空间到大型装置的需求；U形轮廓优雅；成组安装的空间节奏感出色"
+    design_tags:
+      - "H05模块化"
+      - "H03分件线"
+      - "线形照明"
+      - "U形框架"
+      - "装置感"
+      - "空间帘"
+      - "黑白对比"
+      - "可成组"
+      - "现代"
+    hero_feature: "黑色U形金属线框围合竖向LED光管——框与光形成双层几何语言，多件排列如发光音符帘"
+    problem_solved: "单体吊灯在大型空间中缺乏气场；此系统通过模块化重复创造空间尺度感"
+    transferable_technique: "可见结构骨架（U形框）与发光体分离的双层设计逻辑；吊灯与落地灯共用系统的产品线扩展策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_010"
+    source_images:
+      - filename: "112.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/112.jpg"
+        image_role: "hero"
+        visual_anchor: "白色背景，左侧：小型黑色筒形轨道射灯（斜向安装于细黑线上）；右侧：大型黑色宽锥形吊灯（正锥体，底部开口朝下）"
+    product_name: "Wide Cone Pendant + Spot Companion Set"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "主体为大直径宽锥形罩（近似等边三角形截面）；配套小筒形射灯作为系统补充；两件均为纯哑黑色"
+      light_opening: "锥形罩底部圆形大开口向下出光（直接下照，无漫射）；小筒灯末端圆形定向出光"
+      thermal: "金属锥形罩兼散热；顶部LED模组"
+      cmf:
+        color: "全哑黑"
+        material: "钢板/铝合金锥形罩"
+        finish: "哑黑粉末喷涂"
+      mounting: "锥形罩：细黑线吊挂；筒灯：细黑线斜向安装，可旋转调向"
+      signature_detail: "锥形比例极宽扁（锥角大，高度相对矮），与常规下垂锥形灯截然不同；搭配迷你射灯形成功能互补的视觉对比"
+    design_level:
+      score: 3
+      reason: "宽锥形比例有个性；全哑黑执行一致；但造型逻辑相对常规；射灯+罩灯的配套关系实用"
+    design_tags:
+      - "H01减法"
+      - "H08对比强调"
+      - "锥形"
+      - "哑黑"
+      - "宽比例"
+      - "直接照明"
+      - "餐厅"
+      - "系统化"
+    hero_feature: "超宽锥角的极简黑色锥形罩——比例颠覆常规下垂锥，视觉重心下沉"
+    problem_solved: "餐桌照明需要精准下照同时兼顾补充光；宽锥+筒灯系统化配套解决双重需求"
+    transferable_technique: "宽锥角比例的非常规锥形设计；配套射灯与主灯的系统化产品策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_011"
+    source_images:
+      - filename: "114.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/114.jpg"
+        image_role: "hero"
+        visual_anchor: "卧室场景，两只同款不同颜色的吊灯：左侧为黑色哑面飞碟形浅盘 + 底部半球形乳白玻璃光源外露；右侧为白色同款；波浪形电线为标志性细节"
+    product_name: "Saucer Disc + Globe Pendant (Dual Colorway)"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "上部为浅碟形/飞碟形哑面金属盘（边缘略上翘），下部为露出的半球乳白玻璃球体；整体轮廓上遮下露"
+      light_opening: "乳白玻璃球体全方向漫射出光，碟形盘作为上方反射件同时遮挡眩光"
+      thermal: "LED模组内置于碟形盘中，玻璃球导光散热"
+      cmf:
+        color: "哑黑色 / 哑白色（两色）+ 乳白玻璃球"
+        material: "金属碟形盘 + 乳白玻璃球"
+        finish: "哑面粉末喷涂 + 乳白漫射玻璃"
+      mounting: "单根波浪形黑色电线吊挂（无传统吊杆），波浪电线本身为设计元素"
+      signature_detail: "故意弯曲成波浪状的电线——将通常隐藏的电线转化为可见设计细节；碟盘与球体的上下组合关系"
+    design_level:
+      score: 4
+      reason: "将电线从隐藏元素转为视觉设计语言是大胆且成功的；碟+球的比例关系有设计师趣味；黑白两色配套卧室场景；H09隐藏工程的反向运用（显化）"
+    design_tags:
+      - "H09隐藏工程"
+      - "H08对比强调"
+      - "飞碟形"
+      - "电线显化"
+      - "乳白玻璃"
+      - "卧室"
+      - "黑白配色"
+      - "上遮下露"
+    hero_feature: "故意弯折成波浪的电线 + 碟形遮光盘悬浮在乳白球上方——电线从附件变为主角"
+    problem_solved: "吊灯电线通常被视为需要隐藏的缺陷；此设计将其转化为产品的情感细节"
+    transferable_technique: "波浪形/刻意造型电线的显化策略；碟形上盖与球形漫射体的上下组合比例"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_012"
+    source_images:
+      - filename: "115.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/115.jpg"
+        image_role: "hero"
+        visual_anchor: "手持特写：人手托起一只圆形漫射灯头，灯头嵌于黑色弧形导轨内，可沿导轨滑动并旋转；灯头正面有圆形穿孔，材质为香槟金属"
+    product_name: "Rail-Mounted Rotatable Disc Head Pendant"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "黑色圆弧形导轨（两道平行弧杆）从天花悬挂，圆形灯头可在导轨内滑动并360°旋转调向"
+      light_opening: "圆形正面大开口漫射出光；中央有圆形穿孔（用于散热或装饰）；出光方向随旋转改变"
+      thermal: "圆形灯头金属体兼散热；中央孔洞辅助对流"
+      cmf:
+        color: "哑黑导轨 + 香槟/钛金色灯头金属体 + 乳白漫射面"
+        material: "钢管导轨 + 铝合金灯头"
+        finish: "哑黑粉末喷涂 + 拉丝香槟铝"
+      mounting: "弧形双杆导轨从天花板悬挂，导轨上有多个支撑钢丝"
+      signature_detail: "灯头可沿弧形导轨滑动并旋转——圆形漫射面加中央穿孔的造型，以及用户可手动调整的交互设计"
+    design_level:
+      score: 5
+      reason: "功能可调性与审美造型高度统一；弧形导轨轮廓优雅；圆形灯头中央穿孔提升造型层次；香槟+哑黑配色精准；H12人机界面强化（可调交互）与H11功能外显协同"
+    design_tags:
+      - "H12人机界面强化"
+      - "H11功能外显"
+      - "H08对比强调"
+      - "可调向"
+      - "导轨系统"
+      - "圆形"
+      - "穿孔"
+      - "香槟色"
+      - "交互设计"
+      - "弧形导轨"
+    hero_feature: "圆形灯头嵌入弧形导轨可滑动旋转——中央穿孔+漫射面使灯头本身成为可触摸的雕塑"
+    problem_solved: "固定方向的装饰吊灯无法适应不同使用场景的照明方向需求；可调导轨系统兼顾美观与灵活性"
+    transferable_technique: "灯头沿结构导轨滑动的功能整合策略；圆形穿孔作为散热与造型双功能的设计手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_013"
+    source_images:
+      - filename: "116.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/116.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色背景，大型圆环形吊灯，环由十余只镀铬/玻璃肋条球形单元首尾相连串成完整圆圈；顶部圆形吸顶盘引出三根细线支撑"
+    product_name: "Ribbed Sphere Ring Chandelier"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "大直径水平圆环，环体由多个相同尺寸的竖向条纹球形单元串联而成；两端以金属接头收口"
+      light_opening: "每个球形单元全周漫射出光；整体圆环360°均匀发光"
+      thermal: "各球形单元内置LED，金属接头导热"
+      cmf:
+        color: "镀铬银色 + 半透明玻璃/白色漫射内壁"
+        material: "镀铬金属外骨架 + 玻璃/PC漫射球体"
+        finish: "镜面镀铬 + 漫射乳白"
+      mounting: "圆形吸顶盘 + 三根等距细钢线悬挂"
+      signature_detail: "竖向肋条纹路的球形单元首尾相扣形成完整闭环——每个球体既是光源又是装饰节点，整体如贵重项链"
+    design_level:
+      score: 4
+      reason: "串珠成环的结构逻辑清晰；镀铬球体肋纹细节精致；整体比例优雅；在暗背景下视觉冲击力强；H04参数化（重复单元）运用合理"
+    design_tags:
+      - "H04参数化"
+      - "H10材料表达"
+      - "圆环形"
+      - "串珠"
+      - "镀铬"
+      - "玻璃球"
+      - "肋条纹"
+      - "项链意象"
+      - "奢华感"
+    hero_feature: "竖肋纹路球形单元串成发光圆环——如一条悬浮的银色发光项链"
+    problem_solved: "传统圆环灯形态单调；此设计将环体拆解为有机的球形珠串单元，赋予轮廓节奏感"
+    transferable_technique: "重复球形单元串联成环的模块化结构；竖向肋纹对球体的分节处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_014"
+    source_images:
+      - filename: "117.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/117.jpg"
+        image_role: "hero"
+        visual_anchor: "工业风窗前场景，一只小型哑黑宽锥形吊灯悬于木桌上方，顶部圆柱形帽与宽锥形罩连接，比例较常规锥形灯更宽扁"
+    product_name: "Wide-brim Low Cone Pendant"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "宽扁锥形罩：直径远大于高度，边缘微微向上翻；顶部小圆柱帽与锥形罩连接处有明显台阶分件线"
+      light_opening: "底部圆形大开口向下直接出光"
+      thermal: "金属锥形罩自然散热"
+      cmf:
+        color: "全哑黑"
+        material: "钢板或铝合金"
+        finish: "哑黑粉末喷涂"
+      mounting: "单根黑色电线吊挂"
+      signature_detail: "顶部圆柱帽与宽锥形罩的比例关系——圆柱帽高度约为整体的1/4，锥体宽度夸张"
+    design_level:
+      score: 3
+      reason: "工业美学执行干净；宽扁比例有辨识度；但整体造型语言较为传统，创意度有限；适合工业/北欧混搭风空间"
+    design_tags:
+      - "H01减法"
+      - "H03分件线"
+      - "锥形"
+      - "宽比例"
+      - "哑黑"
+      - "工业风"
+      - "北欧"
+      - "直接照明"
+    hero_feature: "夸张宽扁的锥形罩比例 + 顶部小圆柱帽——上小下宽的比例关系颠覆常规"
+    problem_solved: "普通锥形灯比例偏高偏窄，视觉重心高；宽扁比例使光的投射面积更大，更适合大桌面照明"
+    transferable_technique: "宽扁锥角比例的非常规设计；圆柱帽与锥体的台阶分件线处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_015"
+    source_images:
+      - filename: "118.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/118.jpg"
+        image_role: "hero"
+        visual_anchor: "白色拱形廊道天花，三只同系列不同纹理的绿色渐变花瓶形吊灯：左侧菱形格纹、右上水平波浪纹、右下竖向细肋纹，均为绿色顶颈渐变至黄绿底部"
+      - filename: "119.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/119.jpg"
+        image_role: "context"
+        visual_anchor: "工业空间楼梯处，同系列两只：一只细肋纹（较细长）一只波浪纹（较矮圆），底部出光口清晰可见"
+    product_name: "3D-Printed Vase Pendant (Textured Green Series)"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "花瓶/葫芦形轮廓：圆肩宽腹细颈，底部微收口；绿色顶颈色块与渐变至黄绿的腹部形成色彩分区"
+      light_opening: "底部圆形小开口向下出光；整体玻璃/塑料罩体半透明漫射出光"
+      thermal: "半透明罩体漫射，顶部金属/塑料座为热源端"
+      cmf:
+        color: "深绿色顶颈 + 黄绿色渐变腹部（半透明）"
+        material: "3D打印半透明材料（疑似PLA/树脂）"
+        finish: "半透明哑面，纹理由3D打印层叠形成"
+      mounting: "顶部小型白色/银色圆柱座，细线吊挂"
+      signature_detail: "3D打印层叠纹理在照明时从内部透出光晕；同一花瓶轮廓配以三种不同表面纹理（格纹/波浪纹/细肋纹）形成系列"
+    design_level:
+      score: 4
+      reason: "3D打印工艺与传统花瓶美学的融合出人意料；半透明材质透光时纹理全部浮现是强记忆点；三种纹理变体构成完整家族；绿色渐变配色清新；H10材料表达与H04参数化协同"
+    design_tags:
+      - "H10材料表达"
+      - "H04参数化"
+      - "3D打印"
+      - "花瓶形"
+      - "半透明"
+      - "绿色"
+      - "渐变色"
+      - "纹理"
+      - "家族化"
+      - "数字制造"
+    hero_feature: "3D打印半透明花瓶——透光时表面纹理从内部浮现，未亮时是静态雕塑，亮灯后变为发光浮雕"
+    problem_solved: "传统灯罩纹理只能在表面呈现；3D打印半透明材质让纹理在出光时从内部显现，创造昼夜双重视觉效果"
+    transferable_technique: "3D打印层叠纹理的内透光效果；同一轮廓通过参数化纹理变化形成系列的策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吊灯_创意吊灯_b6_016"
+    source_images:
+      - filename: "120.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/120.jpg"
+        image_role: "hero"
+        visual_anchor: "白色背景，人手持绿色塑料圆环（肥皂泡棒形态），圆环下方吹起巨大彩虹色iridescent气泡玻璃罩，罩内悬挂镀铬泪滴形灯体，整体模拟吹泡泡的瞬间"
+    product_name: "Soap Bubble Iridescent Pendant"
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "创意吊灯"
+    design_language:
+      silhouette: "大型不规则水滴/气泡形玻璃罩（直径约50cm+），顶部开口收窄；内部悬挂镀铬泪滴形金属灯体；顶端绿色塑料圆环为装饰性吊具"
+      light_opening: "镀铬泪滴灯体底部向下出光；玻璃气泡罩漫射折射彩虹色光泽"
+      thermal: "镀铬金属灯体散热；大体积玻璃罩隔热"
+      cmf:
+        color: "彩虹色iridescent透明玻璃气泡 + 镜面镀铬泪滴 + 荧光绿塑料圆环"
+        material: "吹制iridescent玻璃 + 镀铬金属 + 绿色塑料/橡胶"
+        finish: "彩虹虹彩涂层玻璃 + 镜面镀铬 + 哑面绿色塑料"
+      mounting: "单根黑色细线从绿色圆环顶端引出"
+      signature_detail: "产品整体模拟吹肥皂泡的瞬间被定格——绿色圆环（泡泡棒）+ 彩虹气泡罩 + 内部光源是完整的叙事"
+    design_level:
+      score: 5
+      reason: "概念完整且充满童趣与诗意；吹泡泡这一叙事从形态到材质到颜色完全统一；iridescent玻璃的光学效果极具记忆点；绿色塑料圆环的刻意平凡与奢华玻璃的反差是神来之笔；H06仿生+H10材料表达+H08对比强调三者协同"
+    design_tags:
+      - "H06仿生"
+      - "H10材料表达"
+      - "H08对比强调"
+      - "气泡"
+      - "iridescent"
+      - "彩虹色"
+      - "叙事性"
+      - "吹制玻璃"
+      - "镀铬"
+      - "概念驱动"
+      - "童趣"
+      - "装置艺术"
+    hero_feature: "彩虹色iridescent玻璃气泡罩 + 荧光绿泡泡棒圆环——一盏灯就是一个被定格的吹泡泡瞬间"
+    problem_solved: "创意照明通常在形态上求新但缺乏叙事完整性；此设计以肥皂泡为完整叙事原型，从吊具到罩体全程统一"
+    transferable_technique: "完整叙事原型驱动设计决策（形态/材质/颜色均服务于同一隐喻）；iridescent虹彩玻璃的漫反射光效"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

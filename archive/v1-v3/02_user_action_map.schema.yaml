@@ -1,0 +1,79 @@
+# 02_user_action_map.schema.yaml — G2用户动作建模
+
+schema_version: "2.0"
+
+required:
+  installer:
+    type: object
+    fields:
+      who:
+        type: string
+        required_hard: true
+        description: "安装者具体描述（职业/年龄/技能水平），不接受模糊描述。UNKNOWN→HOLD"
+      action_chain:
+        type: list
+        description: "安装动作链，每步含step/action/tool/time_min"
+      tools_needed:
+        type: list
+        description: "所需工具完整列表"
+      total_time_per_unit:
+        type: string
+        description: "单件安装时间（标置信度[H/M/L]）"
+      total_time_per_site:
+        type: string
+        description: "单次项目安装总时间（含件数估算）"
+
+  operator:
+    type: object
+    fields:
+      who:
+        type: string
+        required_hard: true
+        description: "操作者具体描述（职业/年龄/技能水平）。UNKNOWN→HOLD"
+      action_chain:
+        type: list
+        description: "操作动作链，每步含step/action/time_min"
+      total_time_per_week:
+        type: string
+        description: "每周操作时间"
+      pain_points:
+        type: list
+        description: "当前使用痛点"
+
+  maintainer:
+    type: object
+    fields:
+      who:
+        type: string
+        description: "维护者描述"
+      frequency:
+        type: string
+        description: "维护频率"
+      action_chain:
+        type: list
+        description: "维护动作链"
+      tools_needed:
+        type: list
+        description: "维护工具"
+
+  error_scenarios:
+    type: list
+    description: "典型失误场景，≥2个，含场景描述+后果"
+
+  total_labor_estimate:
+    type: object
+    fields:
+      per_unit_install: string
+      per_site_install: string
+      per_week_operate: string
+      labor_cost_implication: string
+
+  value_assessment:
+    type: string
+    required_hard: true
+    description: "用户在哪个具体动作节点感受到价值。UNKNOWN→HOLD"
+
+validation:
+  - required_hard字段：installer.who / operator.who / value_assessment，任一UNKNOWN→HOLD
+  - error_scenarios不得少于2条
+  - action_chain每步必须有action字段（动词开头）

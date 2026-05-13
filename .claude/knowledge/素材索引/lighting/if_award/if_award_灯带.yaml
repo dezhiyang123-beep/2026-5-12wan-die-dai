@@ -1,0 +1,801 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "灯带"
+  tertiary: ""
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/"
+  generated_at: "2026-05-09"
+
+products:
+
+  # ─────────────────────────── 线型灯 ───────────────────────────
+
+  - product_id: "if_灯带_线型灯_001"
+    source_images:
+      - filename: "线型灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "住宅客厅顶面嵌入式线型灯带，沿天花凹槽双向延伸，暖白光晕均匀渲染吊顶，光源完全隐藏"
+      - filename: "线型灯/03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/03.jpg"
+        image_role: "context"
+        visual_anchor: "同客厅另一视角：侧面可见光槽深度约80mm，灯带沿两侧吊顶边缘形成连续光线，无任何外露型材"
+    product_name: "住宅顶面嵌入式线型灯带"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "光槽内隐藏式安装，灯带主体完全消失于建筑结构内，可见元素仅为天花凹槽内的光晕面"
+      light_opening: "向上反射天花漫射出光，暖白色均匀漫射，发光面为槽内反射白面，无可见LED点"
+      thermal: "灯体隐藏于吊顶内腔，散热依赖建筑空腔自然对流，不可见"
+      cmf:
+        color: "灯带主体不可见；光色暖白约2700-3000K"
+        material: "软性LED灯带，载体基板柔性"
+        finish: "灯带本体不可见，安装槽为石膏板或铝槽原色"
+      mounting: "深槽嵌入式，灯带贴顶安装，光线向上打到槽顶再漫反射向下，完全隐藏光源"
+      signature_detail: "双侧对称光槽在大面积吊顶形成连续矩形光框，空间感极强，灯具本体零存在感"
+    design_level:
+      score: 4
+      reason: "建筑级隐藏手法，大面积顶面均匀光场，豪宅/高端商业照明标准，iF获奖级空间整合"
+    design_tags: ["线型灯", "嵌入式", "光槽", "住宅", "暖白", "隐藏光源", "H07极简整合", "H09隐藏工程"]
+    hero_feature: "灯带完全隐藏于天花凹槽，仅暖白反射光晕可见，吊顶平面成为发光体"
+    problem_solved: "高端住宅顶面照明需要均匀光场同时零灯具可见度"
+    transferable_technique: "双侧对称嵌槽反射漫射手法，可迁移至需要'光源消失'的任何顶面或墙面设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_002"
+    source_images:
+      - filename: "线型灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "COOLON品牌紧凑型LED模块条，白色底板上排列6颗暖白LED点光源，两条并排展示，白色PCB基板清晰可见刻字品牌标识"
+    product_name: "COOLON紧凑型LED模组条"
+    brand_name: "COOLON"
+    brand_confidence: "high"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "极短矩形条状，长约150mm，宽约15mm，厚约8mm，两侧各有1个小型金属安装耳"
+      light_opening: "裸露LED出光，6颗点光源等距排列，无扩散板，光学处理依赖LED自身配光"
+      thermal: "小尺寸模组，发热量低，白色PCB基板兼作散热基底，无独立散热片"
+      cmf:
+        color: "白色PCB基板 + 金色LED封装 + 金属质感安装耳"
+        material: "FR4玻纤PCB + 铝合金安装耳"
+        finish: "PCB白色油墨 + 金属本色"
+      mounting: "两侧耳片通过螺钉固定，可串联延伸；图中展示两条并排的组合使用方式"
+      signature_detail: "模组化短条设计，可自由串联，两条并排形成双排LED图案，COOLON品牌浮雕于PCB基板"
+    design_level:
+      score: 3
+      reason: "工业级LED模组，设计重点在可靠性和模组化而非美学，品牌标识工艺到位"
+    design_tags: ["线型灯", "LED模组", "裸露点光源", "模组化", "工业", "COOLON", "H05模块化"]
+    hero_feature: "极短模组可自由串联的模组化设计 + 双条并排展示标准化光分布"
+    problem_solved: "需要灵活定制长度的线型照明解决方案，适合OEM集成"
+    transferable_technique: "短段模组化串联结构，两侧耳片设计可迁移至任何需要快速安装和长度定制的灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_003"
+    source_images:
+      - filename: "线型灯/04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "户外/工业级线型灯条爆炸图：透明PC防护罩盖 + 黑色铝型材主体（底部带多个弹簧卡扣） + 黑色球形万向关节支架 + 黑色夹具底座，三层组件悬浮展示"
+    product_name: "模块化万向关节线型灯（户外级）"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "扁平矩形主体条，底部沿长度方向等距排列弹簧卡扣（约8个），端部可见多孔安装面"
+      light_opening: "透明PC弧形防护罩覆盖全长出光面，内部LED可透过罩体隐约可见"
+      thermal: "黑色铝型材主体兼作散热器，背面平整无鳍片，通过型材大面积传导散热"
+      cmf:
+        color: "哑光黑 + 透明PC罩 + 银色螺钉"
+        material: "铝挤型材 + PC防护罩 + 铝合金支架"
+        finish: "黑色粉末喷涂 + PC本色透明"
+      mounting: "球形万向关节（ball joint）安装于竖向杆件，底部C型夹具夹紧固定面；可实现多角度出光方向调节"
+      signature_detail: "三层可分离结构（防护罩/主体/支架）的爆炸展示直观传达模块化安装逻辑；球形万向关节是核心功能亮点"
+    design_level:
+      score: 4
+      reason: "工程逻辑清晰，爆炸图展示系统化思维，球关节支架设计精巧，iF工业设计获奖级"
+    design_tags: ["线型灯", "户外", "模块化", "万向关节", "防护罩", "工业照明", "H05模块化", "H11功能外显"]
+    hero_feature: "球形万向关节支架允许任意角度调整出光方向，防护罩弹卡快拆设计"
+    problem_solved: "工业/户外场景需要快速安装、可调角度、防护等级达标的线型照明"
+    transferable_technique: "球形万向关节 + 弹卡式防护罩快拆结构，可迁移至工业/户外任何需要定向照明的灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_004"
+    source_images:
+      - filename: "线型灯/05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "悬挂式矩形线型灯具端角近景：深蓝灰铝型材，端部45°双平面斜切倒角，吊线从顶部竖直伸出，底面大面积乳白扩散板均匀出光，截面厚约40mm"
+      - filename: "线型灯/06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/06.jpg"
+        image_role: "detail"
+        visual_anchor: "同灯具吊线连接点特写：圆形法兰与型材顶面平滑过渡，黑色沙质铝材纹理清晰，吊线直径约2mm，接入点设计成圆形旋入式"
+    product_name: "斜切端角铝型材悬挂线型灯"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "矩形截面铝型材，长宽比约15:1，端部双平面45°斜切倒角形成几何菱角，轮廓锐利克制"
+      light_opening: "底面全幅乳白PC扩散板出光，发光面与型材底边平齐，LED完全隐藏，无热点"
+      thermal: "铝挤型材上表面暴露于室内空气，自然对流散热，无可见鳍片"
+      cmf:
+        color: "深蓝灰（近黑）哑光"
+        material: "铝挤型材 + 乳白PC扩散板 + 细钢吊线"
+        finish: "粉末喷涂哑光 / 细砂面阳极氧化"
+      mounting: "细钢丝吊线悬挂，圆形法兰嵌入型材顶面，接线隐藏于吊线内，安装点极度克制"
+      signature_detail: "端部45°斜切双平面倒角是最强辨识细节，使灯具在空间中像建筑精准线条而非普通灯具"
+    design_level:
+      score: 5
+      reason: "型材截面比例精炼，端部倒角克制有力，吊线法兰工艺精良，整体呈现建筑级精密感，顶级商业照明水准"
+    design_tags: ["线型灯", "悬挂式", "斜切倒角", "铝型材", "商业照明", "极简", "H01减法", "H07极简整合"]
+    hero_feature: "端部45°双平面斜切倒角 + 吊线圆形法兰嵌入 = 灯具像精密建筑构件"
+    problem_solved: "高端商业空间需要线型照明既提供充足光通量，又保持极致克制的视觉存在"
+    transferable_technique: "端部斜切倒角收尾 + 吊线法兰嵌入点设计，可迁移至任何需要'建筑线条感'的悬挂式产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_005"
+    source_images:
+      - filename: "线型灯/07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "高密度LED点列线型灯带正面近景：白色版（前）+ 黑色版（后）并排，每颗LED均匀出光形成连续暖白点列，铝型材上方平整，底面无扩散板"
+    product_name: "高密度裸露LED点列线型灯带（双色版）"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "极薄矩形铝型材，高度约10mm，宽约20mm，长度方向密集排列LED，截面接近方形"
+      light_opening: "裸露LED直接出光，无扩散板，每颗LED独立光斑清晰可见，形成连续暖白点阵"
+      thermal: "铝型材背面（顶面）平整，兼作散热基底，无独立鳍片"
+      cmf:
+        color: "白色版（白色铝材涂层）和黑色版（黑色铝材涂层）双色可选"
+        material: "铝挤型材 + 无扩散板设计"
+        finish: "粉末喷涂（白/黑）"
+      mounting: "背面平整可贴装，背部可见安装孔或槽"
+      signature_detail: "高密度裸露LED点列形成强烈韵律感，白/黑双色版并排展示传递系列化产品思维"
+    design_level:
+      score: 3
+      reason: "设计简洁直接，裸露LED点列有强烈视觉韵律，但无扩散处理属功能性选择而非高端美学"
+    design_tags: ["线型灯", "裸露LED", "点阵", "高密度", "双色", "H04参数化"]
+    hero_feature: "高密度等间距LED点列形成强韵律视觉节奏，双色系列化设计"
+    problem_solved: "需要强视觉存在感的线型照明，不追求隐藏光源，LED点列本身即设计语言"
+    transferable_technique: "等间距LED点阵的视觉节奏感，可迁移至装饰性照明或需要强韵律感的任何线型产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_006"
+    source_images:
+      - filename: "线型灯/08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "壁挂/浴镜线型灯：竖向矩形金属框架（深灰色）内嵌两条竖向白色发光条，框底可见小型圆柱支脚，整体像一扇发光窗框"
+    product_name: "竖向双光柱壁挂镜灯"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "竖向矩形框体，高约600mm，宽约400mm，深色金属外框，框内两条竖向发光柱左右对称排列"
+      light_opening: "两条竖向乳白/透明发光柱正面出光，发光柱宽约30mm，暖白均匀漫射，光线向前/侧向发散"
+      thermal: "金属框体兼作散热，发光柱内LED驱动不可见"
+      cmf:
+        color: "深灰色（近黑）金属框 + 白色/乳白发光柱"
+        material: "金属框架 + PC/玻璃发光柱"
+        finish: "金属拉丝或哑光喷涂"
+      mounting: "壁挂式，底部小型圆柱支脚辅助支撑，背面固定于墙面"
+      signature_detail: "双竖向光柱对称排列 + 深色框架围合 = 像建筑中的光窗，而非普通镜前灯"
+    design_level:
+      score: 4
+      reason: "框体比例克制，双光柱对称构图有雕塑感，浴室镜灯中少见的建筑化处理"
+    design_tags: ["线型灯", "壁挂", "镜灯", "竖向", "双光柱", "浴室", "H07极简整合", "H08对比强调"]
+    hero_feature: "竖向双光柱 + 深色矩形框围合，使镜灯成为墙面装置艺术"
+    problem_solved: "浴室镜前照明需要无眩光均匀面光，同时具备装饰性存在感"
+    transferable_technique: "框体+内嵌光柱的双元素构图，可迁移至需要'框景'光效的任何壁挂灯或装饰照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_007"
+    source_images:
+      - filename: "线型灯/09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "悬挂圆柱形线型灯特写：深青铜色铝圆管主体，表面木纹/拉丝肌理，管径约60mm，底面沿长轴方向有一道连续凹槽，内嵌三角形小LED模块阵列，暖白出光"
+    product_name: "木纹圆柱体悬挂线型灯"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "圆柱管状主体，截面正圆，底面沿长轴开一道连续狭长凹槽，主体与发光槽形成强对比"
+      light_opening: "凹槽内三角形LED模块阵列出光，三角形模块呈棱锥状形成折射效果，暖白向下出光"
+      thermal: "大直径圆管提供充裕散热面积，表面肌理增大散热面积"
+      cmf:
+        color: "深青铜色/暗棕色"
+        material: "铝合金圆管（表面处理为仿木纹或拉丝肌理）"
+        finish: "拉丝氧化 + 仿木纹涂层"
+      mounting: "细钢丝吊线悬挂，吊线直接穿入圆管顶面，无可见法兰"
+      signature_detail: "圆管底面凹槽内的三角形棱锥LED模块阵列，兼具装饰性和防眩光功能，肌理感极强"
+    design_level:
+      score: 5
+      reason: "圆管截面与凹槽狭缝的截面对比极具张力，木纹/拉丝肌理赋予温暖材料感，三角形LED模块是罕见的细节创新"
+    design_tags: ["线型灯", "圆柱体", "木纹", "拉丝", "三角棱锥LED", "悬挂式", "H10材料表达", "H08对比强调"]
+    hero_feature: "圆管底面狭长凹槽内的三角形棱锥LED模块阵列 — 截面对比极强，细节创新"
+    problem_solved: "高端餐饮/住宅场景需要兼具温暖材料感和精致光学细节的线型悬挂灯"
+    transferable_technique: "圆柱体主体 + 底面开槽出光的截面设计逻辑，可迁移至任何需要'有机体量+精准出光'的灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_008"
+    source_images:
+      - filename: "线型灯/10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "镜面不锈钢圆柱线型灯特写：高光镜面铝/不锈钢圆管主体，底面凹槽内嵌金色反射碗+黑色分隔格栅+白色LED模块，形成棋盘状金白相间图案"
+    product_name: "镜面圆柱体金格栅线型灯"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "圆柱管状主体，截面正圆，底面沿长轴开凹槽，凹槽内有精密格栅结构"
+      light_opening: "凹槽内金色反射碗阵列 + 黑色方形格栅分隔，LED白光点阵从金色碗底向下出光，形成强烈金白对比图案"
+      thermal: "大直径圆管提供散热面积，高光镜面处理减少吸热"
+      cmf:
+        color: "镜面银/铬 + 金色内碗 + 黑色格栅"
+        material: "不锈钢或高光铝 + 金色阳极氧化铝格栅"
+        finish: "镜面抛光 + 金色阳极氧化"
+      mounting: "吊线悬挂，吊线穿入圆管顶面"
+      signature_detail: "镜面圆管倒映环境 + 凹槽内金色碗+黑格栅的棋盘图案 = 极度奢华且具工艺感的出光细节"
+    design_level:
+      score: 5
+      reason: "镜面圆管与精密金格栅的材质对比冲击力强，属高端定制照明工艺顶级，iF金奖水准"
+    design_tags: ["线型灯", "镜面", "不锈钢", "金色格栅", "奢华", "悬挂式", "H10材料表达", "H08对比强调"]
+    hero_feature: "凹槽内金色反射碗+黑色方格栅的棋盘图案 — 照明细节本身即奢侈品级别工艺展示"
+    problem_solved: "五星酒店/高端会所需要线型灯具备强装饰性且材质传递奢华感"
+    transferable_technique: "反射碗阵列+格栅防眩光结构，可迁移至任何需要防眩且保持装饰性的出光口设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_009"
+    source_images:
+      - filename: "线型灯/11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "RAB品牌X形展翼悬挂灯：白色方形中央控制盒（带品牌标识RAB）下方伸出四个翼片，每个翼片为白色哑光三角形发光面板，整体呈星形/X形，工业黑色顶面背景"
+    product_name: "RAB X形展翼悬挂式线型灯"
+    brand_name: "RAB"
+    brand_confidence: "high"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "中央方形盒体向四个方向延伸矩形翼片，整体X/星形轮廓，翼片端部直角收边，截面扁平"
+      light_opening: "四个翼片底面全面积乳白扩散面出光，均匀无热点，发光面宽约400mm"
+      thermal: "白色中央盒体尺寸较大，内部驱动和散热集中于此，翼片轻薄散热依赖传导"
+      cmf:
+        color: "全白哑光"
+        material: "铝/塑料 + 乳白PC扩散板"
+        finish: "白色粉末喷涂"
+      mounting: "细钢丝从中央盒体顶部悬挂，单点吊线"
+      signature_detail: "X形展翼轮廓在工业/商业顶面形成强烈几何图形，四翼同时提供大面积均匀出光覆盖"
+    design_level:
+      score: 3
+      reason: "造型创新有辨识度，但白色全塑感略失精致，商业照明实用性强于美学"
+    design_tags: ["线型灯", "X形", "展翼", "商业照明", "工业", "RAB", "H04参数化", "H05模块化"]
+    hero_feature: "中央控制盒+四向展翼的X形布局，单灯实现360°覆盖出光"
+    problem_solved: "工业/商业顶面需要大面积均匀覆盖照明，单灯实现多方向出光"
+    transferable_technique: "中央集成+多向展翼的星形出光结构，可迁移至任何需要单点安装多向照明覆盖的场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_010"
+    source_images:
+      - filename: "线型灯/12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "住宅展示墙线型灯：暗色木饰面+白色边框柜体系统，白色线型灯带嵌入柜体边缘和顶线，暖白出光沿水平线向下漫射照亮展品，顶部也有一圈间接光槽"
+    product_name: "家具嵌入式水平线型灯带"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "极薄线条状嵌入柜体/家具边缘，灯带本体宽约8-10mm，完全融入家具设计语言"
+      light_opening: "向下漫射出光，照亮搁板展品，柔和均匀无热点，光带连续无断点"
+      thermal: "小功率家具嵌入式，散热依赖柜体木材和金属边框传导"
+      cmf:
+        color: "白色（与柜体边框同色系）"
+        material: "铝合金灯槽 + 柔性LED灯带"
+        finish: "白色喷涂与柜体一体化"
+      mounting: "嵌入柜体边缘凹槽，灯带与家具整合，无独立安装件可见"
+      signature_detail: "灯带与家具完全融合，光线而非灯具成为视觉元素；多层水平光线强化了展示墙的层次感"
+    design_level:
+      score: 4
+      reason: "灯具与家具深度融合设计，空间层次处理成熟，符合高端住宅/展示空间照明标准"
+    design_tags: ["线型灯", "家具嵌入", "展示照明", "住宅", "水平线", "H07极简整合", "H09隐藏工程"]
+    hero_feature: "灯带与柜体边缘完全一体化，多层水平光线强化展示墙纵深层次"
+    problem_solved: "展示柜内照明需要均匀、无热点，且灯具本身不破坏家具整体美感"
+    transferable_technique: "家具边缘嵌槽灯带一体化处理，可迁移至任何需要'光来自家具本身'的展示或收纳场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_011"
+    source_images:
+      - filename: "线型灯/13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "办公室展览空间搁架系统：灰色水泥质感墙面，多层悬挑搁板嵌入极薄黑色线型灯，灯带沿搁板前沿延伸，向下出光照亮陈设；顶部可见浅埋式线型灯条"
+    product_name: "搁架前沿嵌入式线型灯条"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "极薄矩形截面，厚度约6-8mm，嵌入搁板前沿下方，视觉上与搁板融为一体"
+      light_opening: "向下漫射出光，照亮搁板下方陈设，无热点，光线均匀"
+      thermal: "极薄设计，低功率，散热通过搁板金属边框传导"
+      cmf:
+        color: "黑色（与搁板金属框同色）"
+        material: "铝型材或金属槽 + LED灯带"
+        finish: "黑色哑光"
+      mounting: "嵌入搁板前沿底面，固定于搁板结构内，零外露"
+      signature_detail: "搁板前沿灯带与顶部嵌入式灯条形成多层次立体照明系统，整个墙面由光线勾勒出层次"
+    design_level:
+      score: 4
+      reason: "系统化照明设计思维，搁板灯+顶部灯条协同工作，整体空间层次丰富且克制"
+    design_tags: ["线型灯", "搁架", "嵌入式", "办公展览", "系统化", "H07极简整合", "H09隐藏工程"]
+    hero_feature: "多层搁板前沿灯带 + 顶部嵌入线型灯条，形成立体层次照明系统"
+    problem_solved: "展览/陈设空间搁架照明需要均匀无眩光，且灯具不破坏搁架系统整体感"
+    transferable_technique: "搁板前沿嵌灯 + 顶灯协同的多层次照明系统，可迁移至任何零售展示或家居陈设场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_012"
+    source_images:
+      - filename: "线型灯/14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "工业空间多轴线型灯系统：黑色细杆线型灯从地面延伸至天花并转折为水平方向，多组灯具通过关节节点连接形成折线布局，混凝土墙背景"
+    product_name: "多轴折线线型灯系统（地面至天花）"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "极细圆杆主体（直径约15mm），端部为圆柱形配重锤，水平段为矩形截面灯管；通过关节节点连接竖向杆与水平灯管，形成L/Z形折线"
+      light_opening: "水平段矩形灯管底面出光，光线向下定向照射，竖向杆本身不出光"
+      thermal: "细杆体量小，低功率设计，自然散热"
+      cmf:
+        color: "全黑哑光"
+        material: "铝合金细杆 + 关节节点"
+        finish: "黑色粉末喷涂"
+      mounting: "竖向杆地面固定 + 天花固定，中间折角关节可调角度，水平段为悬挂灯管；系统化多杆组合布置"
+      signature_detail: "从地面延伸至天花的竖向细杆 + 折角水平出光，在混凝土空间形成强烈几何线条构图"
+    design_level:
+      score: 5
+      reason: "空间装置艺术级照明方案，竖向+水平折线构图极具张力，混凝土背景下黑色系统感极强"
+    design_tags: ["线型灯", "多轴", "折线", "工业风", "关节系统", "H04参数化", "H05模块化", "H11功能外显"]
+    hero_feature: "地面至天花的竖向细杆 + 水平灯管折角组合，形成空间装置级别的几何光构图"
+    problem_solved: "工业/展览空间需要兼具照明功能和空间装置感的线型灯系统"
+    transferable_technique: "地面+天花双固定的竖杆+折角水平灯的系统逻辑，可迁移至任何需要强空间线条感的照明装置"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_013"
+    source_images:
+      - filename: "线型灯/15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "T形悬挂线型灯系统产品图：竖向圆管（浅灰色）+ 两侧水平矩形灯管，通过黄铜/金色蝴蝶螺钉关节连接，灯管显示密集LED点阵，整体呈T或双T布局"
+    product_name: "T形黄铜关节悬挂线型灯系统"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "竖向圆管（悬挂结构）+ 两侧水平矩形灯管（出光体），T形截面布局；关节节点可见黄铜蝴蝶螺钉"
+      light_opening: "水平灯管底面密集LED点阵直接出光，无扩散板，点阵节奏清晰可见"
+      thermal: "矩形灯管铝体散热，竖向圆管不出光不发热"
+      cmf:
+        color: "浅灰色铝（主体）+ 金色/黄铜（关节螺钉）"
+        material: "铝合金型材 + 黄铜螺钉关节"
+        finish: "铝色阳极氧化 + 黄铜本色"
+      mounting: "竖向圆管从顶部吊线悬挂，两侧灯管通过黄铜关节螺钉固定于竖管"
+      signature_detail: "黄铜蝴蝶螺钉关节在灰铝主体中形成点睛金色细节，同时传递可手动调节的功能信息"
+    design_level:
+      score: 4
+      reason: "灰铝+黄铜材质对比精准，关节螺钉工艺感强，整体兼具工业感和精致感"
+    design_tags: ["线型灯", "T形", "黄铜关节", "悬挂式", "裸露LED", "H10材料表达", "H08对比强调"]
+    hero_feature: "黄铜蝴蝶螺钉关节 — 在灰色铝系统中形成点睛金属对比，兼具装饰性和功能外显"
+    problem_solved: "高端商业/餐饮空间需要有精致细节的线型悬挂灯，区别于普通铝型材"
+    transferable_technique: "铝主体+黄铜/金色关节节点的双材质对比，可迁移至任何需要'精致工业感'的可调节结构产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_014"
+    source_images:
+      - filename: "线型灯/16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色铝型材线型灯端部特写：端部安装橙色滚花圆柱形旋钮，型材表面哑光黑砂纹，底面开槽内嵌棱锥形LED光学模块密列，工业厂房背景"
+      - filename: "线型灯/17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/17.jpg"
+        image_role: "context"
+        visual_anchor: "同灯具另一视角：底面可见乳白条形扩散板替换棱锥模块版本，橙色滚花旋钮同样可见，砂石建筑背景强化工业感"
+    product_name: "橙色旋钮端部黑色线型灯（工业风）"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "矩形截面铝型材，顶面圆弧收边，底面开一道贯通长槽，端部安装圆柱形旋钮（朝向侧面）"
+      light_opening: "底面长槽内可切换两种光学模块：棱锥形LED模块（有装饰性）或乳白扩散条（均匀漫射）"
+      thermal: "黑色铝型材大截面散热，顶面圆弧增大散热面积"
+      cmf:
+        color: "哑黑（主体）+ 橙色（旋钮）"
+        material: "铝挤型材 + 橙色阳极氧化铝旋钮 + 光学模块"
+        finish: "砂纹黑色粉末喷涂 + 橙色阳极氧化"
+      mounting: "吊线或支架悬挂，端部旋钮为安装/调节功能件"
+      signature_detail: "橙色滚花旋钮是视觉核心：在黑色型材上形成高对比度的功能性装饰件，滚花纹理传递手动操作感"
+    design_level:
+      score: 5
+      reason: "橙黑材质对比鲜明，工业感极强，滚花旋钮细节设计出彩，光学模块可切换是实用创新"
+    design_tags: ["线型灯", "工业风", "橙色旋钮", "黑色铝型材", "可切换光学", "H08对比强调", "H10材料表达", "H11功能外显"]
+    hero_feature: "橙色滚花圆柱旋钮 — 在黑色铝型材端部形成极强色彩对比，传递工业精密感"
+    problem_solved: "工业/展览场景需要兼具强视觉识别性和实用可调节的线型照明"
+    transferable_technique: "功能性端部旋钮的对比色+滚花纹理设计，可迁移至任何工业风格产品的操控旋钮设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_015"
+    source_images:
+      - filename: "线型灯/18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/18.jpg"
+        image_role: "hero"
+        visual_anchor: "白色弯曲轨道+线型灯系统：大弧度弯曲白色圆管轨道（上方）通过方形壁面接头连接，另配直线矩形灯管（下方），矩形灯管内可见裸露LED，整体白色简洁"
+    product_name: "可弯曲轨道线型灯系统"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "柔性可弯曲圆管轨道（直径约20mm）+ 插入式矩形灯条；轨道可实现大曲率弯曲，灯条为直线刚性件"
+      light_opening: "矩形灯条底面裸露LED出光，轨道本身不出光"
+      thermal: "灯条小体量，低功率，自然散热"
+      cmf:
+        color: "全白（轨道+灯条+壁面接头）"
+        material: "柔性塑料/铝管轨道 + 铝合金灯条"
+        finish: "白色哑光"
+      mounting: "轨道两端通过方形接头固定于墙面，灯条插入轨道并可调位置"
+      signature_detail: "可大弧度弯曲的柔性轨道 + 刚性灯条组合，实现曲线空间的线型照明布局"
+    design_level:
+      score: 3
+      reason: "解决可弯曲照明布线的实际问题，设计语言简洁，但美学投入一般"
+    design_tags: ["线型灯", "可弯曲轨道", "柔性", "白色", "插入式", "H05模块化"]
+    hero_feature: "可大弧度弯曲柔性轨道 + 插入式刚性灯条，实现任意曲线空间线型照明"
+    problem_solved: "弧形空间或需要曲线照明布局的场景，普通直线型材无法实现"
+    transferable_technique: "柔性轨道+刚性灯条组合的模块化系统逻辑，可迁移至任何需要灵活曲线布置的照明系统"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_016"
+    source_images:
+      - filename: "线型灯/19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/19.jpg"
+        image_role: "hero"
+        visual_anchor: "高端会议室：顶面多条极薄白色矩形线型灯板嵌入白色吊顶，下方悬挂两款线型灯（白色超薄矩形 + 木纹圆柱体），多层照明叠加，背景极简白色+深色木装饰"
+    product_name: "会议室多层线型灯照明系统"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "三种线型灯协同：嵌入顶面的超薄矩形面板（厚约15mm）+ 悬挂白色超薄矩形灯（厚约20mm）+ 悬挂木纹圆柱体灯"
+      light_opening: "嵌入式面板全面积均匀出光；悬挂矩形灯底面扩散板出光；圆柱灯底面凹槽出光"
+      thermal: "各灯具独立散热，系统级热管理依赖顶面空腔"
+      cmf:
+        color: "白色系（嵌入+矩形悬挂）+ 木纹暖色（圆柱悬挂）"
+        material: "铝型材+PC扩散板（矩形）；铝圆管+木纹处理（圆柱）"
+        finish: "白色喷涂 + 仿木纹涂层"
+      mounting: "嵌入式 + 吊线悬挂组合，形成多层次照明"
+      signature_detail: "冷白嵌入面板+暖色调木纹圆柱灯的温度对比，在纯白会议室空间形成层次感"
+    design_level:
+      score: 4
+      reason: "多层次照明系统思维成熟，材质对比处理精准，高端商业照明标准"
+    design_tags: ["线型灯", "会议室", "多层次", "系统化", "嵌入+悬挂", "H07极简整合"]
+    hero_feature: "嵌入式白色面板+悬挂木纹圆柱灯的多层次、双温度照明系统组合"
+    problem_solved: "高端会议室需要兼顾功能性均匀照明和空间质感的多层次照明方案"
+    transferable_technique: "冷白功能性照明+暖色调装饰性照明的双层次叠加思路，可迁移至任何高端商业空间"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_017"
+    source_images:
+      - filename: "线型灯/20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "落地式线型灯：黑色弧形细杆从圆形底座弯曲向上延伸，顶端连接一根水平木纹/暖铜色圆柱灯管，灯管出光照亮下方办公桌面，暗调办公室氛围"
+    product_name: "弧杆落地式水平圆柱线型灯"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "圆形底盘 + 黑色细弯杆（弧度约90°）+ 水平圆柱形灯管，整体轮廓优雅弧线感"
+      light_opening: "水平圆柱灯管底面条形出光，暖白向下照射桌面，无扩散板可见，出光区域集中"
+      thermal: "圆柱灯管金属体散热，弧杆不发热"
+      cmf:
+        color: "哑黑（杆+底盘）+ 暖铜/木纹色（灯管）"
+        material: "钢管弧杆 + 铝合金或木质灯管 + 钢圆盘底座"
+        finish: "黑色哑光喷涂 + 暖铜阳极氧化或木纹涂层"
+      mounting: "落地式，圆形底盘直接置于地面，无固定需求"
+      signature_detail: "黑色弧杆与暖铜圆柱灯管的材质、颜色双对比；弧杆流线感在方形办公家具环境中形成柔性对比"
+    design_level:
+      score: 4
+      reason: "弧线杆件比例优雅，黑+暖铜材质搭配成熟，办公落地灯中少见的雕塑感"
+    design_tags: ["线型灯", "落地式", "弧杆", "木纹", "暖铜", "办公", "H10材料表达", "H08对比强调"]
+    hero_feature: "黑色弧形细杆+暖铜圆柱灯管的双材质对比 + 弧线轮廓的雕塑感"
+    problem_solved: "高端办公场景需要兼具充足桌面照度和装饰性的落地灯"
+    transferable_technique: "弧杆+水平出光体的落地灯结构，黑杆+暖色灯管的双材质对比，可迁移至任何落地灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_018"
+    source_images:
+      - filename: "线型灯/21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "Color Kinetics品牌户外线型灯产品图：白色矩形铝合金主体，顶面开透明玻璃长槽（内可见4颗大型RGB LED），端部黑色+红色配件，底面有两个黑色固定夹"
+    product_name: "Color Kinetics RGB户外线型灯"
+    brand_name: "Color Kinetics"
+    brand_confidence: "high"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "扁平矩形铝合金主体，长约300mm，宽约60mm，高约35mm，顶面开玻璃观察窗，端部有橡胶密封帽"
+      light_opening: "顶面透明玻璃长槽内4颗大功率RGB LED向上出光，端部黑色+红色配件为电气接口"
+      thermal: "铝合金主体大截面散热，底面两个黑色夹具同时兼作散热接触面"
+      cmf:
+        color: "白色主体 + 黑色端盖+夹具 + 红色配件点缀"
+        material: "铝合金主体 + 强化玻璃视窗 + 橡胶密封"
+        finish: "白色粉末喷涂 + 黑色阳极氧化"
+      mounting: "底面两个黑色C型夹具固定，可适配不同安装基面"
+      signature_detail: "顶面透明玻璃视窗露出内部大功率RGB LED，体现功能外显的工程美学；黑红端部配色明确电气接口位置"
+    design_level:
+      score: 4
+      reason: "品牌产品，工程设计严谨，功能外显设计清晰，户外级别的密封设计可见，iF工业设计获奖"
+    design_tags: ["线型灯", "户外", "RGB", "Color Kinetics", "功能外显", "工业", "H11功能外显", "H10材料表达"]
+    hero_feature: "顶面玻璃视窗露出大功率RGB LED — 功能透明化展示，端部黑红配色区分电气接口"
+    problem_solved: "户外建筑泛光和动态彩色照明，需要高防护等级和大功率RGB输出"
+    transferable_technique: "产品主体开视窗露出核心功能部件的'功能外显'设计，可迁移至任何需要传递技术感的工业产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_019"
+    source_images:
+      - filename: "线型灯/22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/22.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色系统线型灯爆炸图：细黑LED灯管（白色侧面出光条）+ 黑色方形驱动器盒 + 黑色线束 + 两个黑色C型夹具，全系统在黑色背景下展示"
+    product_name: "超薄黑色系统线型灯（含驱动整套）"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "灯管极细（直径约12mm），侧面出光，端部有小型连接头；驱动器为薄矩形盒（约100x60x20mm）"
+      light_opening: "灯管侧面条形白色乳白出光，全长均匀，侧向出光角度"
+      thermal: "细管小功率，驱动器独立安装，自然散热"
+      cmf:
+        color: "全黑系（灯管黑色主体 + 黑色驱动 + 黑色线束 + 黑色夹具），仅出光面为白色"
+        material: "铝或PC灯管 + 金属驱动盒 + 金属夹具"
+        finish: "黑色哑光"
+      mounting: "两个C型黑色夹具固定灯管，驱动器独立安装于隐蔽处"
+      signature_detail: "系统爆炸图清晰展示灯管+驱动+线束+夹具的完整生态；全黑配色系统感极强"
+    design_level:
+      score: 3
+      reason: "产品系统完整，爆炸图展示逻辑清晰，但设计美学点在系统整合而非单品创新"
+    design_tags: ["线型灯", "系统化", "全黑", "驱动外置", "夹具安装", "H05模块化", "H09隐藏工程"]
+    hero_feature: "灯管+驱动+线束+夹具全黑色系一体化系统展示，系统感极强"
+    problem_solved: "需要驱动隐藏、全系统色彩统一的线型照明场景，如商业展柜、橱柜内照"
+    transferable_technique: "全系统同色系（全黑或全白）的产品族设计，可迁移至任何需要强系统感的多件套产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_线型灯_020"
+    source_images:
+      - filename: "线型灯/23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/线型灯/23.jpg"
+        image_role: "hero"
+        visual_anchor: "极细黑色线型灯多场景安装：右侧竖装于白色墙面（约1800mm高），左侧斜装于斜面天花，两端均为黑色小圆柱端帽，发光区为极细连续白光线"
+    product_name: "极细黑色多角度线型灯（壁装/斜装）"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "线型灯"]
+    design_language:
+      silhouette: "极细圆管主体（直径约8-10mm），两端黑色圆柱端帽，整体像细钢笔或直尺，长度约1500-1800mm"
+      light_opening: "侧面极窄白光缝（约3-5mm宽）连续出光，发光缝向一侧漫射，光线极度克制"
+      thermal: "细管小功率，端帽内驱动或外置，自然散热"
+      cmf:
+        color: "全黑哑光（主体+端帽）"
+        material: "铝圆管或钢管"
+        finish: "黑色哑光喷涂"
+      mounting: "端帽内置安装孔，可壁装（竖向）、斜面装、甚至天花斜装；多场景通用"
+      signature_detail: "极细圆管主体使灯具在白色墙面/斜面上像一根画线，出光缝宽仅3-5mm，'以线作光'的极致减法"
+    design_level:
+      score: 5
+      reason: "减法极致：主体像铅笔，出光缝宽3-5mm，多场景通用安装，空间中形成极强建筑线条感"
+    design_tags: ["线型灯", "极细", "圆管", "壁装", "多角度", "极简", "H01减法", "H07极简整合"]
+    hero_feature: "直径约10mm的极细圆管 + 3-5mm侧面光缝 = 灯具在空间中化为一根精准光线"
+    problem_solved: "追求极致简洁线条感的住宅/展览空间，不希望灯具有任何体量感"
+    transferable_technique: "极细管体+侧面窄缝出光的减法设计，可迁移至任何需要'光线感'而非'灯具感'的线型照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────── 霓虹灯 ───────────────────────────
+
+  - product_id: "if_灯带_霓虹灯_001"
+    source_images:
+      - filename: "霓虹灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/霓虹灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "酒店走廊夜间状态：顶面嵌入极细窄LED灯带，沿走廊长轴延伸，呈动态绿色，衬以白色吊顶和深绿色accent墙，空间氛围强烈"
+      - filename: "霓虹灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/霓虹灯/02.jpg"
+        image_role: "context"
+        visual_anchor: "同走廊日间/白色状态：灯带呈白色，沿斜角天花延伸，发光缝宽约10-15mm，纯白极度克制，与绿色夜间状态形成强对比"
+    product_name: "酒店走廊动态变色嵌入式LED灯带"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "霓虹灯"]
+    design_language:
+      silhouette: "极细窄光缝，宽约10-15mm，沿走廊天花长轴方向连续延伸，灯具主体完全隐藏于吊顶结构内"
+      light_opening: "单侧窄缝向下漫射出光，RGBW动态变色，可呈白色/绿色/红色等多种颜色"
+      thermal: "灯体隐藏于顶面结构内，散热不可见"
+      cmf:
+        color: "灯体不可见；发光色RGBW可变（白/绿/红均有展示）"
+        material: "柔性LED灯带 + 铝槽嵌入"
+        finish: "与吊顶同色（白色）"
+      mounting: "完全嵌入式，灯带与吊顶齐平，无任何外露框架"
+      signature_detail: "连续彩色光线沿走廊长轴延伸 + 动态变色，光色成为酒店品牌氛围和空间导引的媒介"
+    design_level:
+      score: 4
+      reason: "光缝极度克制，灯具本体归零，以动态光色作为空间叙事语言，酒店照明标杆级设计"
+    design_tags: ["霓虹灯", "动态变色", "RGBW", "嵌入式", "酒店", "建筑照明", "H07极简整合", "H09隐藏工程"]
+    hero_feature: "灯具完全消失于顶面，仅10-15mm彩色光缝可见，动态色彩变化使光成为空间叙事的唯一元素"
+    problem_solved: "酒店走廊需要兼顾功能照明与品牌氛围，同时保持顶面干净感"
+    transferable_technique: "极窄光缝嵌入结构面 + RGBW动态变色，可迁移至任何商业空间的品牌化氛围照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯带_霓虹灯_002"
+    source_images:
+      - filename: "霓虹灯/03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/灯带/霓虹灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "拱廊空间极细霓虹风线型灯：白色极细（约5mm宽）LED灯条沿多个连续拱门轮廓延伸，蓝绿+粉红渐变背景光，灯条像建筑勾边线"
+    product_name: "拱形轮廓霓虹风超细LED灯条"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "灯带", "霓虹灯"]
+    design_language:
+      silhouette: "超细圆形截面软管（直径约5mm），可弯曲成任意曲线/弧形，沿建筑拱门轮廓敷设，形成发光轮廓线"
+      light_opening: "360°全方向漫射出光（类霓虹管效果），整个圆管截面均匀发光，无亮暗点"
+      thermal: "极细小功率，散热完全依赖自然对流"
+      cmf:
+        color: "发光色纯白，背景为蓝绿+粉红渐变环境光（由背景照明提供，非灯条本身）"
+        material: "硅胶或软PVC外壳 + 内置LED"
+        finish: "半透明乳白硅胶外皮"
+      mounting: "轮廓粘贴或卡扣固定于建筑曲面，沿拱门内轮廓连续敷设"
+      signature_detail: "超细白色发光管条精准勾勒建筑拱门轮廓，与多彩渐变背景形成强图底关系；灯条消失于整体构图，仅光线轮廓可见"
+    design_level:
+      score: 5
+      reason: "建筑装置级照明设计，灯条作为建筑线条勾边工具，与渐变背景光协同形成极强视觉震撼力"
+    design_tags: ["霓虹灯", "超细", "弧形", "轮廓灯", "拱廊", "硅胶灯带", "H01减法", "H04参数化", "H07极简整合"]
+    hero_feature: "超细5mm霓虹风灯条精准勾勒拱门建筑轮廓，与彩色渐变背景形成'线勾彩面'的图底震撼感"
+    problem_solved: "建筑轮廓照明需要精准跟随曲线结构，同时传递类霓虹的温暖发光质感"
+    transferable_technique: "超细硅胶霓虹风灯带沿曲线结构勾边的手法，可迁移至任何需要'发光轮廓线'的建筑或产品展示设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

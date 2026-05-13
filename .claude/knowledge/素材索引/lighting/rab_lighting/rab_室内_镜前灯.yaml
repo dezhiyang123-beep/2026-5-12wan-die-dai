@@ -1,0 +1,44 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内灯"
+  tertiary: "镜前灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/镜前灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_镜前灯_001"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/镜前灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "横向圆管漫射灯体+金色中央壁面托架+两端深色端帽"
+    product_name: "RAB 镜前灯（金色托架款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "镜前灯"]
+    design_language:
+      silhouette: "横向纯圆柱管体，长径比约6:1，两端收口端帽，中央单点壁面安装"
+      light_opening: "整根圆管均为漫射发光体，360度环形出光，正面朝向镜面方向"
+      thermal: "圆管铝芯兼散热，外套PC漫射管"
+      cmf:
+        color: "漫射管乳白，托架金色（香槟金），端帽深青铜色"
+        material: "PC漫射管，铝制内芯，铸铝托架，金属端帽"
+        finish: "乳白漫射+金色抛光托架+深色哑光端帽"
+      mounting: "中央单点壁面安装，金色托架固定"
+      signature_detail: "金色托架+深色端帽的三色搭配跳出卫浴灯常见全白方案，定位中高端"
+    design_level:
+      score: 4
+      reason: "金色托架+深色端帽+乳白管三色材质层次清晰，比例修长，是RAB室内系列中设计感最强的单品之一"
+    design_tags: ["镜前灯", "圆管漫射", "金色托架", "三色搭配", "卫浴中高端"]
+    hero_feature: "金色壁面托架居中+深色端帽收口，三段材质颜色形成精致层次"
+    problem_solved: "卫浴镜面正面均匀照明，同时满足中高端装修风格需求"
+    transferable_technique: "单点中央托架支撑长管体，托架本身成为视觉焦点与品质感来源"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

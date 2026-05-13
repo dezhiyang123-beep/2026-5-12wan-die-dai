@@ -1,0 +1,359 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "手电筒"
+  tertiary: "EDC手电"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/EDC手电"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_EDC_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/EDC手电/01.jpg"
+        image_role: "hero"
+        visual_anchor: "扁平矩形机身+OLED屏幕显示流明数+顶部双排散热鳍片+Lumin Shield品牌标识"
+    product_name: "Nitecore EDC29"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "EDC手电"]
+    design_language:
+      silhouette: "扁平矩形板状，长宽比约4:1，厚度均匀，整体轮廓近似信用卡放大版"
+      light_opening: "矩形端面，双LED出光口，左右并排排列，宽型出光截面"
+      thermal: "机身背面双组平行凸肋散热槽，约3×3排列，功能性散热外显"
+      cmf:
+        color: "黑色"
+        material: "航空铝合金"
+        finish: "磨砂阳极氧化+局部高光CNC切割"
+      mounting: "侧边深沟槽提供握持摩擦，无独立clip"
+      signature_detail: "嵌入式OLED屏实时显示亮度模式和流明数，Lumin Shield盾形徽章"
+    design_level:
+      score: 5
+      reason: "OLED屏+扁平矩形形态高度差异化，散热鳍片视觉语言统一，科技感与EDC便携性完美平衡，品牌识别度极强"
+    design_tags: ["OLED屏显", "扁平矩形", "散热鳍片", "双LED", "高亮EDC", "功能外显", "Lumin Shield"]
+    hero_feature: "机身正面嵌入式OLED屏实时显示亮度等级与流明数"
+    problem_solved: "用户不知道当前档位和剩余电量，OLED屏一眼可读"
+    transferable_technique: "将数字状态显示屏集成进手持设备正面，无需拆开或按键确认即可读取关键参数"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_EDC_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/EDC手电/03.jpg"
+        image_role: "hero"
+        visual_anchor: "厚砖型机身+交叉网格橡胶包覆+顶部旋钮式控制+侧面OLED屏+8000流明标识"
+    product_name: "Nitecore EDC37"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "EDC手电"]
+    design_language:
+      silhouette: "厚实矩形砖块状，长宽比约2.5:1，四角圆弧处理，整体偏厚重"
+      light_opening: "底端多LED宽型出光面，灰色金属散热圈环绕"
+      thermal: "顶部散热槽+侧面黑色橡胶分件承担散热与防滑双重功能"
+      cmf:
+        color: "深灰黑色"
+        material: "铝合金主体+橡胶分件包覆"
+        finish: "磨砂阳极氧化+菱形网格橡胶纹理"
+      mounting: "顶部金属旋钮兼具操控与腕带孔功能"
+      signature_detail: "侧面嵌入式OLED显示屏+菱形交叉网格橡胶包覆区域"
+    design_level:
+      score: 4
+      reason: "旋钮控制+OLED侧屏组合独特，菱形网格橡胶包覆提供强烈触觉语言，8000流明超高亮度形态匹配"
+    design_tags: ["旋钮控制", "菱形网格", "橡胶包覆", "OLED侧显", "超高亮度", "厚砖形态", "H02包覆"]
+    hero_feature: "顶部金属旋钮控制系统配合侧面OLED实时屏显"
+    problem_solved: "高亮度手电单手操作档位切换困难，旋钮提供精准物理反馈"
+    transferable_technique: "旋钮+显示屏的组合控制方案可迁移至需要精准调节的手持工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_EDC_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/EDC手电/04.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱形筒体+侧面镂空散热框架+锯齿状齿形边缘+多LED阵列头部"
+    product_name: "Nitecore EDC35"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "EDC手电"]
+    design_language:
+      silhouette: "传统圆柱手电形态，头部略大于筒身，整体比例均衡"
+      light_opening: "多LED阵列圆形出光口，锯齿状防滚边缘，银灰色金属反射碗"
+      thermal: "筒身中部镂空铝合金框架结构，形成条状散热窗，视觉通透感强"
+      cmf:
+        color: "黑色"
+        material: "航空铝合金"
+        finish: "磨砂阳极氧化+CNC加工镂空"
+      mounting: "筒身菱形交叉网纹防滑，配套侧clip（图中未显示）"
+      signature_detail: "筒身中段镂空铝合金骨架，露出内部结构，兼具散热与视觉减重"
+    design_level:
+      score: 3
+      reason: "镂空骨架结构有特色，但整体仍是标准圆柱手电形态，差异化程度中等"
+    design_tags: ["圆柱形", "镂空骨架", "多LED阵列", "锯齿防滚边", "结构外显", "H09隐藏工程反向"]
+    hero_feature: "筒身中段镂空铝框骨架，将内部散热结构外显为设计语言"
+    problem_solved: "圆柱手电散热面积有限，镂空框架大幅增加散热表面积同时减轻重量"
+    transferable_technique: "镂空骨架作为功能性装饰元素，可迁移至需要散热的手持设备中段设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_EDC_004"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/EDC手电/05.jpg"
+        image_role: "hero"
+        visual_anchor: "扁平矩形+顶部OLED屏+菱形纹理把手+双LED并排+UHi LED标识"
+    product_name: "Nitecore EDC23"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "EDC手电"]
+    design_language:
+      silhouette: "扁平矩形板状，与EDC29相似但更紧凑，顶部两角切削出明显的菱角造型"
+      light_opening: "矩形端面，双LED并排，宽型出光截面，黑色铝框环绕"
+      thermal: "顶部及侧面无明显散热鳍片，依靠机身铝合金整体导热"
+      cmf:
+        color: "黑色"
+        material: "航空铝合金"
+        finish: "磨砂阳极氧化+菱形网格纹理"
+      mounting: "侧面菱形交叉网格提供握持摩擦，顶角锐利切面"
+      signature_detail: "顶部嵌入式OLED屏+顶角尖锐切削造型+UHi LED技术标识牌"
+    design_level:
+      score: 4
+      reason: "顶角切削造型赋予攻击性视觉语言，OLED屏延续品牌识别，紧凑尺寸下设计密度高"
+    design_tags: ["OLED屏显", "扁平矩形", "切削角", "攻击性造型", "双LED", "菱形网格", "EDC紧凑"]
+    hero_feature: "顶部锐角切削+OLED屏的组合，赋予EDC手电战术工具感"
+    problem_solved: "小尺寸EDC手电缺乏视觉张力，切削角造型提升产品气场"
+    transferable_technique: "在矩形手持设备顶部做锐角切削，可在不改变握持体验的前提下大幅提升视觉冲击力"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_EDC_005"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/EDC手电/06.jpg"
+        image_role: "hero"
+        visual_anchor: "L形转角头部+双LED并排+竖型扁平机身+侧面模式切换按键+USB充电口"
+    product_name: "Nitecore EDC 直角款（型号待确认）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "EDC手电"]
+    design_language:
+      silhouette: "L形直角结构，头部90度转向，竖向持握，光轴水平指向前方"
+      light_opening: "头部双LED圆形出光口并排，六边形蜂窝散热孔环绕，银灰色金属反射面"
+      thermal: "机身两侧纵向条状凸肋，顶端钻石切削纹理帽盖"
+      cmf:
+        color: "黑色"
+        material: "铝合金+工程塑料分件"
+        finish: "磨砂阳极氧化+橡胶纹理侧键"
+      mounting: "底部USB-C充电口+侧面腰夹插槽，L形便于头戴或口袋平放"
+      signature_detail: "L形直角折弯，头部双LED搭配六边形散热阵列，侧置M功能键"
+    design_level:
+      score: 4
+      reason: "L形结构是EDC手电中少见形态，解决了直筒手电不便头戴或工作台使用的痛点，双LED+蜂窝散热视觉语言统一"
+    design_tags: ["L形直角", "双LED", "蜂窝散热", "直角转向", "多场景EDC", "H05模块化", "头戴兼容"]
+    hero_feature: "L形直角折弯头部，单体手电实现手持+头戴+桌置多场景切换"
+    problem_solved: "直筒手电无法在解放双手场景使用，L形结构兼容头戴固定架和自立放置"
+    transferable_technique: "L形直角结构可迁移至需要多场景固定方式的手持照明或工具类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "型号文字不清晰，需确认具体型号编号"
+
+  - product_id: "nc_EDC_006"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/EDC手电/07.jpg"
+        image_role: "hero"
+        visual_anchor: "超扁平砖形+菱形网格橡胶大面积包覆+三LED宽型出光口+极低侧面高度"
+    product_name: "Nitecore EDC 超薄款（型号待确认）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "EDC手电"]
+    design_language:
+      silhouette: "极扁平矩形，长宽比约5:1，厚度极薄，侧视几乎如板状"
+      light_opening: "端面三LED水平排列，宽型泛光出光截面，黑色金属框"
+      thermal: "顶面纵向线型凸肋若干，侧面金属散热区"
+      cmf:
+        color: "黑色"
+        material: "铝合金+大面积橡胶覆面"
+        finish: "菱形交叉网格橡胶纹理占据正面约60%面积"
+      mounting: "侧面磁吸腰夹槽，橡胶包覆提供防滑握持"
+      signature_detail: "超大面积菱形网格橡胶覆盖正面，三LED宽扇形泛光配置"
+    design_level:
+      score: 3
+      reason: "超薄形态有差异化，但橡胶包覆比例过高导致整体显粗糙，设计语言不够精致"
+    design_tags: ["超扁平", "三LED", "宽型泛光", "大面积橡胶", "菱形网格", "H02包覆", "极薄EDC"]
+    hero_feature: "极薄扁平形态+三LED宽泛光出光，口袋平放无突出感"
+    problem_solved: "传统圆柱手电放入口袋有明显突出感，超薄设计接近钱包厚度"
+    transferable_technique: "超薄+宽型泛光出光的组合适合需要泛光而非聚光的作业场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "型号文字角度遮挡无法确认，需对照官网确认具体型号"
+
+  - product_id: "nc_EDC_007"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/EDC手电/08.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱形筒体+侧面镂空铝框+顶部磁吸USB-C充电口+多LED头部+EDC31标识"
+    product_name: "Nitecore EDC31"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "EDC手电"]
+    design_language:
+      silhouette: "标准圆柱手电形态，头部略扩张，筒身均匀，尾端平底"
+      light_opening: "多LED圆形出光口，银色反射碗，环形锯齿防滚边"
+      thermal: "筒身中部镂空铝合金框架，竖向条形开槽，与EDC35形成家族语言"
+      cmf:
+        color: "黑色"
+        material: "航空铝合金"
+        finish: "磨砂阳极氧化+CNC镂空"
+      mounting: "顶端磁吸USB-C充电口+侧面凹槽腰夹，尾端磁吸底座兼容"
+      signature_detail: "筒身镂空铝骨架+顶部磁吸充电盖，充电口设计整洁无外露接口"
+    design_level:
+      score: 3
+      reason: "镂空骨架延续家族设计语言，磁吸充电盖细节有亮点，但整体造型较EDC35相似度高"
+    design_tags: ["圆柱形", "镂空骨架", "磁吸充电", "多LED", "家族语言", "H11功能外显"]
+    hero_feature: "顶部磁吸USB-C充电盖，充电时无暴露接口，防水防尘"
+    problem_solved: "手电充电口暴露导致进水/进灰，磁吸充电盖彻底密封"
+    transferable_technique: "磁吸充电盖方案可迁移至任何需要IP防护等级的手持充电设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_EDC_008"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/EDC手电/09.jpg"
+        image_role: "hero"
+        visual_anchor: "超扁平砖形+阶梯式分件线+模块化分区纹理+单LED出光口+EDC17标识"
+    product_name: "Nitecore EDC17（或EDC07）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "EDC手电"]
+    design_language:
+      silhouette: "扁平砖状，长宽比约4:1，侧视厚度均匀，尾端收窄"
+      light_opening: "端面单LED出光口，小圆形截面，极简出光设计"
+      thermal: "机身多段式横向分件线将机身分为三个功能区，各区纹理不同"
+      cmf:
+        color: "深黑色"
+        material: "工程塑料主体+铝合金芯"
+        finish: "哑光喷涂+阶梯凸起分件线"
+      mounting: "侧面小方形UI按键+顶部腕带孔，整体紧凑"
+      signature_detail: "横向阶梯分件线将机身切割为三段，每段独立纹理，模块感强"
+    design_level:
+      score: 2
+      reason: "分件线设计有系统性，但整体材质感偏低端，出光口过小，设计语言与高端系列差距明显"
+    design_tags: ["扁平矩形", "阶梯分件", "多段纹理", "单LED", "入门级", "H03分件线", "塑料主体"]
+    hero_feature: "横向阶梯分件线将机身三等分，不同纹理区划分功能区"
+    problem_solved: "入门EDC手电缺乏设计层次感，分件线在低成本下提供视觉丰富度"
+    transferable_technique: "横向阶梯分件线在注塑件上实现低成本多纹理分区，可迁移至预算型手持产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "型号文字模糊，EDC17或EDC07待确认"
+
+  - product_id: "nc_EDC_009"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/EDC手电/10.jpg"
+        image_role: "hero"
+        visual_anchor: "超扁平刀片形+整体黑色铝合金+极简无纹理表面+HOT散热警示标+EDC27 UHi标识"
+    product_name: "Nitecore EDC27"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "EDC手电"]
+    design_language:
+      silhouette: "超扁平长矩形，长宽比约6:1，厚度极薄，正面几近全平无分件"
+      light_opening: "端面单LED出光口，极简银色截面，无锯齿无装饰"
+      thermal: "出光端底部印有HOT高温警示三角标，机身依靠全铝合金整体散热"
+      cmf:
+        color: "哑黑"
+        material: "航空铝合金一体"
+        finish: "磨砂阳极氧化，极少装饰元素"
+      mounting: "顶端磁吸clip结构+UHi LED技术标牌，整体简洁"
+      signature_detail: "近乎全无装饰的哑黑铝合金机身+醒目HOT高温警示标识"
+    design_level:
+      score: 4
+      reason: "极简主义执行彻底，全铝合金哑黑一体感强，HOT警示标反而成为唯一视觉焦点，高级感突出"
+    design_tags: ["极简主义", "哑黑铝合金", "超扁平", "HOT警示标", "H07极简整合", "一体感", "无装饰"]
+    hero_feature: "全哑黑铝合金无装饰机身，只有HOT高温警示标作为唯一视觉打点"
+    problem_solved: "EDC手电过度装饰导致正式场合使用感低，极简设计适合商务/都市EDC场景"
+    transferable_technique: "在铝合金件上以功能性标识（警示/安全标志）替代纯装饰元素，提升设计克制感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_EDC_010"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/EDC手电/11.jpg"
+        image_role: "hero"
+        visual_anchor: "超扁平矩形+深灰色铝合金+双色LED条形指示灯+分段凹陷分件+HOT警示标+EDC25标识"
+    product_name: "Nitecore EDC25"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "EDC手电"]
+    design_language:
+      silhouette: "扁平长矩形，长宽比约5:1，厚度略厚于EDC27，正面有浅凹分件线"
+      light_opening: "端面单LED出光口，左下角可见，HOT警示三角标位于正面底部"
+      thermal: "全铝合金机身散热，右侧纵向条形散热槽，与EDC27形成姐妹款"
+      cmf:
+        color: "深灰色（枪灰）"
+        material: "航空铝合金"
+        finish: "磨砂阳极氧化，深灰色调区别于全黑系列"
+      mounting: "顶面双色LED条形充电/状态指示灯（绿+蓝），顶端磁吸结构"
+      signature_detail: "正面双色条形LED状态指示灯（绿色Battery/蓝色Output），视觉清晰可读"
+    design_level:
+      score: 4
+      reason: "深灰色调在全黑系列中差异化明显，双色LED状态条信息密度高且美观，整体设计与EDC27形成完整产品线"
+    design_tags: ["扁平矩形", "深灰色", "双色LED指示", "状态可视化", "H11功能外显", "姐妹款", "HOT警示标"]
+    hero_feature: "正面嵌入式双色LED条形指示灯，绿/蓝双通道同时显示充电和输出状态"
+    problem_solved: "用户无法同时知道充电输入和输出状态，双色分区指示灯一眼区分两种状态"
+    transferable_technique: "双色LED状态条区分两种工作状态（输入/输出），可迁移至移动电源、充电工具等双向能量流产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,497 @@
+schema_version: product_dna_v1
+category:
+  primary: 家电
+  secondary: 烤箱
+  tertiary: ''
+source:
+  source_type: award_showcase
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱
+  generated_at: '2026-05-08'
+products:
+- product_id: if_oven_001
+  source_images:
+  - filename: 04.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/04.jpg
+    image_role: hero
+    visual_anchor: 大面积黑色玻璃门+顶部彩色触屏+宽扁银色把手
+  - filename: 109.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/109.jpg
+    image_role: context
+    visual_anchor: 嵌入木纹橱柜中的整列效果，含抽屉式暖碟抽
+  product_name: Bauknecht MyMenu 嵌入式电烤箱
+  brand_name: Bauknecht
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 烤箱
+  - 嵌入式烤箱
+  design_language:
+    silhouette: 标准60cm正方形嵌入比例，顶部控制条+大面积玻璃门二段式分割
+    light_opening: 无独立补光，门内可见腔体反光
+    thermal: 门体全黑钢化玻璃隔热
+    cmf:
+      color: 黑色+拉丝银
+      material: 钢化玻璃门 + 不锈钢把手 + 黑色控制面板
+      finish: 高光黑玻璃门 + 拉丝不锈钢把手
+    mounting: 嵌入式
+    signature_detail: 顶部中央小尺寸彩色TFT触屏（约5寸），两侧围绕电容触控快捷键，形成功能岛
+  design_level:
+    score: 4
+    reason: 触屏+电容混合交互布局清晰，黑白对比强烈，整列效果优秀；触屏尺寸偏小但功能整合度高
+  design_tags:
+  - 嵌入式
+  - 触屏交互
+  - 黑色玻璃
+  - 极简
+  - 整列设计
+  - MyMenu
+  hero_feature: 顶部功能岛式触屏+电容键布局，操控信息集中于一条控制带
+  problem_solved: 把复杂烹饪选项收纳进一条极窄控制带，保持门面纯净黑
+  transferable_technique: 控制元素集中于顶部条状区域，门面零干扰——可迁移至其他嵌入式厨电
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_oven_002
+  source_images:
+  - filename: 22.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/22.jpg
+    image_role: context
+    visual_anchor: 低高度抽拉式蒸烤箱，两台并排嵌入，宽扁比例
+  - filename: 33.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/33.jpg
+    image_role: usage
+    visual_anchor: 门体向下翻开，用户单手拉把手取烤盘动作
+  product_name: Bauknecht 嵌入式蒸烤箱（宽扁款）
+  brand_name: Bauknecht
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 烤箱
+  - 嵌入式蒸烤箱
+  design_language:
+    silhouette: 宽扁矩形比例（约45cm高×60cm宽），有别于标准正方形烤箱，门体向下翻开
+    light_opening: 腔体内可见橙色加热管发光
+    thermal: 向下翻门设计，门体成搁架平台
+    cmf:
+      color: 黑色+银色
+      material: 黑色钢化玻璃门 + 不锈钢把手 + 黑色边框
+      finish: 高光黑玻璃 + 拉丝银把手
+    mounting: 嵌入式
+    signature_detail: 把手造型粗壮有力，横跨整个门宽；顶部控制带含小彩屏
+  design_level:
+    score: 3
+    reason: 宽扁比例有辨识度，与同系列正方形烤箱形成产品线梯度；单独看设计语言与001高度一致，差异化不足
+  design_tags:
+  - 嵌入式
+  - 蒸烤箱
+  - 宽扁比例
+  - 翻门设计
+  - 整列设计
+  hero_feature: 向下翻开的大门兼作取放托盘的操作平台，人机动作自然
+  problem_solved: 抽拉翻门降低取放高度，配合橱柜下嵌位置人体工学更友好
+  transferable_technique: 向下翻门+宽扁比例适合下嵌安装位，可迁移至蒸箱/暖碟抽品类
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_oven_003
+  source_images:
+  - filename: 05.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/05.jpg
+    image_role: hero
+    visual_anchor: 全黑哑光三联嵌入系统：烤箱+咖啡机+蒸箱，顶部旋钮+小屏
+  product_name: Gaggenau 400系列嵌入式烤箱系统
+  brand_name: Gaggenau
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 烤箱
+  - 嵌入式烤箱
+  design_language:
+    silhouette: 正方形嵌入比例，与同系列咖啡机/蒸箱高度统一，形成整墙系统感
+    light_opening: 腔体内蓝色背光可见，烤箱门大面积透视
+    thermal: 全封闭嵌入，与橱柜面齐平
+    cmf:
+      color: 全黑哑光
+      material: 哑光黑烤漆面板 + 不锈钢旋钮 + 黑色玻璃门
+      finish: 哑光黑 + 拉丝不锈钢旋钮
+    mounting: 嵌入式
+    signature_detail: 金属旋钮+小型OLED/LCD屏组合，控制界面极度克制，整个面板只有两个元素
+  design_level:
+    score: 5
+    reason: Gaggenau标志性全黑哑光+极简旋钮系统，品牌语法一致性极高；三机整列视觉张力强，每台独立看也完整；控制语言做到行业最简
+  design_tags:
+  - 嵌入式
+  - 极简主义
+  - 全黑哑光
+  - 旋钮控制
+  - 系统整列
+  - 高端
+  - Gaggenau
+  hero_feature: 一旋钮+一屏的极简控制面板，整个控制区面积不足正面10%
+  problem_solved: 消除视觉噪音，让烤箱消隐于橱柜系统中，只在使用时才显现存在感
+  transferable_technique: 旋钮+微屏的极简控制组合，比触屏更有触觉反馈；哑光黑面板消隐策略
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_oven_004
+  source_images:
+  - filename: 107.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/107.jpg
+    image_role: hero
+    visual_anchor: 全黑机身，铜色边框把手发光，顶部彩屏+NFC感应区
+  - filename: 108.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/108.jpg
+    image_role: interior
+    visual_anchor: 腔体开门状态，黑色内腔+圆形微波盘+后壁散热结构
+  product_name: Fotile 方太嵌入式蒸烤一体机
+  brand_name: Fotile
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 烤箱
+  - 嵌入式蒸烤箱
+  design_language:
+    silhouette: 宽扁矩形比例（约45cm高×60cm宽），整体偏横向；腔体比例接近微波炉
+    light_opening: 把手边框铜色环形灯带，工作时发橙光
+    thermal: 嵌入式，顶部散热格栅隐于控制区后
+    cmf:
+      color: 全黑+香槟铜
+      material: 黑色钢化玻璃门 + 铜色金属把手框 + 黑色控制面板
+      finish: 哑光黑玻璃 + 高光铜色金属
+    mounting: 嵌入式
+    signature_detail: 铜色发光边框把手是最强视觉焦点；顶部彩色触屏+NFC感应区分左右两区
+  design_level:
+    score: 4
+    reason: 铜色发光把手作为Hero Feature辨识度极高，将功能状态可视化（加热中=铜光）；中国品牌中CMF精致度突出
+  design_tags:
+  - 嵌入式
+  - 蒸烤一体
+  - 发光把手
+  - 铜色
+  - 触屏
+  - NFC
+  - Fotile
+  - 方太
+  hero_feature: 铜色发光边框把手：烹饪状态下作为状态指示灯，同时是最强视觉记忆点
+  problem_solved: 将烹饪状态反馈从屏幕转移到把手，用户不需要看屏就能感知设备运行状态
+  transferable_technique: 功能状态可视化内嵌于把手/结构件而非独立指示灯——可迁移至其他厨电把手设计
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_oven_005
+  source_images:
+  - filename: 39.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/39.jpg
+    image_role: hero
+    visual_anchor: 灰色哑光正方形嵌入烤箱，顶部窄彩屏，门面极简无把手感
+  product_name: COLMO 嵌入式电烤箱
+  brand_name: COLMO
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 烤箱
+  - 嵌入式烤箱
+  design_language:
+    silhouette: 标准60cm正方形嵌入比例，整体偏方正克制；与深灰橱柜接近同色系消隐
+    light_opening: 腔体内隐约可见双层格架
+    thermal: 嵌入式，全封闭边框
+    cmf:
+      color: 深灰哑光（近石墨色）
+      material: 哑光深灰涂层面板 + 深灰玻璃门 + 金属细框
+      finish: 全哑光深灰，金属框轻微光泽
+    mounting: 嵌入式
+    signature_detail: 顶部横向彩屏窄条，屏内显示食材图片式菜单选择；整体与深色橱柜高度融合
+  design_level:
+    score: 4
+    reason: 石墨灰消隐策略执行彻底，彩屏菜单的图形化操作体验有中国市场差异化；设计语言内敛但完整
+  design_tags:
+  - 嵌入式
+  - 石墨灰
+  - 消隐设计
+  - 彩屏菜单
+  - 极简
+  - COLMO
+  hero_feature: 顶部窄彩屏以食材图片作为菜单导航，降低操作认知门槛
+  problem_solved: 灰色机身与深色橱柜同色系融合，烤箱不再是厨房视觉焦点而是成为空间的一部分
+  transferable_technique: 机身色与橱柜同系消隐策略；图形化菜单替代文字操作逻辑
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_oven_006
+  source_images:
+  - filename: 51.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/51.jpg
+    image_role: hero
+    visual_anchor: 双抽屉式嵌入蒸烤机，黑色+深灰，顶部窄控制条含彩屏和旋钮
+  product_name: Midea 美的双腔嵌入式蒸烤机
+  brand_name: Midea
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 烤箱
+  - 嵌入式蒸烤箱
+  design_language:
+    silhouette: 双层抽屉比例，整体高度约60cm，每个腔体约25-30cm高；横向把手连贯两个腔
+    light_opening: 无可见发光元素
+    thermal: 双腔独立，抽屉式前拉开门
+    cmf:
+      color: 黑色+深灰
+      material: 黑色玻璃抽屉面板 + 深灰金属框架 + 黑色控制条
+      finish: 高光黑玻璃面板 + 哑光深灰金属
+    mounting: 嵌入式
+    signature_detail: 顶部控制条含彩屏+旋钮+触控键三种交互方式组合；双腔可同时运行两种烹饪模式
+  design_level:
+    score: 3
+    reason: 双腔功能价值高，但造型设计保守；两个腔体的抽屉面板比例感偏厚重，把手设计平庸
+  design_tags:
+  - 嵌入式
+  - 双腔
+  - 蒸烤
+  - 抽屉式
+  - Midea
+  - 美的
+  hero_feature: 上下双独立腔体，可同时以不同温度/模式烹饪两种食材
+  problem_solved: 单台设备实现同时蒸+烤，节省橱柜嵌入位且减少等待时间
+  transferable_technique: 双腔独立控制的分层嵌入结构；顶部控制条承载所有双腔操作
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_oven_007
+  source_images:
+  - filename: 62.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/62.jpg
+    image_role: hero
+    visual_anchor: 台上式黑色微波烤箱，底部控制条含红色圆形功能键，门面近全黑玻璃
+  product_name: Bosch 台上式微波烤箱
+  brand_name: Bosch
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 烤箱
+  - 微波烤箱
+  design_language:
+    silhouette: 横向矩形台上式，宽高比约2:1；门体占正面约70%，控制区集中于底部
+    light_opening: 无
+    thermal: 台上式自然散热
+    cmf:
+      color: 全黑+红色点缀
+      material: 黑色镜面玻璃门 + 黑色塑料控制底座
+      finish: 镜面黑玻璃门（强反光） + 哑光黑底座
+    mounting: 台上式
+    signature_detail: 底部控制条两端各一个大红色圆形按键（电源/停止），红色形成强烈色彩焦点
+  design_level:
+    score: 3
+    reason: 镜面黑门+红色按键对比醒目，但整体造型语言较早期（控制区面积大，按键密集）；属于过渡时期设计
+  design_tags:
+  - 台上式
+  - 微波烤箱
+  - 镜面黑
+  - 红色按键
+  - Bosch
+  hero_feature: 两颗大红圆形键（电源/取消）作为颜色锚点，强烈对比黑色门面
+  problem_solved: 用色彩区分高频操作键（红）与低频功能键（黑），降低操作误触率
+  transferable_technique: 色彩编码区分操作优先级——高频键用对比色突出，可迁移至各类家电控制区
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_oven_008
+  source_images:
+  - filename: 66.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/66.jpg
+    image_role: detail
+    visual_anchor: 控制面板特写：拉丝不锈钢窄条上单旋钮居中，红色弧形UI显示温度；下方宽把手
+  product_name: Electrolux 嵌入式电烤箱（控制面板特写）
+  brand_name: Electrolux
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 烤箱
+  - 嵌入式烤箱
+  design_language:
+    silhouette: 特写视角，可见控制面板为极窄横条（约3cm高）；大宽度拉丝钢把手横跨全宽
+    light_opening: 控制屏内红色弧形图形作为温度可视化元素
+    thermal: 嵌入式全封闭
+    cmf:
+      color: 深黑+拉丝银+红色UI
+      material: 深黑玻璃面板 + 拉丝不锈钢旋钮和把手
+      finish: 高光黑玻璃 + 拉丝不锈钢
+    mounting: 嵌入式
+    signature_detail: 控制屏内红色弧形图形显示当前温度与目标温度差，视觉化程度极高；旋钮体积大有份量感
+  design_level:
+    score: 4
+    reason: 红色弧形温度UI将抽象数据变成直觉感知的图形，设计细节精彩；旋钮+数字信息密度低但信息量充分
+  design_tags:
+  - 嵌入式
+  - 控制面板
+  - 旋钮
+  - 温度可视化
+  - 红色UI
+  - 拉丝不锈钢
+  - Electrolux
+  hero_feature: 红色弧形图形温度显示：当前温度在弧内，目标温度在弧外，一眼读懂预热进度
+  problem_solved: 将烤箱预热状态从数字读数变为图形感知，减少用户认知负担
+  transferable_technique: 圆弧/扇形图形化进度显示替代数字——可迁移至任何需要显示目标-当前差值的场景
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: medium
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_oven_009
+  source_images:
+  - filename: 68.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/68.jpg
+    image_role: hero
+    visual_anchor: 蛤壳式上翻盖台上烤炉，上盖透明玻璃，烤盘在下，上盖打开状态展示烤肉
+  product_name: 台上式蛤壳烤炉（品牌标注BRAND）
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 烤箱
+  - 台上式烤炉
+  design_language:
+    silhouette: 蛤壳式上翻盖结构，上盖弧形透明玻璃+黑色边框，底座矩形含控制区；整体宽扁
+    light_opening: 无
+    thermal: 上翻盖散热，烤盘与加热管同侧
+    cmf:
+      color: 黑色+银色
+      material: 透明钢化玻璃上盖 + 不锈钢底座边框 + 黑色控制面板
+      finish: 透明玻璃 + 拉丝不锈钢 + 哑光黑
+    mounting: 台上式
+    signature_detail: 透明上盖允许烹饪中全程可视烤制状态；底座前置旋钮+数字屏+触控键三区横排
+  design_level:
+    score: 3
+    reason: 蛤壳式结构创新有趣，透明上盖视觉展示性强；但品牌名标注'BRAND'疑似样机/概念图，产品成熟度存疑
+  design_tags:
+  - 台上式
+  - 蛤壳式
+  - 可视烹饪
+  - 透明玻璃盖
+  - 烤炉
+  - 概念设计
+  hero_feature: 透明上盖实现烹饪全程可视，上翻式开盖便于取放食材
+  problem_solved: 传统烤箱烹饪过程不可视，蛤壳透明盖让用户实时观察食材状态
+  transferable_technique: 上翻透明盖结构——可迁移至空气炸锅/台上烤箱品类的可视化设计
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: true
+  review_reason: 品牌名标注为'BRAND'，疑似概念样机或占位符，需确认实际品牌
+- product_id: if_oven_010
+  source_images:
+  - filename: 82.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/82.jpg
+    image_role: colorway
+    visual_anchor: 8种配色方案展示图：粉/深灰/银/白/浅灰+3个暗底深色款，同一造型多色
+  product_name: Samsung 嵌入式微波炉/烤箱（多色系）
+  brand_name: Samsung
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 烤箱
+  - 嵌入式微波烤箱
+  design_language:
+    silhouette: 标准嵌入式横矩形，宽高比约2.5:1；左侧约2/3为玻璃门，右侧约1/3为控制区
+    light_opening: 无
+    thermal: 嵌入式
+    cmf:
+      color: 多色系：粉色/深灰/银/白/浅灰/黑色（共5+色）
+      material: 钢化玻璃门 + 塑料控制侧板
+      finish: 镜面玻璃门 + 哑光侧板
+    mounting: 嵌入式
+    signature_detail: 同一造型提供多达8种配色方案，配色策略覆盖从粉色到全黑的全谱段，门框色与面板色一致性好
+  design_level:
+    score: 3
+    reason: 配色策略丰富是核心竞争力，粉色款有明显差异化；但单一配色版本造型中规中矩，控制区按键密集
+  design_tags:
+  - 嵌入式
+  - 微波烤箱
+  - 多配色
+  - 粉色
+  - Samsung
+  - CMF策略
+  hero_feature: 8色可选配色矩阵，粉色款在同类产品中罕见，直接锁定家居风格定制需求
+  problem_solved: 传统微波炉配色单调，多色方案让厨电成为厨房装饰语言的一部分
+  transferable_technique: 同款硬件多色版本发布策略；粉色等非传统色进入厨电品类的CMF路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_oven_011
+  source_images:
+  - filename: 92.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/烤箱/92.jpg
+    image_role: hero
+    visual_anchor: 深黑拉丝金属嵌入烤箱，小方窗居中，顶部细条控制带，整体极度方正
+  product_name: 嵌入式电烤箱（品牌未知，黑色极简款）
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 烤箱
+  - 嵌入式烤箱
+  design_language:
+    silhouette: 标准60cm正方形嵌入比例；玻璃观察窗比例偏小（约占门面40%），被金属门框大量包围
+    light_opening: 无
+    thermal: 嵌入式全封闭
+    cmf:
+      color: 深黑（近墨黑）
+      material: 深黑拉丝金属门板 + 黑色玻璃窗 + 黑色金属把手
+      finish: 拉丝哑光深黑金属（门板主体） + 高光黑玻璃（窗口）
+    mounting: 嵌入式
+    signature_detail: 大面积拉丝金属门板 + 小玻璃窗的比例反转——传统烤箱大窗小框，此款大框小窗，强调金属质感
+  design_level:
+    score: 4
+    reason: 大框小窗的比例反转是明显的设计主张，拉丝黑金属质感高级；但品牌未识别，功能信息不足
+  design_tags:
+  - 嵌入式
+  - 拉丝黑
+  - 比例反转
+  - 小玻璃窗
+  - 极简
+  - 金属质感
+  hero_feature: 大面积拉丝黑金属门板+小玻璃窗，颠覆烤箱'门主要是玻璃'的惯例
+  problem_solved: 用金属门板为主的设计强化厨电的工业/专业质感，区别于家用感的大玻璃窗
+  transferable_technique: 大框小窗比例策略可迁移至任何需要强调材质而非透视感的厨电设计
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: true
+  review_reason: 品牌标识不可见，无法确认品牌

@@ -1,0 +1,339 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 轨道灯
+  tertiary: 轨道灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/轨道灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_轨道灯_001
+  source_images:
+  - filename: 13.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/轨道灯/13.jpg
+    image_role: hero
+    visual_anchor: 银色圆筒轨道射灯带U形支架，前端大透镜斜向展示。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 轨道灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 银色圆筒轨道射灯带U形支架，前端大透镜斜向展示
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 轨道
+  - 轨道灯
+  - 逐张视觉识别
+  hero_feature: 银色圆筒轨道射灯带U形支架，前端大透镜斜向展示
+  problem_solved: 定向灯具需要精准控光和灵活调节，同时保持轨道或灯头系统整洁。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_轨道灯_002
+  source_images:
+  - filename: 14.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/轨道灯/14.jpg
+    image_role: hero
+    visual_anchor: 黑色轨道下挂小射灯、球形吊灯和发光软线，形成混合轨道系统。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 轨道灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 黑色轨道下挂小射灯、球形吊灯和发光软线，形成混合轨道系统
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 球形
+  - 轨道
+  - 轨道灯
+  - 逐张视觉识别
+  hero_feature: 黑色轨道下挂小射灯、球形吊灯和发光软线，形成混合轨道系统
+  problem_solved: 定向灯具需要精准控光和灵活调节，同时保持轨道或灯头系统整洁。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_轨道灯_003
+  source_images:
+  - filename: 55.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/轨道灯/55.jpg
+    image_role: hero
+    visual_anchor: 黑色细轨横跨空间，多个小射灯和线性吊件通过吊杆定位。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 轨道灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色细轨横跨空间，多个小射灯和线性吊件通过吊杆定位
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 线性
+  - 轨道灯
+  - 逐张视觉识别
+  hero_feature: 黑色细轨横跨空间，多个小射灯和线性吊件通过吊杆定位
+  problem_solved: 定向灯具需要精准控光和灵活调节，同时保持轨道或灯头系统整洁。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_轨道灯_004
+  source_images:
+  - filename: 59.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/轨道灯/59.jpg
+    image_role: hero
+    visual_anchor: 黑色斜向轨道与白色弧形发光带交叉，端部下挂小圆筒灯。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 轨道灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色斜向轨道与白色弧形发光带交叉，端部下挂小圆筒灯
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 轨道
+  - 轨道灯
+  - 逐张视觉识别
+  hero_feature: 黑色斜向轨道与白色弧形发光带交叉，端部下挂小圆筒灯
+  problem_solved: 定向灯具需要精准控光和灵活调节，同时保持轨道或灯头系统整洁。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_轨道灯_005
+  source_images:
+  - filename: 60.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/轨道灯/60.jpg
+    image_role: hero
+    visual_anchor: 白色粗弧形发光带接入黑色轨道，轨道下方悬挂铜色小筒灯。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 轨道灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 白色粗弧形发光带接入黑色轨道，轨道下方悬挂铜色小筒灯
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 轨道
+  - 轨道灯
+  - 逐张视觉识别
+  hero_feature: 白色粗弧形发光带接入黑色轨道，轨道下方悬挂铜色小筒灯
+  problem_solved: 定向灯具需要精准控光和灵活调节，同时保持轨道或灯头系统整洁。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_轨道灯_006
+  source_images:
+  - filename: 68.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/轨道灯/68.jpg
+    image_role: hero
+    visual_anchor: 天花黑色弯曲轨道环绕布置，柔性光带和小射灯混合成系统。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 轨道灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 天花黑色弯曲轨道环绕布置，柔性光带和小射灯混合成系统
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 轨道
+  - 轨道灯
+  - 逐张视觉识别
+  hero_feature: 天花黑色弯曲轨道环绕布置，柔性光带和小射灯混合成系统
+  problem_solved: 定向灯具需要精准控光和灵活调节，同时保持轨道或灯头系统整洁。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_轨道灯_007
+  source_images:
+  - filename: 73.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/轨道灯/73.jpg
+    image_role: hero
+    visual_anchor: 黑色矩形轨道吊架下挂多只锥形吊灯和小射灯，形成餐桌上方网格。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 轨道灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 黑色矩形轨道吊架下挂多只锥形吊灯和小射灯，形成餐桌上方网格
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 轨道
+  - 轨道灯
+  - 逐张视觉识别
+  hero_feature: 黑色矩形轨道吊架下挂多只锥形吊灯和小射灯，形成餐桌上方网格
+  problem_solved: 定向灯具需要精准控光和灵活调节，同时保持轨道或灯头系统整洁。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_轨道灯_008
+  source_images:
+  - filename: 74.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/轨道灯/74.jpg
+    image_role: hero
+    visual_anchor: 黑色轨道上并列白黑圆筒射灯，灯头通过短支架垂直下挂。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 轨道灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 黑色轨道上并列白黑圆筒射灯，灯头通过短支架垂直下挂
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 轨道
+  - 轨道灯
+  - 逐张视觉识别
+  hero_feature: 黑色轨道上并列白黑圆筒射灯，灯头通过短支架垂直下挂
+  problem_solved: 定向灯具需要精准控光和灵活调节，同时保持轨道或灯头系统整洁。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

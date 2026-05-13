@@ -1,0 +1,44 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "显示器"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/显示器/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "samsung_monitor_001"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/显示器/13.jpg"
+        image_role: "hero"
+        visual_anchor: "超宽曲面屏正面全视图，双弧形长轴延伸至画面两侧，单一中央立柱底座"
+    product_name: "Samsung Odyssey Neo G9 超宽曲面电竞显示器"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "显示器"]
+    design_language:
+      silhouette: "57英寸双QHD超宽曲面，1000R曲率；横向长宽比约32:9，水平延伸感极强"
+      light_opening: "超宽曲面屏，边框极窄（约4mm）；屏幕左右两端背面各有RGB灯带装饰"
+      thermal: "背板中部凸起散热通道，中央立柱内藏走线"
+      cmf:
+        color: "屏框哑光深灰黑，底座深空灰金属色，背板点缀蓝色RGB灯带"
+        material: "铝合金底座立柱，ABS工程塑料背板"
+        finish: "哑光喷砂金属底座，磨砂黑屏框，背板局部亮面装饰"
+      mounting: "单立柱T型底座，支持俯仰调节；VESA挂架兼容"
+      signature_detail: "背板两侧蓝色Infinity Core RGB灯带，开机亮灯后成为视觉焦点"
+    design_level:
+      score: 4
+      reason: "超宽曲面比例极具视觉冲击力，背板RGB灯带与游戏场景高度契合；底座极简与屏体张力形成强对比；产品辨识度极高"
+    design_tags: ["超宽曲面", "电竞", "RGB灯带", "极窄边框", "单立柱底座", "沉浸感"]
+    hero_feature: "57英寸1000R超宽曲面屏+背板Infinity Core RGB灯带，形成沉浸式弧形包围感"
+    problem_solved: "多显示器拼接的接缝感与视野不连续问题，单屏实现双屏工作区"
+    transferable_technique: "超宽比例+背面RGB氛围灯的组合——前方功能性与后方氛围性分离的视觉设计逻辑，可迁移至其他大尺寸家用/专业显示设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

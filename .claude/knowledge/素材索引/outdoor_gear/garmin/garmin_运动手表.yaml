@@ -1,0 +1,694 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "户外装备"
+  secondary: "运动手表"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "garmin_watch_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/01.jpg"
+        image_role: "hero"
+        visual_anchor: "钛合金多面切削表圈配橙色硅胶表带，表盘信息密度极高"
+      - filename: "16.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/16.jpg"
+        image_role: "angle"
+        visual_anchor: "3/4侧视角展现表壳厚度与表冠侧键排布"
+    product_name: "Fenix 8 Titanium"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "大直径（约51mm）圆形表壳，表圈多面切削呈现多边形轮廓，侧边有5枚功能键"
+      light_opening: "圆形AMOLED表盘，占表壳内径约85%，显示多组运动数据小部件"
+      thermal: ""
+      cmf:
+        color: "钛金属银 + 橙色"
+        material: "钛合金表壳，硅胶表带"
+        finish: "表壳拉丝钛金属，表圈切削面局部镜面"
+      mounting: "快拆硅胶表带，26mm标准接口"
+      signature_detail: "多面切削钛合金表圈+侧边5枚带标注的功能键"
+    design_level:
+      score: 5
+      reason: "旗舰户外表，钛金属工艺精良，功能键布局清晰专业，表盘信息层次丰富"
+    design_tags: ["户外旗舰", "钛合金", "多键操控", "大表盘", "AMOLED", "fenix系列"]
+    hero_feature: "多面切削钛合金表圈与侧边功能键集成，兼具精密仪器感与户外耐用性"
+    problem_solved: "专业户外运动者需要一块能在极端环境中稳定使用、信息读取清晰的高端运动表"
+    transferable_technique: "多面切削表圈处理手法可迁移至需要精密感的户外产品外壳设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/02.jpg"
+        image_role: "hero"
+        visual_anchor: "超薄细窄银色表圈，薰衣草紫硅胶表带，极简正面"
+      - filename: "26_dup2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/26_dup2.jpg"
+        image_role: "angle"
+        visual_anchor: "3/4侧角展示表壳薄度与右侧单键设计"
+    product_name: "Venu 3"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "中等直径（约45mm）圆形表壳，表圈极细，整体轮廓接近纯圆，轻薄感强"
+      light_opening: "圆形AMOLED表盘，占比极高约90%，黑底紫色渐变数字UI"
+      thermal: ""
+      cmf:
+        color: "银色 + 薰衣草紫"
+        material: "不锈钢表圈，硅胶表带"
+        finish: "表圈镜面抛光，表带哑光"
+      mounting: "快拆硅胶表带，20mm标准接口，右侧单物理键"
+      signature_detail: "极细表圈使表盘视觉占比最大化，侧面仅一枚按键"
+    design_level:
+      score: 3
+      reason: "时尚运动定位，设计克制优雅，表圈极简处理有辨识度"
+    design_tags: ["时尚运动", "极简表圈", "AMOLED", "轻薄", "venu系列", "女性向"]
+    hero_feature: "极细镜面表圈+大占比圆形AMOLED屏，最大化屏幕存在感"
+    problem_solved: "追求时尚外观同时需要全面健康监测的都市运动用户"
+    transferable_technique: "极细表圈设计语言可迁移至消费电子产品的屏幕边框缩减设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/03.jpg"
+        image_role: "hero"
+        visual_anchor: "石墨黑机身配黄绿色表盘UI，侧面按键标注密集呈战术感"
+      - filename: "21.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/21.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "户外岩石场景双色版本对比宣传图"
+      - filename: "23.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/23.jpg"
+        image_role: "front"
+        visual_anchor: "正面特写，黄绿色分屏UI与侧键标注清晰呈现"
+    product_name: "Instinct 3"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "大直径（约50mm）圆形主表壳外套方形护角框架，四角凸出形成护角结构"
+      light_opening: "圆形MIP/AMOLED混合表盘，黑底黄绿色高对比度UI，主时间数字极大"
+      thermal: ""
+      cmf:
+        color: "石墨黑 + 黄绿色点缀"
+        material: "强化聚合物表壳，硅胶表带"
+        finish: "哑光黑色，按键局部纹理防滑"
+      mounting: "一体式硅胶表带，侧面6枚带文字标注功能键"
+      signature_detail: "圆形表壳外嵌方形护角框架，侧面功能键均有文字标注（CTRL/MENU/ABC等）"
+    design_level:
+      score: 4
+      reason: "标志性双层结构（圆形+方形护角）辨识度极高，功能键标注系统完整，户外耐用语义强"
+    design_tags: ["户外耐用", "双层护角", "战术感", "高对比度UI", "instinct系列", "功能键标注"]
+    hero_feature: "圆形表壳嵌入方形护角框架的双层结构，兼具视觉辨识度与实体防护功能"
+    problem_solved: "极限户外运动者需要抗冲击、可快速操作且易读性强的专业运动表"
+    transferable_technique: "内圆外方的双层保护框架结构可迁移至户外手持设备的防护外壳设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_004"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/07.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑DLC涂层表壳+黑色皮纹表带，战术迷彩UI风格"
+    product_name: "Tactix 8"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "大直径（约51mm）圆形表壳，多面切削表圈与Fenix同框架，整体全黑无高光"
+      light_opening: "圆形AMOLED表盘，黑底迷彩纹+黄色数字战术UI风格"
+      thermal: ""
+      cmf:
+        color: "全黑 DLC"
+        material: "钛合金表壳+DLC涂层，皮纹硅胶表带"
+        finish: "DLC全哑光黑，表带细密皮纹压花"
+      mounting: "快拆皮纹硅胶表带，26mm，侧面5枚功能键"
+      signature_detail: "全黑DLC涂层消除所有反光，战术迷彩数字盘面"
+    design_level:
+      score: 4
+      reason: "战术定位鲜明，全黑DLC消除所有反光的处理极具专业感，与Fenix共平台但气质截然不同"
+    design_tags: ["战术", "DLC涂层", "全黑", "军用风", "tactix系列", "特种部队"]
+    hero_feature: "全黑DLC涂层+战术迷彩UI，将户外表从专业运动推向军事战术场景"
+    problem_solved: "需要低可视度（无反光）且功能完整的特种/战术作业人员用表"
+    transferable_technique: "DLC全哑光处理手法可迁移至需要低可见度的专业户外装备涂层方案"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_005"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/08.jpg"
+        image_role: "hero"
+        visual_anchor: "矩形设备搭载三脚架，黑色机身+矩形LCD屏，显示弹速数据"
+    product_name: "Xero C1 Pro"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "矩形盒型机身，顶部圆形传感器开口，底部集成三脚架握把"
+      light_opening: "矩形LCD屏幕，黑白高对比度显示，无色彩"
+      thermal: ""
+      cmf:
+        color: "深灰黑色"
+        material: "聚合物工程塑料，橡胶握把"
+        finish: "哑光深灰，握把细纹防滑"
+      mounting: "独立三脚架式底座，非腕戴设备"
+      signature_detail: "顶部圆形弹速传感器开口+前置LCD屏幕的仪器化设计"
+    design_level:
+      score: 3
+      reason: "功能性工业设计，清晰实用，但缺乏独特视觉语言"
+    design_tags: ["弹道仪器", "测速设备", "工业设计", "非手表", "xero系列"]
+    hero_feature: "顶部圆形开口传感器与矩形机身的对比形态，强烈仪器感"
+    problem_solved: "射击运动者需要精确测量弹速的专业弹道计时器"
+    transferable_technique: "功能开口（传感器口）与显示界面的前后面分离布局可迁移至专业仪器设计"
+    confidence:
+      visual_description: "high"
+      category: "low"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "该产品为Garmin Xero C1 Pro弹道计时仪，不属于运动手表品类，建议移至其他品类文件夹"
+
+  - product_id: "garmin_watch_006"
+    source_images:
+      - filename: "08_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/08_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "碳灰色表壳配黑色尼龙编织表带，黄绿色点缀键，表盘显示ENDURO字样"
+    product_name: "Enduro 3"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "大直径（约51mm）圆形表壳，表圈较厚，整体轮廓浑厚，侧面5枚功能键"
+      light_opening: "圆形AMOLED表盘，黑底黄绿色UI，仪表盘式数据布局"
+      thermal: ""
+      cmf:
+        color: "碳灰色 + 黄绿色"
+        material: "碳纤维增强聚合物表壳，尼龙编织表带"
+        finish: "表壳哑光碳色，表带编织纹理"
+      mounting: "快拆尼龙编织表带，26mm，黄绿色快拆键点缀"
+      signature_detail: "碳纤维工程材质表壳+尼龙编织表带组合，轻量耐用双目标"
+    design_level:
+      score: 4
+      reason: "超长续航定位旗舰，碳纤维材质与编织表带的材料组合有明显差异化，黄绿点缀提升辨识度"
+    design_tags: ["超长续航", "碳纤维", "编织表带", "超级马拉松", "enduro系列", "轻量化"]
+    hero_feature: "碳纤维聚合物表壳搭配尼龙编织表带，以材料语言传达极致轻量耐用定位"
+    problem_solved: "超级马拉松/超长距离耐力运动者需要超长续航且轻量耐用的专业表"
+    transferable_technique: "碳纤维聚合物与编织软质材料的对比材料组合手法可迁移至户外轻量装备设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/09.jpg"
+        image_role: "hero"
+        visual_anchor: "白色表壳配白色多孔硅胶表带，侧面功能键低调融入表壳"
+    product_name: "Forerunner 165"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "中等直径（约43mm）圆形表壳，表圈较薄，整体轻巧，侧面5枚功能键"
+      light_opening: "圆形AMOLED表盘，黑底浅蓝弧线UI，数字清晰大方"
+      thermal: ""
+      cmf:
+        color: "白色/雾白"
+        material: "聚合物表壳，多孔硅胶表带"
+        finish: "表壳哑光白，表带多孔透气纹"
+      mounting: "一体多孔硅胶表带，20mm，侧面5枚功能键低调无标注"
+      signature_detail: "表带多孔透气孔设计+表壳与表带同色系处理"
+    design_level:
+      score: 3
+      reason: "入门跑步表，设计简洁实用，无突出记忆点，但同色系处理统一感好"
+    design_tags: ["跑步入门", "轻量", "同色系", "透气表带", "forerunner系列"]
+    hero_feature: "同色系表壳与多孔表带的统一设计，轻盈运动感"
+    problem_solved: "跑步入门用户需要轻量易用、AMOLED清晰可读的GPS跑步表"
+    transferable_technique: "多孔透气硅胶表带的孔位排列与形态可迁移至运动产品透气结构设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_008"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/10.jpg"
+        image_role: "hero"
+        visual_anchor: "琥珀黄+橄榄绿双色版并排宣传图，双层护角框架与黄绿色Solar标识"
+    product_name: "Instinct 3 Solar"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "圆形表壳嵌方形护角双层结构，与Instinct 3同框架，外圈设有Solar充电环区域"
+      light_opening: "圆形MIP表盘，黑底黄绿高对比色UI，主时间数字极大"
+      thermal: ""
+      cmf:
+        color: "琥珀黄/橄榄绿（双版本）"
+        material: "强化聚合物表壳，硅胶表带"
+        finish: "哑光色彩表壳，表带配色一体"
+      mounting: "一体式硅胶表带，侧面6枚标注功能键，表圈外圈Solar充电带"
+      signature_detail: "表盘外圈半透明Solar充电环，'SOLAR'标识可见"
+    design_level:
+      score: 3
+      reason: "Solar功能通过表盘外圈半透明环可视化，设计语言延续Instinct，色彩版本有明确差异化"
+    design_tags: ["太阳能充电", "Solar环", "双层护角", "户外耐用", "instinct系列", "长续航"]
+    hero_feature: "表盘外圈半透明Solar充电环将太阳能功能可视化，功能即设计"
+    problem_solved: "需要在无充电条件下长期使用运动表的探险用户"
+    transferable_technique: "功能区域半透明可视化手法（Solar环）可迁移至能量/状态显示的产品设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_009"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/13.jpg"
+        image_role: "hero"
+        visual_anchor: "琥珀黄色表圈+棕色硅胶表带，模拟指针与数字混合表盘"
+    product_name: "Instinct Crossover"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "大直径（约50mm）圆形表壳外套方形护角，与Instinct系列同框架，但新增模拟指针"
+      light_opening: "圆形表盘，模拟时针+分针叠加数字显示窗口，黑底+橙色指针"
+      thermal: ""
+      cmf:
+        color: "琥珀黄 + 青铜棕"
+        material: "聚合物表壳，硅胶表带"
+        finish: "表圈哑光琥珀黄，表带哑光深棕"
+      mounting: "一体式硅胶表带，侧面6枚功能键，26mm"
+      signature_detail: "模拟指针+数字显示窗口的混合表盘，传统与数字融合"
+    design_level:
+      score: 3
+      reason: "混合表盘（模拟+数字）是Crossover系列的核心差异，配色独特，但框架与Instinct高度相似"
+    design_tags: ["混合表盘", "模拟指针", "crossover", "instinct系列", "传统与数字融合"]
+    hero_feature: "模拟指针与数字显示窗口叠加的混合表盘，传统腕表美学与智能功能并存"
+    problem_solved: "偏好传统表盘审美但需要智能运动功能的用户"
+    transferable_technique: "模拟与数字元素叠加的混合显示手法可迁移至仪表/控制面板的复合信息显示设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_010"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/15.jpg"
+        image_role: "hero"
+        visual_anchor: "沙漠卡其色表圈+同色硅胶表带，全机同色系的战术沙漠配色"
+    product_name: "Instinct 3 Desert Tan"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "圆形表壳嵌方形护角双层结构，与Instinct 3同框架"
+      light_opening: "圆形AMOLED表盘，黄绿色高对比度UI"
+      thermal: ""
+      cmf:
+        color: "沙漠卡其/Desert Tan"
+        material: "强化聚合物表壳，硅胶表带"
+        finish: "全机哑光卡其色，护角与表带深黑色对比"
+      mounting: "一体式硅胶表带，侧面6枚功能键"
+      signature_detail: "全机沙漠卡其色调+深色护角的双色对比，战术沙漠配色方案"
+    design_level:
+      score: 3
+      reason: "配色方案精准对应沙漠/战术使用场景，与标准黑色版形成明确区隔"
+    design_tags: ["战术", "沙漠配色", "instinct系列", "场景化配色", "户外"]
+    hero_feature: "沙漠卡其全机同色系配色+深色护角对比，配色即场景定位"
+    problem_solved: "沙漠/干旱地形作业或偏好低调战术审美的运动用户"
+    transferable_technique: "场景化配色方案（产品色彩与使用环境高度匹配）可迁移至户外装备的配色策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_011"
+    source_images:
+      - filename: "13_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/13_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "白色表壳+白底黄绿色UI表盘，正面完整展示"
+      - filename: "27.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/27.jpg"
+        image_role: "angle"
+        visual_anchor: "3/4侧角，白色+黄绿双色拼接硅胶表带清晰展现"
+    product_name: "Forerunner 965"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "大直径（约47mm）圆形表壳，表圈较薄，侧面5枚功能键标注LIGHT/UP/DOWN等"
+      light_opening: "圆形AMOLED表盘，黑底左侧白色+右侧黄绿栅格双分屏布局，视觉冲击强"
+      thermal: ""
+      cmf:
+        color: "白色 + 黄绿色"
+        material: "聚合物表壳，双色硅胶表带"
+        finish: "表壳哑光白/银，表带白色+黄绿双色拼接"
+      mounting: "快拆双色硅胶表带，22mm，侧面5枚功能键"
+      signature_detail: "双色拼接表带+表盘左右双分屏布局，运动能量感强"
+    design_level:
+      score: 4
+      reason: "表盘双分屏布局独特，白+黄绿配色在跑步市场辨识度高，与Nike联名风格接近"
+    design_tags: ["跑步旗舰", "双分屏UI", "双色表带", "forerunner系列", "高能量配色"]
+    hero_feature: "表盘左黑右黄绿栅格双分屏布局+双色拼接表带，运动能量感爆棚"
+    problem_solved: "认真跑步用户需要一块数据详尽、外观醒目、上跑道不失体面的专业跑步表"
+    transferable_technique: "屏幕/界面分区配色（左右分屏）手法可迁移至运动产品的信息区划设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_012"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/18.jpg"
+        image_role: "hero"
+        visual_anchor: "钛合金表壳配棕色真皮+黑橡胶混搭表带，航空仪表盘UI"
+    product_name: "MARQ Adventurer"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "大直径（约46mm）圆形表壳，表圈宽且带NW/N/NE等方位刻度，航空仪表感强"
+      light_opening: "圆形AMOLED表盘，多表盘式布局，模拟指针+数字+罗盘三层叠加，橙色强调色"
+      thermal: ""
+      cmf:
+        color: "钛金属银 + 棕色"
+        material: "钛合金表壳，真皮+橡胶混搭表带"
+        finish: "表壳拉丝钛金属，表带头层皮料+黑橡胶衬底"
+      mounting: "快拆混搭表带（皮革面+橡胶底），22mm，侧面带刻度表圈可旋转"
+      signature_detail: "真皮+橡胶双材质混搭表带+带方位刻度的宽表圈"
+    design_level:
+      score: 5
+      reason: "奢华户外旗舰，材质工艺最高，航空仪表UI独树一帜，皮革+橡胶混搭表带兼顾正式与运动"
+    design_tags: ["奢华户外", "钛合金", "真皮表带", "航空仪表UI", "MARQ系列", "顶级工艺"]
+    hero_feature: "真皮+橡胶双材质混搭表带搭配方位刻度表圈，将冒险探索精神融入奢华腕表语言"
+    problem_solved: "高净值户外爱好者需要一块在商务场合和极限探险都能佩戴的顶级运动表"
+    transferable_technique: "双材质混搭表带（正式材料+功能材料）的设计手法可迁移至高端户外装备的材质搭配"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_013"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/19.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑DLC表壳配棕色真皮表带，航空多表盘UI含罗盘玫瑰图"
+    product_name: "D2 Mach 2 Pro"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "大直径（约51mm）圆形表壳，表圈宽带刻度，多侧键，整体厚重航空仪器感"
+      light_opening: "圆形AMOLED表盘，飞行仪表多表盘布局，含罗盘玫瑰图/高度计/航班信息"
+      thermal: ""
+      cmf:
+        color: "全黑DLC + 棕色"
+        material: "钛合金DLC表壳，真皮表带"
+        finish: "表壳DLC全哑光黑，表带头层皮革暖棕色"
+      mounting: "快拆真皮表带，26mm，蓝色侧键点缀"
+      signature_detail: "飞行员专用多表盘UI（罗盘玫瑰+气压高度+航班数据）+全黑DLC与暖棕皮革的冷暖对比"
+    design_level:
+      score: 5
+      reason: "飞行员表定位精准，DLC黑钛+真皮的冷暖对比极具辨识度，UI信息架构专业度最高"
+    design_tags: ["飞行员表", "DLC涂层", "真皮表带", "航空UI", "D2系列", "冷暖对比"]
+    hero_feature: "飞行员专用多表盘UI与DLC黑钛+暖棕真皮的冷暖材质对比，顶级飞行仪器感"
+    problem_solved: "飞行员/航空爱好者需要一块能显示飞行数据、配戴舒适且足够专业的航空运动表"
+    transferable_technique: "冷色调坚硬材料（DLC黑钛）与暖色调柔软材料（棕色皮革）的对比组合可迁移至高端专业设备设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_014"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/20.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "深色Fenix系列表款正面特写，LiveTrack运动追踪UI界面，环境光晕背景"
+    product_name: "Fenix 8 (DLC Carbon Gray)"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "大直径圆形表壳，多面切削表圈，右侧红色功能键点缀，与Fenix 8同平台不同配色"
+      light_opening: "圆形AMOLED表盘，白底分区数据UI，DISTANCE/PACE/心率并列显示"
+      thermal: ""
+      cmf:
+        color: "碳灰黑 + 红色点缀"
+        material: "碳强化聚合物或钛合金表壳，黑色硅胶表带"
+        finish: "表壳哑光深灰，红色侧键功能键对比"
+      mounting: "快拆黑色硅胶表带，26mm"
+      signature_detail: "红色侧键点缀在全黑机身上形成强烈视觉跳跃"
+    design_level:
+      score: 3
+      reason: "功能展示图重点在UI而非外观，红色点缀细节有辨识度，但整体设计与001高度相似"
+    design_tags: ["户外旗舰", "fenix系列", "红色点缀", "LiveTrack", "运动追踪"]
+    hero_feature: "全深色机身中红色侧键的跳色点缀，在视觉克制的产品上制造唯一焦点"
+    problem_solved: "长距离耐力运动者需要实时分享位置与运动数据给他人的安全追踪功能"
+    transferable_technique: "单一跳色键在全色系产品上的点缀手法可迁移至操控设备的关键功能键强调设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_015"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/24.jpg"
+        image_role: "hero"
+        visual_anchor: "玫瑰粉硅胶表带配香槟金表圈，粉红渐变数字UI"
+    product_name: "Venu 3 Rose"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "中等直径（约45mm）圆形表壳，极细表圈，轮廓接近纯圆，整体轻薄"
+      light_opening: "圆形AMOLED表盘，黑底粉红渐变大数字，精致弧线装饰元素"
+      thermal: ""
+      cmf:
+        color: "玫瑰粉 + 香槟金"
+        material: "铝合金表圈，硅胶表带"
+        finish: "表圈香槟金PVD镀层，表带哑光玫瑰粉"
+      mounting: "快拆硅胶表带，20mm，右侧单金色按键"
+      signature_detail: "香槟金PVD表圈+玫瑰粉表带的时尚配色，接近轻奢腕表审美"
+    design_level:
+      score: 3
+      reason: "女性时尚定位明确，金色表圈工艺提升了产品调性，配色组合协调"
+    design_tags: ["女性向", "时尚运动", "香槟金", "玫瑰粉", "venu系列", "轻奢"]
+    hero_feature: "香槟金PVD表圈与玫瑰粉表带的轻奢配色组合，将运动表带入时尚腕表领域"
+    problem_solved: "注重外观时尚的女性用户需要一块既好看又有完整健康监测功能的运动表"
+    transferable_technique: "PVD金色表圈+粉色软材料表带的轻奢配色手法可迁移至女性向消费电子产品设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_016"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/25.jpg"
+        image_role: "hero"
+        visual_anchor: "香槟金小尺寸表壳配浅灰硅胶表带，Fenix系列小号版本"
+    product_name: "Fenix 8s"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "中小直径（约43mm）圆形表壳，多面切削表圈，与Fenix 8同设计语言但更小尺寸"
+      light_opening: "圆形AMOLED表盘，蓝底多小部件数据布局，占比约85%"
+      thermal: ""
+      cmf:
+        color: "香槟金 + 浅灰/米色"
+        material: "钛合金表壳，硅胶表带"
+        finish: "表壳香槟金拉丝，表带浅灰哑光"
+      mounting: "快拆硅胶表带，20mm，侧面5枚功能键"
+      signature_detail: "香槟金多面切削表圈在较小尺寸上保持了Fenix旗舰语言的精致感"
+    design_level:
+      score: 4
+      reason: "将旗舰Fenix设计语言缩小适配手腕较细用户，配色精准面向女性户外市场"
+    design_tags: ["fenix系列", "小尺寸旗舰", "香槟金", "女性户外", "钛合金", "多面切削"]
+    hero_feature: "Fenix旗舰多面切削钛表圈在43mm小尺寸上的完整还原，小而不妥协"
+    problem_solved: "手腕较细但需要Fenix全功能的女性户外用户"
+    transferable_technique: "大尺寸旗舰产品的设计语言向小尺寸版本无损迁移的比例调整手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_017"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/26.jpg"
+        image_role: "hero"
+        visual_anchor: "深钛银表壳配海军蓝硅胶表带，红色侧键，航海表盘模拟指针UI"
+    product_name: "Quatix 7 Pro"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "大直径（约47mm）圆形表壳，多面切削表圈，与Fenix框架相同，右侧红色侧键明显"
+      light_opening: "圆形AMOLED表盘，黑底模拟指针+数字混合UI，红色指针强调色"
+      thermal: ""
+      cmf:
+        color: "钛银灰 + 海军蓝 + 红色点缀"
+        material: "钛合金表壳，硅胶表带"
+        finish: "表壳拉丝钛金属，表带哑光海军蓝，红色侧键"
+      mounting: "快拆硅胶表带，22mm，右侧红色功能键"
+      signature_detail: "海军蓝+红色侧键+模拟指针UI的航海配色三角"
+    design_level:
+      score: 4
+      reason: "航海定位配色精准（蓝+红+银），模拟指针UI有航海仪器感，红色侧键辨识度高"
+    design_tags: ["航海", "海军蓝", "模拟指针", "quatix系列", "水上运动", "红色点缀"]
+    hero_feature: "海军蓝表带+红色侧键+模拟指针UI构成的航海三元素配色系统"
+    problem_solved: "帆船/游艇运动者需要一块具有航海导航功能且配色符合航海文化的专业表"
+    transferable_technique: "用色彩三角（主色+辅色+点缀色）精准传达特定运动文化的配色手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_watch_018"
+    source_images:
+      - filename: "26_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/26_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "矩形通讯设备，顶部红色卫星天线，黑色机身，彩色触控屏显示消息界面"
+    product_name: "inReach Messenger"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "矩形手持通讯设备，顶部圆柱形天线突出，整体为厚实的矩形盒体"
+      light_opening: "矩形彩色触控屏，显示消息界面，有位置图钉图标"
+      thermal: ""
+      cmf:
+        color: "黑色 + 红色天线"
+        material: "聚合物工程塑料，橡胶包边"
+        finish: "哑光黑色机身，红色天线帽"
+      mounting: "手持设备，侧面实体按键，非腕戴"
+      signature_detail: "顶部红色卫星天线帽是紧急求救功能的视觉信号"
+    design_level:
+      score: 2
+      reason: "功能性设计，红色天线帽有救援语义，但整体造型较基础"
+    design_tags: ["卫星通讯", "紧急求救", "手持设备", "非手表", "inreach系列"]
+    hero_feature: "红色卫星天线帽的紧急求救视觉信号设计，颜色即功能语义"
+    problem_solved: "偏远地区探险者无手机信号时需要卫星双向通讯和紧急求救能力"
+    transferable_technique: "用特定颜色（红色）标记紧急/关键功能的语义色彩手法可迁移至安全设备设计"
+    confidence:
+      visual_description: "high"
+      category: "low"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "该产品为Garmin inReach Messenger卫星通讯器，不属于运动手表品类，建议移至其他品类文件夹"
+
+  - product_id: "garmin_watch_019"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/运动手表/28.jpg"
+        image_role: "hero"
+        visual_anchor: "方形表盘配香槟金铝壳+灰色尼龙编织表带，Apple Watch形态但Garmin语言"
+    product_name: "Vivoactive 5"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "运动手表"]
+    design_language:
+      silhouette: "方形（圆角矩形）表壳，与市场主流智能手表形态相同，四角大圆角，侧面2枚按键"
+      light_opening: "方形AMOLED表盘，金色渐变时间+圆形小部件，黑底温暖UI调性"
+      thermal: ""
+      cmf:
+        color: "香槟金 + 浅沙灰"
+        material: "铝合金表壳，尼龙编织表带"
+        finish: "表壳香槟金PVD阳极氧化，表带尼龙编织细纹"
+      mounting: "快拆尼龙编织表带，侧面2枚功能键+1枚数字表冠感觉"
+      signature_detail: "方形表盘+尼龙编织表带+香槟金表壳，Garmin产品线中最接近主流智能表审美"
+    design_level:
+      score: 3
+      reason: "设计向主流智能手表靠拢，Garmin特色弱化，香槟金材质有质感，尼龙表带提升舒适性"
+    design_tags: ["方形表盘", "智能手表", "尼龙编织", "香槟金", "vivoactive系列", "日常佩戴"]
+    hero_feature: "方形AMOLED+香槟金铝壳+尼龙编织表带，最贴近日常腕表审美的Garmin产品"
+    problem_solved: "日常使用需要智能手表体验但不需要专业户外功能的轻运动用户"
+    transferable_technique: "尼龙编织表带的细密纹理与金属表壳的精致感组合可迁移至日常消费电子配件设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

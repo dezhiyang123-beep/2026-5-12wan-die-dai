@@ -1,0 +1,123 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(ls *)",
+      "Bash(mkdir *)",
+      "Bash(cp *)",
+      "Bash(mv *)",
+      "Bash(rm *)",
+      "Bash(find *)",
+      "Bash(cat *)",
+      "Bash(echo *)",
+      "Bash(python*)",
+      "Bash(pip *)",
+      "Bash(curl *)",
+      "Bash(cd *)",
+      "Bash(touch *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(grep *)",
+      "Bash(wc *)",
+      "Bash(sort *)",
+      "Bash(xargs *)",
+      "Bash(wait)",
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "WebSearch",
+      "WebFetch",
+      "Agent",
+      "Skill",
+      "TaskCreate",
+      "TaskUpdate",
+      "TaskList",
+      "TaskGet",
+      "Bash(\"C:/Users/86139/AppData/Local/Programs/Python/Python312/python.exe\" -m py_compile \"C:/Users/86139/ai-projects/.claude/skills/scrape-images/scripts/scrape_images.py\")",
+      "Bash(rm 54.jpg 60.jpg 61.jpg)",
+      "Bash(mv 55.jpg \"../筒灯/75.jpg\")",
+      "Bash(mv 56.jpg \"../创意台灯/120.jpg\")",
+      "Bash(mv 57.jpg \"../创意台灯/121.jpg\")",
+      "Bash(mv 58.jpg \"../环形吊灯/24.jpg\")",
+      "Bash(mv 64.jpg \"../灯泡·光源/78.jpg\")",
+      "Bash(mv 65.jpg \"../射灯/122.jpg\")",
+      "Bash(rm 66.jpg 67.jpg 70.jpg 71.jpg 72.jpg 73.jpg)",
+      "Bash(mv 68.jpg \"../室内壁灯/73.jpg\")",
+      "Bash(rm -f \"02_品类设计全景学习.md\" \"03_三层需求与方向决策.md\")",
+      "Bash(mv \"04_迁移型灵感验证.md\" \"04_精准迁移.md\")",
+      "Bash(mv \"06_设计深化.md\" \"07_设计深化.md\")",
+      "Bash(mv \"07_效果图生成与迭代.md\" \"08_渲染控制与迭代.md\")",
+      "Bash(mv \"08_交付包装.md\" \"09_交付包装.md\")",
+      "Read(//c/Users/13968/Desktop/设计素材库//**)",
+      "Read(//mnt/c/Users/13968/Desktop/**)",
+      "Bash(node -e ':*)",
+      "Bash(node -e \"const yaml=require\\('js-yaml'\\); const fs=require\\('fs'\\); const d=yaml.load\\(fs.readFileSync\\('/c/Users/13968/ai-projects/.claude/knowledge/素材索引/lighting/louis_poulsen/lp_户外灯_A.yaml','utf8'\\)\\); console.log\\('OK, products:', d.products.length\\);\")",
+      "Bash(node -e \"const yaml=require\\('js-yaml'\\),fs=require\\('fs'\\); const d=yaml.load\\(fs.readFileSync\\('/c/Users/13968/ai-projects/.claude/knowledge/素材索引/lighting/louis_poulsen/lp_户外灯_B.yaml','utf8'\\)\\); console.log\\('产品数:',d.products.length\\); d.products.forEach\\(p=>console.log\\(p.product_id,'| score='+p.design_level.score,'|',p.product_name\\)\\)\")",
+      "Bash(node:*)",
+      "Bash(/d/python/python:*)",
+      "Bash(mkdir -p \"C:/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/__已移出\")",
+      "Bash(mv \"C:/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/46.jpg\" \"C:/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/__已移出/\")",
+      "Bash(cmd.exe:*)",
+      "Bash(read f:*)",
+      "Bash(mkdir -p \"C:/Users/13968/Desktop/渲染参考图\")",
+      "Bash(rm -f \"C:/Users/13968/Desktop/渲染参考图/\"*.jpg)",
+      "Bash(cp \"C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/08.jpg\" \"C:/Users/13968/Desktop/渲染参考图/C-05_骨架参考.jpg\")",
+      "Bash(cp \"C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/22.jpg\" \"C:/Users/13968/Desktop/渲染参考图/C-05_细节参考.jpg\")",
+      "Bash(cp \"C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/02.jpg\" \"C:/Users/13968/Desktop/渲染参考图/C-01_骨架参考.jpg\")",
+      "Bash(cp \"C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/壁灯/13.jpg\" \"C:/Users/13968/Desktop/渲染参考图/C-06_骨架参考.jpg\")",
+      "Bash(cp \"C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/户外壁灯/08.jpg\" \"C:/Users/13968/Desktop/渲染参考图/C-10_骨架参考.jpg\")",
+      "Bash(mkdir -p \"C:/Users/13968/Desktop/RAB_Review\")",
+      "Bash(cp \"C:/Users/13968/Desktop/渲染参考图/C-05迭代.png\" \"C:/Users/13968/Desktop/RAB_Review/C-05_檐口.png\")",
+      "Bash(cp \"C:/Users/13968/Desktop/渲染参考图/概念2.png\" \"C:/Users/13968/Desktop/RAB_Review/C-01_黑色独石.png\")",
+      "Bash(cp \"C:/Users/13968/Desktop/渲染参考图/C-06迭代.png\" \"C:/Users/13968/Desktop/RAB_Review/C-06_面纱.png\")",
+      "Bash(cp \"C:/Users/13968/Desktop/渲染参考图/概念4.png\" \"C:/Users/13968/Desktop/RAB_Review/C-10_尖劈.png\")",
+      "Bash(where python:*)",
+      "Bash(py --version)",
+      "Read(//c/Users/13968/Desktop/**)",
+      "Bash(mkdir -p \"C:/Users/13968/ai-projects/.claude/hooks\")",
+      "Bash(mkdir -p \"C:/Users/13968/ai-projects/.claude/memory/user\")",
+      "Bash(printf '{\"prompt\":\"太保守了这个方案不行\"}')",
+      "Bash(printf '{\"prompt\":\"\\\\u592a\\\\u4fdd\\\\u5b88\\\\u4e86\\\\u8fd9\\\\u4e2a\\\\u65b9\\\\u6848\\\\u4e0d\\\\u884c\"}')",
+      "Bash(printf '{\"prompt\":\"\\\\u8fd9\\\\u4e2a\\\\u597d\\\\uff0c\\\\u5c31\\\\u8fd9\\\\u4e2a\\\\u65b9\\\\u5411\"}')",
+      "Bash(printf '{\"prompt\":\"\\\\u4ee5\\\\u540e\\\\u6bcf\\\\u6b21\\\\u90fd\\\\u8981\\\\u5148\\\\u770b\\\\u7d20\\\\u6750\\\\u5e93\"}')",
+      "Bash(printf '{\"prompt\":\"\\\\u7ee7\\\\u7eed\"}')"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/d/python/python \"$CLAUDE_PROJECT_DIR/.claude/hooks/load_memory.py\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/d/python/python \"$CLAUDE_PROJECT_DIR/.claude/hooks/capture_memory.py\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/d/python/python \"$CLAUDE_PROJECT_DIR/.claude/hooks/extract_memory.py\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

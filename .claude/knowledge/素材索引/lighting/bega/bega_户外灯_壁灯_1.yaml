@@ -1,0 +1,543 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "壁灯"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "bega_户外_壁灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "同系列竖向矩形（左）与正方形（右）两种规格并排展示，深炭灰铸铝框架，四角外露圆头螺钉，白色棱纹漫射板"
+    product_name: "户外壁灯 矩形/方形系列（棱纹面板，角螺钉款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "矩形框架轮廓，竖版与方版两种比例；外框凸出于漫射板平面，形成明显边框层次"
+      light_opening: "正面全面积出光，白色棱纹/压纹PC或玻璃漫射板；全向散射，正前方主出光"
+      thermal: "铸铝框架本体兼作散热结构，无独立散热鳍片可见"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "铸铝框架 + 棱纹漫射板（PC或玻璃）"
+        finish: "细砂纹粉末喷涂"
+      mounting: "背板直接壁挂，框架四角外露圆头固定螺钉"
+      signature_detail: "四角外露圆头螺钉作为装饰性结构细节；棱纹漫射板增加光线柔化效果"
+    design_level:
+      score: 3
+      reason: "清晰的功能性工业美学，比例规整，细节克制；螺钉外露是刻意设计语言而非粗糙感；无强记忆点，属BEGA标准族群款"
+    design_tags:
+      - "矩形"
+      - "工业风"
+      - "外露螺钉"
+      - "棱纹漫射板"
+      - "系列展示"
+      - "双规格"
+    hero_feature: "外露角螺钉 + 棱纹漫射板组合，强调结构诚实的工业美学"
+    problem_solved: "户外通道/建筑立面的功能照明，IP等级保障全天候使用"
+    transferable_technique: "外露紧固件作为装饰语言；框架与漫射板的双层深度关系可迁移至其他产品壳体设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "同系列竖向矩形（左）与正方形（右）并排，深炭灰框架，漫射板四周有透明亚克力/玻璃边缘条，顶底角部圆弧导角更明显"
+    product_name: "户外壁灯 矩形/方形系列（透明边缘条款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "矩形框架轮廓，与002系列同族；顶底角部圆弧更柔和，无外露螺钉"
+      light_opening: "正面白色漫射板主出光；漫射板与框架之间有透明亚克力/玻璃边框条，形成微弱侧向光晕效果"
+      thermal: "铸铝框架散热，结构与002相似"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "铸铝框架 + 白色漫射板 + 透明亚克力/玻璃边缘框"
+        finish: "细砂纹粉末喷涂"
+      mounting: "背板直接壁挂，螺钉隐藏于内部"
+      signature_detail: "漫射板四周透明边框条，营造浮岛感，夜间发光时形成一圈光晕轮廓"
+    design_level:
+      score: 4
+      reason: "比002更精致：透明边缘条在夜间产生光晕轮廓，是功能与美学统一的设计亮点；整体更现代，细节完成度高"
+    design_tags:
+      - "矩形"
+      - "透明边框"
+      - "光晕轮廓"
+      - "现代简洁"
+      - "双规格"
+      - "浮岛感"
+    hero_feature: "漫射板四周透明边缘条，夜间形成发光轮廓线，使产品轮廓可视化"
+    problem_solved: "高端建筑立面的功能性与装饰性兼顾照明，夜间视觉辨识度强"
+    transferable_technique: "透明边框内嵌导光的方式可迁移至消费电子、家电面板设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "竖版矩形（左）与正方形（右）并排，深炭灰，顶部和底部有明显水平悬挑遮光板/挡板，漫射板有透明亚克力侧边"
+    product_name: "户外壁灯 矩形/方形系列（悬挑遮光板款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: '矩形主体，顶部和底部各有一块水平悬挑遮光板（canopy），使整体轮廓呈现出"夹层"结构感'
+      light_opening: "正面漫射板出光，遮光板控制垂直方向出光角度，减少眩光；侧面透明亚克力可见"
+      thermal: "顶部遮光板可能兼作防雨遮蔽，铸铝本体散热"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "铸铝框架 + 白色漫射板 + 透明亚克力侧边 + 铸铝遮光板"
+        finish: "细砂纹粉末喷涂"
+      mounting: "背板壁挂，遮光板悬挑于灯体两侧"
+      signature_detail: "顶底水平悬挑遮光板是强识别轮廓特征，同时提供防眩光与防雨保护"
+    design_level:
+      score: 4
+      reason: "遮光板设计在功能（防眩光、防雨）与造型（层次感强）之间做到统一，是典型的BEGA功能美学策略；比03更有层次感和建筑感"
+    design_tags:
+      - "矩形"
+      - "悬挑遮光板"
+      - "防眩光设计"
+      - "层次感"
+      - "建筑感"
+      - "双规格"
+    hero_feature: "顶底悬挑铸铝遮光板，功能防眩光同时成为最强造型识别点"
+    problem_solved: "建筑立面直接视线区域防眩光照明，遮光板同时防雨水进入"
+    transferable_technique: "悬挑遮光板作为造型元素+功能构件的双重角色设计手法，可迁移至工业灯具或建筑构件设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "横向矩形单灯，深炭灰，顶部明显水平悬挑遮光板，底部略薄遮光板，宽高比约2:1，透明侧边清晰可见"
+    product_name: "户外壁灯 横向矩形（悬挑遮光板单灯款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "宽扁横向矩形轮廓，顶部悬挑遮光板为造型主导元素；与04同族但为横版单灯"
+      light_opening: "正面白色漫射板全面积出光，横向宽光束；顶部遮光板控制上方溢光"
+      thermal: "铸铝框架本体散热，顶部遮光板兼作防雨庇护"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "铸铝框架 + 白色漫射板 + 透明亚克力侧边"
+        finish: "细砂纹粉末喷涂"
+      mounting: "背板壁挂，单体安装"
+      signature_detail: "顶部悬挑遮光板在横版比例上更显水平延伸感，强化建筑水平线条"
+    design_level:
+      score: 4
+      reason: "横版比例与悬挑遮光板结合，强调水平线条，建筑整合感强；单灯展示细节更清晰，是04族群的清晰单品代表"
+    design_tags:
+      - "横向矩形"
+      - "悬挑遮光板"
+      - "水平线条"
+      - "防眩光"
+      - "单灯"
+      - "建筑感"
+    hero_feature: "横版比例 + 悬挑遮光板，强化建筑立面水平线条感"
+    problem_solved: "门廊/通道水平延伸方向的防眩光照明"
+    transferable_technique: "横向比例遮光板设计强化建筑水平线条的方法，可用于门廊灯、路灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "正方形壁灯单灯，深炭灰，顶部金属横档可见BEGA logo，底部底座有三个小圆孔，透明亚克力边框内嵌白色漫射板"
+    product_name: "户外壁灯 方形（BEGA logo顶档款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "正方形轮廓，主体较薄；顶部有水平金属横档（有BEGA标识），底座有小通风/排水孔"
+      light_opening: "正面大面积白色漫射板出光，透明亚克力边框在夜间形成发光轮廓；全向散射"
+      thermal: "底座三孔可能为散热通风孔，铸铝本体散热"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "铸铝框架 + 白色漫射板 + 透明亚克力边框"
+        finish: "细砂纹粉末喷涂"
+      mounting: "背板壁挂，底座固定"
+      signature_detail: "顶部横档上的BEGA logo标识；底座三圆孔排列；透明边框发光轮廓"
+    design_level:
+      score: 4
+      reason: "透明边框轮廓发光 + 品牌logo整合于结构件，细节完成度高；正方形比例端正，整体克制而精致"
+    design_tags:
+      - "正方形"
+      - "BEGA logo"
+      - "透明边框"
+      - "发光轮廓"
+      - "单灯"
+      - "通风孔"
+    hero_feature: "透明亚克力边框夜间发光轮廓 + 顶档BEGA品牌标识整合"
+    problem_solved: "高端住宅/商业立面装饰性功能壁灯，品牌识别度强"
+    transferable_technique: "品牌logo整合至结构横档而非贴标的方式，提升产品高级感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "正方形壁灯，深炭灰，厚实的平面框面板，漫射板内嵌且明显凹入框架内，BEGA logo在顶部，底座有安装孔"
+    product_name: "户外壁灯 方形（厚框内嵌漫射板款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: '正方形，外轮廓为厚实平整的铸铝面板，漫射板明显内凹于框架中央，形成"画框中画"深度感'
+      light_opening: "内凹白色漫射板正面出光；内凹深度使光线有方向收束效果，减少侧向溢光"
+      thermal: "厚实铸铝面板提供良好散热质量"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "铸铝厚框面板 + 内嵌白色漫射板"
+        finish: "细砂纹粉末喷涂"
+      mounting: "背板壁挂，底座固定点"
+      signature_detail: "漫射板相对框架明显内凹，形成强烈的深度层次感和阴影；厚框本身作为主视觉元素"
+    design_level:
+      score: 4
+      reason: "厚框内凹手法制造强烈光影层次，比薄框版本更有雕塑感；简洁却有强视觉重量；是BEGA雕塑感设计策略的体现"
+    design_tags:
+      - "正方形"
+      - "厚框"
+      - "内凹漫射板"
+      - "深度层次"
+      - "雕塑感"
+      - "阴影设计"
+    hero_feature: "漫射板深度内凹于厚铸铝框，白天产生强烈阴影层次，夜间漫射板发光浮现"
+    problem_solved: "需要强建筑质感的立面照明，白天作为雕塑构件，夜间作为发光体"
+    transferable_technique: "内凹面板+厚框策略制造产品雕塑感，可迁移至家电面板、音箱、工业设备表面设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "横向矩形，深炭灰，开放式U形支架结构（上下横梁+左侧连接板），灯体浮悬于两横梁之间，左侧可见两个螺钉头，透明亚克力侧板清晰可见"
+    product_name: "户外壁灯 横向矩形（开放U形支架款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "横向矩形灯体由开放U形铸铝支架托举，灯体两端开放，可见透明亚克力侧板；整体结构轻盈"
+      light_opening: "正面白色漫射板主出光；透明亚克力侧面允许少量侧向出光；顶底开放可能有少量上下出光"
+      thermal: "开放式支架结构利于散热气流流通"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "铸铝U形支架 + 白色漫射板 + 透明亚克力侧板"
+        finish: "细砂纹粉末喷涂"
+      mounting: "左侧连接板壁挂，两颗外露螺钉固定"
+      signature_detail: "开放U形支架使灯体视觉上'浮'于支架中，结构透明度高；外露螺钉保持诚实结构语言"
+    design_level:
+      score: 4
+      reason: "开放U形支架赋予产品轻盈浮动感，与同族封闭框架款形成对比；结构逻辑清晰，侧面透明处理细腻，整体设计语言独特"
+    design_tags:
+      - "横向矩形"
+      - "U形支架"
+      - "开放结构"
+      - "轻盈感"
+      - "透明侧板"
+      - "外露螺钉"
+    hero_feature: "开放U形支架悬浮灯体，从侧面可见完整光学腔体结构"
+    problem_solved: "需要轻盈感和结构透明度的现代建筑立面照明"
+    transferable_technique: "U形支架悬浮结构手法，可迁移至消费电子底座、工业设备托架设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "正方形近立方体，拉丝不锈钢材质，L形U槽金属支架，顶部大悬挑平板盖，乳白磨砂立方体灯罩坐于支架中，无封闭背板"
+    product_name: "户外壁灯 方形（拉丝不锈钢悬挑盖款）"
+    brand_name: "BEGA"
+    brand_confidence: "medium"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "近似正方体；L形金属支架撑起顶部大悬挑平板盖，乳白磨砂立方灯罩悬于支架内；整体通透"
+      light_opening: "五面出光（正面、左面、右面、前后均可透光）；顶部遮光板阻挡向上溢光；开放底部允许向下出光"
+      thermal: "开放结构，散热良好；拉丝不锈钢支架具有良好导热性"
+      cmf:
+        color: "拉丝不锈钢银色"
+        material: "拉丝不锈钢支架 + 乳白磨砂玻璃/PC立方灯罩"
+        finish: "拉丝（hairline）处理不锈钢；磨砂乳白漫射罩"
+      mounting: "L形支架底部壁挂"
+      signature_detail: "顶部大悬挑平板盖 + 开放支架结构 + 拉丝不锈钢材质，三者共同构成与炭灰铸铝款完全不同的精密仪器感"
+    design_level:
+      score: 5
+      reason: "材质（拉丝不锈钢）、结构（悬挑盖+开放支架）、灯罩（磨砂立方）三要素高度协同；视觉重量轻但质感精密；是BEGA系列中最具设计识别度的款式之一"
+    design_tags:
+      - "不锈钢"
+      - "悬挑盖"
+      - "开放结构"
+      - "立方灯罩"
+      - "精密仪器感"
+      - "多面出光"
+      - "高档"
+    hero_feature: "拉丝不锈钢大悬挑平板盖 + 悬浮磨砂立方灯罩，精密仪器感强烈"
+    problem_solved: "高端建筑立面/精装庭院对精密感和材质品质的需求"
+    transferable_technique: "悬挑盖保护开放灯罩的结构逻辑；拉丝金属+磨砂白的CMF组合；可迁移至高端家居电器、精密仪器外壳设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "材质为拉丝不锈钢，与BEGA常见炭灰铸铝差异较大，需确认是否为BEGA产品或其他品牌混入"
+
+  - product_id: "bega_户外_壁灯_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形壁灯，深炭灰薄环形背框，大圆形乳白拱形漫射罩，整体接近半球，非常低调贴墙"
+    product_name: "户外壁灯 圆形（薄环框乳白拱罩款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "正圆轮廓，侧视近似半球；炭灰环形背框极薄，乳白漫射罩占整体视觉面积95%以上"
+      light_opening: "正面大圆形乳白漫射罩全面积出光，均匀散射；无方向性，接近氛围光"
+      thermal: "铸铝环框散热，结构简单"
+      cmf:
+        color: "深炭灰背框 + 乳白漫射罩"
+        material: "铸铝环框 + 乳白PC或玻璃漫射罩"
+        finish: "细砂纹粉末喷涂（背框）；磨砂乳白（漫射罩）"
+      mounting: "背板直接壁挂，贴墙安装"
+      signature_detail: "极简圆形造型，漫射罩占主导，背框几乎消隐；像一轮满月贴于墙面"
+    design_level:
+      score: 3
+      reason: "极简主义执行清晰，圆形比例干净；但设计语言相对通用，无强识别点；月亮意象隐含但不强烈"
+    design_tags:
+      - "圆形"
+      - "极简"
+      - "乳白漫射罩"
+      - "半球"
+      - "氛围光"
+      - "贴墙"
+    hero_feature: '大面积乳白漫射罩接近占满整个正面，极简圆形"满月"意象'
+    problem_solved: "需要柔和氛围光的庭院/通道壁灯，低调不扎眼"
+    transferable_technique: "极简圆形+大漫射罩设计，框架消隐手法；可迁移至浴室灯、夜灯等柔光产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_011"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形壁灯，深炭灰，比010更厚的圆形外框圈，BEGA logo在顶部，透明亚克力/玻璃边缘圈环绕乳白漫射板，底部三个小圆点"
+    product_name: "户外壁灯 圆形（厚框透明边圈BEGA logo款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "正圆轮廓，比010侧视厚度更大；炭灰圆框明显，框内有透明亚克力/玻璃环圈，中央乳白漫射板"
+      light_opening: "正面白色漫射板主出光；透明环圈在夜间形成发光圆环轮廓；底部三点可能为传感器或散热孔"
+      thermal: "较厚铸铝圆框提供散热质量"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "铸铝圆框 + 透明亚克力/玻璃环圈 + 乳白漫射板"
+        finish: "细砂纹粉末喷涂"
+      mounting: "背板壁挂"
+      signature_detail: "透明环圈夜间发光形成圆形光晕轮廓；顶部BEGA logo整合于结构框；底部三点传感器/排水孔"
+    design_level:
+      score: 4
+      reason: "透明边圈夜间发光圆环效果优雅；与方形款06形成圆形版本的呼应；品牌logo整合自然；三点底部细节精心"
+    design_tags:
+      - "圆形"
+      - "透明边圈"
+      - "发光轮廓"
+      - "BEGA logo"
+      - "圆环光晕"
+      - "厚框"
+    hero_feature: "透明亚克力环圈夜间发光形成圆形光晕轮廓线，强化圆形造型语言"
+    problem_solved: "建筑立面圆形发光轮廓装饰照明，夜间视觉辨识度强"
+    transferable_technique: "圆形透明边圈发光轮廓，可迁移至智能音箱、圆形家电面板设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_012"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形壁灯，深石墨灰，正面几乎纯圆形乳白平面漫射板，外框极细，侧视有明显厚度，整体像一个圆形扁平压缩体"
+    product_name: "户外壁灯 圆形（极薄边框平面漫射板款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "正圆，正面乳白漫射板面积最大化，金属外框极细；侧视有适当厚度但主视觉极平"
+      light_opening: "正面大面积乳白漫射板全面积出光，最大化光输出面积；无侧向出光"
+      thermal: "圆形铸铝外框散热"
+      cmf:
+        color: "深石墨灰（比炭灰更深更偏黑）"
+        material: "铸铝外框 + 乳白平面漫射板"
+        finish: "细砂纹粉末喷涂"
+      mounting: "背板壁挂"
+      signature_detail: "漫射板面积占比最大化设计，外框极细形成强烈'全面屏'感；平面漫射板无弧度，与010的拱形罩不同"
+    design_level:
+      score: 4
+      reason: "极细边框+全面积平面漫射板，视觉上最纯粹的圆形发光体；与智能手机全面屏设计哲学相似；深石墨灰色彩增加高级感"
+    design_tags:
+      - "圆形"
+      - "极细边框"
+      - "全面积漫射"
+      - "平面漫射板"
+      - "极简"
+      - "全面屏感"
+      - "深石墨灰"
+    hero_feature: "极细金属边框包裹最大化乳白平面漫射板，'全面屏'发光体感"
+    problem_solved: "现代极简建筑立面最大面积柔光照明"
+    transferable_technique: "最大化发光面积+极细边框的'全面屏'思路，可迁移至现代家电、智能设备显示面板设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_壁灯_013"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "横向椭圆形壁灯，深炭灰，外罩为多条垂直铸铝肋条构成的笼架结构，内部乳白椭圆灯罩，笼架肋条粗壮，整体工业/船坞感强"
+    product_name: "户外壁灯 椭圆笼形（铸铝肋条护笼款）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "横向椭圆外轮廓，由多条弧形铸铝肋条（4-5条）构成护笼结构，两端椭圆弧肋封闭，内部包裹乳白椭圆漫射罩"
+      light_opening: "正面通过护笼肋条间隙出光，出光被肋条分割为条状；漫射罩提供均匀漫射，笼架控制出光角度"
+      thermal: "开放笼架结构散热优秀；铸铝肋条本身导热"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "铸铝多肋条护笼 + 乳白椭圆漫射罩"
+        finish: "细砂纹粉末喷涂（笼架）；磨砂乳白（漫射罩）"
+      mounting: "椭圆笼架两端或背部壁挂"
+      signature_detail: "铸铝肋条护笼是最强识别元素，具有工业/船坞灯/矿灯历史传承感；同时提供物理防护"
+    design_level:
+      score: 5
+      reason: "护笼结构是历史设计原型（工业保护灯）的当代精密演绎，BEGA将粗犷工业语言用精密铸铝重新诠释；形式与功能完美统一；在所有14个款式中识别度最强"
+    design_tags:
+      - "椭圆"
+      - "护笼"
+      - "铸铝肋条"
+      - "工业风"
+      - "船坞灯"
+      - "历史原型"
+      - "最强识别度"
+      - "防护结构"
+    hero_feature: "多条弧形铸铝肋条构成的护笼结构，工业历史原型当代精密演绎"
+    problem_solved: "需要物理防护（防破坏/防碰撞）的户外公共区域照明，同时保留装饰美感"
+    transferable_technique: "笼架保护结构的设计语言可迁移至工具设备防护罩、工业风家居灯具、户外电器保护外壳设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

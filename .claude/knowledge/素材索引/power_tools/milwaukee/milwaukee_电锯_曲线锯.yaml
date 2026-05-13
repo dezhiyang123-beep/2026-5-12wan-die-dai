@@ -1,0 +1,180 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "曲线锯"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_曲线锯_001"
+    source_images:
+      - filename: "电锯__曲线锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__曲线锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL曲线锯标准枪形手柄款（D形柄），亮红色机身主体，顶部把手TPE黑色软包覆菱形纹，Milwaukee FUEL白色logo大字居中机身，M18字样左下角，底部银灰色铝压铸底板，锯片细针状从底板伸出，轨道选择旋钮黑色位于机身前下方，右侧面45度产品拍摄"
+      - filename: "电锯__曲线锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__曲线锯__02.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "Milwaukee M12 FUEL曲线锯桶形手柄款（Barrel Grip），黑色顶帽+红色机身桶形一体造型，Milwaukee FUEL白色logo居右侧面，M12徽标左上角，轨道选择旋钮0-4档可见，底板铝合金银色，左侧面标准视角"
+    product_name: "Milwaukee M18 FUEL Jigsaw (D-Handle)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "枪形轮廓：顶部水平D把手+垂直机身+向前伸出的底板，整体呈'L+弧'复合造型；把手穿孔开口构成负空间标志性细节"
+      light_opening: "N/A（无刷电机，无散热槽）"
+      thermal: "封闭式机壳，被动散热，前端设微小排气缝"
+      cmf:
+        color: "主色：Milwaukee亮红（机身壳体），次色：哑光黑（顶部把手TPE包覆层），底色：银灰（铝底板）；红:黑:银比例约5:3:2"
+        material: "机身壳体：玻纤增强尼龙注塑；把手包覆：TPE软胶菱形纹；底板：压铸铝合金；轨道旋钮：ABS"
+        finish: "红色壳体：哑光喷涂（非高光，减少工地眩光）；TPE把手：压花防滑纹；铝底板：拉丝+阳极氧化"
+      mounting: "M18平台 18V，后端垂直插槽，无电池裸机展示"
+      signature_detail: "Milwaukee FUEL白色雷电logo+品牌名大字横向排列于红色机身主视面，视觉面积占比高；把手穿孔D形开口形成负空间轮廓记忆点"
+    design_level:
+      score: 4
+      reason: "D形把手负空间与红黑双色包覆形成强记忆点，Milwaukee FUEL系列一致造型语言；无刷+M18平台技术实力突出；底板铝合金精工感良好，整体比竞品Dewalt/Bosch更具视觉冲击力"
+    design_tags:
+      - "D形把手"
+      - "红黑双色"
+      - "M18平台"
+      - "FUEL无刷"
+      - "TPE包覆"
+      - "铝底板"
+      - "曲线锯"
+      - "枪形机身"
+    hero_feature: "红色机身+黑色TPE菱形纹把手的双色包覆对比，D形开口负空间轮廓记忆点"
+    problem_solved: "无线解放工地行动自由，曲线/直线多轨道切割满足复杂线条需求"
+    transferable_technique: "H02包覆：把手区域TPE软胶双色包覆，功能性防滑与视觉分区合一；H08对比强调：红色功能壳体+黑色操控区的明确色区划分，可迁移至其他手持工具把手设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_曲线锯_002"
+    source_images:
+      - filename: "电锯__曲线锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__曲线锯__03.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL曲线锯桶形手柄款（Barrel Grip），红色机身+黑色前端帽，Milwaukee FUEL logo居机身中段，M18字样左侧，后端电池接口可见带LED电量指示（3格），底板银灰铝合金，轨道旋钮0-3档，左侧45度视角"
+    product_name: "Milwaukee M18 FUEL Jigsaw (Barrel Grip)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "桶形手柄：水平圆柱形机身+前端向下延伸底板，整体呈'卧炮'式水平轮廓；握持区与电机区无明显分隔，一体感强"
+      light_opening: "N/A"
+      thermal: "封闭机壳，被动散热"
+      cmf:
+        color: "主色：Milwaukee亮红（机身后2/3），次色：哑光黑（前端帽+把手前区），银灰（铝底板）"
+        material: "机身：玻纤增强尼龙；前帽：橡胶/TPE；底板：压铸铝"
+        finish: "机身红色哑光；前帽TPE哑光；底板拉丝铝"
+      mounting: "M18平台，后端电池接口，LED电量3格显示"
+      signature_detail: "后端LED电量指示灯嵌于电池接口侧面；Milwaukee FUEL logo白字于红色桶形机身"
+    design_level:
+      score: 4
+      reason: "桶形握持方式适合精细曲线切割，人机工学优于D把，红黑色区清晰，M18 FUEL系列一致性强"
+    design_tags:
+      - "桶形把手"
+      - "Barrel Grip"
+      - "M18平台"
+      - "FUEL无刷"
+      - "LED电量显示"
+      - "曲线锯"
+    hero_feature: "桶形握持人机工学设计，红黑前后分色，后端LED电量可视化"
+    problem_solved: "桶形握持提供更精准的切割控制力，适合狭窄空间和细节切割"
+    transferable_technique: "H12人机界面强化：后端LED电量指示嵌入式集成，不破坏整体造型；H02包覆：前端橡胶帽双色分件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_曲线锯_003"
+    source_images:
+      - filename: "电锯__曲线锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__曲线锯__04.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M12曲线锯桶形款，红色机身占2/3，顶部帽灰色（非黑色，M12系列配色略有差异），Milwaukee logo白字居中，M12徽标，LED电量4格指示，底板银灰铝合金较M18款更小，左侧视角"
+    product_name: "Milwaukee M12 Jigsaw (Barrel Grip)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "桶形轮廓，整体尺寸小于M18款，比例更紧凑，顶帽较圆润"
+      light_opening: "N/A"
+      thermal: "封闭机壳"
+      cmf:
+        color: "主色：Milwaukee红，次色：中灰（顶帽，区别于M18的黑帽），银灰底板"
+        material: "机身：注塑；帽：橡胶；底板：铝合金"
+        finish: "红色哑光；灰色橡胶哑光；铝底板拉丝"
+      mounting: "M12平台 12V，小号电池，更紧凑"
+      signature_detail: "LED电量指示4格；M12小尺寸更适合单手精细操作"
+    design_level:
+      score: 3
+      reason: "M12平台紧凑优势明显，但灰色顶帽与M18黑帽的配色差异略弱化品牌系列一致性"
+    design_tags:
+      - "M12平台"
+      - "桶形把手"
+      - "紧凑型"
+      - "曲线锯"
+    hero_feature: "M12平台超紧凑尺寸，灰帽红身桶形造型"
+    problem_solved: "更轻量紧凑，适合单手操作和狭窄空间精细切割"
+    transferable_technique: "H07极简整合：小尺寸强迫设计极简化，去除冗余分件，保持功能完整"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_曲线锯_004"
+    source_images:
+      - filename: "电锯__曲线锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__曲线锯__05.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线曲线锯（D形把手款），红色圆顶机身+银灰底座，顶部圆弧形把手全红色一体，Milwaukee logo白字于机身侧面，从把手向下引出电源线，底板银灰铝合金，右侧面视角，散热槽纵向排列于机身后段"
+      - filename: "电锯__曲线锯__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__曲线锯__06.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "Milwaukee有线曲线锯（圆顶D形把手），左侧角度，红色圆顶机身更清晰，机身前部弧形导板连接底板，Milwaukee logo清晰，有线从机身后部引出"
+    product_name: "Milwaukee Corded Jigsaw (Top-Handle)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "圆顶D形把手：顶部拱形+垂直机身，整体更圆润；拱形把手与机身一体成型无明显分界"
+      light_opening: "机身后段纵向散热槽，约4-5条"
+      thermal: "有线电机需要主动散热，纵向散热槽设计"
+      cmf:
+        color: "全红色机身（顶把+机壳一体），银灰底板；无黑色包覆，配色更简洁单一"
+        material: "机身：ABS/尼龙注塑一体；底板：铝合金"
+        finish: "机身高光红色喷涂（较老款特征）；底板拉丝铝"
+      mounting: "有线交流电，电源线从顶把后侧引出"
+      signature_detail: "圆顶一体把手与机身连续曲面；纵向散热槽功能性外显"
+    design_level:
+      score: 3
+      reason: "经典Milwaukee红色单色造型，圆顶把手握感良好，但整体设计语言较旧，无双色分层，比M18 FUEL款视觉吸引力弱"
+    design_tags:
+      - "有线"
+      - "圆顶把手"
+      - "经典款"
+      - "单色红"
+      - "散热槽"
+    hero_feature: "圆顶一体式把手与机身连续曲面，全红单色视觉统一"
+    problem_solved: "持续大功率交流电切割，无充电等待"
+    transferable_technique: "H01减法：全红单色减少视觉噪音，把手与机身一体成型减少分件线"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

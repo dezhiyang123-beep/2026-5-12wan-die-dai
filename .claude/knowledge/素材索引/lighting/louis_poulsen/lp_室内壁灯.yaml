@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内壁灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/室内壁灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "lp_室内壁灯_001"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/室内壁灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形白色磨砂灯体贴墙安装，顶部留出弧形光晕，楼梯间重复排列"
+    product_name: "Flindt Wall Lamp"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯"]
+    design_language:
+      silhouette: "近似圆形薄片轮廓，顶部切口形成月牙状出光缝；贴墙安装后整体如嵌入墙面的圆盘"
+      light_opening: "顶部弧形切口出光，形成上方洗墙光晕；灯体乳白漫射面兼作柔和散射光"
+      thermal: "薄型灯体，铝合金框架被动散热"
+      cmf:
+        color: "白色"
+        material: "铝合金外框，乳白亚克力/玻璃漫射面"
+        finish: "外框粉末涂层亚光白，漫射面磨砂乳白"
+      mounting: "壁装（wall mount），背板贴墙固定"
+      signature_detail: "顶部月牙切口是功能与美学的统一：既是出光口也是识别符号；圆形灯体与切口形成强烈几何对比"
+    design_level:
+      score: 4
+      reason: "Flindt系列设计师Jens Flindt作品，圆形+月牙切口是品牌内少见的几何创新；楼梯间重复排列形成节奏感，单灯克制而成组强烈；顶部溢光处理兼顾功能与氛围"
+    design_tags: ["圆形灯体", "月牙切口", "贴墙安装", "洗墙光", "漫反射", "几何简约", "H07极简整合", "H09隐藏工程"]
+    hero_feature: "顶部月牙弧形切口出光——圆形灯体被切去一角，切口既是功能出光槽又是标志性几何记忆点"
+    problem_solved: "楼梯/走廊壁灯需同时提供路径照明（向下）与氛围感（漫射），月牙切口向上溢光在墙面形成光晕，避免了刺眼直射"
+    transferable_technique: "几何切口出光手法：在封闭几何体上以精确切除形成出光缺口，切口本身成为视觉标识；可迁移至其他灯具或需要局部开口的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_室内壁灯_002"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/室内壁灯/26.jpg"
+        image_role: "hero"
+        visual_anchor: "锥形黄铜/古铜色遮罩壁挂，电线垂下，安装于隔音舱内茶色墙面，工作空间场景"
+    product_name: "NJP Wall Lamp"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯"]
+    design_language:
+      silhouette: "锥形遮罩朝下悬挂，黑色细壁装支架，整体轮廓紧凑；遮罩锥角约55°"
+      light_opening: "锥形大开口朝下，定向直射出光，适合桌面任务照明"
+      thermal: "金属锥形罩导热，LED低热被动散热"
+      cmf:
+        color: "灯罩黄铜/古铜色，支架黑色"
+        material: "铝合金灯罩，钢质壁装支架"
+        finish: "灯罩拉丝黄铜阳极氧化，支架亚光黑粉末涂层"
+      mounting: "壁装支架（wall bracket），背板贴墙，支架横出后灯头下垂"
+      signature_detail: "黄铜色锥形罩与黑色极细支架的强对比；电线裸露垂下作为设计语言的一部分，无遮盖"
+    design_level:
+      score: 3
+      reason: "NJP系列壁灯版，锥形罩语言与台灯款统一，黄铜+黑配色在工作空间/隔音舱场景中营造专业温暖感；裸露电线的处理较为大胆但未超出品牌语法范围；整体属成熟系列延伸款"
+    design_tags: ["锥形遮罩", "黄铜色", "壁装任务灯", "裸线设计", "工作照明", "H10材料表达", "H11功能外显"]
+    hero_feature: "黄铜锥形罩——在工作空间壁灯中引入暖金属感，锥形遮罩定向性强，兼具氛围与功能"
+    problem_solved: "隔音舱/工位旁壁灯需提供精准桌面照明且不占台面空间，壁装悬挂释放桌面，黄铜色调软化工作空间冷感"
+    transferable_technique: "裸露电线设计化处理：将走线作为视觉线条元素而非需要隐藏的工程细节；黄铜色在暗色调空间中的点睛配色公式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

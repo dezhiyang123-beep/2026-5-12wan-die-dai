@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "洗碗机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗碗机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_dishwasher_001"
+    source_images:
+      - filename: "42.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗碗机/42.jpg"
+        image_role: "hero"
+        visual_anchor: "嵌入式洗碗机开门使用场景，厨房环境，底部控制条，多层碗架满载餐具"
+    product_name: "嵌入式洗碗机（厨房场景展示）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗碗机"]
+    design_language:
+      silhouette: "标准嵌入式洗碗机，门板与橱柜齐平；开门状态下可见三层抽拉碗架结构，门板极薄"
+      light_opening: "内腔顶部LED照明条，照亮装载区域"
+      thermal: "无外部散热开口"
+      cmf:
+        color: "不锈钢内腔 + 橱柜同色面板（米灰）"
+        material: "不锈钢内腔 + 定制橱柜色门板"
+        finish: "拉丝不锈钢内腔 + 亚光橱柜色烤漆面板"
+      mounting: "嵌入式，与橱柜齐平"
+      signature_detail: "顶部嵌入式控制条（显示屏+触控按键）使门板正面零按键，实现完全平整的橱柜融合面"
+    design_level:
+      score: 3
+      reason: "嵌入融合设计执行到位，场景图展示实际使用状态有说服力；但设计语言在嵌入式洗碗机中属于成熟方案，无突破性创新"
+    design_tags: ["嵌入式融合", "橱柜同色面板", "顶部控制条", "LED内腔照明", "零按键门板"]
+    hero_feature: "顶部嵌入式控制条设计——将全部操控集中在门板顶沿，使门板正面完全平整融入橱柜"
+    problem_solved: "洗碗机门板按键破坏厨房整体性；顶部控制条方案实现门板零干扰，完美融入整体橱柜"
+    transferable_technique: "将控制界面迁移至产品顶沿/隐藏位置，实现主视面零打断，可迁移至冰箱、烤箱、洗衣机等嵌入式白电"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_dishwasher_002"
+    source_images:
+      - filename: "44.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗碗机/44.jpg"
+        image_role: "hero"
+        visual_anchor: "Siemens嵌入式洗碗机正面：深色木纹面板+不锈钢把手，门顶部有控制屏，门略开可见内部"
+    product_name: "Siemens 嵌入式洗碗机（深色木纹面板）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗碗机"]
+    design_language:
+      silhouette: "嵌入式标准尺寸，正面完全被深色木纹面板覆盖；门顶部薄控制条内嵌蓝色字符显示屏与触控按键"
+      light_opening: "无外部"
+      thermal: "无"
+      cmf:
+        color: "深灰棕木纹 + 拉丝不锈钢把手"
+        material: "木纹贴面板（或木纹印刷面板）+ 不锈钢把手"
+        finish: "亚光木纹质感 + 拉丝不锈钢"
+      mounting: "嵌入式"
+      signature_detail: "门顶部极窄控制条（约3cm高）内嵌蓝色LCD显示与多段触控按键，信息密度极高且形态克制"
+    design_level:
+      score: 4
+      reason: "深色木纹面板在洗碗机品类极具辨识度和高端感；顶部极窄控制条工艺精湛；整体实现洗碗机向定制家具的形态升级"
+    design_tags: ["木纹面板", "家具化融合", "极窄控制条", "高端定制感", "嵌入式"]
+    hero_feature: "深色木纹面板覆盖整门——让洗碗机完全消失在厨柜立面中，实现家电家具化"
+    problem_solved: "洗碗机金属/白色面板与木质橱柜存在视觉断层；木纹面板彻底消除这一断层"
+    transferable_technique: "以仿材质贴面（木纹/石材纹）替代传统金属/烤漆面板，实现白色家电家具化，可迁移至冰箱、洗衣机、烤箱等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

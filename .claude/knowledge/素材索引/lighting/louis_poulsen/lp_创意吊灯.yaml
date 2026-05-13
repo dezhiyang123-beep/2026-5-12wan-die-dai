@@ -1,0 +1,301 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "创意吊灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "lp_吊灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "白色版本正面轮廓"
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯/10.jpg"
+        image_role: "colorway"
+        visual_anchor: "深灰/石墨色版本正面轮廓"
+    product_name: "三角盾碗形吊灯（双色款）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯"]
+    design_language:
+      silhouette: "倒三角形盾牌碗状，上口宽阔开放，三个弧面在底部汇聚成钝尖，整体轮廓如展开的花萼"
+      light_opening: "顶部宽口朝上开放，光线全部向上漫射至天花板，形成间接照明；底部封闭无直射光"
+      thermal: "金属冲压成形，三片弧面拼接结构，接缝线从顶部延伸至底尖，兼作散热分件线"
+      cmf:
+        color: "白色（RAL 9010）/ 深灰石墨色（双色款）"
+        material: "粉末涂层钢板"
+        finish: "亚光均匀喷涂，无金属光泽"
+      mounting: "单线/细杆顶部悬挂，连接点隐藏在顶口中心"
+      signature_detail: "三片弧面交汇的底部钝尖是唯一识别性细节；内壁白色反射强化向上出光效率"
+    design_level:
+      score: 4
+      reason: "几何形态高度克制，三面弧线与功能性间接出光完美统一，是LP减法美学的典型表达；双色系保持同一造型语言"
+    design_tags: ["间接照明", "向上出光", "三角几何", "减法设计", "双色系", "金属冲压", "北欧工业"]
+    hero_feature: "三片弧面在底尖汇聚的造型——去掉底尖整体立刻变成普通碗形灯"
+    problem_solved: "开放办公/走廊需要天花板反射的柔和漫射光，同时灯具本身造型需有雕塑感而非装饰负担"
+    transferable_technique: "顶部全开放+底部封闭的间接出光结构，可迁移至任何需要无眩光上照的商业灯具；分件线即装饰线的一体化手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_吊灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "喇叭漏斗形全貌，白色产品图"
+    product_name: "喇叭漏斗锥形吊灯"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯"]
+    design_language:
+      silhouette: "大口径倒锥喇叭形，上沿口径极大（约为整体高度的2倍宽），从宽口向下急剧收窄至细圆柱底端，比例极端夸张"
+      light_opening: "顶部超大圆口朝上完全开放；底端细口极小，几乎无下射光；以漫射上照为主"
+      thermal: "单体旋压或冲压金属，无分件线，整体一体成形"
+      cmf:
+        color: "纯白（RAL 9010）"
+        material: "钢板旋压成形"
+        finish: "哑光粉末涂层，内外一致"
+      mounting: "底端细管直接作为电线导管，从底部接线悬挂"
+      signature_detail: "上宽下细的极端比例——口径与高度比约2:1，视觉重心全部集中在大口边缘"
+    design_level:
+      score: 3
+      reason: "形态单纯，比例张力强，但造型语言相对常见于北欧灯具品类，缺乏LP独有识别度"
+    design_tags: ["喇叭锥形", "间接照明", "上照", "极简", "旋压金属", "大口径", "单体造型"]
+    hero_feature: "上口直径与高度约2:1的极端扩口比例，去掉这个比例关系立刻变成普通锥形灯"
+    problem_solved: "需要大面积柔和天花板反射光的餐饮/住宅场景，同时灯具轮廓本身要有强存在感"
+    transferable_technique: "口径/高度比例夸张化处理作为造型策略，可迁移至其他需要上照类吊灯的比例操控"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_吊灯_003"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "乳白球形全貌，细颈顶部"
+    product_name: "球形乳白玻璃吊灯（细颈款）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯"]
+    design_language:
+      silhouette: "近乎完整圆球形，顶部收出短细颈管，底部微切平以形成小圆口，整体接近正圆但非标准球"
+      light_opening: "底部小圆口向下出光；球体乳白半透明漫射全向出光为主；顶部细颈仅为安装接口"
+      thermal: "吹制玻璃单体，无金属外壳，靠玻璃壁厚自然散热"
+      cmf:
+        color: "乳白/乳膏白（opal white）"
+        material: "吹制乳白玻璃"
+        finish: "哑光半透明漫射面，无抛光"
+      mounting: "顶部细颈插入金属吊杆/线缆，连接处有小金属箍"
+      signature_detail: "球体与细颈的比例——颈部直径约为球径的1/8，对比感极强；均匀乳白漫射无热点"
+    design_level:
+      score: 3
+      reason: "造型纯粹，材质选择准确，但球形乳白玻璃吊灯是北欧灯具高频形态，差异化有限"
+    design_tags: ["球形", "乳白玻璃", "全向漫射", "细颈", "吹制玻璃", "极简", "北欧经典"]
+    hero_feature: "极细颈与大球体的悬殊比例对比，去掉细颈整体变成普通悬挂球灯"
+    problem_solved: "住宅/餐厅需要温暖均匀漫射光，同时灯具造型须克制不抢空间主角"
+    transferable_technique: "吹制玻璃球体+极细安装颈的比例语言，可迁移至台灯/壁灯的连接件与灯体比例设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_吊灯_004"
+    source_images:
+      - filename: "06__2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯/06__2.jpg"
+        image_role: "context"
+        visual_anchor: "开放办公室多灯阵列悬挂场景，黑色扁鼓形"
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯/09.jpg"
+        image_role: "context"
+        visual_anchor: "会议室双灯悬挂场景，黑色扁鼓形"
+    product_name: "扁鼓环形吊灯（黑色商业款）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯"]
+    design_language:
+      silhouette: "大直径低矮圆鼓/圆盘形，高度与直径比约1:4，侧壁垂直，顶面平，底面内嵌发光面板"
+      light_opening: "底面圆形漫射板朝下出光；顶面封闭；侧壁不透光；纯下照直接照明"
+      thermal: "金属壳体，内置LED模组，顶部金属散热结构"
+      cmf:
+        color: "哑黑（RAL 9005）"
+        material: "铝合金/钢板壳体"
+        finish: "哑光粉末涂层，内置扩散板乳白色"
+      mounting: "顶部多点细杆/钢缆悬挂，阵列布置"
+      signature_detail: "极扁的高度-直径比形成强烈的「漂浮圆盘」视觉感；黑色外壳与白色发光底面的高对比"
+    design_level:
+      score: 3
+      reason: "商业照明中成熟形态，比例克制，但无突破性造型创新；靠阵列布置产生空间效果"
+    design_tags: ["扁鼓形", "圆盘吊灯", "商业照明", "LED", "下照", "黑色", "阵列布置", "办公/会议"]
+    hero_feature: "超低矮扁鼓比例——高度仅为直径的1/4，营造漂浮圆盘感"
+    problem_solved: "开放办公/会议室需要均匀高效下照工作照明，同时灯具视觉存在感低不干扰空间"
+    transferable_technique: "高度/直径比压缩至1:4的极扁鼓造型策略，可迁移至商业空间需要低调存在感的功能性吊灯"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_吊灯_005"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯/08.jpg"
+        image_role: "context"
+        visual_anchor: "多层挑空中庭多灯阵列，点亮状态"
+      - filename: "23.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯/23.jpg"
+        image_role: "context"
+        visual_anchor: "大型玻璃顶中庭集群悬挂，点亮状态"
+    product_name: "参数化菱格球形吊灯（LP Patera系列）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯"]
+    design_language:
+      silhouette: "完整球形，表面由规则菱形/六边形凸起格纹覆盖，形成三维参数化肌理；整体轮廓是纯圆球"
+      light_opening: "整个球体半透明漫射出光，格纹面板透光，顶部金属固定环为安装点；全向均匀漫射"
+      thermal: "注塑半透明格纹面板拼合球体，顶部金属冠固定；LED内置"
+      cmf:
+        color: "乳白/暖白（半透明）"
+        material: "注塑半透明聚丙烯或聚碳酸酯格纹面板"
+        finish: "半哑光半透明，点亮后格纹产生光影层次"
+      mounting: "顶部金属冠单点悬挂，可调高度"
+      signature_detail: "球体表面的菱格凸起纹理——点亮后每个菱格形成独立光点阵，产生星云/蜂巢光影效果"
+    design_level:
+      score: 5
+      reason: "Patera是LP标志性创意吊灯，参数化格纹球体将功能出光与装饰肌理合二为一，点亮状态下视觉冲击力极强，集群布置放大效果；是LP在创意照明品类的最高设计成就之一"
+    design_tags: ["参数化", "菱格纹理", "球形", "全向漫射", "半透明", "集群布置", "中庭照明", "LP Patera", "H04参数化", "标志性产品"]
+    hero_feature: "表面菱格凸起纹理——去掉纹理立刻变成普通球灯，纹理即灵魂"
+    problem_solved: "大型公共空间/中庭需要既有照明功能又有强装饰性的视觉焦点，单灯不够震撼需集群成阵"
+    transferable_technique: "参数化表面纹理与半透明材质结合的出光肌理手法（H04），可迁移至任何需要点亮后产生光影层次的创意灯具外壳设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_吊灯_006"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "矮胖圆球宽领口正面，乳白玻璃"
+    product_name: "矮胖球形宽领口玻璃吊灯"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯"]
+    design_language:
+      silhouette: "扁圆球体，高度略小于直径，顶部有明显内缩的宽圆领口（领口直径约为球径1/3），整体如一只矮胖的玻璃花瓶"
+      light_opening: "顶部宽领口向上出光；球体乳白玻璃全向漫射；底部封闭弧面"
+      thermal: "吹制乳白玻璃单体，宽领口便于内部安装操作"
+      cmf:
+        color: "乳白（opal white）"
+        material: "吹制乳白玻璃"
+        finish: "哑光半透明漫射面，均匀无热点"
+      mounting: "领口金属箍+吊线悬挂"
+      signature_detail: "宽领口与矮胖球体的比例——领口宽度是球形13号产品细颈的约3倍，产生截然不同的量感"
+    design_level:
+      score: 3
+      reason: "形态温和亲切，比例有特色但不突出；乳白玻璃材质使用标准，缺乏唯一识别点"
+    design_tags: ["矮胖球形", "宽领口", "乳白玻璃", "全向漫射", "吹制玻璃", "温润质感", "居家照明"]
+    hero_feature: "矮胖球体与宽领口的比例关系，产生「坛子/花瓶」的器皿感而非标准灯具感"
+    problem_solved: "住宅餐厨/过道需要温润漫射光，同时灯具造型要有生活器物感而非工业照明感"
+    transferable_technique: "灯具造型借用器皿比例语言（坛/瓶/碗）产生非照明品类联想，可迁移至居家创意灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_吊灯_007"
+    source_images:
+      - filename: "11__2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯/11__2.jpg"
+        image_role: "context"
+        visual_anchor: "餐饮空间多灯悬挂阵列，黑色细锥形"
+    product_name: "细锥形吊灯（LP Above系列，黑色）"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯"]
+    design_language:
+      silhouette: "高挺细锥形，上窄下宽，锥角较小（约20-25°），高度远大于底口直径；顶部有小环形把手/吊钩"
+      light_opening: "底部圆口向下出光，小角度直接下照；顶部把手为安装点"
+      thermal: "冲压钢板或铝合金单体锥壳"
+      cmf:
+        color: "哑黑（RAL 9005）"
+        material: "钢板/铝合金冲压"
+        finish: "哑光粉末涂层"
+      mounting: "顶部小圆环把手+细钢缆悬挂，悬挂高度可调"
+      signature_detail: "顶部小圆环把手——既是安装件又是造型识别点，与细锥体形成「伞柄」意象"
+    design_level:
+      score: 3
+      reason: "比例优雅，顶部圆环把手是LP Above的识别特征；但整体锥形吊灯在北欧灯具市场是常见形态"
+    design_tags: ["细锥形", "下照", "圆环把手", "黑色", "商业餐饮", "阵列布置", "LP Above"]
+    hero_feature: "顶部圆环把手——去掉把手整体变成无特征的标准锥形灯"
+    problem_solved: "餐饮/零售需要精准小面积桌面照明，同时灯具悬挂细节要有设计感"
+    transferable_technique: "功能性安装件（吊钩/把手）造型化处理作为产品签名细节，可迁移至任何需要悬挂点可见的吊灯设计"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_吊灯_008"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意吊灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "宽肩球体细颈正面，乳白玻璃"
+    product_name: "宽肩球体细颈玻璃吊灯"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯"]
+    design_language:
+      silhouette: "底部大圆球体，顶部急剧收窄成短粗圆柱颈，颈部顶端有小圆口；整体如一只倒置的宽肩花瓶，肩部曲线过渡陡峭"
+      light_opening: "顶部小圆口向上少量出光；球体乳白玻璃全向漫射为主出光方式"
+      thermal: "吹制乳白玻璃单体，颈部壁厚均匀"
+      cmf:
+        color: "乳白（opal white）"
+        material: "吹制乳白玻璃"
+        finish: "哑光半透明，均匀漫射，无高光热点"
+      mounting: "颈部小口金属箍+吊线悬挂"
+      signature_detail: "宽肩到细颈的陡峭过渡曲线——肩部曲率变化剧烈，形成「陶瓷壶」的器物感"
+    design_level:
+      score: 4
+      reason: "宽肩到细颈的比例过渡具有明显雕塑感和器皿识别度，与lp_吊灯_006的矮胖款和003的细颈球形形成差异；玻璃吹制工艺赋予温润光感，整体LP DNA强"
+    design_tags: ["宽肩球体", "细颈", "乳白玻璃", "全向漫射", "吹制玻璃", "器皿感", "陶壶意象", "雕塑感"]
+    hero_feature: "宽肩部到细颈的陡峭曲率过渡——去掉这个肩颈比例关系立刻变成普通球灯"
+    problem_solved: "高品质住宅/精品酒店需要有雕塑感的光源焦点，同时出光质量温润无眩光"
+    transferable_technique: "借用陶瓷器皿的肩颈比例语言作为灯罩造型策略（H06仿生/器物借鉴），可迁移至高端创意吊灯和台灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,622 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯具"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "flos_户外灯具_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/01.jpg"
+        image_role: "hero"
+        visual_anchor: "深绿色圆柱顶盖 + 垂直透明竖纹玻璃柱体，底部向上发光"
+    product_name: "Last Minute Outdoor (Rodolfo Dordoni)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "便携户外台灯"]
+    design_language:
+      silhouette: "短粗圆柱体，比例接近1:1（直径≈高度）；上盖为实心哑光金属圆饼，下半为竖纹透明玻璃柱；整体像一枚被金属压住的玻璃印章"
+      light_opening: "底部向上打光，光线穿过竖纹玻璃向四周及底面漫射；玻璃下沿开口形成环状柔光带，无截光，适合桌面360°氛围照明"
+      thermal: "小型LED模块置于内顶，金属顶盖兼做散热体；竖纹玻璃筒无密封有利于自然对流"
+      cmf:
+        color: "深森林绿（Forest Green）顶盖 + 透明玻璃"
+        material: "压铸铝顶盖 + 竖纹硼硅玻璃圆柱"
+        finish: "顶盖哑光粉末喷涂；玻璃透明无色，表面有竖向模制纹理"
+      mounting: "无底座，直接平放桌面；内置充电电池，完全无线"
+      signature_detail: "竖向等间距凹槽纹理玻璃柱——纹理将单一点光源分解为柔和竖纹光晕，赋予简单圆柱体极高质感"
+    design_level:
+      score: 4
+      reason: "便携充电设计与精密竖纹玻璃工艺结合，实现户外无线高颜值台灯；深绿色顶盖的色彩选择在灯具品类中具有强烈记忆点"
+    design_tags:
+      - "便携充电"
+      - "无线户外"
+      - "竖纹玻璃"
+      - "深绿色"
+      - "圆柱体"
+      - "底部漫射"
+      - "台面氛围灯"
+      - "Rodolfo Dordoni"
+    hero_feature: "竖向纹理玻璃圆柱 + 底部向上环形漫射光——将LED点光源转化为整根玻璃柱体均匀发光的效果"
+    problem_solved: "在户外餐桌/休闲场合提供无线、可充电的高品质氛围照明，无需布线"
+    transferable_technique: "竖纹玻璃柱对光源的分解漫射手法可迁移至台灯、床头灯；圆饼顶盖压住玻璃柱的比例关系可迁移至其他台面灯具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/02.jpg"
+        image_role: "hero"
+        visual_anchor: "拉丝黄铜细长L臂 + 金色锥形灯罩 + 混凝土圆形底座"
+    product_name: "Captain Flint Outdoor Floor (Michael Anastassiades)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "落地灯"]
+    design_language:
+      silhouette: "极细竖杆从混凝土圆底座拔地而起，顶端L形折弯水平延伸，末端悬挂锥形灯罩；整体轮廓如一根细针顶端挂着一顶帽子，极度线性克制"
+      light_opening: "锥形灯罩开口朝下，形成约60-70°圆锥形下射截光束；遮光角良好，直接眩光极小；底座正上方为主照明区域"
+      thermal: "细金属杆导热面积小；LED热量通过杆件金属传导至底座散发；混凝土底座同时起到热沉作用"
+      cmf:
+        color: "拉丝黄铜（杆 + 锥罩）+ 浅灰混凝土（底座）"
+        material: "黄铜细管杆 + 压铸铝锥形灯罩（黄铜色粉末涂装）+ 预制混凝土圆形底座"
+        finish: "杆与灯罩拉丝哑光；混凝土原色带气孔质感"
+      mounting: "圆形混凝土底座落地配重；杆件直接嵌入底座，无外露螺丝"
+      signature_detail: "混凝土底座 + 细黄铜杆的材质对比——粗粝与精致、重量与轻盈的刻意冲突"
+    design_level:
+      score: 5
+      reason: "Captain Flint落地版将极简线形美学推至极限；混凝土底座在高档照明中是突破性材料选择；黄铜与混凝土的材质配对已成为设计界参考范本"
+    design_tags:
+      - "落地灯"
+      - "黄铜"
+      - "混凝土底座"
+      - "极细杆"
+      - "锥形截光"
+      - "下射光"
+      - "材质对比"
+      - "Michael Anastassiades"
+      - "Captain Flint系列"
+    hero_feature: "混凝土底座配极细黄铜杆——两种极端材质的配对制造出独特的视觉张力，是整件产品的设计灵魂"
+    problem_solved: "在户外空旷场地提供稳定（混凝土配重）且视觉极简的落地点光源，无需地面固定件"
+    transferable_technique: "混凝土底座配重代替地面锚固的户外稳定方案可广泛迁移；细杆比例（杆径:高度 约1:120）的极限比例实验值得参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/03.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色不规则有机纹理锥形吊罩 + 细钢杆吊装"
+    product_name: "Rete Outdoor Pendant (Patricia Urquiola)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "户外吊灯"]
+    design_language:
+      silhouette: "倒锥形灯罩，轮廓为标准等腰梯形；上口直径略小于底口直径；整体轮廓传统但材质完全非传统"
+      light_opening: "底部大圆开口向下漫散光，无遮光片；灯罩表面密集网状镂空令光线同时从侧面透出，形成肌理光晕；发光效果类似于蜡烛穿纸"
+      thermal: "网状镂空结构提供极佳自然通风散热；热量通过开放网格快速耗散，无热积聚风险"
+      cmf:
+        color: "哑光黑"
+        material: "高密度聚乙烯（HDPE）编织网 + 钢框架边缘"
+        finish: "黑色哑光编织，表面有不规则几何网格图案"
+      mounting: "顶部小圆盘吸顶座 + 细钢圆杆吊装；接线隐藏在吊杆内"
+      signature_detail: "不规则几何网格编织体——类似鸟巢编织，每个网格形状轻微不同，在机械制造中创造手工感"
+    design_level:
+      score: 4
+      reason: "Patricia Urquiola以HDPE编织网替代传统灯罩材料，实现IP65级户外防护同时保留高设计感；网格肌理的侧向透光效果在户外吊灯中独树一帜"
+    design_tags:
+      - "户外吊灯"
+      - "编织网罩"
+      - "HDPE"
+      - "侧面透光"
+      - "肌理光晕"
+      - "Patricia Urquiola"
+      - "Rete系列"
+      - "黑色"
+      - "锥形"
+    hero_feature: "HDPE编织网灯罩——既是IP65防水屏障也是产生侧向肌理光晕的装饰面，功能与美感完全统一"
+    problem_solved: "在户外空间（露台/廊架下）提供防水、抗紫外线的装饰性吊灯，同时保持高设计级别"
+    transferable_technique: "编织网状镂空结构作为防护外壳的设计思路可迁移至其他需要兼顾防护与透光的户外灯具；HDPE编织材料在户外应用的耐候性方案值得借鉴"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/04.jpg"
+        image_role: "hero"
+        visual_anchor: "超细黑色金属线框正方体骨架落地灯，无灯罩"
+    product_name: "Coordinates Outdoor Floor (Ronan & Erwan Bouroullec)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "落地灯"]
+    design_language:
+      silhouette: "标准正方形截面竖向矩形框架（高约2:1比例），由超细金属方管围成开放骨架；无填充面板，整体如一个三维线图；底面有四个细支脚"
+      light_opening: "LED光源集成于框架内部顶部结构，向下投射；发光体隐藏，骨架开放四面透光，光线从框内漫出形成全向柔光场；无截光设计"
+      thermal: "完全开放的骨架结构——自然对流不受任何阻碍，理论上零热积聚"
+      cmf:
+        color: "哑光黑（Matte Black）"
+        material: "粉末喷涂钢方管"
+        finish: "全件哑光黑粉末涂装，极细腻无反射"
+      mounting: "落地自立，带小型防倾脚；电源线从底角拉出（图中可见黑色电源线）"
+      signature_detail: "极细方管线框架——用最少材料量定义一个三维空间体积，线框本身就是产品形态"
+    design_level:
+      score: 5
+      reason: "Bouroullec兄弟将灯具简化到仅保留'空间坐标'——四条轮廓线加顶部LED，彻底消解灯具形态，将光源融入建筑几何语言；是户外灯具设计的极简主义宣言"
+    design_tags:
+      - "极简主义"
+      - "线框结构"
+      - "骨架落地灯"
+      - "开放式"
+      - "Bouroullec"
+      - "Coordinates系列"
+      - "哑光黑"
+      - "几何建筑感"
+      - "户外落地"
+    hero_feature: "无灯罩的开放金属线框骨架——灯具消失，只剩下空间中的光"
+    problem_solved: "在建筑环境中提供不破坏视觉通透性的户外落地照明，灯具即景观装置"
+    transferable_technique: "线框骨架定义空间的设计语言可迁移至家具、展陈架等产品；用框架替代实体灯罩的极简化路径对灯具品类具有通用启发性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/05.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色极细落地立杆，顶部天鹅颈弯曲，末端垂挂极小型矩形灯头"
+    product_name: "Caule Outdoor Floor (Jasper Morrison)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "落地灯"]
+    design_language:
+      silhouette: "超细竖杆（直径约12mm）从圆形落地底盘升起，顶端以圆弧弯折向下钩出；弯曲末端挂一个极小的圆柱形LED灯头（约手指粗）；整体如植物茎杆"
+      light_opening: "极小型圆柱灯头底部出光，形成窄角点光源下射（约30°）；因灯头极小，光斑集中、亮度高，无漫射设计"
+      thermal: "灯头极小，LED功率低（约3-5W），热量由细杆金属传导至底盘散发"
+      cmf:
+        color: "深灰蓝（Anthracite / 深炭灰）"
+        material: "钢管杆件 + 压铸铝圆形底盘"
+        finish: "全件哑光粉末涂装，同色系"
+      mounting: "重型圆形金属底盘配重，无需地面锚固；底面有防滑垫"
+      signature_detail: "天鹅颈弯折 + 极小灯头——杆件细到极致，灯头小到极致，整体如同一株发光的草"
+    design_level:
+      score: 4
+      reason: "Jasper Morrison设计，极度克制的比例美学；天鹅颈弯折是传统落地灯形式的当代极简化；炭灰色在户外金属中雅致而不突兀"
+    design_tags:
+      - "极细落地杆"
+      - "天鹅颈弯折"
+      - "Jasper Morrison"
+      - "Caule系列"
+      - "炭灰色"
+      - "点光源"
+      - "下射截光"
+      - "植物形态感"
+    hero_feature: "天鹅颈弧线弯折从顶端悬垂极小灯头——将落地灯简化至接近植物茎杆的形态"
+    problem_solved: "在户外空间提供精准点光源（阅读/重点照明），同时最大程度保持视觉通透，不占据空间感"
+    transferable_technique: "细杆天鹅颈弯折的落地形态可迁移至庭院路灯、阳台落地灯；极小灯头的设计克制原则适用于任何需要'灯具隐身'的场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/06.jpg"
+        image_role: "hero"
+        visual_anchor: "深棕红色笼架圆柱形吊灯 + 天花圆形座盘 + 细电源线"
+    product_name: "In Vitro Outdoor Pendant (Philippe Starck)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "户外吊灯"]
+    design_language:
+      silhouette: "垂直圆柱形灯体由圆形顶盖 + 四根金属肋条笼架 + 内嵌透明玻璃圆柱组成；比例瘦高（约1:3直径比高度）；天花座盘小圆饼，细线悬挂"
+      light_opening: "内置LED灯源通过透明玻璃圆柱360°漫射；顶盖内有反射碗将部分光向下汇聚；金属肋条遮挡形成竖向光影条纹；底部开放形成直射下光"
+      thermal: "顶盖金属散热 + 笼架自然对流，散热条件优秀；玻璃内管与笼架之间的空气间隙进一步降温"
+      cmf:
+        color: "深棕红（Rust Brown）"
+        material: "压铸铝顶盖 + 弯曲金属肋条 + 硼硅透明玻璃内管"
+        finish: "顶盖与肋条哑光粉末喷涂棕红色；玻璃清透无色"
+      mounting: "天花吸顶座 + 黑色织物包覆电线悬挂；可调节高度"
+      signature_detail: "深棕红金属笼架与透明玻璃的色彩对比——深色金属肋条在白天是雕塑轮廓，夜晚投下竖向暗纹光影"
+    design_level:
+      score: 4
+      reason: "In Vitro吊灯版将Philippe Starck的笼架工业美学延伸至悬挂形式；深棕红配透明玻璃在户外吊灯中色彩组合独特；笼架光影效果在夜间使用时极具戏剧性"
+    design_tags:
+      - "户外吊灯"
+      - "笼架结构"
+      - "透明玻璃内管"
+      - "深棕红"
+      - "竖向光影"
+      - "Philippe Starck"
+      - "In Vitro系列"
+      - "工业美学"
+    hero_feature: "深棕红金属肋条笼架投下的竖向光影条纹——夜间点亮后灯体变成发光雕塑"
+    problem_solved: "在户外廊架/屋檐下提供防水IP65吊灯，同时以工业美学笼架造型替代普通灯罩，提升场所设计级别"
+    transferable_technique: "笼架保护内管的结构手法与壁灯版相同，可迁移参见flos_户外壁灯_003；深棕红色在金属户外产品上的色彩选择策略值得借鉴"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/07.jpg"
+        image_role: "hero"
+        visual_anchor: "镜面不锈钢细杆落地灯 + 深色蜂窝网格锥形大灯罩"
+    product_name: "KTribe F3 Outdoor (Philippe Starck)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "落地灯"]
+    design_language:
+      silhouette: "标准落地灯形态：细长圆杆从方形底盘升起，顶端连接锥形大灯罩；灯罩呈倒梯形，上口窄下口宽；比例为大罩小杆的古典落地灯语言"
+      light_opening: "锥形灯罩底部大口径开口向下漫射，光束角宽（约120°）；蜂窝网格同时允许侧面透光形成肌理光晕；底面无截光件，光线柔和漫散"
+      thermal: "蜂窝网格提供充分通风散热；镜面钢杆导热至底盘；大口径灯罩无热积聚"
+      cmf:
+        color: "镜面不锈钢（杆 + 底盘）+ 黑色蜂窝编织（灯罩）"
+        material: "不锈钢管杆 + 不锈钢方形底盘 + HDPE蜂窝网格锥形灯罩"
+        finish: "杆件镜面抛光；灯罩黑色哑光网格；底盘镜面"
+      mounting: "方形底盘配重落地，无锚固"
+      signature_detail: "镜面钢 + 黑色粗粝网格的强烈材质反差——精密镜面与粗糙编织的对话"
+    design_level:
+      score: 4
+      reason: "KTribe系列将经典落地灯形式与防水HDPE网格材料结合；镜面钢杆在户外使用大胆，与黑色网格罩的材质对比制造视觉张力；Philippe Starck户外大型落地灯代表作"
+    design_tags:
+      - "落地灯"
+      - "镜面不锈钢"
+      - "HDPE网格"
+      - "蜂窝编织"
+      - "材质对比"
+      - "Philippe Starck"
+      - "KTribe系列"
+      - "大口径漫射"
+    hero_feature: "镜面不锈钢杆配黑色HDPE蜂窝网格大锥罩——精密与粗粝、反射与吸光的极端材质对话"
+    problem_solved: "在户外大型空间（庭院/露台）提供防水高颜值落地主灯，替代普通户外灯具"
+    transferable_technique: "HDPE蜂窝网格作为防水灯罩的材料方案可广泛迁移至其他户外灯具；镜面细杆 + 大灯罩的比例反差策略可应用于其他落地灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/08.jpg"
+        image_role: "detail"
+        visual_anchor: "黑色圆角矩形厚实铝块体，中央圆柱出光口，侧面壁挂安装接头"
+    product_name: "Shard Outdoor / Shadow Wall-Spike Spot (细节图)"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯具", "户外射灯"]
+    design_language:
+      silhouette: "极度简化的圆角矩形厚板形态（类似一块肥皂或U型块）；中央正面有圆柱形出光管突出；侧面有圆管状安装接头（用于地插/壁挂）；整体体积感强，无任何装饰线条"
+      light_opening: "中央圆柱出光管形成约15-25°窄角点光源，强截光设计；出光方向可通过转动灯头调节；高光束集中度，适合景观重点照明"
+      thermal: "大体积实心铝体兼做散热块，导热面积大；圆角设计无热积聚死角；无散热鳍片，散热依靠铝体整体传导"
+      cmf:
+        color: "哑光黑（Matte Black）"
+        material: "压铸铝整体成型"
+        finish: "哑光粉末喷涂，全件同色；表面有细微粒感纹理"
+      mounting: "侧面圆管接头可对接地插杆或壁挂支架，通用接口"
+      signature_detail: "整个灯体是一块铝，出光口是铝块上的一个孔——Casting（铸造）美学：铝液直接成型，形态即结构"
+    design_level:
+      score: 4
+      reason: "Flos Casting系列代表作，以铝铸造工艺将灯具简化为一块有孔的铝块；极度去设计化的结果反而形成强烈的设计宣言；细节图清晰展示铸造工艺与圆柱出光口的精密配合"
+    design_tags:
+      - "铸造铝"
+      - "Casting系列"
+      - "圆角方块"
+      - "窄角射灯"
+      - "哑光黑"
+      - "景观重点照明"
+      - "去装饰化"
+      - "体积感"
+    hero_feature: "整块铸铝体上的圆柱出光孔——最少操作，最强形态"
+    problem_solved: "提供户外景观重点照明（树木/墙面/雕塑打光），灯体极度低调不抢视线"
+    transferable_technique: "铸铝一体成型消除零件接缝的制造思路可迁移至需要极简外观的户外产品；圆角厚板形态在户外金属产品中具有高耐久视觉感"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "08.jpg为极近景细节图，无完整产品轮廓，难以确认具体型号（可能为Shard/Shadow/Casting系列某款）；需对照Flos官网确认产品名称"
+
+  - product_id: "flos_户外灯具_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/09.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色笼架圆柱形吸顶灯，圆形顶座 + 透明玻璃内管"
+    product_name: "In Vitro Outdoor Ceiling (Philippe Starck)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "户外吸顶灯"]
+    design_language:
+      silhouette: "垂直圆柱形灯体，顶部圆形金属座直接贴附天花；四根金属肋条从顶座向下延伸，底端圆弧收拢（无底盖），内套透明玻璃圆柱；比例比吊灯版更短粗"
+      light_opening: "底部开放圆形出光，向下直射 + 透明玻璃侧面360°漫射；金属肋条投下竖向光影；顶部内置反射碗控制向上溢光"
+      thermal: "全开放骨架 + 底部无遮挡，自然对流散热极佳；顶座金属同时导热"
+      cmf:
+        color: "哑光黑（Matte Black）"
+        material: "压铸铝顶座 + 金属肋条笼架 + 硼硅透明玻璃"
+        finish: "金属件哑光粉末黑；玻璃透明"
+      mounting: "天花吸顶直接安装，顶座圆形法兰；背部走线"
+      signature_detail: "底端圆弧肋条收拢（无底盖）——开放的底部让光线无阻碍向下溢出，同时展示内部玻璃管构造"
+    design_level:
+      score: 4
+      reason: "In Vitro系列三形态（壁/吊/吸顶）中的吸顶版；底端开放圆弧收拢是本版本特有的细节，视觉上比吊灯版更精致；适合户外廊道/门洞吸顶安装"
+    design_tags:
+      - "户外吸顶"
+      - "笼架结构"
+      - "透明玻璃"
+      - "哑光黑"
+      - "竖向光影"
+      - "Philippe Starck"
+      - "In Vitro系列"
+      - "底端开放"
+    hero_feature: "底端圆弧收拢开放设计——结构收尾与出光方式同步解决，无多余结构件"
+    problem_solved: "在户外廊道天花提供IP65防水吸顶照明，兼顾功能与装饰性"
+    transferable_technique: "同一设计系统在壁/吊/吸顶三种安装形式间的适配演变逻辑值得学习；底端无底盖的开放收口处理手法可迁移"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/10.jpg"
+        image_role: "hero"
+        visual_anchor: "深绿色实心铝圆饼造型，壁挂安装，正面完全封闭"
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/12.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款白色版本，正面同样完全封闭圆饼"
+    product_name: "Casting W Outdoor Wall (Ron Gilad)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "户外壁灯 / 地埋上射灯"]
+    design_language:
+      silhouette: "正面为完整圆形薄饼造型（厚约60-70mm），背面中央有圆柱形安装接头；从正面看完全看不到任何出光口或发光面——反光面完全隐藏于圆饼侧边或背面"
+      light_opening: "光从圆饼侧边缘向墙面/地面射出（grazing light擦墙光）；正面不出光；圆饼边缘形成一圈薄光带，将光线以低角度掠过被照面，强调材质纹理"
+      thermal: "铸铝圆饼整体大面积散热；LED热量通过铝体传导至正面大面散发"
+      cmf:
+        color: "深森林绿（10.jpg）/ 哑光白（12.jpg）"
+        material: "压铸铝整体成型"
+        finish: "哑光粉末喷涂，细粒纹理；两色版本工艺相同"
+      mounting: "背面圆柱接头对应地插杆（地埋方向）或壁挂转接件；通用接口系统"
+      signature_detail: "完全封闭的正面——灯具白天看起来像一块彩色铝板，毫无发光体迹象，极度隐匿"
+    design_level:
+      score: 5
+      reason: "Ron Gilad Casting系列将灯具正面做成完全封闭的色块，颠覆传统对'灯具必须看见发光口'的预期；两色版本（绿/白）展示产品线的色彩策略；是Flos近年最具设计话题性的户外产品之一"
+    design_tags:
+      - "Casting系列"
+      - "铸铝"
+      - "封闭正面"
+      - "擦墙光"
+      - "隐匿出光"
+      - "深绿色"
+      - "哑光白"
+      - "Ron Gilad"
+      - "圆饼形态"
+      - "极简主义"
+    hero_feature: "正面完全封闭的圆铝饼——灯具隐藏自身，只留下光对被照面的效果"
+    problem_solved: "在建筑立面/地面提供低干扰的擦墙/擦地照明，白天灯具本身成为建筑装饰色块，不暴露任何工业器件"
+    transferable_technique: "隐藏出光口、让灯具正面成为色彩/材料表达面的设计策略可广泛迁移；擦边光出光方式的结构解决方案（侧边缝隙）值得参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_011"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/11.jpg"
+        image_role: "hero"
+        visual_anchor: "哑光黑圆柱形炮筒体，倾斜角度安装在地面短杆上，前端可见白色LED点光"
+    product_name: "Oblò Outdoor Ground Spike Spotlight"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "地插射灯"]
+    design_language:
+      silhouette: "锥台圆柱形灯头（前端略小于后端），通体饱满；尾部有细纹环状散热纹（可见于后端）；灯头以45°角安装在短地插杆上，形成斜向指向造型"
+      light_opening: "前端小圆口出光（约20-30mm开口直径），深筒遮光设计形成约15-25°窄角光束；强截光防眩，适合向上打树/墙面远射照明；出光口可见LED点"
+      thermal: "后端圆柱体增大散热面积；细纹环状外表面加大散热面积；深黑色粉末涂层增强辐射散热"
+      cmf:
+        color: "哑光黑（Matte Black）"
+        material: "压铸铝整体成型"
+        finish: "哑光黑粉末喷涂，后端有细纹沟槽纹理"
+      mounting: "尾部90°弯折接头连接短地插杆，地插杆打入土壤；灯头角度固定（约45°）"
+      signature_detail: "后端可见的细纹环状散热纹——将功能散热结构转化为视觉纹理细节，兼具功能与美感"
+    design_level:
+      score: 4
+      reason: "经典户外地插射灯形态的Flos版本：深筒截光 + 铸铝整体体 + 后端散热纹；细节处理精良，尤其散热纹的设计细度远超普通户外射灯"
+    design_tags:
+      - "地插射灯"
+      - "深筒截光"
+      - "窄角光束"
+      - "铸铝"
+      - "散热纹"
+      - "哑光黑"
+      - "景观打树灯"
+      - "45度斜射"
+    hero_feature: "深筒强截光圆柱形灯头 + 后端散热纹理——功能与美感完全统一的灯头设计"
+    problem_solved: "为景观设计提供精准方向可控的户外地插射灯，避免眩光同时形成戏剧性景观打光效果"
+    transferable_technique: "深筒遮光截光原理可迁移至任何需要防眩的照明产品；散热纹作为产品肌理细节的处理手法可迁移"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_012"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/13.jpg"
+        image_role: "hero"
+        visual_anchor: "深棕红色竖向超细长纹理圆柱杆 + 底端旋转射灯头，整体壁挂安装"
+    product_name: "Tracking Magnet Outdoor Wall (Jorre van Ast)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "户外壁挂射灯"]
+    design_language:
+      silhouette: "极细长竖向圆柱（高约600-700mm，直径约30mm），表面有垂直细纹；顶端有小型方形壁挂座；底端连接可旋转的椭圆形小射灯头；整体如一根发光棍"
+      light_opening: "底端椭圆形射灯头，可上下/左右旋转调角度，形成可调向窄角射光（约20-30°）；出光口朝向可独立于杆体调节；适合墙面艺术品打光"
+      thermal: "竖向细纹增大散热面积；铝管杆件全长导热；小功率LED（约5-8W），热负荷低"
+      cmf:
+        color: "深棕红（Rust Brown）"
+        material: "铝合金挤压圆管（带竖纹）+ 压铸铝射灯头"
+        finish: "深棕红哑光粉末喷涂全件；杆件竖纹为挤压成型工艺"
+      mounting: "顶端小型方形壁座固定；电源线从杆内走线"
+      signature_detail: "挤压铝管竖纹表面——将导热散热结构细节（挤压纹理）转化为产品的视觉识别语言"
+    design_level:
+      score: 4
+      reason: "Tracking系列将磁吸轨道灯的精准调光功能外化为极简圆柱形态；竖纹挤压铝管在照明产品中的应用精致；深棕红色贯穿In Vitro/Captain Flint/Tracking系列，形成Flos户外色彩系统"
+    design_tags:
+      - "壁挂射灯"
+      - "可旋转灯头"
+      - "挤压铝管"
+      - "竖纹纹理"
+      - "深棕红"
+      - "Jorre van Ast"
+      - "Tracking系列"
+      - "调向照明"
+    hero_feature: "竖向挤压铝管纹理杆 + 底端独立可调旋转射灯头——将轨道灯逻辑转化为单体壁挂产品"
+    problem_solved: "在户外墙面提供可精确调向的建筑/景观重点照明，无需安装轨道系统"
+    transferable_technique: "挤压铝管竖纹作为散热与视觉纹理双重功能的处理策略可迁移至其他铝制产品；射灯头与杆体分离可调的结构拆分方式可迁移"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_013"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/14.jpg"
+        image_role: "hero"
+        visual_anchor: "哑光黑实心矩形厚块体，顶面有矩形出光玻璃窗，侧壁挂安装"
+    product_name: "Pocket Outdoor Wall Uplight (Piero Lissoni)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "户外壁灯"]
+    design_language:
+      silhouette: "竖向实心矩形块体（比例约1:2宽高比），边角明显圆角处理；顶面有一个矩形出光窗（带磨砂玻璃/散射板）；整体像从墙内突出的一个厚实金属盒"
+      light_opening: "顶面矩形出光窗向上投射，形成向上漫射光（uplight）；出光方向朝上，将光线洗刷墙面上方区域；光线通过散射板均匀化，无眩光"
+      thermal: "大体积铝块整体散热；顶部出光窗有玻璃密封，防水同时不影响散热"
+      cmf:
+        color: "哑光黑（Matte Black）"
+        material: "压铸铝整体成型 + 顶面磨砂玻璃散射窗"
+        finish: "全件哑光黑粉末喷涂；玻璃磨砂白"
+      mounting: "背面贴合墙面壁挂，背后走线；无外露螺丝"
+      signature_detail: "顶面矩形磨砂玻璃出光窗——仅此一处开口，灯体其余五面完全封闭，出光方向高度克制"
+    design_level:
+      score: 4
+      reason: "Pocket系列以极简矩形铝块形态解决户外壁灯问题；顶部上射单一出光口的设计克制度极高；黑色矩形块在建筑立面上视觉干扰最小"
+    design_tags:
+      - "户外壁灯"
+      - "上射光"
+      - "矩形块体"
+      - "封闭灯体"
+      - "磨砂玻璃"
+      - "Piero Lissoni"
+      - "Pocket系列"
+      - "哑光黑"
+      - "极简建筑感"
+    hero_feature: "顶面唯一矩形出光口（其余五面封闭）——单一方向出光，灯具姿态高度克制"
+    problem_solved: "在建筑立面提供向上洗墙光，灯体本身以哑光黑矩形块消隐在立面中，白天不破坏建筑面貌"
+    transferable_technique: "单一方向出光（其余面封闭）的体积感灯体设计策略可迁移至需要定向照明的多种场景；矩形块体消隐于建筑立面的设计思路可迁移"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外灯具_014"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外灯具/15.jpg"
+        image_role: "hero"
+        visual_anchor: "大型多关节银色铝臂落地灯 + 黑色编织网锥形灯罩"
+    product_name: "Rete Outdoor Floor Giant (Patricia Urquiola)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "落地灯"]
+    design_language:
+      silhouette: "巨型多关节工程臂落地结构：锥形圆台底座 + 两段可折叠弹簧铝臂（类工业机械臂形态）+ 末端悬挂Rete锥形编织网灯罩；展开幅度可达2-3米跨度"
+      light_opening: "Rete编织网锥形灯罩底部开口向下漫散光 + 侧面网格透光形成肌理光晕；大口径灯罩（约500mm）提供宽角度漫射，照明面积大"
+      thermal: "多关节铝臂全金属导热；弹簧拉伸臂有助于散热；编织网灯罩完全开放散热"
+      cmf:
+        color: "银灰色铝（臂 + 底座）+ 黑色（编织网灯罩）"
+        material: "铝合金挤压多关节臂 + 弹簧平衡件 + HDPE编织网锥罩"
+        finish: "臂件哑光银；弹簧自然金属色；灯罩黑色哑光编织"
+      mounting: "锥形圆台配重底座，无需地面锚固；关节可自由折叠调节高度和伸展角度"
+      signature_detail: "巨型工程臂与精致编织灯罩的尺度对比——功能性机械臂 + 精细手工感灯罩，两个极端的组合"
+    design_level:
+      score: 4
+      reason: "Rete Giant将Patricia Urquiola的编织网灯罩系统放大到景观级尺度，配工业多关节臂；是Flos户外产品线中体量最大、最戏剧化的单品之一；工程臂 + 编织罩的跨品类材料组合高度原创"
+    design_tags:
+      - "落地灯"
+      - "多关节臂"
+      - "工程机械形态"
+      - "编织网灯罩"
+      - "巨型尺度"
+      - "Patricia Urquiola"
+      - "Rete系列"
+      - "银色铝"
+      - "跨品类材料组合"
+    hero_feature: "多关节折叠工程臂 + 编织网灯罩——将工业机械结构与精细编织工艺组合在同一件户外落地灯上"
+    problem_solved: "在大型户外空间（庭院/商业露台）提供可调节高度和角度的大范围主照明，形态兼具工程美感与手工艺感"
+    transferable_technique: "多关节可折叠铝臂的关节结构和弹簧平衡原理可迁移至需要可调节的大型落地灯设计；将室内灯系列扩展到户外巨型版本的产品线延伸策略值得借鉴"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

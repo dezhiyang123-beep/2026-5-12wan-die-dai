@@ -1,0 +1,114 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "路灯·市政灯"
+  tertiary: "户外地面灯·路径灯"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/路灯·市政灯/"
+  generated_at: "2026-05-09"
+products:
+  - product_id: "flos_路灯市政灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/路灯·市政灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向金属肋笼结构包裹圆柱玻璃扩散体，顶部圆盘封盖，整体呈灯笼柱形"
+    product_name: "Flos Tire（推测，竖肋笼柱型矮柱灯）"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "路灯·市政灯", "矮柱灯·路径灯"]
+    design_language:
+      silhouette: "圆柱形矮柱灯，顶部平盘盖+底部圆形底座，整体比例为1:3（径高），垂直肋条等分圆周形成笼状骨架"
+      light_opening: "360°全周透光，圆柱玻璃扩散体内置LED光源于底部，向上散射漫反射出光"
+      thermal: "金属肋骨架兼具结构与散热功能，开放式笼架自然对流散热，无独立散热鳍片"
+      cmf:
+        color: "森林绿（Forest Green，哑光）"
+        material: "铸铝骨架肋条 + 高透明圆柱玻璃扩散罩"
+        finish: "哑光粉末喷涂，质感细腻无反光"
+      mounting: "地面安装，底座落地式，适用于广场/步道/公共绿地"
+      signature_detail: "等间距垂直金属肋笼包裹玻璃柱体，肋条上下与圆盘封盖/底座一体成型，结构即装饰"
+    design_level:
+      score: 5
+      reason: "Flos标志性建筑级精度，笼架结构做到工业美感与功能性完美统一；全周漫射出光同时避免直射眩光；颜色与建筑环境融合度极高，细节工艺达到博物馆级"
+    design_tags: ["笼架结构", "漫反射出光", "全周透光", "360°发光", "矮柱路径灯", "建筑级户外灯", "意大利极简", "森林绿", "金属+玻璃"]
+    hero_feature: "竖向金属肋笼骨架——既是结构件又是装饰语言，消除灯罩视觉重量感，玻璃柱体悬浮感强烈"
+    problem_solved: "传统路径灯灯罩封闭笨重，Flos用开放笼架实现视觉轻盈化，同时保护光源免受物理冲击"
+    transferable_technique: "肋笼骨架手法（H03分件线+H09隐藏工程）：可迁移至台灯、吊灯、壁灯的遮光/保护结构，以结构本身代替灯罩"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_路灯市政灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/路灯·市政灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "圆润蘑菇形穹顶头部+细圆柱杆，全身单色整体感极强，头杆比例约1:2.5"
+    product_name: "Flos Fanalino（推测，蘑菇头矮柱灯）"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "路灯·市政灯", "矮柱灯·路径灯"]
+    design_language:
+      silhouette: "蘑菇形轮廓：大圆弧穹顶帽盖扣合在细圆柱杆顶端，无任何棱角与分缝线，整体雕塑感强"
+      light_opening: "穹顶帽盖底部向下出光，遮蔽上方天空，实现完全防溢光（full cut-off），减少光污染"
+      thermal: "封闭实体穹顶，热量通过铝合金杆体导出，杆体兼做散热通路"
+      cmf:
+        color: "森林绿（Forest Green，细砂哑光纹）"
+        material: "铸铝一体成型，穹顶与杆身同材质"
+        finish: "细砂纹哑光粉末喷涂，表面可见细微颗粒质感"
+      mounting: "细杆地面插入式或底部螺栓固定，适用于步道边缘/草坪/花坛"
+      signature_detail: "穹顶与杆身过渡处无任何分缝——穹顶底沿直接与杆顶圆弧相切，仿佛一体雕刻而成"
+    design_level:
+      score: 5
+      reason: "极度克制的减法设计，两个基本几何体（球冠+圆柱）构成完整产品；无螺丝无分缝无装饰线，工艺纯粹度极高；蘑菇意象自然亲切同时完全抽象化"
+    design_tags: ["蘑菇造型", "仿生几何", "减法设计", "全截光防溢光", "雕塑感", "整体铸铝", "无分缝", "矮柱路径灯", "森林绿", "极简主义"]
+    hero_feature: "穹顶帽盖与细杆的完美比例关系——头部足够宽以实现全截光遮蔽，杆部足够细以消除视觉重量，两者相切无缝过渡"
+    problem_solved: "路径灯普遍存在光污染（向上/向侧散射），蘑菇穹顶实现100%向下出光，保护夜间天空环境"
+    transferable_technique: "帽盖截光结构（H01减法+H09隐藏工程）：穹顶内藏LED模组，外部完全无技术暴露；可迁移至任何需要防眩光的户外/室内向下照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_路灯市政灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/路灯·市政灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "细长单杆从圆形底盘起弧，顶部悬挂小型圆柱格栅LED灯头，整体呈问号弧线形"
+    product_name: "Flos Landlord（推测，弧杆地面花园灯）"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "路灯·市政灯", "地面落地灯·花园灯"]
+    design_language:
+      silhouette: "单一弧形细杆从圆形底盘垂直起步后向前弯曲悬垂，末端挂载小型圆柱格栅灯头，整体轮廓如问号或倒钩"
+      light_opening: "圆柱格栅灯头侧面透光，水平出光方向可通过转动调节；格栅叶片精密排列实现防眩光控制"
+      thermal: "极小灯头体积与LED效率匹配，热量通过金属格栅叶片直接散热，无需额外散热结构"
+      cmf:
+        color: "深炭灰（Anthracite，近黑哑光）"
+        material: "细壁钢管弧形杆 + 精密冲压铝合金格栅灯头"
+        finish: "哑光粉末喷涂，消除反光，与暗色环境融合"
+      mounting: "圆形底盘地面螺栓固定，适用于硬质铺装广场/建筑出入口/景观节点"
+      signature_detail: "超细弯杆（管径约20mm）与微型格栅灯头的比例极端化处理——杆比灯头更显眼，结构线条成为主视觉元素"
+    design_level:
+      score: 5
+      reason: "将工程结构（弯管+灯头）推进至雕塑语言；格栅灯头工艺精度极高；弧线张力与极小灯头的对比制造强烈视觉记忆点；炭灰配色使灯具在白天几乎隐形，夜间光感突出"
+    design_tags: ["弧形杆", "格栅灯头", "精准点光源", "防眩光格栅", "雕塑线条", "极细杆身", "建筑级户外灯", "炭灰色", "落地花园灯", "方向可调"]
+    hero_feature: "超细弯弧杆与微型精密格栅灯头的极端比例对比——杆身线条主导视觉，灯头仅作点睛，打破路灯「灯头主导」的惯例"
+    problem_solved: "传统地面灯杆身粗壮、灯头笨重，视觉侵入性强；Flos弧杆灯以线代面，白天成为景观雕塑，减少视觉负担"
+    transferable_technique: "线性杆身+微型灯头比例倒置手法（H01减法+H08对比强调）：极细结构线+极小功能头的组合可迁移至台灯、落地灯、展示照明等产品的结构设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

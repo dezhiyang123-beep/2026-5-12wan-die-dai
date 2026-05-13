@@ -1,0 +1,351 @@
+schema_version: product_dna_v1
+category:
+  primary: H09_隐藏工程
+  secondary: 灯具/电动工具/家具
+  tertiary: ''
+source:
+  source_type: technique_library
+  source_folder: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H09_隐藏工程/
+  generated_at: '2026-05-09'
+products:
+- product_id: h09_artemide_001
+  source_images:
+  - filename: H09_artemide_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H09_隐藏工程/H09_artemide_001.jpg
+    image_role: hero
+    visual_anchor: 纯黑色圆环轮廓，内侧发光条极细
+  product_name: Alphabet of Light Circular
+  brand_name: Artemide
+  brand_confidence: medium
+  category_path:
+  - H09_隐藏工程
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 大直径圆环，截面极细（约20mm），整体呈完美圆形轮廓
+    light_opening: 发光口为圆环内侧一条极细LED光带，宽度约5mm，不可见光源本体
+    thermal: 散热结构完全内嵌于圆环铝型材截面内，外表面无任何散热鳍片可见
+    cmf:
+      color: 哑光黑
+      material: 铝合金挤出型材
+      finish: 粉末涂层，哑光
+    mounting: 两根极细钢丝悬挂，导线伪装成悬挂钢丝，从圆环顶部引出
+    signature_detail: 隐藏了：LED驱动器（内置于型材腔体）、导线（与悬挂钢丝合并为一体）、散热结构（型材腔体内循环）。隐藏策略：型材腔体化+导线与结构件合并。结果：视觉上呈现一条浮空的纯光线，无任何工程细节外露
+  design_level:
+    score: 5
+    reason: 教科书级H09示范。三种工程结构（驱动/导线/散热）全部隐藏，手段各不相同，最终轮廓极简到极致——一个发光的圆，无任何冗余
+  design_tags:
+  - H09隐藏工程
+  - 驱动器内嵌
+  - 导线结构合并
+  - 散热内化
+  - 纯轮廓
+  - 圆环灯
+  hero_feature: 完美圆环=一条漂浮的光，工程结构全部消失
+  problem_solved: 吊灯通常有明显的灯头/电箱/线缆，打断了形态纯粹感；此设计将所有工程节点消解进型材截面
+  transferable_technique: 将驱动器/控制器内嵌于产品主型材腔体，导线与悬挂/连接结构件合并为同一零件，散热通过型材截面自然传导而非外露鳍片——适用于任何有'看起来应该更薄/更纯粹'诉求的照明或消费电子产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h09_bega_001
+  source_images:
+  - filename: H09_bega_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H09_隐藏工程/H09_bega_001.jpg
+    image_role: hero
+    visual_anchor: 嵌入式筒灯，铜色内腔+黑色外圈，完全齐平于天花
+  product_name: BEGA嵌入式筒灯（铜色内腔款）
+  brand_name: BEGA
+  brand_confidence: medium
+  category_path:
+  - H09_隐藏工程
+  - 灯具
+  - 嵌入式筒灯
+  design_language:
+    silhouette: 圆形，完全嵌入天花板，外露面仅为一个圆形开口；黑色外圈+铜色抛物面内腔
+    light_opening: 发光口为铜色抛物面反射腔，LED光源藏于腔体底部不可直视
+    thermal: 散热体完全位于天花板内，用户面不可见
+    cmf:
+      color: 外圈哑光黑，内腔拉丝铜色
+      material: 铸铝（外圈）+ 铜色阳极氧化铝（内腔）
+      finish: 哑光粉末涂层 + 拉丝阳极氧化
+    mounting: 嵌入安装，面板与天花齐平，无可见安装螺丝或边框缝隙
+    signature_detail: 隐藏了：安装螺钉（背面固定）、LED光源（藏于抛物面腔底）、驱动器（天花内腔）、散热块（嵌入结构内）。隐藏策略：嵌入式+反向深腔+背面化安装。结果：天花板表面只见一个优雅的铜色圆洞，没有任何工程节点
+  design_level:
+    score: 5
+    reason: 嵌入式灯具H09的标准示范。开口极度克制，铜色内腔本身也是H10材料表达的跨手法应用；安装件、光源、散热全部消失
+  design_tags:
+  - H09隐藏工程
+  - 嵌入式安装
+  - 光源防直视
+  - 背面化安装
+  - 铜色内腔
+  - 天花齐平
+  hero_feature: 天花上只剩一个铜色圆洞，所有工程结构消失于墙体内
+  problem_solved: 嵌入式筒灯安装边框/螺丝/光源裸露破坏天花洁净感；此设计让安装面与天花完全一体
+  transferable_technique: 嵌入式安装+背面固定+反向深腔将光源或功能元件推离视线——适用于需要'表面只留开口，工程全藏墙体/机壳内'的嵌入式产品（面板灯、嵌入式传感器、智能门锁）
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h09_bega_002
+  source_images:
+  - filename: H09_bega_002.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H09_隐藏工程/H09_bega_002.jpg
+    image_role: hero
+    visual_anchor: 嵌入式筒灯，白色外圈+磨砂银色内腔，天花齐平
+  product_name: BEGA嵌入式筒灯（白色磨砂款）
+  brand_name: BEGA
+  brand_confidence: medium
+  category_path:
+  - H09_隐藏工程
+  - 灯具
+  - 嵌入式筒灯
+  design_language:
+    silhouette: 圆形嵌入，外圈为圆润宽边白色面板，内腔磨砂银色碗形，与天花平面融合
+    light_opening: 磨砂银色碗形内腔，中心LED透过漫射碗面均匀发光，无直射眩光
+    thermal: 完全隐藏于天花结构层内
+    cmf:
+      color: 外圈白色，内腔磨砂银
+      material: 铸铝
+      finish: 白色粉末涂层 + 磨砂阳极氧化
+    mounting: 圆形面板与天花齐平，边缘过渡平滑，无可见安装件
+    signature_detail: 隐藏了：光源（漫射腔掩盖）、安装螺丝（背面弹簧卡件）、驱动器（天花内）。隐藏策略：漫射腔面化光源+弹簧卡扣背面安装。用户感知：天花板'自然发光'，无光器感
+  design_level:
+    score: 4
+    reason: H09执行清晰，漫射腔手法比铜色版更彻底地消解了光源存在感；但外圈边框稍宽，略不如极简版纯粹
+  design_tags:
+  - H09隐藏工程
+  - 漫射腔隐藏光源
+  - 弹簧卡扣安装
+  - 天花齐平
+  - 白色系
+  hero_feature: 磨砂银碗面将LED彻底漫射，天花'自然发光'，无任何硬件感
+  problem_solved: LED点光源刺眼、安装边框破坏天花洁净度
+  transferable_technique: 漫射腔将点光源转化为面光源，同时掩盖光源本体——适用于任何需要隐藏点状发热/发光元件的产品（车内氛围灯、智能屏幕背光出口）
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h09_bega_003
+  source_images:
+  - filename: H09_bega_003.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H09_隐藏工程/H09_bega_003.jpg
+    image_role: hero
+    visual_anchor: 白色圆柱筒形吊灯，下方开口露出镀铬抛物面反射腔
+  product_name: BEGA圆柱吊灯（白色+镀铬内腔）
+  brand_name: BEGA
+  brand_confidence: medium
+  category_path:
+  - H09_隐藏工程
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 规整圆柱体，高宽比约1:1，顶部通过极细钢管悬挂；下方开口，镀铬内腔可见
+    light_opening: 向下开口，LED模组藏于镀铬抛物面反射腔顶端，仰视才可见光源
+    thermal: 散热体集成于圆柱上盖腔体内，外表面无任何散热纹路
+    cmf:
+      color: 外壳白色，内腔镀铬银
+      material: 铝合金
+      finish: 白色粉末涂层（外）+ 镀铬（内腔）
+    mounting: 细钢管悬挂，导线穿管走线，外表面无线缆裸露
+    signature_detail: 隐藏了：LED光源（藏于抛物面顶端）、驱动器（圆柱上腔）、导线（穿入悬挂钢管）、散热结构（上腔封闭）。隐藏策略：圆柱腔体化全部工程结构，钢管走线合一。结果：外观为一个纯净白色圆柱体，向下投光
+  design_level:
+    score: 4
+    reason: H09执行完整，四类工程结构全部隐藏，圆柱形态高度整洁；但与bega_004黑色版相比白色版视觉冲击力略弱
+  design_tags:
+  - H09隐藏工程
+  - 圆柱腔体化
+  - 钢管走线合一
+  - 驱动内置
+  - 抛物面防眩
+  hero_feature: 纯白圆柱体，所有工程节点消失于腔体内，只余向下投光行为
+  problem_solved: 吊灯驱动器外露、线缆悬挂凌乱的形态问题
+  transferable_technique: 将导线穿入悬挂/支撑结构件内腔，驱动/控制模块置于产品顶部封闭腔——适用于吊挂类产品（吊扇、音箱吊装、摄像头吊挂）
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h09_bega_004
+  source_images:
+  - filename: H09_bega_004.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H09_隐藏工程/H09_bega_004.jpg
+    image_role: hero
+    visual_anchor: 哑光黑圆柱吊灯，下方开口露出铜色内腔，黑细钢管悬挂
+  product_name: BEGA圆柱吊灯（黑色+铜色内腔）
+  brand_name: BEGA
+  brand_confidence: medium
+  category_path:
+  - H09_隐藏工程
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 规整圆柱体，与bega_003形态相同，黑色版本；下方开口可见铜色抛物面内腔
+    light_opening: 向下开口，铜色抛物面内腔，LED藏于顶端不直视
+    thermal: 同bega_003，散热完全封闭于圆柱上腔
+    cmf:
+      color: 外壳哑光黑，内腔拉丝铜色
+      material: 铝合金
+      finish: 哑光粉末涂层（外）+ 拉丝铜色阳极氧化（内腔）
+    mounting: 黑色细钢管悬挂，导线穿管走线
+    signature_detail: 与bega_003手法相同；黑+铜配色形成强烈内外对比，隐藏工程同时用材料对比制造惊喜——外部极度收敛，打开/仰视才见铜色内腔。H09与H10材料表达的双手法叠加
+  design_level:
+    score: 5
+    reason: H09执行与bega_003相同水准，但黑+铜的内外材料对比将'隐藏'手法升级为'揭示惊喜'——只有仰视才看到铜色内腔，形成主动探索感。双手法叠加教科书
+  design_tags:
+  - H09隐藏工程
+  - H10材料表达
+  - 内外材料对比
+  - 铜色内腔
+  - 揭示惊喜
+  - 圆柱腔体化
+  hero_feature: 黑色外壳完全收敛，仰视才见铜色内腔——H09与H10双手法叠加，外部隐藏工程，内部材料惊喜
+  problem_solved: 吊灯工程结构外露且形态平淡；此设计将隐藏工程与材料惊喜合并为一个设计动作
+  transferable_technique: 将内外材料/颜色设定为对比关系，外部极度收敛隐藏工程，内部用高级材料制造'打开/靠近才看到'的惊喜感——适用于工具、家电、灯具、包装
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h09_festool_001
+  source_images:
+  - filename: H09_festool_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H09_隐藏工程/H09_festool_001.jpg
+    image_role: hero
+    visual_anchor: Festool CTL MIDI工业吸尘器，白+深蓝+绿色配色，带滚轮
+  product_name: Festool CTL MIDI I 工业吸尘器
+  brand_name: Festool
+  brand_confidence: medium
+  category_path:
+  - H09_隐藏工程
+  - 电动工具
+  - 吸尘器
+  design_language:
+    silhouette: 矩形箱体，顶部前倾斜面集成操控面板；三段式分层：顶部深蓝滤芯仓、中部白色控制区、下部白色桶体；底部绿色踢脚制动踏板
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 白色为主，深海蓝顶仓，荧光绿制动踏板
+      material: ABS工程塑料
+      finish: 注塑本色，局部哑光
+    mounting: N/A（独立落地产品）
+    signature_detail: 隐藏了：电机腔体（封装于下段白色桶体内）、滤网（封装于顶部深蓝仓内可拆但日常不见）、电源线（收纳于桶体背面）、进气管路（内嵌走管）。隐藏策略：功能分层外壳化，将电机/管路封装为完整腔体，仅露操控面板和接口。结果：专业设备外观整洁，功能明确分区，无内部机械结构外露
+  design_level:
+    score: 4
+    reason: 工业设备H09的良好示范：电机、管路、滤网全部封装，外壳形态传达功能分层而非工程结构。绿色制动踏板是H11功能外显的跨手法应用
+  design_tags:
+  - H09隐藏工程
+  - 功能分层外壳化
+  - 电机腔体封装
+  - 管路内嵌
+  - 工业设备
+  - 三段式分层
+  hero_feature: 电机/滤网/管路全部封装，专业设备读起来像一个整洁的功能方块
+  problem_solved: 工业吸尘器通常有外露软管/滤网/进气口导致外观杂乱；此设计将所有工程部件封入对应功能仓
+  transferable_technique: 将设备内部功能模块对应划分为外壳分仓，每仓封装一类工程结构，通过外形分层暗示功能分布而非工程结构——适用于任何多功能设备（空气净化器、工具箱、基站产品）
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h09_furniture_001
+  source_images:
+  - filename: H09_furniture_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H09_隐藏工程/H09_furniture_001.jpg
+    image_role: hero
+    visual_anchor: 开放式壁挂衣帽间系统，白色层板+细金属立柱，齐平挂墙
+  product_name: 壁挂模块收纳系统（开放式衣帽间）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H09_隐藏工程
+  - 家具
+  - 收纳系统
+  design_language:
+    silhouette: 整面墙宽度的开放式壁挂系统；细金属立柱+白色层板+挂衣横杆+镜面底板；无踢脚、无侧板、无顶板
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 白色层板，银色/镀铬金属立柱
+      material: 粉末涂层钢板（层板）+ 钢管（立柱）
+      finish: 哑光白 + 镀铬
+    mounting: 立柱直接固定于墙面，固定件藏于立柱背面；层板通过槽孔挂于立柱，无可见螺丝
+    signature_detail: 隐藏了：墙面固定螺丝（立柱背面安装）、层板连接件（槽孔背挂）、结构加固横撑（藏于层板厚度内）。隐藏策略：背面化固定+槽孔连接系统。结果：整个收纳系统'浮'于墙面，只见极细立柱，无任何连接件外露
+  design_level:
+    score: 4
+    reason: 家具H09清晰示范：所有固定/连接件全部背面化，系统在视觉上'漂浮'于墙面；槽孔系统同时赋予灵活性
+  design_tags:
+  - H09隐藏工程
+  - 背面化固定
+  - 槽孔连接系统
+  - 壁挂浮动感
+  - 收纳家具
+  hero_feature: 整面收纳系统浮于墙面，无可见固定件，极细立柱是唯一结构痕迹
+  problem_solved: 收纳系统安装螺丝/连接件外露导致廉价感；此设计将全部连接工程推至背面
+  transferable_technique: 所有固定件/连接件设计为背面安装或隐藏于槽孔系统内——适用于任何需要'悬浮'感的壁挂类产品（显示器支架、厨卫挂件、工业设备壁挂）
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h09_furniture_002
+  source_images:
+  - filename: H09_furniture_002.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H09_隐藏工程/H09_furniture_002.jpg
+    image_role: hero
+    visual_anchor: 北欧室内场景，壁炉嵌入白墙+壁挂书架系统，壁炉烟管内嵌于墙
+  product_name: 壁炉嵌入+壁挂书架组合场景
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H09_隐藏工程
+  - 家具
+  - 室内收纳/壁炉
+  design_language:
+    silhouette: 左侧壁炉嵌入白墙开口，烟管垂直穿墙消失；右侧细金属立柱壁挂书架+白色抽屉柜；整面墙构成一体化背景
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 白墙/白书架，深灰壁炉，金属银立柱
+      material: 墙体（石膏板/混凝土）+ 钢立柱 + 烤漆钢板抽屉
+      finish: 白色乳胶漆 + 哑光钢
+    mounting: 书架立柱背面固定于墙；壁炉嵌入墙体开口，烟管穿墙隐入建筑结构
+    signature_detail: 隐藏了：壁炉烟管（穿墙嵌入消失）、书架固定件（背面化）、抽屉滑轨（封入柜体）。隐藏策略：建筑级嵌入（最彻底的H09——将管路工程推入建筑结构层）。结果：白墙上只有功能开口，无任何工程设施外露
+  design_level:
+    score: 4
+    reason: 场景级H09示范，烟管穿墙隐入建筑结构是最高级别的隐藏工程手法；书架系统H09执行与furniture_001相似
+  design_tags:
+  - H09隐藏工程
+  - 建筑级嵌入
+  - 管路穿墙
+  - 嵌入式壁炉
+  - 壁挂书架
+  - 一体化背景墙
+  hero_feature: 壁炉烟管穿入建筑结构消失，整面墙成为无工程痕迹的功能背景
+  problem_solved: 壁炉烟管外露是室内最显眼的工程结构，此设计将其完全纳入建筑层
+  transferable_technique: 将设备管路/线缆嵌入建筑/产品结构层（非表面走管），使功能痕迹消失于基础层——适用于嵌入式家电、暖通设备、建筑化产品设计
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

@@ -1,0 +1,83 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "多功能工具"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/多功能工具/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "makita_多功能工具_001"
+    source_images:
+      - filename: "多功能工具__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/多功能工具/多功能工具__01.jpg"
+        image_role: "kit_shot"
+        visual_anchor: "蓝绿色机身配黑色分件线，18V LXT电池底部插入，含充电器、附件及Makita帆布包，kit全家福，整体蓝绿+黑色系"
+      - filename: "多功能工具__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/多功能工具/多功能工具__03.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿色主体+黑色把手，机身修长，Starlock接口头部圆形金属锁盘，正面Makita白字标识，LXT电池槽底部，侧面银灰金属底板"
+    product_name: "Makita 18V LXT 多功能振动工具（Oscillating Multi-Tool）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "多功能工具"]
+    design_language:
+      silhouette: "纵向修长手枪握持式轮廓，顶部扁平振动头向前探出，整体细长"
+      light_opening: "N/A"
+      thermal: "机身侧面细密散热槽，位于马达舱区域"
+      cmf:
+        color: "蓝绿色（Makita teal）主导机身，黑色覆盖握把橡胶软包及分件线"
+        material: "工程塑料机壳+橡胶软包握把+金属Starlock接口盘"
+        finish: "哑光蓝绿色壳体，橡胶哑光黑色握把，银灰色金属锁盘"
+      mounting: "18V LXT电池底部纵向滑入锁定"
+      signature_detail: "Starlock MAX快换接口：无需工具一键换头；顶部锁盘银色圆形金属件是品类识别核心"
+    design_level:
+      score: 3
+      reason: "人机比例协调，蓝绿+黑分色执行干净，Starlock快换接口功能外显清晰，属标准执行到位水平"
+    design_tags: ["H07极简整合", "H11功能外显", "H08对比强调"]
+    hero_feature: "Starlock MAX无工具快换接口+蓝绿/黑双色分件线"
+    problem_solved: "多工种通用：切割、打磨、铲刮一机搞定，快换附件减少停工时间"
+    transferable_technique: "功能接口视觉外显化（圆形金属锁盘作为品类识别锚点）；蓝绿+黑分色收束机身比例"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "makita_多功能工具_002"
+    source_images:
+      - filename: "多功能工具__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/makita/多功能工具/多功能工具__02.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑配色机身（Black系列），顶部银白色Starlock MAX金属锁盘，AVT防震技术标识，BL Brushless标识，机身无蓝绿色，仅Makita白字"
+    product_name: "Makita 18V LXT 多功能工具 Black Edition（XMT035B）"
+    brand_name: "Makita"
+    brand_confidence: "high"
+    category_path: ["电动工具", "多功能工具"]
+    design_language:
+      silhouette: "纵向修长握持式，与001同骨架，头部Starlock圆盘略大，整体更粗壮"
+      light_opening: "N/A"
+      thermal: "机身侧面散热槽，黑色壳体中不显眼"
+      cmf:
+        color: "全黑（特别版Black Edition），仅白色Makita字标和银色金属锁盘作为跳色"
+        material: "工程塑料机壳+橡胶软包握把+金属Starlock MAX接口盘"
+        finish: "哑光黑色壳体，银色金属锁盘，白色丝印字体"
+      mounting: "18V LXT电池底部纵向滑入，电池槽设计与标准色版一致"
+      signature_detail: "AVT主动振动控制技术标识+全黑配色限定，Starlock MAX更大尺寸锁盘"
+    design_level:
+      score: 3
+      reason: "与001同架构，全黑配色执行精炼，AVT功能标识整合到位，Black Edition定位区隔清晰"
+    design_tags: ["H07极简整合", "H08对比强调", "H11功能外显"]
+    hero_feature: "全黑机身+银色Starlock MAX锁盘形成强对比，AVT防震外显标识"
+    problem_solved: "专业用户高频作业减震需求；Black Edition满足工地专业视觉辨识"
+    transferable_technique: "单色主题限定版（全黑）通过金属件跳色保持视觉张力，不失品类识别性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

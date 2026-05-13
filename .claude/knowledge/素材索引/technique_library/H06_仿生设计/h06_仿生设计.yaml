@@ -1,0 +1,215 @@
+schema_version: product_dna_v1
+category:
+  primary: H06_仿生设计
+  secondary: 家具 / 灯具
+  tertiary: ''
+source:
+  source_type: technique_library
+  source_folder: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H06_仿生设计/
+  generated_at: '2026-05-09'
+products:
+- product_id: h06_furniture_001
+  source_images:
+  - filename: H06_furniture_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H06_仿生设计/H06_furniture_001.jpg
+    image_role: context
+    visual_anchor: 两把人体工学办公椅（绿色网背）与模块化桌子的办公室场景
+  product_name: 人体工学网背办公椅
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H06_仿生设计
+  - 家具
+  design_language:
+    silhouette: 椅背为网状有机曲面，随人体脊椎曲线轮廓；座垫有机弧形；星形轮式底座
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 深绿色网布 + 黑色塑料框架 + 银色铝合金底座
+      material: 弹性网布椅背 + 软包座垫 + 铝合金底座
+      finish: 网布透气面 + 哑光塑料框
+    mounting: 五星轮式底座落地
+    signature_detail: 椅背轮廓随脊椎S形曲线贴合，网布弹性模拟肌肉自适应支撑
+  design_level:
+    score: 3
+    reason: 仿生元素为功能性人体工学借鉴（脊椎曲线 + 肌肉弹性），手法方向正确；但图片为环境氛围照，椅子为陪衬，细节不够突出
+  design_tags:
+  - H06仿生设计
+  - 人体工学椅
+  - 脊椎曲线仿生
+  - 弹性网背
+  - 自适应支撑
+  hero_feature: 椅背轮廓贴合人体脊椎S形曲线，网布弹性模拟肌肉组织的自适应性
+  problem_solved: 硬质椅背无法配合不同体型的脊椎曲度，长时间坐用引发腰背疲劳
+  transferable_technique: 将人体骨骼/肌肉的弹性自适应特性翻译为产品支撑结构的设计策略
+  confidence:
+    visual_description: medium
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h06_furniture_002
+  source_images:
+  - filename: H06_furniture_002.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H06_仿生设计/H06_furniture_002.jpg
+    image_role: hero
+    visual_anchor: 全白人体工学网背椅，肋骨形网格结构椅背清晰可见
+  product_name: 仿脊椎结构人体工学椅（全白配色）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H06_仿生设计
+  - 家具
+  design_language:
+    silhouette: 椅背呈腰椎 + 胸椎形态，上宽下窄，与人体背部轮廓高度吻合；椅背网格纹路呈肋骨状放射
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 全白
+      material: 白色弹性网布 + 白色工程塑料框架 + 白色铝合金底座
+      finish: 哑光白全身统一处理
+    mounting: 五星轮式底座，可升降
+    signature_detail: 椅背框架轮廓与人类脊柱及肩胛骨轮廓高度对应，网格线条呈放射状模拟肋骨走向
+  design_level:
+    score: 4
+    reason: 仿生层次明确：形态仿生（脊椎轮廓）+ 结构仿生（肋骨网格）双层并存；白色配色使结构细节高度可读；手法示范清晰
+  design_tags:
+  - H06仿生设计
+  - 脊椎形态仿生
+  - 肋骨网格结构
+  - 人体工学椅
+  - 双层仿生
+  hero_feature: 椅背轮廓完整复现脊椎曲线，网格纹路沿肋骨方向放射，形态与结构仿生同步实现
+  problem_solved: 通用椅背形状与人体背部不贴合，无法提供分区支撑
+  transferable_technique: 骨骼形态作为产品外轮廓的直接参考源；编织/网格纹理模拟生物组织结构
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h06_furniture_003
+  source_images:
+  - filename: H06_furniture_003.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H06_仿生设计/H06_furniture_003.jpg
+    image_role: hero
+    visual_anchor: 绿色重纺织物全包覆人体工学椅，靠背与头枕呈流动有机曲面
+  product_name: Humanscale Freedom Chair（绿色版）
+  brand_name: Humanscale
+  brand_confidence: medium
+  category_path:
+  - H06_仿生设计
+  - 家具
+  design_language:
+    silhouette: 整体轮廓流动有机，靠背从腰部延伸至头枕呈连续曲线；头枕独立悬浮，随头部动作自适应
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 深绿色混纺布艺 + 黑色框架
+      material: 厚重布艺面料 + 工程塑料 + 铝合金
+      finish: 粗纺布艺质感 + 哑光黑框架
+    mounting: 四星基座 + 中央气压杆升降
+    signature_detail: 靠背曲面呈叶片/贝壳弧面形态，头枕如荷叶状独立悬挑
+  design_level:
+    score: 4
+    reason: 有机曲面形态明确借鉴自然形态（贝壳/叶片弧度），头枕的独立悬浮结构类比颈椎关节自由度；形态与功能双重仿生
+  design_tags:
+  - H06仿生设计
+  - 有机曲面仿生
+  - Humanscale
+  - 头枕自适应
+  - 叶片形靠背
+  hero_feature: 靠背整体呈贝壳/叶片弧面，头枕结构模拟颈椎关节的多向自由度
+  problem_solved: 固定头枕无法跟随头部运动，造成颈部僵硬
+  transferable_technique: 关节自由度仿生（颈椎）应用于头枕铰接机构；有机曲面分区对应人体受力区的形态策略
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h06_furniture_007
+  source_images:
+  - filename: H06_furniture_007.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H06_仿生设计/H06_furniture_007.jpg
+    image_role: hero
+    visual_anchor: 蓝灰色金属细腿餐椅，椅背为圆形孔洞编织镂空纹理
+  product_name: 镂空网格背餐椅（藤编纹路仿生）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H06_仿生设计
+  - 家具
+  design_language:
+    silhouette: 方形椅背 + 方形座面，细金属腿，整体轻盈；椅背满布圆形镂空网格
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 蓝灰色整体涂装
+      material: 金属冲孔板椅背 + 金属框架
+      finish: 粉末涂层蓝灰
+    mounting: 四腿落地，可叠放（腿部略外倾）
+    signature_detail: 椅背圆形冲孔阵列模拟藤编/竹编的规律性孔洞图案
+  design_level:
+    score: 3
+    reason: 纹理仿生（藤编孔洞规律）可识别，但材质为金属冲孔板而非天然材料，仿生转译较间接；作为H06示范力度中等
+  design_tags:
+  - H06仿生设计
+  - 藤编纹路仿生
+  - 金属冲孔椅背
+  - 餐椅
+  - 纹理转译
+  hero_feature: 金属冲孔阵列将自然藤编编织的孔洞图案以工业化方式复现
+  problem_solved: 藤编材料户外耐候性差，金属冲孔板保留视觉语言同时提升耐久性
+  transferable_technique: 将天然编织纹理（竹/藤）的规律性孔洞转译为金属冲孔工艺，保留视觉仿生感同时获得工业材料优势
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h06_furniture_009
+  source_images:
+  - filename: H06_furniture_009.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H06_仿生设计/H06_furniture_009.jpg
+    image_role: hero
+    visual_anchor: 多件有机圆润沙发 + 圆形石面咖啡桌，鹅卵石/蘑菇状轮廓
+  product_name: 有机形态模块沙发 + 石材面咖啡桌组合
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H06_仿生设计
+  - 家具
+  design_language:
+    silhouette: 沙发单元呈卵石/蘑菇状，无棱角；咖啡桌为圆盘面 + 三脚底座，形似蘑菇截面
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 沙发：米白羊绒布 + 浅灰混纺；咖啡桌：天然大理石面 + 原木色底座
+      material: 布艺软包 + 大理石桌面 + 木质桌腿
+      finish: 绒面布艺 + 哑光石材 + 磨砂木
+    mounting: 落地，沙发各单元可独立移动组合
+    signature_detail: 所有家具轮廓呈卵石/鹅卵石无棱角有机曲面，整体陈设形成生物聚落感
+  design_level:
+    score: 4
+    reason: 形态仿生层次清晰（卵石/蘑菇），多件组合形成有机聚落整体感；H06仿生语言统一贯穿整套家具；转译自然到家具的整体性强
+  design_tags:
+  - H06仿生设计
+  - 卵石形态仿生
+  - 有机圆润轮廓
+  - 蘑菇形咖啡桌
+  - 生物聚落感
+  hero_feature: 整套家具统一采用卵石/蘑菇的无棱角有机曲面，组合陈设后形成自然聚落视觉效果
+  problem_solved: 直角家具在视觉和触觉上给人疏离感，有机曲面营造亲和柔和的居住氛围
+  transferable_technique: 将河床卵石或蘑菇的圆润包覆形态作为家具轮廓DNA，统一应用于整套产品线
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

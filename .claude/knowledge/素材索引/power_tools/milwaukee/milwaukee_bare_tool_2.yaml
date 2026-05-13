@@ -1,0 +1,594 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "bare_tool综合"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/"
+  generated_at: "2026-05-08"
+
+products:
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 1: M18 Brushless Impact Driver (current gen, BRUSHLESS badge)
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_021_022"
+    source_images:
+      - filename: "milwaukee_bare_021.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_021.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧45°视角，红色机身+黑色散热格栅面板，银灰色冲击头，Milwaukee红盾徽标，BRUSHLESS文字标识，底部金属挂钩，无电池裸机"
+      - filename: "milwaukee_bare_022.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_022.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "左侧视角，同款M18无刷冲击起子机，展示把手纹理与换向拨片红色细节"
+    product_name: "Milwaukee M18 Brushless Impact Driver"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "冲击起子机", "M18无刷"]
+    platform: "M18"
+    sub_series: "Brushless（非FUEL代）"
+    design_language:
+      silhouette: "标准T形手枪握持轮廓，机头短促，机身比例均衡，底部金属L形挂钩为识别特征"
+      light_opening: "N/A"
+      thermal: "机身侧面黑色纵向散热槽，嵌于红色壳体内，视觉上形成红黑分件"
+      cmf:
+        color: "主色亮红色机身，次色哑黑色散热罩+把手包胶，银灰色压铸冲击头"
+        material: "工程塑料机身，橡胶包覆把手，铝压铸冲击头"
+        finish: "机身亮面红色喷涂，把手细格纹哑面橡胶，冲击头砂银"
+      mounting: "底部M18滑轨电池接口（裸机状态空置），侧面金属L形工具挂钩"
+      signature_detail: "Milwaukee红盾徽标居机身侧面黄金位，BRUSHLESS文字标识于机头下方，换向拨片红色点缀"
+    design_level:
+      score: 3
+      reason: "品牌语法执行到位，红黑配色+散热分件+金属挂钩三件套完整呈现，工业感强，但无差异化突破，属于平台标准执行"
+    design_tags: ["H08对比强调", "H03分件线", "H02包覆", "无刷标识外显", "金属挂钩"]
+    hero_feature: "银灰压铸冲击头与红色机身的强色彩对比分件，配合BRUSHLESS徽标明确性能级别"
+    problem_solved: "M18平台轻量化冲击起子，满足日常紧固任务，无刷电机提升续航"
+    transferable_technique: "红黑分件+散热槽视觉化处理可迁移至同级别手持工具；金属L形挂钩作为功能外显细节可跨品类借鉴"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 2: M12 Right Angle Impact Driver (水平筒形)
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_023"
+    source_images:
+      - filename: "milwaukee_bare_023.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_023.jpg"
+        image_role: "hero"
+        visual_anchor: "水平卧式筒形机身，左端90°直角冲击头（银灰压铸），右端平滑收尾含电量指示灯和电池接口，机身中段红色Milwaukee徽标，侧面三段散热槽，握持区黑色纹理橡胶"
+    product_name: "Milwaukee M12 Right Angle Impact Driver"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "直角冲击起子机", "M12"]
+    platform: "M12"
+    sub_series: "Right Angle"
+    design_language:
+      silhouette: "水平卧式圆筒形，无传统手枪握把，整体呈'香肠+直角头'形态，极度紧凑，适合狭小空间"
+      light_opening: "N/A"
+      thermal: "机身侧面三段矩形散热槽，红色背景内黑色开口"
+      cmf:
+        color: "主色亮红色，散热槽黑色，直角头银灰压铸"
+        material: "工程塑料主体，压铸铝直角头"
+        finish: "机身亮红，握持区浅浮雕纹理"
+      mounting: "机身末端M12平推式电池接口（裸机状态空置）"
+      signature_detail: "90°直角冲击头银灰压铸件，与红色机身形成强烈材质对比；四点电量指示灯嵌入机身侧面"
+    design_level:
+      score: 3
+      reason: "特殊功能形态执行干净，直角头+卧式筒形是品类强约束的正确响应，细节到位，无设计冗余"
+    design_tags: ["H07极简整合", "H03分件线", "直角头", "M12紧凑平台", "狭小空间"]
+    hero_feature: "水平卧式筒形机身+90°银灰直角冲击头，彻底消除传统手枪轮廓以换取可达性"
+    problem_solved: "无法使用标准手枪式工具的狭小空间紧固（管道、机柜内部）"
+    transferable_technique: "水平卧式筒形握持策略可迁移至狭小空间工具设计；直角头与主体材质色彩双重区分的分件手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 3: M18 Impact Driver Gen2（灰色为主，旧一代）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_024_027"
+    source_images:
+      - filename: "milwaukee_bare_024.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_024.jpg"
+        image_role: "hero"
+        visual_anchor: "右前侧视角，灰色为主机身（非当前代亮红），红色Milwaukee徽标+红色散热格栅区块，银灰冲击头，底部金属L形挂钩，无BRUSHLESS徽标"
+      - filename: "milwaukee_bare_027.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_027.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "正右侧视角，同款灰色M18冲击起子机，灰色机身占主导，红色为点缀色"
+    product_name: "Milwaukee M18 Impact Driver（前代灰色版）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "冲击起子机", "M18前代"]
+    platform: "M18"
+    sub_series: "前代（灰色主体）"
+    design_language:
+      silhouette: "标准T形手枪轮廓，与当代版相比机身更厚重，比例略方正"
+      light_opening: "N/A"
+      thermal: "红色散热格栅区块，嵌于灰色壳体，红色为强调色非主体色"
+      cmf:
+        color: "主色灰色机身，红色为散热区块点缀色，银灰冲击头"
+        material: "工程塑料，压铸铝冲击头"
+        finish: "机身灰色哑面，散热区红色亮面"
+      mounting: "底部M18滑轨接口，金属L形挂钩"
+      signature_detail: "红色散热块在灰色机身上的强对比；Milwaukee徽标为红色盾形植入灰色面"
+    design_level:
+      score: 2
+      reason: "前代产品，灰红配色层级不清晰，红色仅作点缀而非主导，品牌识别度低于当代版，属于过渡期设计"
+    design_tags: ["H08对比强调", "H03分件线", "前代设计", "对比参考"]
+    hero_feature: "灰色主体+红色散热格栅点缀，与当代全红版形成代际对比"
+    problem_solved: "M18平台标准紧固任务"
+    transferable_technique: "作为对比参考：灰色为主+品牌色点缀的配色层级策略，说明当代全红策略在识别度上的优越性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 4: M18 Right Angle Impact Wrench（垂直直角冲击扳手）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_025"
+    source_images:
+      - filename: "milwaukee_bare_025.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_025.jpg"
+        image_role: "hero"
+        visual_anchor: "垂直视角，顶部90°直角头朝上（银灰大圆柱压铸），机身垂直红黑分件，Milwaukee徽标于机身中段，侧面散热槽，底部M18接口，把手区黑色橡胶纹理，整体修长竖立形态"
+    product_name: "Milwaukee M18 Right Angle Impact Wrench"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "直角冲击扳手", "M18"]
+    platform: "M18"
+    sub_series: "Right Angle Impact Wrench"
+    design_language:
+      silhouette: "竖立条形机身+顶端90°大圆柱压铸头，形成'T字旋转90°'的独特轮廓，高度远大于宽度"
+      light_opening: "N/A"
+      thermal: "机身两段纵向散热槽，红色背景"
+      cmf:
+        color: "主色亮红色，把手区哑黑橡胶，顶部直角头银灰压铸"
+        material: "工程塑料，大型铝压铸直角头"
+        finish: "机身亮红，把手哑黑纹理，压铸头砂银"
+      mounting: "底部M18滑轨接口"
+      signature_detail: "超大银灰压铸直角头占机身整体高度约40%，功能即外形，视觉重量感强"
+    design_level:
+      score: 3
+      reason: "特殊品类形态处理得当，竖直修长比例清晰，大压铸头功能外显做到极致，品牌语法完整"
+    design_tags: ["H11功能外显", "H03分件线", "直角头", "M18压铸件", "竖立形态"]
+    hero_feature: "超大银灰铝压铸直角冲击头，占机身近半比例，功能级别一眼可识"
+    problem_solved: "管道、机械设备等需要垂直空间内大扭矩拧紧的场景"
+    transferable_technique: "大体量功能件（压铸头）作为视觉主角的设计策略；竖立修长比例在受限空间工具中的应用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 5: M12 Impact Driver（旧一代，银灰头，燃料指示灯）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_026"
+    source_images:
+      - filename: "milwaukee_bare_026.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_026.jpg"
+        image_role: "hero"
+        visual_anchor: "右前侧视角，M12平台旧代冲击起子机，红色机身+银灰冲击头，Milwaukee盾形徽标+侧翼银灰装饰件，四点燃油仪表式指示灯，把手粗纹橡胶，无金属挂钩"
+    product_name: "Milwaukee M12 Impact Driver（旧一代）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "冲击起子机", "M12前代"]
+    platform: "M12"
+    sub_series: "前代（四点燃油指示灯版）"
+    design_language:
+      silhouette: "小型T形手枪轮廓，机身比当代M12更矮短，把手略粗"
+      light_opening: "N/A"
+      thermal: "无明显散热格栅，机身侧面平滑"
+      cmf:
+        color: "亮红机身，银灰冲击头，银灰侧翼装饰件"
+        material: "工程塑料，压铸铝冲击头"
+        finish: "机身亮红，粗格纹橡胶把手"
+      mounting: "底部M12滑轨接口（裸机）"
+      signature_detail: "Milwaukee盾形+两侧银灰装饰翼片（旧版品牌语法），四点燃油计式指示灯外露"
+    design_level:
+      score: 2
+      reason: "前代设计，银灰装饰翼片为旧版品牌语法特征，设计层级不如当代版清晰，但为品牌语法演化提供对比参考"
+    design_tags: ["H03分件线", "前代设计", "品牌语法演化参考", "燃料指示灯外显"]
+    hero_feature: "旧版双翼银灰装饰件围绕Milwaukee徽标，与当代简化版本形成代际对比"
+    problem_solved: "M12平台轻量紧固任务"
+    transferable_technique: "品牌语法演化对比：旧版装饰翼片→当代纯色面+散热槽的简化路径，说明去装饰趋势"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 6: M18 FUEL Jig Saw D-handle（D形框架把手曲线锯）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_028"
+    source_images:
+      - filename: "milwaukee_bare_028.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_028.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M18 FUEL曲线锯D形顶部把手，全红色大体量机身，黑色菱形纹理D形把手，Milwaukee+FUEL徽标于侧面，M18平台标识，底部铝制锯底板，锯条竖直可见，摆轨拨轮金属件"
+    product_name: "Milwaukee M18 FUEL Jig Saw（D-handle）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "曲线锯", "M18 FUEL D形把手"]
+    platform: "M18 FUEL"
+    sub_series: "D-handle Jig Saw"
+    design_language:
+      silhouette: "D形顶部把手为剪影主特征，机身厚实方正，底板水平宽大，整体重心低稳"
+      light_opening: "D形把手内部镂空形成负形，是品牌曲线锯的标志性识别元素"
+      thermal: "机身侧面无明显散热槽（FUEL内部散热），顶部后端有细小通风缝"
+      cmf:
+        color: "主色全亮红机身（FUEL系列红色饱和度最高），D形把手黑色菱形纹理橡胶"
+        material: "工程塑料主体，铝合金锯底板，橡胶包覆把手"
+        finish: "机身高亮红，把手菱形压花哑黑橡胶，底板拉丝铝"
+      mounting: "后端M18 FUEL滑轨电池接口（裸机）"
+      signature_detail: "D形镂空框架把手是Milwaukee曲线锯的品类身份锚点，黑色包覆橡胶与红色机身强对比"
+    design_level:
+      score: 4
+      reason: "D形把手作为造型创新亮点，在功能性（可控性/操作感）和识别性（品牌记忆点）上双向得分，FUEL级别品质感到位"
+    design_tags: ["H08对比强调", "H02包覆", "D形把手", "负形设计", "FUEL系列", "H11功能外显"]
+    hero_feature: "D形镂空顶部把手——去掉即失去Milwaukee曲线锯的品类身份，是灵魂特征"
+    problem_solved: "精准曲线切割，D形把手提供单手牢固控制，适合长时间作业减少疲劳"
+    transferable_technique: "D形框架把手的负形设计策略可迁移至需要单手控制的切割/打磨类工具；菱形纹理橡胶的防滑视觉语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 7: M12 FUEL Jig Saw barrel-grip（M12桶形握持曲线锯）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_029"
+    source_images:
+      - filename: "milwaukee_bare_029.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_029.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M12 FUEL曲线锯桶形握持设计，黑色顶部拱形橡胶握把，红色机身，Milwaukee+FUEL徽标，M12标识，侧面双拨片控制器，四点电量指示灯，铝制锯底板，摆轨拨盘可见"
+    product_name: "Milwaukee M12 FUEL Jig Saw（Barrel Grip）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "曲线锯", "M12 FUEL桶形握持"]
+    platform: "M12 FUEL"
+    sub_series: "Barrel Grip Jig Saw"
+    design_language:
+      silhouette: "顶部拱形桶握设计，整体呈矮胖方块形，比D形版更紧凑低矮，重心极低"
+      light_opening: "N/A"
+      thermal: "机身侧面无散热槽（FUEL系列内部热管理）"
+      cmf:
+        color: "主色亮红，顶部握把黑色菱形橡胶，底板铝银"
+        material: "工程塑料，橡胶，铝合金底板"
+        finish: "机身亮红，握把哑黑菱形纹理，底板拉丝铝"
+      mounting: "机身末端M12平推式电池接口（裸机）"
+      signature_detail: "低重心拱形桶握把手，贴合手掌包覆感强，配合机身矮胖比例形成独特轮廓"
+    design_level:
+      score: 3
+      reason: "M12紧凑平台适配得当，桶握形态针对精细工作场景有设计依据，执行干净，但无突破性创新"
+    design_tags: ["H02包覆", "H07极简整合", "桶形握持", "低重心", "M12紧凑"]
+    hero_feature: "超低重心拱形桶握把手，为精细切割提供最优控制感"
+    problem_solved: "M12平台紧凑曲线锯，桶握设计适合精细木工和需要俯视操作的场景"
+    transferable_technique: "桶形握持策略用于紧凑型切割工具可提升俯视控制感；低矮宽底形态对稳定性感知的贡献"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 8: M18 FUEL Jig Saw barrel-grip（M18桶形握持曲线锯）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_030"
+    source_images:
+      - filename: "milwaukee_bare_030.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_030.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M18 FUEL曲线锯桶形握持，全亮红机身更大体量，黑色拱形顶握，Milwaukee+FUEL徽标，M18标识，后端ONE-KEY风格数字计数器（56A），铝制锯底板"
+    product_name: "Milwaukee M18 FUEL Jig Saw（Barrel Grip）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "曲线锯", "M18 FUEL桶形握持"]
+    platform: "M18 FUEL"
+    sub_series: "Barrel Grip Jig Saw"
+    design_language:
+      silhouette: "M18体量桶形握持，比M12版更宽大厚实，重心低，前后配重均衡"
+      light_opening: "N/A"
+      thermal: "机身平整，FUEL内部热管理"
+      cmf:
+        color: "全亮红机身（FUEL系列高饱和），黑色顶握橡胶，铝银底板"
+        material: "工程塑料，橡胶，铝合金底板"
+        finish: "机身亮红，顶握哑黑纹理，底板拉丝铝"
+      mounting: "后端M18 FUEL电池接口（裸机）"
+      signature_detail: "后端ONE-KEY数字计数显示（'56A'）为智能功能外显元素，与M12版形成功能级别区分"
+    design_level:
+      score: 3
+      reason: "M18 FUEL级别执行完整，ONE-KEY数字计数功能外显是加分项，整体比例协调，品牌语法到位"
+    design_tags: ["H02包覆", "H11功能外显", "ONE-KEY", "桶形握持", "FUEL系列"]
+    hero_feature: "机身后端ONE-KEY数字计数显示，将数字智能功能实体化外显于工具机身"
+    problem_solved: "M18 FUEL高性能曲线锯，桶握用于精细切割，ONE-KEY提供速度自定义与追踪"
+    transferable_technique: "数字计数/参数外显作为功能级别信号（H11）；桶握+全红机身在M18体量下的比例处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 9: M12 Jig Saw（旧一代桶形，灰红配色）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_031"
+    source_images:
+      - filename: "milwaukee_bare_031.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_031.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M12旧代曲线锯桶形握持，灰色顶部宽大拱形握把，红色机身下半段，Milwaukee徽标，M12徽标，侧面三点电量指示灯，铝制锯底板更宽，整体比当代版更方正厚重"
+    product_name: "Milwaukee M12 Jig Saw（前代）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "曲线锯", "M12前代"]
+    platform: "M12"
+    sub_series: "前代桶形握持"
+    design_language:
+      silhouette: "更方正厚重的桶形，灰色顶部拱握比例大，整体重心更高，视觉更笨重"
+      light_opening: "N/A"
+      thermal: "机身平整，无散热槽"
+      cmf:
+        color: "灰色顶握，红色机身下段（灰红比例与当代相反）"
+        material: "工程塑料，铝合金底板"
+        finish: "顶握哑灰，机身亮红"
+      mounting: "底端M12接口"
+      signature_detail: "灰色占主导的旧版配色策略，灰色顶握超大面积覆盖"
+    design_level:
+      score: 2
+      reason: "前代设计，灰色主导削弱品牌识别，比例偏方正笨重，与当代版对比可见设计进化方向"
+    design_tags: ["前代设计", "对比参考", "配色演化"]
+    hero_feature: "灰色大拱握与红色机身的旧版配色比例（对比参考价值）"
+    problem_solved: "M12紧凑曲线锯基础功能"
+    transferable_technique: "对比参考：灰色拱握→黑色拱握的品牌语法迭代，红色占比增大的设计进化轨迹"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 10: M12 FUEL 3" Compact Cut Off Tool（紧凑切割机）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_032"
+    source_images:
+      - filename: "milwaukee_bare_032.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_032.jpg"
+        image_role: "hero"
+        visual_anchor: "俯视45°视角，M12 FUEL 3英寸紧凑切割机，内嵌式握把（手掌覆盖顶面），切割轮从机身前下方伸出，Milwaukee徽标侧面可见，红色机身+黑色握持区，切割轮带Milwaukee品牌标识，砂轮规格标注清晰"
+    product_name: "Milwaukee M12 FUEL 3\" Compact Cut Off Tool"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "紧凑切割机", "M12 FUEL"]
+    platform: "M12 FUEL"
+    sub_series: "Compact Cut Off"
+    design_language:
+      silhouette: "内嵌式手掌握持形态（非传统外露握把），整体呈'砖块+切割轮'轮廓，极度紧凑，操作角度感知强"
+      light_opening: "N/A"
+      thermal: "机身后端细通风缝"
+      cmf:
+        color: "亮红机身，黑色顶面手掌握持区，砂轮灰色带Milwaukee红色品牌标"
+        material: "工程塑料，树脂切割轮"
+        finish: "机身亮红，握持区菱形纹哑黑"
+      mounting: "机身末端M12接口（裸机）"
+      signature_detail: "内嵌式手掌握持区取代外露把手，功能与造型极度一体化（H07极简整合的极致）"
+    design_level:
+      score: 4
+      reason: "彻底消除外露把手的设计决策勇敢且执行出色，实现了该品类独有的极简整合，造型创新明显"
+    design_tags: ["H07极简整合", "H11功能外显", "内嵌握持", "品类突破", "M12紧凑FUEL"]
+    hero_feature: "内嵌手掌握持区——传统切割机的圆形把手被完全取消，机身即握把，品类形态创新"
+    problem_solved: "狭小空间金属切割，内嵌握持提升可操控性和单手可控性"
+    transferable_technique: "内嵌式手掌握持策略可迁移至其他紧凑工具；'机身即握把'的极简整合（H07）示范案例"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 11: M12 FUEL Die Grinder（手枪握持直磨机）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_033"
+    source_images:
+      - filename: "milwaukee_bare_033.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_033.jpg"
+        image_role: "hero"
+        visual_anchor: "正右侧视角，M12 FUEL直磨机手枪握持版，红色机身顶部圆柱磨头（短），Milwaukee+FUEL徽标，M12标识嵌于把手，黑色菱形纹理橡胶握把占把手大部，侧面扳机，底部M12接口，造型紧凑"
+    product_name: "Milwaukee M12 FUEL Die Grinder（Pistol Grip）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "直磨机", "M12 FUEL手枪握持"]
+    platform: "M12 FUEL"
+    sub_series: "Pistol Grip Die Grinder"
+    design_language:
+      silhouette: "手枪T形轮廓，顶端短圆柱磨头（非冲击头），机身细高，把手长度比冲击起子机更长"
+      light_opening: "N/A"
+      thermal: "机头红色区段有细通风缝"
+      cmf:
+        color: "亮红机头区，黑色橡胶把手主导，Milwaukee+FUEL徽标于红色分片上"
+        material: "工程塑料，橡胶把手"
+        finish: "机头亮红，把手菱形纹哑黑"
+      mounting: "底部M12接口（裸机）"
+      signature_detail: "Milwaukee+FUEL徽标的菱形红色背景片嵌于黑色把手上方，形成品牌视觉焦点"
+    design_level:
+      score: 3
+      reason: "FUEL品牌语法执行完整，手枪握持在直磨机品类中属传统路线，红色品牌片嵌黑色把手的处理有层次感"
+    design_tags: ["H08对比强调", "H02包覆", "FUEL系列", "手枪握持", "直磨机"]
+    hero_feature: "Milwaukee+FUEL双徽标嵌入菱形红色背景片，在黑色主导把手上形成清晰品牌焦点"
+    problem_solved: "M12平台精密打磨/研磨，手枪握持适合单手精细操作"
+    transferable_technique: "品牌徽标+系列徽标双层级嵌入策略；黑色把手上红色菱形背景片作为品牌锚点的视觉处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 12: M18 FUEL Angle Grinder with ONE-KEY（大角磨机，含ONE-KEY WiFi）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_034_035_038"
+    source_images:
+      - filename: "milwaukee_bare_034.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_034.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧45°视角，M18 FUEL角磨机含ONE-KEY，水平长筒形机身，Milwaukee+FUEL徽标于红色机身侧面，ONE-KEY徽标于后端接口盖，WiFi蓝色图标贴纸（展示功能），后端红色FUEL级电池端盖，前端银灰压铸角磨头，黑色辅助把手插孔，扳机防护罩"
+      - filename: "milwaukee_bare_035.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_035.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "左后侧视角，同款含ONE-KEY角磨机，展示机身另一侧，顶部扳机保护罩弧形，后端ONE-KEY接口盖细节清晰"
+      - filename: "milwaukee_bare_038.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_038.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "右前侧视角，同系含ONE-KEY角磨机（较小碟片尺寸变体），WiFi徽标，银灰压铸前端，展示前端接口细节"
+    product_name: "Milwaukee M18 FUEL Angle Grinder with ONE-KEY"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "M18 FUEL ONE-KEY"]
+    platform: "M18 FUEL"
+    sub_series: "ONE-KEY Angle Grinder"
+    design_language:
+      silhouette: "水平长筒形机身，前细后粗（后端接电池），银灰压铸头在前，红色FUEL级尾端在后，呈'导弹'剪影"
+      light_opening: "N/A"
+      thermal: "机身中段黑色纵向散热凹槽，FUEL系列内部热管理"
+      cmf:
+        color: "主色亮红机身（FUEL系列），前端银灰压铸，后端红色电池端盖，辅助把手位置黑色橡胶"
+        material: "工程塑料主体，铝压铸前端齿轮箱，橡胶辅助把手"
+        finish: "机身亮红，前端压铸砂银，后端哑红"
+      mounting: "后端M18 FUEL滑轨电池接口（裸机），ONE-KEY接口盖于后端"
+      signature_detail: "ONE-KEY徽标+WiFi贴纸组合，将数字连接能力可视化展示；前端压铸齿轮箱的银灰与红色机身强对比"
+    design_level:
+      score: 4
+      reason: "ONE-KEY功能整合到机身后端盖是品牌差异化的核心，导弹形剪影在角磨机品类中识别度高，执行完整且有创新点"
+    design_tags: ["H11功能外显", "H08对比强调", "ONE-KEY", "FUEL系列", "导弹形剪影", "WiFi连接"]
+    hero_feature: "ONE-KEY接口盖+WiFi标识组合——将工具数字化能力通过外形元素可视化，行业内稀缺"
+    problem_solved: "M18 FUEL高性能角磨，ONE-KEY提供速度自定义/工具追踪/防盗功能"
+    transferable_technique: "ONE-KEY接口盖作为智能功能外显（H11）的示范；导弹形水平轮廓在大型手持工具中的比例处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 13: M18 FUEL Angle Grinder（无ONE-KEY版）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_036_037"
+    source_images:
+      - filename: "milwaukee_bare_036.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_036.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M18 FUEL角磨机无ONE-KEY，水平机身，Milwaukee+FUEL徽标，后端红色端盖（无ONE-KEY文字），前端银灰压铸，黑色橡胶辅助把手，碟片防护罩，扳机保护罩弧形，整体语言与ONE-KEY版一致但后端无WiFi功能"
+      - filename: "milwaukee_bare_037.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_037.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "同款无ONE-KEY角磨机，略有角度差异，展示机身另一侧细节"
+    product_name: "Milwaukee M18 FUEL Angle Grinder（Standard）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "M18 FUEL标准版"]
+    platform: "M18 FUEL"
+    sub_series: "Standard Angle Grinder"
+    design_language:
+      silhouette: "同ONE-KEY版，水平长筒'导弹'剪影，但后端端盖更简洁无额外功能模块"
+      light_opening: "N/A"
+      thermal: "机身中段黑色纵向散热槽"
+      cmf:
+        color: "亮红机身，银灰前端压铸，后端哑红端盖"
+        material: "工程塑料，铝压铸，橡胶"
+        finish: "亮红机身，砂银前端，哑黑辅助把手位"
+      mounting: "后端M18 FUEL接口（裸机）"
+      signature_detail: "FUEL标识外显于机身，前端银灰压铸的高质感，辅助把手黑色橡胶的握持暗示"
+    design_level:
+      score: 3
+      reason: "FUEL标准版执行完整，无ONE-KEY的后端更干净，品牌语法完整，无设计突破点但执行扎实"
+    design_tags: ["H08对比强调", "H03分件线", "FUEL系列", "角磨机标准版"]
+    hero_feature: "前端银灰大体量压铸齿轮箱与红色机身的强对比分件，传递专业级工具感"
+    problem_solved: "M18 FUEL高性能角磨标准版，适合不需要数字功能的专业用户"
+    transferable_technique: "与ONE-KEY版对比：相同形体语言下功能模块的增减对整体识别度影响的分析参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────
+  # PRODUCT 14: M18 FUEL Die Grinder Inline（内联直磨机）
+  # ─────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_039_040"
+    source_images:
+      - filename: "milwaukee_bare_039.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_039.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M18 FUEL内联直磨机，极细长水平机身，红色Milwaukee+FUEL徽标区段位于机身中段，前端黑色磨头长管（细），后端黑色握持区（纵向纹理），底端红色M18接口端盖，侧面小型扳机，整体比例极细长"
+      - filename: "milwaukee_bare_040.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_040.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "右后侧视角，同款M18 FUEL内联直磨机含ONE-KEY，装配M18 XC5.0电池（红色/黑色REDLITHIUM标识），WiFi贴纸，展示完整工具+电池组合比例，ONE-KEY接口可见"
+    product_name: "Milwaukee M18 FUEL Braking Die Grinder（Inline）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "直磨机", "M18 FUEL内联"]
+    platform: "M18 FUEL"
+    sub_series: "Inline Die Grinder"
+    design_language:
+      silhouette: "极细长内联（筒形直线）轮廓，是Milwaukee工具系列中长径比最大的形态，几乎无把手概念，整体即握柄"
+      light_opening: "N/A"
+      thermal: "机身中段纵向细密纹理散热区"
+      cmf:
+        color: "主体黑色握持管，中段红色Milwaukee/FUEL标识面板，后端红色端盖，前端黑色磨头管"
+        material: "工程塑料，金属磨头管"
+        finish: "黑色纵向纹理握持区，红色高亮徽标面板，金属磨头管"
+      mounting: "后端M18 FUEL接口（裸机时空置，040带M18 XC5.0电池）"
+      signature_detail: "极细长机身比例——Milwaukee品类中长径比极限，中段红色徽标面板作为唯一视觉断点"
+    design_level:
+      score: 4
+      reason: "极细长比例在M18 FUEL产品中极为罕见，机身即握把的极简整合（H07）在大平台工具上是设计冒险且成功的决策"
+    design_tags: ["H07极简整合", "H08对比强调", "极细长比例", "FUEL系列", "ONE-KEY", "内联直磨"]
+    hero_feature: "极细长内联机身——去掉外露把手后形态最干净的Milwaukee工具，机身既是工具壳又是握把"
+    problem_solved: "M18 FUEL高扭矩精密研磨，内联形态可深入管道/腔体内部作业，刹车功能保障安全"
+    transferable_technique: "极细长内联比例策略在深孔/管道内作业工具设计中的可达性优势；机身中段品牌面板作为唯一视觉焦点的极简处理（H01减法）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

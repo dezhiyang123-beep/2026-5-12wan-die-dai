@@ -1,0 +1,48 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "手动工具"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/手动工具/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_award_手动工具_001"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/手动工具/30.jpg"
+        image_role: "hero"
+        visual_anchor: "Wera Joker棘轮扳手特写：全金属银灰色机身，开口端集成自适应锁爪机构（可见内置棘齿），尾端为方驱棘轮头（六角套筒接口）。机身中段压印大号'JOKER'字样及Wera品牌标志（手持扳手图形）。整体轮廓为传统开口扳手形态，但两端均被功能强化。斜向45度拍摄，材质感强烈。"
+      - filename: "31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/手动工具/31.jpg"
+        image_role: "packaging"
+        visual_anchor: "Wera Joker套装与收纳包：黑色菱形纹路织物收纳包展开平放，包内单颗Wera Joker棘轮扳手（全金属银灰），包外面印有Wera绿色品牌标志及'Wera'字样。收纳包背面设金属按扣，尺寸约A5大小。整体产品+包装的高端工具礼盒感。"
+    product_name: "iF Award获奖产品 — Wera Joker 自适应棘轮扳手"
+    brand_name: "Wera"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "扳手"]
+    design_language:
+      silhouette: "传统开口扳手轮廓为基础，开口端加装自适应锁爪（体积稍增），尾端集成棘轮方驱头。整体纤薄，无冗余体量"
+      light_opening: "不适用（手动工具，无发光部件）"
+      thermal: "不适用（手动工具）"
+      cmf:
+        color: "全银灰金属色，无彩色涂装，仅品牌标志区域有压印纹理"
+        material: "整体铬钒钢锻造，表面铬处理"
+        finish: "缎面亮光金属finish，均匀无色差"
+      mounting: "手动工具，无电源"
+      signature_detail: "开口端自适应锁爪机构：可见棘齿轮廓外露，无需调节自动咬合多种规格螺帽；机身JOKER字样大字压印为品牌识别核心视觉"
+    design_level:
+      score: 5
+      reason: "iF获奖设计，以最简外观整合两端双功能（开口棘轮+方驱棘轮），形态极简但功能密度极高，JOKER大字品牌压印成为强记忆点，工具美学标杆"
+    design_tags: ["iF_Award获奖", "手动工具", "扳手", "Wera", "棘轮机构", "自适应开口", "极简整合", "H07极简整合", "H11功能外显"]
+    hero_feature: "开口端自适应锁爪机构外露棘齿：无需调节自动适配螺帽规格，功能外显为视觉记忆点"
+    problem_solved: "传统开口扳手需手动调节或备多把；Joker单把覆盖多规格+两端双功能，大幅减少工具数量"
+    transferable_technique: "功能机构视觉化（棘齿外露可见）；极简整合双功能于一体（两端分工）；大字品牌压印增强记忆点（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: "品牌名Wera及产品型号Joker在图中清晰可读，两张图确认为同一产品（产品图+套装包装图）"

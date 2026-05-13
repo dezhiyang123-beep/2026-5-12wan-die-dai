@@ -1,0 +1,507 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "吸尘设备"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_吸尘设备_001"
+    source_images:
+      - filename: "吸尘设备__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX无绳手持吸尘器+配件套装，灰色圆筒集尘桶，黄色机身，顶部弓形提手，配件散放周围"
+    product_name: "DeWalt 20V MAX Cordless Hand Vac"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "吸尘设备"
+      - "无绳手持吸尘器"
+    design_language:
+      silhouette: "圆筒形集尘桶为主体，弓形提手横跨顶部，整体紧凑竖向形态，尾部20V MAX电池接口"
+      light_opening: "N/A（吸尘设备）；进气口为前端圆形开口"
+      thermal: "电机仓侧面散热槽，集成在黄色壳体分区内"
+      cmf:
+        color: "灰色（集尘桶）+ 黄色（机身）+ 黑色（握把/触发器）"
+        material: "工程塑料机身，透明或半透明集尘桶"
+        finish: "哑光黄注塑，半透明灰色集尘桶"
+      mounting: "20V MAX标准电池底部插入"
+      signature_detail: "弓形提手与圆筒集尘桶构成完整手持单元，集尘桶可快速卸下清空"
+    design_level:
+      score: 3
+      reason: "黄黑灰三色功能分区清晰，手持形态人机合理，但设计语言平实无突破"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "手持"
+      - "圆筒集尘"
+      - "H03_分件线设计"
+    hero_feature: "灰色集尘桶+黄色机身的颜色分件线清晰区分储尘区与动力区"
+    problem_solved: "无绳手持轻量清扫，工地碎屑快速收集，集尘桶快拆免工具清空"
+    transferable_technique: "集尘桶颜色区分储尘功能区（H03分件线），透明/半透明可视化存量"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_吸尘设备_002"
+    source_images:
+      - filename: "吸尘设备__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__02.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX液体转移泵/喷雾器，白色圆桶储液罐+黄色泵模块，非吸尘设备"
+    product_name: "DeWalt 20V MAX Transfer Pump / Sprayer"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "吸尘设备"
+      - "液体转移泵"
+    design_language:
+      silhouette: "白色圆柱储液桶+黄色泵头模块上下叠置，黑色出液软管侧向引出，整体圆柱形"
+      light_opening: "N/A"
+      thermal: "N/A（无热工作部件外显）"
+      cmf:
+        color: "白色（储液桶）+ 黄色（泵头）+ 黑色（软管/接头）"
+        material: "工程塑料桶体，黄色泵头壳体"
+        finish: "白色光面，黄色哑光"
+      mounting: "20V MAX电池接口集成于泵头模块"
+      signature_detail: "白色储液桶与黄色泵头的强烈颜色对比，白色在DeWalt产品线中罕见"
+    design_level:
+      score: 2
+      reason: "白色桶体在DeWalt品系内是异类，泵头设计平实，整体属于功能优先"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "液体转移"
+      - "非吸尘"
+    hero_feature: "白色储液桶+黄色泵头的上下两色分区，与品牌其他黄黑产品明显区分"
+    problem_solved: "无绳液体转移，农业/建筑工地的液体搬运或喷洒，不依赖手动泵"
+    transferable_technique: "功能容器与动力模块的颜色双分区，让用户一眼理解产品结构"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "产品实为液体转移泵而非吸尘设备，归类可能需要调整"
+
+  - product_id: "dewalt_吸尘设备_003"
+    source_images:
+      - filename: "吸尘设备__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__03.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX无绳湿干两用吸尘器桶式版，黄色上半+黑色下半，顶部接软管，标准桶形"
+    product_name: "DeWalt 20V MAX Cordless Wet/Dry Vac (Bucket Style)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "吸尘设备"
+      - "无绳湿干两用吸尘器"
+    design_language:
+      silhouette: "传统桶形吸尘器轮廓，黄色电机盖顶部横置，黑色储尘桶下半，顶部软管接口"
+      light_opening: "N/A（吸尘设备）"
+      thermal: "顶部电机盖两侧排气格栅"
+      cmf:
+        color: "黄色（电机盖/顶部）+ 黑色（储尘桶）"
+        material: "工程塑料顶盖，硬质塑料桶体"
+        finish: "哑光黄，黑色半光"
+      mounting: "20V MAX电池接口在顶部电机盖侧面"
+      signature_detail: "黄色电机盖与黑色桶体50/50对半切割，颜色分界在桶体中腰位置"
+    design_level:
+      score: 3
+      reason: "黄黑对半切分的桶式吸尘器形态标准，无绳化是核心创新，外形无特别突破"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "湿干两用"
+      - "桶式"
+      - "H03_分件线设计"
+    hero_feature: "黄色电机盖与黑色桶体的腰部分件线，颜色50/50对分"
+    problem_solved: "工地无电源环境的干湿垃圾清扫，无线自由移动"
+    transferable_technique: "桶身腰部颜色对半切割的分件设计（H03），功能区/储尘区视觉分离"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_吸尘设备_004"
+    source_images:
+      - filename: "吸尘设备__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__04.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX紧凑型手持吸尘器，熨斗形极紧凑轮廓，黄色主体，前端吸入口"
+    product_name: "DeWalt 20V MAX Compact Cordless Hand Vac"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "吸尘设备"
+      - "无绳手持吸尘器"
+    design_language:
+      silhouette: "熨斗形扁平体，前尖后方，前端向下倾斜吸入口，整体手掌大小极紧凑"
+      light_opening: "N/A（吸尘设备）"
+      thermal: "机身后部两侧小型散热孔"
+      cmf:
+        color: "黄色（主体）+ 黑色（握把/按钮）"
+        material: "工程塑料"
+        finish: "哑光黄注塑"
+      mounting: "20V MAX电池嵌入后部底座"
+      signature_detail: "熨斗形侧面轮廓极具特色，前倾吸口角度暗示使用姿势"
+    design_level:
+      score: 4
+      reason: "熨斗形态在手持吸尘器中有强识别性，前倾角度符合使用人机，紧凑尺寸突出"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "超紧凑"
+      - "熨斗造型"
+      - "H01_减法设计"
+    hero_feature: "熨斗形剪影——扁平、前倾、手掌尺寸——在工具类产品中高度识别"
+    problem_solved: "单手操作极紧凑场景清洁，如汽车内饰、桌面，无需大型机"
+    transferable_technique: "使用姿势编码入产品造型（前倾角度=主动向前清扫）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_吸尘设备_005"
+    source_images:
+      - filename: "吸尘设备__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__05.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX无绳HEPA除尘器可背负款，透明集尘桶可见内部，肩带背负，黄色机身"
+    product_name: "DeWalt 20V MAX Brushless Cordless HEPA Dust Extractor (Backpack)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "吸尘设备"
+      - "无绳背负除尘器"
+    design_language:
+      silhouette: "竖向矩形体可背负，透明集尘桶作为机身正面主视觉，软管从顶部引出，整体背包形态"
+      light_opening: "N/A（吸尘设备）"
+      thermal: "电机仓顶部排气口"
+      cmf:
+        color: "黄色（机身框架）+ 透明（集尘桶）+ 黑色（肩带/顶部）"
+        material: "工程塑料框架，透明PC集尘桶"
+        finish: "哑光黄，透明PC"
+      mounting: "20V MAX电池接口在背面/底部；背负肩带系统"
+      signature_detail: "透明集尘桶作为机身正面主视觉，可实时看见积尘量，功能可视化"
+    design_level:
+      score: 4
+      reason: "背负形态解放双手，透明集尘桶可视化积尘量是设计亮点，功能创新与形式结合好"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "HEPA"
+      - "背负式"
+      - "透明集尘"
+      - "H11_功能外显"
+    hero_feature: "透明集尘桶完整可见积尘状态，功能外显让用户主动感知满载时机"
+    problem_solved: "长时间施工场所的HEPA级粉尘收集，背负解放双手持工具作业"
+    transferable_technique: "储存容器透明化=功能状态实时外显（H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_吸尘设备_006"
+    source_images:
+      - filename: "吸尘设备__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__06.jpg"
+        image_role: "hero"
+        visual_anchor: "60V MAX无绳大型除尘器，全黑机身，大型竖向矩形体，Perform & Protect红色标识"
+    product_name: "DeWalt 60V MAX Brushless Cordless Dust Extractor (Perform & Protect)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "吸尘设备"
+      - "无绳大型除尘器"
+    design_language:
+      silhouette: "大型竖向矩形体，全黑色与品牌标准黄黑体系明显区别，顶部软管接口，轮式底座"
+      light_opening: "N/A（吸尘设备）"
+      thermal: "机身侧面排气格栅"
+      cmf:
+        color: "全黑色（机身）+ 红色（Perform & Protect标识）+ 黄色（DeWalt徽标文字）"
+        material: "工程塑料机身"
+        finish: "全黑哑光注塑，高级感"
+      mounting: "60V MAX FLEXVOLT电池接口在机身背面"
+      signature_detail: "全黑配色+红色Perform & Protect标识形成独立子品牌视觉——区别于标准黄黑产品线"
+    design_level:
+      score: 4
+      reason: "全黑色是DeWalt系列中专业工地防尘线的特殊色彩标记，与红色子品牌标识共同建立专业安全子品类形象"
+    design_tags:
+      - "无绳"
+      - "60V MAX"
+      - "FLEXVOLT"
+      - "全黑"
+      - "Perform & Protect"
+      - "H08_对比强调"
+    hero_feature: "全黑机身+红色Perform & Protect标识——DeWalt系列中唯一的黑色主色调产品，专业安全子品牌视觉"
+    problem_solved: "重型工地HEPA级粉尘提取，60V大电量支持长时间连续作业"
+    transferable_technique: "子品类颜色差异化策略：全黑色=更专业/更安全的子品牌信号（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_吸尘设备_007"
+    source_images:
+      - filename: "吸尘设备__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__07.jpg"
+        image_role: "hero"
+        visual_anchor: "HEPA/RRP有线桶式吸尘器，黄色桶+黑色顶盖，HEPA/RRP大字标识，四轮，自动滤芯清洁"
+    product_name: "DeWalt HEPA/RRP Corded Wet/Dry Vac"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "吸尘设备"
+      - "有线专业除尘器"
+    design_language:
+      silhouette: "传统桶形，黄色下桶+黑色顶盖，四万向轮，顶部电机盖带自动滤芯清洁按钮，软管侧引"
+      light_opening: "N/A（吸尘设备）"
+      thermal: "黑色顶盖两侧排气格栅"
+      cmf:
+        color: "黄色（桶体）+ 黑色（顶盖/软管）+ 红色（Perform & Protect标签）"
+        material: "工程塑料桶体，黑色顶盖壳"
+        finish: "黄色哑光，黑色哑光"
+      mounting: "标准电源线供电；4万向轮底盘"
+      signature_detail: "HEPA/RRP大型标识贴纸在黑色顶盖正面极为醒目，强调合规认证可见性"
+    design_level:
+      score: 3
+      reason: "标准桶式吸尘器形态，HEPA/RRP认证标识的可见性设计是差异化点，整体设计成熟但无突破"
+    design_tags:
+      - "有线"
+      - "HEPA"
+      - "RRP认证"
+      - "四轮"
+      - "自动滤芯清洁"
+      - "H11_功能外显"
+    hero_feature: "HEPA/RRP认证标识大字显示在顶盖正面，合规认证作为视觉主题"
+    problem_solved: "铅漆/石棉等危险粉尘的合规收集（RRP规范要求），自动清洁滤芯延长使用时间"
+    transferable_technique: "合规认证外显化：把看不见的性能（HEPA过滤）转为可见的视觉主题"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_吸尘设备_008"
+    source_images:
+      - filename: "吸尘设备__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__08.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX无绳湿干两用吸尘器箱形版，黄色主体+黑色底部，顶部提手兼软管存储，侧面圆形进气口"
+    product_name: "DeWalt 20V MAX Cordless Wet/Dry Vac (Box Style)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "吸尘设备"
+      - "无绳湿干两用吸尘器"
+    design_language:
+      silhouette: "扁平矩形箱形体，顶部提手横跨机身同时充当软管存储架，侧面独立圆形进气口，整体紧凑"
+      light_opening: "N/A（吸尘设备）"
+      thermal: "机身后部排气格栅"
+      cmf:
+        color: "黄色（主体上部）+ 黑色（底部储尘仓）"
+        material: "工程塑料"
+        finish: "哑光黄，哑光黑"
+      mounting: "20V MAX电池接口在后部；可放置在工作台使用"
+      signature_detail: "顶部提手设计同时作为软管收纳槽，一体化多功能提手"
+    design_level:
+      score: 4
+      reason: "箱形体形态更紧凑易收纳，提手兼软管存储是实用设计亮点，适合工具箱/车辆携带"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "湿干两用"
+      - "箱形"
+      - "提手兼软管存储"
+      - "H07_极简整合"
+    hero_feature: "提手与软管存储架一体化设计，减少零件数量的同时增加便携性"
+    problem_solved: "工地/车辆携带的便携清洁，箱形体可平放节省空间，软管不用额外存储"
+    transferable_technique: "结构件多功能整合：提手=软管存储=外观元素（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_吸尘设备_009"
+    source_images:
+      - filename: "吸尘设备__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__09.jpg"
+        image_role: "hero"
+        visual_anchor: "大型HEPA/RRP有线桶式吸尘器带推车框架，黄桶+黑上盖，黄黑条纹软管盘绕腰部，双大轮+前置小轮，黑色拉杆"
+    product_name: "DeWalt HEPA/RRP Large Corded Vac with Cart"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "吸尘设备"
+      - "有线专业除尘器"
+    design_language:
+      silhouette: "大型圆桶+黑色推车框架，双大轮侧置+前置脚轮三轮底盘，黑色拉杆直立，整体工程推车形态"
+      light_opening: "N/A（吸尘设备）"
+      thermal: "黑色顶盖排气格栅"
+      cmf:
+        color: "黄色（桶体）+ 黑色（顶盖/框架/轮毂）+ 黄黑条纹（软管）"
+        material: "塑料桶体，钢质框架，橡胶轮胎"
+        finish: "黄色哑光，黑色哑光，软管黄黑条纹螺旋缠绕"
+      mounting: "标准电源线供电；推车式三轮底盘"
+      signature_detail: "黄黑条纹螺旋软管盘绕在桶腰，不用时整洁收纳，同时强化品牌黄黑配色"
+    design_level:
+      score: 4
+      reason: "黄黑条纹软管在桶腰的收纳方式极具视觉特色，工程推车形态功能强大，整体设计语言统一"
+    design_tags:
+      - "有线"
+      - "HEPA"
+      - "推车式"
+      - "大型"
+      - "条纹软管"
+      - "H09_隐藏工程的反向"
+    hero_feature: "黄黑条纹螺旋软管盘绕桶腰——品牌色系编码进功能附件，存储即展示"
+    problem_solved: "大型施工现场长时间移动清扫，推车设计方便在场地间移动"
+    transferable_technique: "功能附件（软管）颜色系统化：品牌黄黑条纹延伸到软管，附件成为品牌展示面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_吸尘设备_010"
+    source_images:
+      - filename: "吸尘设备__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__15.jpg"
+        image_role: "hero"
+        visual_anchor: "大型有线湿干两用桶式吸尘器正面，黄色圆桶+黑色顶盖，黑色折叠钢管把手，侧面进气圆孔，底部排水阀，四脚轮"
+      - filename: "吸尘设备__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__16.jpg"
+        image_role: "hero"
+        visual_anchor: "同系列稍小规格版正面，外形与15完全相同但桶体比例稍小"
+    product_name: "DeWalt Corded Wet/Dry Shop Vac Series"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "吸尘设备"
+      - "有线湿干两用吸尘器"
+    design_language:
+      silhouette: "大型圆桶形，黄色下桶占桶高70%，黑色顶盖带折叠钢管把手，四万向轮，桶肩侧面圆形进气口"
+      light_opening: "N/A（吸尘设备）"
+      thermal: "顶盖后部排气格栅"
+      cmf:
+        color: "黄色（桶体）+ 黑色（顶盖/把手/轮）"
+        material: "高密度塑料桶体，钢质折叠把手，橡胶万向轮"
+        finish: "黄色哑光，黑色哑光"
+      mounting: "标准电源线供电；4个万向脚轮底盘；底部排水阀"
+      signature_detail: "黑色钢管折叠把手收折后贴合顶盖，展开可推动，兼顾收纳和移动"
+    design_level:
+      score: 3
+      reason: "标准工地湿干两用吸尘器形态，黄黑配色系统统一，折叠把手实用，整体无设计突破"
+    design_tags:
+      - "有线"
+      - "湿干两用"
+      - "桶式"
+      - "大型"
+      - "折叠把手"
+    hero_feature: "可折叠钢管把手与黑色顶盖融为一体，折叠=平整，展开=手柄"
+    problem_solved: "工地/车间长期湿干两用清扫，排水阀方便排放液体，大容量减少清空频率"
+    transferable_technique: "折叠把手贴合顶盖的收纳设计，功能件收折时成为外观元素"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_吸尘设备_011"
+    source_images:
+      - filename: "吸尘设备__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__10.jpg"
+        image_role: "hero"
+        visual_anchor: "电锤专用一体式集尘器，正面视角，黄色枪形机身，左侧透明HEPA滤芯仓，铝滑轨吸尘管从前端伸出，Perform & Protect+OSHA COMPLIANT标识"
+      - filename: "吸尘设备__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__14.jpg"
+        image_role: "hero"
+        visual_anchor: "同款电锤集尘器斜上方视角+两个黑色定位环+顶部黑色吊环，套装展示"
+      - filename: "吸尘设备__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__18.jpg"
+        image_role: "hero"
+        visual_anchor: "更大规格的电锤集尘器侧面，黄色机身更高更宽，透明HEPA仓更大，Perform & Protect标识"
+      - filename: "吸尘设备__24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/吸尘设备/吸尘设备__24.jpg"
+        image_role: "detail"
+        visual_anchor: "DWH079D集尘盒背面，黄色主体+黑色U形固定夹，Perform & Protect标签，侧面黄色排气接口"
+    product_name: "DeWalt On-Hammer Dust Extractor (Perform & Protect)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "吸尘设备"
+      - "电锤专用集尘器"
+    design_language:
+      silhouette: "横向长条形枪机状，直接安装在SDS电锤前端，铝滑轨从前端水平伸出可调节深度，机身右侧为动力/吸风模块，左侧透明HEPA集尘仓"
+      light_opening: "N/A（吸尘设备）"
+      thermal: "机身右侧散热格栅（可见于18和24）"
+      cmf:
+        color: "黄色（机身/动力模块）+ 透明（HEPA集尘仓）+ 黑色（滑轨/定位环/固定夹）+ 银色（铝管）"
+        material: "工程塑料机身，透明PC集尘仓，铝质滑轨管"
+        finish: "哑光黄，透明PC，铝材本色"
+      mounting: "黑色U形夹固定在SDS电锤机身上，与钻头同轴对准"
+      signature_detail: "铝滑轨随钻头深入自动伸缩同步收集粉尘，透明集尘仓实时可视积尘量"
+    design_level:
+      score: 5
+      reason: "与电锤一体化的集尘器解决了粉尘在源头的收集问题，铝滑轨自动跟随钻入深度是设计核心，透明集尘仓可视化是加分项，OSHA合规设计具有独特性"
+    design_tags:
+      - "电锤集尘"
+      - "一体化"
+      - "铝滑轨"
+      - "透明集尘仓"
+      - "Perform & Protect"
+      - "OSHA合规"
+      - "H09_隐藏工程"
+      - "H11_功能外显"
+    hero_feature: "铝滑轨与集尘仓一体：钻头钻进多深，集尘管就跟进多深，在源头捕获粉尘"
+    problem_solved: "SDS锤钻作业时的实时粉尘收集，防止有害粉尘（石棉/硅灰石）扩散，OSHA现场安全合规"
+    transferable_technique: "工具附件与主机一体化集成的形态设计——附件安装后整体看起来像单一产品而非堆砌件（H09隐藏工程）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,359 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "手电筒"
+  tertiary: "战术手电"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/战术手电"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_战术_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/战术手电/01.jpg"
+        image_role: "hero"
+        visual_anchor: "多光源复合灯头+大口径蓝紫色反光碗+侧面双按键+中段分节散热筋"
+    product_name: "Nitecore 复合光源大口径战术手电（疑似TM/MT系列）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "战术手电"]
+    design_language:
+      silhouette: "前重后轻锥台型，灯头直径明显大于握把，整体偏短粗"
+      light_opening: "大口径多光源复合灯头，主LED居中+辅助LED环绕，蓝紫色AR镀膜反光碗"
+      thermal: "灯头与中段衔接处设多道深切散热翼片，散热区段占灯头体1/3"
+      cmf:
+        color: "枪灰色"
+        material: "航空铝合金阳极氧化"
+        finish: "磨砂哑光+菱形网纹防滑纹理"
+      mounting: "尾部无明显战术尾盖，侧面双功能按键凸出"
+      signature_detail: "蓝紫色AR镀膜多光源复合反光碗，视觉冲击力强；双按键并排布局"
+    design_level:
+      score: 5
+      reason: "复合多光源+大口径蓝紫镀膜碗是强视觉记忆点，灯头造型具有唯一性，散热翼片工程感突出"
+    design_tags: ["多光源复合", "大口径灯头", "蓝紫镀膜", "散热翼片", "双按键", "短粗型"]
+    hero_feature: "蓝紫色AR镀膜大口径复合光源灯头"
+    problem_solved: "远近两用场景切换，主光远射+辅光泛光同体集成"
+    transferable_technique: "多光源复合灯头的模块化排布方式可迁移至需要多功能光源集成的工具类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_战术_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/战术手电/02.jpg"
+        image_role: "hero"
+        visual_anchor: "细长均匀筒身+多段菱形网纹+尾部六边扩径+小口径单LED灯头"
+    product_name: "Nitecore P23i 战术手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "战术手电"]
+    design_language:
+      silhouette: "细长圆筒型，头尾比例均衡，尾端六边形扩径收尾"
+      light_opening: "小口径单LED灯头，聚光反光碗，碗口有锯齿破窗边"
+      thermal: "灯头与筒身连接处有细浅散热环槽，散热设计低调"
+      cmf:
+        color: "哑光黑"
+        material: "航空铝合金阳极氧化"
+        finish: "磨砂哑光+全身菱形网纹滚花"
+      mounting: "筒身中段有侧键，尾部六边收尾无战术尾盖"
+      signature_detail: "全身连续菱形网纹滚花，细长比例，锯齿破窗灯头边沿"
+    design_level:
+      score: 3
+      reason: "经典标准战术手电造型，工艺规整，无突破性视觉亮点，代表品类基础款"
+    design_tags: ["细长筒型", "菱形网纹", "锯齿灯头边沿", "六边尾盖", "单LED", "标准战术"]
+    hero_feature: "锯齿破窗灯头边沿+全身菱形网纹"
+    problem_solved: "单手持握稳定，全身防滑纹理适应湿手/手套操作"
+    transferable_technique: "全筒连续菱形网纹作为防滑与视觉统一语言，可迁移至手持工具握把设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_战术_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/战术手电/03.jpg"
+        image_role: "hero"
+        visual_anchor: "中段分节明显+多段功能分区+小灯头锯齿边+侧面扁平功能键"
+    product_name: "Nitecore P10iX 战术手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "战术手电"]
+    design_language:
+      silhouette: "中段明显分节，形成头部/功能区/握把三段层次，整体偏细长"
+      light_opening: "小口径单LED聚光灯头，碗口有锯齿破窗边"
+      thermal: "灯头与第一功能段之间有深切散热槽组，数道平行环槽"
+      cmf:
+        color: "哑光黑"
+        material: "航空铝合金阳极氧化"
+        finish: "磨砂哑光，功能区光滑，握把区菱形网纹"
+      mounting: "中段功能区有扁平战术侧键，侧面凸出明显"
+      signature_detail: "三段分节造型将功能区可视化，扁平侧键在功能区独立呈现"
+    design_level:
+      score: 4
+      reason: "三段分节结构将功能分区做成视觉语言，比普通单筒有更强的结构叙事性"
+    design_tags: ["三段分节", "功能区可视化", "扁平侧键", "散热环槽", "锯齿灯头", "结构分区"]
+    hero_feature: "灯头/功能区/握把三段分节结构"
+    problem_solved: "盲操作时手指可感知分节边界定位按键，战术场景快速响应"
+    transferable_technique: "功能分区通过分节造型外显，可迁移至需要盲操作的手持电子设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_战术_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/战术手电/04.jpg"
+        image_role: "hero"
+        visual_anchor: "多颗小LED环形灯头+侧面USB充电口+深切散热翼+宽灯头窄握把"
+    product_name: "Nitecore P20iX 战术手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "战术手电"]
+    design_language:
+      silhouette: "灯头相对握把扩径明显，头重感强，尾端六边收尾"
+      light_opening: "多颗LED环形排列灯头，聚光碗外有装饰性多边缘结构，锯齿边"
+      thermal: "灯头段深切散热翼片，多道明显，工程感强"
+      cmf:
+        color: "深灰/枪黑"
+        material: "航空铝合金阳极氧化"
+        finish: "磨砂哑光+网纹握把"
+      mounting: "中段侧面有USB-C充电口盖（标注OPEN），侧键明显"
+      signature_detail: "USB-C充电口盖外显设计，多LED环形灯头，深切散热翼"
+    design_level:
+      score: 4
+      reason: "USB充电口外显是功能可读性亮点，多LED环形灯头视觉密度高，整体功能感强"
+    design_tags: ["USB-C充电", "多LED环形灯头", "深切散热翼", "功能外显", "宽灯头", "充电口盖"]
+    hero_feature: "USB-C充电口外显+多LED环形灯头"
+    problem_solved: "内置充电免拆电池，USB口外显降低充电操作门槛"
+    transferable_technique: "充电接口通过专属盖板外显，兼顾防水与可识别性，可迁移至户外电子设备充电口设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_战术_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/战术手电/05.jpg"
+        image_role: "hero"
+        visual_anchor: "中段侧键+深切散热槽+中等口径单LED+细网纹握把"
+    product_name: "Nitecore P20iX 变体/P系列战术手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "战术手电"]
+    design_language:
+      silhouette: "标准战术筒型，头尾比例均衡，中段略有收腰"
+      light_opening: "中等口径单LED聚光灯头，碗口锯齿破窗边，有防眩光边沿"
+      thermal: "灯头下方数道平行深切散热槽，分布均匀"
+      cmf:
+        color: "哑光黑"
+        material: "航空铝合金阳极氧化"
+        finish: "磨砂哑光+细密菱形网纹"
+      mounting: "中段侧键，USB充电口带盖，功能区与握把区有明确分节"
+      signature_detail: "防眩光边沿设计，侧键与充电口分区明确"
+    design_level:
+      score: 3
+      reason: "功能完整的标准战术款，造型规整但视觉亮点集中于细节，整体印象偏常规"
+    design_tags: ["标准战术型", "防眩光边沿", "散热槽", "侧键", "USB充电", "细网纹"]
+    hero_feature: "防眩光灯头边沿+均匀散热槽排布"
+    problem_solved: "防眩光边沿减少反射干扰，适合近距离室内战术使用"
+    transferable_technique: "防眩光边沿结构（内缩+哑光内壁）可迁移至工作灯、医疗照明灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_战术_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/战术手电/06.jpg"
+        image_role: "hero"
+        visual_anchor: "超大口径抛物线反光碗+深密散热翼+细握把长筒+圆形侧键"
+    product_name: "Nitecore P30i 长射程战术手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "战术手电"]
+    design_language:
+      silhouette: "前端超大口径灯头与细握把形成强烈粗细对比，整体呈前扩喇叭型"
+      light_opening: "超大口径深抛物线反光碗，单LED居中，碗面镜面高光，聚光效果优先"
+      thermal: "灯头段数道深密散热翼片，环绕360度，工程感极强"
+      cmf:
+        color: "枪灰/深黑"
+        material: "航空铝合金阳极氧化"
+        finish: "磨砂哑光+握把菱形网纹，碗面镜面"
+      mounting: "中段圆形侧键，握把段菱形防滑纹，无战术尾盖"
+      signature_detail: "超大口径抛物线深碗+散热翼形成强烈头重尾轻的视觉力量感"
+    design_level:
+      score: 5
+      reason: "超大口径深抛物线碗是强视觉记忆点，头重尾轻剪影具唯一性，散热翼工程美学突出"
+    design_tags: ["超大口径", "深抛物线碗", "头重尾轻", "镜面反光碗", "长射程", "散热翼环绕"]
+    hero_feature: "超大口径深抛物线镜面反光碗"
+    problem_solved: "超远射程聚光照射，适合搜索/狩猎/户外远距离目标识别"
+    transferable_technique: "深抛物线碗+超大口径的强聚光结构可迁移至舞台追光灯、车载搜索灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_战术_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/战术手电/07.jpg"
+        image_role: "hero"
+        visual_anchor: "多段分节细长筒+中段扁平侧键+小口径锯齿灯头+尾部六边扩径"
+    product_name: "Nitecore P10i 战术手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "战术手电"]
+    design_language:
+      silhouette: "细长均匀筒型，多段分节，头尾接近，尾端六边轻微扩径"
+      light_opening: "小口径单LED灯头，锯齿破窗边，浅聚光碗"
+      thermal: "灯头下方浅散热槽，数道，低调处理"
+      cmf:
+        color: "哑光黑"
+        material: "航空铝合金阳极氧化"
+        finish: "磨砂哑光+中段菱形网纹，头尾段光滑"
+      mounting: "中段偏头方向扁平侧键，分节明显形成定位感"
+      signature_detail: "多段分节+中段单侧键，紧凑EDC与战术兼顾的比例"
+    design_level:
+      score: 3
+      reason: "功能完整的紧凑型战术款，比例协调，无强记忆点，适合EDC战术兼用"
+    design_tags: ["紧凑型", "多段分节", "扁平侧键", "EDC战术兼用", "细长筒", "六边尾盖"]
+    hero_feature: "多段分节结构+扁平战术侧键"
+    problem_solved: "紧凑尺寸兼顾日常携带与战术需求，分节边界辅助盲操作"
+    transferable_technique: "分节边界+局部防滑纹理的功能区定位法，可迁移至笔形工具类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_战术_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/战术手电/08.jpg"
+        image_role: "hero"
+        visual_anchor: "极简光滑筒身+无纹理握把+小口径多LED灯头+仅一条分节环"
+    product_name: "Nitecore C系列/CI7 战术手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "战术手电"]
+    design_language:
+      silhouette: "极简光滑圆筒，近乎无分节，尾端轻微六边形过渡"
+      light_opening: "小口径多LED灯头（3颗LED可见），平口无锯齿，反光碗浅"
+      thermal: "几乎无可见散热结构，追求极简外观"
+      cmf:
+        color: "哑光黑"
+        material: "航空铝合金阳极氧化"
+        finish: "全身极细磨砂，无滚花纹理"
+      mounting: "仅一处极薄分节环，无明显侧键外露，极简处理"
+      signature_detail: "全身光滑无纹理的反常规战术设计，多LED平口灯头"
+    design_level:
+      score: 2
+      reason: "极简路线与战术手电常规设计语言相悖，视觉识别度低，设计亮点仅在于反常规的克制感"
+    design_tags: ["极简光滑", "无纹理", "多LED平口灯头", "克制设计", "反常规战术", "轻量感"]
+    hero_feature: "全身无纹理光滑筒身（战术品类异类设计）"
+    problem_solved: "低视觉特征适合隐蔽携带，轻量感适合日常便携"
+    transferable_technique: "光滑无纹理+极薄分节环的极简语言，可迁移至需要低调外观的专业设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_战术_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/战术手电/09.jpg"
+        image_role: "hero"
+        visual_anchor: "黑白迷彩涂装+大口径平口灯头+侧面功能按键+短粗比例"
+    product_name: "Nitecore 迷彩特别版大口径战术手电（疑似P35i/TM系列）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "战术手电"]
+    design_language:
+      silhouette: "短粗型，灯头口径与握把直径接近，整体较均匀"
+      light_opening: "大口径平口单LED灯头，碗口无锯齿，简洁利落"
+      thermal: "灯头与筒身连接处有浅散热环槽，低调"
+      cmf:
+        color: "黑白迷彩"
+        material: "航空铝合金阳极氧化"
+        finish: "迷彩图案喷涂+底层磨砂，视觉冲击力强"
+      mounting: "中段侧面功能键，外凸明显，尾部标准战术收尾"
+      signature_detail: "黑白迷彩涂装是强CMF记忆点，在战术手电中高辨识度"
+    design_level:
+      score: 4
+      reason: "黑白迷彩是强CMF差异化，在全黑战术手电中极为突出，短粗比例配合迷彩形成完整风格陈述"
+    design_tags: ["黑白迷彩", "CMF差异化", "大口径平口", "短粗型", "特别版", "高辨识度涂装"]
+    hero_feature: "黑白迷彩CMF涂装"
+    problem_solved: "特别版涂装增强品牌辨识度与用户身份表达，满足收藏与个性化需求"
+    transferable_technique: "迷彩/图案化CMF处理作为差异化策略，可迁移至户外装备特别版设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_战术_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/战术手电/10.jpg"
+        image_role: "hero"
+        visual_anchor: "多段分节长筒+双区菱形网纹+中等口径锯齿灯头+尾部战术拨片"
+    product_name: "Nitecore SRT6i / MH12S 战术手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "战术手电"]
+    design_language:
+      silhouette: "细长标准战术筒型，多段分节，头尾比例均衡，尾部有战术拨片凸出"
+      light_opening: "中等口径单LED灯头，锯齿破窗边，标准聚光碗"
+      thermal: "灯头下方有浅平行散热槽，数道，功能性优先"
+      cmf:
+        color: "哑光黑"
+        material: "航空铝合金阳极氧化"
+        finish: "磨砂哑光+双区域菱形网纹（灯头段+握把段）"
+      mounting: "尾部战术拨片（TAC标识），双区分段防滑设计，无侧键外露"
+      signature_detail: "尾部战术拨片是功能外显记忆点，双区菱形网纹与光滑段形成节奏感"
+    design_level:
+      score: 4
+      reason: "尾部战术拨片将战术功能可视化外显，双区网纹节奏感佳，整体战术属性表达清晰有力"
+    design_tags: ["尾部战术拨片", "双区网纹", "功能外显", "细长战术", "TAC标识", "节奏感分区"]
+    hero_feature: "尾部战术拨片（TAC功能外显）"
+    problem_solved: "尾部战术拨片实现快速模式切换，盲操作友好，单手可达"
+    transferable_technique: "尾部拨片/功能件作为战术身份标识外显，可迁移至专业手持设备的模式切换控制设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,133 @@
+project_id: "20260403-Agrolux-HORT"
+selected_direction_id: "D-A + D-B"
+
+persona_group:
+  - name: "James Dyson"
+    thinking_type: "工程/成本"
+    label: "严格/激进"
+    selection_reason: "D-A核心矛盾是工程性的：怎么在植株之间放灯而不热伤、不遮光——Dyson会从结构上消灭这个矛盾"
+  - name: "Buckminster Fuller"
+    thinking_type: "系统/资源效率"
+    label: "严格/激进"
+    selection_reason: "D-A的LYRA生态系统接入是系统效率问题，Fuller会问：一个最小化的模块如何最大化整个温室系统的DLI"
+  - name: "Henry Dreyfuss"
+    thinking_type: "人因体验"
+    label: "严格/保守"
+    selection_reason: "D-B的核心是种植者日常操作——谁在温室里调灯？Head Grower在哪里、做什么动作？Dreyfuss确保操作界面符合人因"
+  - name: "Marc Newson"
+    thinking_type: "材料驱动"
+    label: "经验/平衡"
+    selection_reason: "D-B需要把双通道控制做进尽量薄的灯具里——Newson从材料和制造逻辑出发找到最诚实的形态"
+
+triz_contradiction:
+  d_a:
+    improve_param: "冠层内部光照强度"
+    worsen_param: "顶光遮挡 + 植株热伤风险"
+    statement: "要在冠层内部放灯提升中层叶片光照，但灯具本体会遮挡上方顶光，且靠近叶片的LED会造成局部热伤"
+    solution_directions:
+      - "方向A（结构层）：让灯具本体面积极小化——只做光源，把驱动和散热移出植株区域"
+      - "方向B（使用模式层）：不固定放置，做成可沿导轨滑动的浮动式，按作物生长高度动态调整位置"
+  d_b:
+    improve_param: "品种专属光谱精度"
+    worsen_param: "运营复杂度 + 系统成本"
+    statement: "要给每个品种轮作周期配置最优光谱，但实时调整光谱需要种植者持续操作，增加认知负担和操作错误风险"
+    solution_directions:
+      - "方向A（结构层）：双通道硬件预设两套固定光谱配方，切换为单一物理动作（或由OS自动触发）"
+      - "方向B（使用模式层）：不让种植者调光谱，让OS基于作物识别自动调——种植者只输入'今天换品种'"
+
+concepts:
+  - concept_id: "C-01"
+    driven_by: "James Dyson + TRIZ D-A 方向A"
+    title: "极细层间灯条"
+    core_concept: |
+      25mm宽LED灯条，驱动器外置于温室顶部线槽，灯条本体只有光源和极薄铝基板。
+      通过LYRA现有Modbus协议控制，挂载在现有温室钢丝/导线上，无需新增支撑结构。
+    decision_core: "灯条细到不遮顶光——25mm截面只遮挡顶光的1.2%，竞品（Hortilux Inter 47.5W）截面约60mm遮挡约3%"
+    counterfactual: "如果灯条宽度超过40mm，顶光遮挡率超过2%，番茄行距内会出现光影条纹，影响均匀度，种植者会投诉"
+    differentiator: "Hortilux HORTILED Inter：60mm宽，内置驱动，重量1.8kg/m；本方案：25mm宽，外置驱动，重量0.4kg/m，安装无需额外结构支撑"
+    structure_path: |
+      铝基板PCB集成高密度红蓝LED（红660nm/蓝450nm，4:1比例），
+      外置驱动器通过细线缆连接，每个驱动器驱动4-6根灯条，
+      与LYRA驱动器共用Modbus协议，接入Agrolux OS统一控制。
+    bom_estimate: "$18-24/米（不含外置驱动器）"
+    dfm_flag: "25mm铝基板LED密度要求高，散热路径短，需验证连续工作8h的热阻是否达标"
+    dfm_verdict: "CONDITIONAL"
+
+  - concept_id: "C-02"
+    driven_by: "Buckminster Fuller + TRIZ D-A 方向B"
+    title: "浮动轨道补光节点"
+    core_concept: |
+      单个补光节点（圆形，直径80mm，厚20mm），可沿温室现有灌溉/喷药导轨滑动，
+      按作物生长高度每周上调位置。一条导轨挂6-8个节点，节点之间无线自组网，
+      统一接入Agrolux OS。
+    decision_core: "位置跟随作物生长——番茄每周长15-20cm，固定灯只能妥协在均值高度，节点灯可始终保持最优距离（30-40cm）"
+    counterfactual: "如果用固定安装的层间灯条，番茄从0.5m长到3m的过程中，只有中间约1m的高度区间处于最优光距，其余时间效率损失30-40%"
+    differentiator: "Hortilux HORTILED Inter是固定安装，无法随植株高度调整；Heliospectra无层间补光产品；本方案是市场唯一可随作物动态移位的补光节点"
+    structure_path: |
+      节点本体为圆形COB LED模块（40W，400µmol/s），内置无线通信芯片（Zigbee/Thread），
+      导轨夹具采用弹簧预加载单手滑动锁定，可在不拆除植株的前提下调整位置。
+      每8个节点配1个有线网关节点，网关通过Modbus接入LYRA/Agrolux OS。
+    bom_estimate: "$35-45/个节点（含无线模块）"
+    dfm_flag: "无线自组网在温室高湿度（80-95%RH）金属架构环境中的信号稳定性需要实测验证"
+    dfm_verdict: "CONDITIONAL"
+
+  - concept_id: "C-03"
+    driven_by: "Henry Dreyfuss + TRIZ D-B 方向A"
+    title: "双配方一键切灯"
+    core_concept: |
+      顶灯内置两套固定光谱（配方A：生长期高蓝，配方B：结果期高红），
+      物理拨钮+Agrolux OS双入口切换，不需要种植者理解光谱参数。
+      Head Grower换品种时只做一件事：拨一下开关或在OS里点"切换作物"。
+    decision_core: "消除光谱决策认知负担——种植者不需要知道µmol和nm，只需要知道'现在种什么'"
+    counterfactual: "如果是可连续调节光谱，Head Grower需要记住每个品种的最优参数，在高压工作环境下实际不会操作，可调功能形同虚设"
+    differentiator: "Signify TLF是连续可调但需要GrowWise系统；Heliospectra MITRA需要helioCORE软件；本方案：硬件一个拨钮，不依赖任何软件也能用，OS接入后升级为自动"
+    structure_path: |
+      LED阵列分两个独立驱动通道：通道1（蓝450nm+冷白）主导生长期，
+      通道2（红660nm+远红730nm）主导结果期，比例预标定，不开放给用户调节。
+      外部物理拨钮切换通道比例，同时输出Modbus状态字供OS读取。
+      效能目标：单通道均≥3.8 µmol/J，双通道平均≥3.6 µmol/J。
+    bom_estimate: "$280-340/灯（760W级别）"
+    dfm_flag: "双通道驱动器集成在同一灯体内，热设计复杂度增加；760W双通道散热需要验证"
+    dfm_verdict: "CONDITIONAL"
+
+  - concept_id: "C-04"
+    driven_by: "Marc Newson + TRIZ D-B 方向B"
+    title: "OS原生光谱单元"
+    core_concept: |
+      不做独立灯具，做LYRA平台的第七种光谱模块——把双通道可调光谱做成
+      可插入LYRA现有驱动器壳体的LED模块，Agrolux OS通过现有协议控制光谱比例，
+      种植者无感知，OS后台自动按品种数据库匹配最优配方。
+    decision_core: "模块即插即用——种植者已有LYRA灯具，只需更换LED模块升级可调光谱，不需要换灯具，投资保护"
+    counterfactual: "如果要种植者购买全新灯具，初期成本$280-340/灯，一个1公顷温室约需180-240盏，总投入$5-8万；模块替换只需$80-120/模块，总投入$1.5-2.9万，Owner更容易批准"
+    differentiator: "Signify/Heliospectra/Hortilux均为整灯销售，不提供模块级升级；Agrolux LYRA是市场唯一模块化平台，本方案是第一个第三方LYRA兼容光谱模块（若接口可获取）"
+    structure_path: |
+      LED模块尺寸对标LYRA现有光源模块（需获取接口规格——这是核心风险），
+      双通道PCB集成红/蓝/白三色LED，驱动信号复用LYRA现有Modbus指令集，
+      增加"光谱比例"寄存器扩展，Agrolux OS通过固件升级读取新寄存器实现自动控制。
+    bom_estimate: "$80-120/模块"
+    dfm_flag: "完全依赖获取LYRA物理接口规格，若Agrolux不开放接口则此方案无法落地"
+    dfm_verdict: "FAIL（接口未知前）"
+
+  - concept_id: "C-05"
+    driven_by: "Dyson × Dreyfuss 跨方向融合"
+    title: "可调层间灯条"
+    core_concept: |
+      融合D-A和D-B：30mm宽双通道层间灯条，外置驱动，
+      支持生长期/结果期两套光谱预设（同C-03逻辑），挂载在植株行间钢丝。
+      一个产品同时解决"顶光照不到冠层内部"和"轮作换品种需要换光谱"两个痛点。
+    decision_core: "两个矛盾一个产品——层间补光解决穿透问题，双通道解决轮作光谱问题，且层间位置的低功率（40-60W/m）使热伤风险可控"
+    counterfactual: "如果分别采购层间灯（D-A）和可调顶灯（D-B），成本叠加且控制系统两套，Head Grower会抱怨管理复杂"
+    differentiator: "全球无已知产品同时具备层间安装+双通道可调光谱，Hortilux Inter无光谱调节，Heliospectra无层间产品"
+    structure_path: |
+      30mm铝基板，双列LED（红通道660nm×蓝通道450nm独立驱动），
+      外置驱动器含双通道控制PCB，Modbus协议接入，
+      挂载结构与C-01相同（弹簧夹，兼容现有钢丝）。
+    bom_estimate: "$22-28/米（不含外置驱动器）"
+    dfm_flag: "30mm双通道布线密度高，需验证两个LED通道的热隔离；驱动器需要双通道独立PWM控制"
+    dfm_verdict: "CONDITIONAL"
+
+homogeneity_check: |
+  C-01和C-05均为灯条形态，核心路径相似。
+  关键差异：C-01是单通道纯性能（Dyson逻辑：最极致效能），C-05是双通道兼顾两个方向（跨矛盾融合）。
+  C-04（CONDITIONAL→FAIL）在接口未知前不可落地，但保留供参考。
+  如用户选择只推进一个概念，建议优先看C-03或C-05。

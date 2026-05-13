@@ -1,0 +1,173 @@
+schema_version: product_dna_v1
+category:
+  primary: 家电
+  secondary: 抽油烟机
+  tertiary: ''
+source:
+  source_type: brand_official
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/抽油烟机/
+  generated_at: '2026-05-08'
+products:
+- product_id: if_hood_001
+  source_images:
+  - filename: 32.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/抽油烟机/32.jpg
+    image_role: hero
+    visual_anchor: Bosch壁挂式烟机正面视角，全白外观，竖向玻璃烟道，底部触控面板带红色指示线
+  product_name: Bosch 壁挂式抽油烟机（白色版）
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 抽油烟机
+  design_language:
+    silhouette: T形：宽扁底盘 + 垂直矩形玻璃烟道；底盘极扁，烟道与底盘等宽，正面完全对称
+    light_opening: 底盘前沿有隐藏LED照明带
+    thermal: 无明显散热开口
+    cmf:
+      color: 全白
+      material: 钢化玻璃烟道 + 不锈钢底盘 + 烤漆面板
+      finish: 高光白玻璃 + 拉丝不锈钢底盘边缘
+    mounting: 壁挂，固定式
+    signature_detail: 触控面板上细红线作为图标分隔符与状态指示，在全白背景上形成精准的色彩点缀
+  design_level:
+    score: 4
+    reason: 全白配色在烟机品类罕见，高光玻璃烟道与拉丝不锈钢底盘的材质对比克制精准；红色细线触控面板是品牌识别点
+  design_tags:
+  - 全白配色
+  - T形轮廓
+  - 材质对比
+  - 极简触控
+  - 红色点缀
+  hero_feature: 全白高光玻璃烟道——将烟机从厨房工业设备转化为建筑感装饰构件
+  problem_solved: 传统烟机以不锈钢为主，融入现代白色厨柜空间困难；全白方案实现厨房视觉统一
+  transferable_technique: 以单一高光色覆盖整机（含烟道）消除产品分割感，配合细节色彩点缀维持辨识度，可迁移至冰箱、洗碗机面板设计
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_hood_002
+  source_images:
+  - filename: 34.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/抽油烟机/34.jpg
+    image_role: detail
+    visual_anchor: 同款Bosch白色烟机45度角视角，展示底盘厚度极薄与不锈钢侧边细节
+  product_name: Bosch 壁挂式抽油烟机（白色版）— 底盘细节
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 抽油烟机
+  design_language:
+    silhouette: 斜侧视角清晰呈现底盘极扁比例，底盘厚度约为宽度的1/12；烟道与底盘接合处干净无装饰缝
+    light_opening: 底盘前沿隐藏LED灯带在此视角可见
+    thermal: 无
+    cmf:
+      color: 白色 + 不锈钢银
+      material: 玻璃 + 不锈钢
+      finish: 高光白 + 拉丝不锈钢侧边
+    mounting: 壁挂
+    signature_detail: 底盘四角圆角处理，不锈钢侧边将玻璃与金属衔接为一体，无可见螺丝或接缝
+  design_level:
+    score: 3
+    reason: 此图为补充细节视角，设计信息与32.jpg高度重叠，独立评分降一档
+  design_tags:
+  - 超薄底盘
+  - 隐藏接缝
+  - 拉丝不锈钢侧边
+  - 细节工艺
+  hero_feature: 超薄底盘比例（厚度约为宽度1/12）配合无缝接合工艺，使设备悬浮感极强
+  problem_solved: 烟机底盘通常厚重，压迫灶台视觉空间；超薄底盘减轻视觉重量，强化轻盈感
+  transferable_technique: 超薄底盘+隐藏接缝工艺，将功能体量压缩至视觉极限，可迁移至壁挂空调、嵌入式微波炉等
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_hood_004
+  source_images:
+  - filename: 73.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/抽油烟机/73.jpg
+    image_role: hero
+    visual_anchor: Haier方形烟机整体视角：不锈钢方形烟道+黑色玻璃底盘，底部可见过滤网格
+  product_name: Haier 方形岛台式抽油烟机
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 抽油烟机
+  design_language:
+    silhouette: 正方形烟道 + 宽扁底盘，整体呈倒T形；烟道为方正立方体，底盘四角延伸超出烟道
+    light_opening: 底盘下侧LED照明，底部可见暖白光照射过滤网区域
+    thermal: 底部过滤网格兼具进风与结构展示
+    cmf:
+      color: 拉丝不锈钢 + 黑色钢化玻璃
+      material: 不锈钢烟道 + 黑色钢化玻璃底盘前沿
+      finish: 拉丝不锈钢 + 高光黑玻璃
+    mounting: 壁挂
+    signature_detail: 底盘前沿黑色玻璃触控条内嵌LED灯带与小点阵显示，不锈钢与黑玻璃两种材质形成强对比
+  design_level:
+    score: 3
+    reason: 方形烟道造型厚重工业感，不锈钢+黑玻璃组合在中高端烟机中较为常见；底部LED照明实用性强，但整体设计语言平稳
+  design_tags:
+  - 方形烟道
+  - 不锈钢+黑玻璃
+  - LED底部照明
+  - 工业感
+  - 触控玻璃面板
+  hero_feature: 底盘黑色玻璃触控条内嵌LED灯带，使控制区与照明区合二为一，形成横贯底盘的发光界面
+  problem_solved: 烟机控制按钮通常独立布局，难以清洁；黑色玻璃触控条将所有控制集成为可擦拭平面
+  transferable_technique: 将触控界面与LED照明整合在同一玻璃条内的设计手法，可迁移至灶具、嵌入式烤箱控制面板
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_hood_005
+  source_images:
+  - filename: 74.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/抽油烟机/74.jpg
+    image_role: detail
+    visual_anchor: Haier烟机底盘近景：黑色玻璃触控条特写，可见齿轮/定时/条形进度条/播放/电源五个触控图标
+  product_name: Haier 方形岛台式抽油烟机 — 触控面板细节
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 抽油烟机
+  design_language:
+    silhouette: 横向黑色玻璃触控条特写，占满底盘前沿全宽
+    light_opening: 条形LED进度条为吸力档位显示，暖白发光
+    thermal: 无
+    cmf:
+      color: 哑光黑玻璃 + 白色图标 + 暖白LED
+      material: 钢化玻璃
+      finish: 高光黑玻璃
+    mounting: 嵌入底盘前沿
+    signature_detail: 中央横向LED条形进度条以暖白小格点表示档位，两侧对称分布功能图标，整体形成横贯式发光界面
+  design_level:
+    score: 4
+    reason: 横贯底盘全宽的发光触控界面在烟机品类具有强烈记忆点；条形进度条替代传统数字显示，视觉优雅；图标设计克制统一
+  design_tags:
+  - 全宽发光界面
+  - LED进度条
+  - 触控玻璃
+  - 图标系统
+  - 横贯式设计
+  hero_feature: 横贯底盘全宽的LED条形进度条档位显示，使功能信息成为视觉仪式感构成元素
+  problem_solved: 烟机档位显示通常是小数字屏或LED点，信息密度低且美感差；条形进度条使档位状态一目了然且形态优雅
+  transferable_technique: 以横贯全宽的LED条形进度条替代数字档位显示的交互设计手法，可迁移至灶具、烤箱、洗碗机控制面板
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内灯"
+  tertiary: "吸顶灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/吸顶灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_吸顶灯_001"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/吸顶灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形双环结构+外环哑白+内圆漫射面"
+    product_name: "RAB 圆形吸顶灯（双环平面款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "吸顶灯"]
+    design_language:
+      silhouette: "正圆形，外环宽边框+内圆漫射发光区，双圆同心构图，整体极扁"
+      light_opening: "内圆漫射面均匀发光，外环为实体遮光边框"
+      thermal: "超薄内置，无外露散热"
+      cmf:
+        color: "全白，外环哑白，内圆乳白漫射"
+        material: "注塑外环，PC漫射板"
+        finish: "哑光白，漫射面乳白"
+      mounting: "直接贴顶安装，无外露安装件"
+      signature_detail: "双圆同心构图，外框与内发光区的明暗对比产生视觉层次感"
+    design_level:
+      score: 3
+      reason: "双圆构图有层次感，全白统一，但产品语言中规中矩，无突出差异化"
+    design_tags: ["双环同心", "圆形", "吸顶", "全白", "均匀漫射"]
+    hero_feature: "双圆同心构图，外实内光，形成简洁光晕层次"
+    problem_solved: "住宅通道或小空间均匀照明，安装简便"
+    transferable_technique: "双圆同心比例控制，外框宽窄决定视觉重量"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_吸顶灯_002"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/吸顶灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形穹顶漫射罩+宽沿底座+微凸球面"
+    product_name: "RAB 圆形吸顶灯（穹顶漫射款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "吸顶灯"]
+    design_language:
+      silhouette: "圆形宽底盘+中央向下微凸球面漫射罩，整体轮廓如倒扣浅碗"
+      light_opening: "整个穹顶面均匀漫射，出光柔和无方向"
+      thermal: "内置，穹顶高度提供内部散热空间"
+      cmf:
+        color: "全白，底盘与穹顶同色"
+        material: "注塑底盘，光学级PC穹顶漫射罩"
+        finish: "哑光白底盘+光滑乳白穹顶"
+      mounting: "直接贴顶安装，宽底盘遮蔽安装区"
+      signature_detail: "穹顶微凸球面与宽底盘的高度比约1:3，比例使整体视觉饱满不厚重"
+    design_level:
+      score: 3
+      reason: "穹顶比例处理合理，全白统一，但产品定位偏基础，差异化较弱"
+    design_tags: ["穹顶漫射", "圆形吸顶", "全白", "均匀出光"]
+    hero_feature: "微凸穹顶漫射罩，整面均匀发光，视觉饱满"
+    problem_solved: "住宅卧室或走廊需要柔和均匀吸顶照明"
+    transferable_technique: "穹顶球面高度比控制视觉饱满感而不显笨重"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

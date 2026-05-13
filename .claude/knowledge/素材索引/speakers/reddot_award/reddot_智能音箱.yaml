@@ -1,0 +1,114 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "智能音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/智能音箱/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "reddot_smart_spk_001"
+    source_images:
+      - filename: "43.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/智能音箱/43.jpg"
+        image_role: "hero"
+        visual_anchor: "全面料包覆超圆角立式音箱，淡蓝色（Sky Blue），无任何可见控件，正面观"
+    product_name: "Google Nest Audio (Sky)"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "超圆角矩形柱体，顶部略向后倾斜，底部宽顶部窄的轻微梯形侧面"
+      light_opening: "无外露，全面料包覆，内藏LED指示"
+      thermal: "底部通气不可见"
+      cmf:
+        color: "淡蓝色（Sky）"
+        material: "回收PET织物"
+        finish: "织物哑面，无缝包覆"
+      mounting: "桌面立放"
+      signature_detail: "无任何外露控件和接缝，纯面料包覆，颜色即唯一识别符"
+    design_level:
+      score: 4
+      reason: "全面料无界面设计将智能音箱彻底家居化；淡蓝色温和，回收面料环保属性可感知；H01减法做到极致"
+    design_tags: ["全面料包覆", "回收材料", "无界面设计", "家居化", "H01减法", "H10材料表达", "H07极简整合"]
+    hero_feature: "全回收PET面料无缝包覆，消除所有电子产品视觉特征"
+    problem_solved: "智能音箱在家居场景中的异物感，融入家居背景"
+    transferable_technique: "织物包覆+无缝工艺将硬质电子设备彻底软化，颜色承担全部视觉识别功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "reddot_smart_spk_002"
+    source_images:
+      - filename: "44.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/智能音箱/44.jpg"
+        image_role: "hero"
+        visual_anchor: "与001同款，粉沙色（Sand Pink），正面观"
+    product_name: "Google Nest Audio (Sand)"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "超圆角矩形柱体，顶部轻微后倾，与001同形态"
+      light_opening: "无外露，全面料包覆"
+      thermal: "无"
+      cmf:
+        color: "粉沙色（Sand/Blush Pink）"
+        material: "回收PET织物"
+        finish: "织物哑面"
+      mounting: "桌面立放"
+      signature_detail: "与Sky版同形态，粉沙色定义温暖卧室/书房场景"
+    design_level:
+      score: 3
+      reason: "与001同款不同色SKU；粉沙色温暖，但设计贡献与001重叠；多色SKU策略本身有参考价值"
+    design_tags: ["全面料包覆", "多色SKU", "粉沙色", "回收材料", "H10材料表达", "H01减法"]
+    hero_feature: "粉沙色面料版本，同款产品通过色彩区分场景定位"
+    problem_solved: "覆盖不同家居风格用户（暖色系场景）"
+    transferable_technique: "同一形态多色SKU策略，色彩精准对应细分场景/用户群"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "reddot_smart_spk_003"
+    source_images:
+      - filename: "48.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/智能音箱/48.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形插座式迷你智能音箱，深海蓝色，正面圆形皮质盖板，背面EU插头脚，底部散热槽"
+    product_name: "插座式迷你智能音箱"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "圆形鼓形，正面皮质圆形面板，背面直插EU插脚"
+      light_opening: "底部周圈散热/出声槽"
+      thermal: "底部圆周环形槽"
+      cmf:
+        color: "深海蓝（Navy Blue）"
+        material: "ABS主体+皮质正面面板"
+        finish: "哑光深蓝+皮质纹理"
+      mounting: "直插墙壁插座（EU标准）"
+      signature_detail: "直插式消除电源线，皮质圆面板赋予高级家居感"
+    design_level:
+      score: 4
+      reason: "直插式形态解决线缆管理痛点；皮质面板材质提升溢价感；深蓝色与皮质搭配有男性家居精品调性；H09隐藏工程的优秀示例"
+    design_tags: ["直插式", "插座音箱", "皮质面板", "H09隐藏工程", "H10材料表达", "无线缆", "男性家居"]
+    hero_feature: "直插EU插座消除电源线，皮质正面赋予精品感"
+    problem_solved: "智能音箱的走线/电源线管理问题，实现真正零线缆"
+    transferable_technique: "将产品的电源接口直接设计为EU/US插脚，彻底消除线缆，同时限定安装位置（插座旁）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

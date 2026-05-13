@@ -1,0 +1,266 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "砂光机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/砂光机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bosch_砂光机_001"
+    source_images:
+      - filename: "砂光机__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/砂光机/砂光机__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "有线偏心砂光机（Random Orbit Sander），蓝色掌心握持机身，黑色防滑包胶顶部，右侧附带半透明浅蓝色Microfilter集尘盒，圆形白色砂盘，红色电源开关，整体造型紧凑低矮"
+    product_name: "Bosch ROS20VSC Random Orbit Sander"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心砂光机"]
+    design_language:
+      silhouette: "低矮扁平掌托轮廓，集尘盒横向延伸至机身右侧，整体宽度明显大于高度"
+      light_opening: "N/A"
+      thermal: "机身两侧设竖向细散热槽"
+      cmf:
+        color: "深蓝色（Bosch Professional标准蓝）机身主导，黑色防滑顶部握持区，浅蓝色半透明集尘盒，白色圆形砂盘底座"
+        material: "注塑工程塑料机身，橡胶包覆防滑区域，集尘盒PC透明材质"
+        finish: "机身哑光蓝，包胶区软质磨砂质感，集尘盒半透明光滑"
+      mounting: "有线（电源线从顶部引出）"
+      signature_detail: "Microfilter集尘系统盒体横向附挂，红色电源开关显著可视，圆形砂盘底座"
+    design_level:
+      score: 3
+      reason: "执行整洁，品牌色彩体系完整，集尘盒设计实用且有辨识度，但造型中规中矩无突破"
+    design_tags: ["偏心砂光机", "有线", "集尘盒", "掌托设计", "Microfilter"]
+    hero_feature: "半透明浅蓝色Microfilter集尘盒横向附挂"
+    problem_solved: "粉尘管理与手持舒适性，集尘盒可快速拆装，视觉上实现功能分区"
+    transferable_technique: "功能模块色彩区分（集尘盒用浅色区别主体），横向模块附挂不增加握持高度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_砂光机_002"
+    source_images:
+      - filename: "砂光机__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/砂光机/砂光机__综合__02.jpg"
+        image_role: "hero"
+        visual_anchor: "有线矩形砂光机（Sheet Sander/Finishing Sander），型号OS50VC，蓝色卵形机身，黑色橡胶前端护帽，右侧圆柱形集尘袋为蓝色织物，金属/银灰色矩形底板，红色砂纸夹紧片，Vibration Control标识"
+    product_name: "Bosch OS50VC Sheet Sander"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "矩形砂光机"]
+    design_language:
+      silhouette: "横向卵形机身+圆柱集尘袋，整体呈水平长条形，底板矩形延伸"
+      light_opening: "N/A"
+      thermal: "机身两侧顶部设竖向细散热开口"
+      cmf:
+        color: "深蓝色机身，黑色橡胶护帽，蓝色织物集尘袋，银灰色金属底板，红色砂纸夹"
+        material: "注塑工程塑料机身，橡胶前端护帽，金属底板，织物集尘袋"
+        finish: "机身哑光蓝，金属底板拉丝银灰，集尘袋织物质感"
+      mounting: "有线（电源线从顶部后端引出）"
+      signature_detail: "圆柱形织物集尘袋侧挂，红色砂纸快夹，金属底板精密感"
+    design_level:
+      score: 3
+      reason: "矩形砂光机标准执行，品牌识别度高，集尘袋侧挂方案整洁，整体工业语言一致"
+    design_tags: ["矩形砂光机", "有线", "集尘袋", "Vibration Control", "金属底板"]
+    hero_feature: "圆柱形织物集尘袋侧挂+金属精密底板组合"
+    problem_solved: "矩形表面精细砂光，集尘袋可直视容量，金属底板保证平整度"
+    transferable_technique: "织物集尘袋与机身同色系处理，形成视觉统一；金属底板与塑料机身的材质对比强调功能精密性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_砂光机_003"
+    source_images:
+      - filename: "砂光机__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/砂光机/砂光机__综合__03.jpg"
+        image_role: "hero"
+        visual_anchor: "有线矩形砂光机，型号GSS20-40，深蓝色+黑色配色，黑色圆柱集尘袋（深色），方形黑色底板，红色电源开关，机身前端有弧形分件线"
+    product_name: "Bosch GSS20-40 Sheet Sander"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "矩形砂光机"]
+    design_language:
+      silhouette: "矩形砂光机，机身短粗，黑色圆柱集尘袋从后端延伸"
+      light_opening: "N/A"
+      thermal: "机身顶部后段散热格栅"
+      cmf:
+        color: "深蓝色机身，黑色集尘袋，黑色底板，红色电源开关"
+        material: "注塑工程塑料，黑色织物或硬壳集尘袋"
+        finish: "哑光蓝机身，黑色哑光集尘区"
+      mounting: "有线"
+      signature_detail: "黑色集尘袋与黑色底板统一，红色开关视觉焦点，机身前端弧形分件线"
+    design_level:
+      score: 3
+      reason: "标准品类执行，双色配色（蓝+黑）增强专业感，无明显设计突破"
+    design_tags: ["矩形砂光机", "有线", "集尘袋", "GSS系列"]
+    hero_feature: "蓝黑双色对比配色，红色开关点睛"
+    problem_solved: "矩形工件砂光，结构简洁易操作"
+    transferable_technique: "蓝+黑+红点睛三色公式，在Bosch Professional产品线中高度统一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_砂光机_004"
+    source_images:
+      - filename: "砂光机__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/砂光机/砂光机__综合__04.jpg"
+        image_role: "hero"
+        visual_anchor: "有线大型偏心砂光机，型号GET75-6，蓝色机身，黑色橡胶前端及握把，大直径红色砂盘（约150mm），黑色弓形辅助手柄，机身右侧圆形散热格栅，整体体量较大"
+      - filename: "砂光机__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/砂光机/砂光机__综合__05.jpg"
+        image_role: "variant"
+        visual_anchor: "有线偏心砂光机，型号GET65-5，与GET75-6同系列，略小尺寸，同样蓝色机身+黑色弓形辅助手柄+红色砂盘"
+    product_name: "Bosch GET75-6 / GET65-5 Large Random Orbit Sander"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心砂光机", "大型"]
+    design_language:
+      silhouette: "宽体低矮轮廓，弓形辅助手柄从机身后侧延伸，大直径砂盘底部突出，侧面有吸尘接口"
+      light_opening: "N/A"
+      thermal: "机身侧面圆形/扇形散热格栅"
+      cmf:
+        color: "深蓝色主体，黑色橡胶前把手及辅助手柄，红色砂盘垫"
+        material: "工程塑料机身，橡胶覆层手柄，尼龙/金属内部结构"
+        finish: "哑光蓝，橡胶软质手柄，砂盘红色魔术贴垫"
+      mounting: "有线（粗橡胶外皮电源线）"
+      signature_detail: "一体化弓形辅助手柄（两手操作），大直径砂盘，侧面吸尘接口"
+    design_level:
+      score: 3
+      reason: "专业大功率砂光机标准设计，双手操作姿态通过弓形手柄实现，功能清晰，品牌语言一致"
+    design_tags: ["大型偏心砂光机", "有线", "双手操作", "弓形手柄", "GET系列"]
+    hero_feature: "弓形辅助手柄使双手操控成为视觉识别特征"
+    problem_solved: "大面积工件砂光，双手握持提升控制精度和疲劳度管理"
+    transferable_technique: "弓形手柄的造型语言（从机身延伸后绕回），可迁移至需要双手操作的其他专业工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_砂光机_005"
+    source_images:
+      - filename: "砂光机__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/砂光机/砂光机__综合__06.jpg"
+        image_role: "hero"
+        visual_anchor: "有线偏心砂光机，型号GEX33-5，蓝色机身+黑色蘑菇头顶盖，银灰色压铸偏心盘，黑色微型Microfilter集尘盒（矩形格栅状），红色砂盘，左侧有小型辅助拨杆"
+      - filename: "砂光机__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/砂光机/砂光机__综合__07.jpg"
+        image_role: "variant"
+        visual_anchor: "有线偏心砂光机，型号GEX33-6，与GEX33-5同系列，6mm偏心量版本，外观几乎一致"
+    product_name: "Bosch GEX33-5 / GEX33-6 Professional Random Orbit Sander"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心砂光机"]
+    design_language:
+      silhouette: "蘑菇头顶盖的矮胖圆形轮廓，银灰色压铸偏心盘在中部形成明显分层，矩形集尘盒横向附挂"
+      light_opening: "N/A"
+      thermal: "顶盖内部散热，侧面无明显开口"
+      cmf:
+        color: "深蓝色机身，黑色顶盖，银灰色压铸偏心盘，黑色格栅集尘盒，红色砂盘"
+        material: "工程塑料机身，压铸铝/锌偏心盘，橡胶顶部包覆"
+        finish: "哑光蓝机身，哑光黑顶盖，金属感银灰偏心盘"
+      mounting: "有线"
+      signature_detail: "银灰色压铸偏心盘形成三色分层（蓝-银-红），Microfilter格栅集尘盒，蘑菇头顶握区"
+    design_level:
+      score: 4
+      reason: "三色分层视觉语言（蓝机身+银压铸盘+红砂盘）形成强烈品类记忆点，压铸件的金属质感与塑料形成有意义的材质对比，造型有一定创新"
+    design_tags: ["偏心砂光机", "有线", "压铸偏心盘", "三色分层", "GEX系列", "Microfilter"]
+    hero_feature: "银灰色压铸金属偏心盘在蓝色机身与红色砂盘之间形成三色分层视觉锚点"
+    problem_solved: "精密偏心砂光，压铸盘提供精确偏心运动，视觉上传达精密工程感"
+    transferable_technique: "压铸金属件作为视觉分层元素插入两段塑料之间，强调功能精密区；三色横向分层策略可迁移至其他旋转类工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_砂光机_006"
+    source_images:
+      - filename: "砂光机__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/砂光机/砂光机__综合__08.jpg"
+        image_role: "hero"
+        visual_anchor: "有线大型偏心砂光机，型号GEX34-6，深蓝色机身，黑色顶部蘑菇头，银灰色偏心盘，右侧灰色软管状集尘接口，红色砂盘，整体比GEX33更大型号"
+    product_name: "Bosch GEX34-6 Professional Random Orbit Sander"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心砂光机", "大型"]
+    design_language:
+      silhouette: "较大体量蘑菇头轮廓，银色压铸偏心盘分层，右侧灰色集尘软管接口突出"
+      light_opening: "N/A"
+      thermal: "顶盖内部散热"
+      cmf:
+        color: "深蓝色机身，黑色顶盖，银灰色压铸偏心盘，灰色集尘接口，红色砂盘"
+        material: "工程塑料，压铸金属偏心盘，橡胶顶部"
+        finish: "哑光蓝，哑光黑顶盖，金属银偏心盘"
+      mounting: "有线"
+      signature_detail: "灰色集尘软管接口从机身侧面延伸，银灰压铸偏心盘，大直径红色砂盘"
+    design_level:
+      score: 3
+      reason: "GEX系列统一设计语言，执行标准，体量放大但设计逻辑相同，无额外创新"
+    design_tags: ["大型偏心砂光机", "有线", "压铸偏心盘", "GEX系列", "集尘接口"]
+    hero_feature: "银灰压铸偏心盘+灰色集尘接口的功能外显设计"
+    problem_solved: "大面积精密砂光，侧面集尘接口可接外部吸尘器"
+    transferable_technique: "集尘接口作为独立设计元素而非隐藏，功能外显提升专业感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_砂光机_007"
+    source_images:
+      - filename: "砂光机__综合__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/砂光机/砂光机__综合__09.jpg"
+        image_role: "hero"
+        visual_anchor: "12V无线矩形砂光机，型号GSS12V-40，深蓝色机身，黑色顶部握持区，12V电池仓在前下方（无电池状态），黑色平板底板，红色大型电源开关，整体较小巧"
+      - filename: "砂光机__轨道砂光机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/砂光机/砂光机__轨道砂光机__01.jpg"
+        image_role: "variant"
+        visual_anchor: "12V无线偏心砂光机，型号GEX12V-5，深蓝色机身，黑色顶部，12V无电池状态（底部有电池卡槽），红色大型电源开关，圆形砂盘底座，整体极为小巧"
+    product_name: "Bosch 12V Cordless Sander Series (GSS12V-40 / GEX12V-5)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "无线砂光机", "12V"]
+    design_language:
+      silhouette: "12V超小型，掌中机身比例，电池仓前置或下置，轮廓极紧凑"
+      light_opening: "N/A"
+      thermal: "机身侧面细小散热缝"
+      cmf:
+        color: "深蓝色机身主导，黑色顶部握持，红色电源开关，机身下部电池接口区"
+        material: "工程塑料为主"
+        finish: "哑光蓝，哑光黑"
+      mounting: "12V无线（BOSCH 12V电池平台），电池在底部或前部插入"
+      signature_detail: "超小体量与专业工具语言结合，红色大型开关在小尺寸机身上比例夸张，增强操作直觉"
+    design_level:
+      score: 3
+      reason: "12V紧凑平台的标准设计执行，品牌识别度高，但尺寸约束下设计空间有限"
+    design_tags: ["无线砂光机", "12V", "紧凑型", "GSS系列", "GEX系列"]
+    hero_feature: "12V超小型无线形态，专业工具语言在小尺寸上的完整传承"
+    problem_solved: "轻量便携砂光作业，单手可操作，适合精细修整和角落处理"
+    transferable_technique: "小型无线工具仍保持完整品牌语法，红色开关在小尺寸上比例放大以保持操作可视性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,201 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电钻"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bosch_电钻_001"
+    source_images:
+      - filename: "电钻__充电电钻__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__充电电钻__01.jpg"
+        image_role: "hero"
+        visual_anchor: "12V五合一Flexiclick系统钻GSR12V-140FC，附5个可换夹头模块，蓝色软包装袋，蓝色主机身+红色扳机，圆形模块化接口为标志性特征"
+      - filename: "电钻__充电电钻__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__充电电钻__02.jpg"
+        image_role: "variant"
+        visual_anchor: "18V高扭矩充电钻GSR18V-755C，蓝色机身，黑色CORE18V电池座，附黑色工具包，侧边辅助把手为黑色圆棒形，充电器另附"
+      - filename: "电钻__充电电钻__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__充电电钻__03.jpg"
+        image_role: "variant"
+        visual_anchor: "12V五合一Flexiclick系统钻GSR12V-300FC，与01相似，蓝色软包装袋内含5个模块，充电器含标准美规插头"
+      - filename: "电钻__充电电钻__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__充电电钻__04.jpg"
+        image_role: "detail"
+        visual_anchor: "18V无刷充电钻GSR18V-535C，裸机，深蓝色机身，黑色钻夹头，红色正反转拨杆，右侧银灰L形挂钩，底部无电池空槽"
+    product_name: "Bosch Professional 充电电钻系列（12V Flexiclick / 18V GSR）"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "充电电钻"]
+    design_language:
+      silhouette: "标准枪型，机头圆柱形钻夹头前伸，握把弧形竖立，电池底座水平；Flexiclick款机头为圆形快换接口"
+      light_opening: "N/A"
+      thermal: "机身侧面条形通风槽，无刷电机壳为导热压铸件"
+      cmf:
+        color: "深宝蓝色主机身，哑黑钻夹头/电池，红色单一操控件（扳机/拨杆），银灰冲压钢挂钩"
+        material: "ABS注塑机身，TPR软质黑色握把覆层，压铸铝/锌合金头部，冲压钢挂钩"
+        finish: "蓝色亮面，黑色砂纹，银灰拉丝"
+      mounting: "滑入底部电池（18V CORE18V / 12V）"
+      signature_detail: "银灰L形侧挂钩为18V系列标志附件；Flexiclick圆形快换接口为12V系列标志"
+    design_level:
+      score: 3
+      reason: "品牌语言成熟统一，Flexiclick模块化设计具备实质功能创新，但造型语言为延续而非突破"
+    design_tags: ["H05模块化", "H08对比强调", "H11功能外显"]
+    hero_feature: "Flexiclick圆形快换夹头接口——一机五用，接口造型即为功能承诺的视觉外显"
+    problem_solved: "工地场景中需要频繁换头的效率问题；圆形快换接口让模块化操作从视觉到动作都简单直觉"
+    transferable_technique: "圆形旋转锁定接口作为模块化连接的视觉符号，比矩形卡口更直观；可迁移到其他需要模块化附件的手持工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_电钻_002"
+    source_images:
+      - filename: "电钻__冲击起子__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__冲击起子__01.jpg"
+        image_role: "hero"
+        visual_anchor: "18V高扭矩冲击扳手GDS18V-770C，黑色大头压铸件+蓝色机身，1/2方榫驱动头，红色扳机，TURBO字样标签，CORE18V电池银灰挂钩"
+      - filename: "电钻__冲击起子__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__冲击起子__02.jpg"
+        image_role: "variant"
+        visual_anchor: "18V Flexiclick多功能钻GSR18V-535FC，蓝色机身，圆形快换接口，附3个换头模块（直角、钻夹头、批头夹），红色扳机"
+      - filename: "电钻__冲击起子__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__冲击起子__03.jpg"
+        image_role: "variant"
+        visual_anchor: "12V紧凑型起子钻GSR12V-300 HX，深蓝色短枪身无电池，圆形快换夹头，红色拨杆，造型极简紧凑"
+      - filename: "电钻__冲击起子__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__冲击起子__04.jpg"
+        image_role: "detail"
+        visual_anchor: "有线冲击钻HD18-2，蓝色机身+黑色钻夹头，前置辅助把手为黑色竖立柱形，侧面正反转拨杆为橙红色，电源线从尾部引出"
+    product_name: "Bosch Professional 冲击起子 / 冲击扳手系列（18V / 12V）"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "冲击起子"]
+    design_language:
+      silhouette: "冲击扳手头部球形膨大（容纳冲击机构），冲击起子头部圆柱较长；整体枪型，黑色头部视觉占比大"
+      light_opening: "N/A"
+      thermal: "黑色压铸头部兼散热，机身通风槽"
+      cmf:
+        color: "深宝蓝机身，黑色冲击头压铸件，红色扳机，橙红色正反转拨杆（有线款），银灰挂钩"
+        material: "ABS注塑机身，压铸锌合金头部，TPR握把，冲压钢挂钩"
+        finish: "蓝色亮面，黑色砂纹压铸"
+      mounting: "底部滑入式18V CORE18V电池"
+      signature_detail: "头部黑色压铸件体积感强，与蓝色机身分件线清晰，传达高扭矩机械结构的可信度"
+    design_level:
+      score: 3
+      reason: "设计执行到位，头部压铸件的体量感成功传达工业级扭矩能力；分件线精准，无多余装饰"
+    design_tags: ["H08对比强调", "H11功能外显", "H10材料表达"]
+    hero_feature: "黑色大体量压铸头部与蓝色机身的强对比分件——压铸件体积直接暗示内部冲击机构的分量"
+    problem_solved: "让高扭矩能力通过视觉可信，用户看到就能判断这是重载工具"
+    transferable_technique: "用高密度感材料（压铸金属色/砂纹黑）覆盖功能最密集部位，用轻质感材料（注塑蓝）覆盖握持区——材料视觉密度映射功能密度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_电钻_003"
+    source_images:
+      - filename: "电钻__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "18V旗舰钻GSR18V-975C，蓝色机身+辅助把手（黑色柱形），银灰金属钻夹头，钻头转矩环分段纹，顶部散热槽，CORE18V电池+银灰挂钩，EC BRUSHLESS标识"
+      - filename: "电钻__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__综合__02.jpg"
+        image_role: "variant"
+        visual_anchor: "18V锤钻/钻机GSB18V-975C，与综合01几乎相同机身，头部增加锤钻模式切换环（黑色旋转环），多功能钻头锁"
+      - filename: "电钻__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__综合__03.jpg"
+        image_role: "variant"
+        visual_anchor: "12V便携套装PS31-2A，含蓝色软包袋，蓝色小巧电钻，12V Li-Ion电池，BC330充电器，整体配色为蓝黑红系"
+      - filename: "电钻__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__综合__04.jpg"
+        image_role: "variant"
+        visual_anchor: "12V HD紧凑钻GSR12V-300，深蓝色短枪身，黑色钻夹头，红色正反转拨杆，底部无电池状态"
+      - filename: "电钻__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__综合__05.jpg"
+        image_role: "variant"
+        visual_anchor: "12V套装GSR12V-300含软包袋，蓝色主机，12V 2.0Ah锂电池，充电器，配色风格同系列"
+      - filename: "电钻__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__综合__06.jpg"
+        image_role: "variant"
+        visual_anchor: "12V紧凑充电钻（12V Li-Ion），蓝色机身，黑色钻夹头带白色刻度环，红色扳机和正反转拨杆，绿色LED电量显示"
+      - filename: "电钻__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__综合__07.jpg"
+        image_role: "variant"
+        visual_anchor: "18V TURBO旗舰钻GSR18V-1330C，蓝色机身，黑色辅助把手，银灰钻夹头，TURBO标识，CORE18V电池，银灰L形挂钩，机身略长"
+      - filename: "电钻__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__综合__08.jpg"
+        image_role: "variant"
+        visual_anchor: "18V旗舰钻GSR18V-975C另一视角（无辅助把手），裸机蓝色机身，银灰钻夹头+转矩环，CORE18V电池，银灰挂钩"
+    product_name: "Bosch Professional 综合系列电钻（12V / 18V 充电钻 / 锤钻）"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "充电电钻"]
+    design_language:
+      silhouette: "枪型，18V旗舰款头部体量更大，辅助把手为独立柱形黑色附件；12V款机身紧凑短小"
+      light_opening: "N/A"
+      thermal: "机身顶面条形散热槽，黑色压铸前盖兼散热"
+      cmf:
+        color: "深宝蓝主机身，黑色压铸头部和电池，银灰钻夹头金属件，红色扳机/拨杆"
+        material: "ABS注塑，TPR覆层握把，压铸铝头部，金属钻夹头"
+        finish: "蓝色亮面，黑色砂纹，银灰金属光"
+      mounting: "底部滑入式电池（18V CORE18V / 12V）"
+      signature_detail: "钻夹头上银灰色扭矩调节环（多档刻度清晰可见）是18V旗舰款标志性细节；TURBO/BITURBO标识区分高性能版"
+    design_level:
+      score: 3
+      reason: "系列一致性强，18V旗舰款工程感突出，钻夹头扭矩环功能外显设计到位；整体为品牌标准执行，无造型突破"
+    design_tags: ["H08对比强调", "H11功能外显", "H10材料表达"]
+    hero_feature: "银灰金属扭矩调节环+多档刻度——将调节功能变为视觉精密感展示，是专业级宣言"
+    problem_solved: "18V大功率钻需要让用户一眼看出这是旗舰级别；扭矩环刻度数量、金属质感、辅助把手三件套传达高端专业感"
+    transferable_technique: "将精密调节机构（扭矩环）的刻度和金属材质作为设计焦点，数量级的精度感比单纯大小更能传达专业——可迁移到其他有精密调节需求的工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_电钻_004"
+    source_images:
+      - filename: "电钻__锤钻__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电钻/电钻__锤钻__02.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线锤钻GBH18V-26 BULLDOG，蓝色主机身，黑色SDS+夹头，黑色橡胶辅助把手，功能切换旋钮（旋转/钻/锤）红色指示，CORE18V 4Ah电池，EC标识"
+    product_name: "Bosch Professional GBH18V-26 BULLDOG 18V 无线锤钻"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "锤钻"]
+    design_language:
+      silhouette: "锤钻枪型，头部SDS+夹头更长更粗，辅助把手为黑色橡胶柱形靠前安装，机身因内置冲击机构略厚"
+      light_opening: "N/A"
+      thermal: "机身后部通风槽，黑色压铸铝头部大面积散热"
+      cmf:
+        color: "深宝蓝机身，黑色SDS头部，红色功能指示，橡胶辅助把手黑色"
+        material: "ABS注塑机身，压铸铝头部，橡胶辅助把手，CORE18V电池黑色"
+        finish: "蓝色亮面，黑色砂纹压铸，橡胶哑面"
+      mounting: "底部滑入式18V CORE18V电池"
+      signature_detail: "SDS+三爪夹头（无需工具换钻头）+三模式旋转功能环是锤钻品类身份锚点；BULLDOG系列命名强化高强度定位"
+    design_level:
+      score: 3
+      reason: "锤钻品类特征清晰，SDS夹头和功能切换环直观，品牌语言一致；无突破性造型，但专业可信度高"
+    design_tags: ["H11功能外显", "H08对比强调", "H02包覆"]
+    hero_feature: "SDS+夹头的圆柱形锁定机构外显——免工具换钻头的核心功能通过特殊夹头形态一眼可辨"
+    problem_solved: "混凝土打孔需要高冲击力，锤钻需要视觉传达此能力；SDS夹头+粗壮头部+辅助把手三件套传达重型施工级别"
+    transferable_technique: "功能切换环（三模式旋钮）的颜色指示+刻度组合：将不可见的内部模式状态外显为界面——可迁移到任何有多模式切换的工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

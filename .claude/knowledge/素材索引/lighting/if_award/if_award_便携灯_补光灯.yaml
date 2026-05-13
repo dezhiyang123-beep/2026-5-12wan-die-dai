@@ -1,0 +1,436 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "便携灯"
+  tertiary: "补光灯"
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/"
+  generated_at: "2026-05-08"
+products:
+
+  - product_id: "if_便携灯_补光灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "两款Neewer补光灯立于灯架：左侧配金色反光碗（暖调COB点光源），右侧方形灯头+黑色反光碗，控制盒独立挂于杆中部"
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/02.jpg"
+        image_role: "detail"
+        visual_anchor: "Neewer方形灯头正面：栅格进气网格+蜂窝冷却结构，控制盒正面圆形OLED显示屏显示INT/CCT参数，侧面拨轮开关"
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/05.jpg"
+        image_role: "detail"
+        visual_anchor: "Neewer方形灯头两角度：正面显示控制面板OLED圆形表盘，背面LED阵列出光口（RGB+白光LED点阵面板）"
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/06.jpg"
+        image_role: "detail"
+        visual_anchor: "Neewer控制盒背面特写：圆形风扇网格+OLED圆形表盘+侧装滚轮编码器，银灰铝合金壳体，MENU/MODE按键组"
+    product_name: "Neewer 方形COB补光灯系统（分体式）"
+    brand_name: "Neewer"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "补光灯"]
+    design_language:
+      silhouette: "方形盒状灯头（约150×150mm）+独立圆柱形控制盒，两件分体通过数据线连接；灯头四角直角圆角，控制盒圆角矩形；整体工业科技感"
+      light_opening: "灯头正面整面LED阵列（白光+RGB混合点阵），或可换装反光碗形成定向COB点光源；方形出光面配套安装接口可接各类修光附件"
+      thermal: "控制盒背面大面积蜂窝散热格+内置轴流风扇（可见扇叶），灯头侧面线形散热槽，主动+被动双重散热"
+      cmf:
+        color: "银灰铝合金本色（哑光银）；控制细节黑色"
+        material: "铝合金壳体，工程塑料按键"
+        finish: "拉丝铝合金表面，局部阳极氧化处理"
+      mounting: "灯头底部标准Bowens卡口/热靴接口+伞架孔，控制盒配卡扣可夹于灯架杆；皮革提带可手持"
+      signature_detail: "圆形OLED表盘嵌入方形机身，表盘显示双参数（亮度INT+色温CCT）并配环形刻度装饰，科技感表情；侧装滚轮编码器提供触感调节"
+    design_level:
+      score: 4
+      reason: "分体式散热解决大功率补光热管理难题，OLED圆形表盘与方形机身形成视觉对比亮点，iF获奖设计整合度高"
+    design_tags: ["分体式", "方形灯头", "圆形OLED表盘", "银灰铝合金", "主动散热", "蜂窝散热", "COB点光源", "LED阵列", "Bowens卡口", "iF获奖"]
+    hero_feature: "圆形OLED仪表盘嵌入方形机身，工业仪器感强；分体控制盒独立散热+风扇，彻底解决大功率热管理"
+    problem_solved: "大功率补光灯一体机散热差、重心高；分体设计将热源与散热隔离，降低灯头重量，提升稳定性"
+    transferable_technique: "圆形仪表盘嵌入方形机身（对比美学）；分体控制+独立散热模块化设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_补光灯_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "Neewer黑色方形提灯式补光灯，顶部黑色橡胶包裹提把，正面圆形菲涅尔镜头出光，方形机身带散热槽，配蜂巢伞和反光碗附件"
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/04.jpg"
+        image_role: "detail"
+        visual_anchor: "同款灯单品特写：深灰方形机身，顶部金属U形提把（橡胶包覆防滑），圆形镜头+金属遮光罩，侧面控制面板（按键+电量指示）"
+    product_name: "Neewer 方形提灯式COB补光灯"
+    brand_name: "Neewer"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "补光灯"]
+    design_language:
+      silhouette: "近正方形盒状主体（约200×200×150mm），顶部U形提把与机身浑然一体；圆形镜头从正面方形体突出，形成方圆对比焦点"
+      light_opening: "圆形菲涅尔出光镜头（单COB点光源+聚光透镜），配标准Bowens卡口可接蜂巢伞、反光碗等修光附件，定向光输出"
+      thermal: "机身侧面及顶部线形散热槽阵列，被动散热为主；机身体积提供足够热容"
+      cmf:
+        color: "深哑黑（主体）+黑色橡胶提把"
+        material: "铝合金/工程塑料复合机身，橡胶包覆提把"
+        finish: "哑光黑烤漆，专业影棚质感"
+      mounting: "底部标准1/4螺孔+Bowens卡口，U形提把支持手提，可配套灯架"
+      signature_detail: "顶部U形圆管提把包裹橡胶防滑套，与方形金属机身形成有机/无机材质对话；方形机身+圆形镜头组合是补光灯领域经典形式语言"
+    design_level:
+      score: 3
+      reason: "专业影棚用补光灯形态成熟，方圆对比语言清晰，橡胶提把人体工学考虑到位，但整体较为常规"
+    design_tags: ["方形机身", "提灯式", "COB点光源", "菲涅尔镜头", "哑黑", "Bowens卡口", "橡胶提把", "iF获奖"]
+    hero_feature: "顶置U形提把+圆形菲涅尔镜头与方形体结合，兼具便携手提与专业修光能力"
+    problem_solved: "大功率COB补光灯移动不便；U形提把+轻量铝壳解决现场搬运痛点"
+    transferable_technique: "顶置U形提把（工具感）；方圆对比（圆形功能件嵌入方形机身）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_补光灯_003"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "Hobolite R20复古相机风格补光灯：钛灰金属框架+棕色纹理皮革包覆，圆形菲涅尔镜头，顶部银色旋钮，侧面2200mAh电池，右图示意180°云台旋转"
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/08.jpg"
+        image_role: "detail"
+        visual_anchor: "Hobolite R20四视图：正面皮革+NFC徽章，背面Hobolite印花，侧面菲涅尔镜头特写（FRESNEL LENS ANGLE 15-45°刻字），底面圆形接口"
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/09.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "两款Hobolite灯（R20小款+R100大款）立于银色云台杆，R100正面色温/亮度显示屏+双旋钮，R20侧面安装特写"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/10.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "Hobolite R100在灯架上使用场景+独立电源盒（皮革覆面，固定在杆上），右图为碳纤维杆+电源挂载特写"
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "Hobolite R300大功率补光灯：皮革+金属框架+旋钮+彩色LCD屏，左图安装在开放式金属肋框架上，右图附件生态展示（电池×2、金属壳保护盒等）"
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/12.jpg"
+        image_role: "detail"
+        visual_anchor: "Hobolite R300两视角：正面皮革面板+彩色LCD屏+旋钮控制，右图显示菲涅尔大镜头（R300标识），均安装在银色U形支架底座"
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/24.jpg"
+        image_role: "detail"
+        visual_anchor: "Hobolite小型版（约100×100mm）三视图：皮革正面+侧面散热槽，附件生态（B-马达电池接口、热靴安装），LCD屏双参数显示"
+      - filename: "25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/25.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "Hobolite全套附件生态场景图：球形柔光罩、八角伞、菠萝形束光筒、色片、反光碗等修光件，户外摄影使用场景"
+    product_name: "Hobolite 复古相机风格便携补光灯系列（R20/R100/R300）"
+    brand_name: "Hobolite"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "补光灯"]
+    design_language:
+      silhouette: "方形主体（接近正方形截面），四角切角处理（45°斜面），金属骨架露出形成工业感边框；菲涅尔圆形镜头从正面方形体中央突出；顶部旋钮从机身上方凸起"
+      light_opening: "圆形菲涅尔变焦镜头（15-45°可调角度），镜头周围金属刻度环，定向光输出可精确控制光束角；标准Bowens卡口可接全系附件"
+      thermal: "金属骨架框架兼顾散热与结构，侧面散热槽，R20内置小电池，R100/R300外挂分体电源盒（皮革包覆与主机统一风格）"
+      cmf:
+        color: "钛灰金属框架+棕色皮革纹理面板（主色调）；小LCD屏橙/蓝色彩色显示"
+        material: "铝合金骨架，PU皮革面板，玻璃/聚碳酸酯菲涅尔镜头"
+        finish: "拉丝钛灰铝合金，细腻棕色皮革压纹，镜头周围精密机加工刻度环"
+      mounting: "底部标准1/4螺孔+专用云台安装，可安装于灯架/三脚架；R20支持热靴直装；R300开放肋框架支持侧挂电源盒"
+      signature_detail: "棕色皮革包覆方形机身——将复古相机美学（徕卡/哈苏风格）完整移植到补光灯，品牌徽章NFC圆形贴标取代普通Logo；菲涅尔镜头周围精密刻度环强化光学仪器感"
+    design_level:
+      score: 5
+      reason: "将摄影器材复古美学彻底系统化：皮革+钛灰金属+刻度环+徽章logo+彩色LCD，形成极强品牌辨识力，横跨R20-R300形成完整家族，iF顶级设计"
+    design_tags: ["复古相机风格", "皮革包覆", "钛灰铝合金", "菲涅尔镜头", "刻度环", "NFC徽章", "彩色LCD", "家族设计", "Bowens卡口", "模块化", "iF获奖"]
+    hero_feature: "棕色皮革+钛灰金属骨架将相机复古美学完整移植到补光灯，菲涅尔变焦镜头+精密刻度环强化光学仪器感"
+    problem_solved: "专业补光灯外观粗糙工业感强，缺乏美学溢价；皮革+钛灰设计提升产品情感价值，与摄影师审美对齐"
+    transferable_technique: "皮革面板包覆方形金属机身（相机语义迁移）；菲涅尔镜头+精密金属刻度环（光学仪器语义）；NFC圆形徽章取代普通印刷Logo"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_补光灯_004"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色LED光管两支并排：细长竖向形态（约50mm直径×500mm长），顶部黑色旋盖，底部控制按键组+电量指示，侧面全长白色发光面板"
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "三支同类型LED光棒俯视排列（从细到粗三尺寸系列），黑色铝管+细缝出光，极简工业美感"
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/17.jpg"
+        image_role: "detail"
+        visual_anchor: "Hobolite品牌LED光棒：左图钛灰/棕色皮革版（侧面竖向散热槽+背面LCD显示屏），右图点亮状态青色/紫色RGB效果"
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/18.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "创作者使用RGB光棒场景：两支交叉摆放（蓝色+橙色），一人背景中单竖支红色光棒，展示视频/播客补光创意用法"
+    product_name: "LED光棒/像素管补光灯（棒形）"
+    brand_name: "Hobolite"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "补光灯"]
+    design_language:
+      silhouette: "细长圆柱形或方管形棒状灯体（长径比约10:1），顶底端帽收口，一字形侧出光面板贯穿全长；三档尺寸组成家族"
+      light_opening: "全长侧面线性出光面板（约宽20-30mm×全长），柔和均匀线性光；支持RGB全彩，点亮状态下管身整体发光，光棒本身成为构图元素"
+      thermal: "铝管主体被动散热，散热槽沿长轴方向排列（Hobolite版侧面竖向散热肋）"
+      cmf:
+        color: "哑黑铝合金主体；Hobolite版本钛灰+棕色皮革；点亮时全彩RGB"
+        material: "铝合金管，磨砂PC扩散板"
+        finish: "哑黑阳极氧化（通用版）；拉丝钛灰+皮革（Hobolite版）"
+      mounting: "底部1/4螺纹+适配器，可置于灯架；可手持；可横置于地面"
+      signature_detail: "棒状灯体本身即成视觉元素——RGB全彩让光棒成为场景中彩色光剑道具，兼具照明与氛围装饰双重属性；侧面LCD显示屏嵌于棒身（Hobolite版）"
+    design_level:
+      score: 4
+      reason: "形态极简（圆管/方管），但RGB全彩使其在影视/创意内容领域具备独特价值，Hobolite皮革版将家族美学延伸至光棒，设计一致性强"
+    design_tags: ["光棒", "线性出光", "RGB全彩", "细长棒形", "哑黑铝合金", "皮革包覆", "创意布光", "iF获奖"]
+    hero_feature: "全长线性RGB出光面板，光棒自身成为场景构图彩色元素，照明与氛围装饰合一"
+    problem_solved: "传统补光灯为点/面光源，难以制造线性光效和彩色氛围；光棒形态创造独特线性光与RGB创意效果"
+    transferable_technique: "圆柱形态全长出光（线性光源形态语言）；RGB全彩功能与简洁棒形结合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_补光灯_005"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "三叶形折叠展开式补光灯：中央竖管为手柄/主光，顶端三叉旋转节点展开两侧翼形矩形灯板，整体呈Y字或三叉戟形，按键在底端"
+    product_name: "折叠展开三叶式便携补光灯"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "补光灯"]
+    design_language:
+      silhouette: "收折状态为单根竖管（手持灯棒形态）；展开后顶端铰接节点打开两侧翼板，形成Y字三叉造型；主体+两侧翼板均为矩形发光面板"
+      light_opening: "三面独立矩形LED面板全面出光，中央下部主面板+两侧上翼板45°角展开，总出光面积约为单管3倍；适合360°无阴影环境补光"
+      thermal: "铝合金矩形面板兼顾散热，铰接节点为金属件"
+      cmf:
+        color: "深灰/黑色铝合金框架+白色扩散面板"
+        material: "铝合金管+框，磨砂PC扩散板"
+        finish: "阳极氧化深灰铝合金，无光泽扩散面板"
+      mounting: "底部旋钮/螺纹接口，可置于灯架；收折后可手持携带"
+      signature_detail: "顶端三叉旋转铰接节点：收折成一根棒（极致便携），展开变三叶扇形（大面积出光）；折叠变形是产品核心创新语言"
+    design_level:
+      score: 4
+      reason: "形态变换创新解决便携与出光面积的矛盾，折叠机构设计精妙，iF创新奖获奖级别"
+    design_tags: ["折叠变形", "三叶展开", "Y形造型", "线性面板", "便携收纳", "大面积出光", "铰接节点", "iF获奖"]
+    hero_feature: "顶端三叉铰链机构：收折为单棒便携，展开为Y形三面补光，出光面积3倍增大"
+    problem_solved: "大面积补光灯体积大难携带；折叠三叶设计做到最大光效/最小收纳体积"
+    transferable_technique: "铰接展开变形机构（折叠增大出光面积）；棒形收纳+扇形展开的形态变换语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_补光灯_006"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "Aputure Nova II 2x1大型面板补光灯：背面视角，黑色+红色撞色双色机身，三角形纹理导热板+大型散热网格，红色把手+红色边条系统感强"
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/16.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "Aputure Nova II 2x1在影棚灯架上使用场景：背面朝向镜头，前景为模特，背景软光白屏，专业影视布光现场"
+    product_name: "Aputure Nova II 2x1 大型面板补光灯"
+    brand_name: "Aputure"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "补光灯"]
+    design_language:
+      silhouette: "2×1英尺（约600×300mm）横向矩形面板灯体，四周黑色坚固铝合金框，顶底配握持把手，底部标准灯头螺柱安装；整体厚重专业感"
+      light_opening: "正面整面均匀LED矩阵面板出光（2×1大面积软光源），出光面为毫米级扩散板均匀化处理；提供接近自然光的柔和大面积照明"
+      thermal: "背面大面积三角形浮雕纹导热板+中央大型散热网格（内置风扇），散热面积极大；红色边条同时作为散热间隙标识"
+      cmf:
+        color: "主体哑黑+品牌红色把手/边条撞色"
+        material: "铝合金框架，高功率散热背板"
+        finish: "哑黑阳极氧化，红色阳极氧化把手，三角浮雕散热纹理"
+      mounting: "底部标准5/8螺柱+安全索孔，配套灯架/立杆；前后均有把手便于搬运"
+      signature_detail: "黑色机身+红色把手/边条撞色——Aputure品牌视觉系统一贯语言；背面三角形浮雕导热纹理将散热结构转化为品牌质感；Sidus NFC模块嵌入右侧"
+    design_level:
+      score: 4
+      reason: "品牌设计语言系统成熟，黑红撞色+三角纹散热背板形成强辨识度，专业影视级补光灯标杆"
+    design_tags: ["大型面板", "黑红撞色", "三角散热纹", "均匀LED矩阵", "Aputure", "影视级", "主动散热", "NFC", "iF获奖"]
+    hero_feature: "黑+红撞色设计语言+背面三角浮雕散热板，将散热结构转化为品牌标志性质感"
+    problem_solved: "大型面板灯散热难、外观单调；三角散热纹理兼顾热管理与视觉个性"
+    transferable_technique: "主色+品牌色撞色边条（品牌系统语言）；浮雕几何纹理散热板（功能即装饰）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_补光灯_007"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形便携补光灯（Sol 5 Magnetic Mount）：正面白色圆形出光面+金属刻度环圆周，背面棕色皮革面板+橙色环圈+H标志徽章，RGB色轮显示屏"
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/21.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "同款圆形灯放置在桌面使用场景，旁边有机械键盘、劳力士手表、耳机，强调高端EDC/创作者工具属性"
+      - filename: "22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/22.jpg"
+        image_role: "hero"
+        visual_anchor: "Harlowe Iris补光灯（同系列）：圆形菲涅尔镜头+金属刻度环，棕色皮革小手持区，右图为收纳态（皮革面朝外）；两件分别展示前后面"
+      - filename: "23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/23.jpg"
+        image_role: "detail"
+        visual_anchor: "Harlowe Iris附件系统爆炸图：主灯体+磁吸扩散片+聚光透镜+菲涅尔镜头+球形漫射球+水晶球效果头，色片组（红/橙/蓝），全磁吸快拆系统"
+    product_name: "Harlowe Sol/Iris 圆形磁吸补光灯"
+    brand_name: "Harlowe"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "补光灯"]
+    design_language:
+      silhouette: "圆形主体（直径约80-100mm），厚度约25mm，类似大型硬币或手表外壳形态；侧面弧形收边，附夹式底座支架折叠贴合"
+      light_opening: "正面整圆LED出光面（白光+RGB），外圈精密刻字金属环；或换装菲涅尔圆形聚光镜头（Iris版），全磁吸附件快拆系统"
+      thermal: "紧凑铝合金壳体被动散热，小功率圆形灯热量有限"
+      cmf:
+        color: "钛灰铝合金+橙棕皮革背面+红色品牌圆环"
+        material: "铝合金框，PU皮革背面，玻璃/PC扩散面"
+        finish: "细腻拉丝钛灰，皮革压纹，精密机加工刻度环边圈"
+      mounting: "背面磁吸+夹式支架（可夹屏幕边框/手机等），底部1/4螺孔；MagSafe磁吸定位快速安装"
+      signature_detail: "圆形硬币形态+棕色皮革背面+精密刻度金属环+品牌红圈：将腕表/相机镜头美学带入补光灯；磁吸附件系统（类似相机镜头更换光学元件）"
+    design_level:
+      score: 5
+      reason: "圆形硬币形态+全磁吸附件生态是补光灯品类重大创新，腕表美学渗透使产品兼具工具属性与奢侈品情感，iF顶级获奖"
+    design_tags: ["圆形", "硬币形态", "磁吸附件", "皮革背面", "刻度环", "腕表美学", "品牌红圈", "RGB", "EDC风格", "iF获奖"]
+    hero_feature: "圆形硬币形态+全磁吸模块化附件（漫射/聚光/色片/球形漫射球），单机体实现多种光效快速切换"
+    problem_solved: "便携补光灯形态单一（方盒），附件更换繁琐；圆形硬币形态+磁吸生态实现极致便携和快速修光"
+    transferable_technique: "圆形硬币形态（腕表/镜头语义迁移）；磁吸快拆附件系统；皮革背面+精密刻度环"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_补光灯_008"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/26.jpg"
+        image_role: "hero"
+        visual_anchor: "Neewer RE600B双色温高功率补光灯：金色/灰色两色版本，竖向矩形机身带大型侧散热肋，圆形COB出光头朝前，U形金属支架可调角度，金色版机身为金属拉丝暖金色"
+      - filename: "27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/27.jpg"
+        image_role: "detail"
+        visual_anchor: "Neewer RE600B两台不同颜色版本对比：左侧金色版+金色反光碗热光暖调，右侧冷白+冷光色调，双台在灯架使用，背景烟雾特效"
+    product_name: "Neewer RE600B 双色温高功率COB补光灯"
+    brand_name: "Neewer"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "补光灯"]
+    design_language:
+      silhouette: "竖向矩形机身（约250×200×100mm），两侧纵向散热肋阵列为主要视觉特征，U形支架与机身一体，圆形COB出光头从机身前面伸出；整体工业设备感"
+      light_opening: "圆形COB出光头（单大功率LED芯片），配合Bowens卡口可接反光碗、柔光箱；金色版600W超高功率"
+      thermal: "机身两侧密集纵向散热肋阵列（被动散热为主），大体积铝合金机身提供高热容"
+      cmf:
+        color: "金色暖金属拉丝（金色版）/ 深灰（标准版）"
+        material: "铝合金压铸+散热肋一体成型"
+        finish: "拉丝金色阳极氧化（金色版），型号大字体数字印刷于机身侧面"
+      mounting: "U形铝合金支架固定于灯架顶，支架内调节螺丝锁定角度；底部V-lock电池接口"
+      signature_detail: '机身侧面超大数字"600"印刷标识——功率数字成为品牌视觉语言；金色版暖金属拉丝与金色反光碗形成暖调整体美感；散热肋密度极高形成强烈工业纹理'
+    design_level:
+      score: 3
+      reason: "专业影视级产品，功率/散热设计工程感强，金色版配色有辨识度，但整体设计较为常规实用导向"
+    design_tags: ["高功率COB", "散热肋阵列", "金色版", "数字型号标识", "U形支架", "V-lock电池", "Bowens卡口", "影视级", "iF获奖"]
+    hero_feature: "两侧密集纵向散热肋阵列+金色拉丝机身，将散热结构转化为强工业纹理美感；超大型号数字成为视觉识别元素"
+    problem_solved: "600W大功率补光灯散热极难；密集散热肋一体成型铝合金解决热管理，金色版提升产品溢价感"
+    transferable_technique: "纵向散热肋阵列密度变化产生纹理美感；型号大数字作为机身视觉元素"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_补光灯_009"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/28.jpg"
+        image_role: "hero"
+        visual_anchor: "Logitech Litra Glow流光补光灯：方形圆角小灯（约90×90mm），正面全面LED出光（均匀柔光），黑色折叠式夹持支架夹在显示器顶边，旁边配套Logitech Brio摄像头"
+    product_name: "Logitech Litra Glow 桌面流光补光灯"
+    brand_name: "Logitech"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "补光灯"]
+    design_language:
+      silhouette: "方形圆角扁平灯头（约90×90×20mm），连接短颈可折叠支架，底部夹持机构；整体极简消费电子感，无传统影棚灯具感"
+      light_opening: "正面整面均匀扩散LED面板出光（方形圆角柔光面），柔和无眩光；适合近距离视频会议/直播人脸补光"
+      thermal: "低功率LED，极薄机身被动散热，无可见散热结构"
+      cmf:
+        color: "深灰黑色主体（Logitech标准色）"
+        material: "工程塑料壳体"
+        finish: "哑黑细腻磨砂，消费电子品质感"
+      mounting: "背部折叠夹持支架，夹于显示器顶边/笔记本屏幕顶；无需额外灯架"
+      signature_detail: "显示器顶夹设计——将补光灯直接变为显示器配件，消除灯架占用桌面空间的痛点；极简方形圆角形态与摄像头造型家族统一"
+    design_level:
+      score: 4
+      reason: "精准解决居家/办公场景视频补光痛点，产品形态与使用场景深度融合（夹显示器），消费电子级设计精炼"
+    design_tags: ["桌面补光", "显示器夹持", "极简方形", "消费电子", "视频会议", "直播", "哑黑", "Logitech", "iF获奖"]
+    hero_feature: "折叠夹持式支架直接夹于显示器顶，方形圆角LED面板零占桌面，完美融入工作站场景"
+    problem_solved: "视频会议/直播补光需要灯架、布线、调整，繁琐占空间；显示器夹持一秒安装，无需布灯"
+    transferable_technique: "显示器顶夹安装方式（免灯架）；极简方形圆角形态融入消费电子生态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_补光灯_010"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/30.jpg"
+        image_role: "hero"
+        visual_anchor: "UTEC品牌便携工作灯/补光灯：黄黑双色蜂窝形外框，矩形LED面板内嵌，右图展示折叠收纳至最小六边形状态（五步折叠序列图）"
+    product_name: "UTEC 六边形折叠便携补光工作灯"
+    brand_name: "UTEC"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "补光灯"]
+    design_language:
+      silhouette: "六边形蜂窝外框（展开态），黄色六边形边框+黑色内嵌矩形LED面板；折叠后收缩为紧凑六边形饼形；整体工具感强，户外/工程场景"
+      light_opening: "矩形LED阵列面板出光（白光均匀面光），正面平面出光，配磨砂PC扩散板"
+      thermal: "低/中功率LED，铝框被动散热"
+      cmf:
+        color: "UTEC品牌黄+哑黑（双色蜂窝框架）"
+        material: "铝合金六边形框，工程塑料内件"
+        finish: "哑黄阳极氧化，黑色磨砂"
+      mounting: "底部螺孔+内置折叠提钩，可悬挂/手提/置地"
+      signature_detail: "六边形蜂窝折叠机构：展开为工作灯形态，多步折叠收纳成紧凑饼形；黄黑配色强烈视觉辨识，折叠序列图是核心卖点展示"
+    design_level:
+      score: 3
+      reason: "折叠机构有创意，工具级黄黑配色辨识度强，但产品定位偏工作灯而非专业补光灯"
+    design_tags: ["六边形折叠", "蜂窝外框", "工具黄黑配色", "折叠收纳", "工作灯", "便携", "LED面板", "iF获奖"]
+    hero_feature: "六边形蜂窝折叠机构，展开变工作灯，折叠收为饼形，兼具户外便携与大面积照明"
+    problem_solved: "工作灯体积大难收纳；六边形折叠机构彻底解决收纳痛点，黄黑配色强化工具场景辨识"
+    transferable_technique: "几何形折叠变形机构；工具配色语言（黄黑）迁移到灯具"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

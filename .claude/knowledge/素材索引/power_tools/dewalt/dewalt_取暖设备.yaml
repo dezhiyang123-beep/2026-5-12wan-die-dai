@@ -1,0 +1,197 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "取暖设备"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/取暖设备/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_取暖设备_001"
+    source_images:
+      - filename: "取暖设备__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/取暖设备/取暖设备__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX 68,000BTU无绳丙烷暖风机，黑色横置圆筒筒身，右端大圆形出风口开口，底部黄色矩形控制底座，顶部黑色提手"
+    product_name: "DeWalt 20V MAX 68,000 BTU Cordless Propane Heater"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "取暖设备"
+      - "无绳丙烷暖风机"
+    design_language:
+      silhouette: "水平长圆筒悬置于黄色矩形底座之上，筒体与底座的T形组合，顶部弧形提手完成整体框架"
+      light_opening: "N/A（取暖设备）；圆形出风口即热流出口，直径约占筒体直径90%"
+      thermal: "出风口即产品功能本体，无需额外散热结构；筒体本身即热交换腔"
+      cmf:
+        color: "黑色（圆筒主体）+ 黄色（底座/DeWalt标识）+ 银灰色（出风口金属边）"
+        material: "钢质圆筒，工程塑料底座，钢管提手"
+        finish: "黑色粉末喷涂筒体，哑光黄底座"
+      mounting: "落地自立式，底座内置20V MAX电池接口用于启动点火，丙烷气罐外接"
+      signature_detail: "超大圆形出风口与黑色筒体形成完整的炮管形态，出风口边缘银色金属圈强化工业感"
+    design_level:
+      score: 3
+      reason: "黑黄配色延续品牌调性，炮管形态功能可读性强，但作为取暖设备的外观设计缺乏精致感"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "丙烷"
+      - "工地取暖"
+      - "炮管造型"
+      - "H01_减法设计"
+    hero_feature: "超大圆形出风口占据筒体端面，直白地表达出风方向和功率感"
+    problem_solved: "无线点火启动，工地无电源环境下快速供暖，电池启动免去火源点火危险"
+    transferable_technique: "功能开口作为产品主视觉元素，直径比例决定功率感知（开口越大=功率越大的语义编码）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_取暖设备_002"
+    source_images:
+      - filename: "取暖设备__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/取暖设备/取暖设备__02.jpg"
+        image_role: "hero"
+        visual_anchor: "10/7kW电暖风机正面视角，银灰色圆筒前端圆形金属网格进风口，黄色梯形底座，顶部扁平提手，控制面板在前下方"
+    product_name: "DeWalt 10/7kW Electric Forced Air Heater"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "取暖设备"
+      - "电暖风机"
+    design_language:
+      silhouette: "银灰色水平圆筒置于黄色梯形底座，正面圆形金属网格如大型扬声器，整体呈T形"
+      light_opening: "N/A（取暖设备）；正面圆形网格进风口直径占筒体端面约75%"
+      thermal: "圆形金属网格进风口实现强制对流进气，内置电热丝加热后从后端出风口输出"
+      cmf:
+        color: "银灰色（圆筒主体）+ 黄色（底座）+ 黑色（网格/控制面板）"
+        material: "钢质圆筒，铸铁/冲压钢网格，工程塑料底座"
+        finish: "银灰喷涂筒体，黄色哑光底座"
+      mounting: "落地自立式，梯形底座提供稳定重心，底部插排式电源连接"
+      signature_detail: "正面圆形金属网格进风口的同心圆放射状纹理，工业感极强"
+    design_level:
+      score: 3
+      reason: "正面网格圆形开口具有强视觉识别性，银黄对比简洁，但整体设计无新意"
+    design_tags:
+      - "电暖"
+      - "强制对流"
+      - "圆形网格"
+      - "工地取暖"
+      - "H04_参数化渐变"
+    hero_feature: "正面大圆形金属网格进风口，同心圆纹理在银灰筒体上极为醒目"
+    problem_solved: "电力驱动，无燃气危险，适合密闭室内长时间供暖，双档功率切换"
+    transferable_technique: "圆形网格作为产品正面主视觉元素，同心圆规律纹理强化工业质感（H04参数化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_取暖设备_003"
+    source_images:
+      - filename: "取暖设备__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/取暖设备/取暖设备__03.jpg"
+        image_role: "hero"
+        visual_anchor: "40,000BTU便携丙烷暖风机，银色圆筒斜置于黄色梯形底座，底座前侧裸露燃气阀门和配管"
+      - filename: "取暖设备__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/取暖设备/取暖设备__04.jpg"
+        image_role: "hero"
+        visual_anchor: "90,000BTU版同系列，比03更大规格，底座侧面圆形旋钮更突出"
+      - filename: "取暖设备__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/取暖设备/取暖设备__05.jpg"
+        image_role: "hero"
+        visual_anchor: "65,000BTU版，介于03和04之间规格，相同设计语言，底座左侧旋钮可见"
+    product_name: "DeWalt Portable Propane Forced Air Heater (40K/65K/90K BTU)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "取暖设备"
+      - "便携丙烷暖风机"
+    design_language:
+      silhouette: "银色水平圆筒后高前低斜置，黄色梯形底座前宽后窄，整体呈倒梯形动势"
+      light_opening: "N/A（取暖设备）；后端圆形进气口，前端出风口为开放式"
+      thermal: "丙烷燃烧热直接从前端开口输出，圆筒本身是燃烧腔，金属导热"
+      cmf:
+        color: "银灰色（圆筒）+ 黄色（底座）+ 黑色（DeWalt标签/旋钮）"
+        material: "冲压钢圆筒，钢质底座，金属燃气阀"
+        finish: "银色裸金属圆筒，黄色粉末喷涂底座"
+      mounting: "落地自立式梯形底座，丙烷气罐外部连接气管"
+      signature_detail: "裸露的黄铜燃气阀和铜质配管在黄色底座侧面直接暴露，工业直白"
+    design_level:
+      score: 2
+      reason: "实用工具设计，黑黄银三色系统一致，但设计缺乏精心打磨，燃气管路裸露显粗糙"
+    design_tags:
+      - "丙烷"
+      - "便携"
+      - "工地取暖"
+      - "梯形底座"
+      - "三档规格"
+    hero_feature: "银色圆筒与黄色梯形底座的体量对比，圆筒悬于三角底座之上的不稳定视觉张力"
+    problem_solved: "工地临时取暖，气罐直连免电力，三种规格覆盖不同面积需求"
+    transferable_technique: "梯形底座支撑圆筒形主体的体量对比构图，视觉上放大功率感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_取暖设备_004"
+    source_images:
+      - filename: "取暖设备__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/取暖设备/取暖设备__06.jpg"
+        image_role: "hero"
+        visual_anchor: "185,000BTU大型柴油暖风机，银色大圆筒横置于黄色椭圆燃油桶底座，两个大充气轮，后部黑色方管框架提手"
+      - filename: "取暖设备__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/取暖设备/取暖设备__07.jpg"
+        image_role: "hero"
+        visual_anchor: "190,000BTU版，同框架设计，黑色方管包围圆筒，两侧充气轮，正面视角显示圆形进风口"
+    product_name: "DeWalt Large Kerosene/Diesel Forced Air Heater (185K/190K BTU)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "取暖设备"
+      - "大型柴油暖风机"
+    design_language:
+      silhouette: "银色大圆筒（加热腔）横置，下方黄色椭圆流线油箱底座，两侧两个大充气轮，后部方形钢管折弯提手框架，整体近似工程车辆形态"
+      light_opening: "N/A（取暖设备）；前端圆形开口为出风口，直径约300mm"
+      thermal: "柴油燃烧强制对流，圆筒全段为燃烧热交换腔"
+      cmf:
+        color: "银灰色（圆筒）+ 黄色（油箱底座）+ 黑色（钢管框架/轮毂/控制盒）"
+        material: "重型钢质圆筒，钢质油箱，方形钢管焊接框架，充气轮胎"
+        finish: "银色金属原色，黄色喷涂油箱，黑色粉末喷涂框架"
+      mounting: "双轮可拖运，后部钢管手把推拉移动，无需固定"
+      signature_detail: "黑色方管折弯框架完整包围圆筒并延伸为手把，框架与圆筒的几何对话是核心视觉"
+    design_level:
+      score: 3
+      reason: "工程车辆式形态有力量感，钢管框架结构明快，黑黄银三色统一，但纯功能主义设计"
+    design_tags:
+      - "柴油"
+      - "大型"
+      - "轮式可移动"
+      - "工程取暖"
+      - "钢管框架"
+      - "H01_减法设计"
+    hero_feature: "黑色方钢管折弯框架完整包裹银色圆筒，框架线条硬朗与圆筒曲面形成几何对比"
+    problem_solved: "大型工地或农场室内快速大面积供暖，轮式设计便于在施工现场移动定位"
+    transferable_technique: "外露钢管折弯框架作为防护结构兼把手，一体化结构设计（H09隐藏工程的反向：主动外露结构）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,114 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内灯"
+  tertiary: "高棚灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/高棚灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_高棚灯_001"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/高棚灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "UFO形飞碟轮廓+同心圆透镜阵列+顶部小吊环"
+    product_name: "RAB UFO高棚灯（同心圆透镜款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "高棚灯"]
+    design_language:
+      silhouette: "标准UFO飞碟形，宽径薄高，下表面布满同心圆纹理透明光学透镜"
+      light_opening: "下表面整面为光学透镜阵列，同心圆纹理，清晰可见LED阵列"
+      thermal: "上壳白色铝制，散热通过本体导热"
+      cmf:
+        color: "全白，透镜区透明"
+        material: "压铸铝上壳，PC光学透镜，金属小吊环"
+        finish: "白色粉末喷涂上壳，透明光学PC透镜"
+      mounting: "顶部小金属吊环，单点悬挂"
+      signature_detail: "同心圆纹理光学透镜覆盖整个下表面，形成强烈的规律性工业纹理"
+    design_level:
+      score: 3
+      reason: "同心圆透镜阵列有规律美感，UFO轮廓符合品类认知，但整体设计较为常规"
+    design_tags: ["UFO高棚", "同心圆透镜", "仓储照明", "全白", "单点悬挂"]
+    hero_feature: "下表面满布同心圆纹理光学透镜阵列，工业美感强"
+    problem_solved: "仓库、工厂、体育馆高空间均匀下照工业照明"
+    transferable_technique: "同心圆光学纹理覆盖整面，将功能性光学结构转化为视觉纹理语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_高棚灯_002"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/高棚灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "UFO形+外圈LED珠阵列+同心圆透镜+金属吊钩"
+    product_name: "RAB UFO高棚灯（外圈LED阵列款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "高棚灯"]
+    design_language:
+      silhouette: "UFO飞碟形，下表面外圈密布LED珠，内圆同心圆透镜，顶部金属吊钩"
+      light_opening: "外圈LED珠直接暴露+内圈光学透镜双区出光"
+      thermal: "上部白色铸铝体分段，顶部可见散热分件"
+      cmf:
+        color: "全白，LED珠黄色发光，吊钩银色不锈钢"
+        material: "铸铝上体，PC透镜，不锈钢吊钩"
+        finish: "白色粉末喷涂+透明光学罩+金属本色吊钩"
+      mounting: "顶部大型不锈钢C形吊钩，工业级安装"
+      signature_detail: "外圈LED珠裸露阵列+内圈同心圆透镜，双区出光，高功率感强"
+    design_level:
+      score: 4
+      reason: "外圈LED阵列暴露形成强烈工业科技感，不锈钢大吊钩与整体工业定位匹配，是系列中工业感最强款"
+    design_tags: ["UFO高棚", "LED裸露阵列", "大吊钩", "工业感", "双区出光"]
+    hero_feature: "外圈LED珠裸露阵列+不锈钢大型C形吊钩，工业高功率感强烈"
+    problem_solved: "高天花仓储或工厂需要极高功率照明，且需要便于拆装的吊钩安装"
+    transferable_technique: "LED阵列裸露外圈与透镜内圈形成双区视觉层次，功能外显设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_高棚灯_003"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/高棚灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "半圆UFO形+下表面辐射状散热鳍片+顶部可调支架模块"
+    product_name: "RAB UFO高棚灯（可调支架款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "高棚灯"]
+    design_language:
+      silhouette: "半圆UFO形，从背面/顶部看：下盘辐射状白色散热鳍片，顶部安装有可调金属支架模块"
+      light_opening: "底部朝下，LED模块可见，出光面朝下"
+      thermal: "下盘大量辐射状铸铝散热鳍片，散热面积极大，是最突出的视觉特征"
+      cmf:
+        color: "全白散热盘，顶部支架白色+铝银色，金属连接件银色"
+        material: "铸铝散热盘，铸铝顶部支架，金属连接件"
+        finish: "白色粉末喷涂，铝本色安装件"
+      mounting: "顶部可调旋转支架，适配多种安装场景"
+      signature_detail: "辐射状铸铝散热鳍片阵列占据整个下盘，形成强烈放射状工业纹理"
+    design_level:
+      score: 4
+      reason: "辐射状散热鳍片密布整个灯盘，工程感极强，可调安装支架增加实用灵活性，整体设计语言工业诚实"
+    design_tags: ["辐射散热鳍片", "可调支架", "UFO高棚", "工业感", "大散热面"]
+    hero_feature: "整个灯盘布满辐射状铸铝散热鳍片，工程散热结构即视觉纹理"
+    problem_solved: "高功率工业照明需要高效散热，同时安装角度需要灵活调整"
+    transferable_technique: "辐射状散热鳍片满布式设计，将热管理结构转化为放射状视觉纹理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

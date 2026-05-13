@@ -1,0 +1,453 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "智能音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_smart_spk_020"
+    source_images:
+      - filename: "41.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/41.jpg"
+        image_role: "hero"
+        visual_anchor: "白色椭圆形音箱+手机无线充电托盘顶部，机身中腰一圈青绿色圆点网格散音腰带，前面板中央蓝色细长LED指示灯"
+    product_name: "无线充电蓝牙音箱"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "低扁椭圆体（枕头形）+ 上盖平台可放手机；腰部一圈凹入网格腰带将上下两个白色壳体隔开"
+      light_opening: "前面板底部中央蓝色细长LED指示条"
+      thermal: "腰部环形圆点网格兼作散音开口"
+      cmf:
+        color: "通体白色 + 青绿色网格腰带"
+        material: "ABS外壳 + 塑料网格"
+        finish: "哑光白 + 青绿色高光塑料网格"
+      mounting: "桌面放置"
+      signature_detail: "顶部平台即无线充电区，手机平放即充电，充电功能与摆放动作完全合一；青绿色腰带形成强色彩腰节"
+    design_level:
+      score: 3
+      reason: "无线充电托盘整合进外形是功能外显的好案例，但整体造型较平庸，青绿色腰带配色略显突兀，缺乏高端感"
+    design_tags: ["无线充电整合", "枕头轮廓", "腰带分件", "功能外显", "双色腰节"]
+    hero_feature: "顶部无线充电平台与音箱主体一体化——手机放上即充电，零额外操作"
+    problem_solved: "蓝牙音箱在桌面占位却不提供其他价值；本品让音箱台面成为手机充电站，空间利用率翻倍"
+    transferable_technique: "将充电功能整合进产品顶面平台，形态即功能提示，可迁移至台灯底座、闹钟、桌面收纳盒等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_021"
+    source_images:
+      - filename: "45.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/45.jpg"
+        image_role: "hero"
+        visual_anchor: "浅灰色织物圆柱音箱正面，顶部穿过皮革提手，底部浅薄荷绿底座，顶面触控区有4个白色LED点阵，harman/kardon银色Logo"
+      - filename: "47.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/47.jpg"
+        image_role: "detail"
+        visual_anchor: "音箱倾斜展示底面：薄荷绿圆形底座中央金色同心圆无线充电线圈；底部单独展示配套充电底座圆盘"
+    product_name: "Harman Kardon Citation 600 便携智能音箱"
+    brand_name: "Harman Kardon"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "中等高度圆柱体，上下收口弧过渡；皮革拱形提手从顶部两端穿出，形成提灯轮廓"
+      light_opening: "顶部触控面4个白色LED状态点"
+      thermal: "全身织物网罩透声兼装饰"
+      cmf:
+        color: "浅灰白织物机身 + 薄荷绿底座/顶圈 + 原色皮革提手"
+        material: "声学织物 + 硅胶/塑料底座 + 皮革提手"
+        finish: "织物哑面 + 磨砂薄荷绿 + 光滑皮革"
+      mounting: "桌面放置，可手提携带；底面磁吸无线充电"
+      signature_detail: "原色皮革拱形提手横跨顶部，将便携属性视觉化；底面金色同心圆无线充电线圈外露，功能即装饰"
+    design_level:
+      score: 5
+      reason: "皮革提手+织物机身+薄荷绿点缀的三材质组合极具家居感；底面无线充电线圈外露设计罕见；整体达到家居摆件级别，是智能音箱家居化的标杆案例"
+    design_tags: ["皮革提手", "便携提灯形", "织物包覆", "无线充电底座", "三材质组合", "家居化", "薄荷绿点缀"]
+    hero_feature: "原色皮革拱形提手——将便携功能转化为家居装饰语言，一根皮带改变整个产品调性"
+    problem_solved: "智能音箱通常只能固定摆放，缺乏家居融合感；皮革提手让它看起来像工艺品，可随意拎去不同房间"
+    transferable_technique: "皮革提手作为便携音箱的标志性设计语言，可迁移至台灯、加湿器、小型家电；织物+皮革+色彩点缀三材质公式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_022"
+    source_images:
+      - filename: "48.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/48.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色截锥体智能音箱正面，顶面蓝色LED环光，全身细密菱形网格纹路，底部圆边底座，harman/kardon银字Logo"
+    product_name: "Harman Kardon Invoke 智能音箱"
+    brand_name: "Harman Kardon"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "倒梯形截锥体（上窄下宽），重心低沉稳定；顶面平台内嵌蓝色LED环"
+      light_opening: "顶面蓝色LED圆形环光（Cortana唤醒指示）"
+      thermal: "全身细密菱形网格纹路兼散音与散热"
+      cmf:
+        color: "哑光黑机身 + 蓝色LED顶环"
+        material: "注塑ABS + 金属网格纹路"
+        finish: "磨砂黑 + 蓝色LED"
+      mounting: "桌面放置"
+      signature_detail: "蓝色LED圆环嵌入顶面平台边缘，激活时形成光晕；全身菱形网格纹路形成坚实的盔甲质感"
+    design_level:
+      score: 3
+      reason: "截锥体造型稳定，蓝色LED顶环是明确的语音激活视觉反馈；但整体偏保守，菱形网格纹路略显廉价，缺乏家居感"
+    design_tags: ["截锥体", "蓝色LED顶环", "菱形网格", "语音激活指示", "黑色全系"]
+    hero_feature: "顶面蓝色LED圆环——作为语音助手激活的专属视觉信号，比亚马逊Echo的彩色环更克制高级"
+    problem_solved: "智能音箱激活状态不直观；顶面LED环提供360度可见的状态反馈，用户在任意角度都能确认激活"
+    transferable_technique: "顶面嵌入式LED环作为设备状态指示的设计语言，可迁移至桌面音响、台灯、智能家居中控设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_023"
+    source_images:
+      - filename: "55.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/55.jpg"
+        image_role: "hero"
+        visual_anchor: "Samsung HW-N950全套系统：超细长条形Soundbar居中，左右各一个小型书架卫星箱，右侧一个大型立方体低音炮，全部哑光黑"
+      - filename: "56.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/56.jpg"
+        image_role: "detail"
+        visual_anchor: "Soundbar顶面细节：网格面板中央一个上射单元，青绿色声场扩散示意图叠加，文字Upward-firing speakers"
+    product_name: "Samsung HW-N950 Soundbar 全套系统"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "超细极长条形主bar（约宽高比15:1）+ 小型立方体书架卫星箱 + 大型立方体低音炮；三件套比例悬殊形成强节奏感"
+      light_opening: "无明显LED指示"
+      thermal: "bar顶面网格内含上射单元"
+      cmf:
+        color: "哑光黑全系"
+        material: "金属冲孔网格 + ABS外壳"
+        finish: "全哑光黑"
+      mounting: "电视柜桌面/壁挂"
+      signature_detail: "Soundbar顶面上射声学单元（Dolby Atmos天空声道），让平面bar产生三维环绕音效；bar与卫星箱的极端尺寸比"
+    design_level:
+      score: 3
+      reason: "造型极度克制统一，全黑设计融入电视背景墙；但设计亮点仅来自功能（上射单元），纯造型上较平庸"
+    design_tags: ["极细soundbar", "全黑系", "上射声学单元", "Dolby Atmos", "三件套系统", "克制极简"]
+    hero_feature: "顶面上射声学单元——将Dolby Atmos天空声道视觉化，网格中央隆起的单元告诉用户「声音向上打」"
+    problem_solved: "传统soundbar只能提供水平声场；顶面上射单元在不增加占用空间的前提下实现三维环绕声"
+    transferable_technique: "将隐藏功能单元（上射/侧射单元）用网格开口暗示，功能可读性强，可迁移至智能音箱的散音方向设计"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_024"
+    source_images:
+      - filename: "60.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/60.jpg"
+        image_role: "hero"
+        visual_anchor: "ZOLO by Anker双款智能音箱合影：高款圆柱+矮款圆柱，同款设计，全黑，上部黑色实体帽+圆弧LED点阵，中部细密圆孔网格，ZOLO银字"
+      - filename: "61.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/61.jpg"
+        image_role: "detail"
+        visual_anchor: "顶部近景：4颗白色圆形LED呈弧线排列，中部椭圆形麦克风静音按钮，上方圆顶帽与下方圆柱之间有清晰分件线"
+    product_name: "ZOLO Halo 智能音箱系列（大小两款）"
+    brand_name: "ZOLO"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "圆柱体主体 + 顶部圆弧帽（半球形过渡帽）；帽与柱之间有明确分件线，帽区为控制与反馈区"
+      light_opening: "顶帽前侧4颗白色LED圆点弧线排列"
+      thermal: "中部环绕细密圆孔网格"
+      cmf:
+        color: "通体哑光深黑"
+        material: "ABS外壳 + 金属圆孔网格"
+        finish: "哑光黑 + 深黑金属网格"
+      mounting: "桌面放置"
+      signature_detail: "顶帽与柱体的分件线将控制区（帽）与声学区（柱）明确分离；4颗LED弧线排列模仿助手「眼睛」表情"
+    design_level:
+      score: 3
+      reason: "帽柱分件的功能分区逻辑清晰，LED弧形眼睛有趣；但全黑通体设计略显廉价，缺乏品质感，是中价位产品的标准解法"
+    design_tags: ["帽柱分件", "圆柱体", "LED弧形眼睛", "全黑", "功能分区", "麦克风静音按钮"]
+    hero_feature: "顶帽4颗LED弧线排列——视觉上形成「眼睛」表情，赋予音箱拟人感，强化语音交互的情感连接"
+    problem_solved: "智能音箱状态反馈生硬；弧形LED点阵模拟眼睛表情，用户凭直觉理解设备状态"
+    transferable_technique: "用弧线LED点阵模拟眼睛情绪表达，可迁移至机器人、智能家居设备、宠物喂食器等需要情感化交互的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_025"
+    source_images:
+      - filename: "62.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/62.jpg"
+        image_role: "hero"
+        visual_anchor: "人物生活场景照：女性侧脸+播客麦克风特写，动态臂+避震架+黑色泡沫头球形麦克风，非产品白底图"
+    product_name: "播客麦克风生活场景图"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "动态臂安装的球形播客麦克风"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "黑色"
+        material: "金属臂 + 泡沫球形麦克风头"
+        finish: "金属拉丝 + 泡沫哑面"
+      mounting: "桌面夹持臂安装"
+      signature_detail: "非智能音箱产品，为播客录音麦克风场景照"
+    design_level:
+      score: 2
+      reason: "非产品白底图，是生活场景照；不属于智能音箱品类，设计价值无法评估"
+    design_tags: ["播客麦克风", "生活场景", "非白底图", "分类存疑"]
+    hero_feature: "无智能音箱相关hero feature"
+    problem_solved: "无法评估"
+    transferable_technique: "无可迁移技法"
+    confidence:
+      visual_description: "high"
+      category: "low"
+      brand: "unknown"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "图片为播客麦克风生活场景照，非智能音箱产品图，疑似分类错误，请人工确认是否应移出该文件夹"
+
+  - product_id: "if_smart_spk_026"
+    source_images:
+      - filename: "75.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/75.jpg"
+        image_role: "hero"
+        visual_anchor: "科大讯飞翻译机前后双视角：竖长方形黑色机身，正面全面触控屏显示中英互译对话，顶部青绿色细LED条，背面摄像头，侧边IFLYTEK字样"
+    product_name: "科大讯飞 AI翻译机"
+    brand_name: "iFlyTek"
+    brand_confidence: "high"
+    category_path: ["智能设备", "翻译机"]
+    design_language:
+      silhouette: "竖立长方形板状机身（类似智能手机），顶部青绿色LED条指示录音状态"
+      light_opening: "顶部青绿色LED细条"
+      thermal: "无"
+      cmf:
+        color: "哑光黑机身 + 青绿色LED顶条"
+        material: "玻璃屏幕 + ABS背壳"
+        finish: "高光屏幕 + 哑光黑背壳"
+      mounting: "手持"
+      signature_detail: "双麦克风阵列对话式UI，正面全屏显示双语同步转录，青绿色顶部LED为录音激活指示"
+    design_level:
+      score: 3
+      reason: "产品形态清晰，但非音箱品类，是AI翻译设备；设计层面造型平稳，全屏UI是核心，硬件设计较普通"
+    design_tags: ["翻译机", "全面屏", "双语UI", "青绿色LED", "手持设备", "非音箱品类"]
+    hero_feature: "全面触控屏双语同步转录显示——将AI翻译过程完全透明化，用户看得到翻译在发生"
+    problem_solved: "实时翻译设备通常只有声音输出，盲操作不安全；全屏文字显示让用户在嘈杂环境也能确认翻译内容"
+    transferable_technique: "将AI处理过程可视化到全屏界面（非仅LED/声音反馈），可迁移至智能音箱的屏幕交互设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "产品为AI翻译机（非智能音箱），疑似分类错误，请人工确认是否应移至消费电子/智能翻译设备文件夹"
+
+  - product_id: "if_smart_spk_027"
+    source_images:
+      - filename: "77.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/77.jpg"
+        image_role: "hero"
+        visual_anchor: "Harman Kardon Citation One黑色正面：桶形身材，全身黑色织物，顶面圆形触控区有多个功能图标，底部金属圆弧底座，正面底部harman/kardon白字"
+      - filename: "78.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/78.jpg"
+        image_role: "detail"
+        visual_anchor: "顶面近景：拉丝不锈钢圆环框住织物触控面，多个三角形/麦克风/蓝牙图标丝印，侧面圆弧底部可见青绿色LED小点"
+    product_name: "Harman Kardon Citation One 智能音箱"
+    brand_name: "Harman Kardon"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "标准圆柱桶形，上下径相近，顶部微内收；顶面拉丝金属环形框架突出，侧面底部圆弧过渡底座"
+      light_opening: "侧面底部边缘青绿色LED小点"
+      thermal: "全身声学织物透声"
+      cmf:
+        color: "全黑织物机身 + 拉丝银顶环 + 哑光黑底座"
+        material: "声学织物 + 拉丝不锈钢顶环 + ABS底座"
+        finish: "织物哑面黑 + 拉丝银金属 + 哑光黑"
+      mounting: "桌面放置"
+      signature_detail: "顶面拉丝不锈钢圆形框架将控制面板升格为精致工艺细节；织物+金属双材质组合提升家居融合感"
+    design_level:
+      score: 4
+      reason: "拉丝钢顶环将普通触控区变成精致工艺件，整体材质组合达到家居级；但轮廓本身无特别突破，靠细节胜出"
+    design_tags: ["拉丝钢顶环", "织物包覆", "桶形圆柱", "触控顶面", "黑银双材质", "家居融合"]
+    hero_feature: "顶面拉丝不锈钢圆形框架——将功能性触控区域转化为工艺品级圆框，视觉重量从侧面移至顶面"
+    problem_solved: "智能音箱顶部触控区通常是塑料感的功能区；拉丝金属圆环将其升格为视觉焦点，提升整体品质感"
+    transferable_technique: "用拉丝金属圆框「裱」住功能区面板，让普通触控区域拥有珠宝盒感，可迁移至台灯开关盘、智能家居面板"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_028"
+    source_images:
+      - filename: "81.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/81.jpg"
+        image_role: "hero"
+        visual_anchor: "Simple Audio智能音箱6状态展示图：正方形黑色钢化玻璃面板+银色圆角铝框；6格展示从全黑空白→蓝牙/更新图标出现→横向白色破折号LED逐渐增多，右下格显示simple audio logo"
+    product_name: "Simple Audio 智能音箱"
+    brand_name: "Simple Audio"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱"]
+    design_language:
+      silhouette: "正方形（圆角），极薄扁平板状；银色圆角铝合金边框包围黑色镜面玻璃面板"
+      light_opening: "玻璃面板内LED透射：图标+横向破折号音量/进度条"
+      thermal: "侧面或背面散热，正面全玻璃密封"
+      cmf:
+        color: "镜面黑玻璃 + 拉丝银铝框"
+        material: "钢化玻璃面板 + 铝合金边框"
+        finish: "镜面黑 + 拉丝银"
+      mounting: "桌面放置或壁挂"
+      signature_detail: "正面全镜面玻璃待机时完全黑色极简；激活时透过玻璃透射图标与破折号进度条，静止时是装饰品，激活时变设备"
+    design_level:
+      score: 5
+      reason: "「待机即隐形」的极致设计——黑色镜面玻璃关机时与家居融合为一体，仅在功能激活时显示必要信息；铝合金边框工艺精良；是智能音箱极简主义的顶级案例"
+    design_tags: ["镜面玻璃面板", "隐形待机", "铝合金边框", "LED透射图标", "极简主义", "方形", "待机即装饰"]
+    hero_feature: "黑色镜面玻璃面板——待机时完全隐形融入墙面/家具，激活时透射简洁图标，实现「存在感可控」"
+    problem_solved: "智能音箱通常有明显的技术感外观，破坏家居美学；全镜面玻璃待机隐形，让音箱成为家居装饰品"
+    transferable_technique: "镜面玻璃+LED透射信息显示的「隐形激活」设计语言，可迁移至智能家居面板、空气净化器、冰箱门板等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_029"
+    source_images:
+      - filename: "82.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/82.jpg"
+        image_role: "hero"
+        visual_anchor: "LD Systems Maui 5系列两种高度：超细圆柱声柱（约1.5m和1.2m高）+ 圆柱形低频炮底座，全套哑光深灰，两组并排展示"
+      - filename: "84.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/84.jpg"
+        image_role: "detail"
+        visual_anchor: "声柱分解图：3节分段细圆柱（两端露出Speakon接头）+ 正面蜂窝圆孔低频炮底座"
+    product_name: "LD Systems Maui 5 便携线阵音柱系统"
+    brand_name: "LD Systems"
+    brand_confidence: "high"
+    category_path: ["音箱", "专业音响"]
+    design_language:
+      silhouette: "超细圆柱声柱（宽高比约1:10）+ 圆柱形低音炮底座；极端垂直比例，声柱几乎和旗杆一样细"
+      light_opening: "无"
+      thermal: "低音炮底座四周蜂窝网格"
+      cmf:
+        color: "通体哑光深灰/近黑"
+        material: "铝合金声柱 + 塑料网格底座"
+        finish: "喷砂深灰 + 深灰网格"
+      mounting: "地面立放，声柱分段插接"
+      signature_detail: "声柱三节分段设计，Speakon接头可快速拼插组装；整体像一支会发声的旗杆，移动演出极简部署"
+    design_level:
+      score: 4
+      reason: "超极端细长比例在专业音响领域独树一帜；分段插接结构优雅解决运输收纳；视觉上接近雕塑而非设备"
+    design_tags: ["线阵声柱", "极细圆柱", "分段插接", "Speakon接头", "专业音响", "旗杆比例", "便携部署"]
+    hero_feature: "超细圆柱三段分插声柱——比例极端（宽高1:10），像旗杆，却是完整的线阵音响系统，视觉极简"
+    problem_solved: "传统线阵音响体积大、部署复杂；分段细柱可放入行李箱，现场5分钟完成安装"
+    transferable_technique: "极端细长比例（1:8以上）+分段拼插结构，可迁移至落地灯、空气净化器、家用音响等有立柱结构的产品"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_030"
+    source_images:
+      - filename: "83.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/83.jpg"
+        image_role: "hero"
+        visual_anchor: "Soundcore Rave Neo 派对音箱：高箱型，正面三分之二网格后有三个单元+RGB彩色灯光条（锯齿波形），右侧内凹存放2支无线麦克风，Soundcore logo"
+      - filename: "87.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/87.jpg"
+        image_role: "detail"
+        visual_anchor: "Soundcore Rave 3双视角：正面RGB彩灯格栅，背面展示麦克风存放槽+提手+背部散热/连接区，右上RAVE 3字样"
+    product_name: "Soundcore Rave 系列派对音箱"
+    brand_name: "Soundcore"
+    brand_confidence: "high"
+    category_path: ["音箱", "派对音箱"]
+    design_language:
+      silhouette: "高方箱型（约宽高比1:1.6），四角圆弧；正面占满大面积网格+RGB灯光；背面设有麦克风收纳槽"
+      light_opening: "正面RGB彩色LED灯条（锯齿波/闪电形图案），多色动态"
+      thermal: "背面散热区"
+      cmf:
+        color: "深灰/黑主体 + RGB彩色灯光"
+        material: "ABS外壳 + 金属网格 + 橡胶把手"
+        finish: "哑光深灰 + 高亮RGB灯光"
+      mounting: "地面立放，顶部提手手提"
+      signature_detail: "背面内嵌2个无线麦克风存放槽，麦克风即取即用零外设；RGB锯齿波形灯条作为品牌视觉图腾"
+    design_level:
+      score: 3
+      reason: "背面麦克风存放槽是功能外显的好案例；但整体设计服务于派对/Karaoke场景而非家居，RGB视觉比较廉价，设计语言对家居场景无迁移价值"
+    design_tags: ["派对音箱", "RGB灯光", "背面麦克风收纳", "高方箱型", "无线麦克风", "Karaoke系统", "锯齿波形灯条"]
+    hero_feature: "背面内嵌2个无线麦克风收纳槽——麦克风与音箱一体，出门带一台即全套卡拉OK系统"
+    problem_solved: "派对音响套装配件散乱、运输麻烦；将2支无线麦克风内嵌收纳于机身背面，一体化解决配件丢失问题"
+    transferable_technique: "将配套配件的收纳槽内嵌进主机身背面（磁吸或卡扣），可迁移至便携蓝牙音箱（遥控器收纳）、相机（备用电池槽）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_031"
+    source_images:
+      - filename: "93.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/93.jpg"
+        image_role: "hero"
+        visual_anchor: "圆盘形便携蓝牙音箱6色版本：正面平行斜纹织物网格，顶部绳结+细绳可悬挂，6种高饱和撞色背景（粉/青/红/橙/深灰/黄+绿色机身），每种背景配同色或对比色音箱"
+    product_name: "圆盘形便携蓝牙音箱（6色版）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "便携蓝牙音箱"]
+    design_language:
+      silhouette: "正圆形扁平盘状（厚度约直径的1/5），边缘无明显棱角；顶部绳结+细挂绳"
+      light_opening: "无"
+      thermal: "织物全包覆透声"
+      cmf:
+        color: "6种高饱和色（酒红/薄荷绿/朱红/深蓝/黑/翠绿）"
+        material: "织物全包覆 + 金属或橡胶薄边框"
+        finish: "织物细斜纹 + 哑面"
+      mounting: "手持/绳挂，可悬挂于包包/帐篷"
+      signature_detail: "顶部绳结+细绳设计，音箱即可随身悬挂；6色高饱和配色方案将音箱定位为时尚配件而非电子设备"
+    design_level:
+      score: 4
+      reason: "圆盘+绳挂的时装配件化定位极具创意；6色高饱和方案把音箱变成包包挂件；织物斜纹表面温润；但功能性（声学性能、操控）让位于颜值，是审美驱动设计的好案例"
+    design_tags: ["圆盘形", "挂绳设计", "时尚配件化", "6色高饱和", "织物斜纹", "便携挂件", "包包挂饰感"]
+    hero_feature: "顶部绳结挂绳——将音箱变成可挂在包包/帐篷的饰品，将电子产品彻底时尚配件化"
+    problem_solved: "便携音箱放包里占空间且难取用；挂绳设计让音箱挂在包包外侧即播放，随时取下，边走边听"
+    transferable_technique: "挂绳+高饱和多色配色方案将功能产品配件化，可迁移至便携充电宝、户外水瓶、无线耳机盒等户外随身品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

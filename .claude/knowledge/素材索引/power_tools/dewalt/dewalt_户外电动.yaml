@@ -1,0 +1,197 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "户外电动"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外电动/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_户外电动_001"
+    source_images:
+      - filename: "户外电动__发电机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外电动/户外电动__发电机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "开放框架式便携汽油发电机（小型）：黑色方管焊接框架+顶部黄色钣金燃油箱盖，OHV发动机裸露（黑色散热罩+银色缸盖），右侧黄色发电机壳体（DEWALT字样+散热格栅），黄色轮毂大轮（充气橡胶轮胎）"
+    product_name: "DeWalt Portable Gas Generator (Open Frame, Small)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外电动"
+      - "便携式发电机"
+    design_language:
+      silhouette: "开放框架形态：黑色方管焊接框架（矩形轮廓）+内置发动机+发电机体，顶部黄色弧形钣金盖，两侧大轮，整体低矮宽稳定感"
+      light_opening: "N/A（户外设备）"
+      thermal: "发动机风冷散热（缸盖散热片可见），发电机壳体散热格栅"
+      cmf:
+        color: "黑色（方管框架+发动机主体）+ 黄色（燃油箱盖+发电机壳+轮毂）+ 银色（缸盖铸铝）"
+        material: "钢质方管框架，铸铁/铝发动机，铸铝发电机壳，充气橡胶轮"
+        finish: "黑色粉末涂层框架，黄色钣金，铸铝本色"
+      mounting: "地面推行，两轮+前支撑脚"
+      signature_detail: "开放式黑色框架将发动机完全裸露——功能件直接可见，工业透明性；黄色轮毂与黑色轮胎的黄黑配色延伸至车轮"
+    design_level:
+      score: 2
+      reason: "标准开放框架发电机形态，黄黑系统延伸到位但设计无特别创新，发动机裸露是品类惯例"
+    design_tags:
+      - "汽油发电机"
+      - "开放框架"
+      - "便携式"
+      - "H11_功能外显"
+    hero_feature: "开放黑色框架内裸露发动机，功能透明性最大化"
+    problem_solved: "工地/户外无电源场所供电，开放框架散热好维护方便"
+    transferable_technique: "开放框架将内部功能件完全暴露，以结构透明性传达可维护性和工业可靠感（H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外电动_002"
+    source_images:
+      - filename: "户外电动__发电机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外电动/户外电动__发电机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "逆变发电机（便携行李箱形态）：正视正方形，黑色外壳（上下宽边+右侧竖向散热格栅）+大面积黄色正面面板（DEWALT大字+黑色拉绳启动凹槽），顶部黑色提手，右上角黑色油量旋钮，底部4个圆柱橡胶脚垫"
+    product_name: "DeWalt Inverter Generator (Suitcase/Portable)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外电动"
+      - "逆变发电机"
+    design_language:
+      silhouette: "封闭行李箱形态：正视近正方形（约450×450mm），所有内部组件完全封闭在壳体内，顶部提手可单手携带，整体低矮紧凑"
+      light_opening: "N/A（户外设备）"
+      thermal: "右侧大面积竖向散热格栅（约整体面积25%），黑色与黄色面板的分界线"
+      cmf:
+        color: "黑色（上边框+下边框+右散热区+提手）+ 黄色（大面积正面面板）"
+        material: "ABS工程塑料外壳，内置OHV发动机+逆变器"
+        finish: "哑光黑，哑光黄"
+      mounting: "地面放置，4个橡胶防震脚垫"
+      signature_detail: "黄色大面板上内嵌黑色拉绳凹槽——拉绳启动功能整合进黄色面板而非裸露在外，形态极简，整体看起来更像电子设备而非传统发电机"
+    design_level:
+      score: 4
+      reason: "行李箱封闭形态在发电机品类中是设计突破——将传统裸露发动机完全包覆，形态现代简洁，黄黑面板对比强烈，拉绳整合入面板的隐藏设计是H09典型案例"
+    design_tags:
+      - "逆变发电机"
+      - "行李箱形态"
+      - "便携"
+      - "H02_包覆设计"
+      - "H09_隐藏工程"
+      - "H07_极简整合"
+    hero_feature: "封闭行李箱形态将传统裸露发动机完全包覆，黄色大面板+内嵌拉绳槽使发电机看起来像精密电子设备"
+    problem_solved: "露营/家用安静供电（逆变器输出纯正弦波适合电子设备），封闭壳体降噪，可提手单人携带"
+    transferable_technique: "将复杂机械（发动机）完全封闭在简洁外壳内，拉绳等传统外露机械件整合进面板（H09隐藏工程）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外电动_003"
+    source_images:
+      - filename: "户外电动__发电机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外电动/户外电动__发电机__03.jpg"
+        image_role: "hero"
+        visual_anchor: "DXGNR6500便携发电机（6500/8125W）：黄色钢质机身（顶部弧形燃油箱+侧面直板），正面黑色控制面板（DEWALT+型号+多插座+断路器+CO PROTECT传感器徽章+IDLE CONTROL旋钮），右侧发动机裸露（银灰色缸体），黄色辐条大轮+充气轮胎，黑色推把（左侧斜伸）"
+      - filename: "户外电动__发电机__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外电动/户外电动__发电机__04.jpg"
+        image_role: "hero"
+        visual_anchor: "DXGNR8000便携发电机（8000/10000W）：同家族更大款，黄色机身更宽，正面黑色控制面板（WATTAGE METER显示屏+更多插座+DXGNR8000型号），黄色辐条大轮，同款黑色推把"
+      - filename: "户外电动__发电机__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外电动/户外电动__发电机__05.jpg"
+        image_role: "hero"
+        visual_anchor: "DXGNR4000便携发电机（4000/5000W）：同家族最小款，黄色机身，正面黑色控制面板（较少插座），黄色实心盘大轮（非辐条），同款黑色推把，整体更紧凑"
+    product_name: "DeWalt DXGNR Series Portable Gas Generator (4000-8000W)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外电动"
+      - "便携式发电机"
+    design_language:
+      silhouette: "黄色矩形机身（顶部圆弧燃油箱）+正面黑色控制面板（约占正面40%面积），黑色方管推把从左侧斜向上伸出，两侧大轮，整体呈宽矩形+单侧推把形态"
+      light_opening: "N/A（户外设备）"
+      thermal: "发动机侧面裸露散热（直接风冷），机身右侧发动机完全可见"
+      cmf:
+        color: "黄色（机身主体+燃油箱+轮毂）+ 黑色（控制面板+推把+框架）+ 银灰色（发动机缸体）"
+        material: "钢质机身，汽油OHV发动机，ABS控制面板，橡胶轮"
+        finish: "黄色钣金喷涂，哑光黑面板"
+      mounting: "两轮+前支撑脚推行"
+      signature_detail: "正面黑色控制面板集中所有插座/断路器/显示器——将电气控制界面统一在一个黑色区域内，与黄色机身形成强对比，CO PROTECT传感器徽章作为安全功能的视觉标识"
+    design_level:
+      score: 3
+      reason: "DXGNR系列发电机黄黑CMF系统在大型户外设备的延伸一致，黑色控制面板集中界面的设计逻辑清晰，系列化尺寸梯度（4000/6500/8000W）设计一致性强"
+    design_tags:
+      - "DXGNR系列"
+      - "汽油发电机"
+      - "推车式"
+      - "CO PROTECT"
+      - "H11_功能外显"
+    hero_feature: "黑色控制面板集中所有插座/断路器/仪表于黄色机身正面，形成强对比的功能控制区"
+    problem_solved: "工地/灾后应急供电（4000-8000W覆盖多工具同时使用），CO PROTECT自动关机保护安全"
+    transferable_technique: "将所有电气接口统一在一个对比色面板区域内，控制界面集中化既提升可用性也强化视觉秩序（H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外电动_004"
+    source_images:
+      - filename: "户外电动__除雪设备__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外电动/户外电动__除雪设备__01.jpg"
+        image_role: "hero"
+        visual_anchor: "21\"208cc单级汽油除雪机：大黄色有机曲线机身（主体体量约500mm高×550mm宽），顶部黑色旋转拨雪筒（指向右），黑色钢管推把（顶部横杆）+黄色控制缆线，正面黑色进雪口护板+螺旋搅雪叶片（深色），底部黄色刮雪板，黄色轮毂+黑色气动轮，LED灯（机身前侧两颗）"
+      - filename: "户外电动__除雪设备__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外电动/户外电动__除雪设备__02.jpg"
+        image_role: "hero"
+        visual_anchor: "21\"175cc单级汽油除雪机（稍小排量版）：同款黄色有机曲线机身，顶部黑色拨雪筒，同款推把+黄色缆线，DEWALT字样在机身下部，黄色轮毂+黑色充气轮，前部黑色进雪护板+搅雪叶片"
+    product_name: "DeWalt 21\" Single-Stage Gas Snow Blower (208cc / 175cc)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外电动"
+      - "除雪机"
+    design_language:
+      silhouette: "大型机器形态：黄色有机曲线大体量机身（前视圆润宽厚，侧视梯形），顶部黑色拨雪筒垂直伸出（可旋转角度），底部进雪口宽平，推把从后部向斜上延伸，整体呈前重后高的推行形态"
+      light_opening: "N/A（户外设备）；前部进雪口是功能开口（约550mm宽×200mm高）"
+      thermal: "发动机风冷，机身后部散热区"
+      cmf:
+        color: "黄色（主机身主导，约65%面积）+ 黑色（推把+拨雪筒+进雪口护板+发动机区）+ 黄色（轮毂）"
+        material: "钢质机身，汽油OHV发动机，钢质搅雪叶片，充气橡胶轮"
+        finish: "黄色钣金/注塑，哑光黑钢管"
+      mounting: "地面两轮自推"
+      signature_detail: "黄色有机曲线大体量机身——在除雪机品类中圆润的有机曲线少见（多为直角钣金），黄色大面积覆盖形成品牌强识别；顶部黑色拨雪筒垂直伸出，指向性外显除雪方向功能"
+    design_level:
+      score: 4
+      reason: "黄色有机曲线大机身在除雪机品类中形态差异化明显（对比传统直角钣金机型），黄色占比极高使品牌识别度强，双LED工作灯细节考究，DeWalt黄黑系统在大型户外设备完整延伸"
+    design_tags:
+      - "汽油除雪机"
+      - "单级"
+      - "有机曲线"
+      - "黄色主导"
+      - "LED工作灯"
+      - "H06_仿生"
+      - "H08_对比强调"
+    hero_feature: "黄色有机曲线大机身——圆润体量在除雪机品类中形成视觉差异，黄色占比最高的大型户外设备"
+    problem_solved: "住宅车道/小路除雪（21\"宽度覆盖标准车道），208cc汽油引擎应对积厚积雪，LED灯支持夜间作业"
+    transferable_technique: "有机曲线机身在大型功能设备上的应用——曲线减少视觉重量感，使大体量设备更易于接受（H06仿生曲线逻辑）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,289 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "耳机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/耳机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bo_headphone_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/耳机/01.jpg"
+        image_role: "hero"
+        visual_anchor: "铜色金属色充电盒与耳机整体，对角线构图"
+    product_name: "Beoplay EX (Burnished Copper)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "充电盒圆角矩形，边角高度圆润；耳机本体细长圆柱形茎杆搭配椭圆形耳塞"
+      light_opening: "充电盒底部单排LED指示灯缝隙；茎杆侧面单点麦克风孔"
+      thermal: "无散热需求"
+      cmf:
+        color: "暖铜金（Burnished Copper）通体，黑色橡胶耳塞"
+        material: "铝合金充电盒；铝合金茎杆；硅胶耳塞"
+        finish: "拉丝亚光金属；无光泽橡胶"
+      mounting: "入耳式，硅胶耳塞"
+      signature_detail: "茎杆正面激光蚀刻'BANG & OLUFSEN'全拼品牌字"
+    design_level:
+      score: 4
+      reason: "铜色CMF高度统一，盒体与耳机形成视觉整体；茎杆品牌字刻字手法精致，是B&O金属加工工艺的典型表达"
+    design_tags: ["TWS入耳式", "金属充电盒", "铜色配色", "茎杆设计", "品牌刻字", "CMF统一"]
+    hero_feature: "铝合金茎杆正面蚀刻品牌全拼，珠宝级金属光泽与文字形成视觉焦点"
+    problem_solved: "让TWS耳机在桌面展示时仍具备奢侈品质感，区别于普通消费级黑色塑料盒"
+    transferable_technique: "充电盒与耳机本体同色系金属CMF统一策略；茎杆品牌字激光蚀刻代替印刷"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_headphone_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/耳机/03.jpg"
+        image_role: "hero"
+        visual_anchor: "开盖状态充电盒，橙铜色外壳与青灰色内衬对比，网球场景背景"
+    product_name: "Beoplay EX (Timber/Hazel 联名配色)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "充电盒开盖展示，外圆弧盖与矩形盒体结合；耳机茎杆设计带圆形触控面板"
+      light_opening: "盒体内壁单条LED充电指示"
+      thermal: "无散热需求"
+      cmf:
+        color: "外壳橙铜色（Timber）；内衬青灰绿（Hazel）；耳机面板橙铜金属圈配青灰耳机体"
+        material: "铝合金外壳；软质内衬涂层；铝合金触控圆盘"
+        finish: "外壳哑光阳极氧化；触控面板镀铜光泽"
+      mounting: "入耳式，硅胶耳塞"
+      signature_detail: "耳机外侧圆形金属面板嵌刻'B&O'品牌LOGO，与外壳颜色呼应"
+    design_level:
+      score: 4
+      reason: "双色对比策略（外壳色vs内衬色）在开盖瞬间产生高级感；圆形金属触控面板作为视觉焦点有明确识别性"
+    design_tags: ["TWS入耳式", "双色对比", "开盖展示", "圆形触控面板", "联名配色", "户外场景"]
+    hero_feature: "开盖瞬间外壳橙铜与内衬青灰的双色反差，配合圆形品牌Logo金属面板"
+    problem_solved: "通过配色叙事将TWS耳机与运动生活方式场景挂钩，区别于纯功能性定位"
+    transferable_technique: "充电盒外壳色与内衬色形成反差的开盒惊喜设计；圆形触控面板作为品牌LOGO载体"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_headphone_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/耳机/04.jpg"
+        image_role: "hero"
+        visual_anchor: "银色铝合金充电盒与黑色入耳耳机，白色背景标准产品图"
+    product_name: "Beoplay EX (Black Anthracite)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "充电盒圆角矩形，短边圆弧饱满；耳机茎杆笔直，圆形金属面板明显"
+      light_opening: "充电盒正面单LED状态灯；茎杆侧面麦克风开孔"
+      thermal: "无散热需求"
+      cmf:
+        color: "充电盒银色（Natural Aluminium）；耳机哑黑（Anthracite Black）；金属面板银灰"
+        material: "铝合金充电盒；铝合金金属面板；黑色橡胶耳机体"
+        finish: "充电盒拉丝亚光银；面板镜面银圈"
+      mounting: "入耳式，硅胶耳塞"
+      signature_detail: "充电盒顶面激光蚀刻'BANG & OLUFSEN'，银黑双色系形成经典色彩对"
+    design_level:
+      score: 3
+      reason: "经典银黑配色克制稳重，但相比铜色版本视觉辨识度略弱；圆形金属面板是最强识别点"
+    design_tags: ["TWS入耳式", "银黑配色", "铝合金充电盒", "圆形金属面板", "经典配色"]
+    hero_feature: "铝合金充电盒与黑色耳机的材质反差，圆形金属面板作为品牌识别徽标"
+    problem_solved: "为日常商务/通勤场景提供低调奢华的入耳式选择，避免彩色款的场合局限"
+    transferable_technique: "充电盒材质与耳机本体材质形成有意的对比（金属盒vs橡胶耳机体）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_headphone_004"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/耳机/06.jpg"
+        image_role: "hero"
+        visual_anchor: "沙金色头戴式耳机，三脚架式耳垫梁结构，圆形耳罩主视图"
+    product_name: "Beoplay HX (Sand/Gold)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "大圆形耳罩主导轮廓，头梁为均匀曲率弧形，耳罩悬挂连接件纤细"
+      light_opening: "耳罩底部单点麦克风通孔"
+      thermal: "无散热需求"
+      cmf:
+        color: "沙米金（Gold Tone）耳罩面板与连接件；浅灰米色头梁垫与耳垫织物"
+        material: "铝合金耳罩面板；羊毛织物头梁垫；仿皮革耳垫；铝合金滑动臂"
+        finish: "面板拉丝哑金；织物哑光自然纹理"
+      mounting: "头戴式，包耳（Over-Ear）"
+      signature_detail: "耳罩面板圆形锯齿纹路环（类表圈设计）配中央'B&O'LOGO，像精密腕表表盘"
+    design_level:
+      score: 5
+      reason: "耳罩面板用表圈语言做成高级感焦点，织物头梁与金属面板的材质分界线极精确；整体比例接近雕塑，是B&O耳机系列最高设计水准之一"
+    design_tags: ["头戴式", "包耳", "表圈纹路", "织物头梁", "铝合金面板", "腕表美学", "奢侈品级"]
+    hero_feature: "铝合金耳罩面板上的同心圆锯齿纹表圈结构，中央镶嵌品牌LOGO，腕表级精工感"
+    problem_solved: "将高端头戴耳机从功能性电子产品提升至时尚配件/奢侈品品类，可公开展示佩戴"
+    transferable_technique: "表圈同心圆纹路用于旋转操作或纯装饰面板；织物+金属分区包裹头梁设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_headphone_005"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/耳机/08.jpg"
+        image_role: "hero"
+        visual_anchor: "棕色皮革头戴耳机，银色铝合金面板，深蓝色内侧耳垫网布"
+    product_name: "Beoplay HX (Chestnut/Silver)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "与HX系列一致的大圆形耳罩+弧形头梁，耳罩连接件细长"
+      light_opening: "耳罩外侧下方单麦克风通孔"
+      thermal: "无散热需求"
+      cmf:
+        color: "栗棕色（Chestnut）皮质头梁与耳垫；银白色铝合金面板；深蓝色耳垫内网布"
+        material: "皮革头梁垫与耳垫；铝合金耳罩面板；铝合金滑动臂"
+        finish: "皮革亚光粒面；铝合金面板拉丝银"
+      mounting: "头戴式，包耳（Over-Ear）"
+      signature_detail: "深蓝色耳垫内网布与棕色皮革形成内外色彩反转，揭开耳垫才见蓝色惊喜"
+    design_level:
+      score: 4
+      reason: "棕色皮革+蓝色内衬的多层CMF叙事有深度，类似高端皮具内里用色策略；银色面板做同心圆表圈纹路继续B&O腕表语言"
+    design_tags: ["头戴式", "包耳", "皮革头梁", "表圈纹路", "多层CMF", "内外配色反转", "皮具语言"]
+    hero_feature: "棕皮外衬与深蓝内网布的双层CMF反转，贴耳时才发现的设计彩蛋"
+    problem_solved: "提供秋冬/商务风格的CMF选项，让耳机与皮具穿搭形成呼应"
+    transferable_technique: "功能件内外双层配色反转（外观色vs接触面色），类皮具内里设计手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_headphone_006"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/耳机/10.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色皮质头戴耳机，银色铝合金面板，黑色网布耳垫内侧"
+    product_name: "Beoplay HX (Black/Silver)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "HX系列标准轮廓，大圆耳罩+弧形头梁，连接臂细"
+      light_opening: "耳罩外侧底部麦克风单孔"
+      thermal: "无散热需求"
+      cmf:
+        color: "全黑（Black）皮质头梁与耳垫；银白铝合金面板"
+        material: "皮革头梁垫与耳垫；铝合金耳罩面板；铝合金滑动臂"
+        finish: "皮革亚光细粒面；面板拉丝银"
+      mounting: "头戴式，包耳（Over-Ear）"
+      signature_detail: "银色同心圆表圈面板配哑黑皮革形成极简黑银经典对，无彩色干扰"
+    design_level:
+      score: 3
+      reason: "黑银配色是HX系列中最常规的SKU，识别点与其他色号完全一致，设计分值受配色驱动差异不大"
+    design_tags: ["头戴式", "包耳", "黑银配色", "皮革头梁", "表圈纹路", "经典配色"]
+    hero_feature: "全黑皮革与银色同心圆铝合金面板的高对比度经典色对"
+    problem_solved: "满足全场景黑色配色需求，作为系列标准色保证渠道覆盖"
+    transferable_technique: "黑皮+银金属的配色组合可直接迁移至其他音频或可穿戴产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_headphone_007"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/耳机/12.jpg"
+        image_role: "hero"
+        visual_anchor: "青绿色充电盒与青绿触控圆面板TWS耳机，白色背景"
+    product_name: "Beoplay EX (Green/Jade)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "充电盒圆角矩形；耳机体小巧，短茎杆，圆形面板突出"
+      light_opening: "充电盒正面单LED指示点"
+      thermal: "无散热需求"
+      cmf:
+        color: "充电盒青绿色（Jade Green）；耳机体浅灰白；圆形面板青绿色同色圈"
+        material: "充电盒哑光塑料/铝合金；耳机体ABS；圆形面板铝合金"
+        finish: "充电盒亚光柔触感涂层；面板哑光阳极氧化"
+      mounting: "入耳式，硅胶翼钩"
+      signature_detail: "充电盒与圆形面板颜色精确呼应，耳机体保持中性浅灰使面板色更跳"
+    design_level:
+      score: 3
+      reason: "青绿色配色清新但设计策略与铜色版完全相同，差异主要在配色本身；圆形面板作为识别点稳定"
+    design_tags: ["TWS入耳式", "彩色配色", "青绿色", "圆形面板", "同色系呼应", "运动款"]
+    hero_feature: "充电盒与耳机圆形面板精确同色（青绿），耳机体保持浅灰形成对比"
+    problem_solved: "提供春夏季节性彩色选项，吸引追求个性配色的年轻用户群体"
+    transferable_technique: "充电配件与产品本体面板局部精确同色策略，整体克制局部跳色"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_headphone_008"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/耳机/13.jpg"
+        image_role: "hero"
+        visual_anchor: "橙色充电盒与橙色圆面板TWS耳机，白色背景"
+    product_name: "Beoplay EX (Terracotta Orange)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "与青绿版完全一致的圆角矩形充电盒与短茎杆耳机"
+      light_opening: "充电盒正面单LED指示点"
+      thermal: "无散热需求"
+      cmf:
+        color: "充电盒橙赤陶色（Terracotta）；耳机体浅灰白；面板橙色同色圈"
+        material: "充电盒哑光涂层；耳机体ABS；圆形面板铝合金"
+        finish: "充电盒亚光柔触感涂层；面板哑光阳极氧化"
+      mounting: "入耳式，硅胶翼钩"
+      signature_detail: "充电盒与圆形面板橙色精确呼应，赤陶色营造温暖秋意氛围"
+    design_level:
+      score: 3
+      reason: "赤陶橙配色有温度感但设计逻辑与青绿版相同；作为系列色卡扩展有价值，单独评分不超过3"
+    design_tags: ["TWS入耳式", "彩色配色", "赤陶橙", "圆形面板", "同色系呼应", "季节配色"]
+    hero_feature: "赤陶橙充电盒与面板同色，浅灰耳机体作为底色让橙色更醒目"
+    problem_solved: "秋冬季节配色延伸，与服饰搭配需求对应，扩大用户消费理由"
+    transferable_technique: "同一产品平台用不同CMF色扩展SKU，设计成本低、SKU差异化清晰"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

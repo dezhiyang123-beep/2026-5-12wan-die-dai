@@ -1,0 +1,117 @@
+project_id: "20260405-agrolux-test"
+lifecycle: active
+gate: "G1"
+gate_date: "2026-04-05"
+
+hardgates:
+  oem_openness:
+    verdict: "CONDITIONAL [L]"
+    evidence: |
+      无直接证据证明Agrolux接受第三方OEM合作。
+      正向信号：①CEO Marc Salvany来自Signify[M]；②LYRA平台公开支持Modbus[M-agrolux.com/os]；
+      ③MBO后战略提到生态系统伙伴[L-hortidaily.com推断]。
+      负向信号：无任何已知第三方OEM接入Agrolux/LYRA先例[L]。
+    risk_level: "H"
+    hold_action: "发商务邮件至Agrolux partnerships部门，说明OEM背景和供应意向。预计1-2周。"
+    autonomous_decision: |
+      画像六决策：方案设计和商务接触并行推进。设计成果作为商务接触的具体载体。
+      → 条件通过，风险H，G6前必须验证。
+
+  target_price_range:
+    verdict: "PASS [M]"
+    evidence: |
+      - Iluminar iLogic 6 (330W) $725[H-ledgrowlightsdepot.com]
+      - LED市场$0.15-0.30/µmol[M]；WEGA Max推算$0.40-0.50/µmol[L]
+      目标OEM出厂价：$250-400/unit（600-1000W级别）[L]
+      可调光谱溢价约15-25%[M-Signify TLF Tunable参考]
+
+  certification_path:
+    verdict: "PASS [H]"
+    evidence: |
+      欧盟：CE（LVD+EMC+ErP+RoHS），ENEC建议[H-compliancegate.com]
+      北美：UL 8800，DLC QPL必要前提[H-ul.com]
+      可调光谱双通道认证周期约4-6个月[M]
+
+  decision_maker:
+    verdict: "CONDITIONAL [M]"
+    evidence: |
+      CEO Marc Salvany（邮件推断未确认）[L]
+      决策链：CEO→Product Director→采购[M]
+      切入点：Product Director层级[M]
+    hold_action: "LinkedIn找Agrolux Product Director或Head of Sourcing"
+
+competitor_matrix:
+  - brand: "Signify"
+    model: "GreenPower LED Toplighting Force"
+    efficacy: "4.3 µmol/J@50%，3.9@100%[H]"
+    power: "800W/1040W"
+    ppf: "5150 µmol/s@1040W[H]"
+    price: "UNKNOWN"
+    weakness: "价格壁垒高，小客户难进入"
+    source: "lighting.philips.com/horticulture[H]"
+
+  - brand: "Hortilux Schréder"
+    model: "NXTLED"
+    efficacy: "4.1 µmol/J[H]"
+    power: "600/750/1050/1400W"
+    ppf: ">5500 µmol/s@1400W[H]"
+    price: "UNKNOWN"
+    weakness: "无可调配方方案"
+    source: "hortilux.com[H]"
+
+  - brand: "Heliospectra"
+    model: "MITRA X"
+    efficacy: "3.7 µmol/J[H]"
+    power: "325-1500W"
+    ppf: "5700 µmol/s@1500W[H]"
+    price: "8.3M SEK/批次[M]"
+    weakness: "效能偏低，控制复杂"
+    source: "heliospectra.com[H]"
+
+  - brand: "Valoya"
+    model: "RX系列"
+    efficacy: "UNKNOWN[L]"
+    power: "395/465/564W"
+    ppf: "UNKNOWN[L]"
+    price: "UNKNOWN"
+    weakness: "光谱数据不透明"
+    source: "valoya.com[H]"
+
+  - brand: "Iluminar"
+    model: "iLogic 6/8/9"
+    efficacy: "2.8 µmol/J[H]"
+    power: "330W/630W/1000W"
+    ppf: "924/1700/2800 µmol/s[H]"
+    price: "iLogic 6: $725[H]"
+    weakness: "效能偏低，不适合高端商业温室"
+    source: "ledgrowlightsdepot.com[H]"
+
+  - brand: "Agrolux（基准）"
+    model: "WEGA Max"
+    efficacy: "3.85 µmol/J[H]"
+    power: "1040W"
+    ppf: "4000 µmol/s[H]"
+    price: "UNKNOWN"
+    weakness: "效能低于Hortilux/Signify；无可调光谱[H]"
+    source: "agrolux.com[H]"
+
+market_intel:
+  hps_replacement: "荷兰4万公顷HPS，EU法规2026-2028改造波峰[M]"
+  growth: "CAGR 22.4%，$3.7B→$10.4B[H-marketsandmarkets.com]"
+  efficacy_war: "4.1+ µmol/J已成高端门槛[H]"
+  tunable_premium: "可调光谱溢价15-25%[M]"
+
+g1_verdict:
+  overall: "CONDITIONAL GO"
+  rationale: |
+    3项硬门槛有支撑（认证[H]，价格带[M]，决策链[M]）。
+    核心风险：oem_openness UNKNOWN。方案开发和商务接触并行推进。
+  go_condition: "G6前必须完成Agrolux商务接触，获得至少[L]级别开放信号"
+
+unknown_register:
+  - field: "oem_openness"
+    verification: "商务邮件+LinkedIn接触"
+    eta: "1-2周"
+  - field: "LYRA物理接口规格"
+    verification: "技术合作部门"
+    eta: "2-4周"

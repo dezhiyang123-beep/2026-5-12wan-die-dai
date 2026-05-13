@@ -1,0 +1,114 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "个人护理"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/个人护理/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_personal_001"
+    source_images:
+      - filename: "60.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/个人护理/60.jpg"
+        image_role: "hero"
+        visual_anchor: "白色卷发棒+直发夹两件套并排展示，纤长杆身+橄榄色编织握柄"
+    product_name: "Cerasilk Element 卷发棒+直发夹套装"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "个人护理"]
+    design_language:
+      silhouette: "细长圆柱杆身，一端收窄为手柄，直发夹为对称双臂夹紧结构；整体比例修长优雅"
+      light_opening: "无"
+      thermal: "隐藏式加热区域，外壳白色覆盖热工作面"
+      cmf:
+        color: "珍珠白 + 橄榄金编织色"
+        material: "ABS塑料外壳 + 陶瓷加热板 + 编织纤维握柄"
+        finish: "高光白壳 + 亚光编织纹握柄 + 镜面铬圈"
+      mounting: "手持，带电线"
+      signature_detail: "橄榄色斜纹编织握柄区域，与白色外壳形成强烈材质对比；直发夹端部的大圆形转轴关节"
+    design_level:
+      score: 4
+      reason: "白色高光外壳搭配编织握柄的材质对比手法新颖，整套产品造型语言统一，轮廓纤细优雅；铬圈关节细节精致，iF获奖水准"
+    design_tags: ["材质对比", "极简轮廓", "套装统一语言", "编织握柄", "高光白"]
+    hero_feature: "橄榄色斜纹编织握柄与高光白陶瓷杆身的材质切换——用天然纤维感打破美发工具的工业冷感"
+    problem_solved: "传统卷发棒握持区触感差、外观工业感强；编织握柄提升握持舒适度，同时赋予产品精品美感"
+    transferable_technique: "功能区与握持区双材质分段设计：高性能材料做工作面、触感材料做握持面，适用于吹风机、剃须刀、按摩仪等个人护理品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_personal_002"
+    source_images:
+      - filename: "61.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/个人护理/61.jpg"
+        image_role: "hero"
+        visual_anchor: "InStyler品牌黑色卷发棒+直发夹，附线稿工程图，色板示黑/橙/白三色"
+    product_name: "InStyler Cerasilk Element 系列（黑色版）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "个人护理"]
+    design_language:
+      silhouette: "与60.jpg同款造型，黑色配色版本；直发夹内侧可见密排梳齿散热槽结构"
+      light_opening: "无"
+      thermal: "直发夹内侧密排梳齿结构兼顾散热与梳发功能"
+      cmf:
+        color: "哑光黑 + 橄榄金编织色"
+        material: "ABS塑料 + 陶瓷加热板 + 编织纤维握柄"
+        finish: "亚光黑壳 + 编织纹握柄 + 镜面铬圈"
+      mounting: "手持，带电线"
+      signature_detail: "直发夹内侧密排三角/菱形镂空散热梳齿，兼具功能与视觉节奏感"
+    design_level:
+      score: 4
+      reason: "线稿工程图同框展示体现设计深度；内侧梳齿散热槽将功能结构转化为视觉亮点，黑色版本质感更强"
+    design_tags: ["功能结构美学化", "散热梳齿", "双色系选择", "工程美学", "哑光黑"]
+    hero_feature: "直发夹内侧密排梳齿散热槽——将散热工程需求转化为可见的精密节奏纹理"
+    problem_solved: "直发夹内侧通常是被忽视的工程面；将散热槽做成密排梳齿，打开夹板时形成令人印象深刻的内部细节"
+    transferable_technique: "将散热/通风等工程必须结构转化为品牌视觉语言的设计手法，可迁移至空气净化器进风格栅、电动工具散热孔等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_personal_003"
+    source_images:
+      - filename: "82.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/个人护理/82.jpg"
+        image_role: "hero"
+        visual_anchor: "深海蓝色方形头部直发梳，粗短手柄，侧面有垂直散热栅格，品牌nesugar"
+    product_name: "nesugar 直发梳"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "个人护理"]
+    design_language:
+      silhouette: "大体量方形加热头 + 短粗圆柱手柄，整体呈L形；顶部为平切圆角矩形，侧面有垂直细栅散热槽"
+      light_opening: "无"
+      thermal: "侧面垂直细栅为散热开口，功能外显"
+      cmf:
+        color: "深海蓝（哑光）+ 浅蓝色面板（磨砂）"
+        material: "ABS工程塑料"
+        finish: "哑光深蓝 + 磨砂浅蓝面板 + 银色小按键"
+      mounting: "手持，带电线"
+      signature_detail: "侧面垂直平行散热栅格与方形大头部的组合，形成强烈的建筑感几何体量"
+    design_level:
+      score: 3
+      reason: "深蓝配色在美发工具中有辨识度，方形大头造型稳重；但整体设计手法较常规，散热栅格处理中规中矩"
+    design_tags: ["建筑感体量", "垂直散热栅", "深色配色", "L形轮廓"]
+    hero_feature: "深海蓝方形大头造型——用建筑感几何体量与非常规色彩在美发工具中建立差异化识别"
+    problem_solved: "直发梳通常造型平庸；方形头部提供更大的加热接触面，深蓝色彩赋予产品卫浴/家居融合感"
+    transferable_technique: "非常规体量比例（超大功能头+短手柄）配合建筑感散热栅格的组合，可迁移至剃须刀、电动牙刷底座等品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

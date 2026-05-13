@@ -1,0 +1,108 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "抛光机"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/抛光机/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_抛光机_001"
+    source_images:
+      - filename: "抛光机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/抛光机/抛光机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR无刷抛光机裸机侧视，黄色枪形机身，黑色旋转头部（含圆形散热进风口），底部5\"抛光盘，尾端黄色20V接口"
+      - filename: "抛光机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/抛光机/抛光机__02.jpg"
+        image_role: "scene"
+        visual_anchor: "同款套装展示：裸机+5Ah电池+充电器+辅助把手+7\"抛光盘+黄色提包"
+      - filename: "抛光机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/抛光机/抛光机__03.jpg"
+        image_role: "scene"
+        visual_anchor: "同款套装含5Ah电池+充电器+袋，5\"抛光盘安装状态，无辅助把手"
+      - filename: "抛光机__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/抛光机/抛光机__04.jpg"
+        image_role: "hero"
+        visual_anchor: "同款裸机不同角度，黄色7\"抛光盘已安装，机头轻度前倾，头部银色电机颈部可见"
+    product_name: "DeWalt 20V MAX XR Brushless Cordless Polisher"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "抛光机"
+      - "无绳抛光机"
+    design_language:
+      silhouette: "枪形主机身（横置，不同于砂光机竖置），机头可旋转调角度，头部为圆形大直径黑色外壳包裹电机，尾端标准20V电池接口"
+      light_opening: "N/A（电动工具）；机头散热进风口为圆形开孔，直径约占头部35%"
+      thermal: "机头侧面大圆形散热进风口（黑色外壳上明显），主机身腰部有竖向散热槽组"
+      cmf:
+        color: "黄色（机身主体）+ 黑色（机头/散热区/握把覆盖）+ 银色（电机颈部金属露出）"
+        material: "工程塑料机身，铸铝电机壳，TPR握区"
+        finish: "哑光黄，哑光黑，铸铝本色"
+      mounting: "20V MAX标准滑入电池，底端接口；5\"/7\"抛光盘螺栓固定"
+      signature_detail: "机头圆形大进风口是正面视觉中心，黑色圆环结构强调圆形主题"
+    design_level:
+      score: 4
+      reason: "旋转机头设计解决大面积抛光的手腕角度问题，头部圆形散热口视觉独特，20V XR无绳解放了专业汽车护理场景"
+    design_tags:
+      - "无绳"
+      - "20V MAX XR"
+      - "无刷"
+      - "旋转机头"
+      - "H11_功能外显"
+    hero_feature: "可旋转调角度的圆形机头，在抛光机品类中形态独特"
+    problem_solved: "无绳自由移动抛光，旋转头适应车身不同曲面角度"
+    transferable_technique: "可旋转头部机构将功能灵活性外显为形态特征，圆形散热口强化功能感知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_抛光机_002"
+    source_images:
+      - filename: "抛光机__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/抛光机/抛光机__05.jpg"
+        image_role: "hero"
+        visual_anchor: "有绳7\"抛光机，全黄色机身（无黑色覆盖），前端黑色辅助把手可旋转，侧散热槽三列，电源线从尾端引出，7\"黑色抛光盘"
+    product_name: "DeWalt Corded 7\" / 9\" Polisher"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "抛光机"
+      - "有绳抛光机"
+    design_language:
+      silhouette: "长枪形机身，前端辅助把手垂直伸出，机身更长更粗，无电池接口使尾端更简洁"
+      light_opening: "N/A（电动工具）；机身腰部三列竖向散热槽"
+      thermal: "机身腰部竖向散热槽三列（高密度），比无绳款散热需求更大"
+      cmf:
+        color: "全黄色（机身）+ 黑色（辅助把手+散热槽区域）+ 银色（齿轮箱/电机前盖）"
+        material: "工程塑料机身，铸铝齿轮箱，橡胶辅助把手"
+        finish: "哑光黄，黑色橡胶，铸铝原色"
+      mounting: "电源线直接连接，7\"/9\"抛光盘螺栓固定，辅助把手可调转向"
+      signature_detail: "前端圆柱形辅助把手从机头侧面伸出，可360°旋转调角度"
+    design_level:
+      score: 3
+      reason: "全黄色机身在当前有绳抛光机中识别度高，但相比无绳款设计语言老旧，无黑色双色处理"
+    design_tags:
+      - "有绳"
+      - "大盘"
+      - "辅助把手"
+      - "H12_人机界面强化"
+    hero_feature: "可360°旋转的前端圆柱辅助把手，操作姿势自由调节"
+    problem_solved: "高功率持续抛光作业，有绳保证无限续航，大7\"盘提升覆盖面积"
+    transferable_technique: "辅助把手360°旋转的球形/圆柱连接设计，人机工程优化操作角度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

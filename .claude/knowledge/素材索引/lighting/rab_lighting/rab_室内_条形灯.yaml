@@ -1,0 +1,429 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内灯"
+  tertiary: "条形灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_条形灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "宽体防水条形灯，顶部带链式挂钩，半透明棱纹扩散罩，端盖呈梯形，侧面可见LED阵列"
+    product_name: "RAB Lighting 宽体防水条形灯（链挂式）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "短宽矩形体，长宽比约4:1，端盖梯形截面，整体厚实敦实"
+      light_opening: "底部全长半透明棱纹PC扩散罩，出光均匀"
+      thermal: "壳体一体成型，无独立散热鳍片，靠外壳导热"
+      cmf:
+        color: "全白"
+        material: "PC扩散罩 + 钢板/铝合金壳体"
+        finish: "亚光白喷涂"
+      mounting: "顶部金属链式挂钩，悬吊安装"
+      signature_detail: "端盖梯形截面+侧面可见LED阵列，有明显工业防水造型语言"
+    design_level:
+      score: 2
+      reason: "功能导向工业造型，无设计亮点，形态常规"
+    design_tags: ["防水", "工业", "悬吊", "宽体", "链挂"]
+    hero_feature: "宽体防水造型+链挂安装，强调耐用与实用"
+    problem_solved: "潮湿工业/商业空间的大面积均匀照明"
+    transferable_technique: "棱纹PC扩散罩处理均匀出光、消除热点，可迁移至其他功能灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_条形灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "长窄条形灯，弧形顶盖，侧面多个金属卡扣，端盖圆弧收尾，整体修长"
+    product_name: "RAB Lighting 长窄防水条形灯（卡扣式）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "极长窄矩形，长宽比约10:1，顶部弧形截面，端盖圆滑收尾"
+      light_opening: "底部半透明白色PC扩散罩，全长出光"
+      thermal: "弧形顶盖一体成型，无独立鳍片"
+      cmf:
+        color: "全白"
+        material: "PC扩散罩 + 钢板壳体"
+        finish: "亚光白喷涂"
+      mounting: "侧边均匀分布金属卡扣，适合天花板贴装或嵌装"
+      signature_detail: "侧面等间距金属弹簧卡扣为标志性细节，兼具功能与节奏感"
+    design_level:
+      score: 3
+      reason: "卡扣细节有节奏感，整体比例修长，比001更有设计感"
+    design_tags: ["防水", "卡扣", "修长", "工业", "顶装"]
+    hero_feature: "等间距金属卡扣+修长弧形截面"
+    problem_solved: "走廊、停车场等需要长距离线性照明的空间"
+    transferable_technique: "等间距金属卡扣作为分件线节奏元素，可迁移至其他细长型产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_条形灯_003"
+    source_images:
+      - filename: "03__2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/03__2.jpg"
+        image_role: "hero"
+        visual_anchor: "极简平板条形灯，截面接近矩形，底面中央有细长出光槽，端部有小型电气盒，整体极简洁"
+    product_name: "RAB Lighting 极简平板条形灯（嵌入式）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "极长扁平矩形截面，长宽比约15:1，厚度很薄"
+      light_opening: "底面中央细长线状出光槽，极简设计"
+      thermal: "平板铝型材一体式，靠大面积铝材导热"
+      cmf:
+        color: "全白"
+        material: "铝挤型材 + 细线PC扩散槽"
+        finish: "亚光白喷涂/粉末涂层"
+      mounting: "端部电气盒，顶面贴装"
+      signature_detail: "极细线状出光槽+平板铝型材主体，极简工业风格"
+    design_level:
+      score: 4
+      reason: "极简克制，线状出光与扁平型材比例协调，设计语言统一"
+    design_tags: ["极简", "线形", "平板", "嵌入", "铝型材"]
+    hero_feature: "超薄平板铝型材+细线出光槽，极简线形照明"
+    problem_solved: "对视觉整洁度要求高的商业或办公空间线形照明"
+    transferable_technique: "铝挤型材+线状出光槽组合，低成本实现极简线形灯效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_条形灯_004"
+    source_images:
+      - filename: "04__2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/04__2.jpg"
+        image_role: "hero"
+        visual_anchor: "超细超长线形灯，截面接近正方形细棒，端部小型电气盒，整体近乎一根光棒"
+    product_name: "RAB Lighting 超细线形灯棒"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "极细长棒形，长宽比约20:1，截面约正方形，端部为小型电气接线盒"
+      light_opening: "底面细线出光，几乎贯穿全长"
+      thermal: "细铝型材一体式散热"
+      cmf:
+        color: "白色主体，端部灰色接线盒"
+        material: "铝挤型材"
+        finish: "亚光白"
+      mounting: "顶面贴装，端部接线盒固定"
+      signature_detail: "极细长比例，接近一根发光棒，比例极端"
+    design_level:
+      score: 3
+      reason: "比例极端克制，但造型过于单薄，视觉张力有限"
+    design_tags: ["超细", "线形", "极简", "铝型材", "贴装"]
+    hero_feature: "近乎一根发光光棒的极简线形造型"
+    problem_solved: "需要极不显眼线形补光的空间"
+    transferable_technique: "极细铝型材+超长比例，可用于产品上的线形指示灯设计参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_条形灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "嵌入式面板形条形灯，正面完全平整，宽长比约1:4，白色边框，扩散面板充满整个开口"
+    product_name: "RAB Lighting 嵌入式平板条形灯（面板型）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "宽扁矩形，正面极平整，宽长比约1:4，边框细窄"
+      light_opening: "全面板出光，均匀漫射"
+      thermal: "背面隐藏，正面无任何结构外露"
+      cmf:
+        color: "白色边框+白色扩散面"
+        material: "铝框 + 扩散PC面板"
+        finish: "亚光白"
+      mounting: "嵌入式天花安装"
+      signature_detail: "正面完全平整无缝，与天花融为一体"
+    design_level:
+      score: 3
+      reason: "极度克制，视觉干净，但缺乏独特性"
+    design_tags: ["嵌入式", "平板", "面板型", "极简", "均匀出光"]
+    hero_feature: "正面完全平整，嵌入天花后近乎隐形"
+    problem_solved: "对天花整洁度要求极高的办公/商业空间"
+    transferable_technique: "面板灯边框比例控制，极细边框实现嵌入隐形效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_条形灯_006"
+    source_images:
+      - filename: "05__2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/05__2.jpg"
+        image_role: "hero"
+        visual_anchor: "宽体悬吊条形灯，弧形顶盖，底面有完整透明扩散板，端部带圆形传感器/控制按钮，链式吊挂"
+    product_name: "RAB Lighting 宽体悬吊条形灯（带传感器）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "宽体长矩形，弧形顶盖截面，端部收圆，长宽比约5:1"
+      light_opening: "底面全长透明/半透明扩散板出光"
+      thermal: "弧形顶盖一体式，靠壳体面积散热"
+      cmf:
+        color: "浅灰白色"
+        material: "钢板壳体 + PC扩散板"
+        finish: "亚光浅灰白喷涂"
+      mounting: "链式吊挂，端部小型挂钩"
+      signature_detail: "端部圆形控制旋钮/传感器，功能外显设计"
+    design_level:
+      score: 3
+      reason: "端部传感器圆形细节为功能外显点，整体比例平衡"
+    design_tags: ["悬吊", "链挂", "宽体", "传感器", "工业"]
+    hero_feature: "端部圆形传感器外显，功能可视化"
+    problem_solved: "大空间智能感应照明，工厂/仓库/车间场景"
+    transferable_technique: "端部功能模块外显圆形设计，可迁移至需要强调智能功能的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_条形灯_007"
+    source_images:
+      - filename: "06__2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/06__2.jpg"
+        image_role: "hero"
+        visual_anchor: "宽体wrap型条形灯，扩散罩呈弧面向两侧延伸，截面类似浅船底形，顶部为平板"
+    product_name: "RAB Lighting Wrap宽体弧面条形灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "宽扁矩形体，扩散罩底面弧形向两侧翻起，截面类似浅弧底，长宽比约3:1"
+      light_opening: "底面弧形全宽PC扩散面，出光角宽"
+      thermal: "顶部平板散热，背面有安装孔"
+      cmf:
+        color: "全白"
+        material: "钢板顶盖 + 白色PC弧面扩散罩"
+        finish: "亚光白"
+      mounting: "顶面固定螺钉安装"
+      signature_detail: "扩散罩底面弧形翻边，增大出光面积，是wrap灯特征"
+    design_level:
+      score: 3
+      reason: "弧形翻边扩散罩有特色，比标准条形灯更有体量感"
+    design_tags: ["wrap", "弧面", "宽体", "吸顶", "均匀出光"]
+    hero_feature: "弧面向两侧翻起的宽体扩散罩，出光角宽，光效柔和"
+    problem_solved: "需要大范围均匀照明的商业/工业空间，减少阴影"
+    transferable_technique: "弧形扩散罩设计加大出光角，提升空间均匀度，可迁移至工业灯具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_条形灯_008"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "标准strip条形灯，截面呈浅弧形，侧面光滑，端部有圆形传感器帽盖，整体修长"
+    product_name: "RAB Lighting Strip条形灯（端部圆盖）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "修长矩形，截面浅弧形，长宽比约8:1，端部圆形帽盖为视觉重点"
+      light_opening: "底面全长弧面PC扩散面"
+      thermal: "弧形顶盖金属一体式"
+      cmf:
+        color: "白色主体+灰色端盖"
+        material: "钢板 + PC扩散面"
+        finish: "亚光白"
+      mounting: "顶面贴装"
+      signature_detail: "端部圆形帽盖与修长灯体形成视觉对比，成为品牌识别点"
+    design_level:
+      score: 3
+      reason: "端部圆盖与长条形体的对比有一定设计感，但整体仍偏功能性"
+    design_tags: ["strip", "端盖", "修长", "贴装", "圆盖"]
+    hero_feature: "端部圆形帽盖与修长灯体的对比造型"
+    problem_solved: "走廊、停车场、仓库等需要线性照明的功能性空间"
+    transferable_technique: "端盖造型与灯体主截面形成形态对比，增加辨识度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_条形灯_009"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "宽体吸顶条形灯，截面为浅U形，底部弧形扩散罩，端部圆弧收尾，两端有安装孔"
+    product_name: "RAB Lighting 宽体吸顶条形灯（U形截面）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "宽体矩形，截面浅U形，端部圆弧收尾，长宽比约5:1"
+      light_opening: "底面弧形PC扩散罩全长出光"
+      thermal: "顶部平板金属散热"
+      cmf:
+        color: "全白"
+        material: "钢板 + PC弧面扩散罩"
+        finish: "亚光白"
+      mounting: "两端安装孔吸顶固定"
+      signature_detail: "U形截面+弧形底面扩散罩，形态饱满圆润"
+    design_level:
+      score: 2
+      reason: "造型较常规，无明显设计亮点，偏基础商业款"
+    design_tags: ["U形截面", "吸顶", "宽体", "圆弧", "商业"]
+    hero_feature: "宽体U形截面，形态饱满，出光均匀"
+    problem_solved: "商业、办公室的通用线性照明需求"
+    transferable_technique: "U形截面增加灯体体量感同时保持轻薄感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_条形灯_010"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "标准strip条形灯，截面呈梯形，顶盖平板，底面弧形扩散罩，端部有大型方形控制盒"
+    product_name: "RAB Lighting Strip条形灯（方形端控制盒）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "长条矩形，截面梯形，端部大型方形控制盒为视觉重点，长宽比约7:1"
+      light_opening: "底面全长弧面PC扩散罩"
+      thermal: "顶部平板金属散热"
+      cmf:
+        color: "白色主体+白色端控制盒"
+        material: "钢板 + PC扩散面"
+        finish: "亚光白"
+      mounting: "顶面贴装，端部控制盒带安装孔"
+      signature_detail: "端部大型方形控制盒，功能外显，有明确的智能照明暗示"
+    design_level:
+      score: 3
+      reason: "端部控制盒功能外显清晰，整体比例协调"
+    design_tags: ["strip", "控制盒", "智能", "贴装", "功能外显"]
+    hero_feature: "端部方形控制盒，智能控制功能外显化"
+    problem_solved: "需要集成控制功能的智能线性照明系统"
+    transferable_technique: "功能模块集中在端部的设计策略，保持主体造型简洁"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_条形灯_011"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "宽体吸顶条形灯，顶部斜面设计，两端切角造型，扩散面平整，整体有立体雕塑感"
+    product_name: "RAB Lighting 宽体切角条形灯（斜面顶盖）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "宽体矩形，顶部单侧斜面，两端45度切角，形态有空间动势，长宽比约4:1"
+      light_opening: "底面平整白色PC全宽扩散面"
+      thermal: "斜面顶盖兼作散热面，角度利于对流"
+      cmf:
+        color: "全白"
+        material: "钢板 + 白色PC扩散面"
+        finish: "亚光白"
+      mounting: "背面安装孔，吸顶固定"
+      signature_detail: "顶盖斜面设计+两端切角，在功能灯中加入了立体设计感"
+    design_level:
+      score: 4
+      reason: "斜面顶盖和切角设计突破常规条形灯造型，有明确设计意图"
+    design_tags: ["斜面", "切角", "立体", "吸顶", "有设计感"]
+    hero_feature: "顶部斜面+两端切角，赋予功能灯具立体雕塑感"
+    problem_solved: "有一定审美要求的商业/办公照明，兼顾功能与视觉"
+    transferable_technique: "顶盖斜切面设计提升体量感，可迁移至其他矩形灯具造型"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_条形灯_012"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/条形灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "超极简单边条形灯，截面呈直角三角形/薄片形，顶面完全平板，侧面露出细线形出光口，端部方形接线盒"
+    product_name: "RAB Lighting 极简薄型线形灯（三角截面）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "条形灯"]
+    design_language:
+      silhouette: "极薄超长线形，截面近三角形，顶面平板，侧底面线状出光，长宽比约25:1"
+      light_opening: "侧底面细线状全长出光口"
+      thermal: "薄铝型材一体式"
+      cmf:
+        color: "白色主体，端部方形白色接线盒"
+        material: "铝挤型材"
+        finish: "亚光白粉末涂层"
+      mounting: "顶面贴装，端部接线盒固定"
+      signature_detail: "三角截面+侧面出光，形态与出光方式高度统一"
+    design_level:
+      score: 4
+      reason: "三角截面与侧面出光设计高度统一，形式语言清晰，有设计主张"
+    design_tags: ["三角截面", "侧出光", "超薄", "极简", "铝型材"]
+    hero_feature: "三角截面与侧面线状出光高度统一的形态逻辑"
+    problem_solved: "建筑轮廓勾勒、间接照明或强调线形美学的空间"
+    transferable_technique: "截面形态与出光方式绑定设计，形式功能一体化手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

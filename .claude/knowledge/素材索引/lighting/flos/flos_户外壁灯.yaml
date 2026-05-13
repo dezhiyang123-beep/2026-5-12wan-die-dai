@@ -1,0 +1,140 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外壁灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外壁灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "flos_户外壁灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外壁灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "L形黄铜方管臂 + 悬浮乳白球形玻璃罩"
+    product_name: "IC Lights Outdoor Wall (Michael Anastassiades)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯", "装饰球形壁灯"]
+    design_language:
+      silhouette: "L形直角方管支臂从圆形壁座伸出，水平臂末端悬托一个完整球体；整体轮廓极简、对称感强，呈现几何构成美学"
+      light_opening: "全向漫射：乳白玻璃球体360°均匀散光，无定向遮光罩，光线柔和、无截光角，适合氛围照明而非功能照明"
+      thermal: "球形玻璃灯罩与金属臂分离，热量通过金属臂座传导散热；LED热负荷低，无可见散热鳍片"
+      cmf:
+        color: "拉丝黄铜色（Brushed Brass）"
+        material: "黄铜方管臂 + 吹制乳白硼硅玻璃球"
+        finish: "拉丝无光 / 玻璃哑光乳白"
+      mounting: "圆形法兰壁座，单螺丝中心固定，背面走线隐藏"
+      signature_detail: "L形方管直角折弯——两段等长直角管在转角处精密焊接，不加任何过渡圆弧，极度工业精准感"
+    design_level:
+      score: 5
+      reason: "IC Lights是Flos标志性系列，Michael Anastassiades设计，以最少构件（一根折管+一个球）达到最大视觉张力；黄铜版本尤为经典，具有收藏级辨识度"
+    design_tags:
+      - "极简几何"
+      - "球形漫射"
+      - "黄铜"
+      - "L形臂"
+      - "装饰性户外"
+      - "Michael Anastassiades"
+      - "IC Lights系列"
+      - "全向发光"
+    hero_feature: "L形方管臂从壁座悬伸托住球体——悬浮感与精密折弯的张力构成整件产品的唯一灵魂"
+    problem_solved: "在户外立面上以最少结构件提供装饰性漫射光，让灯具本身成为雕塑性装饰元素"
+    transferable_technique: "等长L形臂 + 球形发光体的比例关系可迁移至其他产品的悬臂结构设计；全向乳白玻璃漫射体可用于需要无眩光氛围照明的场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外壁灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外壁灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "深棕色L形臂 + 倒锥形金属灯罩，整体单色哑光"
+    product_name: "Captain Flint Outdoor Wall (Michael Anastassiades)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯", "定向遮光壁灯"]
+    design_language:
+      silhouette: "L形圆管支臂从圆形壁座伸出（与IC Lights同构），末端悬挂一个尖锥形灯罩；锥体顶端向上抵住横臂，形成'倒三角悬挂'的视觉张力"
+      light_opening: "锥形灯罩开口朝下，形成定向下射截光；底部圆形开口约60°光束，有效遮挡直视光源，防止眩光；天空方向完全遮蔽，符合暗天空要求"
+      thermal: "全金属锥形灯罩通体散热，无独立散热结构；小功率LED，热量通过壁座金属臂传导"
+      cmf:
+        color: "深棕红色（Rust Brown / 深巧克力棕）"
+        material: "压铸铝锥形灯罩 + 圆管金属臂"
+        finish: "哑光粉末喷涂，全件同色"
+      mounting: "大圆形法兰壁座，单点固定，背面走线"
+      signature_detail: "锥形灯罩顶端圆环卡扣在横臂上——灯罩像被'夹住'悬挂，而非焊死，形成一种轻盈的结构诚实感"
+    design_level:
+      score: 5
+      reason: "Captain Flint户外系列延续IC Lights同构逻辑，以锥形替换球形，定向遮光满足实际照明需求；深棕红色在户外金属产品中罕见，色彩选择本身即设计声明"
+    design_tags:
+      - "极简几何"
+      - "锥形遮光"
+      - "定向下射"
+      - "暗天空友好"
+      - "L形臂"
+      - "深棕红色"
+      - "Michael Anastassiades"
+      - "Captain Flint系列"
+      - "单色哑光"
+    hero_feature: "倒锥形灯罩顶端卡在横臂上的悬挂方式——结构外显、无多余装饰，锥体即是灯罩也是遮光器"
+    problem_solved: "在装饰性极简外观下提供有效的定向下射遮光，兼顾美观与户外照明功能性"
+    transferable_technique: "锥形开口朝下的截光逻辑可直接迁移到路灯、庭院灯设计；同构替换（球→锥）演变系列的设计方法论可复用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_户外壁灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/户外壁灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色金属竖向笼架结构 + 内嵌圆柱形透明玻璃管"
+    product_name: "Flos In Vitro Outdoor Wall (Philippe Starck)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯", "笼架型壁灯"]
+    design_language:
+      silhouette: "垂直圆柱体轮廓，上端圆形金属顶盖 + 四至五根金属肋条从顶盖向下延伸形成笼架，内套圆柱形透明玻璃灯管；整体比例瘦高，类工业试管形态"
+      light_opening: "顶部圆形开口由内反射镜构成；透明玻璃圆柱侧面360°透光，光线透过笼架金属肋条形成竖向光影条纹投射；底部开放，可向下漫射"
+      thermal: "金属笼架结构提供良好自然对流通风，透明玻璃内管散热效果优于密闭灯罩；顶部金属座兼做散热体"
+      cmf:
+        color: "哑光黑色"
+        material: "压铸铝顶座 + 弯曲金属肋条笼架 + 硼硅玻璃圆柱内管"
+        finish: "顶座哑光粉末喷涂黑；玻璃透明无涂层"
+      mounting: "圆形壁座侧面固定，背出线；臂长短，灯体紧贴墙面"
+      signature_detail: "金属肋条笼架——既是保护玻璃管的结构件，也是产生竖向光影条纹的装饰件，结构即装饰"
+    design_level:
+      score: 4
+      reason: "笼架+玻璃管的设计将工业试管形态转化为优雅户外照明；金属肋条的投影效果在使用状态下高度戏剧化；Philippe Starck户外设计经典之作"
+    design_tags:
+      - "笼架结构"
+      - "玻璃内管"
+      - "竖向光影"
+      - "工业形态"
+      - "360°漫射"
+      - "哑光黑"
+      - "Philippe Starck"
+      - "In Vitro系列"
+      - "结构即装饰"
+    hero_feature: "金属肋条笼架——在保护玻璃的同时将点光源转化为有竖向条纹韵律的光雕塑"
+    problem_solved: "在户外恶劣环境下保护精致的玻璃灯管，同时将保护结构本身转化为视觉特征"
+    transferable_technique: "肋条笼架保护透明发光体的结构逻辑可迁移至需要兼顾防护与美观的户外发光产品；竖向条状分割制造光影节奏的手法可迁移至落地灯、路灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

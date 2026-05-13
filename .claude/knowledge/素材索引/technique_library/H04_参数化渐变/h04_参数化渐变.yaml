@@ -1,0 +1,379 @@
+schema_version: product_dna_v1
+category:
+  primary: H04_参数化渐变
+  secondary: 灯具/鞋类
+  tertiary: ''
+source:
+  source_type: technique_library
+  source_folder: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H04_参数化渐变/
+  generated_at: '2026-05-09'
+products:
+- product_id: h04_artemide_001
+  source_images:
+  - filename: H04_artemide_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H04_参数化渐变/H04_artemide_001.jpg
+    image_role: hero
+    visual_anchor: Artemide Droplet吸顶灯：圆形光盘天花板上的同心圆水波纹浮雕渐变，三个大小递变的悬挂光环
+  product_name: Artemide Droplet 吸顶灯
+  brand_name: Artemide
+  brand_confidence: medium
+  category_path:
+  - H04_参数化渐变
+  - 灯具
+  design_language:
+    silhouette: 大圆盘吸顶板+3个悬挂圆环灯，圆环尺寸由大到小递变
+    light_opening: 圆环形LED发光，环形开口朝下朝侧方漫射
+    thermal: 吸顶板提供足够的散热面积
+    cmf:
+      color: 全白/银白色，金属镜面感
+      material: 铸铝圆盘（水波纹压铸）+铝合金圆环灯体
+      finish: 哑光白漆/圆环镜面银
+    mounting: 吸顶安装，圆环通过细钢丝悬挂
+    signature_detail: 两层参数化渐变叠加：①吸顶圆盘表面的同心圆水波纹浮雕——从中心向外波纹间距渐变扩大（中心密→外围疏），模拟水滴落水的涟漪扩散规律；②三个圆环直径参数化递变（约φ200/φ150/φ100mm，比例约2:1.5:1），高度错落形成三维渐变关系
+  design_level:
+    score: 5
+    reason: 双层参数化渐变（浮雕密度渐变+圆环尺寸渐变）的教科书案例，自然规律（水波纹）驱动的形态参数化，可迁移性极强
+  design_tags:
+  - H04参数化渐变
+  - 同心圆密度渐变
+  - 尺寸递变圆环
+  - 自然规律驱动
+  - Artemide
+  hero_feature: 吸顶盘水波纹浮雕的密度渐变（中心密→外围疏）模拟涟漪扩散
+  problem_solved: 吸顶灯需要在天花板上创造视觉焦点，静态形态通过密度渐变传递动态感
+  transferable_technique: 「密度渐变浮雕」手法可迁移至任何产品的大面积平坦表面：家电面板、音箱面板、家具面板；从中心或角落向边缘的密度渐变可用参数化建模直接生成，加工方式为CNC压铸或CNC铣削
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h04_artemide_002
+  source_images:
+  - filename: H04_artemide_002.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H04_参数化渐变/H04_artemide_002.jpg
+    image_role: hero
+    visual_anchor: Artemide Mercury吊灯系列：多个不规则椭圆形水银镜面灯体，尺寸和角度随机参数化分布
+  product_name: Artemide Mercury 吊灯系列
+  brand_name: Artemide
+  brand_confidence: medium
+  category_path:
+  - H04_参数化渐变
+  - 灯具
+  design_language:
+    silhouette: 多个卵形/椭圆形镜面灯体，大小不一，悬挂于同一吸顶圆盘
+    light_opening: 每个椭圆体内嵌LED，通过镜面折射发光，发光效果有漫射感
+    thermal: 分散式小型灯体，热量分散
+    cmf:
+      color: 全银/镜面铬，无色相，靠形态变化产生视觉层次
+      material: 吹制玻璃或注塑镜面外壳
+      finish: 全镜面高光
+    mounting: 多点悬挂，透明细钢丝连接吸顶盘
+    signature_detail: 参数化「随机渐变」手法：约10-12个椭圆形灯体，每个在长轴/短轴比例、悬挂高度、水平位置上均经过参数化控制的「受约束随机」布局——整体构成类似水银液滴聚集的有机云团；单个灯体内部卵形弧面产生聚焦光斑，多个灯体叠加形成光斑密度渐变效果
+  design_level:
+    score: 5
+    reason: 「受约束随机」参数化渐变的高阶示范：看似随机实则有规律，形态和光效双重渐变，是有机形态参数化的标杆案例
+  design_tags:
+  - H04参数化渐变
+  - 受约束随机分布
+  - 有机形态参数化
+  - 镜面反射渐变
+  - Artemide
+  hero_feature: 多个尺寸递变的椭圆镜面灯体构成「受约束随机」参数化云团
+  problem_solved: 单灯造型单调，多灯组合通过参数化尺寸/位置渐变创造有机整体感
+  transferable_technique: 「受约束随机」参数化渐变：在定义好的尺寸范围和分布密度参数内，允许随机变化，用于产品族群设计、模块化产品组合、灯具阵列、表面纹理密度分布
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h04_artemide_003
+  source_images:
+  - filename: H04_artemide_003.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H04_参数化渐变/H04_artemide_003.jpg
+    image_role: hero
+    visual_anchor: Artemide LED Net 吸顶灯：树枝状分叉结构从中心向外延伸，灯节点沿分支渐变缩小
+  product_name: Artemide LED Net 吸顶灯
+  brand_name: Artemide
+  brand_confidence: medium
+  category_path:
+  - H04_参数化渐变
+  - 灯具
+  design_language:
+    silhouette: 树枝分形结构，从中心吸顶盘向外辐射，末端节点小，中心节点大
+    light_opening: 每个节点含一个小圆形LED灯头，节点本身为发光单元
+    thermal: 分散发热，每节点热量极小
+    cmf:
+      color: 哑光白色，结构杆和节点全白
+      material: 铝合金结构杆+铝合金LED节点灯头
+      finish: 全哑光白喷漆
+    mounting: 吸顶安装
+    signature_detail: 树形分形参数化渐变：结构从中心单一主干→2级分叉→3级分叉，每级分叉后的杆径减小约15-20%，节点灯头直径同步缩小；LED节点间距随分叉等级增大而增大（中心密→外围疏）；整体呈现「中心-周边」双维度（尺寸+密度）渐变，与自然树枝生长规律完全对应
+  design_level:
+    score: 5
+    reason: 树形分形参数化渐变的最佳灯具案例：自然生长规律驱动的双维度渐变（尺寸+密度），结构本身即参数化规则的视觉化
+  design_tags:
+  - H04参数化渐变
+  - 分形树枝结构
+  - 双维度渐变
+  - 自然生长规律
+  - Artemide
+  hero_feature: 树枝分形结构的节点尺寸和分布密度随分叉等级参数化递减
+  problem_solved: 覆盖大面积天花板的灯具需要将大量光源组织成有机整体，分形树枝结构提供自然的参数化逻辑
+  transferable_technique: 「分形结构尺寸渐变」可迁移至任何需要覆盖面积的结构性产品：散热片翅片渐变、家具腿/撑杆从粗到细的递变、架子/支架结构从主干到末端的截面渐变
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h04_flos_001
+  source_images:
+  - filename: H04_flos_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H04_参数化渐变/H04_flos_001.jpg
+    image_role: hero
+    visual_anchor: Flos吊灯（三柱组合）：三个不等高的玻璃圆柱灯体组合，灯丝垂直线条的重复节奏
+  product_name: Flos 玻璃柱灯丝吊灯（三柱组合款）
+  brand_name: Flos
+  brand_confidence: medium
+  category_path:
+  - H04_参数化渐变
+  - 灯具
+  design_language:
+    silhouette: 三个六边形截面玻璃圆柱，高度各异（约高中低三级），顶底金属框固定
+    light_opening: 玻璃柱体透明，灯丝360°可见，侧向发光
+    thermal: 顶部金属框架导热，玻璃柱隔热
+    cmf:
+      color: 透明玻璃+铬色金属框+暖白灯丝光
+      material: 高硼硅玻璃柱+铬合金顶底框
+      finish: 玻璃高透明/金属镜面铬
+    mounting: 悬挂（单线）
+    signature_detail: 两层参数化渐变：①三个玻璃柱高度参数化递变（约400/320/260mm，比例递减约20%），形成阶梯式剪影；②每个柱内多根竖向LED灯丝以均匀间距重复排列（间距约15mm），灯丝的平行线条与玻璃柱的垂直方向强化纵向节奏——高度渐变是宏观参数化，灯丝间距是微观均布节奏
+  design_level:
+    score: 4
+    reason: 宏观（柱高递变）+微观（灯丝间距均布）双尺度参数化的清晰示范，视觉层次丰富
+  design_tags:
+  - H04参数化渐变
+  - 高度阶梯渐变
+  - 微观均布节奏
+  - 双尺度参数化
+  - Flos
+  hero_feature: 三柱高度参数化阶梯递变与柱内灯丝均布节奏，宏观和微观参数化双层叠加
+  problem_solved: 单一玻璃柱灯造型简单，通过高度递变组合形成丰富剪影
+  transferable_technique: 「多单元高度/尺寸阶梯渐变」可直接用于产品系列设计（大中小号）或单品内的多元件组合（音箱矩阵、模块化家具、展示架）；内部线条密度的均布节奏（灯丝/格栅/孔洞）可作为表面肌理的参数化控制依据
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h04_footwear_001
+  source_images:
+  - filename: H04_footwear_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H04_参数化渐变/H04_footwear_001.jpg
+    image_role: hero
+    visual_anchor: On Running Cloud 5跑鞋：鞋底CloudTec气垫单元的均匀阵列，鞋面网格疏密变化
+  product_name: On Running Cloud 5 跑鞋（灰白配色）
+  brand_name: On Running
+  brand_confidence: low
+  category_path:
+  - H04_参数化渐变
+  - 鞋类
+  design_language:
+    silhouette: 运动跑鞋轮廓，中底CloudTec气垫单元形成参数化阵列底面
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 灰/白主色，鞋面浅灰网布+白色中底+深灰外底
+      material: 针织网布鞋面+EVA中底+橡胶外底
+      finish: 鞋面纹理网格/中底消光白/外底橡胶哑光
+    mounting: N/A
+    signature_detail: CloudTec底部气垫阵列是参数化渐变的核心：约12-14个「C」形空心气垫单元沿鞋底纵向排列，从前掌到后跟单元大小逐渐增大（前小后大），单元间距保持均匀——尺寸渐变与生物力学（前掌需灵活/后跟需缓冲）对应；鞋面的分区设计也呈渐变：网布密度从鞋头向踝部渐变（前部疏→后部密）
+  design_level:
+    score: 4
+    reason: 功能驱动的参数化尺寸渐变案例：气垫单元从前到后的尺寸递增与生物力学需求精确对应，是「参数化服务功能」的清晰示范
+  design_tags:
+  - H04参数化渐变
+  - 功能驱动尺寸渐变
+  - 阵列单元递变
+  - 生物力学参数化
+  - 鞋类
+  hero_feature: CloudTec气垫单元从前掌到后跟的参数化尺寸递增，形态渐变即力学性能渐变
+  problem_solved: 跑鞋前掌需要轻盈灵活/后跟需要缓冲支撑，参数化渐变将两个需求整合为一个连续的形态逻辑
+  transferable_technique: 「功能梯度-形态参数化对应」：将产品不同位置的性能需求（硬度/密度/支撑/灵活性）直接映射为几何参数（单元尺寸/间距/厚度），实现形态渐变=性能渐变；可迁移至手柄握持区的纹理密度渐变、工具减重孔的尺寸渐变、防护产品的厚度渐变
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h04_footwear_002
+  source_images:
+  - filename: H04_footwear_002.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H04_参数化渐变/H04_footwear_002.jpg
+    image_role: hero
+    visual_anchor: On Running Cloud 5跑鞋（白色配色）：与footwear_001同款，白色版本更清晰展示底部CloudTec单元渐变
+  product_name: On Running Cloud 5 跑鞋（全白配色）
+  brand_name: On Running
+  brand_confidence: low
+  category_path:
+  - H04_参数化渐变
+  - 鞋类
+  design_language:
+    silhouette: 与footwear_001相同轮廓，白色配色使底部单元渐变更清晰可见
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 全白/米白，极简单色使形态参数化细节最大化可见
+      material: 针织鞋面+EVA中底+橡胶外底
+      finish: 鞋面纹理网格/底部消光白
+    mounting: N/A
+    signature_detail: 白色配色强化了参数化渐变的视觉清晰度：消除色彩干扰后，CloudTec单元从前到后的尺寸递增规律、单元之间的缝隙节奏、前掌到后跟的厚度渐变全部清晰可读；鞋面从踝部到鞋头的面料接缝线也更清晰，构成弧形分件线渐变体系
+  design_level:
+    score: 4
+    reason: 同款白色版本作为灰色版本的补充，白色配色使参数化形态更清晰展示，两张图组合使用参考价值更高
+  design_tags:
+  - H04参数化渐变
+  - 功能驱动尺寸渐变
+  - 单色展示参数化
+  - 阵列单元递变
+  - 鞋类
+  hero_feature: 全白配色消除色彩干扰，使CloudTec气垫单元的参数化渐变形态最大化清晰可见
+  problem_solved: 与footwear_001相同；白色版本更适合用作参数化形态的参考图（噪音更低）
+  transferable_technique: 「单色原型视图」作为参数化设计的参考图使用时，消除颜色干扰可让形态渐变规律更易被提取和学习；在做设计参考时优先选择低色彩对比的版本
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h04_footwear_003
+  source_images:
+  - filename: H04_footwear_003.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H04_参数化渐变/H04_footwear_003.jpg
+    image_role: hero
+    visual_anchor: On Running Cloudswift 3跑鞋：鞋面竖向肋条/褶皱从前到后的密度和弧度渐变
+  product_name: On Running Cloudswift 3 跑鞋（白色）
+  brand_name: On Running
+  brand_confidence: low
+  category_path:
+  - H04_参数化渐变
+  - 鞋类
+  design_language:
+    silhouette: 更高档/精致感跑鞋轮廓，鞋面有明显的竖向肋条造型感
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 全白，鞋面竖向肋条形成微妙的光影层次
+      material: 针织鞋面（竖向织纹）+EVA中底+CloudTec外底
+      finish: 鞋面柔软针织/中底消光白/蓝色细节点缀
+    mounting: N/A
+    signature_detail: 鞋面竖向肋条的参数化渐变是与footwear_001/002完全不同的手法维度：竖向肋条从鞋头到鞋身侧面弧度渐变（越靠近鞋头越直，越靠近鞋侧越弯曲），肋条间距从鞋头到踝部渐变（前部间距小→后部间距大）；底部CloudTec单元同时存在但此图重点是鞋面肋条的渐变，形成三维曲面上的平行线条渐变
+  design_level:
+    score: 4
+    reason: 三维曲面上平行线条的弧度+间距双重渐变，展示参数化手法在有机曲面上的高难度应用
+  design_tags:
+  - H04参数化渐变
+  - 曲面线条弧度渐变
+  - 间距递变
+  - 三维曲面参数化
+  - 鞋类
+  hero_feature: 鞋面竖向肋条在三维曲面上的弧度+间距双重参数化渐变，光影效果随形态渐变
+  problem_solved: 有机曲面鞋面需要避免单调，竖向肋条的参数化渐变在无颜色对比的情况下创造丰富光影层次
+  transferable_technique: 「三维曲面平行线条渐变」：在弯曲表面上的平行线条（肋条/凹槽/纹理线）随曲面曲率变化而调整弧度，同时保持间距渐变；可迁移至手柄曲面的纹理渐变、有机形态产品壳体的线条组织、椭球形音箱/灯具表面的分区线规律
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h04_foscarini_001
+  source_images:
+  - filename: H04_foscarini_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H04_参数化渐变/H04_foscarini_001.jpg
+    image_role: hero
+    visual_anchor: Foscarini Allegretto Assai吊灯（金色）：大量金色金属杆从中央轴向外辐射，杆的角度从顶部竖直到底部水平形成喇叭形渐变
+  product_name: Foscarini Allegretto Assai 吊灯（金色款）
+  brand_name: Foscarini
+  brand_confidence: medium
+  category_path:
+  - H04_参数化渐变
+  - 灯具
+  design_language:
+    silhouette: 喇叭/锥台形，约40-50根金属细杆从顶部紧束到底部外展，外轮廓呈锥形扩张
+    light_opening: 杆间隙透光，内置光源从缝隙间发光
+    thermal: 杆阵列开放结构，散热良好
+    cmf:
+      color: 全金色/黄铜色，高饱和金属光泽
+      material: 黄铜/铝合金镀金细杆+金属顶环
+      finish: 金色金属抛光/细杆均匀金属光
+    mounting: 悬挂（多根细线）
+    signature_detail: 角度渐变是核心参数化手法：约40根等长细杆的倾斜角度从顶部（接近0°/垂直）→底部（接近90°/水平）连续参数化递增，每根杆的倾斜角度增量约为2-3°；杆的分布在顶部紧密（小半径圆周）、底部稀疏（大半径圆周），自然形成密度渐变；底部杆末端向外展开形成类似花冠的造型
+  design_level:
+    score: 5
+    reason: 角度连续参数化渐变的教科书案例：等长杆通过倾斜角度的均匀递增创造出复杂的锥形有机形态，是参数化渐变「一个参数改变整个形态」的最佳示范
+  design_tags:
+  - H04参数化渐变
+  - 角度连续渐变
+  - 等长单元角度递变
+  - 放射状阵列
+  - Foscarini
+  hero_feature: 等长金属杆通过倾斜角度的均匀递增（0°→90°）构建出锥形有机整体，一参数=一形态
+  problem_solved: 如何用简单的重复单元（等长细杆）创造复杂有机形态——角度的参数化渐变是解法
+  transferable_technique: 「等长单元角度渐变」：使用相同长度/形状的基本单元，通过控制每个单元的倾斜角度参数实现形态的连续渐变；可迁移至散热片角度渐变、格栅叶片角度渐变、建筑幕墙板角度渐变；加工方式：CNC批量加工等长杆+参数化定位夹具组装
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h04_foscarini_002
+  source_images:
+  - filename: H04_foscarini_002.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H04_参数化渐变/H04_foscarini_002.jpg
+    image_role: hero
+    visual_anchor: Foscarini Allegretto Vivace吊灯（铜色）：与foscarini_001同系列但形态不同，细杆从顶部外展到腰部收束再到底部散开，形成双曲面轮廓
+  product_name: Foscarini Allegretto Vivace 吊灯（铜色款）
+  brand_name: Foscarini
+  brand_confidence: medium
+  category_path:
+  - H04_参数化渐变
+  - 灯具
+  design_language:
+    silhouette: 双曲面腰鼓形，细杆从顶部小圆→腰部最紧束→底部散开，轮廓呈双曲线
+    light_opening: 杆间隙透光
+    thermal: 开放结构，散热良好
+    cmf:
+      color: 铜棕色，温暖金属色调
+      material: 铝合金镀铜细杆
+      finish: 铜色金属抛光
+    mounting: 悬挂
+    signature_detail: 「非单调角度渐变」——与foscarini_001的单调递增不同，此款细杆角度先从顶部向外展（正角度）→腰部收束至最小直径（角度接近0/负角度转折）→底部再向外展（正角度），形成「腰鼓双曲线」轮廓；这是更复杂的二阶参数化渐变：角度渐变函数本身有极值点，形态由渐变规律的数学形式决定
+  design_level:
+    score: 5
+    reason: 带极值点的高阶参数化角度渐变，形态复杂度远超单调渐变，是同系列对比下展示参数化设计系统弹性的绝佳案例
+  design_tags:
+  - H04参数化渐变
+  - 非单调角度渐变
+  - 双曲面轮廓
+  - 高阶参数化
+  - Foscarini
+  hero_feature: 细杆角度渐变函数带极值点（腰部收束），产生双曲面腰鼓轮廓——参数规则决定形态复杂性
+  problem_solved: 同一参数化系统（等长杆+角度渐变）通过改变渐变函数曲线（单调→有极值）即可产生完全不同的形态，实现产品系列化
+  transferable_technique: 同一参数化系统下改变渐变函数形式（线性/带极值/指数/S曲线）可生成形态差异极大的产品系列；与foscarini_001配合使用，是设计参数化产品族群的教科书级参考
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

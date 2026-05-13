@@ -1,0 +1,851 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "户外装备"
+  secondary: "便携电源"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "goal_zero_pwr_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/01.jpg"
+        image_role: "hero"
+        visual_anchor: "左右两侧垂直铝制散热肋条与黑色橡胶包角形成强烈视觉节奏"
+    product_name: "Venture 75 Power Bank"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "移动电源"]
+    design_language:
+      silhouette: "竖向矩形砖块轮廓，四角大圆角橡胶包覆，整体厚重感强"
+      light_opening: "无"
+      thermal: "左右两侧垂直平行铝制散热肋条"
+      cmf:
+        color: "哑光黑（主体橡胶）+ 拉丝银（侧肋条）+ 荧光黄绿（底部型号标签）"
+        material: "ABS外壳 + 橡胶包角 + 铝合金侧板"
+        finish: "橡胶哑面 + 铝拉丝"
+      mounting: "无提手，直接手持"
+      signature_detail: "正面中央大尺寸圆角方形凹陷区内压印品牌斜线圆logo，底部荧光黄绿色型号条"
+    design_level:
+      score: 3
+      reason: "户外防护语言清晰，肋条+包角的结构表达有力，荧光色点缀品牌识别度高，但造型较为规整缺乏突破"
+    design_tags: ["防护包角", "散热肋条", "户外rugged", "双材质对比", "荧光点缀"]
+    hero_feature: "铝制垂直肋条侧板与橡胶包角包覆的双材质防护结构"
+    problem_solved: "户外环境下移动充电需要抗摔防尘，传统光滑电源包无法满足"
+    transferable_technique: "功能性肋条既作散热又作视觉节奏，可迁移至任何需要传达户外防护感的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/02.jpg"
+        image_role: "hero"
+        visual_anchor: "拉丝铝面板与中央大尺寸压印logo搭配侧边OLED状态显示屏"
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/06.jpg"
+        image_role: "angle"
+        visual_anchor: "另一角度展示侧边完整接口区和Display按钮"
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/07.jpg"
+        image_role: "kit"
+        visual_anchor: "与收纳袋和配件组合展示完整产品生态"
+      - filename: "15.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/15.jpg"
+        image_role: "kit"
+        visual_anchor: "与Nomad 20太阳能板+充电头+收纳袋组合套装"
+      - filename: "16.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/16.jpg"
+        image_role: "kit"
+        visual_anchor: "与Nomad 50太阳能板组合套装"
+    product_name: "Sherpa 100PD Power Bank"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "移动电源"]
+    design_language:
+      silhouette: "横向扁平板状，类似加厚平板电脑外形，四角切角处理"
+      light_opening: "无"
+      thermal: "无明显散热结构，依靠铝面板导热"
+      cmf:
+        color: "拉丝银灰（主面板）+ 哑光黑（边框/接口区）+ 荧光黄绿（品牌logo侧边条）"
+        material: "铝合金面板 + ABS框架"
+        finish: "铝拉丝亚光 + 塑料哑面"
+      mounting: "无提手，侧面配有腰带夹槽"
+      signature_detail: "面板中央超大圆角方形压印品牌斜线logo，侧边窄条OLED显示屏实时显示电量和功率"
+    design_level:
+      score: 4
+      reason: "铝面板工艺感强，大logo压印处理有品质感，侧边显示屏信息传达直观，整体比例控制到位"
+    design_tags: ["铝面板", "侧边显示屏", "扁平板状", "商务户外两用", "实时状态显示"]
+    hero_feature: "铝合金面板中央超大压印logo配合侧边实时功率电量OLED显示屏"
+    problem_solved: "需要同时给笔记本和多设备充电的户外旅行者缺乏一体化高功率解决方案"
+    transferable_technique: "侧边窄条状态显示屏不占正面面积又提供实时信息反馈，可迁移至工具类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_003"
+    source_images:
+      - filename: "01_dup2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/01_dup2.jpg"
+        image_role: "hero"
+        visual_anchor: "大型铝银壳体侧面格栅散热孔与顶部三区翻盖接口面板"
+    product_name: "Yeti 1500 Portable Power Station"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "储能电站"]
+    design_language:
+      silhouette: "横向长方体箱型，顶部有黑色ABS上盖覆盖接口区，整体比例宽大于高"
+      light_opening: "无"
+      thermal: "左侧面大面积平行水平格栅散热孔"
+      cmf:
+        color: "拉丝银（主面板）+ 哑光黑（顶盖/角部）+ 荧光黄绿（品牌logo条）"
+        material: "铝合金侧板 + ABS顶盖 + 钢骨架"
+        finish: "铝拉丝 + 塑料哑面"
+      mounting: "顶部左侧集成黑色搬运提手"
+      signature_detail: "顶部三分区翻盖接口面板（12V区/AC区/USB区），侧面Goal Zero品牌竖向标识条"
+    design_level:
+      score: 3
+      reason: "工业感强，功能分区清晰，但整体设计语言较为保守，与竞品区分度一般"
+    design_tags: ["储能电站", "三区接口面板", "格栅散热", "铝合金外壳", "提手设计"]
+    hero_feature: "顶部三独立区域翻盖接口面板配合侧面大面积格栅散热结构"
+    problem_solved: "户外营地或停电应急需要AC+DC+USB多路同时供电的大容量解决方案"
+    transferable_technique: "接口分区翻盖防护设计——按功能类型分区保护端口，可迁移至工具站或医疗设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_004"
+    source_images:
+      - filename: "02_dup2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/02_dup2.jpg"
+        image_role: "hero"
+        visual_anchor: "顶部宽幅三联仪表盘式LCD显示区显示输入功率/电量百分比/输出功率"
+      - filename: "03_dup2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/03_dup2.jpg"
+        image_role: "ecosystem"
+        visual_anchor: "与Tank Pro 4000扩展电池模块叠放组合展示模块化扩容能力"
+    product_name: "Yeti PRO 4000 Power Station"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "储能电站"]
+    design_language:
+      silhouette: "近正方体大型箱体，底部有凸出托底座，整体敦实稳重"
+      light_opening: "无"
+      thermal: "无明显外露散热结构，内置风冷"
+      cmf:
+        color: "拉丝银（主体面板）+ 哑光黑（顶部控制区/接口区）"
+        material: "铝合金面板 + ABS控制面板 + 钢结构"
+        finish: "铝拉丝 + 塑料哑面"
+      mounting: "顶部两侧集成提手位"
+      signature_detail: "顶部横贯全宽的三联分段LCD仪表显示（输入W/电量环形仪表/输出W），视觉冲击力强"
+    design_level:
+      score: 5
+      reason: "三联仪表盘显示区设计极具辨识度，工业仪表感营造出专业可信赖形象，模块化扩容逻辑清晰，是该品类设计标杆"
+    design_tags: ["三联仪表显示", "模块化扩容", "储能电站旗舰", "工业仪表感", "铝合金外壳"]
+    hero_feature: "横贯顶部全宽的三联分段LCD仪表显示屏——输入功率、环形电量仪表盘、输出功率三组并列"
+    problem_solved: "专业用户需要实时监控大功率储能设备状态，普通LED指示灯信息量严重不足"
+    transferable_technique: "三联横排仪表显示语言——将复杂电气状态可视化为工业仪表风格，可迁移至专业设备控制面板"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_005"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/04.jpg"
+        image_role: "hero"
+        visual_anchor: "与Venture 75同族设计语言但更小巧，侧面铝肋条更细密"
+    product_name: "Venture 35 Power Bank"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "移动电源"]
+    design_language:
+      silhouette: "竖向矩形砖块，比Venture 75略小，四角橡胶包角"
+      light_opening: "无"
+      thermal: "左右两侧垂直铝制散热肋条"
+      cmf:
+        color: "哑光黑（主体）+ 拉丝银（侧肋条）+ 荧光黄绿（底部标签）"
+        material: "ABS外壳 + 橡胶包角 + 铝合金侧板"
+        finish: "橡胶哑面 + 铝拉丝"
+      mounting: "无提手，直接手持"
+      signature_detail: "正面全黑配色下大压印logo，底部黄绿标签条"
+    design_level:
+      score: 3
+      reason: "设计语言与Venture 75高度相似，全黑版本减少了材质对比感，整体识别度略低"
+    design_tags: ["防护包角", "散热肋条", "户外rugged", "全黑配色"]
+    hero_feature: "全黑外壳配合银色铝肋条的双材质防护框架"
+    problem_solved: "需要稍小巧但同等防护级别的户外充电解决方案"
+    transferable_technique: "同一设计语言通过配色和尺寸形成产品家族系列感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_006"
+    source_images:
+      - filename: "04_dup2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/04_dup2.jpg"
+        image_role: "hero"
+        visual_anchor: "半透明烟熏色顶盖翻起露出接口区，圆形拨盘式LCD仪表盘"
+      - filename: "06_dup3.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/06_dup3.jpg"
+        image_role: "ecosystem"
+        visual_anchor: "与Goal Zero Alta便携冰箱组合展示户外生态联动"
+    product_name: "Yeti 700 Portable Power Station"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "储能电站"]
+    design_language:
+      silhouette: "中型横向方箱，铝合金侧柱+塑料本体，顶部半透明烟熏色翻盖为标志性特征"
+      light_opening: "无"
+      thermal: "无外露散热结构"
+      cmf:
+        color: "拉丝银（铝侧柱）+ 浅灰（主体）+ 烟熏半透明黑（顶盖）+ 荧光黄绿（脚垫/标识）"
+        material: "铝合金立柱 + ABS主体 + PC半透明烟熏顶盖"
+        finish: "铝拉丝 + 塑料哑面 + 烟熏透明"
+      mounting: "无提手（通过铝立柱侧握）"
+      signature_detail: "半透明烟熏色弧形顶盖可向上翻起保护接口区，圆形拨盘LCD仪表显示电量和功率"
+    design_level:
+      score: 4
+      reason: "烟熏色半透明顶盖是极具辨识度的设计细节，铝立柱增强高质感，圆形仪表盘有独特工业美学"
+    design_tags: ["烟熏顶盖", "铝立柱", "圆形仪表盘", "翻盖防护", "户外生态"]
+    hero_feature: "半透明烟熏色弧面翻盖——静置时保护接口区，翻起时露出完整操控区"
+    problem_solved: "中等容量户外电站需要在紧凑体积内实现接口防护与操控便利性的平衡"
+    transferable_technique: "半透明烟熏翻盖设计——兼具防护功能和视觉高级感，翻盖打开动作增加产品使用仪式感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_007"
+    source_images:
+      - filename: "05_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/05_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "同Yeti 700设计家族，型号标识YETI 500，烟熏顶盖完全打开状态"
+      - filename: "05_dup2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/05_dup2.jpg"
+        image_role: "ecosystem"
+        visual_anchor: "与Alta便携冰箱组合套装展示"
+    product_name: "Yeti 500 Portable Power Station"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "储能电站"]
+    design_language:
+      silhouette: "中小型横向方箱，与Yeti 700同设计语言但体积更小"
+      light_opening: "无"
+      thermal: "无外露散热结构"
+      cmf:
+        color: "拉丝银（铝侧柱）+ 浅灰（主体）+ 烟熏半透明黑（顶盖）+ 荧光黄绿（脚垫）"
+        material: "铝合金立柱 + ABS主体 + PC半透明烟熏顶盖"
+        finish: "铝拉丝 + 塑料哑面 + 烟熏透明"
+      mounting: "无提手"
+      signature_detail: "同族烟熏色翻盖，圆形LCD仪表盘，接口布局与Yeti 700相同"
+    design_level:
+      score: 3
+      reason: "设计语言与Yeti 700高度一致，体现良好家族系列感，但无独立设计突破点"
+    design_tags: ["烟熏顶盖", "铝立柱", "家族系列", "中小型电站"]
+    hero_feature: "烟熏半透明翻盖与铝立柱组合的家族化设计识别系统"
+    problem_solved: "需要比Yeti 300更大容量但比Yeti 700更紧凑的户外电站选项"
+    transferable_technique: "通过统一设计语言建立产品家族系列，尺寸递进即可覆盖不同容量需求"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_008"
+    source_images:
+      - filename: "06_dup2.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/06_dup2.jpg"
+        image_role: "hero"
+        visual_anchor: "显著的顶部圆弧形提手拱桥结构，荧光黄绿色提手内芯"
+    product_name: "Yeti 300 Portable Power Station"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "储能电站"]
+    design_language:
+      silhouette: "小型方箱，顶部带显眼圆弧提手拱，整体比例更接近正方形"
+      light_opening: "无"
+      thermal: "无外露散热结构"
+      cmf:
+        color: "拉丝银（铝侧柱）+ 浅灰（主体）+ 烟熏黑（顶盖）+ 荧光黄绿（提手内芯/脚垫）"
+        material: "铝合金立柱 + ABS主体 + PC烟熏顶盖 + 橡胶提手"
+        finish: "铝拉丝 + 塑料哑面"
+      mounting: "顶部圆弧形整体提手，荧光黄绿色内衬"
+      signature_detail: "大圆弧造型提手从机身两侧铝立柱连接弓起，荧光黄绿色提手内芯"
+    design_level:
+      score: 4
+      reason: "圆弧提手是该型号最强视觉记忆点，功能性强烈且造型语言独特，荧光绿内芯与整体配色协调"
+    design_tags: ["圆弧提手", "烟熏顶盖", "荧光提手", "铝立柱", "小型电站"]
+    hero_feature: "从机身两侧铝立柱弓起的大圆弧一体提手，荧光黄绿色橡胶内芯"
+    problem_solved: "小型电站需要方便单手提携，普通凸出小提手承重感和操控感都不够"
+    transferable_technique: "提手与结构件一体化设计——提手从承重结构点延伸，兼顾力学合理性与视觉完整性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_009"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/10.jpg"
+        image_role: "hero"
+        visual_anchor: "超薄卡片机型，全黑哑面外壳，logo垂直印刷，极简两段式分件线"
+    product_name: "Flip 36 Power Bank (Black)"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "移动电源"]
+    design_language:
+      silhouette: "信用卡比例超薄矩形，顶部端头略有倒角，整体极简"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全哑光黑（主体）+ 深灰（端部分件）"
+        material: "ABS + 工程塑料"
+        finish: "哑面磨砂"
+      mounting: "无提手"
+      signature_detail: "竖向侧面Goal Zero品牌标识印刷，底部Flip 36型号标识，侧边集成USB端口翻盖"
+    design_level:
+      score: 2
+      reason: "设计极简偏消费电子风格，与品牌户外rugged定位有明显反差，无强设计记忆点"
+    design_tags: ["超薄", "极简", "全黑", "消费电子风", "卡片式"]
+    hero_feature: "超薄卡片比例配合侧边内嵌充电端口翻盖"
+    problem_solved: "日常轻薄携带需求，不需要户外防护级别的城市用户"
+    transferable_technique: "侧边端口翻盖保护——紧凑机身内实现接口防护无需突出结构"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_010"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/11.jpg"
+        image_role: "hero"
+        visual_anchor: "Flip 36黄绿色阳极氧化铝版本，主体金属感明显更强"
+    product_name: "Flip 36 Power Bank (Yellow-Green)"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "移动电源"]
+    design_language:
+      silhouette: "信用卡比例超薄矩形，与黑色版同形"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "荧光黄绿色（主体阳极氧化铝）+ 哑光黑（端部ABS）"
+        material: "铝合金主体 + ABS端头"
+        finish: "铝阳极氧化 + 塑料哑面"
+      mounting: "无提手"
+      signature_detail: "金属铝阳极氧化荧光黄绿色主体，与黑色端部形成强对比，goal zero品牌标识侧面竖印"
+    design_level:
+      score: 3
+      reason: "铝阳极氧化荧光色比黑色版质感更高，材质升级明显，但形态仍偏普通"
+    design_tags: ["阳极氧化铝", "荧光黄绿", "双材质对比", "品牌色应用", "卡片式"]
+    hero_feature: "铝阳极氧化荧光黄绿主体与黑色ABS端头的鲜明双材质双色对比"
+    problem_solved: "需要有品牌辨识度同时兼顾金属质感的轻薄移动电源"
+    transferable_technique: "阳极氧化荧光色铝体+黑色端头——品牌色强化手法，低成本实现强识别度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_011"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/13.jpg"
+        image_role: "hero"
+        visual_anchor: "四个圆形无线充电垫串联成条状，中间荧光黄绿色连接件"
+    product_name: "Wireless Charging Bar (4-pad)"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "充电配件"]
+    design_language:
+      silhouette: "四圆垫串联的长条哑铃状，每个充电垫为略圆角方形，连接段收细"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "哑光黑（充电垫主体）+ 荧光黄绿（中间连接件）"
+        material: "ABS + 橡胶面层"
+        finish: "软触哑面"
+      mounting: "平铺于桌面，可分离模块"
+      signature_detail: "中央荧光黄绿色连接件将两侧各两个充电垫串联，形成可展开或折叠的蛇形排列"
+    design_level:
+      score: 3
+      reason: "形态独特，串联分节结构在充电器品类中罕见，荧光连接件功能性和视觉节点双重作用"
+    design_tags: ["无线充电", "串联模块", "荧光连接件", "多设备同充", "可折叠"]
+    hero_feature: "四圆垫串联蛇形展开结构，荧光黄绿色连接铰链兼作视觉焦点"
+    problem_solved: "多设备无线充电需要灵活排列充电位，固定位置的充电板无法适配"
+    transferable_technique: "模块串联铰接结构——用统一模块+连接件实现可展开配置，可迁移至模块化工具或医疗配件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_012"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/14.jpg"
+        image_role: "hero"
+        visual_anchor: "双槽AA电池充电器，顶部双USB输出，荧光绿顶盖环，V形分件线"
+    product_name: "Goal Zero Recharger (AA/AAA Battery Charger)"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "充电配件"]
+    design_language:
+      silhouette: "竖向矩形小砖块，正面双槽开口，顶部输出接口区"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "深灰（主体）+ 荧光黄绿（顶盖边缘）"
+        material: "ABS"
+        finish: "哑面磨砂"
+      mounting: "桌面直立放置"
+      signature_detail: "正面V形深槽用于放置AA电池，顶部荧光绿色上盖边缘为品牌标识色"
+    design_level:
+      score: 2
+      reason: "功能导向设计，V型电池槽处理直观，但整体造型语言平淡，与户外产品线设计张力差距大"
+    design_tags: ["电池充电器", "V形电池槽", "荧光点缀", "功能优先"]
+    hero_feature: "前置V形双电池槽可视化插入状态"
+    problem_solved: "户外使用AA/AAA电池设备需要随时补充电量"
+    transferable_technique: "可视化电池槽设计——让充电状态一目了然，无需额外指示灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_013"
+    source_images:
+      - filename: "01_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/01_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "五折展开硬框太阳能板，黑色全面板无框感，可调角度支架"
+    product_name: "Ranger 300 Briefcase Solar Panel"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "太阳能充电"]
+    design_language:
+      silhouette: "五折展开后为超宽横向矩形阵列，折叠后为提箱形态"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全黑（电池面板）+ 黑色铝框"
+        material: "单晶硅太阳能板 + 铝框 + 橡胶角件"
+        finish: "哑光黑面板 + 铝本色"
+      mounting: "后置可调折叠圆弧金属支架"
+      signature_detail: "五折面板展开后形成超宽水平阵列，Goal Zero品牌标识分布在各折叠面"
+    design_level:
+      score: 3
+      reason: "全黑一体面板视觉干净，五折结构在品类内较为罕见，展开状态极具视觉冲击力"
+    design_tags: ["太阳能板", "多折展开", "全黑面板", "可调支架", "户外充电"]
+    hero_feature: "五折展开超宽阵列设计，折叠后紧凑提箱形态"
+    problem_solved: "需要大功率太阳能充电但携带折叠要紧凑的户外用户"
+    transferable_technique: "多折展开平板产品——折叠态与展开态两种极端形态的反差设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_014"
+    source_images:
+      - filename: "03_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/03_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "硬框单片太阳能板，荧光黄绿四角护角，折叠金属A形支架"
+    product_name: "Boulder 30 Solar Panel"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "太阳能充电"]
+    design_language:
+      silhouette: "单片近正方形硬框面板，四角有荧光绿色护角件"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "哑光黑（面板）+ 黑色铝框 + 荧光黄绿（四角护角）"
+        material: "单晶硅太阳能板 + 铝框 + 橡胶护角"
+        finish: "哑光黑面板 + 铝拉丝框"
+      mounting: "背面折叠A形金属支架"
+      signature_detail: "四角荧光黄绿色护角件是品牌视觉系统的一部分，在黑色面板上形成强点缀"
+    design_level:
+      score: 3
+      reason: "四角荧光色护角设计具有强品牌一致性，与产品线整体语言高度协调，支架设计简洁"
+    design_tags: ["太阳能板", "荧光护角", "A形支架", "铝框", "品牌色点缀"]
+    hero_feature: "四角荧光黄绿色护角件在哑光黑面板上形成品牌识别锚点"
+    problem_solved: "固定角度倾斜放置获取最大太阳能，无需额外支架配件"
+    transferable_technique: "护角护边的品牌色点缀——功能性角件同时承担品牌色传递，一举两得"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_015"
+    source_images:
+      - filename: "04_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/04_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "双折硬框太阳能板，黑色全面板，荧光黄绿四角护角，粗壮A形支架"
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/05.jpg"
+        image_role: "angle"
+        visual_anchor: "稍小版本Boulder 100（单折板）同样角度展示"
+      - filename: "08_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/08_dup1.jpg"
+        image_role: "multi_unit"
+        visual_anchor: "多片Boulder 200 Briefcase叠放展示批量购买形态"
+      - filename: "09_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/09_dup1.jpg"
+        image_role: "multi_unit"
+        visual_anchor: "多片Boulder 200 Briefcase含连接线叠放"
+    product_name: "Boulder 200 Briefcase Solar Panel"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "太阳能充电"]
+    design_language:
+      silhouette: "双折合并后为方形公文包形态，展开后为宽幅横向矩形"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "哑光黑（面板）+ 黑色铝框 + 荧光黄绿（四角护角）"
+        material: "单晶硅太阳能板 + 铝框 + 橡胶护角"
+        finish: "哑光黑面板 + 铝拉丝框"
+      mounting: "背面折叠A形金属支架"
+      signature_detail: "折叠后公文包外形便携，展开后宽幅发电，四角荧光绿护角与Boulder系列统一"
+    design_level:
+      score: 4
+      reason: "折叠形态转换为公文包语义极为直观，双折设计平衡了便携性与发电面积，设计逻辑清晰"
+    design_tags: ["太阳能板", "双折公文包", "荧光护角", "铝框", "可折叠"]
+    hero_feature: "双折合并后呈现公文包轮廓，展开即刻变为大面积发电板"
+    problem_solved: "需要较大功率太阳能充电但携带时希望拎包形式的用户"
+    transferable_technique: "产品折叠态赋予熟悉日用品造型语义（公文包），降低认知成本"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_016"
+    source_images:
+      - filename: "06_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/06_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "四折软布面太阳能板完全展开，四角布环挂点，织物分件线清晰"
+    product_name: "Nomad 50 Solar Panel"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "太阳能充电"]
+    design_language:
+      silhouette: "四折展开后为横向矩形，折叠后为厚书本形态，布质外壳"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全黑（面板）+ 黑色织物外框 + 荧光黄绿（品牌标签）"
+        material: "单晶硅太阳能板 + 织物外框 + 金属挂点"
+        finish: "哑光黑面板 + 织物纹理"
+      mounting: "四角金属D形挂点，可挂包或绑扎"
+      signature_detail: "织物包裹边框配合四角D形挂点，可挂在背包外侧行进充电，品牌黄绿色标签条"
+    design_level:
+      score: 3
+      reason: "软体户外语言清晰，D形挂点设计功能性强，织物外框与硬框Boulder形成有效产品线区分"
+    design_tags: ["太阳能板", "软体织物", "D形挂点", "四折展开", "背包外挂"]
+    hero_feature: "四角D形挂点允许挂载于背包外侧行进同步充电"
+    problem_solved: "徒步时需要边走边充，硬框太阳能板无法外挂于背包"
+    transferable_technique: "软体+挂点设计——产品变身为可附着于其他装备的模块，解锁新的使用场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_017"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/21.jpg"
+        image_role: "hero"
+        visual_anchor: "双折小型软体太阳能板，细钢丝支架支撑，荧光黄绿分件线居中"
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/03.jpg"
+        image_role: "kit"
+        visual_anchor: "与Venture 35电源银行组合套装展示"
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/08.jpg"
+        image_role: "kit"
+        visual_anchor: "与Venture 75电源银行组合套装"
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/09.jpg"
+        image_role: "kit"
+        visual_anchor: "与Venture 35和Lighthouse灯组合三件套"
+    product_name: "Nomad 10 Solar Panel"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "太阳能充电"]
+    design_language:
+      silhouette: "双折后接近正方形，展开为横向矩形，柔性面板"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全黑（面板）+ 黑色织物边框 + 荧光黄绿（中央折叠线标签）"
+        material: "单晶硅软体太阳能板 + 织物外框"
+        finish: "哑光黑面板 + 织物纹理"
+      mounting: "四角D形橡胶挂点，超细钢丝支架"
+      signature_detail: "中央折叠线位置荧光黄绿色品牌+型号标签条，细钢丝弓形支架极简"
+    design_level:
+      score: 3
+      reason: "小巧轻便，细钢丝支架有精致感，但外观比较朴实，产品线中设计辨识度一般"
+    design_tags: ["太阳能板", "软体", "D形挂点", "双折", "紧凑轻量"]
+    hero_feature: "超细钢丝弓形支架与软体太阳能面板的轻量组合"
+    problem_solved: "需要最轻最紧凑的太阳能充电方案的超轻量徒步场景"
+    transferable_technique: "细钢丝支架——最小材料量实现稳定支撑，可迁移至轻量化户外设备支架设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_018"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/22.jpg"
+        image_role: "hero"
+        visual_anchor: "Nomad 5单折超小型太阳能板，黑框+灰色角件，细钢丝弓形支架"
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/12.jpg"
+        image_role: "kit"
+        visual_anchor: "与Guide 12电池充电器组合套装"
+    product_name: "Nomad 5 Solar Panel"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "太阳能充电"]
+    design_language:
+      silhouette: "近正方形单片硬质面板，白色铝框，四角金属灰护角"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "哑光黑（面板）+ 白色铝框 + 金属灰（角护件）+ 荧光黄绿（底部标签）"
+        material: "单晶硅太阳能板 + 铝框 + 金属角件"
+        finish: "哑光黑面板 + 白色铝框"
+      mounting: "细钢丝弓形支架"
+      signature_detail: "白色铝框在黑色面板四周形成明显白边，与Nomad 10软体版形成材质语言差异"
+    design_level:
+      score: 2
+      reason: "白框配色与品牌主色系偏差较大，形态普通，设计语言与同系列产品一致性弱"
+    design_tags: ["太阳能板", "白色边框", "单片硬框", "入门级", "轻量"]
+    hero_feature: "白色铝框与黑色太阳能面板的高对比度配色"
+    problem_solved: "预算有限的入门用户需要最基础的太阳能手机充电方案"
+    transferable_technique: "高对比度边框设计——白框在黑色功能面板上形成强边界感，增加辨识度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_019"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/18.jpg"
+        image_role: "hero"
+        visual_anchor: "四折横向超宽太阳能板，深灰色面板+黑色细铝框，双细钢丝支架"
+      - filename: "19.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/19.jpg"
+        image_role: "multi_unit"
+        visual_anchor: "多片叠放展示批量场景"
+      - filename: "20.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/20.jpg"
+        image_role: "multi_unit"
+        visual_anchor: "更多片叠放"
+    product_name: "Ranger 400 Foldable Solar Panel"
+    brand_name: "Goal Zero"
+    brand_confidence: "medium"
+    category_path: ["户外装备", "便携电源", "太阳能充电"]
+    design_language:
+      silhouette: "四折后为长条形，展开为超宽横向大板"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "深灰（面板）+ 黑色细铝框"
+        material: "单晶硅太阳能板 + 细铝框"
+        finish: "深灰面板 + 铝本色"
+      mounting: "双细钢丝支架"
+      signature_detail: "深灰色面板非全黑，与Boulder系列形成细微产品线差异，极细铝框减少视觉重量"
+    design_level:
+      score: 3
+      reason: "极细框设计有轻薄感，深灰面板差异化配色是设计亮点，但整体相对低调"
+    design_tags: ["太阳能板", "四折", "深灰面板", "细铝框", "大功率"]
+    hero_feature: "极细铝框配合深灰色面板呈现轻薄精致感"
+    problem_solved: "需要大功率折叠太阳能但希望产品更轻薄精致的用户"
+    transferable_technique: "极细边框设计——减少边框视觉重量，让功能面积看起来更大更纯粹"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "具体型号未能从图中完全确认，深灰面板可能是新一代Ranger系列"
+
+  - product_id: "goal_zero_pwr_020"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/23.jpg"
+        image_role: "hero"
+        visual_anchor: "两片Ranger系列太阳能板V形对立架设，双支架展示系统化部署场景"
+      - filename: "24.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/24.jpg"
+        image_role: "multi_unit"
+        visual_anchor: "多片Nomad软体板折叠堆放，展示批量存储"
+    product_name: "Ranger Solar Panel System (Dual Setup)"
+    brand_name: "Goal Zero"
+    brand_confidence: "medium"
+    category_path: ["户外装备", "便携电源", "太阳能充电"]
+    design_language:
+      silhouette: "双板V形展开对立放置，从正面看形成蝴蝶或山峰剪影"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全黑（面板）+ 黑色铝框"
+        material: "单晶硅太阳能板 + 铝框"
+        finish: "哑光黑面板"
+      mounting: "圆弧形金属支架，左右对称"
+      signature_detail: "圆弧支架从中央向外撑开面板，双板V形呈现对称性与秩序感"
+    design_level:
+      score: 3
+      reason: "双板V形部署场景图有视觉冲击力，圆弧支架设计优雅，但这是场景展示而非单一产品"
+    design_tags: ["太阳能板", "系统化部署", "V形双板", "圆弧支架", "场景展示"]
+    hero_feature: "双板V形对立架设形成强对称构图，圆弧支架增加优雅感"
+    problem_solved: "需要双向追光最大化发电效率的固定营地场景"
+    transferable_technique: "对称双体展开结构——两个模块V形展开形成稳定三角形底座，支撑无需额外配件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "场景展示图，具体产品型号需进一步确认"
+
+  - product_id: "goal_zero_pwr_021"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/25.jpg"
+        image_role: "hero"
+        visual_anchor: "四折超大横向太阳能板，深灰面板，极细双支架，目测400W级别"
+      - filename: "26.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/26.jpg"
+        image_role: "angle"
+        visual_anchor: "Boulder 50双折硬框面板，荧光绿四角护角，经典Boulder语言"
+    product_name: "Boulder 50 Solar Panel"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "便携电源", "太阳能充电"]
+    design_language:
+      silhouette: "双折硬框，展开为宽矩形，比Boulder 30更宽"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "哑光黑（面板）+ 黑色铝框 + 荧光黄绿（四角护角）"
+        material: "单晶硅太阳能板 + 铝框 + 橡胶护角"
+        finish: "哑光黑面板 + 铝框"
+      mounting: "折叠A形金属支架"
+      signature_detail: "同Boulder系列的荧光黄绿四角护角语言，是Boulder产品线视觉一致性的核心"
+    design_level:
+      score: 3
+      reason: "Boulder系列设计语言成熟统一，四角护角是产品线强辨识符号，双折形态紧凑实用"
+    design_tags: ["太阳能板", "Boulder系列", "荧光护角", "铝框", "双折"]
+    hero_feature: "Boulder产品线标志性荧光黄绿四角护角系统"
+    problem_solved: "中功率营地太阳能充电，需要耐用防护且固定倾角架设"
+    transferable_technique: "产品线护角标识系统——护角颜色作为产品线身份标志，跨尺寸统一识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_pwr_022"
+    source_images:
+      - filename: "27.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/便携电源/27.jpg"
+        image_role: "hero"
+        visual_anchor: "单片大尺寸刚性太阳能板，全黑面板细黑铝框，极简无附件造型"
+    product_name: "Goal Zero Rigid Solar Panel (200W)"
+    brand_name: "Goal Zero"
+    brand_confidence: "medium"
+    category_path: ["户外装备", "便携电源", "太阳能充电"]
+    design_language:
+      silhouette: "大型竖向矩形单片刚性面板，无支架附件"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全黑（面板+框）"
+        material: "单晶硅太阳能板 + 铝框"
+        finish: "哑光黑全系"
+      mounting: "独立面板，需外部安装"
+      signature_detail: "全黑一体感极强，框与面板颜色统一，无任何色彩打断"
+    design_level:
+      score: 3
+      reason: "全黑一体极简美学突出，但无任何识别性设计细节，品牌识别度低"
+    design_tags: ["太阳能板", "刚性面板", "全黑", "极简", "固定安装"]
+    hero_feature: "全黑铝框与面板颜色完全统一，消除边框感"
+    problem_solved: "固定安装场景（车顶/建筑）需要低视觉干扰的太阳能板"
+    transferable_technique: "框与面板同色统一——消除视觉分割线，让产品整体感更强"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "具体型号不确定，可能是200W刚性板，需要对比官网确认"

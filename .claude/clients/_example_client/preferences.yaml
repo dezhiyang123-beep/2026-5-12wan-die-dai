@@ -1,0 +1,12 @@
+# 示例客户偏好文件
+# Step 05 加载，调整激进/保守比例
+# 每个项目结束后 Step 10 更新
+
+design_preference:
+  risk_tolerance: "示例：medium"  # low/medium/high
+  style_preference: "示例：偏工业硬朗"
+  innovation_appetite: "示例：愿意看边界款但最终选安全款"
+
+feedback_history:
+  - "示例：不喜欢过于精致的设计"
+  - "示例：偏好有力量感的造型"

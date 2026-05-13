@@ -1,0 +1,283 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "工地设备"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/工地设备/"
+  generated_at: "2026-05-08"
+  note: "含两个子文件夹：工地音箱(9图，实为音箱+对讲机+配件)，工地风扇(1图)"
+
+products:
+  - product_id: "dewalt_工地设备_001"
+    source_images:
+      - filename: "工地设备__工地音箱__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/工地设备/工地设备__工地音箱__01.jpg"
+        image_role: "hero"
+        visual_anchor: "矩形工地蓝牙音箱正面，大面积黑色金属蜂窝网格上印DEWALT黄色字，黄色机身两侧，顶部按键排，黑色橡胶护角"
+    product_name: "DeWalt Job Site Bluetooth Speaker"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "工地设备"
+      - "蓝牙音箱"
+    design_language:
+      silhouette: "扁平横向矩形，正面黑色金属蜂窝网格几乎覆盖全部正面，黄色机身在两侧露出窄条，黑色橡胶四角保护"
+      light_opening: "N/A（扬声器产品）"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（金属蜂窝网格/橡胶护角）+ 黄色（机身）+ 白色（按键图标）"
+        material: "工程塑料外壳，金属冲孔蜂窝网格，橡胶护角"
+        finish: "哑光黄塑料，黑色金属蜂窝网格"
+      mounting: "20V MAX电池或市电双供电；底部可与DeWalt系统配件配合使用"
+      signature_detail: "大面积金属蜂窝网格占据正面，DEWALT黄色字体印刷其上，字体本身作为设计元素"
+    design_level:
+      score: 4
+      reason: "蜂窝网格正面将扬声器功能元素与品牌标识完美融合，DEWALT字体印在网格上极具视觉张力，工业感强"
+    design_tags:
+      - "蓝牙音箱"
+      - "蜂窝网格"
+      - "品牌印刷在功能面"
+      - "H08_对比强调"
+      - "H11_功能外显"
+    hero_feature: "整面黑色金属蜂窝网格+DEWALT黄色大字，扬声器网格面即品牌面，一体化"
+    problem_solved: "工地嘈杂环境下的音乐播放，双供电（电池+市电）适应无电源工地"
+    transferable_technique: "将功能元素（扬声器网格）与品牌标识合一，网格面即logo面（H11功能外显+H08对比）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_工地设备_002"
+    source_images:
+      - filename: "工地设备__工地音箱__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/工地设备/工地设备__工地音箱__04.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱形工地蓝牙音箱，黄色桶身，顶部朝上出声孔+黑色控制条带（蓝牙/电源/播放/音量键），底部弧形黑色支脚+卡扣夹"
+    product_name: "DeWalt Compact Bluetooth Speaker"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "工地设备"
+      - "蓝牙音箱"
+    design_language:
+      silhouette: "竖立短圆柱形，顶部向上发声，腰部黑色控制环带，底部弧形夹具可固定于各种杆/架"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（圆柱主体）+ 黑色（控制腰带/底部夹具/DeWalt logo）"
+        material: "工程塑料，橡胶腰带"
+        finish: "哑光黄，黑色橡胶腰带"
+      mounting: "底部弹性夹具可夹持于脚手架横杆/腰带/工具车；USB-C充电"
+      signature_detail: "底部弧形弹性夹具是核心设计点，让音箱成为可挂载的工地配件"
+    design_level:
+      score: 3
+      reason: "圆柱形紧凑，夹具设计实用，黄黑配色统一，但造型较普通，无突破性视觉创新"
+    design_tags:
+      - "蓝牙音箱"
+      - "圆柱形"
+      - "夹具挂载"
+      - "工地便携"
+    hero_feature: "底部弧形弹性夹具，让音箱可挂到脚手架/工具车/腰带上随身移动"
+    problem_solved: "单人作业时需要近距离音乐陪伴，夹具固定免手持"
+    transferable_technique: "底部弹性夹具作为产品的万能挂载接口（非专用支架，适配各种杆状物）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_工地设备_003"
+    source_images:
+      - filename: "工地设备__工地音箱__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/工地设备/工地设备__工地音箱__02.jpg"
+        image_role: "hero"
+        visual_anchor: "工地收音机（旧款），黄色机身+黑色方管保护框架，FM天线，LCD显示屏，蓝牙，多频道预设按键，双侧黑色保护栏杆"
+      - filename: "工地设备__工地音箱__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/工地设备/工地设备__工地音箱__03.jpg"
+        image_role: "hero"
+        visual_anchor: "工地收音机（新款），黄色机身，两侧独立大圆形扬声器+中央控制面板，天线，黑色防护框，更宽扁比例"
+    product_name: "DeWalt Job Site Radio"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "工地设备"
+      - "工地收音机"
+    design_language:
+      silhouette: "矩形手提盒形态，黑色钢管保护框架环绕四周，FM天线从顶部斜向伸出，两侧圆形扬声器鼓出机身外"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（机身）+ 黑色（保护框架/扬声器/控制面板）"
+        material: "工程塑料机身，钢管保护框架，橡胶防护角"
+        finish: "哑光黄，黑色粉末喷涂钢管"
+      mounting: "顶部提手提携；支持20V MAX电池/12V MAX电池/市电三种供电"
+      signature_detail: "黑色钢管保护框架结构外露，为脆弱电子设备提供工地保护，框架即视觉特征"
+    design_level:
+      score: 4
+      reason: "外露钢管防护框架是工地电子设备特有设计语言，功能性防护成为美学特征，识别度极高"
+    design_tags:
+      - "工地收音机"
+      - "钢管防护框架"
+      - "FM+蓝牙"
+      - "H09_隐藏工程的反向（主动外露结构）"
+    hero_feature: "黑色钢管防护框架完整包围黄色电子机身，框架是工地环境下的装甲语言"
+    problem_solved: "工地摔落/碰撞/粉尘环境下保护电子显示屏和扬声器"
+    transferable_technique: "外露钢管防护框架作为产品的工地盔甲语言，主动暴露结构即设计（反H09手法）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_工地设备_004"
+    source_images:
+      - filename: "工地设备__工地音箱__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/工地设备/工地设备__工地音箱__05.jpg"
+        image_role: "hero"
+        visual_anchor: "IP-67对讲机+6联座充电底座，对讲机黑色机身+黄色面板+LCD蓝色显示屏，6位黄色插槽底座"
+      - filename: "工地设备__工地音箱__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/工地设备/工地设备__工地音箱__06.jpg"
+        image_role: "hero"
+        visual_anchor: "IP-67对讲机正面视角，全黑+黄色矩形面框，PTT大按钮，LCD液晶屏，底部扬声器格栅"
+      - filename: "工地设备__工地音箱__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/工地设备/工地设备__工地音箱__08.jpg"
+        image_role: "hero"
+        visual_anchor: "两台对讲机并排+各自充电底座，IP-67，黑体+黄色面框，LCD蓝屏，左右两种角度展示"
+    product_name: "DeWalt IP-67 Walkie Talkie / Two-Way Radio"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "工地设备"
+      - "对讲机"
+    design_language:
+      silhouette: "标准对讲机矩形体，顶部天线斜向伸出，黄色矩形面框套住黑色正面，底部圆角扬声器格栅"
+      light_opening: "N/A（非发光产品，LCD蓝色背光屏）"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（主体/天线）+ 黄色（正面矩形框/底部格栅强调）"
+        material: "工程塑料，橡胶防护包边，钢质腰夹"
+        finish: "哑光黑，黄色注塑面框"
+      mounting: "腰夹随身携带；6联充电座可同时为6台充电；IP-67防尘防水"
+      signature_detail: "黄色矩形面框将黑色正面收纳其中，如同黑色面孔戴了黄色镜框，品牌色最小化精准使用"
+    design_level:
+      score: 3
+      reason: "IP-67工地对讲机，黄色面框精准点缀，6联充电座有工地管理感，整体设计实用"
+    design_tags:
+      - "对讲机"
+      - "IP-67"
+      - "黄色面框"
+      - "6联充电"
+      - "H03_分件线设计"
+    hero_feature: "黄色矩形面框将黑色机身分件，最小化品牌色使用实现最大化识别"
+    problem_solved: "工地多工种团队通信，IP-67防水防尘，6联充电座统一集中管理"
+    transferable_technique: "品牌色作为面框/边框最小化使用策略：黑色主体+黄色边框（H03分件线）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_工地设备_005"
+    source_images:
+      - filename: "工地设备__工地音箱__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/工地设备/工地设备__工地音箱__07.jpg"
+        image_role: "hero"
+        visual_anchor: "对讲机远程扬声器话筒（shoulder mic），方形黄色外框+黑色金属格栅面，底部DEWALT logo，黑色螺旋线缆"
+      - filename: "工地设备__工地音箱__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/工地设备/工地设备__工地音箱__09.jpg"
+        image_role: "scene"
+        visual_anchor: "对讲机配件组合展示：透明气管耳机（左）+有线耳机+领夹+线控（右），无DeWalt logo"
+    product_name: "DeWalt Two-Way Radio Accessories (Speaker Mic + Earpiece)"
+    brand_name: "DeWalt"
+    brand_confidence: "medium"
+    category_path:
+      - "电动工具"
+      - "工地设备"
+      - "对讲机配件"
+    design_language:
+      silhouette: "扬声器话筒：方形，黄色面框+黑色网格正面，领夹背面；耳机套件：黑色线缆+透明气管+耳塞"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "话筒：黄色（外框）+黑色（网格/线缆）；耳机：全黑+透明气管"
+        material: "工程塑料话筒，金属网格，橡胶线缆"
+        finish: "哑光黄，黑色金属网格"
+      mounting: "话筒领夹夹于肩部/领子；耳机插入对讲机3.5mm接口"
+      signature_detail: "话筒面框与对讲机本体使用同款黄色面框设计语言，配件与主机视觉统一"
+    design_level:
+      score: 3
+      reason: "话筒与对讲机设计语言统一，黄色面框延续，配件生态系统视觉一致性好"
+    design_tags:
+      - "对讲机配件"
+      - "扬声器话筒"
+      - "气管耳机"
+      - "配件系统"
+    hero_feature: "话筒面框与主机相同黄框设计，配件即主机的缩小版形态"
+    problem_solved: "嘈杂工地需要扬声器远程话筒/耳机免触摸对讲机操作"
+    transferable_technique: "配件与主机共用设计语言，通过面框颜色建立产品家族识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_工地设备_006"
+    source_images:
+      - filename: "工地设备__工地风扇__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/工地设备/工地设备__工地风扇__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX无绳工地风扇，黑色前格栅+DeWalt黄色轮毂logo，黄色机壳，右侧黑色握把，底部黄色夹具/钩挂底座，仰角可调"
+    product_name: "DeWalt 20V MAX Cordless Job Site Fan"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "工地设备"
+      - "工地风扇"
+    design_language:
+      silhouette: "圆形风扇头悬于黄色弧形底座上，可仰俯调节角度，右侧黑色握把从底座延伸，底部夹具可钩挂于脚手架"
+      light_opening: "N/A（非发光产品）"
+      thermal: "N/A（制冷产品）"
+      cmf:
+        color: "黄色（机壳/底座）+ 黑色（风扇格栅/握把/底部夹具）"
+        material: "工程塑料外壳，ABS风叶，橡胶握把"
+        finish: "哑光黄注塑，黑色格栅"
+      mounting: "底部夹具可夹于脚手架杆；20V MAX电池侧插；支持市电适配器"
+      signature_detail: "风扇圆形格栅中央的DEWALT黄色轮毂徽标，将品牌植入旋转核心"
+    design_level:
+      score: 3
+      reason: "脚手架夹具设计实用，黄黑配色系统统一，轮毂DEWALT logo有趣，整体设计功能导向"
+    design_tags:
+      - "工地风扇"
+      - "无绳"
+      - "20V MAX"
+      - "脚手架夹具"
+      - "H11_功能外显"
+    hero_feature: "底部脚手架夹具使风扇可挂载于任意横杆，从地面放置变为空中任意位置"
+    problem_solved: "工地作业人员夏季降温，无绳自由移动，夹具固定于脚手架吹向精确位置"
+    transferable_technique: "夹具挂载接口将落地设备变为空中挂载设备，覆盖更多使用场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,149 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "智能灯·氛围灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/智能灯·氛围灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "pl_智能灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/智能灯·氛围灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "超薄LED灯带自由盘绕成双螺旋造型，粉红色渐变至暖黄色，无任何固定支架"
+    product_name: "Philips Hue Gradient Lightstrip（第一代螺旋展示）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "智能灯·氛围灯"]
+    design_language:
+      silhouette: "灵活软性带状，可任意弯曲，展示形态为自由双螺旋；无固定外形"
+      light_opening: "正面线形连续出光，LED点阵清晰可见，多区段独立彩色"
+      thermal: "柔性PCB基材，自然散热"
+      cmf:
+        color: "白色/透明基带，显示彩色光（渐变品红→暖黄）"
+        material: "柔性硅胶/PVC包覆LED灯带"
+        finish: "半透明柔性外皮"
+      mounting: "背面3M胶条粘贴，可贴于任何平面；展示时自立盘绕"
+      signature_detail: "单条灯带实现多彩渐变（Gradient）——色彩从一端连续变化到另一端，非单色切换"
+    design_level:
+      score: 4
+      reason: "Gradient多段彩色是Hue生态核心技术差异点；柔性形态+彩色渐变的视觉表现力强，产品照片即营销素材"
+    design_tags: ["灯带", "柔性", "渐变彩光", "Gradient", "Hue", "H04参数化", "H11功能外显"]
+    hero_feature: "单条灯带同时呈现多段渐变色——彩虹不需要多个光源"
+    problem_solved: "电视背光/橱柜底部/床底需要有氛围感的彩色辅助光，单色灯带视觉单调"
+    transferable_technique: "多段独立寻址LED实现渐变色的技术表达方式；灵活灯带的产品摄影展示手法（自由盘绕）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_智能灯_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/智能灯·氛围灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "同款Gradient灯带环形盘绕成单圆圈造型，端部可见白色连接头，粉红渐变至橙色"
+    product_name: "Philips Hue Gradient Lightstrip（圆圈展示形态）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "智能灯·氛围灯"]
+    design_language:
+      silhouette: "同产品001，此图展示灯带围成圆形，端部带白色连接插头"
+      light_opening: "正面LED点阵出光，圆形形态使光线向圆心方向内聚"
+      thermal: "同001"
+      cmf:
+        color: "白色基带，显示品红→橙色渐变"
+        material: "柔性硅胶/PVC包覆LED灯带"
+        finish: "半透明柔性外皮"
+      mounting: "背面3M胶，此图为自立展示"
+      signature_detail: "连接端白色插头是唯一硬件可见部分，设计刻意最小化"
+    design_level:
+      score: 3
+      reason: "与001相同产品，不同展示角度；圆圈形态展示了灯带弯曲灵活性，但设计信息量与001重复"
+    design_tags: ["灯带", "柔性", "渐变彩光", "Gradient", "Hue", "圆形构图"]
+    hero_feature: "同001：Gradient多段彩色灯带，圆形形态额外展示弯曲适应性"
+    problem_solved: "同001"
+    transferable_technique: "灯带围成圆形可用于灯环/光晕装饰，连接件最小化隐藏策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_智能灯_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/智能灯·氛围灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "更薄更窄的Gradient灯带版本，黄→粉→蓝三色渐变，螺旋S形自由展示"
+    product_name: "Philips Hue Gradient Lightstrip Plus / 新款细版"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "智能灯·氛围灯"]
+    design_language:
+      silhouette: "比001更窄的带宽，LED点间距更密，弯曲半径可更小，S形盘绕展示"
+      light_opening: "正面出光，LED密度更高，色彩过渡更细腻"
+      thermal: "柔性PCB，同系列自然散热"
+      cmf:
+        color: "透明/白色基带，显示黄→粉→蓝渐变"
+        material: "柔性硅胶包覆更密LED灯带"
+        finish: "半透明柔性外皮"
+      mounting: "背面3M胶"
+      signature_detail: "带宽更窄，LED密度更高，弯曲灵活性提升；黄→蓝冷暖渐变跨度更大"
+    design_level:
+      score: 3
+      reason: "属于产品线迭代，设计逻辑与001相同，差异在规格细节；三色渐变跨度更大是展示亮点"
+    design_tags: ["灯带", "柔性", "渐变彩光", "细版", "Gradient", "Hue", "H04参数化"]
+    hero_feature: "更窄更密的渐变灯带——冷暖跨越更大、贴合更精细"
+    problem_solved: "需要灯带贴合更窄缝隙（如薄型家具、窗框边缘）且保留渐变功能"
+    transferable_technique: "窄带宽+高密度LED的线形光表达；冷暖大跨度渐变的视觉设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_智能灯_004"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/智能灯·氛围灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色扁平矩形Hue Bridge控制盒（前景），后方配搭Gradient灯带环绕展示，品红→橙色渐变"
+    product_name: "Philips Hue Bridge（智能网关）+ Gradient灯带套装"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "智能灯·氛围灯"]
+    design_language:
+      silhouette: "Bridge：低矮扁平矩形，四角大圆角，极薄盒体；顶面印'hue'字样，侧面单个LED状态灯+按键"
+      light_opening: "Bridge本身不出光；配套灯带为品红→橙渐变"
+      thermal: "Bridge塑料外壳，内部电路自然散热，低功耗"
+      cmf:
+        color: "Bridge：哑黑色（Matte Black）"
+        material: "Bridge：ABS塑料外壳"
+        finish: "哑面涂层，顶面'hue'字符压印"
+      mounting: "Bridge：桌面放置或壁挂"
+      signature_detail: "Bridge圆角矩形平板形态极简，与Apple TV/路由器设计语言相近；'hue'小写Logo温和低调"
+    design_level:
+      score: 3
+      reason: "Bridge作为后台设备设计刻意低调，扁平圆角矩形无惊喜；与灯带组合的套装展示方式是品牌营销亮点"
+    design_tags: ["智能网关", "Hue Bridge", "系统配件", "H09隐藏工程", "扁平矩形", "低调设计"]
+    hero_feature: "极简扁平黑盒——Hue生态的大脑，隐身于家居不抢戏"
+    problem_solved: "Zigbee智能灯网关需要连接所有Hue设备，外形需与家居融合不突兀"
+    transferable_technique: "功能性配件的低调化设计（圆角矩形扁平盒）；网关/控制器外形设计参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

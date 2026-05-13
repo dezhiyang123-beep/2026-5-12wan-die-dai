@@ -1,0 +1,60 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "带锯"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bosch_带锯_001"
+    source_images:
+      - filename: "电锯__带锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__带锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "18V便携带锯GCB18V-6，深蓝色C形上机身，黑色辅助顶部握把，橙红色快换调节旋钮，白色/银色弧形下基座（C形结构），CORE18V 4Ah电池（黑色+橙红标识），裸带锯条穿过C形开口"
+      - filename: "电锯__带锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__带锯__03.jpg"
+        image_role: "variant"
+        visual_anchor: "同款带锯GCB18V-2另一角度，相同C形轮廓，蓝色上机身+白色下弧形基座，BOSCH标识居中，橙红色旋钮，俯视角度展示机身顶部黑色辅助把手和穿孔散热"
+    product_name: "Bosch 18V Portable Bandsaw GCB18V-6 / GCB18V-2"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "带锯"]
+    design_language:
+      silhouette: "C形便携带锯：蓝色电机机身在上方，弧形白色基座在下方，整体形成C字型开口，带锯条穿过C形间隙，这是便携带锯品类的身份锚点轮廓"
+      light_opening: "N/A"
+      thermal: "顶部辅助把手区有穿孔阵列散热"
+      cmf:
+        color: "深蓝色电机上机身，白色/银灰色弧形下基座，橙红色快换旋钮（高对比功能件），黑色辅助顶把，CORE18V黑色电池"
+        material: "注塑上机身+注塑下弧形基座（白色ABS），CORE18V锂电池模块"
+        finish: "哑光蓝+哑光白+橙红高亮旋钮"
+      mounting: "CORE18V 18V锂电池系统"
+      signature_detail: >
+        C形整体轮廓是便携带锯的品类身份锚点，任何设计都不能破坏C形开口；
+        蓝色上+白色下的双色分区强化上下功能区视觉分离；
+        橙红色快换旋钮是唯一高亮色，聚焦用户注意力于锯条更换操作点；
+        CORE18V电池集成在机身侧后方，与C形主体保持平衡
+    design_level:
+      score: 5
+      reason: >
+        便携带锯在手持电动工具中轮廓独一无二，C形结构天然形成视觉识别；
+        蓝/白/橙三色系统在工具品类中罕见，具有高设计辨识度；
+        功能与形态高度统一，C形开口既是功能需求也是设计语言；
+        是Bosch Professional系列中形态创新性最强的产品之一
+    design_tags: ["无线", "18V", "带锯", "C形轮廓", "蓝白橙三色", "便携带锯", "CORE18V"]
+    hero_feature: "C形整体轮廓+蓝色机身与白色弧形基座的双色分区——在所有手持电动工具中独一无二的形态辨识度"
+    problem_solved: "管道、角钢、型材等金属的便携精准切断，C形结构允许锯条环绕工件进行切割"
+    transferable_technique: >
+      1. C形功能性结构转化为品类身份视觉锚点（H03分件线——结构即造型）
+      2. 上蓝下白的功能区分色（H08对比强调）
+      3. 橙红色旋钮聚焦操作引导（H12人机界面强化）
+      4. 三色系统（蓝/白/橙）在工具设计中的层次控制（H08对比强调）
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

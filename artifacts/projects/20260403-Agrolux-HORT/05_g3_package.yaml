@@ -1,0 +1,684 @@
+project_id: "20260403-Agrolux-HORT"
+package_date: "2026-04-04"
+selected_concept_id: "C-02 + C-05"
+packager_note: "用户选定两个互补概念组合出pitch：C-05（固定双通道灯条）+ C-02（动态浮动节点），以产品组合方式向Agrolux推销"
+
+# ══════════════════════════════════════════════════════════
+# STEP 1 — PRD（产品需求文档 · 1页版）
+# ══════════════════════════════════════════════════════════
+
+prd:
+
+  # ── C-05 可调层间灯条 ────────────────────────────────
+  c05:
+    product_name: "FlexBar DS-30"
+    subtitle: "双通道层间补光灯条 · 兼容LYRA平台"
+    concept_source: "04_g2_concepts.yaml / C-05"
+
+    target_user:
+      role: "Head Grower"
+      context: "商业温室（番茄/甜椒），规模≥1公顷，执行轮作或多品种混栽"
+      decision_trigger: "轮作换品种时光谱不匹配，顶灯无法覆盖密植冠层内部"
+
+    use_scenario: |
+      番茄种植后期（结果期），顶灯300µmol/s PPFD在冠层以下已衰减至<80µmol/s。
+      Head Grower将FlexBar DS-30用弹簧夹挂在植株行间钢丝（离地约0.8m），
+      灯条与植株茎干平行，直接向侧面叶片和果实区打光。
+      换品种时拨一次实体开关（或通过Agrolux OS点"切换作物"），
+      灯条从配方A（生长期高蓝）自动切至配方B（结果期高红），无需调参数。
+
+    function_list:
+      P0:
+        - id: "F-01"
+          desc: |
+            层间补光：在植株行间距30-40cm处提供≥200µmol/s/m PPFD。
+            【热降额注记-reviewer修订】此指标基于功率≥55W/m @效能3.6µmol/J
+            （55×3.6=198≈200µmol/s/m）。
+            若热阻测试结果要求将功率限制在40W/m，则输出仅144µmol/s/m，
+            P0指标不可达，此时必须执行以下决策树：
+              优先→加厚基板至2mm+导热硅脂垫，争取维持功率在≥55W/m；
+              次选→接受最低可行规格≥160µmol/s/m（对应≈45W/m），并重新评估
+                    vs Hortilux HORTILED Inter（47.5W/m）的差异化是否仍成立；
+              禁止→在P0未达标情况下以"200µmol/s/m"为卖点提交Agrolux。
+        - id: "F-02"
+          desc: "双通道双光谱预设：配方A（蓝450nm主导，生长期）/ 配方B（红660nm+远红730nm主导，结果期），切换为单一物理动作"
+        - id: "F-03"
+          desc: "LYRA/Agrolux OS控制：Modbus RTU接入，OS可读当前通道状态字，支持远程切换"
+      P1:
+        - id: "F-04"
+          desc: "外置驱动器标准化：1台驱动器支持4-6根1.2m灯条，统一走线"
+        - id: "F-05"
+          desc: "弹簧夹快装：无工具安装至现有温室钢丝（Ø4-8mm）"
+      P2:
+        - id: "F-06"
+          desc: "OS自动触发光谱切换：OS根据排班或传感器数据自动推送切换指令，种植者无感知"
+
+    key_specs:
+      - "灯条宽度：30mm（截面遮挡顶光≤1.5%）"
+      - "单位功率：目标55-60W/m（P0指标可达下限为55W/m）；热阻限制最坏情况≥45W/m（条件P0）"
+      - "光效：≥3.6 µmol/J（双通道平均）；单通道A/B均≥3.8 µmol/J"
+      - "【热降额底线】40W/m=144µmol/s/m → P0失效，不可提交；45W/m=162µmol/s/m → 条件P0，需竞品对比"
+      - "光谱：通道A—蓝450nm+冷白（蓝红比约3:1）；通道B—红660nm+远红730nm（红远红比约4:1）"
+      - "防护等级：IP67（接插件+灯体整体）"
+      - "工作温度：-10°C ~ +45°C；湿度≤95%RH（非冷凝）"
+      - "驱动器：外置，双通道独立PWM，0-10V+Modbus双控制接口"
+      - "使用寿命：≥50,000h（L90，25°C环境）"
+
+    constraints:
+      - "沿用现有温室钢丝悬挂，不新增支撑结构[硬约束]"
+      - "BOM目标：灯条≤$28/m；外置驱动器≤$45/台（均摊后每米增加≤$8）[硬约束]"
+      - "驱动器外置，灯条本体不集成驱动电路[硬约束——散热与尺寸约束]"
+      - "不开放用户自定义光谱参数，只提供两套预设配方[硬约束——降低操作错误风险]"
+
+    validation_plan:
+      - "热阻测试：30mm基板8h连续满负荷，测量结温≤105°C（Tj limit）；FEA仿真外发，周期2周，费用¥8,000-15,000"
+      - "光谱验证：光谱仪实测两个通道µmol/J和峰值波长，与标称值偏差≤5%"
+      - "IP67浸水测试：1m水深30min，符合IEC 60529"
+      - "三防涂层验证：氨气+湿度老化48h（参考IEC 60068-2-42）"
+      - "Modbus通信压测：与LYRA驱动器联调，1000次连续切换无丢包"
+      - |
+        【G3前置条件-商务验证】在向Agrolux提交任何技术资料前，必须完成：
+        动作：向Agrolux partnerships部门发送商务探询邮件，内容包含：
+          ①OEM工厂背景介绍（宁波，具备CE+UL能力）；
+          ②产品概念描述（层间补光灯条，兼容LYRA Modbus协议）；
+          ③明确询问：Agrolux是否接受第三方OEM补充产品供应；LYRA接口规格是否可提供。
+        判定标准：
+          回应"开放合作" → 更新OEM合作开放度为[M]，继续G3推进；
+          回应"暂不考虑" → 评估是否转向独立渠道推销（绕过Agrolux）；
+          无回应（3周内） → 改为展会（GreenTech Amsterdam 2026）现场接触。
+        此步骤完成前，本方案的"客户买单"维度保持UNKNOWN[L]状态，不得向Agrolux提交正式资料。
+
+  # ── C-02 浮动轨道补光节点 ─────────────────────────────
+  c02:
+    product_name: "SlideNode SN-40"
+    subtitle: "动态定位层间补光节点 · 随作物生长高度动态调位"
+    concept_source: "04_g2_concepts.yaml / C-02"
+
+    target_user:
+      role: "Head Grower"
+      context: "商业温室高茎作物（番茄/黄瓜），植株生长速度15-20cm/周，需长期维持最优光距"
+      decision_trigger: "固定层间灯只能在某一高度最优，植株从0.5m长到3m的过程中多数时间处于非最优光距"
+
+    use_scenario: |
+      一排番茄植株旁，现有灌溉/喷药导轨（横向，Ø25-40mm圆管或方管）。
+      Head Grower将SlideNode SN-40按1.5m间距夹上导轨，
+      节点悬挂在植株茎干旁，与植株顶部保持30-40cm距离。
+      每两周植株生长约30cm，Head Grower沿每一行对所有节点进行位置调整：
+      单手按压弹簧释放键，将节点沿导轨上推30cm，松手锁定，每个节点约10-15秒完成。
+
+      【运营工时估算-reviewer修订-1公顷标准规模】
+        温室规格：100m × 100m = 1公顷
+        番茄双行床，床间距1.6m → 层间补光导轨约62行
+        每行导轨长60m（两端各留20m走道），SlideNode间距1.5m → 40节点/行
+        总节点数：62行 × 40节点 = 2,480节点
+        单次调位工时：2,480节点 × 12秒/节点 ÷ 3,600 = 8.3小时/次
+        调位频率：每2周一次（植株生长30cm，光距从30cm增至60cm，2周内仍可接受[M]）
+        年调位次数：26次/年
+        年总工时：26次 × 8.3小时 = 216小时/年
+        人工成本：216h × €15/h（荷兰温室工人基础工资[M]）= €3,240/年
+
+      【ROI简算】
+        DLI增益：固定层间灯效率损失30-40%[M]，SlideNode维持最优光距，
+        估算层间补光贡献总DLI的15-20%，动态定位提升该部分效能约30%，
+        总体DLI提升约4-6%[L]。
+        1公顷番茄年产值约€5-8M[M]，4-6% DLI增益→ 产量增收€200-480k/年[L]
+        年调位成本€3,240 vs 增收€200-480k → ROI论证成立，但增益数字为[L]级，
+        需田间实测数据支撑才能在pitch中使用。
+
+      8个节点通过Zigbee自组网汇聚到行末的有线网关节点，
+      网关经Modbus接入LYRA/Agrolux OS统一调度开关灯和亮度。
+
+    function_list:
+      P0:
+        - id: "F-01"
+          desc: "单手滑动调位：弹簧预加载导轨夹，单手按压+推移+松手即锁定，全程≤15秒/节点"
+        - id: "F-02"
+          desc: "COB补光：40W，400µmol/s，维持与植株顶部30-40cm最优光距"
+      P1:
+        - id: "F-03"
+          desc: "Zigbee/Thread无线自组网：8节点+1有线网关，网关接入Modbus，无需为每个节点布线"
+        - id: "F-04"
+          desc: "Agrolux OS接入：网关透传节点亮度+状态，支持远程调度"
+      P2:
+        - id: "F-05"
+          desc: "位置感知记录：节点内置简易高度传感器（磁条+霍尔），上报当前导轨位置至OS（±5cm精度）"
+
+    key_specs:
+      - "外形：圆形，直径80mm，厚20mm"
+      - "光源：40W COB LED，400µmol/s，光谱峰值660nm+450nm"
+      - "光效：≥3.5 µmol/J（COB集成，散热约束下）[M]"
+      - "防护等级：IP65（节点本体），IP54（网关）"
+      - "无线：Zigbee 3.0 / Thread（模块认证方式，缩短FCC/CE周期）"
+      - "湿度：80-95%RH工作可靠（温室标准环境）"
+      - "导轨兼容：圆管Ø20-50mm / 方管20×20~40×40mm（通用夹具）"
+      - "工作温度：0°C ~ +40°C"
+      - "节点BOM目标：≤$45/个（含无线模块）"
+
+    constraints:
+      - "单手操作：夹具解锁+移位+锁定必须单手完成，不使用工具[硬约束——密植区操作空间有限]"
+      - "不拆除植株即可调位[硬约束]"
+      - "节点本体高度≤25mm（避免遮挡植株横向生长）[硬约束]"
+      - "网关故障时节点保持最后指令状态（不熄灭）[硬约束——安全模式]"
+      - "调位频率设计基准：每2周一次（不得以'每周调位'为卖点，实际运营工时不可接受）[硬约束——reviewer修订]"
+      - "调位容差设计：光距30-40cm为最优，需允许60cm内（两周增长后）仍为可接受范围；夹具滑动步长不限30cm增量[设计约束]"
+
+    validation_plan:
+      - "热阻仿真+实测：20mm厚度内40W COB，FEA模拟热路径，实测结温≤105°C@40°C环境；FEA外发，周期2周，费用¥8,000-15,000。若结温超标降至30W（300µmol/s），需重新评估产品竞争力后才能继续"
+      - "无线可靠性测试：真实温室环境（金属架构+80%RH），8节点自组网连续72h，丢包率≤0.1%；借测方案：联系本地花卉/蔬菜温室合作借测48-72h，成本约差旅+设备$500"
+      - "夹具力学测试：导轨Ø25/32/40mm各规格，夹持力≥15N（防止振动位移），单手操作力≤8N"
+      - "IP65喷水测试：四方向喷水15min，符合IEC 60529"
+      - "跌落测试：节点从1.5m高度跌落混凝土地面（温室操作场景），3次不损坏功能"
+      - "用户调位操作接受度测试：邀请≥2名Head Grower试操作原型，评估10秒/节点、2周一次的调位频率是否在可接受范围；记录实际操作时间和主观评分"
+      - |
+        【G3前置条件-商务验证】C-02的商务验证步骤与C-05相同，但有额外条件：
+        C-02必须在以下两个工程验证完成后，才提交给Agrolux：
+          ①热阻FEA结论：40W可达Tj≤105°C → 继续；否则重评
+          ②Zigbee实测：丢包率≤0.1% → 继续；否则评估有线备选（见备选方案节）
+        三个条件（OEM开放确认+热阻通过+无线通过）同时满足才提交C-02方案。
+        单独满足其中一或二项，保持C-02为"技术验证阶段"状态。
+
+# ══════════════════════════════════════════════════════════
+# STEP 2 — 落地性评估（制造可行性 · DFM）
+# ══════════════════════════════════════════════════════════
+
+manufacturability:
+
+  # ── C-05 FlexBar DS-30 ───────────────────────────────
+  c05:
+    dfm_verdict: "CONDITIONAL"
+    verdict_condition: "热阻测试通过 + 双通道驱动器EMI测试通过"
+
+    top10_risks:
+      - rank: 1
+        category: "热"
+        risk: "30mm铝基板双通道LED密度高，散热路径短（基板→夹片→钢丝），8h满负荷连续工作结温可能超105°C"
+        level: "H"
+        mitigation: |
+          优先方案：改用2mm厚基板（6063-T5）+导热硅脂垫（k≥3W/m·K）+钢丝夹导热垫，
+          目标维持工作功率≥55W/m（满足P0指标200µmol/s/m）；
+          次选方案：若优化后Tj仍超标，降至≈45W/m（162µmol/s/m，条件P0），
+          需重新对比Hortilux HORTILED Inter 47.5W固定性能，确认差异化仍成立才继续；
+          禁止：不得在热测未通过前以40W/m（144µmol/s/m）宣称满足P0≥200µmol/s/m。
+          执行计划：FEA仿真外发至热仿真供应商（如Ansys合作商），费用约¥8,000-15,000，周期2周。
+        owner: "结构/热工程师（FEA外发执行）"
+
+      - rank: 2
+        category: "电气"
+        risk: "外置驱动器双通道独立PWM控制电路EMI互扰，可能导致UL/CE EMC测试失败"
+        level: "H"
+        mitigation: "双通道驱动IC选用集成EMI滤波器的方案（如MPS MP8756）；PCB布局双通道走线隔离≥3mm；预安排EMC预测试（EMC预测试约$3-5k）"
+        owner: "电气工程师"
+
+      - rank: 3
+        category: "结构"
+        risk: "30mm铝基板1.2m跨度自重（约0.4kg/m）在两端悬挂时挠度超5mm，导致光照均匀度不一致"
+        level: "M"
+        mitigation: "增加中间悬挂点（每0.6m一个弹簧夹）；或将铝基板壁厚从1.2mm改1.5mm提高刚度（成本增约$0.5/m）"
+        owner: "结构工程师"
+
+      - rank: 4
+        category: "防护"
+        risk: "灯条两端接插件（电源+控制线）IP67密封批量一致性风险，注塑件尺寸公差导致密封失效"
+        level: "M"
+        mitigation: "选用已通过IP67认证的标准M12连接器（如Molex Brad系列）；来料100%气密检测"
+        owner: "采购/品质"
+
+      - rank: 5
+        category: "可靠性"
+        risk: "温室氨气（NH₃，≤25ppm长期环境）+高湿度腐蚀PCB焊点和铝基板边缘氧化"
+        level: "M"
+        mitigation: "PCB三防漆涂覆（丙烯酸类，IPC-CC-830B）；铝基板边缘阳极氧化封孔处理；48h氨气老化测试（IEC 60068-2-42）"
+        owner: "工艺/品质"
+
+      - rank: 6
+        category: "人因"
+        risk: "物理拨钮位于灯条侧面，安装高度2-2.5m，种植者需梯子才能手动切换配方，紧急切换场景操作不便"
+        level: "M"
+        mitigation: "物理拨钮定位为安装调试时使用（一次性设定）；日常切换强制走Agrolux OS远程指令；PRD中明确物理拨钮非主要操作入口"
+        owner: "产品定义/UX"
+
+      - rank: 7
+        category: "成本"
+        risk: "双通道驱动器BOM比单通道高约$12-18/台，均摊后每米灯条成本增加$3-5，推高总BOM超目标"
+        level: "M"
+        mitigation: "BOM缩减路径见下方；目标：1台驱动器驱动6根灯条（均摊驱动器成本$7-9/m→$2-3/m）"
+        owner: "成本工程师"
+
+      - rank: 8
+        category: "法规"
+        risk: "UL 8800（温室照明专用）认证双通道电路需要独立通道分别测试，认证周期可能比单通道延长2-3个月"
+        level: "M"
+        mitigation: "早期接触UL测试机构（SGS/Intertek），确认双通道测试方案；预算$25-35k+6个月周期[M]"
+        owner: "认证工程师"
+
+      - rank: 9
+        category: "制造"
+        risk: "30mm基板高密度LED贴片（双列，间距1.5mm），回流焊桥接风险，AOI检出率需验证"
+        level: "L"
+        mitigation: "首批打样使用焊膏印刷网版厚度150µm（标准120µm提升）；AOI全检；首批良率目标≥96%"
+        owner: "SMT工程师"
+
+      - rank: 10
+        category: "系统"
+        risk: "Modbus RTU地址分配与LYRA现有设备地址冲突（共网时）"
+        level: "L"
+        mitigation: "灯条出厂Modbus地址默认为0x40-0x5F范围（避开LYRA常用0x01-0x3F）；支持现场修改地址"
+        owner: "固件工程师"
+
+    bom_reduction_tree:
+      target: "灯条BOM≤$28/m（当前估算$22-28/m，驱动器外）"
+      actions:
+        - item: "双通道驱动IC合并：选用集成双通道PWM的单芯片（如MPS MP8756A），替代两颗独立IC"
+          saving: "$2-3/台驱动器"
+        - item: "铝基板壁厚1.5mm→1.2mm（结合中间悬挂点弥补刚度）"
+          saving: "$0.6-0.8/m"
+        - item: "驱动器壳体标准化：一款驱动器支持4-6根灯条，壳体与接线方案统一批量采购"
+          saving: "$3-5/台（规模效应，需年产≥5000台驱动器）"
+        - item: "外置驱动器线缆统一规格（4芯，0.5mm²），与工厂其他产品共用线缆型号"
+          saving: "$0.3-0.5/m"
+
+  # ── C-02 SlideNode SN-40 ─────────────────────────────
+  c02:
+    dfm_verdict: "CONDITIONAL"
+    verdict_condition: "无线可靠性实测通过（真实温室环境72h）+ 热阻FEA验证通过"
+
+    top10_risks:
+      - rank: 1
+        category: "电气/无线"
+        risk: "80-95%RH金属架构温室内Zigbee 2.4GHz信号多径反射严重，8节点自组网可能出现孤立节点或频繁重连"
+        level: "H"
+        mitigation: "选用通过温室环境实测的Zigbee模块（如Silicon Labs EFR32MG21，工业级）；网状网络协议确保多跳路由；优先验证动作：在目标客户温室借测48h"
+        owner: "无线/固件工程师"
+
+      - rank: 2
+        category: "热"
+        risk: "圆盘本体直径80mm、厚20mm，40W COB LED散热体积极小，FEA未做前无法确认结温达标"
+        level: "H"
+        mitigation: "优先做热阻FEA仿真（1周内）；若结温超标：①将COB降至30W（牺牲25%光通量）；②在圆盘背面增加铝翅片（厚度+5mm，至25mm总厚）"
+        owner: "热/结构工程师"
+
+      - rank: 3
+        category: "结构"
+        risk: "弹簧夹具需兼容导轨Ø20-50mm（圆管）和20×20~40×40mm（方管），通用夹具设计复杂"
+        level: "M"
+        mitigation: "分两个SKU：圆管版（Ø20-40mm）和方管版（20-40mm边长）；夹具弹簧力设计为两段调节（小导轨/大导轨）"
+        owner: "机构工程师"
+
+      - rank: 4
+        category: "防护"
+        risk: "IP65密封：节点外壳与导线出线口密封，温室喷药（酸性/碱性）可能腐蚀密封胶圈"
+        level: "M"
+        mitigation: "密封圈选用三元乙丙橡胶（EPDM），耐酸碱pH 3-12；出线口热缩管+密封胶双重密封；IP65喷水测试前加喷药液浸泡测试"
+        owner: "结构/品质工程师"
+
+      - rank: 5
+        category: "可靠性"
+        risk: "无线模块焊点在温室风机振动环境下（0.5-2Hz低频振动）长期疲劳风险"
+        level: "M"
+        mitigation: "无线模块采用通孔引脚+波峰焊（比SMT焊点抗振强3-5倍）；或选用带金属屏蔽罩的模块增加质量阻尼；振动测试IEC 60068-2-6"
+        owner: "可靠性工程师"
+
+      - rank: 6
+        category: "人因"
+        risk: "植株密集区单手操作空间有限（行距约0.5m，植株茎叶遮挡），弹簧夹按压力若超8N操作困难"
+        level: "M"
+        mitigation: "夹具弹簧预加载力控制≤6N（释放）；操作路径设计为'垂直按压+向上推移'（非旋转），避免需要回旋空间；原型机用户测试（Head Grower实际操作5次）"
+        owner: "工业设计/人因"
+
+      - rank: 7
+        category: "成本"
+        risk: "Zigbee/Thread无线模块BOM约$8-12/个，占节点总BOM的20-27%，推高单价"
+        level: "M"
+        mitigation: "选用模块认证方案（FCC/CE模块级认证，省去整机无线认证约$15-20k）；年采购量>10000颗时模块价格可谈至$5-7/颗[M]"
+        owner: "采购/成本工程师"
+
+      - rank: 8
+        category: "系统"
+        risk: "8节点自组网网关为单点故障：网关断电或故障导致整排节点失联，OS无法调度"
+        level: "M"
+        mitigation: "节点设计'网关离线安全模式'：检测网关30s无心跳后自动切换为本地最后指令保持（不熄灭）；PRD已写入此约束"
+        owner: "固件工程师"
+
+      - rank: 9
+        category: "法规"
+        risk: "Zigbee/Thread无线产品需FCC Part 15（北美）+ CE RED（欧盟）认证，若使用非预认证模块成本$15-25k+3-4个月"
+        level: "L"
+        mitigation: "强制使用已通过FCC/CE认证的商用无线模块（如Silicon Labs MGM21/Nordic nRF52840 Dongle）；整机仅需合规声明，无需重新测试无线部分"
+        owner: "认证工程师"
+
+      - rank: 10
+        category: "制造"
+        risk: "COB LED焊接需氮气保护回流焊，圆形外壳CNC成本高（单件约$8-12），批量切换压铸需开模（约$15-25k）"
+        level: "L"
+        mitigation: "首批50-100个原型用CNC验证；量产批次（>500个）开压铸模（ADC12，模具费$18k，单件成本降至$2-3），盈亏平衡约500件"
+        owner: "制造工程师"
+
+    bom_reduction_tree:
+      target: "节点BOM≤$45/个（当前估算$35-45/个含无线模块）"
+      actions:
+        - item: "无线模块选用预认证方案（FCC/CE），省去整机认证费$15-20k（一次性成本节省，非单件BOM）"
+          saving: "一次性$15-20k"
+        - item: "COB LED选用已有温室场景验证的标准模块（如Bridgelux BXRC-30系列），替代定制COB"
+          saving: "$3-5/个"
+        - item: "量产≥500件时启动压铸模（$18k开模费），外壳单件成本CNC $10→压铸$2-3"
+          saving: "$7-8/个（量产后）"
+        - item: "夹具弹簧标准件（不锈钢304，外购），替代定制弹簧"
+          saving: "$0.8-1.2/个"
+
+    wired_fallback:
+      title: "有线Modbus备选方案（reviewer修订：应对无线实测失败场景）"
+      trigger_condition: "Zigbee 72h实测丢包率>0.1%，或Agrolux技术团队明确拒绝无线方案"
+      description: |
+        将节点通信从Zigbee无线改为RS485有线Modbus菊花链。
+        每行导轨沿线敷设屏蔽双绞线（STP，RS485规格），节点通过3针接插件串联，
+        行末接入Modbus主机（与LYRA共网或独立网络）。
+
+      architecture:
+        - "节点本体移除无线模块，增加RS485收发器芯片（如MAX485E，$0.5/片）"
+        - "每个节点2个RJ45/M8接口：In + Out，菊花链接线"
+        - "每行末端接1个RS485→Modbus TCP网关（现成品，$25-35/台）"
+        - "线缆：CAT5e屏蔽双绞线（$0.6-0.8/m）沿导轨走线"
+
+      cost_comparison:
+        wireless_sku:
+          node_bom: "$35-45/节点（含Zigbee模块$8-12）"
+          gateway_bom: "$40-55/台（Zigbee协调器+Modbus网关）"
+          cable: "无"
+          install_labor: "低（无布线）"
+          system_8nodes: "$320-415（节点）+ $40-55（网关）= $360-470/系统"
+        wired_sku:
+          node_bom: "$25-33/节点（移除无线模块，增加RS485芯片$0.5）"
+          gateway_bom: "$25-35/台（RS485→Modbus TCP）"
+          cable: "$0.6-0.8/m × 60m/行 = $36-48/行"
+          install_labor: "高（需敷设线缆，估算$30-50/行）"
+          system_8nodes: "$200-264（节点）+ $25-35（网关）+ $66-98（线缆+安装）= $291-397/系统"
+        summary: "有线方案系统成本与无线接近（$291-397 vs $360-470），
+          节点BOM降低$10-12，但安装成本增加$60-100/行；
+          总体TCO（含安装）有线略低或持平，主要优势是消除H级无线风险。"
+
+      tradeoff:
+        pros:
+          - "消除温室金属架构+高湿度无线不稳定的H级风险"
+          - "节点BOM降低$10-12，提升毛利"
+          - "无FCC/CE无线认证需求，认证周期缩短2-3个月"
+        cons:
+          - "需为每行敷设线缆，温室改造施工量增加"
+          - "线缆可能被农业机械刮断，增加维护风险"
+          - "取消'无线免布线'的产品卖点，安装灵活性降低"
+
+      recommendation: |
+        默认SKU保持无线版（SN-40W），待Zigbee实测结果出来后决定：
+          实测通过 → 只推无线版；
+          实测失败（丢包>0.1%）或Agrolux技术团队要求有线 → 推出有线版（SN-40C），
+          两个SKU复用90%零件（外壳/夹具/COB），仅节点PCB不同，开发成本低。
+
+# ══════════════════════════════════════════════════════════
+# STEP 3 — CMF 规格
+# ══════════════════════════════════════════════════════════
+
+cmf:
+
+  # ── C-05 FlexBar DS-30 ───────────────────────────────
+  c05:
+    color:
+      main_body:
+        pantone: "Cool Gray 1 C"
+        hex: "#F2F2F0"
+        ral: "RAL 9003 Signal White"
+        ratio: "灯条本体铝基板本色阳极氧化，不喷涂；外置驱动器壳体RAL 9003喷涂"
+        tolerance: "ΔE ≤ 1.5（驱动器壳体喷涂对色，D65光源，10°视角）"
+        rationale: "与Agrolux WEGA系列灯体主色一致[M-agrolux.com产品图]，方便种植者视觉接受；白色在温室绿色植物背景下可见度高，便于维护定位"
+        forbidden: "不使用黄色/橙色（与温室安全警示色冲突）；不使用纯黑（在温室金属架构中视觉消失，安装后难以目视检查状态）"
+      led_indicator:
+        pantone: "UNKNOWN——待确认OS指示灯颜色规范是否与Agrolux产品线统一"
+        verification_action: "查询Agrolux OS产品指示灯标准（绿=运行/红=故障/蓝=通信），与现有WEGA产品一致"
+      diffuser:
+        note: "灯条无独立扩散板，LED直接出光（层间补光需要方向性，扩散板会降低PPFD）"
+
+    material:
+      led_substrate:
+        system: "铝基板（Metal Core PCB，MCPCB）"
+        grade: "6063-T5铝合金基材，导热率≥160 W/m·K"
+        touch_target: "不直接接触，安装后处于植株行间，无手触需求"
+        structure_role: "导热 + 电气绝缘层 + LED安装基体"
+        cost_estimate: "$2.8-3.5/m（1.2mm厚，30mm宽）[M]"
+      driver_enclosure:
+        system: "ASA共聚物（Acrylonitrile Styrene Acrylate）"
+        grade: "UL94 V-0阻燃；ASA户外UV稳定性优于ABS，温室紫外线环境5年不粉化[H-材料数据]"
+        touch_target: "操作手感：轻度纹理，防指纹，安装调试时手触频率低"
+        structure_role: "驱动器外壳，防护+绝缘"
+        cost_estimate: "$1.2-1.8/个壳体（注塑，中等复杂度）[M]"
+      spring_clip:
+        system: "不锈钢304弹片 + PA66尼龙滑块"
+        grade: "304不锈钢耐氨气腐蚀；PA66 GF30（30%玻纤增强），耐温120°C，强度足够"
+        structure_role: "悬挂固定 + 安装定位"
+        cost_estimate: "$0.4-0.6/套（外购标准件+注塑滑块）[M]"
+      connector:
+        system: "M12圆形连接器，A编码（4芯电源+2芯控制）"
+        grade: "IP67，镀镍外壳，PUR线缆护套（耐油脂+耐弯折）"
+        structure_role: "灯条两端电气接口，现场免工具快插"
+        cost_estimate: "$1.8-2.5/套（Molex Brad或同等级）[M]"
+
+    finish:
+      led_substrate_surface:
+        process: "本色阳极氧化（Type II，硫酸阳极氧化）"
+        gloss_level: "哑光，GU 15-25（低反射，避免在温室内产生眩光）"
+        texture: "细砂面（阳极氧化自然纹理）"
+        touch_result: "干燥细腻，无油腻感"
+        durability: "盐雾测试500h（ASTM B117）；氨气老化48h（IEC 60068-2-42）"
+      driver_enclosure_surface:
+        process: "喷漆（水性丙烯酸底漆 + 聚氨酯面漆）"
+        gloss_level: "哑光，GU 20-30"
+        texture: "轻度橘皮纹（喷涂自然效果，防指纹）"
+        touch_result: "微涩，防滑"
+        durability: "附着力百格测试≥4B（ASTM D3359）；湿热老化240h（40°C，95%RH）"
+      unknown_fields:
+        - field: "Agrolux OS指示灯颜色标准"
+          verification_action: "联系Agrolux技术合作，索取OS产品UI/UX规范文件"
+        - field: "驱动器壳体认证标签位置和尺寸要求"
+          verification_action: "参考UL 8800标签要求（UL White Book）确认标签区预留面积"
+
+  # ── C-02 SlideNode SN-40 ─────────────────────────────
+  c02:
+    color:
+      main_body:
+        pantone: "Cool Gray 11 C"
+        hex: "#4D4D4F"
+        ral: "RAL 7016 Anthracite Gray"
+        ratio: "圆盘本体100%覆盖；夹具金属件自然不锈钢本色（不喷涂）"
+        tolerance: "ΔE ≤ 2.0（粉末涂装对色，D65光源，10°视角）"
+        rationale: "深灰色与温室钢结构（镀锌/喷灰）视觉统一，工业感强；深色在高湿度环境不易显示水渍污迹；与C-05白色灯条形成产品家族层级区分（主灯白/节点深灰）[M]"
+        forbidden: "不使用鲜艳色（温室场景无品牌展示需求，鲜艳色与农业工业环境不符）；不使用镜面银（反光影响植物光环境）"
+      cob_lens:
+        pantone: "UNKNOWN——PC光学级镜片透明，不着色"
+        note: "镜片透明无色，保证COB光谱输出不失真"
+      indicator_light:
+        pantone: "UNKNOWN——待与Agrolux OS指示灯规范统一"
+        verification_action: "同C-05：查询Agrolux OS产品指示灯颜色标准"
+
+    material:
+      main_body:
+        system: "压铸铝合金 ADC12"
+        grade: "ADC12（JIS H5302），导热率≈96 W/m·K，适合复杂薄壁压铸；耐腐蚀性中等，需表面处理"
+        touch_target: "外壳调位时手握接触，纹理设计防滑，粉末涂装后触感温和"
+        structure_role: "主要散热路径（COB→外壳→空气对流）+ 结构强度"
+        cost_estimate: "原型CNC：$8-12/件；量产压铸（>500件）：$2.5-3.5/件[M]"
+      cob_lens:
+        system: "光学级聚碳酸酯（PC）"
+        grade: "PC Lexan OQ系列或同等，透光率≥92%，抗UV（防黄变5年）"
+        touch_target: "出光面无手触需求；镜片内表面为光学设计面（不可触）"
+        structure_role: "COB保护 + 光束角控制（目标60°均匀配光）"
+        cost_estimate: "$0.8-1.2/件（注塑，简单曲面）[M]"
+      spring_clamp:
+        system: "不锈钢316L弹片 + PA66 GF30尼龙本体"
+        grade: "316L不锈钢（比304更耐氯化物，温室喷药场景）；PA66 GF30耐温130°C，夹持力稳定"
+        structure_role: "导轨夹持 + 调位滑动导向"
+        cost_estimate: "$1.5-2.2/套（含弹片+尼龙体+固定螺钉）[M]"
+      wireless_module:
+        system: "Silicon Labs EFR32MG21 或同等Zigbee/Thread SoC"
+        grade: "工业级，-40~+85°C，已通过FCC/CE认证（模块级），IP65封装前完成认证"
+        structure_role: "无线通信（Zigbee自组网）"
+        cost_estimate: "$5-8/片（芯片级，量产价）[M]"
+
+    finish:
+      main_body_surface:
+        process: "热固性环氧粉末涂装（TGIC-free，食品级安全考量）"
+        gloss_level: "哑光，GU 10-20（极低反射，温室光环境干净）"
+        texture: "细砂纹（喷砂预处理后粉末涂装，Rz 15-25µm）"
+        touch_result: "微粗糙，防滑，调位时手握不打滑"
+        durability: "耐氨气腐蚀（参考ISO 9227盐雾500h）；附着力≥5B（百格，ASTM D3359）；温室农药喷淋耐受（pH 4-10）"
+      cob_lens_surface:
+        process: "无涂层（保持光学透过率）；可选AR增透膜（+$0.3-0.5/件，透光率提升至95%）[L]"
+        gloss_level: "光学透明"
+        texture: "光滑（内表面光学面；外表面轻度防污纹理可选）"
+        touch_result: "UNKNOWN（取决于是否加外表面防污处理）"
+        verification_action: "与光学设计工程师确认AR膜是否在预算内，及防污纹理对配光角度的影响"
+      unknown_fields:
+        - field: "圆盘背面散热翅片表面处理（若增加翅片）"
+          verification_action: "热阻FEA结果出来后确认是否需要翅片；若需要，翅片与主体同色粉末涂装"
+        - field: "导线出线口防护材料（热缩管 vs 硅胶护套）"
+          verification_action: "结合IP65密封方案确认，与结构工程师对齐"
+
+# ══════════════════════════════════════════════════════════
+# STEP 4 — 效果图提示词（geometry-prompt skill）
+# ══════════════════════════════════════════════════════════
+
+render_prompts:
+
+  feeling_word_filter:
+    note: "感受词三层过滤已执行。以下为处理记录。"
+    direct_use:
+      - "matte（哑光）→ 直接用"
+      - "slender（细长）→ 直接用"
+      - "circular disc（圆盘）→ 直接用"
+    translated:
+      - "细 → 30mm-wide cross-section, 1:40 width-to-length ratio at 1.2m length"
+      - "浮动 → spring-loaded sliding clamp on top edge, suspended from horizontal rail"
+      - "工业感 → visible mechanical structure, functional parting lines, no decorative elements"
+      - "轻薄 → 20mm total thickness, flat disc profile with no protruding fins"
+    forbidden_removed:
+      - "高级感 → 已删除，转译为'anodized aluminum surface texture, RAL9003'"
+      - "科技感 → 已删除，转译为'exposed M12 connector port, Modbus indicator LED'"
+      - "未来感 → 已删除，无对应几何参数"
+
+  geometry_translation:
+    c05:
+      - function: "双通道LED（两列独立光源）"
+        geometry: "two parallel LED rows running lengthwise, 8mm spacing between rows, alternating red and blue-white LED chips"
+        position: "centered on 30mm-wide aluminum substrate, full 1.2m length"
+      - function: "外置驱动器通过线缆连接"
+        geometry: "thin 4-wire cable (Ø6mm) exits from both ends via M12 connectors, driver box not visible in product shots"
+      - function: "弹簧夹悬挂"
+        geometry: "two spring clips at 300mm from each end, each clip 25mm wide with visible stainless steel leaf spring"
+    c02:
+      - function: "单手滑动锁定夹具"
+        geometry: "top-mounted clamp body 35mm wide × 20mm tall, thumb-press release button 12mm diameter on front face, visible stainless spring"
+      - function: "COB中心出光"
+        geometry: "circular PC lens 55mm diameter centered on disc face, slight 2mm recess from body edge"
+      - function: "无线天线内置"
+        geometry: "no visible antenna (internal), smooth back surface with 4 M3 mounting holes at 60mm bolt circle"
+
+  # ── C-05 FlexBar DS-30 提示词 ────────────────────────
+  c05_prompts:
+    styling_summary: >
+      Product: commercial horticultural inter-row LED lighting strip (FlexBar DS-30).
+      Use: suspended between tomato plant rows inside greenhouse, 0.8m height.
+      Form: 30mm-wide × 1.2m-long slender extruded aluminum bar, 1:40 width-to-length ratio.
+      Approved feeling words: matte, slender, functional, minimal-profile.
+      Form logic: two parallel LED rows (red 660nm + blue-white 450nm) on anodized aluminum substrate;
+      two stainless spring clips visible at 300mm from each end;
+      M12 connectors at both ends with short cable stub.
+      CMF: signal white RAL9003, anodized aluminum texture, matte GU20.
+      Must include: dual LED row pattern, spring clips, M12 connectors.
+      Must not include: decorative fins, glowing halo effects, fantasy lighting, plants in product-only shots.
+
+    angles:
+      - angle: "Angle 1 — 45° isometric product shot"
+        prompt: >
+          Commercial greenhouse inter-row LED lighting strip, 30mm wide anodized aluminum extrusion,
+          1200mm length, two parallel LED chip rows visible on top face (alternating red and blue-white chips,
+          8mm row spacing), two stainless steel spring clips mounted at 300mm from each end,
+          M12 waterproof connectors at both ends with short black cable stub.
+          Signal white RAL9003 color, matte anodized aluminum surface texture.
+          45-degree isometric view, studio product photography, soft diffused lighting,
+          dark gradient background, 8K resolution, photorealistic, no text, no plants.
+
+      - angle: "Angle 2 — side cross-section 90°"
+        prompt: >
+          Side view of 30mm-wide aluminum LED strip cross-section, 1200mm length shown in full,
+          ultra-slender profile (30mm height), two LED rows visible on top surface,
+          spring clip silhouette visible at left position, M12 connector at right end.
+          Signal white matte aluminum. Clean white background, technical precision,
+          photorealistic product render, side elevation view, 8K, no text.
+
+      - angle: "Angle 3 — installation use state"
+        prompt: >
+          Wide-angle interior view of commercial tomato greenhouse, four rows of white LED strips
+          running horizontally between tall tomato plant rows at 0.8m height,
+          strips suspended from horizontal steel wires via small spring clips,
+          red-purple glow illuminating dense green foliage and fruit clusters from below the canopy,
+          industrial greenhouse structure with white painted steel, natural daylight from roof panels above,
+          slight humidity haze in air. Photorealistic, cinematic greenhouse atmosphere, 8K, no text.
+
+      - angle: "Angle 4 — detail close-up: spring clip"
+        prompt: >
+          Macro close-up of stainless steel spring clip mounted on white aluminum LED strip,
+          clip gripping a 6mm galvanized steel wire, leaf spring visible,
+          30mm aluminum substrate texture in background, M12 connector visible at far end.
+          Studio macro photography, sharp focus on clip mechanism, soft background bokeh,
+          photorealistic, 8K, no text.
+
+  # ── C-02 SlideNode SN-40 提示词 ──────────────────────
+  c02_prompts:
+    styling_summary: >
+      Product: commercial horticultural grow light node (SlideNode SN-40).
+      Use: clipped to irrigation rail inside greenhouse, slides up weekly as crops grow.
+      Form: circular disc, 80mm diameter × 20mm thick, flat profile.
+      Approved feeling words: compact, circular, functional, industrial, matte.
+      Form logic: anthracite gray die-cast aluminum disc body;
+      COB lens 55mm diameter centered on front face, slight 2mm recess;
+      top-mounted clamp with visible thumb-press release button and stainless spring;
+      no visible fins or antenna.
+      CMF: RAL7016 Anthracite Gray powder coat, matte GU15; transparent PC lens center.
+      Must include: circular disc form, centered lens, top clamp with release button, cable exit.
+      Must not include: glowing aura, decorative rings, sci-fi elements, visible PCB.
+
+    angles:
+      - angle: "Angle 1 — 45° isometric product shot"
+        prompt: >
+          Circular horticultural grow light node, 80mm diameter × 20mm thick disc form,
+          anthracite gray RAL7016 die-cast aluminum body with matte powder-coated surface,
+          55mm diameter transparent optical-grade polycarbonate COB lens centered on front face
+          with 2mm recess, top-mounted sliding clamp (35mm wide) with visible thumb-press release
+          button (12mm diameter) and stainless steel leaf spring, short black cable exiting bottom edge.
+          45-degree isometric view, studio product photography, soft diffused lighting,
+          dark background, 8K resolution, photorealistic, no text, no plants.
+
+      - angle: "Angle 2 — front face elevation"
+        prompt: >
+          Front face view of circular grow light node, 80mm diameter disc,
+          anthracite gray matte powder-coated aluminum body,
+          55mm transparent PC lens centered showing COB LED array behind,
+          small green status LED indicator dot at 2 o'clock position on bezel,
+          clean circular parting line between lens and body.
+          Flat front elevation, studio lighting, white background,
+          photorealistic, technical precision, 8K, no text.
+
+      - angle: "Angle 3 — use state on rail"
+        prompt: >
+          Four anthracite gray circular disc grow light nodes clipped onto a horizontal
+          galvanized steel irrigation rail (32mm diameter pipe) inside a commercial greenhouse,
+          nodes spaced 500mm apart, each suspended at different heights alongside tall tomato plants
+          (plants at various growth stages from 0.5m to 2.5m tall),
+          warm red-purple COB glow from each node illuminating nearby leaf clusters,
+          industrial greenhouse background with white steel structure,
+          photorealistic, cinematic depth of field, 8K, no text.
+
+      - angle: "Angle 4 — detail close-up: clamp mechanism"
+        prompt: >
+          Macro close-up of the top-mounted sliding clamp on anthracite gray circular grow light node,
+          thumb-press release button (12mm, dark gray) visible on front of clamp body,
+          stainless steel 316L leaf spring partially visible inside clamp gap,
+          clamp gripping a 32mm galvanized steel pipe rail, PA66 nylon clamp body texture visible.
+          Studio macro photography, sharp focus on clamp mechanism, shallow depth of field,
+          photorealistic, 8K, no text.

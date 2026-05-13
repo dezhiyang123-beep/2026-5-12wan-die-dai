@@ -1,0 +1,87 @@
+# 03_direction_space.schema.yaml — G3方向空间
+
+schema_version: "2.0"
+
+required:
+  directions:
+    type: list
+    description: "设计方向候选，2-3条，不多不少"
+    item_schema:
+      name:
+        type: string
+        description: "方向代号+简称，如D-A: 极致便携"
+      core_value:
+        type: string
+        description: "核心价值主张，1句话，去掉就变成别的东西"
+      target_user:
+        type: string
+        description: "具体目标用户描述"
+      buying_reason:
+        type: string
+        description: "用户购买的真实理由，非设计师自嗨"
+      cost_tier:
+        type: string
+        description: "成本层级，如$8-12 BOM"
+      max_risk:
+        type: string
+        description: "最大风险点"
+      oem_fit:
+        type: enum
+        values: ["high", "medium", "low"]
+      counter_argument:
+        type: string
+        required_hard: true
+        description: "为什么这个方向可能是错的，不得为空"
+      behavior_contradiction:
+        type: string
+        description: "用户行为矛盾，格式：要[A]就损失[B]"
+      form_handoff_brief:
+        type: object
+        required_hard: true
+        description: "6个字段全部必填，任一UNKNOWN→回G1"
+        fields:
+          visual_signal_to_embody:
+            type: string
+            required_hard: true
+            description: "造型需要传递的核心视觉信号，≥15字，具体描述"
+          installation_context:
+            type: string
+            required_hard: true
+            description: "安装场景的物理约束（尺寸/位置/周边障碍物）"
+          engineering_redline:
+            type: string
+            required_hard: true
+            description: "不可逾越的工程红线"
+          cost_ceiling_per_unit:
+            type: string
+            required_hard: true
+            description: "BOM上限，$X.XX格式，有依据"
+          must_not_look_like:
+            type: string
+            required_hard: true
+            description: "绝对不能像什么，1-3个参照物"
+          must_keep_customer_signal:
+            type: string
+            required_hard: true
+            description: "必须保留的客户品牌识别信号"
+
+  strategist_recommendation:
+    type: object
+    fields:
+      pick:
+        type: string
+        description: "推荐方向代号，如D-A"
+      reason:
+        type: string
+        description: "推荐理由，≤2句话"
+      might_be_wrong:
+        type: string
+        required_hard: true
+        description: "推荐可能错在哪，必填，不得为空"
+
+validation:
+  - directions数量必须是2-3条
+  - 每个方向的counter_argument不得为空
+  - form_handoff_brief的6个字段全部不得为UNKNOWN
+  - strategist_recommendation.might_be_wrong不得为空
+  - 方向之间core_value必须结构性不同（不是同一思路变体）

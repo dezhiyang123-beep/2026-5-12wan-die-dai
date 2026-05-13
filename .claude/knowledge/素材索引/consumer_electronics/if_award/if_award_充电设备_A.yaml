@@ -1,0 +1,394 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "充电设备"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_charger_001"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/04.jpg"
+        image_role: "hero"
+        visual_anchor: "双充电头收纳在底座凹槽内，俯视图清晰展示模块化收纳结构"
+    product_name: "GaN 67W模块化充电站（含可收缩线缆）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "充电设备"]
+    design_language:
+      silhouette: "竖向矩形底座，顶部开口收纳两个充电头，圆角处理，整体接近正方形砖块比例"
+      light_opening: "底座正面黄色USB-C接口指示条，作为唯一色彩焦点"
+      thermal: "无外露散热结构，内部GaN模块被外壳完全包覆"
+      cmf:
+        color: "全白（哑光白）"
+        material: "ABS塑料"
+        finish: "哑光喷涂"
+      mounting: "桌面摆放，底部无插脚"
+      signature_detail: "两个充电头嵌入底座凹槽的收纳姿态是核心记忆点；黄色USB-C接口条是唯一跳色"
+    design_level:
+      score: 4
+      reason: "模块化收纳概念有创意，将充电头与底座整合为一体系统；收纳姿态在品类内罕见；黄色接口条是精准的焦点控制"
+    design_tags: ["模块化", "收纳整合", "GaN快充", "系统化设计", "H05模块化", "H07极简整合"]
+    hero_feature: "充电头可完全收入底座凹槽，形成一体化充电系统，出行时整洁无线缆缠绕"
+    problem_solved: "多设备出行时充电头与线缆散乱收纳问题"
+    transferable_technique: "凹槽收纳配件的整合设计语言可迁移至其他需要配件管理的充电产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_charger_002"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/05.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "同款GaN充电器插入桌面插座使用场景，同时为手机、AirPods、笔记本供电"
+    product_name: "GaN 67W三口快充充电器（使用场景图）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "充电设备"]
+    design_language:
+      silhouette: "正方形砖块体，四面圆角，插脚隐藏在顶部，整体无明显分件线"
+      light_opening: "无发光元件，依靠黄色USB-C标识传达功率信息"
+      thermal: "全包覆，无外露散热"
+      cmf:
+        color: "全白"
+        material: "ABS"
+        finish: "哑光"
+      mounting: "壁插（直插美标插座）"
+      signature_detail: "正面大字印刷'67W GaN'功率标识，功能外显作为设计语言"
+    design_level:
+      score: 3
+      reason: "与001为同一产品系列的使用场景图，设计本身无额外亮点，但三C口同时快充的功能集成值得记录"
+    design_tags: ["GaN快充", "多口充电", "壁插式", "H11功能外显"]
+    hero_feature: "3个全功率USB-C口同时快充，无功率分配损耗"
+    problem_solved: "单插座位置同时满足多设备快充需求"
+    transferable_technique: "功率数字大字正面外显的信息传达手法，让用户免于查阅说明书"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_charger_003"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/08.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向太阳能移动电源正视图，白色边框+蓝色太阳能板+顶部矩形镂空提手"
+    product_name: "太阳能移动电源（竖向提手款）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "充电设备"]
+    design_language:
+      silhouette: "竖向矩形板，顶部延伸出圆角矩形镂空提手，整体比例约1:2.5（宽高）"
+      light_opening: "无主动发光，太阳能板本身深蓝色形成视觉重心"
+      thermal: "自然散热，无主动散热结构"
+      cmf:
+        color: "白色边框 + 深蓝太阳能板"
+        material: "ABS壳体 + 单晶硅太阳能电池"
+        finish: "哑光白壳 + 太阳能板玻璃面"
+      mounting: "手持/挂钩/立放"
+      signature_detail: "顶部镂空提手将太阳能板和手提功能整合为一体，轮廓识别度极高"
+    design_level:
+      score: 4
+      reason: "镂空提手与主体一体成型的轮廓设计具有强烈记忆点；白蓝色彩对比清晰传达太阳能属性；比例克制优雅"
+    design_tags: ["太阳能充电", "移动电源", "提手设计", "户外", "H07极简整合", "H11功能外显"]
+    hero_feature: "顶部镂空提手与太阳能板框架一体化，轮廓在品类内独特且功能直观"
+    problem_solved: "户外无电源环境下通过太阳能为设备持续供电，同时便于携挂"
+    transferable_technique: "将功能性结构（提手/挂钩）与外壳轮廓整合为单一造型语言，避免附加件破坏整体感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_charger_004"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/09.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "同款太阳能移动电源横放，通过短线缆为手机充电的使用场景"
+    product_name: "太阳能移动电源（横向使用场景图）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "充电设备"]
+    design_language:
+      silhouette: "横向放置时顶部提手变为侧部，太阳能板占据整个上表面，分件线清晰"
+      light_opening: "无"
+      thermal: "无主动散热"
+      cmf:
+        color: "白色壳体 + 深蓝太阳能板"
+        material: "ABS + 单晶硅"
+        finish: "哑光白"
+      mounting: "平铺桌面"
+      signature_detail: "侧面可见充电接口和功能按钮集中于一侧边"
+    design_level:
+      score: 3
+      reason: "与003为同款产品不同视角，场景图提供了使用状态信息，设计评分与主图一致但角度信息量较低"
+    design_tags: ["太阳能充电", "移动电源", "使用场景"]
+    hero_feature: "太阳能板覆盖整个主表面，最大化吸光面积"
+    problem_solved: "户外充电"
+    transferable_technique: "单侧集中所有接口与按键，其余面保持干净的布局策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_charger_005"
+    source_images:
+      - filename: "111.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/111.jpg"
+        image_role: "hero"
+        visual_anchor: "AKG品牌超薄黑色移动电源，通过短3.5mm线缆贴合手机背部使用"
+    product_name: "AKG便携移动电源（超薄背贴款）"
+    brand_name: "AKG"
+    brand_confidence: "high"
+    category_path: ["消费电子", "充电设备"]
+    design_language:
+      silhouette: "极薄矩形片状，长宽比约1:1.8，厚度极低（约8mm），与手机背面等宽"
+      light_opening: "无"
+      thermal: "无主动散热，超薄被动散热"
+      cmf:
+        color: "全黑"
+        material: "工程塑料"
+        finish: "哑光黑"
+      mounting: "手持或贴合手机背面使用，通过短线缆连接"
+      signature_detail: "AKG白色品牌标识居中；超短线缆从上沿引出，贴合使用时无悬空线缆"
+    design_level:
+      score: 3
+      reason: "产品形态与手机背面贴合的概念清晰，超薄设计减少携带负担；但整体造型较为平淡，无明显造型突破"
+    design_tags: ["移动电源", "超薄", "背贴式", "H07极简整合", "H09隐藏工程"]
+    hero_feature: "超薄机身与手机背面贴合，短线缆消除悬空感，形成手机+电源的一体握持体验"
+    problem_solved: "移动电源使用时线缆悬晃、握持不便的问题"
+    transferable_technique: "极短线缆设计使配件与主设备形成功能上的物理整合，减少使用摩擦"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_charger_006"
+    source_images:
+      - filename: "33.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/33.jpg"
+        image_role: "hero"
+        visual_anchor: "NETGEAR无线充电器俯视图，超椭圆白色壳体，大圆浮雕居中，顶部灰色织物拉耳"
+    product_name: "NETGEAR无线充电器（俯视图）"
+    brand_name: "NETGEAR"
+    brand_confidence: "high"
+    category_path: ["消费电子", "充电设备"]
+    design_language:
+      silhouette: "超椭圆（squircle）正方形平板，俯视比例约1:1，四角极大圆角接近圆形"
+      light_opening: "底部边缘极细绿色LED状态指示条，克制隐藏"
+      thermal: "全平面无散热开口，GaN或标准无线充模块内置"
+      cmf:
+        color: "全白 + 灰色织物拉耳"
+        material: "ABS外壳 + 织物（拉耳部分）"
+        finish: "哑光白 + 织物纹理"
+      mounting: "平放桌面"
+      signature_detail: "居中大圆浮雕区域是无线充电感应区的视觉化外显；顶部织物拉耳提供材质对比和提取触点"
+    design_level:
+      score: 4
+      reason: "超椭圆轮廓在无线充电品类中识别度高；大圆浮雕将功能区域视觉化；织物拉耳是精准的材质跳变点；LED状态指示极度克制"
+    design_tags: ["无线充电", "超椭圆", "居家风格", "织物材质", "H07极简整合", "H10材料表达", "H08对比强调"]
+    hero_feature: "超椭圆轮廓+居中大圆浮雕，将无线充电感应区以建筑感的方式视觉外显"
+    problem_solved: "无线充电器放置位置不直观、放置对准困难"
+    transferable_technique: "用浮雕圆圈在平面上暗示功能感应区，无需文字说明即可引导用户放置设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_charger_007"
+    source_images:
+      - filename: "34.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/34.jpg"
+        image_role: "detail"
+        visual_anchor: "同款NETGEAR无线充电器3/4俯视角，展示盒体厚度、底部分件线及绿色LED"
+    product_name: "NETGEAR无线充电器（3/4角度图）"
+    brand_name: "NETGEAR"
+    brand_confidence: "high"
+    category_path: ["消费电子", "充电设备"]
+    design_language:
+      silhouette: "盒体厚度约20-25mm，底部有一个连接器凸起，壳体为上下两件分模"
+      light_opening: "前边缘绿色LED条，宽约15mm，极细"
+      thermal: "底部可见轻微通风间隙"
+      cmf:
+        color: "全白"
+        material: "ABS"
+        finish: "哑光白"
+      mounting: "平放，底部橡胶防滑"
+      signature_detail: "上盖大圆与盒体边缘之间形成浅浅的灰色阴影沟槽，增加层次感"
+    design_level:
+      score: 3
+      reason: "与006同款产品的补充角度，展示了厚度和底部细节；独立评分较低因为信息量低于俯视hero图"
+    design_tags: ["无线充电", "NETGEAR", "角度图"]
+    hero_feature: "上下壳体分件线与底部LED指示同在一个水平带，形成视觉腰线"
+    problem_solved: "角度图补充厚度和底部结构信息"
+    transferable_technique: "将状态指示LED置于前侧边缘腰线位置，坐姿使用时视线自然落点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_charger_008"
+    source_images:
+      - filename: "44.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/44.jpg"
+        image_role: "hero"
+        visual_anchor: "Sun Harmonics圆柱形太阳能移动充电器，全黑圆柱体缠绕CIGS柔性太阳能薄膜，两端彩色编织绳"
+    product_name: "Sun Harmonics CIGS柔性太阳能圆柱充电器"
+    brand_name: "Sun Harmonics（尚越光电）"
+    brand_confidence: "high"
+    category_path: ["消费电子", "充电设备"]
+    design_language:
+      silhouette: "标准圆柱体，长径比约4:1，类似大型手电筒或保温杯形态"
+      light_opening: "右端圆形端盖可见电源按钮和USB接口"
+      thermal: "圆柱表面CIGS薄膜覆盖，无主动散热"
+      cmf:
+        color: "哑黑主体 + 彩色编织绳（彩虹色）"
+        material: "铝合金或ABS圆柱体 + CIGS柔性太阳能薄膜 + 尼龙编织绳"
+        finish: "亚光黑 + 柔性太阳能薄膜纹理 + 彩色编织"
+      mounting: "手持/包外悬挂"
+      signature_detail: "CIGS太阳能薄膜缠绕圆柱是核心技术与造型的一体化；两端彩色编织绳作为户外装备感的视觉语言"
+    design_level:
+      score: 5
+      reason: "将柔性太阳能技术与圆柱形移动电源完美结合，太阳能薄膜即是功能件也是主要表面纹理；集成蓝牙音箱+照明+充电三合一；彩色绳端与哑黑主体的对比强烈且准确传达户外基因；品类内无重复"
+    design_tags: ["太阳能充电", "CIGS柔性薄膜", "圆柱形态", "户外装备", "多功能集成", "H10材料表达", "H05模块化", "H11功能外显"]
+    hero_feature: "CIGS柔性太阳能薄膜完整缠绕圆柱外表面，将技术核心直接外显为产品主视觉"
+    problem_solved: "户外探险场景中充电、照明、音乐需求的一体化携带，解决多设备累赘问题"
+    transferable_technique: "将技术功能材料（太阳能薄膜、导电涂层等）作为外观主表面材质，技术即设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_charger_009"
+    source_images:
+      - filename: "46.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/46.jpg"
+        image_role: "hero"
+        visual_anchor: "深枪灰无线充电器，圆角三角形轮廓，顶面凹陷哑光黑椭圆感应区，腰部四条平行凹槽散热纹"
+    product_name: "无线充电器（圆角三角形轮廓款）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "充电设备"]
+    design_language:
+      silhouette: "圆角等边三角形平台，顶面略微隆起，整体厚度约18mm，底部平整"
+      light_opening: "无发光元件可见（侧面按钮为功能件）"
+      thermal: "腰部一圈四条水平凹槽，形成散热通道也是主要分件线区域"
+      cmf:
+        color: "深枪灰（gunmetal）+ 哑光黑椭圆感应区"
+        material: "铝合金或高光泽工程塑料"
+        finish: "拉丝+阳极氧化（顶面）/ 抛光黑玻璃（感应区）"
+      mounting: "桌面平放"
+      signature_detail: "顶面嵌入哑光黑椭圆玻璃的双材质对比；腰部凹槽散热带形成强烈水平节奏"
+    design_level:
+      score: 4
+      reason: "圆角三角形在无线充电品类中形态独特；枪灰+黑双材质对比精准；腰部凹槽散热带兼顾功能与视觉节奏；侧面双按钮布局工整"
+    design_tags: ["无线充电", "圆角三角形", "枪灰配色", "散热纹理", "双材质对比", "H03分件线", "H08对比强调", "H10材料表达"]
+    hero_feature: "圆角三角形轮廓 + 腰部四条平行凹槽，在纯白无线充电器主流中形成强烈反差"
+    problem_solved: "桌面充电器的装饰性与桌面美学融合，不像工具更像摆件"
+    transferable_technique: "腰部一圈凹槽带将产品分为上下两个视觉区，散热结构与分件线合并，一次解决功能和美学"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_charger_010"
+    source_images:
+      - filename: "47.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/47.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款圆角三角形无线充电器三件叠放展示，深枪灰/中灰/深灰三色变体"
+    product_name: "无线充电器（圆角三角形轮廓款 - 色系展示）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "充电设备"]
+    design_language:
+      silhouette: "与009相同，三件叠放展示色彩矩阵"
+      light_opening: "无"
+      thermal: "同009"
+      cmf:
+        color: "深枪灰 / 中灰 / 深石墨黑（三色变体）"
+        material: "同009"
+        finish: "同009"
+      mounting: "桌面平放"
+      signature_detail: "三款色彩均在灰黑色系内微差，产品线色彩策略聚焦专业/高级感，无亮色版本"
+    design_level:
+      score: 3
+      reason: "色彩展示图，设计信息量以009为准；三款灰色变体策略显示品牌色彩观点克制高级，不做亮色讨好"
+    design_tags: ["无线充电", "色系展示", "灰色系", "产品线"]
+    hero_feature: "全灰色系色彩策略，枪灰/钛灰/深灰三档，适配高端桌面场景"
+    problem_solved: "产品线色彩覆盖"
+    transferable_technique: "在单一灰色调内通过明度变化区分产品等级，避免颜色跳变破坏整体调性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_charger_011"
+    source_images:
+      - filename: "48.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/48.jpg"
+        image_role: "hero"
+        visual_anchor: "Nokia品牌壁挂式电源适配器，纯白矩形砖块体，底部出线，无任何装饰"
+    product_name: "Nokia壁挂电源适配器"
+    brand_name: "Nokia"
+    brand_confidence: "high"
+    category_path: ["消费电子", "充电设备"]
+    design_language:
+      silhouette: "标准矩形砖块，立式挂墙安装，长宽高比约1:1.7:0.6，四角轻微圆角"
+      light_opening: "顶面仅一个极小状态指示LED（直径约2mm）"
+      thermal: "全密封外壳，无可见散热结构"
+      cmf:
+        color: "全白"
+        material: "ABS"
+        finish: "哑光白"
+      mounting: "壁挂固定安装，底部出线走线"
+      signature_detail: "Nokia字样小字低调印于正面下方1/3位置；底部出线孔通过旋转锁紧帽固定线缆方向"
+    design_level:
+      score: 2
+      reason: "造型极度保守，标准矩形无任何造型特征；优点是零视觉干扰、安装后几乎隐形；底部旋转锁线帽是唯一功能性细节亮点，但整体设计语言平淡"
+    design_tags: ["壁挂充电", "极简主义", "工业风", "隐形安装", "Nokia", "H07极简整合"]
+    hero_feature: "底部旋转锁紧帽可固定线缆出线方向，避免线缆弯折或随意悬垂"
+    problem_solved: "固定安装场景中电源适配器外观与环境融合，不破坏墙面整洁感"
+    transferable_technique: "旋转出线帽控制线缆方向的工程细节，可迁移至其他需要隐藏线缆的充电产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

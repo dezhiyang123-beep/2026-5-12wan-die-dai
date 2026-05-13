@@ -1,0 +1,153 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "条形音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/条形音箱/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_soundbar_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/条形音箱/01.jpg"
+        image_role: "hero"
+        visual_anchor: "斜透视全景，条形主体+超低音炮+两型号对比；顶部琥珀色触控屏窗口"
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/条形音箱/02.jpg"
+        image_role: "detail"
+        visual_anchor: "顶面特写，琥珀色OLED/LCD状态显示窗+触控按键区"
+    product_name: "Samsung HW-F751 Soundbar"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["音箱", "条形音箱"]
+    design_language:
+      silhouette: "超长细条形，长宽比约15:1，截面为扁矩形，顶面平整；正面全面积细密金属微孔格栅，顶部居中开有小型矩形显示窗"
+      light_opening: "正面全面积金属微孔格栅透音；顶面矩形显示窗透光"
+      thermal: "无独立散热开口，封闭铝合金机身"
+      cmf:
+        color: "银色/香槟铝色机身，琥珀色/暖金色OLED显示窗为唯一暖色点缀"
+        material: "铝合金机身，金属冲孔格栅面，玻璃或亚克力显示窗盖"
+        finish: "机身拉丝银铝哑光，格栅面细密微孔，显示窗背光琥珀暖色"
+      mounting: "电视柜桌面放置或壁挂"
+      signature_detail: "顶面居中小型矩形琥珀色显示窗，是极简表面上唯一的信息与情感出口；超长低调银色条形轮廓"
+    design_level:
+      score: 4
+      reason: "三段式机型对比（含超低音炮）展现完整产品系统；顶部琥珀显示窗在银色哑光表面中制造精准视觉焦点；整体设计克制精致，属同期soundbar高水准"
+    design_tags: ["超长条形", "银色铝合金", "琥珀显示窗", "超低音炮", "金属微孔格栅", "极简表面", "顶部触控"]
+    hero_feature: "顶面居中小型矩形琥珀色状态显示窗，在银色哑光金属平面上形成温暖的唯一视觉焦点"
+    problem_solved: "条形音箱无明显正面信息反馈，顶部显示窗在不破坏正面极简格栅的前提下提供状态可视化"
+    transferable_technique: "在极简单色大面积表面上设置极小尺寸但高对比度的信息窗口（暖色窗+冷色金属体），以最小代价制造最强视觉锚点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_soundbar_002"
+    source_images:
+      - filename: "119.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/条形音箱/119.jpg"
+        image_role: "hero"
+        visual_anchor: "壁挂场景图，黑色超薄条形音箱配木质悬浮托架，电视正下方"
+    product_name: "超薄壁挂条形音箱（品牌待确认）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "条形音箱"]
+    design_language:
+      silhouette: "超薄横向条形，截面为极薄楔形（前薄后略厚），正面黑色织物格栅占全部正面面积，两端倒角平滑；侧面贴靠木质壁挂托架，形成音箱+搁板的组合单元"
+      light_opening: "正面全面积黑色细密织物透音面"
+      thermal: "无独立散热结构"
+      cmf:
+        color: "哑光深黑主体，搭配原木色悬浮托架，冷暖材质对比"
+        material: "黑色硬质机身（铝合金或ABS），黑色音频织物面，实木或木纹托架"
+        finish: "机身哑光黑，织物细腻，木托架自然木纹"
+      mounting: "壁挂，通过木质托架固定于墙面，音箱嵌入托架"
+      signature_detail: "木质悬浮托架将条形音箱变为墙面装置艺术，音箱与搁板融为一体的家居化安装方式"
+    design_level:
+      score: 4
+      reason: "壁挂木托架设计将电子产品转化为家居装饰单元，去电子化意图明确；黑色超薄机身+原木托架的材质对比精准；场景化展示完整传达家居融合理念"
+    design_tags: ["壁挂", "木质托架", "超薄", "黑色织物", "家居化", "场景化安装", "去电子化"]
+    hero_feature: "木质搁板式壁挂托架令条形音箱成为墙面家居装置，音箱与托架组合后视觉完整度高于单独产品"
+    problem_solved: "条形音箱摆放在电视柜上显得凌乱，壁挂木托架方案令音箱悬浮于墙面，整合进家居系统同时清空柜面"
+    transferable_technique: "为电子产品设计专属安装配件（木托架），使安装状态成为最佳展示状态；黑色电子设备+原木配件的家居化材质配对法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_soundbar_003"
+    source_images:
+      - filename: "43.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/条形音箱/43.jpg"
+        image_role: "hero"
+        visual_anchor: "顶部斜侧特写，白色平行条纹格栅+楔形截面+黑色顶盖窄条"
+    product_name: "Basalte 条形音箱"
+    brand_name: "Basalte"
+    brand_confidence: "high"
+    category_path: ["音箱", "条形音箱"]
+    design_language:
+      silhouette: "横向条形，截面为正面高后面低的楔形，正面为密集平行凸脊条纹格栅，顶面窄边为黑色品牌标签条；整体如建筑百叶窗"
+      light_opening: "正面全面积平行凸脊条纹透音格栅，条纹间缝隙为声音通道"
+      thermal: "无独立散热开口"
+      cmf:
+        color: "全白主体，黑色顶部品牌标签条为唯一对比色"
+        material: "铝合金或硬质白色塑料机身，机加工或模压平行条纹格栅"
+        finish: "白色哑光精细，条纹棱边清晰，黑色顶条哑光"
+      mounting: "桌面或壁挂"
+      signature_detail: "密集平行凸脊条纹格栅，条纹截面清晰锐利，建筑百叶感极强；楔形截面强调方向性"
+    design_level:
+      score: 5
+      reason: "Basalte是比利时高端智能家居品牌，设计语言极度克制精准；白色平行条纹格栅的制造精度与视觉密度达到建筑材料级别；楔形截面是高级设计细节"
+    design_tags: ["平行条纹格栅", "楔形截面", "全白", "建筑感", "Basalte", "高端智能家居", "精密制造"]
+    hero_feature: "密集锐利的平行凸脊条纹格栅占据整个正面，建筑百叶窗质感，制造精度即设计语言"
+    problem_solved: "声音需要出口但格栅通常是视觉噪音，Basalte将格栅升级为设计主角，以条纹密度与精度作为品牌高端信号"
+    transferable_technique: "将功能性开口（格栅）的密度、精度、截面形状作为设计语言本身，令工程必要件成为美学核心；楔形截面赋予横向条形产品方向感与重心感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_soundbar_004"
+    source_images:
+      - filename: "53.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/条形音箱/53.jpg"
+        image_role: "hero"
+        visual_anchor: "正面全景，中央黑色超细条形主体+左右对称小型卫星方块音箱，白底棚拍"
+    product_name: "条形音箱+卫星箱套装（品牌待确认）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "条形音箱"]
+    design_language:
+      silhouette: "三件套系统：中央超细长条形主bar（正面高度极低，约为卫星箱1/3），左右两个小型正方形卫星箱；三者视觉上形成对称横向展开构图"
+      light_opening: "主bar正面细密金属微孔格栅；卫星箱正面方形微孔格栅"
+      thermal: "无独立散热结构"
+      cmf:
+        color: "全黑体系，深黑哑光统一三件外观"
+        material: "硬质黑色塑料或铝合金，金属微孔格栅"
+        finish: "全体哑光深黑，格栅面轻微光泽差异"
+      mounting: "主bar桌面放置；卫星箱桌面放置或壁挂"
+      signature_detail: "主bar超低轮廓（几乎贴地）与卫星箱形成极端高度对比；三件套横向展开的对称布局有强烈仪式感"
+    design_level:
+      score: 3
+      reason: "三件套系统设计整体协调，全黑统一感强；主bar超低高度是产品特点但视觉辨识度依赖系统展示；单独主bar设计语言较为平实"
+    design_tags: ["三件套", "卫星箱", "超低轮廓", "全黑", "对称布局", "5.1系统", "微孔格栅"]
+    hero_feature: "主bar超低扁平轮廓与正方形卫星箱的高度反差，三件套展开后的对称仪式感"
+    problem_solved: "传统条形音箱缺少环绕声场，独立卫星箱方案在维持条形主体极简外观的前提下扩展空间音效"
+    transferable_technique: "同一产品系统内通过高度比例的极端对比制造视觉张力；全黑统一配色令多件套产品在视觉上成为一个整体而非零散组合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

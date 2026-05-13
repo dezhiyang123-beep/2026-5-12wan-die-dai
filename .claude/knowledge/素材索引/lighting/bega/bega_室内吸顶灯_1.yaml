@@ -1,0 +1,449 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内吸顶灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/"
+  generated_at: "2026-05-09"
+products:
+  - product_id: "bega_室内吸顶灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色哑光圆筒体，铜色内腔，开口朝下"
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/02.jpg"
+        image_role: "colorway_variant"
+        visual_anchor: "白色哑光圆筒体，金色蜂巢格栅内腔"
+    product_name: "圆筒吸顶射灯（铜/金格栅内腔）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "圆筒型"]
+    design_language:
+      silhouette: "正圆筒形，高宽比约1:1，轮廓极简无任何装饰线"
+      light_opening: "开口朝下，圆形开口，内腔可见金属反射碗（铜色或金色蜂巢格栅）"
+      thermal: "全铝压铸筒壁兼散热，无独立散热鳍片"
+      cmf:
+        color: "版本A：哑光黑外/铜色内腔；版本B：哑光白外/金色蜂巢内腔"
+        material: "压铸铝合金"
+        finish: "细砂哑光喷涂（外），拉丝或格栅处理（内腔反射面）"
+      mounting: "直接贴面安装，顶部平贴天花"
+      signature_detail: "内外色彩强烈对比——哑光暗色外壳包裹暖金属光泽内腔，仰望时产生珠宝感"
+    design_level:
+      score: 4
+      reason: "形态极度克制，色彩冲突制造戏剧性，内腔材质工艺考究，体现BEGA精准美学"
+    design_tags: ["圆筒", "双色对比", "铜色内腔", "蜂巢格栅", "压铸铝", "极简几何"]
+    hero_feature: "外黑内铜的双色腔体——仰视角度呈现珠宝盒式的色彩惊喜"
+    problem_solved: "在天花安装的灯具中实现强视觉个性，同时保持结构极简"
+    transferable_technique: "外壳与内腔使用高对比色彩/材质，创造仅在功能使用角度可见的隐藏惊喜；蜂巢格栅作为防眩+装饰双功能内腔处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吸顶灯_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "白色可旋转调角吸顶射灯，圆形LED矩阵光源面，扁圆底座+倾斜灯头"
+    product_name: "可调角度吸顶射灯（LED矩阵）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "可调角度射灯"]
+    design_language:
+      silhouette: "扁圆形底座+圆形灯头，灯头可360°旋转并倾斜调角，侧面呈不对称悬臂感"
+      light_opening: "圆形光源面朝下，LED多点矩阵排列，多边形反射杯单元可见"
+      thermal: "灯头背部形成微弧形散热体，结构紧凑"
+      cmf:
+        color: "全白"
+        material: "压铸铝合金"
+        finish: "细砂哑光白色喷涂"
+      mounting: "贴面安装，底座直接固定天花"
+      signature_detail: "圆形多单元LED矩阵排列形成工程美学光源面，倾斜角可调实现精准布光"
+    design_level:
+      score: 4
+      reason: "功能性与结构美学高度统一，LED矩阵面板既是功能组件也是视觉焦点，调角机构克制隐藏"
+    design_tags: ["可调角度", "LED矩阵", "圆形光源", "全白", "压铸铝", "射灯"]
+    hero_feature: "多单元LED矩阵光源面——工程结构直接成为装饰语言"
+    problem_solved: "在吸顶形式下实现可调向精准射光，同时保持吸顶灯的平整轮廓感"
+    transferable_technique: "将功能性LED矩阵阵列外露作为视觉主题，省去灯罩后反而提升工业美感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吸顶灯_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "白色长条线形吸顶灯，11格黑色微型LED格栅单元嵌入白色扁平矩形壳体"
+    product_name: "线形微格栅LED吸顶灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "线形"]
+    design_language:
+      silhouette: "长条矩形扁平体，极低高度，长宽比约8:1，白色外壳内嵌黑色格栅腔列"
+      light_opening: "11个正方形微型开口格栅单元均匀线性排列，每单元内含独立LED，黑色格栅精准防眩"
+      thermal: "扁平壳体全面积散热，无外露鳍片"
+      cmf:
+        color: "白色外壳+黑色格栅单元形成双色对比"
+        material: "压铸铝合金"
+        finish: "哑光白色喷涂（壳体），哑光黑色（格栅内腔）"
+      mounting: "贴面安装天花，壳体紧贴顶面"
+      signature_detail: "11个独立黑色微格栅单元组成线性阵列——精密感强，光束可独立控制"
+    design_level:
+      score: 5
+      reason: "将多点精准射光整合为一体线形轮廓，黑白双色格栅阵列形成强烈节奏感，代表BEGA建筑照明最高水准"
+    design_tags: ["线形", "微格栅", "多单元阵列", "黑白双色", "建筑照明", "精准防眩"]
+    hero_feature: "线性排列的多单元黑色微格栅——将精准射光束整合为干净的建筑线条"
+    problem_solved: "在需要多点精准布光的空间中提供单一干净安装线条，避免多灯具散乱"
+    transferable_technique: "多功能单元线性阵列整合为单一壳体，外形极简内部高度工程化；黑色格栅内腔与白色外壳对比兼顾防眩与美观"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吸顶灯_004"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "扁圆鼓形白色吸顶灯，底部透明平面玻璃带圆形折射纹路"
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/06.jpg"
+        image_role: "angle_variant"
+        visual_anchor: "同款稍低角度，透明玻璃底面圆形折射纹路更清晰可见"
+    product_name: "扁鼓形透明玻璃底吸顶灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "扁鼓型"]
+    design_language:
+      silhouette: "扁圆鼓形，高宽比约1:3，顶部圆边为白色铝质外环，底部为平面透明玻璃"
+      light_opening: "整面透明圆形玻璃底板，内有同心圆折射纹路，中央可见LED光源"
+      thermal: "顶部铝环圆边兼作散热，低剖面设计"
+      cmf:
+        color: "白色铝环+透明无色玻璃"
+        material: "压铸铝合金（外环）+清玻璃（底部漫射盖）"
+        finish: "哑光白色喷涂（铝环），抛光透明（玻璃底）"
+      mounting: "贴面安装，白色铝环顶部直贴天花"
+      signature_detail: "透明平玻璃底面带同心圆精密折射纹——光学工程美感直接外显"
+    design_level:
+      score: 4
+      reason: "透明玻璃底面的同心圆折射纹路将光学功能转化为装饰语言，形态克制，材质对比明确"
+    design_tags: ["扁鼓形", "透明玻璃", "折射纹路", "白色铝环", "光学纹理", "极简"]
+    hero_feature: "平面透明玻璃底盖上的精密同心圆折射纹路——光学结构直接成为装饰图案"
+    problem_solved: "提供均匀向下漫射光的同时，通过玻璃纹路赋予灯具在关灯状态下的精致感"
+    transferable_technique: "将光学折射纹路（功能性）作为可见装饰图案，不额外增加零件数量；透明材质使内部工程结构成为视觉内容"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吸顶灯_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "双层圆鼓形白色吸顶灯，上层稍宽下层稍窄，下层内凹可见暗腔，无玻璃"
+    product_name: "双段圆鼓形吸顶灯（哑光白，无扩散板）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "圆鼓型"]
+    design_language:
+      silhouette: "两段圆鼓叠加，上大下小，交界处有细分件线，整体偏高"
+      light_opening: "下段圆筒底部开口，内腔白色漫反射，无玻璃或格栅遮挡"
+      thermal: "双段铝体分担散热，上段为主体散热区"
+      cmf:
+        color: "全哑光白"
+        material: "压铸铝合金"
+        finish: "细砂哑光白色喷涂"
+      mounting: "贴面安装，上段顶部紧贴天花"
+      signature_detail: "两段直径差异造成视觉上的分件节奏，简洁分件线成为唯一装饰语言"
+    design_level:
+      score: 3
+      reason: "形态干净，双段比例处理得当，但无特别工艺或材质亮点，属BEGA标准工程款"
+    design_tags: ["双段圆鼓", "全白", "分件线", "无扩散板", "压铸铝", "极简"]
+    hero_feature: "两段直径微差产生的分件节奏——在全白极简形态中制造唯一比例张力"
+    problem_solved: "提供直接向下泛光照明，结构简洁，适合高度受限的空间"
+    transferable_technique: "通过两段不同直径的圆柱叠加，用分件线替代表面装饰创造层次感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吸顶灯_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "扁圆鼓形白色吸顶灯，底部透明玻璃内可见蜂巢状气泡LED光源阵列"
+    product_name: "扁圆鼓形透明玻璃底吸顶灯（气泡LED阵列）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "扁鼓型"]
+    design_language:
+      silhouette: "扁圆鼓形，高宽比约1:2.5，轮廓干净无分件线"
+      light_opening: "整面透明圆形玻璃底板，内可见气泡状多LED光源阵列，点状排列"
+      thermal: "白色铝质顶部圆筒体兼散热"
+      cmf:
+        color: "白色铝质上体+透明无色玻璃底"
+        material: "压铸铝合金（上体）+清玻璃（底部）"
+        finish: "哑光白色喷涂（铝体），抛光透明（玻璃底）"
+      mounting: "贴面安装"
+      signature_detail: "透明玻璃底盖内可见气泡状多LED点阵——关灯时呈珠宝感，亮灯时透光漫射"
+    design_level:
+      score: 4
+      reason: "气泡状LED阵列通过透明玻璃直接外露，形成独特视觉纹理，兼具功能美感"
+    design_tags: ["扁鼓形", "透明玻璃", "气泡LED阵列", "白色铝体", "点阵纹理"]
+    hero_feature: "透明玻璃底面下可见的气泡状LED点阵——内部光源结构成为装饰主题"
+    problem_solved: "在提供均匀向下泛光的同时，通过内部LED阵列可见化创造独特产品个性"
+    transferable_technique: "让内部光源阵列通过透明材质直接可见，将工程结构转化为装饰纹理，无需额外装饰工序"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吸顶灯_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色圆柱立管+两个不同尺寸LED发光圆环，圆环平置天花，相交构图"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/10.jpg"
+        image_role: "config_variant"
+        visual_anchor: "同款三圆环版本，立管相同，三环错落排列"
+    product_name: "LED发光圆环吸顶灯（双环/三环）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "圆环型"]
+    design_language:
+      silhouette: "细圆柱立管从天花延伸，顶端串联2-3个不同直径发光圆环，圆环近似水平悬浮"
+      light_opening: "圆环内侧LED线发光，圆环上边缘为白色漫射出光面，下缘为黑色铝质边"
+      thermal: "圆柱立管兼散热通道"
+      cmf:
+        color: "黑色铝立管+哑光黑色环框+白色发光内沿"
+        material: "挤出铝合金（圆环）+压铸铝合金（立管底座）"
+        finish: "哑光黑色喷涂，发光面为白色漫射材料"
+      mounting: "通过圆柱立管贴面固定天花，圆环从立管侧向延伸"
+      signature_detail: "多个不同直径圆环以立管为轴串联错落——形成行星轨道式的几何构图"
+    design_level:
+      score: 5
+      reason: "将圆环发光元素组合为具有艺术装置感的几何构图，形态张力强，工程美学顶级，是BEGA在室内照明领域的代表性设计语言"
+    design_tags: ["圆环发光", "立管悬臂", "多环组合", "黑色铝", "几何构图", "装置感"]
+    hero_feature: "多个不同直径LED发光圆环以立管为轴的轨道式空间构图——照明器具达到艺术装置级别"
+    problem_solved: "在大空间中提供装饰性主灯照明，同时形成强烈视觉焦点，替代传统吊灯的视觉统治感"
+    transferable_technique: "多个圆形发光截面单元以中轴组合，通过尺寸差异与错位排布制造空间层次感；圆环内侧出光制造浮动光晕效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吸顶灯_008"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "大直径扁鼓形吸顶灯，白色铝顶板+透明圆柱侧壁+白色内凸穹顶漫射体"
+    product_name: "大圆盘透明侧壁漫射吸顶灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "大盘型"]
+    design_language:
+      silhouette: "大直径扁鼓形，白色铝顶板与透明圆柱玻璃侧壁组合，内部白色穹形漫射体可见"
+      light_opening: "透明圆柱侧壁全周发光，内部白色穹形漫射体向下+侧向发光"
+      thermal: "白色铝质顶板大面积散热"
+      cmf:
+        color: "白色铝质顶板+透明无色玻璃侧壁+白色内漫射体"
+        material: "压铸铝合金（顶板）+清玻璃（侧壁圆筒）+PMMA或玻璃（内漫射穹）"
+        finish: "哑光白色（铝顶板），抛光透明（玻璃侧壁）"
+      mounting: "贴面安装，铝顶板直贴天花"
+      signature_detail: "透明圆柱玻璃侧壁+内置白色穹形漫射体——从侧面看可完整看见灯具内部结构层次"
+    design_level:
+      score: 4
+      reason: "透明侧壁将内部漫射穹直接外露，形成独特分层视觉效果，大直径创造强泛光均匀度"
+    design_tags: ["大圆盘", "透明侧壁", "穹形漫射", "白色", "均匀泛光", "结构外露"]
+    hero_feature: "透明玻璃侧壁将内部穹形漫射体完整外露——内外结构层次成为最大视觉特征"
+    problem_solved: "在大空间提供高均匀度大面积泛光，同时通过透明侧壁避免传统大盘灯的沉重感"
+    transferable_technique: "透明材质将内部功能结构外露，减少封闭感；穹形漫射体配合透明侧壁创造360°出光效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吸顶灯_009"
+    source_images:
+      - filename: "119.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/119.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰背景下的深灰色宽壁圆筒吸顶灯特写，底部灰白色内腔清晰可见，分件线明显"
+    product_name: "厚壁圆筒吸顶灯（深灰，室外/浴室级）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "圆筒型"]
+    design_language:
+      silhouette: "高宽比约1:1的粗壁圆筒形，底部边缘有圆角分件线，整体壁厚比一般圆筒更厚实"
+      light_opening: "圆形底部开口，内腔灰白色漫反射，开口内凹深度较大"
+      thermal: "厚铝壁兼大面积散热"
+      cmf:
+        color: "深灰色（接近深石墨，非纯黑）"
+        material: "压铸铝合金"
+        finish: "细砂哑光深灰色喷涂，质感粗粝有颗粒感"
+      mounting: "贴面安装天花"
+      signature_detail: "异常厚实的铝壁截面——强调结构重量感与耐用性，区别于薄壁竞品"
+    design_level:
+      score: 3
+      reason: "形态稳重扎实，体现德国工程耐用性美学，但创新度一般，属标准工程规格款"
+    design_tags: ["圆筒", "厚壁", "深灰", "压铸铝", "耐用感", "工程款"]
+    hero_feature: "异常厚实的铝合金筒壁截面——用材料重量感传递工程可靠性"
+    problem_solved: "在高要求环境（浴室/IP防护场景）提供坚固耐用的吸顶射灯"
+    transferable_technique: "厚壁设计强化产品感知质量，即使形态极简也能传递高级感；深灰色比纯黑更具材质真实感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吸顶灯_010"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "宽扁鼓形吸顶灯，黑色外壁+铜色内腔，白色圆形漫射板居中"
+      - filename: "121.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/121.jpg"
+        image_role: "atmosphere"
+        visual_anchor: "同款实际点亮状态，铜色内腔在暗背景下形成温暖金属光晕"
+    product_name: "宽扁鼓形吸顶灯（黑外铜内+漫射板）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "扁鼓型"]
+    design_language:
+      silhouette: "宽扁鼓形，高宽比约1:4，筒壁较高，顶部贴面安装几乎无底座感"
+      light_opening: "大圆形开口向下，铜色拉丝内腔包围白色圆形漫射板，漫射板呈下凸弧面"
+      thermal: "大直径铝质鼓壁环周散热"
+      cmf:
+        color: "哑光黑色外壁+铜色拉丝内腔+白色漫射板"
+        material: "压铸铝合金（外壁）+拉丝铜质处理（内腔）+PMMA（漫射板）"
+        finish: "哑光黑色喷涂（外），铜色拉丝（内），磨砂（漫射板）"
+      mounting: "贴面安装，鼓壁顶部直贴天花"
+      signature_detail: "铜色拉丝内腔环绕白色漫射板——内腔暖色金属光泽与白色漫射光形成色温对比"
+    design_level:
+      score: 5
+      reason: "黑色外壁极简，铜色内腔精致，漫射板居中构图完美，点亮后铜色内腔光晕极具感染力，体现BEGA最高端产品美学"
+    design_tags: ["宽扁鼓", "黑外铜内", "漫射板", "拉丝铜", "双色对比", "温暖光晕"]
+    hero_feature: "铜色拉丝内腔在点亮状态下形成温暖金属光晕——功能性内腔变为最强视觉记忆点"
+    problem_solved: "在大直径泛光灯具中创造高质感视觉个性，避免大盘灯的廉价感"
+    transferable_technique: "内腔使用高反射金属材质（铜/金）营造暖色光晕，点亮时内腔成为主视觉；外壳深色克制与内腔暖色奢华形成强对比"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吸顶灯_011"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "浅扁鼓形吸顶灯，黑外铜内，白色大面积漫射板，高度更低，顶部几乎贴平天花"
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/14.jpg"
+        image_role: "colorway_variant"
+        visual_anchor: "同款但外壁为香槟金色，内腔同样配铜色，白色漫射板"
+    product_name: "超薄宽扁鼓形吸顶灯（黑或金外+铜内+漫射板）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "扁鼓型"]
+    design_language:
+      silhouette: "极浅扁鼓形，高宽比约1:6，鼓壁极低，整体几乎是一个带边框的圆盘"
+      light_opening: "大圆形向下开口，铜色内腔极浅，大白色漫射板占据绝大部分开口面积"
+      thermal: "超大直径浅铝环散热"
+      cmf:
+        color: "版本A：哑光黑外+铜色内+白漫射板；版本B：香槟金外+铜色内+白漫射板"
+        material: "压铸铝合金（外环）+铜质处理（内腔浅环）+PMMA（漫射板）"
+        finish: "哑光喷涂（外环），铜色处理（内腔浅环），磨砂（漫射板）"
+      mounting: "贴面安装，几乎全贴天花无下凸感"
+      signature_detail: "极浅鼓壁使铜色内腔仅在斜视角度可见——克制的奢华，需走近才能发现"
+    design_level:
+      score: 4
+      reason: "超薄比例将吸顶灯变为天花嵌入式的视觉效果，铜色内腔克制含蓄，多色款体现配色成熟度"
+    design_tags: ["超薄扁鼓", "香槟金", "铜色内腔", "漫射板", "极简边框", "多色款"]
+    hero_feature: "超薄鼓壁比例使铜色内腔藏于边框内——克制隐藏的奢华细节只在斜视角度现身"
+    problem_solved: "在低天花空间提供大面积均匀泛光，同时保持与天花齐平的低轮廓感"
+    transferable_technique: "降低壳体高度使内部细节在斜视角才可见，创造克制的探索乐趣；多色外框搭配统一铜色内腔，扩展产品矩阵时保持内在一致性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吸顶灯_012"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吸顶灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "有机球形半椭圆白色磨砂玻璃罩，底部开口，金色拉丝铝底圈+金色内碗可见"
+    product_name: "有机球形磨砂玻璃罩吸顶灯（金底圈）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吸顶灯", "球形"]
+    design_language:
+      silhouette: "饱满的半椭球形，顶部接近半球，底部收口留圆形开口，整体有机饱满无棱角"
+      light_opening: "底部圆形开口内可见金色拉丝铝内碗，光线通过磨砂玻璃罩向四周柔和漫射"
+      thermal: "玻璃罩内铝质底座兼散热"
+      cmf:
+        color: "白色磨砂半透明玻璃罩+金色拉丝铝底圈+金色铝内碗"
+        material: "吹制磨砂玻璃（外罩）+压铸/拉丝铝合金（底圈+内碗）"
+        finish: "磨砂半透明（玻璃），拉丝金色（铝件）"
+      mounting: "贴面安装，金色底圈顶部直贴天花"
+      signature_detail: "有机球形玻璃罩与精工金色底圈的材质对比——有机柔软与精准金属的视觉张力"
+    design_level:
+      score: 4
+      reason: "有机球形是BEGA产品矩阵中罕见的非几何形态，玻璃与金色铝的材质对比高级，兼具温暖感与精工感"
+    design_tags: ["球形", "磨砂玻璃", "金色铝", "有机形态", "温暖漫射", "玻璃吹制"]
+    hero_feature: "有机饱满的磨砂玻璃球罩——在BEGA几何精准体系中提供罕见的有机温暖形态"
+    problem_solved: "在需要温暖氛围漫射光的空间（卧室/酒店）提供有设计感的吸顶灯选项"
+    transferable_technique: "有机球形玻璃罩通过磨砂处理柔化光源，金色铝底圈作为精准的收口元件同时强化品质感；软硬材质对比（玻璃球vs精工铝圈）创造高级感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

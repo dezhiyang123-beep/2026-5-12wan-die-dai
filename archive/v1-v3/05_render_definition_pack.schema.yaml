@@ -1,0 +1,119 @@
+# 05_render_definition_pack.schema.yaml — G4渲染定义包
+
+schema_version: "2.0"
+
+required:
+  packs:
+    type: list
+    description: "渲染定义包，共8个（对应用户筛选的8张母题）"
+    item_schema:
+      pack_id:
+        type: string
+        description: "RDP-01 至 RDP-08"
+      source_card:
+        type: string
+        description: "来源母题卡编号，如M-03"
+
+      # 9段式固定格式（字段名不可更改）
+      1_产品定义:
+        type: object
+        fields:
+          product_type: string
+          use_context: string
+          key_feature: string
+
+      2_主轮廓与比例:
+        type: object
+        fields:
+          silhouette: string
+          mass_distribution: string
+
+      3_分件与接口:
+        type: object
+        fields:
+          parting_lines: string
+          interface_locations: string
+
+      4_发光与光学:
+        type: object
+        fields:
+          light_emission_area: string
+          optic_logic: string
+
+      5_安装与走线:
+        type: object
+        fields:
+          mounting_method: string
+          cable_path: string
+
+      6_render_cmf_hint:
+        type: object
+        description: "建议值，非最终定义。最终权威为08_cmf_zoning.yaml"
+        fields:
+          primary_material_hint: string
+          color_hint: string
+          finish_hint: string
+
+      7_镜头与构图:
+        type: object
+        fields:
+          shot_plan:
+            type: object
+            fields:
+              phase1:
+                type: list
+                description: "2张，概念验证"
+                item_schema:
+                  angle: string
+                  purpose: string
+              phase2:
+                type: list
+                description: "6张，完整角度"
+                item_schema:
+                  angle: string
+
+      8_必须保留:
+        type: list
+        description: "英文，来自must_keep_customer_signal"
+
+      9_严格禁止:
+        type: list
+        description: "英文，来自must_not_look_like"
+
+      dfm_quick_check:
+        type: object
+        description: "6轴DFM快速评分"
+        fields:
+          assembly:
+            type: integer
+            range: [0, 2]
+          thermal:
+            type: integer
+            range: [0, 2]
+          cable_routing:
+            type: integer
+            range: [0, 2]
+          ingress_protection:
+            type: integer
+            range: [0, 2]
+          tooling_complexity:
+            type: integer
+            range: [0, 2]
+          serviceability:
+            type: integer
+            range: [0, 2]
+          total_score:
+            type: integer
+            description: "6轴之和，0-3=绿，4-7=黄，8-12=红"
+          dfm_verdict:
+            type: enum
+            values: ["green", "yellow", "red"]
+          red_items:
+            type: list
+            description: "导致红灯的轴（红灯时必填）"
+
+validation:
+  - 第6段字段名必须是6_render_cmf_hint（不是"材质与表面"）
+  - phase1必须是2张，phase2必须是6张
+  - dfm_verdict=red的包不得进入G5
+  - 所有文字段不得包含中文字符（英文描述）

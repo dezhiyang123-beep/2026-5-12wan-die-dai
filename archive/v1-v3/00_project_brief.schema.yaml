@@ -1,0 +1,68 @@
+# 00_project_brief.schema.yaml — 项目启动简报
+
+schema_version: "2.0"
+
+required:
+  project_id:
+    type: string
+    description: "项目唯一标识，格式 YYYYMMDD-客户缩写-品类缩写，如 20260403-ACG-LIGHT"
+
+  client_name:
+    type: string
+    description: "客户名称，必须匹配 knowledge/clients/ 下的客户档案文件名"
+
+  client_type:
+    type: enum
+    values: ["oem_push", "brand_rd"]
+    description: "oem_push=主动推销给OEM客户；brand_rd=品牌方委托自研"
+
+  category:
+    type: string
+    description: "产品品类关键词，如便携工作灯/装饰台灯"
+
+  target_market:
+    type: string
+    description: "目标市场，如北美/欧洲/国内"
+
+  mode:
+    type: enum
+    values: ["M1", "M2", "M3"]
+    description: "M1标准/M2快速/M3逆向成本，G0必须选定不得中途切换"
+
+  success_definition:
+    type: string
+    description: "项目成功的定义，用于G6审查时的验收标准"
+
+optional:
+  deadline:
+    type: string
+    description: "交付截止日期 YYYY-MM-DD"
+
+  project_source:
+    type: string
+    description: "项目来源，如主动开发/客户需求/续单"
+
+  budget_constraint:
+    type: string
+    description: "预算约束"
+
+  must_have:
+    type: list
+    description: "必须实现的功能或约束"
+
+  must_avoid:
+    type: list
+    description: "必须避免的设计方向或元素"
+
+  current_knowns:
+    type: list
+    description: "已知的确定信息"
+
+  current_unknowns:
+    type: list
+    description: "已知的未知信息（需要搜索或验证）"
+
+validation:
+  - client_name必须能匹配knowledge/clients/下的.md文件，否则输出警告并触发新客户自动取证
+  - mode必须在G0时确认，不接受空值
+  - client_type必须在G0时确认，不接受空值

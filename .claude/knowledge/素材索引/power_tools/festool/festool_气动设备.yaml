@@ -1,0 +1,87 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "气动设备"
+  tertiary: "气动砂光机"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/气动设备/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "festool_气动设备_001"
+    source_images:
+      - filename: "砂光机__气动砂光机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/气动设备/砂光机__气动砂光机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool LEX 3 77/2.5 气动偏心砂光机，右前45度视角。机身呈短粗子弹形，深灰蓝色工程塑料外壳，顶部绿色（Festool Green）椭圆形拇指垫区域，侧面绿色竖向调速开关拨块。右端气动接口为圆形金属螺纹接头。底盘为白色砂磨垫（77mm直径圆形）。FESTOOL白色斜体LOGO与LEX 3 77/2.5型号印于机身侧面。整体轮廓紧凑，适合单手握持，人机工程突出。"
+    product_name: "Festool LEX 3 77/2.5 气动偏心砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "气动设备", "气动砂光机"]
+    design_language:
+      silhouette: "短粗子弹形机身，适合单手握持，顶部拇指垫区域突出，右端气管接口水平延伸"
+      light_opening: "N/A"
+      thermal: "气动驱动无需主动散热，机身无散热格栅"
+      cmf:
+        color: "深灰蓝色机身，绿色（Festool Green）拇指垫与调速拨块，白色砂磨垫底盘"
+        material: "工程塑料机身，橡胶绿色覆层（拇指垫），ABS白色砂磨垫，金属气管接头"
+        finish: "机身哑光深灰蓝，绿色橡胶覆层柔软触感，底盘白色哑光"
+      mounting: "气动（压缩空气驱动，右端气管接口）"
+      signature_detail: "顶部绿色椭圆拇指垫（人机工程防滑握持区），侧面绿色调速拨块，77mm白色砂磨垫底盘"
+    design_level:
+      score: 4
+      reason: "气动砂光机形态极度精炼，色彩系统与其他Festool产品完全一致；顶部绿色拇指垫是功能性设计亮点，清晰指示最佳握持位置；造型服从人机工程逻辑，没有多余元素"
+    design_tags: ["H07极简整合", "H12人机界面强化", "H02包覆", "H10材料表达"]
+    hero_feature: "顶部绿色橡胶椭圆拇指垫——既是人机工程防滑区域，又是视觉焦点，功能与美学高度统一"
+    problem_solved: "精密表面处理（木工/漆面精磨）；单手握持稳定性；气动驱动适合长时间作业不发热"
+    transferable_technique: "功能性覆层区域颜色差异化标识握持区的手法（绿色=正确接触点）；短粗子弹形单手工具的人机工程比例可参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_气动设备_002"
+    source_images:
+      - filename: "砂光机__气动砂光机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/气动设备/砂光机__气动砂光机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool LEX 3 150/3 气动偏心砂光机，右前45度视角。与LEX 3 77/2.5同族设计语言，机身更扁宽以适应150mm大砂盘。深灰蓝色机身，顶部绿色椭圆拇指垫更宽，侧面绿色调速拨块。底盘为白色圆形150mm大砂磨垫，垫厚度增加。右端气管接头。FESTOOL LOGO与LEX 3 150/3型号印于侧面。整体比77mm版更厚实，双手辅助握持。"
+      - filename: "砂光机__气动砂光机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/气动设备/砂光机__气动砂光机__03.jpg"
+        image_role: "variant"
+        visual_anchor: "Festool LEX 3 150/5 气动偏心砂光机，与150/3构图视角完全相同，型号数字不同（偏心量5mm vs 3mm），外观几乎一致，仅型号标注区别。展示Festool系列化策略——同尺寸不同规格采用统一造型。"
+      - filename: "砂光机__气动砂光机__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/气动设备/砂光机__气动砂光机__04.jpg"
+        image_role: "variant"
+        visual_anchor: "Festool LEX 3 150/7 气动偏心砂光机，同系列第三款（偏心量7mm），视角构图与150/3和150/5完全统一。三款150mm产品形成完整系列图库，体现Festool强烈的视觉系统化策略。"
+    product_name: "Festool LEX 3 150 系列气动偏心砂光机（150/3、150/5、150/7）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "气动设备", "气动砂光机"]
+    design_language:
+      silhouette: "扁宽子弹形机身，适合双手辅助握持，150mm大底盘使整体重心低、稳定性好；顶部绿色拇指垫宽度随机身比例增大"
+      light_opening: "N/A"
+      thermal: "气动驱动，机身无主动散热结构"
+      cmf:
+        color: "深灰蓝色机身，绿色拇指垫与调速拨块，白色大砂磨垫底盘"
+        material: "工程塑料机身，橡胶绿色拇指垫，白色砂磨垫，金属气管接头"
+        finish: "哑光深灰蓝机身，软质绿色橡胶垫，底盘白色哑光"
+      mounting: "气动（压缩空气驱动，右端气管接口）"
+      signature_detail: "宽幅绿色顶部拇指垫，150mm白色圆形砂磨垫，三款偏心量系列化设计，外观完全统一"
+    design_level:
+      score: 4
+      reason: "三款规格统一造型语言是极强的系统化设计策略，用户可无缝切换；150mm版比77mm版比例放大协调，没有变形感；系列化拍摄规范（相同构图/视角）体现品牌专业度"
+    design_tags: ["H07极简整合", "H12人机界面强化", "H02包覆", "H05模块化"]
+    hero_feature: "三款偏心量规格（3/5/7mm）共用统一造型系统，通过型号数字差异化而非外观差异化实现系列管理——专业用户清晰选择，品牌视觉整洁"
+    problem_solved: "大面积木工/漆面打磨；三种偏心量覆盖粗磨→精磨→超精磨不同需求；气动驱动长时间不发热"
+    transferable_technique: "同系列多规格产品统一造型+型号数字差异化策略；绿色功能覆层区域系统化标识的可扩展性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

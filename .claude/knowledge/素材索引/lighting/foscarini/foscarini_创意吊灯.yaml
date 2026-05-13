@@ -1,0 +1,496 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "创意吊灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "foscarini_创意吊灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "双喇叭沙漏轮廓，深石墨色金属杆交叉编织成笼架，线条在腰部收拢后向底部再次张开形成第二个倒锥裙摆"
+    product_name: "Allegretto Ritmico"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "装饰性吊灯"]
+    design_language:
+      silhouette: "双喇叭沙漏形——上半锥体收拢，腰部细束，下半部再次外张为宽裙摆，整体高度约等于最宽直径"
+      light_opening: "半开放式笼架透光，光源藏于腰部内核，光线透过金属杆间隙向四周辐射散漫，无明确定向开口"
+      thermal: "开放笼架结构，自然对流散热，无热积聚"
+      cmf:
+        color: "深石墨黑/镀铬灰"
+        material: "金属圆杆（铝或钢）"
+        finish: "抛光镀铬，高反射"
+      mounting: "多根细钢丝悬挂，顶部汇聚于圆形天花板固定座"
+      signature_detail: "金属杆在腰部交叉形成X形网格节点，创造出视觉上的动态张力；底端金属杆自由伸出，末端未封闭，形如乐器簧片"
+    design_level:
+      score: 5
+      reason: "双轮廓叠加+动态线条编织+金属工艺精度，是Foscarini最具雕塑感的代表作之一，装饰冲击力极强"
+    design_tags: ["线框雕塑", "金属杆编织", "沙漏轮廓", "高反射", "动态张力", "装饰性极强"]
+    hero_feature: "深石墨金属杆以X形交叉方式编织成双喇叭沙漏笼架，光源藏于腰部，线条放射感极强"
+    problem_solved: "用线性金属构件代替实体灯罩，使吊灯在关灯时呈现纯雕塑感，开灯后透光形成光影网格"
+    transferable_technique: "H03分件线+H04参数化：用同一截面元素（圆杆）重复排列+交叉，以密度变化控制轮廓形态，无需复杂曲面加工"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意吊灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "金色高锥体笼架，底部金属杆向四周水平放射展开，形如棕榈树或烟花绽放瞬间，黄色背景强化金色质感"
+    product_name: "Allegretto Assai"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "装饰性吊灯"]
+    design_language:
+      silhouette: "高锥筒形主体，顶部收口，底部金属杆水平向外大幅展开形成星爆裙边，整体高宽比约2:1"
+      light_opening: "半开放笼架透光，光源位于锥筒内部中段，光线经杆间隙向侧面漫射；底部星爆平台无光源，以形态感为主"
+      thermal: "全开放杆件结构，散热良好"
+      cmf:
+        color: "香槟金/亮金"
+        material: "金属杆（铝）"
+        finish: "电镀金色，镜面反光"
+      mounting: "多根细钢丝悬挂，顶部圆形固定座"
+      signature_detail: "底部金属杆呈水平星爆形向外延伸约一倍灯体直径，形成强烈的水平延展视觉特征，与垂直锥体形成高反差"
+    design_level:
+      score: 5
+      reason: "锥体+星爆底裙的形态组合极具独创性，金色处理使其成为奢华酒店宴会厅的标志性单品"
+    design_tags: ["星爆造型", "金属杆编织", "高锥筒", "香槟金", "水平延展", "节庆感"]
+    hero_feature: "金色金属杆在底部向外水平星爆展开，与上方高锥筒形成强烈高宽比对比"
+    problem_solved: "在有限垂直空间内实现最大水平视觉存在感，满足宴会厅/高挑空间对仪式感的需求"
+    transferable_technique: "H08对比强调：用底部向外展开的元素与上部收拢锥体产生高反差，强化形态记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意吊灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/03.jpg"
+        image_role: "colorway_alt"
+        visual_anchor: "铜棕色高锥体笼架，杆件垂直排列均匀分布，轮廓在腰部有轻微收束后向下展开，铜色背景与灯体颜色高度融合"
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/06.jpg"
+        image_role: "colorway_alt"
+        visual_anchor: "铜棕色沙漏笼架变体，腰部收束更明显，整体呈双曲线形，杆件间距比03更疏，形态更通透"
+    product_name: "Allegretto (铜色配色)"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "装饰性吊灯"]
+    design_language:
+      silhouette: "高锥形至轻度沙漏形，金属杆从顶部圆环向下均匀辐射，腰部轻微内收后底部外展，整体挺拔修长"
+      light_opening: "开放笼架，光线经金属杆间隙360度漫射，无定向；光源在笼体内部"
+      thermal: "全开放结构，自然散热"
+      cmf:
+        color: "铜棕色"
+        material: "金属杆（铝）"
+        finish: "电镀铜色，金属光泽"
+      mounting: "多根细钢丝悬挂"
+      signature_detail: "铜色与橙棕色背景的高度色彩融合策略——灯体与场景几乎同色，形态优先于色彩对比"
+    design_level:
+      score: 4
+      reason: "同一设计语言的配色变体，铜色赋予温暖工业质感，但形态创新度低于001/002"
+    design_tags: ["线框雕塑", "铜色", "金属杆编织", "修长锥形", "温暖工业", "配色变体"]
+    hero_feature: "铜色金属杆编织的修长锥形笼架，与铜棕色环境高度融合"
+    problem_solved: "提供Allegretto系列的暖色调版本，适配温暖木质/皮革室内氛围"
+    transferable_technique: "H10材料表达：通过金属电镀色彩选择改变产品情绪属性，同一形态适配不同场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意吊灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色方形折弯金属丝编织成多角星形轮廓，上部锥筒，下部为锐角菱形星爆，与01的圆杆X交叉不同，此款用方截面折弯丝形成锋利几何感"
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/05.jpg"
+        image_role: "colorway_alt"
+        visual_anchor: "金色版本，同款折弯金属丝结构，锥筒更高，下部星形展开，黄色背景"
+    product_name: "Allegretto Vivace"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "装饰性吊灯"]
+    design_language:
+      silhouette: "上部圆柱锥筒+下部多角星形展开，折弯金属线形成棱角分明的菱形网格，整体轮廓呈多角星体"
+      light_opening: "开放折弯金属线框架，光线经菱形间隙向全方向透射，下部星形开口处光线向侧下方扩散"
+      thermal: "全开放线框，散热优良"
+      cmf:
+        color: "深石墨灰（04） / 香槟金（05）"
+        material: "金属丝（方截面或圆截面折弯）"
+        finish: "抛光电镀"
+      mounting: "多根细钢丝悬挂"
+      signature_detail: "折弯金属线形成锋利菱形网格，与Ritmico的圆滑交叉形成风格对比——更几何、更锋锐"
+    design_level:
+      score: 4
+      reason: "折弯线框的几何精度很高，但整体形态与Ritmico属同系列，独立创新度稍低"
+    design_tags: ["折弯金属线", "几何菱形", "多角星形", "线框雕塑", "锋锐几何", "多配色"]
+    hero_feature: "方截面金属线折弯形成锋利菱形网格，构成多角星体轮廓"
+    problem_solved: "用折弯线框代替铸件，以简单加工工艺实现高复杂度视觉几何形态"
+    transferable_technique: "H04参数化：折弯角度统一，通过单一工艺动作（折弯+阵列）生成复杂雕塑形态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意吊灯_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "混凝土质感浅灰色倒锥形吊灯，表面布满气孔纹理，顶端细颈与黑色金属吊杆接驳，底部圆形开口内显白色散光片"
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/08.jpg"
+        image_role: "colorway_alt"
+        visual_anchor: "同款倒锥形Aplomb，深褐色/赭石色混凝土面，更暗的环境下显现出材质粗粝肌理"
+    product_name: "Aplomb"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "材质吊灯"]
+    design_language:
+      silhouette: "规整倒锥形，顶部细颈，底部圆形开口，轮廓线从颈部到开口呈平滑直线展开，比例约高:底径=1.5:1"
+      light_opening: "底部圆形开口向下定向投光，内置散光漫射片使光晕柔和；无侧向出光"
+      thermal: "实体混凝土壳体，蓄热性好，需与热源保持安全距离，适合LED热源"
+      cmf:
+        color: "浅灰（07） / 深褐赭石（08）"
+        material: "铸造混凝土（cement/concrete composite）"
+        finish: "原始混凝土气孔纹理，无表面处理，哑光"
+      mounting: "单根黑色织物包裹电缆+黑色金属吊杆"
+      signature_detail: "混凝土气孔纹理——工业建筑材料直接入灯，将重工业美学引入室内，与光的温暖形成极致对比"
+    design_level:
+      score: 5
+      reason: "将混凝土这一建筑材料首次系统应用于精致吊灯，材料创新与简洁形态完美平衡，是当代工业美学标杆"
+    design_tags: ["混凝土材质", "倒锥形", "工业美学", "底部开口定向照明", "材质驱动设计", "极简形态"]
+    hero_feature: "铸造混凝土壳体，气孔纹理裸露，形态极简倒锥，材质本身即设计主角"
+    problem_solved: "用建筑材料语言满足追求原生质感/工业loft风格的高端家居市场需求"
+    transferable_technique: "H10材料表达：将非传统灯具材料（混凝土）直接应用，形态刻意保持简单以最大化材质表达"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意吊灯_006"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "极薄深灰色混凝土圆盘，直径约为厚度的10倍以上，中心偏向处有一个圆形乳白散光孔，细黑吊杆从盘面中心垂直上升，整体如悬浮的飞碟"
+    product_name: "Aplomb Large"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "材质吊灯"]
+    design_language:
+      silhouette: "超薄水平圆盘，厚度极小（约盘径的8-10%），边缘锐利，顶面平滑，侧视几乎只见一条细线"
+      light_opening: "盘面中央偏置圆形开口，内嵌乳白散光片，光向正下方定向投射，盘体无透光"
+      thermal: "混凝土大面积散热体，热量通过盘面向上散发，LED光源适配"
+      cmf:
+        color: "深炭灰"
+        material: "铸造混凝土"
+        finish: "哑光混凝土肌理，轻微气孔"
+      mounting: "单根黑色细金属杆居中支撑，从盘面正上方穿出"
+      signature_detail: "超薄圆盘比例——将混凝土这种「重」材料做到视觉极薄，挑战材料认知；偏置光孔制造非对称张力"
+    design_level:
+      score: 5
+      reason: "混凝土+超薄圆盘的形态组合极度反常识，是材料极限挑战的设计宣言，同时具备极强功能性"
+    design_tags: ["超薄圆盘", "混凝土材质", "定向照明", "非对称", "飞碟造型", "极限比例"]
+    hero_feature: "混凝土铸造超薄圆盘，中心偏置散光孔，颠覆混凝土「厚重」认知"
+    problem_solved: "为需要大面积水平扩散照明的餐桌/会议桌场景提供极简且有强烈雕塑感的照明方案"
+    transferable_technique: "H01减法+H10材料表达：将形态减到最简（纯圆盘），用非传统材料的反常规应用建立记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意吊灯_007"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "大型白色聚碳酸酯面板随机叠压形成不规则云团/碎冰块状聚合体，通体自发光，边角锋利，整体呈横向延展的不规则多面体"
+    product_name: "Big Bang"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "装饰性吊灯"]
+    design_language:
+      silhouette: "不规则多面板聚合体，横向宽度远大于高度，无对称轴，边缘呈碎裂/爆炸感；整体质量感向左右两侧延展"
+      light_opening: "全体半透明漫射——每块聚碳酸酯面板均匀发光，光从所有方向漫射，无定向；整灯即光体"
+      thermal: "聚碳酸酯面板轻薄，热源在中心空腔，面板自然散热"
+      cmf:
+        color: "纯白"
+        material: "聚碳酸酯（PC）面板"
+        finish: "半透明磨砂白，均匀漫射"
+      mounting: "多根细钢丝悬挂于结构中心"
+      signature_detail: "面板随机叠压角度不统一，制造「爆炸定格」的动势感；光从每块面板透出时形成明暗层次"
+    design_level:
+      score: 5
+      reason: "将光源完全藏于漫射面板群中，整体成为发光雕塑，是Foscarini最具实验精神的代表作之一"
+    design_tags: ["发光雕塑", "不规则多面体", "聚碳酸酯", "全漫射", "爆炸感", "白色纯净"]
+    hero_feature: "多块白色PC面板随机叠压成不规则爆炸形聚合体，通体均匀发光"
+    problem_solved: "在大型公共空间创造兼具视觉冲击力与柔和照明效果的艺术装置级吊灯"
+    transferable_technique: "H05模块化：以单一截面形状（矩形面板）通过随机叠压角度变化生成无限不同外观，批量生产+个性化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意吊灯_008"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "白色光滑喇叭锥形灯罩，顶端接驳白色Y形树枝状双叉金属件，像一根树枝上挂着一只白色喇叭，金属叉与吊线连接处细节精致"
+    product_name: "Birdie"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "仿生吊灯"]
+    design_language:
+      silhouette: "上宽下窄倒置梯形锥，上口略大于底口，整体轮廓收束感强，顶部Y形叉件是结构与装饰的双重焦点"
+      light_opening: "底部圆形开口向下定向投光，内部全白反射，形成聚焦向下的圆形光晕"
+      thermal: "实体聚合物/玻璃壳，内部热量由底部开口对流散出"
+      cmf:
+        color: "纯白"
+        material: "吹制玻璃或聚碳酸酯"
+        finish: "高光白色，镜面感"
+      mounting: "Y形双叉白色金属件+单线吊挂，Y叉是最显眼的设计细节"
+      signature_detail: "顶部Y形树枝状金属叉——将鸟栖树枝的意象转化为结构连接件，功能与诗意并存"
+    design_level:
+      score: 4
+      reason: "形态简洁但Y形叉件的叙事性细节极具记忆点，仿生语义清晰，执行精度高"
+    design_tags: ["仿生", "Y形树枝", "倒锥形", "白色光泽", "底部开口", "叙事性细节"]
+    hero_feature: "顶部Y形树枝状金属连接件，将「鸟栖枝头」意象融入吊灯结构"
+    problem_solved: "以一个小尺寸叙事性细节赋予简单锥形灯罩强烈的个性和产品故事性"
+    transferable_technique: "H08对比强调：极简形态主体+单一叙事性细节（Y叉），以最小成本建立最强记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意吊灯_009"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "白色高光卵形吊灯，底部圆形开口露出暖金色内腔，钢丝从顶部中心悬挂，整体如一颗悬浮的白色蛋"
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/13.jpg"
+        image_role: "colorway_alt"
+        visual_anchor: "橄榄绿/黄绿色高光扁球形，底部小圆口，整体更扁圆，颜色饱和度高，与黄绿背景高度融合"
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/14.jpg"
+        image_role: "colorway_alt"
+        visual_anchor: "蓝绿色高光半球碗形，底部大圆口向下，碗内白色，蓝绿色与深蓝背景融合，材质表面有轻微压印肌理"
+    product_name: "Buds"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "有机形态吊灯"]
+    design_language:
+      silhouette: "有机圆润形态——从卵形（12）到扁球形（13）到碗半球形（14），均以无棱角圆润曲面为主，开口朝下"
+      light_opening: "底部圆形开口向下定向漫射，内腔全反射涂层使光从开口均匀溢出；无顶部出光"
+      thermal: "实体壳体，底部开口提供一定对流，适配LED"
+      cmf:
+        color: "白色（12） / 橄榄黄绿（13） / 蓝绿（14）"
+        material: "吹制玻璃或聚合物"
+        finish: "高光镜面，色彩饱和均匀"
+      mounting: "单根细钢丝顶部中心悬挂"
+      signature_detail: "外壳颜色与背景环境色高度统一的摄影策略——产品与空间融为一体，强调色彩本身的空间感染力"
+    design_level:
+      score: 4
+      reason: "圆润形态与单色高光的组合雅致，配色选择大胆（橄榄绿/蓝绿），但形态本身创新度中等"
+    design_tags: ["有机圆润", "单色高光", "底部开口", "吹制玻璃感", "大胆配色", "卵形/球形"]
+    hero_feature: "有机饱满圆润壳体配大胆单色高光饰面，底部圆形开口定向发光"
+    problem_solved: "为追求柔和有机形态和大胆色彩的现代家居提供精致吊灯选项"
+    transferable_technique: "H10材料表达+H01减法：形态极度简化，让色彩和材质光泽成为唯一视觉语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意吊灯_010"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "深蓝绿色高光半球碗形吊灯，表面有不规则压印/褶皱肌理，底部开口大且圆，内腔白色，碗体有明显手工感变形"
+    product_name: "Buds (褶皱肌理变体)"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "有机形态吊灯"]
+    design_language:
+      silhouette: "半球碗形，底部开口直径接近最宽处，顶部略向内收，表面有不规则压印褶皱令轮廓线略微起伏"
+      light_opening: "底部大圆口向下漫射，开口比例大，光输出量较大，漫射均匀"
+      thermal: "实体壳体，底部大开口利于散热对流"
+      cmf:
+        color: "深蓝绿/孔雀蓝"
+        material: "釉面陶瓷或釉面聚合物"
+        finish: "高光釉面，表面有手工压印褶皱肌理"
+      mounting: "单根细钢丝顶部中心"
+      signature_detail: "表面不规则压印褶皱——将手工制造痕迹作为装饰特征，每件略有不同，强化手工工艺价值感"
+    design_level:
+      score: 4
+      reason: "褶皱肌理在高光釉面上形成反光层次，手工感突出，但整体形态为常规半球碗形"
+    design_tags: ["褶皱肌理", "手工感", "高光釉面", "半球碗形", "孔雀蓝", "底部大开口"]
+    hero_feature: "高光釉面配不规则手工压印褶皱肌理，强化精工手作价值感"
+    problem_solved: "在工业化产品中保留手工艺痕迹，满足高端消费者对「唯一性」和「工艺温度」的需求"
+    transferable_technique: "H10材料表达：通过表面工艺处理（压印）在工业化产品上创造手工艺视觉效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "15号图与12-14号Buds系列形态相似但表面肌理差异显著（褶皱）；需确认是否为独立系列或Buds变体"
+
+  - product_id: "foscarini_创意吊灯_011"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "大型椭圆形水平扁环状吊灯，由密集透明水晶球/光学亚克力球嵌合而成，内嵌灯珠发光，整体呈磨砂水晶圆盘，悬挂于三根钢丝上"
+    product_name: "Caboche"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "水晶吊灯"]
+    design_language:
+      silhouette: "扁椭圆形聚合体，横向展开，高度约为直径的1/3，整体呈珠宝盒/王冠横截面感"
+      light_opening: "全方向漫射——每个水晶球既是光学元件又是漫射体，光从球体折射后向四周全方位扩散，无定向"
+      thermal: "开放聚合球体结构，散热路径畅通"
+      cmf:
+        color: "透明/水晶白"
+        material: "光学级聚甲基丙烯酸甲酯（PMMA）球体，金属内框架"
+        finish: "透明抛光，折射率高，类水晶效果"
+      mounting: "三根细钢丝悬挂于扁环形结构三点"
+      signature_detail: "大量PMMA球体密集排列嵌合，每颗球独立折射形成千点闪光——将「繁复珠宝」逻辑引入照明"
+    design_level:
+      score: 5
+      reason: "Foscarini最具标志性的产品之一，将光学材料的折射特性转化为设计核心，兼具艺术装置的视觉冲击和实用照明功能"
+    design_tags: ["水晶球聚合", "全方向漫射", "光学PMMA", "奢华感", "珠宝逻辑", "千点闪光"]
+    hero_feature: "密集PMMA光学球体嵌合成扁圆环，每颗球独立折射光线，产生千点水晶闪光效果"
+    problem_solved: "用现代工业材料（PMMA）复现传统水晶吊灯的奢华视觉感，同时实现全漫射柔和照明"
+    transferable_technique: "H05模块化+H10材料表达：以单一光学球体为模块，通过密集阵列构建宏观形态，模块本身即是功能和装饰"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意吊灯_012"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰/石墨色饱满圆方体吹制玻璃灯罩，底部接驳白色扁圆盘形散光底座，整体如一个深色玉石印章坐在白色托盘上"
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/18.jpg"
+        image_role: "colorway_alt"
+        visual_anchor: "橙棕色圆方体玻璃罩，底部同款白色扁圆盘，橙色与深棕背景融合，更显温暖厚重感"
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/19.jpg"
+        image_role: "colorway_alt"
+        visual_anchor: "深橄榄绿色高锥形吹制玻璃罩，比17/18更修长，底部同款白色扁圆盘，绿色玻璃体与深绿背景融合"
+    product_name: "Chouchin"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "玻璃吊灯"]
+    design_language:
+      silhouette: "圆方体至高锥形玻璃主体（随型号变化）+底部独立扁圆盘散光组件，上下两段材质不同形成明显分界"
+      light_opening: "底部独立白色扁圆盘散光片向下定向漫射，同时玻璃主体有轻微透光（半透明深色玻璃），形成上暗下亮层次"
+      thermal: "吹制玻璃壳热导率低，底部散光盘与光源直接接触，需确保散热间隙"
+      cmf:
+        color: "深灰（17） / 橙棕（18） / 深橄榄绿（19）"
+        material: "手吹玻璃（深色不透明/半透明）+ 白色散光PC底盘"
+        finish: "玻璃高光镜面；散光底盘哑光白"
+      mounting: "单根钢丝顶部中心悬挂"
+      signature_detail: "深色饱满玻璃体+白色扁圆盘底座的双材质组合——玻璃主体负责形态表达，白色底盘负责光输出，功能与装饰分工明确"
+    design_level:
+      score: 5
+      reason: "双段式设计语言（深色玻璃体+白色光盘）极具辨识度，配色选择极为大胆，吹制玻璃工艺精湛"
+    design_tags: ["手吹玻璃", "双段式", "深色饱满", "底部散光盘", "大胆配色", "日式灯笼意象"]
+    hero_feature: "深色饱满吹制玻璃主体+白色独立散光底盘，双材质双功能清晰分工"
+    problem_solved: "将日式灯笼（Chouchin）的形态意象用意大利手工玻璃语言重新诠释，同时解决深色玻璃透光量不足的功能问题"
+    transferable_technique: "H08对比强调：深色不透明主体+白色发光底盘，材质/色彩/功能三重对比聚焦视觉注意力于底部光源"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_创意吊灯_013"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "纯白色高光圆桶/南瓜形吹制玻璃罩，底部接白色扁平圆环散光底座，整体为白对白，形态圆润饱满，像一颗大型白色蘑菇头"
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/创意吊灯/21.jpg"
+        image_role: "colorway_alt"
+        visual_anchor: "纯白色更大尺寸圆桶形玻璃罩，底部接驳金色金属环+白色散光盘，钢丝吊挂，金色金属环是与20号的主要区分点"
+    product_name: "Chouchin 3 / Chouchin (白色大款)"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯", "玻璃吊灯"]
+    design_language:
+      silhouette: "圆桶形/南瓜形，宽度接近高度，顶面圆弧，腰部微微饱胀，底部略平；21号更大尺寸更扁圆"
+      light_opening: "底部白色/金色环形底座内嵌散光片，向下定向漫射；玻璃主体白色半透明，侧面有柔和透光"
+      thermal: "白色半透明玻璃有一定透光散热"
+      cmf:
+        color: "纯白（20） / 纯白+金色金属环（21）"
+        material: "手吹乳白玻璃 + 白色散光PC（20） / 手吹乳白玻璃 + 金色金属环+白色散光盘（21）"
+        finish: "高光白乳白玻璃；21号增加金色拉丝金属环"
+      mounting: "单根细钢丝顶部中心悬挂"
+      signature_detail: "21号的金色金属环——在全白形态中插入一圈金色环带，成为唯一的色彩与材质锚点，极简而精致"
+    design_level:
+      score: 4
+      reason: "白色圆桶形态简洁雅致，21号金色金属环细节精巧；但整体形态相对保守，创新度低于Chouchin深色款"
+    design_tags: ["乳白玻璃", "圆桶形", "南瓜感", "金色金属环", "白色纯净", "底部漫射"]
+    hero_feature: "乳白吹制玻璃圆桶配独立底部散光盘，21号增加金色金属腰环点睛"
+    problem_solved: "为追求纯净简约风格的家居提供圆润有温度的白色玻璃吊灯，同时保持Chouchin系列的双段式功能分工"
+    transferable_technique: "H08对比强调（21号）：在全白极简形态中以单一金色金属环制造视觉锚点，以最小代价实现最大辨识度提升"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,370 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 路桩灯
+  tertiary: 路桩灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/路桩灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_路桩灯_001
+  source_images:
+  - filename: 04.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/路桩灯/04.jpg
+    image_role: hero
+    visual_anchor: 高低不同的白色和木色路桩灯，顶部水平出光臂向侧面投光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 路桩灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 木质或仿木外壳，配隐藏光源和金属底座
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 高低不同的白色和木色路桩灯，顶部水平出光臂向侧面投光
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 路桩灯
+  - 逐张视觉识别
+  hero_feature: 高低不同的白色和木色路桩灯，顶部水平出光臂向侧面投光
+  problem_solved: 户外灯具需要控制眩光、耐候安装，并把光有效投向路径或立面。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_路桩灯_002
+  source_images:
+  - filename: 05.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/路桩灯/05.jpg
+    image_role: hero
+    visual_anchor: 多种矩形路桩灯成列展示，圆形或矩形出光口嵌在竖向柱体上。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 路桩灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 多种矩形路桩灯成列展示，圆形或矩形出光口嵌在竖向柱体上
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 路桩灯
+  - 逐张视觉识别
+  hero_feature: 多种矩形路桩灯成列展示，圆形或矩形出光口嵌在竖向柱体上
+  problem_solved: 户外灯具需要控制眩光、耐候安装，并把光有效投向路径或立面。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_路桩灯_003
+  source_images:
+  - filename: 16.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/路桩灯/16.jpg
+    image_role: hero
+    visual_anchor: 锈铜/Corten钢色方柱路桩灯底部开槽出光，光线从柱脚四周贴地溢出。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 路桩灯
+  design_language:
+    silhouette: 两只锈铜色矩形柱体高低并列，柱脚被切出不规则竖向槽口形成悬空支脚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 木质或仿木外壳，配隐藏光源和金属底座
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 锈铜/Corten钢色方柱路桩灯底部开槽出光，光线从柱脚四周贴地溢出
+  design_level:
+    score: 5
+    reason: 5分：耐候钢色块体、柱脚开槽和贴地出光合成强记忆点，材质语义与光效策略高度一致。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 路桩灯
+  - 逐张视觉识别
+  hero_feature: 锈铜/Corten钢色方柱路桩灯底部开槽出光，光线从柱脚四周贴地溢出
+  problem_solved: 户外灯具需要控制眩光、耐候安装，并把光有效投向路径或立面。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_路桩灯_004
+  source_images:
+  - filename: 17.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/路桩灯/17.jpg
+    image_role: hero
+    visual_anchor: 极细金属杆路桩灯高低成组，圆盘灯头像小伞帽向下遮光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 路桩灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 极细金属杆路桩灯高低成组，圆盘灯头像小伞帽向下遮光
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 路桩灯
+  - 逐张视觉识别
+  hero_feature: 极细金属杆路桩灯高低成组，圆盘灯头像小伞帽向下遮光
+  problem_solved: 户外灯具需要控制眩光、耐候安装，并把光有效投向路径或立面。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_路桩灯_005
+  source_images:
+  - filename: 23.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/路桩灯/23.jpg
+    image_role: hero
+    visual_anchor: 铜色细杆路桩灯成组，高低杆顶端是圆角小灯头。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 路桩灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 铜色细杆路桩灯成组，高低杆顶端是圆角小灯头
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 路桩灯
+  - 逐张视觉识别
+  hero_feature: 铜色细杆路桩灯成组，高低杆顶端是圆角小灯头
+  problem_solved: 户外灯具需要控制眩光、耐候安装，并把光有效投向路径或立面。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_路桩灯_006
+  source_images:
+  - filename: 25.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/路桩灯/25.jpg
+    image_role: hero
+    visual_anchor: 黑白矩形板状路桩灯，竖板上方开横向小窗出光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 路桩灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 黑白矩形板状路桩灯，竖板上方开横向小窗出光
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 路桩灯
+  - 逐张视觉识别
+  hero_feature: 黑白矩形板状路桩灯，竖板上方开横向小窗出光
+  problem_solved: 户外灯具需要控制眩光、耐候安装，并把光有效投向路径或立面。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_路桩灯_007
+  source_images:
+  - filename: 26.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/路桩灯/26.jpg
+    image_role: hero
+    visual_anchor: 黑色方柱路桩灯顶部接弯头圆筒射灯，光口斜向下照。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 路桩灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 黑色方柱路桩灯顶部接弯头圆筒射灯，光口斜向下照
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 路桩灯
+  - 逐张视觉识别
+  hero_feature: 黑色方柱路桩灯顶部接弯头圆筒射灯，光口斜向下照
+  problem_solved: 户外灯具需要控制眩光、耐候安装，并把光有效投向路径或立面。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_路桩灯_008
+  source_images:
+  - filename: 34.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/路桩灯/34.jpg
+    image_role: hero
+    visual_anchor: 黑色方柱路桩灯顶部有浅色帽檐，光从帽檐下方环向溢出。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 路桩灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 黑色方柱路桩灯顶部有浅色帽檐，光从帽檐下方环向溢出
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 路桩灯
+  - 逐张视觉识别
+  hero_feature: 黑色方柱路桩灯顶部有浅色帽檐，光从帽檐下方环向溢出
+  problem_solved: 户外灯具需要控制眩光、耐候安装，并把光有效投向路径或立面。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_路桩灯_009
+  source_images:
+  - filename: 39.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/路桩灯/39.jpg
+    image_role: hero
+    visual_anchor: 黑色立柱顶部横插白色长方灯头，端部红色细节形成方向标识。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 路桩灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 黑色立柱顶部横插白色长方灯头，端部红色细节形成方向标识
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 路桩灯
+  - 逐张视觉识别
+  hero_feature: 黑色立柱顶部横插白色长方灯头，端部红色细节形成方向标识
+  problem_solved: 户外灯具需要控制眩光、耐候安装，并把光有效投向路径或立面。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

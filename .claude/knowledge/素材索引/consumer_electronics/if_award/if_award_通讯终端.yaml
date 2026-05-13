@@ -1,0 +1,464 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "通讯终端"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_comm_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/01.jpg"
+        image_role: "hero"
+        visual_anchor: "Hytera对讲机正面视图，银白机身+橙色侧条+黑色天线"
+    product_name: "Hytera 数字对讲机"
+    brand_name: "Hytera"
+    brand_confidence: "high"
+    category_path: ["消费电子", "通讯终端", "对讲机"]
+    design_language:
+      silhouette: "竖向矩形砖形，顶部天线+频道旋钮，底部扬声器格栅"
+      light_opening: "正面小尺寸显示屏，橙色LED指示灯阵列在侧面"
+      thermal: "底部菱格形扬声器格栅兼散热"
+      cmf:
+        color: "银白主体+橙色侧面橡胶条+黑色端部"
+        material: "铝合金机身+橡胶侧面包覆"
+        finish: "金属拉丝+橡胶磨砂"
+      mounting: "背部腰夹（不可见面），手持操作"
+      signature_detail: "橙色橡胶侧条从顶端延伸至底部，内嵌LED状态指示阵列"
+    design_level:
+      score: 4
+      reason: "橙色侧条将安全警示色与品牌识别合二为一，铝合金+橡胶的材料对比克制而有力，整体比例专业感强"
+    design_tags: ["对讲机", "专业通讯", "橡胶包覆", "安全警示色", "H02包覆", "H08对比强调", "H10材料表达"]
+    hero_feature: "橙色橡胶侧条贯穿机身，兼具防滑握持、LED状态显示和品牌识别三重功能"
+    problem_solved: "专业对讲机在高压工作环境需要快速识别设备状态且防滑防摔"
+    transferable_technique: "功能性色彩条从顶到底贯穿设计，将安全语义融入造型语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_comm_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/02.jpg"
+        image_role: "hero"
+        visual_anchor: "Hytera对讲机四视图，侧/正/背/正斜角"
+    product_name: "Hytera 数字对讲机（多视图）"
+    brand_name: "Hytera"
+    brand_confidence: "high"
+    category_path: ["消费电子", "通讯终端", "对讲机"]
+    design_language:
+      silhouette: "竖向矩形，背面条纹纹理，侧面橙色贯通条"
+      light_opening: "侧面LED指示阵列"
+      thermal: "前面板菱格扬声器格栅"
+      cmf:
+        color: "银白+橙色+黑色"
+        material: "铝合金+橡胶"
+        finish: "金属拉丝+橡胶"
+      mounting: "背面集成腰夹"
+      signature_detail: "背面纵向平行条纹增加握持摩擦力，与正面光滑金属面形成强质感对比"
+    design_level:
+      score: 3
+      reason: "多视图完整呈现设计逻辑，背面纹理处理实用，整体与001为同款产品，补充了背面信息"
+    design_tags: ["对讲机", "专业通讯", "背纹防滑", "H02包覆", "H10材料表达"]
+    hero_feature: "背面竖向平行纹理与正面金属光面的质感强对比"
+    problem_solved: "对讲机背面需要防滑但又不能显得廉价"
+    transferable_technique: "正面光面与背面纹理面的前后对比策略，握持面和展示面分开处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_comm_003"
+    source_images:
+      - filename: "104.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/104.jpg"
+        image_role: "hero"
+        visual_anchor: "Samsung MIT手机，金属翻盖形态，银灰色，轻微斜角透视"
+    product_name: "Samsung MIT 移动智能终端"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "通讯终端", "智能终端"]
+    design_language:
+      silhouette: "砖形翻盖，圆角矩形，侧面设置多个功能按键"
+      light_opening: "翻盖顶部小天线"
+      thermal: "无明显散热结构"
+      cmf:
+        color: "银灰色"
+        material: "金属或金属涂层ABS"
+        finish: "金属拉丝"
+      mounting: "手持，腰夹（推测）"
+      signature_detail: "整机比例方正，MIT标识在正面，背面布局侧键，金属质感统一"
+    design_level:
+      score: 2
+      reason: "早期工业PDA形态，设计语言保守，无明显创新特征，历史价值大于设计参考价值"
+    design_tags: ["早期智能终端", "PDA", "金属机身", "历史参考"]
+    hero_feature: "早期金属感翻盖手持终端，方正比例"
+    problem_solved: "工业/商用场景需要耐用且可扩展的移动通讯终端"
+    transferable_technique: "N/A（年代久远，设计语言已过时）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_comm_004"
+    source_images:
+      - filename: "106.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/106.jpg"
+        image_role: "hero"
+        visual_anchor: "Nokia Lumia 520黄色手机+黄色耳机，全色系搭配展示"
+    product_name: "Nokia Lumia 520 + 耳机套装"
+    brand_name: "Nokia"
+    brand_confidence: "high"
+    category_path: ["消费电子", "通讯终端", "智能手机"]
+    design_language:
+      silhouette: "直板矩形手机，圆角，宽边框，扁平正面"
+      light_opening: "正面矩形屏幕，顶部听筒"
+      thermal: "无明显散热"
+      cmf:
+        color: "亮黄色全机身，耳机同色"
+        material: "多彩工程塑料机身（polycarbonate）"
+        finish: "哑光"
+      mounting: "手持，耳机颈挂"
+      signature_detail: "手机与耳机完全同色系，形成完整的色彩生态系统；手机顶部金色3.5mm插头与黄色机身呼应"
+    design_level:
+      score: 4
+      reason: "Nokia Lumia色彩战略的标志性执行，整机同色+配件同色的系统化色彩美学，polycarbonate一体成色技术，亮色策略在当时具有市场开创性"
+    design_tags: ["智能手机", "色彩系列", "Nokia Lumia", "一体色", "H10材料表达", "色彩战略"]
+    hero_feature: "手机与耳机完全同色的色彩生态系统，color-matched ecosystem"
+    problem_solved: "智能手机同质化竞争中缺乏视觉差异化和情感识别度"
+    transferable_technique: "产品+配件同色系生态策略，将色彩从单品延伸为系列识别语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_comm_005"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/13.jpg"
+        image_role: "hero"
+        visual_anchor: "Nokia概念品白色圆柱体底部特写，黑色端盖开启露出USB接口"
+    product_name: "Nokia 概念通讯设备底座接口细节"
+    brand_name: "Nokia"
+    brand_confidence: "high"
+    category_path: ["消费电子", "通讯终端", "通讯终端配件"]
+    design_language:
+      silhouette: "白色圆柱体，黑色底座端盖可旋转开启"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "白色主体+黑色端盖"
+        material: "工程塑料"
+        finish: "哑光"
+      mounting: "桌面放置"
+      signature_detail: "底座端盖内嵌USB接口，旋开即用，闭合时无接口可见，干净收纳"
+    design_level:
+      score: 3
+      reason: "隐藏式接口设计思路好，旋转端盖机构精巧，但图片仅展示局部，整机造型无法评估"
+    design_tags: ["隐藏接口", "旋转端盖", "圆柱体", "H09隐藏工程"]
+    hero_feature: "底部旋转端盖隐藏USB接口，闭合时机身无任何外露接口"
+    problem_solved: "通讯设备接口外露影响整体观感和防尘"
+    transferable_technique: "旋转端盖隐藏接口结构，可迁移至任何需要隐藏连接口的圆柱形产品"
+    confidence:
+      visual_description: "medium"
+      category: "medium"
+      brand: "high"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "仅局部视图，产品整体形态和功能定位不明确，建议补充整机图"
+
+  - product_id: "if_comm_006"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/14.jpg"
+        image_role: "hero"
+        visual_anchor: "Gigaset SL500 无绳电话+底座，银黑配色"
+    product_name: "Gigaset SL500 无绳电话"
+    brand_name: "Gigaset（Siemens）"
+    brand_confidence: "high"
+    category_path: ["消费电子", "通讯终端", "固定电话"]
+    design_language:
+      silhouette: "手持机竖向矩形，顶部圆弧，底座扁平横向展开"
+      light_opening: "正面彩色LCD屏幕，顶部通话镜面装饰"
+      thermal: "无"
+      cmf:
+        color: "银色主体+黑色按键区+黑色底座"
+        material: "电镀ABS+钢化玻璃屏"
+        finish: "金属镀铬+高光黑"
+      mounting: "底座充电放置"
+      signature_detail: "手机顶部镜面弧面过渡，底座两侧翼展开如蝴蝶翅膀，整体呈礼品级品质感"
+    design_level:
+      score: 3
+      reason: "无绳电话高端化的典型案例，镀铬+玻璃屏的材料组合大幅提升品质感，但设计语言偏2010年代奢华风，时代感较强"
+    design_tags: ["固定电话", "无绳电话", "镀铬", "底座设计", "H10材料表达"]
+    hero_feature: "手持机顶部镜面弧面+底座蝴蝶翼展开造型，赋予固话礼品级品质感"
+    problem_solved: "家用固话产品长期形象廉价、不具装饰价值"
+    transferable_technique: "底座翼展造型策略，将充电底座从功能配件提升为桌面装饰品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_comm_007"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/17.jpg"
+        image_role: "hero"
+        visual_anchor: "LYNKNEX专业手持通讯终端正背双面，黑色耐用型"
+    product_name: "LYNKNEX 专业执法通讯终端"
+    brand_name: "LYNKNEX"
+    brand_confidence: "high"
+    category_path: ["消费电子", "通讯终端", "专业手持终端"]
+    design_language:
+      silhouette: "竖向矩形，四角强化包覆，背面大圆形磁吸模块"
+      light_opening: "正面触摸屏，顶部蓝色LED，两侧黄色功能按键"
+      thermal: "背面竖向散热槽"
+      cmf:
+        color: "全黑主体+蓝色/黄色功能高亮点"
+        material: "橡胶包覆+金属内框+大猩猩玻璃屏"
+        finish: "橡胶磨砂+金属"
+      mounting: "背面磁吸模块可接外设，腰夹"
+      signature_detail: "背面大圆形磁吸接口模块视觉显著，蓝/黄双色功能按键形成安全语义"
+    design_level:
+      score: 4
+      reason: "执法级耐用终端将功能性外显做到极致，背面圆形磁吸接口是明显的设计差异化，蓝黄高亮点精准传递工具属性"
+    design_tags: ["专业终端", "执法设备", "耐用", "磁吸模块", "H02包覆", "H11功能外显", "H08对比强调"]
+    hero_feature: "背面大圆形磁吸扩展接口模块，视觉上即传递专业扩展能力"
+    problem_solved: "执法/应急人员需要耐用、可快速操作且支持多设备扩展的通讯终端"
+    transferable_technique: "圆形磁吸扩展接口作为背面视觉焦点，功能与形态语言合一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_comm_008"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/18.jpg"
+        image_role: "hero"
+        visual_anchor: "LYNKNEX三台终端场景展示，黑+黄色版并列"
+    product_name: "LYNKNEX 专业执法通讯终端（色彩系列）"
+    brand_name: "LYNKNEX"
+    brand_confidence: "high"
+    category_path: ["消费电子", "通讯终端", "专业手持终端"]
+    design_language:
+      silhouette: "与if_comm_007相同机身，增加全黄色版本"
+      light_opening: "正面屏幕，顶部蓝色LED"
+      thermal: "背面竖向散热槽"
+      cmf:
+        color: "全黑版/全黄版/黑黄混色版"
+        material: "橡胶包覆+金属内框"
+        finish: "橡胶磨砂"
+      mounting: "腰夹/磁吸扩展"
+      signature_detail: "黄色版在高危环境（矿井/施工）中的视觉可见度极高，色彩即安全标识"
+    design_level:
+      score: 3
+      reason: "补充展示色彩策略，黄色版在专业市场有明确的应用场景逻辑，与黑版形成差异化定位"
+    design_tags: ["专业终端", "色彩系列", "安全黄", "工业配色", "H10材料表达"]
+    hero_feature: "安全黄整机配色策略，在高危环境中色彩即警示"
+    problem_solved: "高危作业环境中设备遗失/难以辨识的安全隐患"
+    transferable_technique: "专业设备用工业安全色（黄/橙）整机覆盖，强化在危险环境的视觉可见度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_comm_009"
+    source_images:
+      - filename: "35.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/35.jpg"
+        image_role: "hero"
+        visual_anchor: "Gigaset ME Pro大屏智能固话+底座+侧挂手柄，正背双视"
+    product_name: "Gigaset ME Pro 智能固话"
+    brand_name: "Gigaset"
+    brand_confidence: "high"
+    category_path: ["消费电子", "通讯终端", "固定电话"]
+    design_language:
+      silhouette: "大屏平板形态，薄铝合金底座向前倾斜支撑，侧挂独立手柄听筒"
+      light_opening: "大尺寸触控显示屏"
+      thermal: "背面格栅散热"
+      cmf:
+        color: "黑色屏幕面板+银色铝底座+黑色手柄"
+        material: "铝合金底座+工程塑料手柄+强化玻璃屏"
+        finish: "铝拉丝+哑光黑"
+      mounting: "铝合金底座斜放，手柄磁吸侧挂"
+      signature_detail: "独立手柄听筒磁吸停靠于平板左侧，使用时抬起即接听，现代感十足"
+    design_level:
+      score: 5
+      reason: "将智能平板与传统电话手柄融合的形态突破，铝底座倾斜造型优雅，手柄磁吸侧挂机构精巧，触控操作+实体手柄双模式体验完整，是固话品类假设挑战的成功案例"
+    design_tags: ["固定电话", "智能屏", "磁吸手柄", "品类突破", "H07极简整合", "H09隐藏工程", "H12人机界面强化"]
+    hero_feature: "传统电话手柄磁吸停靠于触控屏平板侧边，形态革新而操作习惯保留"
+    problem_solved: "智能固话触控操作与用户打电话贴耳习惯之间的矛盾"
+    transferable_technique: "将传统操作配件（手柄）转化为磁吸停靠式周边，保留习惯同时实现形态现代化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_comm_010"
+    source_images:
+      - filename: "40.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/40.jpg"
+        image_role: "hero"
+        visual_anchor: "dipalo台式电话机，黑白照片，条纹格栅顶面+按键"
+    product_name: "Dipalo 台式电话机（历史档案）"
+    brand_name: "Dipalo"
+    brand_confidence: "medium"
+    category_path: ["消费电子", "通讯终端", "固定电话"]
+    design_language:
+      silhouette: "方正矩形台式机，顶面大面积平行条纹格栅扬声器，前面板按键阵列"
+      light_opening: "无（黑白照无法判断发光）"
+      thermal: "顶面条纹格栅兼散热"
+      cmf:
+        color: "灰白色（黑白照片推测）"
+        material: "工程塑料"
+        finish: "磨砂"
+      mounting: "桌面放置"
+      signature_detail: "顶面满铺平行竖向条纹格栅，密集规律，形成强烈纹理感"
+    design_level:
+      score: 2
+      reason: "历史档案级产品（约1970-80年代），设计语言过时，但条纹格栅的规律美感有一定参考价值"
+    design_tags: ["固定电话", "历史档案", "条纹格栅", "1970年代设计"]
+    hero_feature: "满铺竖向条纹格栅顶面，规律节奏感强"
+    problem_solved: "早期通讯设备集成扬声器的散热与美观需求"
+    transferable_technique: "满铺规律格栅纹理作为大面积装饰手法，可迁移至现代产品的顶面/背面处理"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_comm_011"
+    source_images:
+      - filename: "89.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/89.jpg"
+        image_role: "hero"
+        visual_anchor: "CCS 2000通讯控制台，键盘+显示器+话机，彩色老照片"
+    product_name: "CCS 2000 通讯控制台系统"
+    brand_name: "CCS"
+    brand_confidence: "medium"
+    category_path: ["消费电子", "通讯终端", "通讯控制台"]
+    design_language:
+      silhouette: "水平宽体控制台，大量按键矩阵+数字红色LED显示条+竖向显示器"
+      light_opening: "正面红色LED数字显示条，显示器自发光"
+      thermal: "右侧格栅"
+      cmf:
+        color: "浅灰色主体+白色按键+红色LED显示"
+        material: "金属外壳+ABS按键"
+        finish: "金属喷漆+哑光"
+      mounting: "桌面固定式控制台"
+      signature_detail: "大面积按键矩阵+横向红色LED状态显示条，专业调度室形象"
+    design_level:
+      score: 2
+      reason: "历史档案级调度控制台，设计语言严重过时，作为早期通讯系统集成的历史参考有价值"
+    design_tags: ["控制台", "通讯调度", "历史档案", "1980年代", "H11功能外显"]
+    hero_feature: "大面积按键矩阵实现一键直达多路通话，功能密度极高"
+    problem_solved: "多路通讯调度需要同时管理多个通话频道"
+    transferable_technique: "N/A（年代久远，设计语言已过时）"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_comm_012"
+    source_images:
+      - filename: "91.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/91.jpg"
+        image_role: "hero"
+        visual_anchor: "Netgear Nighthawk 5G移动路由器正面，黑色砖形，小触摸屏"
+    product_name: "Netgear Nighthawk 5G Mobile Router"
+    brand_name: "Netgear"
+    brand_confidence: "high"
+    category_path: ["消费电子", "通讯终端", "移动路由器"]
+    design_language:
+      silhouette: "圆角矩形砖形，正面满版黑色面板，上方小尺寸触摸彩屏"
+      light_opening: "正面小触摸屏显示5G状态/流量信息"
+      thermal: "无明显散热口（被动散热）"
+      cmf:
+        color: "全黑"
+        material: "工程塑料"
+        finish: "哑光黑+高光屏幕面板"
+      mounting: "口袋携带/桌面放置"
+      signature_detail: "正面大面积黑色面板+上方居中小圆角屏，极简比例，无多余按键外露"
+    design_level:
+      score: 3
+      reason: "移动路由器品类少见触摸屏设计，信息展示清晰，但整体造型偏保守，缺乏强记忆点"
+    design_tags: ["移动路由器", "5G", "触摸屏", "极简", "H07极简整合"]
+    hero_feature: "移动路由器集成触摸彩屏，实时显示5G连接状态和流量数据"
+    problem_solved: "移动路由器无法直观了解当前网络状态和剩余流量"
+    transferable_technique: "在小型方块设备上用小屏作为信息窗口，替代传统LED指示灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_comm_013"
+    source_images:
+      - filename: "92.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/通讯终端/92.jpg"
+        image_role: "hero"
+        visual_anchor: "Netgear Nighthawk 5G路由器斜角透视，背面菱格纹理清晰可见"
+    product_name: "Netgear Nighthawk 5G Mobile Router（斜视）"
+    brand_name: "Netgear"
+    brand_confidence: "high"
+    category_path: ["消费电子", "通讯终端", "移动路由器"]
+    design_language:
+      silhouette: "砖形，正面小屏+大面积面板，侧面收边处理"
+      light_opening: "正面小触摸屏"
+      thermal: "背面菱格纹理可能兼顾散热增大表面积"
+      cmf:
+        color: "全黑，背面深灰菱格纹理"
+        material: "工程塑料"
+        finish: "哑光黑正面+菱格纹背面"
+      mounting: "口袋/桌面"
+      signature_detail: "背面菱格压纹与正面光面形成前后质感对比，握持防滑"
+    design_level:
+      score: 3
+      reason: "补充背面视图，菱格纹与正面光面的对比策略有效，与if_comm_012同款产品"
+    design_tags: ["移动路由器", "5G", "菱格纹理", "前后对比", "H10材料表达"]
+    hero_feature: "正面光面与背面菱格纹的质感对比，展示面简洁，握持面防滑"
+    problem_solved: "小型手持设备正面展示感与握持防滑的双重需求"
+    transferable_technique: "正面光滑展示+背面纹理防滑的前后分区处理策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

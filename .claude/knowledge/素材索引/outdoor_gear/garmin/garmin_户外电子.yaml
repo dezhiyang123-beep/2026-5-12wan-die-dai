@@ -1,0 +1,663 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "户外装备"
+  secondary: "户外电子"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "garmin_electronics_001"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/06.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "全黑色电动推进器从船尾伸入水中，螺旋桨悬于水面，机械结构感极强"
+    product_name: "Garmin Force Trolling Motor"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "钓鱼电子"]
+    design_language:
+      silhouette: "垂直长杆+上端折叠铰链头部+下端螺旋桨，整体呈不对称T形结构"
+      light_opening: "无显示屏，顶部控制头有指示灯"
+      thermal: ""
+      cmf:
+        color: "全黑"
+        material: "工程塑料+金属杆"
+        finish: "哑光黑，防腐蚀涂层"
+      mounting: "船尾夹板式安装，铰链折叠收纳"
+      signature_detail: "Garmin标识印于主机体侧面，折叠铰链结构为核心视觉中心"
+    design_level:
+      score: 3
+      reason: "实用工业设计，功能清晰但造型无特别突出的美学亮点；场景照片展示了产品真实使用感"
+    design_tags: ["钓鱼", "电动推进", "黑色", "工业风", "船用"]
+    hero_feature: "一体化折叠收纳铰链结构，螺旋桨入水角度可调"
+    problem_solved: "钓鱼时静音精准操控船位，避免噪音惊鱼"
+    transferable_technique: "折叠铰链 + 杆体结合的紧凑安装结构，适用于需要伸出/收回的户外安装设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_002"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/10.jpg"
+        image_role: "hero"
+        visual_anchor: "宽屏横向GPS导航仪正面，右侧圆形风速仪表盘UI与左侧卫星地图并排显示"
+      - filename: "14_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/14_dup1.jpg"
+        image_role: "angle"
+        visual_anchor: "同款导航仪斜45度视角，标注NEW角标，显示相同界面布局"
+      - filename: "27_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/27_dup1.jpg"
+        image_role: "variant"
+        visual_anchor: "欧洲版本界面，地图显示意大利海岸线，界面语言为英文，公里单位"
+    product_name: "Garmin Zumo XT2 / RV GPS Navigator"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "GPS导航"]
+    design_language:
+      silhouette: "横向宽屏矩形，四角圆角，侧边厚度均匀，正面屏幕占比约80%"
+      light_opening: "全面触摸屏，横向16:9比例彩色显示屏"
+      thermal: ""
+      cmf:
+        color: "深灰/黑色机身"
+        material: "工程塑料外壳"
+        finish: "磨砂黑，防眩光屏幕"
+      mounting: "可拆卸支架卡扣安装，适配摩托车/越野车把手"
+      signature_detail: "左侧边印Garmin竖排logo，底部导航栏按钮区与大屏幕形成清晰功能分区"
+    design_level:
+      score: 3
+      reason: "屏幕UI设计信息密度高且层次清晰，硬件造型实用主义偏强，整体工业语言统一"
+    design_tags: ["GPS导航", "摩托车", "越野", "宽屏", "触摸屏", "全天候"]
+    hero_feature: "横向大屏+右侧独立圆形仪表盘UI布局，信息分区直觉清晰"
+    problem_solved: "摩托车/越野驾驶中单手操作、防震防水导航"
+    transferable_technique: "信息密度高的分区屏幕布局：地图区+数据仪表区双区并排，适用于工具型手持设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_003"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/11.jpg"
+        image_role: "hero"
+        visual_anchor: "深棕色激光测距仪侧视，右端目镜为黑色橡胶凸出旋钮，机身左侧有金色条形标识"
+      - filename: "12_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/12_dup1.jpg"
+        image_role: "angle"
+        visual_anchor: "同款测距仪斜45度，正面物镜紫色镀膜可见，底部旋转盖显示Garmin标识"
+    product_name: "Garmin Xero LA60 Laser Rangefinder"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "测距仪"]
+    design_language:
+      silhouette: "紧凑矩形单筒望远镜形态，右端目镜略粗于镜身，整体横置握持型"
+      light_opening: "右端黑色橡胶目镜；正面物镜紫色镀膜防反射"
+      thermal: ""
+      cmf:
+        color: "深棕/军绿哑光"
+        material: "工程塑料+橡胶包覆"
+        finish: "磨砂质感，橡胶防滑纹理"
+      mounting: "手持，侧面有防滑握持区"
+      signature_detail: "机身侧面金色/黄绿色Xero系列条形色标，品牌辨识度高"
+    design_level:
+      score: 4
+      reason: "造型专业紧凑，Xero系列色标设计语言独特，目镜橡胶工艺细节讲究，整体设计完整度高"
+    design_tags: ["测距仪", "狩猎", "射箭", "军绿", "光学设备", "Xero系列"]
+    hero_feature: "Xero系列专属金色条形色标标识系统，在深色机身上形成强烈品牌辨识"
+    problem_solved: "户外狩猎/射箭场景精准测距，防抖补偿距离读数"
+    transferable_technique: "深色机身+单条鲜明色标的品牌标识法，可迁移到户外工具类产品的系列识别设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_004"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/12.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色卫星通信手持设备正面，顶部红色天线为最显眼视觉元素，屏幕显示消息界面"
+    product_name: "Garmin RINO 750 / inReach Messenger"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "卫星通信"]
+    design_language:
+      silhouette: "竖向长条手持设备，顶端红色天线柱突出机身，底部物理按键区占约1/3机身高度"
+      light_opening: "中段彩色触摸屏，屏幕与按键区明确分界"
+      thermal: ""
+      cmf:
+        color: "机身全黑，天线红色"
+        material: "工程塑料，防摔橡胶包角"
+        finish: "哑光黑，橡胶防滑侧边"
+      mounting: "手持，底部可接背夹/充电座"
+      signature_detail: "顶部红色粗天线柱——功能即造型，天线颜色是卫星通信品类的SOS信号强化视觉语言"
+    design_level:
+      score: 4
+      reason: "红色天线与黑色机身的高对比度处理既是功能需要也是极强的视觉识别符号；按键布局清晰专业"
+    design_tags: ["卫星通信", "应急", "SOS", "双向通信", "红色天线", "手持设备"]
+    hero_feature: "红色突出天线作为卫星通信功能的视觉宣言，形成强烈品类识别"
+    problem_solved: "无手机信号区域双向卫星通信+GPS定位+SOS求救"
+    transferable_technique: "功能性突出元素色彩强调（红色=紧急/重要），适用于安全/应急类户外设备的设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_005"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/14.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向矩形手持GPS，触摸屏显示徒步路线+高程图，顶部双LED指示灯为标志性细节"
+    product_name: "Garmin eTrex SE / eTrex 3X"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "手持GPS"]
+    design_language:
+      silhouette: "竖向矩形，四角圆润，侧边有物理按键，机身厚实耐摔感强"
+      light_opening: "中央大尺寸彩色触摸屏，顶部左右各一个小圆形LED指示灯"
+      thermal: ""
+      cmf:
+        color: "全黑"
+        material: "强化工程塑料"
+        finish: "哑光黑，侧面橡胶防滑"
+      mounting: "手持，背面可安装自行车/背包夹具"
+      signature_detail: "机顶双绿色LED指示灯，品牌logo居中于屏幕下方"
+    design_level:
+      score: 3
+      reason: "经典eTrex形态更新，触屏升级明显，顶部双LED细节有识别性，整体设计稳健但缺乏突破"
+    design_tags: ["手持GPS", "徒步", "全地形", "触摸屏", "防水", "eTrex系列"]
+    hero_feature: "顶端双LED指示灯+竖向大触屏组合，强化户外工具专业感"
+    problem_solved: "徒步/骑行中无网络环境下的离线地图导航与轨迹记录"
+    transferable_technique: "物理按键与触摸屏共存的双操作模式设计，适用于需要戴手套操作的户外工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_006"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/15.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "白色圆顶雷达罩安装在游艇上方，Garmin三角logo与品牌名并排显示"
+    product_name: "Garmin GMR Fantom Marine Radar"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "海洋雷达"]
+    design_language:
+      silhouette: "半球形圆顶罩体，底部扁平安装底座，整体为低矮流线型"
+      light_opening: "无显示屏，白色外壳无开孔"
+      thermal: ""
+      cmf:
+        color: "纯白"
+        material: "海洋级工程塑料"
+        finish: "光滑哑光白，抗紫外线涂层"
+      mounting: "顶部固定安装，螺栓底座固定于船顶横梁"
+      signature_detail: "正面Garmin蓝色三角logo+白色品牌字体，配色与白色机身形成低调高档感"
+    design_level:
+      score: 3
+      reason: "海洋设备白色哑光工业标准语言，形态简洁圆润，蓝色logo在白色背景下辨识清晰，设计干净"
+    design_tags: ["海洋雷达", "船用", "白色", "圆顶", "安装式", "防水"]
+    hero_feature: "纯白圆顶造型+蓝色三角logo，海洋电子设备经典视觉语言"
+    problem_solved: "海上航行中实时目标探测与避碰预警"
+    transferable_technique: "白色圆润外壳+品牌色logo的海洋/航空设备视觉语言，适用于环境安装型传感器设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_007"
+    source_images:
+      - filename: "15_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/15_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "JL Audio品牌黑色低音炮+功放套装，非Garmin产品"
+    product_name: "（非Garmin产品）JL Audio Marine Subwoofer Set"
+    brand_name: "JL Audio"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子"]
+    design_language:
+      silhouette: "圆形低音炮扬声器+矩形功放盒组合"
+      light_opening: "无"
+      thermal: ""
+      cmf:
+        color: "黑色+金黄色"
+        material: "金属+工程塑料"
+        finish: "哑光黑"
+      mounting: "嵌入式安装"
+      signature_detail: "JL Audio品牌标识，金色纸盆对比强烈"
+    design_level:
+      score: 2
+      reason: "非目标品牌产品，误入素材库，设计本身中规中矩"
+    design_tags: ["音频", "低音炮", "船用音响", "非Garmin"]
+    hero_feature: "金色纸盆与黑色外壳对比"
+    problem_solved: "船用音响低音强化"
+    transferable_technique: "无"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "非Garmin产品（JL Audio品牌），属于误入素材，建议移出Garmin素材库"
+
+  - product_id: "garmin_electronics_008"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/17.jpg"
+        image_role: "hero"
+        visual_anchor: "横向宽屏GPS导航仪，显示雪地摩托越野路线，绿色/粉色多线路对比显示"
+      - filename: "32.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/32.jpg"
+        image_role: "variant"
+        visual_anchor: "同系列摩托车GPS，显示欧洲山地自行车路线，UI布局一致"
+    product_name: "Garmin Tread / Overlander Powersports GPS"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "GPS导航"]
+    design_language:
+      silhouette: "横向宽屏矩形，侧边厚实，四角圆润，防震橡胶边框"
+      light_opening: "全面彩色触摸屏，横向宽屏显示"
+      thermal: ""
+      cmf:
+        color: "深灰/黑"
+        material: "强化工程塑料，橡胶防震边框"
+        finish: "哑光黑，防眩光屏幕涂层"
+      mounting: "摩托车把手/越野车中控台安装支架"
+      signature_detail: "左侧竖排Garmin品牌标识，宽屏底部简洁导航栏仅4-5个操作按钮"
+    design_level:
+      score: 3
+      reason: "与002同系列设计语言，越野多路径彩色地图UI设计信息层次丰富，硬件造型稳健耐用"
+    design_tags: ["GPS导航", "雪地摩托", "越野", "多路径", "宽屏", "全地形"]
+    hero_feature: "多彩路径对比的越野地图UI，宽屏横向信息布局适合行进中快速读取"
+    problem_solved: "雪地摩托/越野摩托在复杂路网中多路线规划与实时导航"
+    transferable_technique: "多彩路径视觉编码系统（不同颜色=不同路线属性），适用于复杂路网可视化显示设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_009"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/18.jpg"
+        image_role: "hero"
+        visual_anchor: "Garmin垂直支架+鱼探头传感器安装组件，细长竖杆顶端带电缆管理结构，标注NEW"
+      - filename: "20.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/20.jpg"
+        image_role: "angle"
+        visual_anchor: "同款传感器安装组件，底座固定端细节更清晰，展示完整安装系统"
+    product_name: "Garmin GT Transducer Trolling Motor Mount"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "钓鱼传感器"]
+    design_language:
+      silhouette: "极细长竖杆形态，顶端小型控制模块，中部横向传感器臂，整体呈不对称T形"
+      light_opening: "无显示屏，主机体有小型指示灯"
+      thermal: ""
+      cmf:
+        color: "全黑"
+        material: "铝合金杆体+工程塑料模块"
+        finish: "哑光黑，阳极氧化处理"
+      mounting: "底部直插式船底固定，可适配多种推进器"
+      signature_detail: "极细的线性杆体美学，Garmin标识于中部主体模块，结构极简"
+    design_level:
+      score: 3
+      reason: "极简线性工业设计，形态由功能决定，无多余装饰；细杆与功能模块的比例控制专业"
+    design_tags: ["钓鱼", "传感器安装", "极简", "线性结构", "全黑", "船用配件"]
+    hero_feature: "极细铝合金长杆+传感器精准安装系统，强调精密工具感"
+    problem_solved: "将声纳传感器精准定位于推进器旁，实现无盲区水下扫描"
+    transferable_technique: "细线性主体+功能模块节点的组合结构语言，适用于精密户外传感器/测量工具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_010"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/19.jpg"
+        image_role: "hero"
+        visual_anchor: "大尺寸海洋多功能显示屏，多分割画面同时显示声纳/海图/仪表，底部导航栏简洁"
+    product_name: "Garmin GPSMAP 8416xsv Marine Chartplotter"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "海洋导航"]
+    design_language:
+      silhouette: "大尺寸横向宽屏，极窄边框，左右无物理按键，屏幕占比极高"
+      light_opening: "大尺寸触摸屏，多分割窗口显示，底部薄导航栏"
+      thermal: ""
+      cmf:
+        color: "机身黑色，屏幕深色UI"
+        material: "海洋级工程塑料"
+        finish: "哑光黑边框，防眩光玻璃屏"
+      mounting: "嵌入式或支架式安装于船舱控制台"
+      signature_detail: "多画面同时显示声纳+海图+仪表的分割屏UI系统，右下角SOS快捷按钮"
+    design_level:
+      score: 5
+      reason: "信息密度极高的多视窗UI设计堪称行业标杆；硬件极窄边框最大化屏幕利用率；整体设计专业度一流"
+    design_tags: ["海洋导航", "大屏", "多视窗", "声纳", "海图", "专业级"]
+    hero_feature: "多分割窗口同时显示声纳/海图/仪表的信息整合UI系统"
+    problem_solved: "海上航行中多维度信息（位置+深度+天气+速度）同屏实时监控"
+    transferable_technique: "多视窗信息分割布局设计原则，适用于需要同时监控多维数据的专业工具设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_011"
+    source_images:
+      - filename: "19_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/19_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "Garmin Xero A1弓弩瞄准器正面，圆形银色瞄准盘+亮绿色环形边框+顶部小LCD屏"
+      - filename: "33.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/33.jpg"
+        image_role: "angle"
+        visual_anchor: "同款弓弩瞄准器斜视角，展示右侧安装板孔位和顶部LCD屏显示射距数据"
+    product_name: "Garmin Xero A1 Bow Sight"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "射箭瞄具"]
+    design_language:
+      silhouette: "方形主体+圆形中央瞄准盘的复合形态，右侧矩形安装板为功能结构"
+      light_opening: "顶部小型LCD显示屏（显示测距数据）；圆形瞄准盘为红点激光"
+      thermal: ""
+      cmf:
+        color: "主体黑色，瞄准环亮绿色/荧光黄"
+        material: "铝合金+工程塑料"
+        finish: "哑光黑阳极氧化，绿色橡胶环"
+      mounting: "侧向安装于弓弦一侧，标准鸠尾槽安装"
+      signature_detail: "亮绿色圆环瞄准框是最强视觉识别元素，顶部LCD屏将数字化融入传统射箭工具"
+    design_level:
+      score: 5
+      reason: "将数字测距技术无缝融入传统弓弩瞄具形态是绝佳创新；绿色环框视觉冲击力强；LCD集成干净利落"
+    design_tags: ["射箭", "弓弩", "瞄准器", "绿色", "数字化", "Xero系列", "精准测距"]
+    hero_feature: "亮绿色圆形瞄准环+顶部LCD测距屏，将GPS精准技术注入传统狩猎工具"
+    problem_solved: "射箭时自动测距并实时调整瞄准点，消除人工测距误差"
+    transferable_technique: "传统工具数字化升级设计模式：保留核心使用动作+增加数字辅助模块，适用于传统户外工具的科技化改造"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_012"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/21.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑电动推进器完整侧视，顶部控制单元有绿色LED指示灯，底部三叶螺旋桨"
+    product_name: "Garmin Force Kraken Electric Trolling Motor"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "钓鱼电子"]
+    design_language:
+      silhouette: "垂直长杆结构，顶端扁平矩形控制盒，底端三叶螺旋桨，整体线条简洁有力"
+      light_opening: "顶端控制模块有绿色LED状态指示灯条"
+      thermal: ""
+      cmf:
+        color: "全黑"
+        material: "铝合金杆+工程塑料控制模块"
+        finish: "哑光黑，阳极氧化"
+      mounting: "船头安装，折叠收纳式铰链"
+      signature_detail: "顶部绿色LED状态灯条是功能状态视觉化，Garmin白色品牌字体对比明显"
+    design_level:
+      score: 3
+      reason: "比001更整洁的产品照，造型语言统一，绿色LED细节提升了科技感，整体比例控制到位"
+    design_tags: ["电动推进器", "钓鱼", "全黑", "Force系列", "LED指示", "船用"]
+    hero_feature: "顶部绿色LED状态灯带+全黑铝合金机身，专业钓鱼装备视觉语言"
+    problem_solved: "静音电动推进精准控位，配合鱼探设备一体化联动"
+    transferable_technique: "LED状态灯带作为产品工作状态外显的视觉语言，适用于无屏户外专业设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_013"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/22.jpg"
+        image_role: "hero"
+        visual_anchor: "不同款Garmin电动推进器，顶端控制头可旋转，有麦克风孔，横臂更长更复杂"
+    product_name: "Garmin Force Trolling Motor (Bow Mount)"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "钓鱼电子"]
+    design_language:
+      silhouette: "顶部控制头可360度旋转，横臂延伸比Force Kraken更长，带独立天线小杆"
+      light_opening: "无显示屏"
+      thermal: ""
+      cmf:
+        color: "全黑"
+        material: "铝合金+工程塑料"
+        finish: "哑光黑"
+      mounting: "船头夹板式安装，旋转折叠收纳"
+      signature_detail: "顶部球形旋转控制头与细长天线组合，类似工业机械臂美学"
+    design_level:
+      score: 3
+      reason: "与012同品类，但形态更复杂，机械感更强；白色背景产品图展示清晰，设计层次丰富"
+    design_tags: ["电动推进器", "钓鱼", "旋转控制", "Force系列", "船头安装", "机械感"]
+    hero_feature: "顶部360度旋转球形控制头，手柄+自动操控双模式切换"
+    problem_solved: "船头精准定位钓鱼，旋转控制头适应不同操控角度"
+    transferable_technique: "球形旋转关节作为多轴调节机构的视觉符号，适用于需要方向调节的户外工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_014"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/23.jpg"
+        image_role: "hero"
+        visual_anchor: "超宽幅矩形海洋导航显示器，极窄边框，屏幕内容分左中右三区显示"
+    product_name: "Garmin GPSMAP 8700 / GPSMAP Ultrawide Chartplotter"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "海洋导航"]
+    design_language:
+      silhouette: "超宽幅横向矩形，宽高比约3:1，极窄黑色边框，屏幕占比>95%"
+      light_opening: "超宽幅触摸屏，三区分割显示"
+      thermal: ""
+      cmf:
+        color: "极窄黑色边框"
+        material: "海洋级铝合金边框+钢化玻璃屏"
+        finish: "磨砂黑，防盐雾处理"
+      mounting: "嵌入式仪表台安装"
+      signature_detail: "超宽幅设计是最显著特征，接近电影院宽屏比例，在船舱控制台形成沉浸式信息视野"
+    design_level:
+      score: 4
+      reason: "超宽幅形态在海洋电子领域极具差异化，极窄边框工艺精良，沉浸式多视窗体验设计领先"
+    design_tags: ["海洋导航", "超宽屏", "嵌入式", "大屏", "旗舰级", "三区显示"]
+    hero_feature: "超宽幅3:1屏幕比例+三区分割UI，形成沉浸式船舱信息中心"
+    problem_solved: "大型游艇多信息维度同时监控，减少操作员视线切换"
+    transferable_technique: "超宽幅横向信息展示形态，适用于固定安装的专业监控/导航设备设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_015"
+    source_images:
+      - filename: "27.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/27.jpg"
+        image_role: "hero"
+        visual_anchor: "JL Audio品牌白色船用圆形扬声器一对，带蓝色RGB灯光格栅，非Garmin产品"
+    product_name: "（非Garmin产品）JL Audio M Series Marine Speakers"
+    brand_name: "JL Audio"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子"]
+    design_language:
+      silhouette: "圆形扬声器，正面辐射状格栅+中央锥盆"
+      light_opening: "格栅内嵌RGB蓝色LED灯圈"
+      thermal: ""
+      cmf:
+        color: "白色+银色"
+        material: "ABS+金属格栅"
+        finish: "光泽白，抛光银"
+      mounting: "嵌入式船舱/船舷安装"
+      signature_detail: "蓝色RGB灯圈格栅，JL Audio品牌标识"
+    design_level:
+      score: 3
+      reason: "非目标品牌，LED灯圈设计有娱乐感，整体设计中规中矩"
+    design_tags: ["船用音响", "扬声器", "RGB灯光", "白色", "非Garmin"]
+    hero_feature: "RGB蓝色LED灯圈格栅"
+    problem_solved: "船上娱乐音响，防水防盐雾"
+    transferable_technique: "无"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "非Garmin产品（JL Audio品牌），属于误入素材，建议移出Garmin素材库"
+
+  - product_id: "garmin_electronics_016"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/28.jpg"
+        image_role: "hero"
+        visual_anchor: "横向鱼探仪，右侧一列物理按键，屏幕全屏显示高清声纳橙色水底影像"
+    product_name: "Garmin ECHOMAP Ultra / GPSMAP Fish Finder"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "鱼探仪"]
+    design_language:
+      silhouette: "横向矩形，右侧有一列独立物理按键区，整体略厚实，有明显深度感"
+      light_opening: "大尺寸触摸屏+右侧独立物理按键，声纳影像占满全屏"
+      thermal: ""
+      cmf:
+        color: "黑色机身"
+        material: "海洋级工程塑料"
+        finish: "哑光黑，防水处理"
+      mounting: "球形支架安装或嵌入式控制台安装"
+      signature_detail: "右侧独立物理按键列与大屏幕并存，水下声纳橙色影像视觉冲击力强"
+    design_level:
+      score: 3
+      reason: "右侧物理按键+触摸屏的双操作设计体现专业工具思维，全屏声纳影像展示信息密度高"
+    design_tags: ["鱼探仪", "声纳", "钓鱼", "物理按键", "全屏显示", "专业级"]
+    hero_feature: "右侧独立物理按键列+全屏高分辨率声纳影像，专业钓鱼双操作模式"
+    problem_solved: "水下目标探测与鱼群定位，在颠簸环境中保证操作精准性"
+    transferable_technique: "触摸屏+侧边物理按键并存的双操作设计，适用于需要在极端环境中精准操控的专业设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_017"
+    source_images:
+      - filename: "29.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/29.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色扁平矩形声纳模块，顶面密集散热片，背面有红蓝电源接线，GARMIN标识压印"
+    product_name: "Garmin GHDS53 Sonar Module"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "声纳模块"]
+    design_language:
+      silhouette: "扁平矩形盒体，顶面满布散热鳍片，四角有安装螺孔，无任何显示屏"
+      light_opening: "无显示屏"
+      thermal: "顶面密集纵向散热鳍片，热管理设计外显化"
+      cmf:
+        color: "全黑"
+        material: "铝合金散热壳体"
+        finish: "哑光黑阳极氧化"
+      mounting: "螺栓固定安装于船舱防水区域"
+      signature_detail: "顶面密集散热鳍片纹理是功能即形态的典型——散热需求直接塑造产品外观"
+    design_level:
+      score: 3
+      reason: "纯工程美学，散热鳍片纹理有工业感，但作为隐藏式安装模块整体设计附加值有限"
+    design_tags: ["声纳模块", "散热设计", "工业风", "船用", "隐藏安装", "黑盒子"]
+    hero_feature: "顶面满布铝合金散热鳍片，功能驱动的纹理美学"
+    problem_solved: "为海洋导航系统提供高功率声纳信号处理，散热保证持续工作稳定性"
+    transferable_technique: "散热鳍片作为功能性表面纹理设计语言，可迁移到需要散热的高性能户外电子设备外壳设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "garmin_electronics_018"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/garmin/户外电子/30.jpg"
+        image_role: "hero"
+        visual_anchor: "正圆形不锈钢传感器面板，中央黑色圆形传感器头，三颗螺钉对称分布，极简工业感"
+    product_name: "Garmin Panoptix PS30 / Livescope Transducer (Flush Mount)"
+    brand_name: "Garmin"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电子", "声纳传感器"]
+    design_language:
+      silhouette: "正圆形，极扁平，圆形面板+中央凸出传感器头，形似极简工业仪表盘"
+      light_opening: "无"
+      thermal: ""
+      cmf:
+        color: "拉丝不锈钢银色+中央黑色"
+        material: "海洋级不锈钢面板+工程塑料传感器头"
+        finish: "拉丝不锈钢，高档工业质感"
+      mounting: "船底嵌入式平齐安装，三螺钉固定"
+      signature_detail: "不锈钢圆形面板+三点螺钉对称布局，极简圆形构图接近建筑/奢侈品美学"
+    design_level:
+      score: 5
+      reason: "材质选择和构图极简精准，不锈钢质感大幅超越同品类通常的塑料件；三点螺钉对称是经典工业美学；整体设计远超实用需求"
+    design_tags: ["声纳传感器", "不锈钢", "圆形", "极简", "嵌入式", "高端材质", "Panoptix"]
+    hero_feature: "拉丝不锈钢圆形面板+三点对称螺钉，将工业传感器提升至工艺品级别的视觉语言"
+    problem_solved: "船底嵌入式安装实时水下全景扫描，平齐安装减少行进阻力"
+    transferable_technique: "拉丝不锈钢圆形构图+对称螺钉的高端工业美学，可迁移到任何需要高端传感器/仪器面板设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

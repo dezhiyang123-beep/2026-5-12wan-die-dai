@@ -1,0 +1,72 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "耳机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/耳机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "samsung_earphone_001"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/耳机/02.jpg"
+        image_role: "hero"
+        visual_anchor: "Galaxy Buds4 Pro两只耳塞特写，白色主体+拉丝金属竖向装饰条，淡紫色渐变背景"
+    product_name: "Samsung Galaxy Buds4 Pro"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "入耳式耳塞，半球形主腔体+斜切柄部；整体轮廓圆润，无尖锐棱角"
+      light_opening: "无"
+      thermal: "无可见散热结构"
+      cmf:
+        color: "珍珠白（White）主体，拉丝银色金属装饰条"
+        material: "主腔体ABS塑料，装饰条拉丝铝合金"
+        finish: "主体哑光白，装饰条拉丝金属亮面"
+      mounting: "硅胶耳塞帽入耳固定，柄部无夹扣"
+      signature_detail: "柄部竖向拉丝金属条贯穿全长，与白色主体形成材质对比；顶部圆形麦克网孔精细"
+    design_level:
+      score: 4
+      reason: "拉丝金属竖向装饰条是强记忆点，材质对比处理精准；整体比例优雅，哑光白+金属条组合传递高端质感；Hero Feature明确，设计语言内敛有力"
+    design_tags: ["入耳式", "拉丝金属", "材质对比", "珍珠白", "高端TWS", "极简"]
+    hero_feature: "柄部竖向拉丝金属装饰条——在全白圆润形态中植入硬朗金属线条，制造柔与硬的材质张力"
+    problem_solved: "TWS耳机同质化严重（均为全塑料圆润形态），通过金属装饰条差异化提升高端感知"
+    transferable_technique: "单一材质条穿插——在大面积单色主体上用异质材料细长条制造焦点，可迁移至其他小型穿戴设备柄部/握持区设计"
+
+  - product_id: "samsung_earphone_002"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/耳机/06.jpg"
+        image_role: "hero"
+        visual_anchor: "与02.jpg为同款Galaxy Buds4 Pro，相同角度相同背景，图片重复"
+    product_name: "Samsung Galaxy Buds4 Pro（重复素材）"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "耳机"]
+    design_language:
+      silhouette: "与samsung_earphone_001完全相同"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "与samsung_earphone_001相同"
+        material: "与samsung_earphone_001相同"
+        finish: "与samsung_earphone_001相同"
+      mounting: "与samsung_earphone_001相同"
+      signature_detail: "与samsung_earphone_001相同"
+    design_level:
+      score: 2
+      reason: "与samsung_earphone_001为同一张图片，无增量信息；建议替换为收纳盒/其他配色/不同角度素材"
+    design_tags: ["重复素材", "需替换"]
+    hero_feature: "同samsung_earphone_001"
+    problem_solved: "同samsung_earphone_001"
+    transferable_technique: "同samsung_earphone_001"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "02.jpg与06.jpg为同一张图片，建议确认06.jpg是否应为其他配色/充电盒/不同角度素材"

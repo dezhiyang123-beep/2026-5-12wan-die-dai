@@ -1,0 +1,1671 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 台灯
+  tertiary: 台灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_台灯_001
+  source_images:
+  - filename: 01.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/01.jpg
+    image_role: hero
+    visual_anchor: 大小不同的黑色圆环台灯立在桌面，细环内侧发光形成光圈。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 大小不同的黑色圆环台灯立在桌面，细环内侧发光形成光圈
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 大小不同的黑色圆环台灯立在桌面，细环内侧发光形成光圈
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_002
+  source_images:
+  - filename: 05.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/05.jpg
+    image_role: hero
+    visual_anchor: 蓝色折叠机械臂台灯和黄色细杆灯在红色背景中形成强烈色彩对比。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 多段细金属臂以铰点连接成折线骨架，末端分别接圆锥灯罩
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 红色强调色配白色/金属或暖光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 蓝色折叠机械臂台灯和黄色细杆灯在红色背景中形成强烈色彩对比
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 机械臂
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 蓝色折叠机械臂台灯和黄色细杆灯在红色背景中形成强烈色彩对比
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_003
+  source_images:
+  - filename: 06.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/06.jpg
+    image_role: hero
+    visual_anchor: 白色圆盘灯头斜插在圆柱底座上，灯头中心凹孔形成甜甜圈轮廓。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色圆盘灯头斜插在圆柱底座上，灯头中心凹孔形成甜甜圈轮廓
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色圆盘灯头斜插在圆柱底座上，灯头中心凹孔形成甜甜圈轮廓
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_004
+  source_images:
+  - filename: 16.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/16.jpg
+    image_role: hero
+    visual_anchor: 多色小蘑菇台灯成组，短柱支撑圆帽状灯头。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 多色小蘑菇台灯成组，短柱支撑圆帽状灯头
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 多色小蘑菇台灯成组，短柱支撑圆帽状灯头
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_005
+  source_images:
+  - filename: 18.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/18.jpg
+    image_role: hero
+    visual_anchor: 黑色双立杆支撑超薄水平灯条，底部线框座像矩形门架。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色双立杆支撑超薄水平灯条，底部线框座像矩形门架
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色双立杆支撑超薄水平灯条，底部线框座像矩形门架
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_006
+  source_images:
+  - filename: 23.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/23.jpg
+    image_role: hero
+    visual_anchor: 黑色多关节任务台灯，长细臂和小方灯头形成工程绘图感。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 黑色多关节任务台灯，长细臂和小方灯头形成工程绘图感
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色多关节任务台灯，长细臂和小方灯头形成工程绘图感
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_007
+  source_images:
+  - filename: 29.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/29.jpg
+    image_role: hero
+    visual_anchor: 三只布罩台灯以白红紫配色排列，传统灯罩配简洁三脚底。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 红色强调色配白色/金属或暖光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 三只布罩台灯以白红紫配色排列，传统灯罩配简洁三脚底
+  design_level:
+    score: 3
+    reason: 3分：功能和比例完成度稳定，但造型主要依赖成熟灯具类型，独特性和迁移启发有限。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 三只布罩台灯以白红紫配色排列，传统灯罩配简洁三脚底
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_008
+  source_images:
+  - filename: 30.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/30.jpg
+    image_role: hero
+    visual_anchor: 竖向椭圆环台灯立在小圆底座上，环内侧形成连续柔光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 竖向椭圆环台灯立在小圆底座上，环内侧形成连续柔光
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 竖向椭圆环台灯立在小圆底座上，环内侧形成连续柔光
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_009
+  source_images:
+  - filename: 40.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/40.jpg
+    image_role: hero
+    visual_anchor: 透明球形台灯内部有彩色圆形反射片和机械结构，像小型舞台灯。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 彩色光或高饱和色作为视觉焦点
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 透明球形台灯内部有彩色圆形反射片和机械结构，像小型舞台灯
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 彩色
+  - 灯具
+  - 球形
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明球形台灯内部有彩色圆形反射片和机械结构，像小型舞台灯
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_010
+  source_images:
+  - filename: 58.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/58.jpg
+    image_role: hero
+    visual_anchor: 银色细杆台灯支撑倾斜褶皱灯罩，白色罩面带竖向纹理。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 纸质/织物感扩散罩或折叠片材，配金属吊线
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 银色细杆台灯支撑倾斜褶皱灯罩，白色罩面带竖向纹理
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 银色细杆台灯支撑倾斜褶皱灯罩，白色罩面带竖向纹理
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_011
+  source_images:
+  - filename: 70.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/70.jpg
+    image_role: hero
+    visual_anchor: 透明喇叭状台灯，金色旋涡光从碟形罩中心扩散。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 透明喇叭状台灯，金色旋涡光从碟形罩中心扩散
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明喇叭状台灯，金色旋涡光从碟形罩中心扩散
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_012
+  source_images:
+  - filename: 76.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/76.jpg
+    image_role: hero
+    visual_anchor: 红白小圆筒台灯带蘑菇上盖，旁边低矮透明圆盒形成组合。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 红色强调色配白色/金属或暖光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 红白小圆筒台灯带蘑菇上盖，旁边低矮透明圆盒形成组合
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 红白小圆筒台灯带蘑菇上盖，旁边低矮透明圆盒形成组合
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_013
+  source_images:
+  - filename: 84.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/84.jpg
+    image_role: hero
+    visual_anchor: 透明沙漏形柱状台灯，内部黑色网格芯和横向细纹清晰。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 透明沙漏形柱状台灯，内部黑色网格芯和横向细纹清晰
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明沙漏形柱状台灯，内部黑色网格芯和横向细纹清晰
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_014
+  source_images:
+  - filename: 89.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/89.jpg
+    image_role: hero
+    visual_anchor: 白色扭转叶片形台灯立在小圆柱底座上，像发光叶子。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 白色扭转叶片形台灯立在小圆柱底座上，像发光叶子
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色扭转叶片形台灯立在小圆柱底座上，像发光叶子
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_015
+  source_images:
+  - filename: 92.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/92.jpg
+    image_role: hero
+    visual_anchor: 黑色矩形手提框台灯，底部厚方盘和顶部小灯头组成便携框架。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 黑色矩形手提框台灯，底部厚方盘和顶部小灯头组成便携框架
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 便携
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色矩形手提框台灯，底部厚方盘和顶部小灯头组成便携框架
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_016
+  source_images:
+  - filename: 93.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/93.jpg
+    image_role: hero
+    visual_anchor: 黑色方框提灯台灯，底部平台发出柔和光并由细框围合。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 黑色方框提灯台灯，底部平台发出柔和光并由细框围合
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色方框提灯台灯，底部平台发出柔和光并由细框围合
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_017
+  source_images:
+  - filename: 94.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/94.jpg
+    image_role: hero
+    visual_anchor: 黄紫两只8字形台灯，圆孔灯头与扭转腰部形成雕塑轮廓。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 黄紫两只8字形台灯，圆孔灯头与扭转腰部形成雕塑轮廓
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黄紫两只8字形台灯，圆孔灯头与扭转腰部形成雕塑轮廓
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_018
+  source_images:
+  - filename: 96.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/96.jpg
+    image_role: hero
+    visual_anchor: 黑色极细杆任务台灯，小圆灯头从长斜臂末端探出。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 黑色极细杆任务台灯，小圆灯头从长斜臂末端探出
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑色极细杆任务台灯，小圆灯头从长斜臂末端探出
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_019
+  source_images:
+  - filename: 101.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/101.jpg
+    image_role: hero
+    visual_anchor: 红色圆环桌灯坐在圆形底座上，环内白色反射面像小镜子。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 红色圆环桌灯坐在圆形底座上，环内白色反射面像小镜子
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 红色圆环桌灯坐在圆形底座上，环内白色反射面像小镜子
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_020
+  source_images:
+  - filename: 102.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/102.jpg
+    image_role: hero
+    visual_anchor: 白色发光立方体斜放在红橙背景上，边角柔化成光块。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 白色发光立方体斜放在红橙背景上，边角柔化成光块
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色发光立方体斜放在红橙背景上，边角柔化成光块
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_021
+  source_images:
+  - filename: 104.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/104.jpg
+    image_role: hero
+    visual_anchor: 透明玻璃穹顶台灯三种尺寸排列，中心小光点向下投射圆形光斑。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 透明/半透明材质配白色或暖色光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 透明玻璃穹顶台灯三种尺寸排列，中心小光点向下投射圆形光斑
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明玻璃穹顶台灯三种尺寸排列，中心小光点向下投射圆形光斑
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_022
+  source_images:
+  - filename: 107.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/107.jpg
+    image_role: hero
+    visual_anchor: 白色和木色矩形框体台灯成组，框内隐藏发光面形成建筑模型感。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 木质或仿木外壳，配隐藏光源和金属底座
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 白色和木色矩形框体台灯成组，框内隐藏发光面形成建筑模型感
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色和木色矩形框体台灯成组，框内隐藏发光面形成建筑模型感
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_023
+  source_images:
+  - filename: 115.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/115.jpg
+    image_role: hero
+    visual_anchor: 绿色长方盒台灯带斜切白色翻盖，黑色底座压低体量。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 亮绿色长方盒体水平悬挂，底面嵌入深色格栅透镜带
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 绿色长方盒台灯带斜切白色翻盖，黑色底座压低体量
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 方盒
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 绿色长方盒台灯带斜切白色翻盖，黑色底座压低体量
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_024
+  source_images:
+  - filename: 118.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/118.jpg
+    image_role: hero
+    visual_anchor: 透明多面球形台灯可被手触碰，黑白几何片组成足球状外壳。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 透明/半透明材质配白色或暖色光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 透明多面球形台灯可被手触碰，黑白几何片组成足球状外壳
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 球形
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明多面球形台灯可被手触碰，黑白几何片组成足球状外壳
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_025
+  source_images:
+  - filename: 119.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/119.jpg
+    image_role: hero
+    visual_anchor: 蓝色背景中大号发光球坐在透明横纹圆柱底座上，像灯泡放大。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 彩色光或高饱和色作为视觉焦点
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 蓝色背景中大号发光球坐在透明横纹圆柱底座上，像灯泡放大
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 蓝色背景中大号发光球坐在透明横纹圆柱底座上，像灯泡放大
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_026
+  source_images:
+  - filename: 122.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/122.jpg
+    image_role: hero
+    visual_anchor: 木色机械臂阅读台灯照亮书页，白色圆底座和细长折杆形成精密结构。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 多段细金属臂以铰点连接成折线骨架，末端分别接圆锥灯罩
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 木质或仿木外壳，配隐藏光源和金属底座
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 木色机械臂阅读台灯照亮书页，白色圆底座和细长折杆形成精密结构
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 机械臂
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 木色机械臂阅读台灯照亮书页，白色圆底座和细长折杆形成精密结构
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_027
+  source_images:
+  - filename: 124.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/124.jpg
+    image_role: hero
+    visual_anchor: 同款木色机械臂台灯近景，斜杆、转轴和小线性灯头对准书本。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 多段细金属臂以铰点连接成折线骨架，末端分别接圆锥灯罩
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 木质或仿木外壳，配隐藏光源和金属底座
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 同款木色机械臂台灯近景，斜杆、转轴和小线性灯头对准书本
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 机械臂
+  - 灯具
+  - 线性
+  - 逐张视觉识别
+  hero_feature: 同款木色机械臂台灯近景，斜杆、转轴和小线性灯头对准书本
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_028
+  source_images:
+  - filename: 130.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/130.jpg
+    image_role: hero
+    visual_anchor: 白色圆筒罩台灯带小黑石底座，顶部金属球作装饰端点。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 白色圆筒罩台灯带小黑石底座，顶部金属球作装饰端点
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色圆筒罩台灯带小黑石底座，顶部金属球作装饰端点
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_029
+  source_images:
+  - filename: 132.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/132.jpg
+    image_role: hero
+    visual_anchor: 黑白两只小台灯带倾斜锥罩，细支杆插入圆盘底座。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑白两只小台灯带倾斜锥罩，细支杆插入圆盘底座
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑白两只小台灯带倾斜锥罩，细支杆插入圆盘底座
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_030
+  source_images:
+  - filename: 133.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/133.jpg
+    image_role: hero
+    visual_anchor: 白色发光球台灯配金色/棕色圆柱底座，大小组合展示。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色发光球台灯配金色/棕色圆柱底座，大小组合展示
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色发光球台灯配金色/棕色圆柱底座，大小组合展示
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_031
+  source_images:
+  - filename: 135.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/135.jpg
+    image_role: hero
+    visual_anchor: 三只白色蘑菇形台灯成组，半球罩与短柱底座形成柔和轮廓。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 三只白色蘑菇形台灯成组，半球罩与短柱底座形成柔和轮廓
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 三只白色蘑菇形台灯成组，半球罩与短柱底座形成柔和轮廓
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_032
+  source_images:
+  - filename: 138.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/138.jpg
+    image_role: hero
+    visual_anchor: 白色蘑菇台灯单体，宽圆帽罩下方接短柱和金属底环。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色蘑菇台灯单体，宽圆帽罩下方接短柱和金属底环
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色蘑菇台灯单体，宽圆帽罩下方接短柱和金属底环
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_033
+  source_images:
+  - filename: 139.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/139.jpg
+    image_role: hero
+    visual_anchor: 白色蘑菇台灯单体正面，帽状漫射罩边缘厚实圆润。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色蘑菇台灯单体正面，帽状漫射罩边缘厚实圆润
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 漫射
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色蘑菇台灯单体正面，帽状漫射罩边缘厚实圆润
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_034
+  source_images:
+  - filename: 144.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/144.jpg
+    image_role: hero
+    visual_anchor: 两只经典布罩台灯，一只直立一只倾斜，白色灯罩配金属底座。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 两只经典布罩台灯，一只直立一只倾斜，白色灯罩配金属底座
+  design_level:
+    score: 3
+    reason: 3分：功能和比例完成度稳定，但造型主要依赖成熟灯具类型，独特性和迁移启发有限。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 两只经典布罩台灯，一只直立一只倾斜，白色灯罩配金属底座
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_035
+  source_images:
+  - filename: 151.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/151.jpg
+    image_role: hero
+    visual_anchor: 大小两只白色球形纹理台灯，表面像蜂窝/花瓣浮雕。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 长条矩形灯体底面布满圆孔透镜阵列，端部以块状壳体收边
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 大小两只白色球形纹理台灯，表面像蜂窝/花瓣浮雕
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 球形
+  - 蜂窝
+  - 逐张视觉识别
+  hero_feature: 大小两只白色球形纹理台灯，表面像蜂窝/花瓣浮雕
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_036
+  source_images:
+  - filename: 158.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/158.jpg
+    image_role: hero
+    visual_anchor: 白银橙红三只圆润甜甜圈台灯，中央小孔和短足形成玩具感。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 红色强调色配白色/金属或暖光
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 白银橙红三只圆润甜甜圈台灯，中央小孔和短足形成玩具感
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白银橙红三只圆润甜甜圈台灯，中央小孔和短足形成玩具感
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_037
+  source_images:
+  - filename: 159.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/159.jpg
+    image_role: hero
+    visual_anchor: 透明网罩半球台灯，金属网格外壳包住内部小灯泡。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 透明网罩半球台灯，金属网格外壳包住内部小灯泡
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明网罩半球台灯，金属网格外壳包住内部小灯泡
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_038
+  source_images:
+  - filename: 160.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/160.jpg
+    image_role: hero
+    visual_anchor: 白色扁蘑菇台灯，宽圆帽和短柱连接成一体化柔光体。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色扁蘑菇台灯，宽圆帽和短柱连接成一体化柔光体
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色扁蘑菇台灯，宽圆帽和短柱连接成一体化柔光体
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_039
+  source_images:
+  - filename: 165.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/165.jpg
+    image_role: hero
+    visual_anchor: 绿色横向格栅台灯，黑色底座和两根细柱支撑发光板。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 绿色横向格栅台灯，黑色底座和两根细柱支撑发光板
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 绿色横向格栅台灯，黑色底座和两根细柱支撑发光板
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_040
+  source_images:
+  - filename: 168.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/168.jpg
+    image_role: hero
+    visual_anchor: 白色矮蘑菇台灯近景，圆环顶面和厚壁罩强调漫射层。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色矮蘑菇台灯近景，圆环顶面和厚壁罩强调漫射层
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 漫射
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色矮蘑菇台灯近景，圆环顶面和厚壁罩强调漫射层
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_台灯_041
+  source_images:
+  - filename: 173.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/台灯/173.jpg
+    image_role: hero
+    visual_anchor: 黑白条纹柱身台灯，半圆弧形竖向灯罩带细密竖槽。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 黑白条纹柱身台灯，半圆弧形竖向灯罩带细密竖槽
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 台灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 黑白条纹柱身台灯，半圆弧形竖向灯罩带细密竖槽
+  problem_solved: 台灯需要在近距离使用中兼顾稳定、可调、柔和出光和桌面占用。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

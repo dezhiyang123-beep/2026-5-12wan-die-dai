@@ -1,0 +1,429 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "低音炮"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "sonos_sub_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/01.jpg"
+        image_role: "hero"
+        visual_anchor: "正四方体轮廓+中央竖向长槽开口，45°斜角机位清晰展示三个面"
+    product_name: "Sonos Sub Gen 3"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "正方体箱体，四角大圆角过渡（R约30mm量级），整体接近等比正方，视觉厚重稳重"
+      light_opening: "前面板中央单一竖向矩形槽（上下圆角），槽内可见双对置低音单元，槽口向内凹陷约50mm，制造深邃阴影"
+      thermal: "无外露散热格栅，全封闭哑光壳体，无热管理视觉元素"
+      cmf:
+        color: "哑光黑（Matte Black），全机一色无拼接"
+        material: "注塑ABS壳体，表面触感磨砂哑光"
+        finish: "无光泽哑光，无金属件外露，品牌LOGO压印于前面板右下角，字体极细"
+      mounting: "底部隐藏橡胶脚垫，直接落地，无壁挂方案"
+      signature_detail: "中央竖向深槽：双对置低音单元左右对冲，槽口是唯一视觉开口，兼顾声学功能与设计标志性"
+    design_level:
+      score: 5
+      reason: "极简哲学彻底执行：整机无任何装饰线、无网格、无按键外露，一个开口即承载全部功能与美学。正方体比例独特，在低音炮品类中高度辨识，品牌语法一致性极强。"
+    design_tags: ["极简主义", "功能外显", "单开口声学设计", "对置低音单元", "哑光黑", "居家融合", "H07极简整合", "H11功能外显"]
+    hero_feature: "中央单一竖向深槽——双对置低音单元的对冲腔体在外观上仅呈现为一条黑色开口，功能与美学高度统一"
+    problem_solved: '传统低音炮体积大且视觉突兀；Sub Gen 3以家具感轮廓融入客厅，消除"把丑设备藏起来"的用户焦虑'
+    transferable_technique: "单一深槽开口替代传统网格格栅：开口既是声学出口又是视觉焦点，可迁移至需要隐藏功能元素同时保持高级感的音频产品设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_sub_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/02.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱体白色机身，竖向椭圆槽，生活场景中沙发旁落地摆放，比例接近家用小圆桌"
+    product_name: "Sonos Sub Mini"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "正圆柱体，直径与高度接近1:1.3，顶部平面，底部无可见支脚，整体轮廓无棱角"
+      light_opening: "圆柱侧面单一竖向椭圆槽（capsule形），槽内深色腔体，双对置单元结构，槽口比例纤细优雅"
+      thermal: "全封闭无散热开口，壳体表面无任何功能性孔洞"
+      cmf:
+        color: "白色（White），生活场景图展示白色版本，亦有黑色版本"
+        material: "注塑壳体，表面哑光细腻"
+        finish: "哑光无光泽，顶面平整，品牌LOGO极小字体压印于顶面"
+      mounting: "直接落地，底部与地板接触面积大，重心低稳定性好"
+      signature_detail: "圆柱体轮廓+竖向capsule槽：与Sub Gen 3方形形成品牌家族内的形态分化，但共享同一个「单槽开口」语法"
+    design_level:
+      score: 4
+      reason: "圆柱形态在低音炮品类中罕见，与Sub Gen 3共享单槽设计语言但形态截然不同，家具感更强，适合紧凑空间。设计逻辑清晰，执行到位，略低于Gen 3因其标志性程度稍弱。"
+    design_tags: ["圆柱体", "极简主义", "单槽开口", "家具融合", "白色版本", "紧凑型低音炮", "H07极简整合", "H11功能外显"]
+    hero_feature: "圆柱体轮廓——完全打破低音炮「方盒子」惯例，可直接放置于沙发旁而不显突兀，接近装饰性家具的视觉地位"
+    problem_solved: "小户型/公寓场景缺乏空间容纳传统大型低音炮；Sub Mini以紧凑圆柱占地面积小且形态优雅，降低使用门槛"
+    transferable_technique: "圆柱体低音炮形态：打破品类惯例的轮廓选择，可迁移至追求家具感的家用音频产品；竖向capsule槽可复用于圆柱体音箱的开口设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_sub_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/03.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色Sub Mini，俯视45°角度展示顶面圆形轮廓与侧面椭圆槽，SONOS字样压印顶部"
+    product_name: "Sonos Sub Mini (黑色)"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "正圆柱，俯视角度清晰呈现圆形顶面，侧面单一椭圆槽开口，无任何额外分件线"
+      light_opening: "椭圆槽从俯视方向可见槽口深度，圆弧收口，槽内纯黑腔体无反光"
+      thermal: "全封闭"
+      cmf:
+        color: "哑光黑"
+        material: "注塑壳体"
+        finish: "哑光，顶面SONOS压印文字，字号极小（约10mm高），低调"
+      mounting: "落地"
+      signature_detail: "顶面视角：圆形截面+极小LOGO压印，极度克制，无任何多余视觉元素"
+    design_level:
+      score: 4
+      reason: "与002为同一产品不同颜色不同角度，此图提供顶视角信息，补充圆柱顶面设计细节，设计评级同级"
+    design_tags: ["圆柱体", "哑光黑", "顶视角", "极简LOGO处理", "Sub Mini", "H07极简整合"]
+    hero_feature: "圆柱顶面极简处理：仅有压印LOGO，无按键无指示灯，设计克制到极致"
+    problem_solved: "同002"
+    transferable_technique: "顶面极简化策略：将所有控制界面彻底隐藏（通过App控制），顶面仅保留品牌标识压印，可迁移至追求家具感的智能音频产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_sub_004"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/05.jpg"
+        image_role: "system_context"
+        visual_anchor: "Sub Gen 3（方形）+ Arc soundbar + Era 300 surround，全黑色系5.1系统组合，展示Sub在家庭影院系统中的比例关系"
+    product_name: "Sonos Sub Gen 3 + Arc 5.1 System"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "多产品组合视图：Sub Gen 3方形体量最大居中偏后，Arc为超细长管形横置，Era 300为扁椭圆柱左右各一"
+      light_opening: "Sub前槽开口在组合中仍为视觉焦点，与Arc和Era 300的无开口封闭面形成对比"
+      thermal: "无"
+      cmf:
+        color: "全系哑光黑，色彩统一感强"
+        material: "各产品材质统一：哑光ABS"
+        finish: "全系哑光，无光泽"
+      mounting: "Sub落地，Arc落地/壁挂，Era 300落地/壁挂"
+      signature_detail: "家族形态差异化：Sub=正方体，Arc=超细管，Era 300=扁椭圆柱——三种完全不同几何体，统一于哑光黑色系和极简语言"
+    design_level:
+      score: 3
+      reason: "此图主要价值在于展示Sonos品牌家族形态语法与Sub在系统中的比例/角色定位，非单产品设计价值评估"
+    design_tags: ["系统组合", "家族设计语言", "5.1系统", "Arc soundbar", "Era 300", "Sub Gen 3", "哑光黑统一", "H07极简整合"]
+    hero_feature: "品牌家族形态法则：不同品类产品形态截然不同（方/管/椭圆柱），但哑光黑色系与极简表面语法形成强家族感"
+    problem_solved: "家庭影院多设备混搭视觉杂乱；Sonos全系哑光黑+极简表面使多台设备同框时视觉和谐"
+    transferable_technique: "跨品类家族视觉统一策略：用颜色+表面处理+极简开口语法统一不同形态产品，形态本身可差异化，可迁移至音频品牌全线产品规划"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_sub_005"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/06.jpg"
+        image_role: "system_context"
+        visual_anchor: "Sub Mini（圆柱）+ Beam soundbar + Era 100 speakers，Sub Mini在系统中的体量比例对比"
+    product_name: "Sonos Sub Mini + Beam 5.1 System"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "Sub Mini圆柱体量明显小于Sub Gen 3，与Beam（小型soundbar）和Era 100（小型圆柱speakers）构成紧凑型系统"
+      light_opening: "Sub Mini椭圆槽清晰可见，Era 100圆柱顶面有分件线，Beam底部有织物网格"
+      thermal: "无"
+      cmf:
+        color: "全系哑光黑"
+        material: "哑光ABS + 织物（Beam前面）"
+        finish: "哑光为主，Beam前面板有织物质感增加层次"
+      mounting: "均落地摆放"
+      signature_detail: "Sub Mini与Era 100的形态呼应：两者都是圆柱体，Sub Mini=大圆柱，Era 100=小圆柱，形成尺度呼应的家族感"
+    design_level:
+      score: 3
+      reason: "系统组合展示图，价值在于Sub Mini与小型系统的搭配比例关系，揭示圆柱形态在品牌内的跨品类延伸逻辑"
+    design_tags: ["系统组合", "Sub Mini", "Beam soundbar", "Era 100", "圆柱家族", "紧凑系统", "哑光黑统一"]
+    hero_feature: "Sub Mini与Era 100的圆柱形态呼应：大圆柱（Sub）与小圆柱（扬声器）形成视觉家族，尺度有序"
+    problem_solved: "同002；另展示Sub Mini适配紧凑型家庭影院系统的场景定位"
+    transferable_technique: "跨产品尺度递进设计：用同一几何母题（圆柱）在不同尺度下延伸，形成家族感，可迁移至多SKU产品线规划"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_sub_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/08.jpg"
+        image_role: "system_context"
+        visual_anchor: "Sub Gen 3（方形，大）+ Beam soundbar（小型），2.1系统，Sub体量明显大于Beam，强化Sub压迫感"
+    product_name: "Sonos Sub Gen 3 + Beam 2.1 System"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "Sub Gen 3体量约为Beam的3-4倍，两者几何形态对比强烈：Sub=方形块体，Beam=圆角矩形条"
+      light_opening: "Sub竖向矩形槽 vs Beam底部织物格栅，开口形态不同但都走极简路线"
+      thermal: "无"
+      cmf:
+        color: "全系哑光黑"
+        material: "Sub为ABS，Beam前面有织物"
+        finish: "哑光统一"
+      mounting: "均落地"
+      signature_detail: "方形大体量Sub与细长Beam的几何对比，凸显Sub的雕塑感存在"
+    design_level:
+      score: 2
+      reason: "组合展示图，与001重复内容多，主要增量是Sub与Beam的体量比例对比信息，单独设计价值有限"
+    design_tags: ["系统组合", "Sub Gen 3", "Beam soundbar", "2.1系统", "体量对比", "哑光黑"]
+    hero_feature: "Sub Gen 3作为2.1系统中的视觉主体：尽管Beam是功能主角，Sub的体量与造型反而更具雕塑感"
+    problem_solved: "同001"
+    transferable_technique: "2.1系统中低音炮的雕塑化处理：Sub以大体量+强造型成为空间陈设主角，打破「功能件应低调」的惯性思维"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_sub_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/09.jpg"
+        image_role: "system_context"
+        visual_anchor: "Sub Gen 3 + Beam soundbar + Era 100 x2，5件套全家福，Sub居后中央，体量主导全图"
+    product_name: "Sonos Sub Gen 3 + Beam + Era 100 5.1 System"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "五件套组合：Sub Gen 3正方体居中最大，Era 100小圆柱两侧，Beam条形居前，形成明确主次层级"
+      light_opening: "Sub前槽 + Era 100顶部分件线 + Beam底部格栅，三种开口语言统一于极简克制"
+      thermal: "无"
+      cmf:
+        color: "全系哑光黑"
+        material: "ABS + 织物混合"
+        finish: "哑光统一"
+      mounting: "均落地"
+      signature_detail: "Sub Gen 3在5件套中的主角地位：体量最大，竖槽最醒目，自然成为视觉中心"
+    design_level:
+      score: 2
+      reason: "5件套系统展示，Sub相关信息与001高度重复，增量有限"
+    design_tags: ["系统组合", "5.1系统", "Sub Gen 3主角", "Era 100", "Beam", "家庭影院"]
+    hero_feature: "Sub在多件套中自然成为视觉主体：无需特意强调，体量+单开口造型自带主角感"
+    problem_solved: "同001"
+    transferable_technique: "低音炮作为系统视觉锚点：通过体量和独特开口造型，Sub自然承担空间陈设中心角色，可迁移至家庭影院产品系统设计中的视觉主次规划"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_sub_008"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/10.jpg"
+        image_role: "system_context"
+        visual_anchor: "Sub Gen 3 + Era 100 x2，纯2.1配置无soundbar，Sub竖槽与Era 100圆柱顶面分件线同框"
+    product_name: "Sonos Sub Gen 3 + Era 100 2.1 System"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "Sub方形体量居中，Era 100圆柱左右对称，三角形视觉构图"
+      light_opening: "Sub竖槽（矩形圆角）vs Era 100顶面分件线（细线条），开口语言形成有趣对比"
+      thermal: "无"
+      cmf:
+        color: "全系哑光黑"
+        material: "ABS"
+        finish: "哑光"
+      mounting: "落地"
+      signature_detail: "Sub竖槽在此图中细节清晰：槽内可见双单元框架结构，工程细节通过开口自然外露"
+    design_level:
+      score: 3
+      reason: "此图最大价值：Sub开口内部结构清晰可见，双对置单元的安装框架作为功能细节通过设计语言直接呈现，H11功能外显的典型案例"
+    design_tags: ["功能外显", "双对置单元", "开口内部细节", "Sub Gen 3", "Era 100", "H11功能外显", "工程美学"]
+    hero_feature: "开口内可见双单元安装框架：工程结构作为设计语言的一部分，功能即装饰，无需额外视觉处理"
+    problem_solved: "音频产品内部工程被壳体完全隐藏导致产品缺乏「专业感」；Sub通过开口让用户感知到内部双单元的存在，增加高端感"
+    transferable_technique: "功能结构外显策略：通过精心设计的开口将内部关键功能结构作为视觉元素呈现，在不增加成本的情况下提升产品专业感，可迁移至所有高端音频产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_sub_009"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/12.jpg"
+        image_role: "system_context"
+        visual_anchor: "Sub Gen 3 + Arc soundbar（极细管形）+ Era 100 x2，Sub与Arc的体量极端对比"
+    product_name: "Sonos Sub Gen 3 + Arc + Era 100 5.1 System"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "Sub方形大体量 vs Arc超细长管形（直径约80mm，长约1150mm），极端几何对比；Era 100小圆柱两侧"
+      light_opening: "Sub竖槽开口与Arc管形截面圆形开口形成点对比"
+      thermal: "无"
+      cmf:
+        color: "全系哑光黑"
+        material: "ABS"
+        finish: "哑光"
+      mounting: "落地"
+      signature_detail: "Sub与Arc的几何极端对比：最胖（Sub正方体）与最细（Arc管形）的家族成员同框，凸显Sonos形态语言的包容性"
+    design_level:
+      score: 2
+      reason: "系统组合图，增量信息主要是Sub与Arc极端体量对比关系，Sub单体信息与001重复"
+    design_tags: ["系统组合", "Sub Gen 3", "Arc", "体量极端对比", "家族包容性", "哑光黑"]
+    hero_feature: "Sub与Arc的几何极端对比展示Sonos家族语言弹性：正方体与管形同属一个家族，统一于哑光黑+极简表面"
+    problem_solved: "同001"
+    transferable_technique: "家族语言弹性设计：用极端不同的几何形态服务不同声学需求，色彩+材质+表面处理做为统一变量，形态做为差异变量，可迁移至多品类产品家族规划"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_sub_010"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/13.jpg"
+        image_role: "system_context"
+        visual_anchor: "Sub Mini（黑色圆柱）+ Beam Mini soundbar，俯视45°，Sub Mini圆柱顶面LOGO压印与Beam圆角矩形同框"
+    product_name: "Sonos Sub Mini + Beam Mini 2.1 System"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "Sub Mini圆柱（较大）+ Beam Mini矩形条（更紧凑），紧凑入门2.1组合"
+      light_opening: "Sub Mini椭圆槽清晰，Beam Mini前面板无明显开口（封闭网格）"
+      thermal: "无"
+      cmf:
+        color: "全系哑光黑"
+        material: "ABS + 织物"
+        finish: "哑光"
+      mounting: "落地"
+      signature_detail: "Sub Mini在俯视角度顶面圆形轮廓清晰，SONOS极小压印字样居中，顶面设计极致克制"
+    design_level:
+      score: 3
+      reason: "此角度补充了Sub Mini顶面的俯视细节，与003角度互补，Sub椭圆槽从此角度可见槽口深度与宽度比例"
+    design_tags: ["Sub Mini", "Beam Mini", "紧凑2.1", "顶视角", "圆柱顶面", "极简LOGO"]
+    hero_feature: "Sub Mini顶面俯视：圆形截面+极小LOGO，从上方看完全接近家居摆件，完全消除「音频设备感」"
+    problem_solved: "同002"
+    transferable_technique: "顶视角设计意识：产品设计需考虑俯视角度观感（特别是落地产品），顶面极简处理可提升产品在真实居家环境中的品质感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_sub_011"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/14.jpg"
+        image_role: "system_context"
+        visual_anchor: "Sub Gen 3居中，Era 300扁椭圆柱左右对称夹持，Sub竖槽与Era 300椭圆轮廓构成有趣几何对话"
+    product_name: "Sonos Sub Gen 3 + Era 300 x2 System"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "三件对称构图：Sub正方体居中，Era 300扁椭圆柱左右各一，横向拉伸的Era 300与竖向紧凑的Sub形成比例对比"
+      light_opening: "Sub竖槽与Era 300正面织物网格的质感对比"
+      thermal: "无"
+      cmf:
+        color: "全系哑光黑"
+        material: "Sub为ABS，Era 300为织物面板"
+        finish: "哑光ABS + 织物混合"
+      mounting: "落地"
+      signature_detail: "Sub在Era 300的对称夹持中：方形Sub与扁椭圆Era 300的几何对话，Sub竖槽作为视觉中心锚点"
+    design_level:
+      score: 2
+      reason: "组合展示图，Sub信息与001重复，主要增量是Sub与Era 300的几何关系，单体设计价值有限"
+    design_tags: ["系统组合", "Sub Gen 3", "Era 300", "对称构图", "几何对话", "哑光黑"]
+    hero_feature: "Sub竖槽作为三件套中的视觉轴心：左右Era 300为翼，Sub为核，竖槽自然形成视觉重心"
+    problem_solved: "同001"
+    transferable_technique: "低音炮作为系统视觉轴心：竖向开口元素在水平方向延伸的系统中形成张力，可迁移至家庭影院产品布局设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_sub_012"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/低音炮/15.jpg"
+        image_role: "system_context"
+        visual_anchor: "Sub Mini（黑色）+ Beam soundbar，俯视45°角，Sub Mini圆柱与Beam圆角矩形同框，体量比例清晰"
+    product_name: "Sonos Sub Mini + Beam 2.1 System (黑色)"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "低音炮"]
+    design_language:
+      silhouette: "Sub Mini圆柱与Beam圆角矩形，两者圆角语言呼应，但形态差异明显（柱体vs扁体）"
+      light_opening: "Sub Mini椭圆槽侧面可见，Beam前底部有细织物网格"
+      thermal: "无"
+      cmf:
+        color: "全系哑光黑"
+        material: "ABS + 织物"
+        finish: "哑光"
+      mounting: "落地"
+      signature_detail: "Sub Mini椭圆槽在此角度比例清晰：槽宽约占圆柱直径15%，高约占圆柱高度50%，比例优雅"
+    design_level:
+      score: 3
+      reason: "此图最大价值：Sub Mini椭圆槽的精确比例关系清晰可读，槽口宽窄比例是可迁移的关键设计参数"
+    design_tags: ["Sub Mini", "Beam", "椭圆槽比例", "哑光黑", "圆角呼应", "H07极简整合"]
+    hero_feature: "Sub Mini椭圆槽的比例控制：槽宽约为直径的15%，高约为机身50%，纤细优雅，远细于同类竞品开口"
+    problem_solved: "同002"
+    transferable_technique: "竖向开口比例法则：槽宽/机身宽=约15%，槽高/机身高=约50%，此比例产生优雅纤细感而非粗犷工业感，可直接迁移至低音炮/音箱开口设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

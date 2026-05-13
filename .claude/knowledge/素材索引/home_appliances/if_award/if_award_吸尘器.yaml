@@ -1,0 +1,270 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "吸尘器"
+  tertiary: ""
+source:
+  source_type: "award_showcase"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_vacuum_001"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器/08.jpg"
+        image_role: "hero"
+        visual_anchor: "双色变体正面轮廓+充电壁挂底座展示"
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器/09.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "地板清洁+天花板清洁两种使用姿态"
+    product_name: "Electrolux 无线立式吸尘器"
+    brand_name: "Electrolux"
+    brand_confidence: "high"
+    category_path: ["家电", "吸尘器", "无线立式"]
+    design_language:
+      silhouette: "手枪握把+细长杆+宽扁地刷，整体呈倒L型；机身顶部有宽扁充电座可壁挂"
+      light_opening: "无"
+      thermal: "机身腰部格栅散热孔"
+      cmf:
+        color: "暖银灰色 / 海军蓝双色方案"
+        material: "ABS工程塑料，透明尘杯可见内部旋风锥"
+        finish: "细腻磨砂哑光，局部光泽面板"
+      mounting: "壁挂充电底座，整机直立收纳"
+      signature_detail: "透明HEPA尘杯+圆形LED电量指示屏集成于握把上方"
+    design_level:
+      score: 4
+      reason: "整体造型克制优雅，双色方案提升居家属性；壁挂收纳方式解决竖式吸尘器存放痛点；尘杯透明度与状态显示屏融合度高"
+    design_tags: ["无线立式", "壁挂收纳", "双色方案", "透明尘杯", "居家风格", "HEPA过滤"]
+    hero_feature: "壁挂充电底座使整机竖立如置物，不占地面空间"
+    problem_solved: "无线立式吸尘器难以直立存放、充电不便的问题"
+    transferable_technique: "充电底座与存放结构合一的壁挂系统，可迁移至其他手持/立式家电收纳场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_vacuum_002"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器/16.jpg"
+        image_role: "hero"
+        visual_anchor: "使用者手握机身、透明橙色旋风尘杯正面可见"
+    product_name: "AEG 无线立式吸尘器"
+    brand_name: "AEG"
+    brand_confidence: "high"
+    category_path: ["家电", "吸尘器", "无线立式"]
+    design_language:
+      silhouette: "直筒细杆+小握把+细长地刷，机身纤细，尘杯悬挂于握把下方"
+      light_opening: "无"
+      thermal: "无可见散热开口"
+      cmf:
+        color: "深棕灰机身+橙色旋风可视窗+银色细杆"
+        material: "ABS塑料，透明尘杯内置橙色旋风分离锥"
+        finish: "哑光机身，透明杯体形成视觉焦点"
+      mounting: "无壁挂，独立站立"
+      signature_detail: "透明大尘杯内橙色旋风分离锥形成强视觉焦点，功能即外观"
+    design_level:
+      score: 4
+      reason: "橙色旋风锥通过透明杯体外显，将内部工程结构转化为设计语言；色彩对比强烈且有功能依据；整体比例纤细，高级感强"
+    design_tags: ["无线立式", "透明尘杯", "功能外显", "橙色旋风锥", "对比色", "纤细比例"]
+    hero_feature: "透明尘杯内橙色旋风分离锥可视化，将气流分离过程变为可见的品牌符号"
+    problem_solved: "用户无法直观感知吸尘机性能与工作状态的问题"
+    transferable_technique: "功能腔体透明化+内部核心结构着色，使工程美学成为品牌识别手法（H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_vacuum_003"
+    source_images:
+      - filename: "39.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器/39.jpg"
+        image_role: "hero"
+        visual_anchor: "三款颜色变体正面展示，含拖布头展开"
+      - filename: "41.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器/41.jpg"
+        image_role: "variant"
+        visual_anchor: "三款变体斜侧面角度，强调桶体腰部造型"
+    product_name: "Kärcher 蒸汽清洁机"
+    brand_name: "Kärcher"
+    brand_confidence: "high"
+    category_path: ["家电", "吸尘器", "蒸汽清洁机"]
+    design_language:
+      silhouette: "矮圆桶体+细长斜杆+宽扁拖布头，整体呈「茶壶」轮廓；桶体上盖为平顶圆形"
+      light_opening: "无"
+      thermal: "顶盖周边蒸汽出口"
+      cmf:
+        color: "白色桶体+黑色上盖+黄色腰线（品牌标志性配色），另有灰色变体"
+        material: "ABS塑料，拖布头带织物拖垫"
+        finish: "高光白桶体，哑光黑上盖，黄色腰线为注塑件"
+      mounting: "地面站立，软管连接手柄"
+      signature_detail: "黄色腰线环绕桶体一圈，是Kärcher品牌强约束色彩标识"
+    design_level:
+      score: 3
+      reason: "造型工整、品牌识别度强；黄色腰线是典型的品牌语法强执行；但整体形态偏传统，无突破性造型创新"
+    design_tags: ["蒸汽清洁", "桶式", "品牌腰线", "黄色标识", "白色家电", "软管连接"]
+    hero_feature: "黄色腰线环桶设计，无论哪个角度都能立刻辨认品牌"
+    problem_solved: "蒸汽清洁机外观工业感过强、不适合家居场景的问题"
+    transferable_technique: "单一高饱和色腰线作为品牌锚点，通过环绕结构分件实现全视角品牌曝光（品牌语法强制传递手法）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_vacuum_004"
+    source_images:
+      - filename: "54.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器/54.jpg"
+        image_role: "hero"
+        visual_anchor: "手持机放置于黑色充电底座，置于厨房台面"
+      - filename: "55.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器/55.jpg"
+        image_role: "usage"
+        visual_anchor: "手持清洁台面碎屑，侧面轮廓清晰可见"
+    product_name: "Shark 手持无线吸尘器"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "吸尘器", "手持式"]
+    design_language:
+      silhouette: "细长圆筒形，两端收尾，握把区域为中段最粗处；整体如一支钢笔或口红"
+      light_opening: "无"
+      thermal: "中段两侧细密散热栅格"
+      cmf:
+        color: "深空灰主色，蓝色LED电源按钮为唯一点缀色"
+        material: "硬质ABS，哑光表面"
+        finish: "全身统一深灰哑光，极简无装饰线"
+      mounting: "专属黑色斜面底座充电，底座可台面摆放"
+      signature_detail: "机身纯圆筒形态+蓝色LED电源键，外观接近高端电子产品而非传统吸尘器"
+    design_level:
+      score: 4
+      reason: "造型突破吸尘器传统形态框架，圆筒设计极具辨识度；配色与收纳方式均面向家居生活场景；蓝色LED唯一点色策略克制有效"
+    design_tags: ["手持式", "极简圆筒", "家居美学", "充电底座", "台面收纳", "单点缀色"]
+    hero_feature: "钢笔/口红式极细圆筒造型，彻底摆脱工业感，可作为台面装饰品收纳"
+    problem_solved: "手持吸尘器使用后无处放、外观破坏厨房美观的问题"
+    transferable_technique: "将功能设备的形态向「生活用品美学」迁移，通过统一色调+极简造型实现场景融合（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_vacuum_005"
+    source_images:
+      - filename: "81.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器/81.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向直立全身视图，吸气口朝上，手柄朝下"
+    product_name: "Nesugar 手持直筒吸尘器"
+    brand_name: "Nesugar"
+    brand_confidence: "high"
+    category_path: ["家电", "吸尘器", "手持式"]
+    design_language:
+      silhouette: "上粗下细圆柱体，顶部为方形模块（滤网+散热），柱体下方接电源线；形态接近吹风机"
+      light_opening: "无"
+      thermal: "顶部方形侧面竖向散热槽"
+      cmf:
+        color: "海军蓝主色，浅蓝灰顶部模块，镀铬银旋钮点缀"
+        material: "铝合金感外壳（或高质感ABS），金属旋钮"
+        finish: "深蓝哑光机身，浅蓝亚光顶模块，金属光泽旋钮"
+      mounting: "有线，电源线从底部引出"
+      signature_detail: "顶部方形散热模块与圆柱机身形成强烈方圆对比；单个金属旋钮作为唯一控制界面"
+    design_level:
+      score: 3
+      reason: "造型语言独特，方圆对比明显；金属旋钮赋予精密仪器感；但有线设计限制使用便捷性，且形态辨识度偏向吹风机而非吸尘器"
+    design_tags: ["手持式", "方圆对比", "金属旋钮", "仪器感", "深蓝配色", "有线"]
+    hero_feature: "顶部方形散热模块与圆筒机身的方圆几何对比，形成强记忆点"
+    problem_solved: "手持吸尘器外观普通缺乏设计感的问题"
+    transferable_technique: "方形功能模块+圆形主体的几何对比组合，可迁移至其他手持设备设计语言构建（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_vacuum_006"
+    source_images:
+      - filename: "83.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器/83.jpg"
+        image_role: "hero"
+        visual_anchor: "银色机身全侧面，顶端蓝色LED环，底部透明尘杯"
+      - filename: "85.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器/85.jpg"
+        image_role: "detail"
+        visual_anchor: "尘杯拆卸操作说明图，红色释放按钮+两步清空流程"
+    product_name: "无品牌手持直筒吸尘器（AUTO/MAX双档）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "吸尘器", "手持式"]
+    design_language:
+      silhouette: "上细下粗圆柱体，顶端为细圆头，底部扩展为透明尘杯；整体呈试管/注射器轮廓"
+      light_opening: "无"
+      thermal: "腰部圆孔阵列散热区"
+      cmf:
+        color: "银白主色，顶端蓝色LED环，尘杯透明灰，控制按钮黑色"
+        material: "ABS塑料，透明PC尘杯，内置金属滤网筒"
+        finish: "高光银机身，磨砂按键区，透明光滑尘杯"
+      mounting: "无，手持直立"
+      signature_detail: "顶端蓝色环形LED灯圈作为状态指示；透明尘杯内置金属穿孔筒形成工业感内景；红色释放按钮色彩对比强烈"
+    design_level:
+      score: 3
+      reason: "透明尘杯内景设计有一定工程美学感；蓝色顶环LED状态可视化有新意；但整体造型略显竖硬，比例协调性一般；拆卸机构设计（85.jpg）实用性强"
+    design_tags: ["手持式", "透明尘杯", "LED状态环", "金属滤网内景", "双档控制", "一键清空"]
+    hero_feature: "顶端蓝色环形LED+透明尘杯内金属穿孔筒，形成上发光下可见的双视觉层次"
+    problem_solved: "手持吸尘器清空尘杯操作繁琐、容易污手的问题"
+    transferable_technique: "顶端环形LED状态指示圈，可作为状态可视化手法迁移至其他圆柱形手持设备；按压-推出的两步清空机构（H09隐藏工程）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_vacuum_007"
+    source_images:
+      - filename: "90.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/吸尘器/90.jpg"
+        image_role: "hero"
+        visual_anchor: "深蓝色全机侧面立视图，D型顶把手+自清洁尘杯舱"
+    product_name: "Bosch Readyy'y 无线立式吸尘器"
+    brand_name: "Bosch"
+    brand_confidence: "high"
+    category_path: ["家电", "吸尘器", "无线立式"]
+    design_language:
+      silhouette: "顶端D型提握把+长直杆+腰部尘杯舱+地刷，整体高挑纤细，D型把手为造型焦点"
+      light_opening: "无"
+      thermal: "无可见明显散热孔"
+      cmf:
+        color: "深宝蓝色主色，银灰色尘杯透明窗，黑色地刷"
+        material: "ABS工程塑料，透明PC尘杯窗，软胶把手包覆"
+        finish: "深蓝高光机身，哑光地刷，透明光滑尘杯窗"
+      mounting: "无壁挂，地面直立"
+      signature_detail: "顶端封闭D型提握把造型独特，区别于常规开放式手枪握把；自清洁系统外露于腰部舱体"
+    design_level:
+      score: 4
+      reason: "D型顶把手造型高度识别，是家用立式吸尘器中罕见的造型创新；深宝蓝配色提升产品档次感；整体比例纤细优雅；自清洁系统功能外显有说服力"
+    design_tags: ["无线立式", "D型顶把手", "深蓝配色", "自清洁系统", "纤细比例", "高端感"]
+    hero_feature: "封闭D型顶部提握把，单手拎起整机的同时形成强记忆点轮廓"
+    problem_solved: "立式吸尘器握持方式单一、搬运不便且外观缺乏辨识度的问题"
+    transferable_technique: "将搬运把手升级为造型焦点，D型封闭环形结构可迁移至需要携带搬运的大型家电顶部设计（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

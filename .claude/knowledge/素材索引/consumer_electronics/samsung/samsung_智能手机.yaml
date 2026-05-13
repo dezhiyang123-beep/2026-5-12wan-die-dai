@@ -1,0 +1,371 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "智能手机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "samsung_phone_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/01.jpg"
+        image_role: "hero"
+        visual_anchor: "S25 Ultra正背面+S Pen，Pink Gold与Silver Shadow双色"
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/05.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款，Samsung.com+Experience Stores专属标注版本"
+    product_name: "Galaxy S25 Ultra"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "直板长方形机身，四角圆弧极小，整体近似直角矩形，正面屏幕占比极高"
+      light_opening: "中置打孔前摄，全面屏无刘海，屏幕边框均匀且极窄"
+      thermal: "背面五摄模组集中于左上角，大型方形凸起镜头岛，圆柱镜头依次排布"
+      cmf:
+        color: "Pink Gold（暖粉金）/ Silver Shadow（冷银灰），哑光质感"
+        material: "钛金属边框，背面磨砂玻璃"
+        finish: "背面磨砂亚光，边框拉丝钛金属"
+      mounting: "右侧附S Pen手写笔槽，笔身与机身同色系"
+      signature_detail: "五摄镜头岛为最强辨识点；S Pen一体收纳是品类差异点"
+    design_level:
+      score: 5
+      reason: "旗舰Ultra系列，钛金属工艺+五摄系统+S Pen一体化设计，工艺和造型均达三星顶级水准"
+    design_tags: ["旗舰", "Ultra", "S Pen", "五摄", "钛金属", "磨砂玻璃", "全面屏"]
+    hero_feature: "五摄镜头岛+S Pen侧边收纳槽，双重专业身份标识"
+    problem_solved: "将专业相机级摄影能力与手写笔生产力工具集成于同一超薄机身"
+    transferable_technique: "大型摄像模组岛的几何化处理——圆柱镜头阵列在方形岛内有序排布，兼顾工程美感与功能密度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_phone_002"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/10.jpg"
+        image_role: "hero"
+        visual_anchor: "S25 Ultra四色背面阵列+正面带S Pen，Titanium系列配色全家福"
+    product_name: "Galaxy S25 Ultra（钛色系配色）"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "直板大屏机身，近直角边框，背面五摄模组左上角大岛排布"
+      light_opening: "中置打孔前摄，极窄均匀边框全面屏"
+      thermal: "五摄圆柱镜头集中大岛，额外配置激光对焦/闪光灯散点"
+      cmf:
+        color: "Titanium Silverblue / Titanium Whitesilver / Titanium Gray / Titanium Black，均为磨砂亚光"
+        material: "钛金属边框，背面磨砂玻璃"
+        finish: "全系磨砂哑光，无镜面反射"
+      mounting: "S Pen附于侧边，笔身同色"
+      signature_detail: "四款钛色均为冷色调金属系，形成统一高端视觉家族"
+    design_level:
+      score: 5
+      reason: "与001同款产品的配色展示，进一步印证Ultra系列钛金属工艺的产品线一致性"
+    design_tags: ["旗舰", "Ultra", "钛金属", "配色", "S Pen", "五摄", "磨砂"]
+    hero_feature: "四款Titanium配色保持统一哑光冷色调，体现顶级系列高度克制的色彩策略"
+    problem_solved: "通过配色统一传达专业高端定位，避免廉价感"
+    transferable_technique: "旗舰产品线全系哑光处理+金属冷色系，有效规避塑料感并强化品类专业性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_phone_003"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/07.jpg"
+        image_role: "hero"
+        visual_anchor: "S25正背面，Silver Shadow+Pink Gold，三摄竖排岛"
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/08.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款，Samsung.com专属版本标注，配色相同"
+    product_name: "Galaxy S25"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "直板机身，圆角较Ultra更柔和，整体更紧凑"
+      light_opening: "中置打孔前摄，均匀极窄边框全面屏"
+      thermal: "背面三摄竖向排列，独立圆形镜头模组，无大岛整合——各镜头独立突起"
+      cmf:
+        color: "Silver Shadow（冷银）/ Pink Gold（暖粉金）"
+        material: "铝合金边框，背面玻璃"
+        finish: "背面磨砂亚光，边框亮面铝合金"
+      mounting: "无S Pen，标准旗舰定位"
+      signature_detail: "三摄独立圆柱镜头竖排，与Ultra大岛形成明显差异化造型语言"
+    design_level:
+      score: 4
+      reason: "标准旗舰，三摄独立模组造型简洁优雅，做工精良，但缺少Ultra的极致工程细节"
+    design_tags: ["旗舰", "三摄", "独立镜头模组", "全面屏", "磨砂玻璃", "铝合金"]
+    hero_feature: "三枚独立圆柱镜头竖向均匀排列，无岛融合，干净利落"
+    problem_solved: "以更亲民价格提供旗舰级视觉语言和拍摄体验"
+    transferable_technique: "独立镜头模组竖排布局——避免大岛造成的视觉重量，保持背面轻盈感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_phone_004"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/16.jpg"
+        image_role: "hero"
+        visual_anchor: "S25+四色背面阵列（Mint/Icyblue/Silver Shadow/Navy）+正面展示"
+    product_name: "Galaxy S25+"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "直板大屏，比S25更长，圆角适中"
+      light_opening: "中置打孔全面屏，边框均匀极窄"
+      thermal: "背面三+一摄像头模组，三枚主摄竖排+一枚独立小圆点，排列密集但保持独立模组形式"
+      cmf:
+        color: "Mint（薄荷绿）/ Icyblue（冰蓝）/ Silver Shadow（银灰）/ Navy（海军蓝），均为柔和色"
+        material: "铝合金边框，背面玻璃"
+        finish: "背面磨砂亚光"
+      mounting: "无S Pen"
+      signature_detail: "配色较S25更多元，引入绿色和蓝色调，传达年轻活力与时尚感"
+    design_level:
+      score: 4
+      reason: "S系列中间档，配色策略多元化，造型语言与S25高度一致但尺寸更大"
+    design_tags: ["旗舰", "S25+", "多色", "三摄", "全面屏", "磨砂"]
+    hero_feature: "丰富配色选项（含薄荷绿、冰蓝等明快色）与简洁背面造型形成反差张力"
+    problem_solved: "在旗舰性能与差异化外观之间取得平衡，吸引追求个性的高端用户"
+    transferable_technique: "通过配色扩展产品线个性，同一造型下以色彩覆盖不同消费心理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_phone_005"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/03.jpg"
+        image_role: "hero"
+        visual_anchor: "Z Fold7折叠展开侧面剖面，海军蓝铝合金边框，超薄折痕"
+      - filename: "07__01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/07__01.jpg"
+        image_role: "detail"
+        visual_anchor: "同款Z Fold7相同角度侧面细节，同一产品不同文件名"
+    product_name: "Galaxy Z Fold7"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "折叠形态——展开为平板比例，合拢为厚实长方体；侧面呈现折叠铰链的工程美感"
+      light_opening: "外屏为竖向长条Cover Display，展开内屏为近方形大屏"
+      thermal: "侧面可见摄像模组凸起，铰链机构为核心工程特征"
+      cmf:
+        color: "Navy（海军蓝），深沉哑光"
+        material: "铝合金边框，强化玻璃内外屏，Armor铝铰链"
+        finish: "边框拉丝亚光，背面磨砂"
+      mounting: "铰链折叠机构为标志性结构，内外双屏"
+      signature_detail: "超薄铰链与机身一体化收纳，折叠线几乎无缝隙，折痕最小化"
+    design_level:
+      score: 5
+      reason: "折叠旗舰顶级产品，铰链工程与整机厚度控制达行业标杆，形态创新性极高"
+    design_tags: ["折叠屏", "旗舰", "铰链", "内外双屏", "Fold", "超薄", "铝合金"]
+    hero_feature: "超薄折叠铰链实现平板与手机形态无缝切换，侧面轮廓线优雅且工程感强"
+    problem_solved: "在手机便携性与平板生产力之间提供无妥协方案"
+    transferable_technique: "铰链视觉化处理——将工程必要结构转化为产品辨识符号，不隐藏反而强调"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_phone_006"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/09.jpg"
+        image_role: "hero"
+        visual_anchor: "Z Flip7合拢状态斜45度展示，蓝绿渐变背面，双摄大圆形岛"
+    product_name: "Galaxy Z Flip7"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "翻盖折叠形态，合拢为近正方形扁平体，展开为标准竖向长条手机"
+      light_opening: "合拢状态外屏为覆盖背面上半部的大尺寸Cover Display"
+      thermal: "双摄模组置于背面上半部，大圆形镜头岛是视觉焦点"
+      cmf:
+        color: "蓝绿渐变（Blue-Green Gradient），背面呈现玻璃光泽渐变"
+        material: "铝合金铰链边框，康宁大猩猩玻璃背板"
+        finish: "背面高光玻璃渐变，铰链金属拉丝"
+      mounting: "翻盖铰链为核心结构，合拢后接近于奢侈品配件形态"
+      signature_detail: "大面积Cover Display外屏+渐变玻璃背面，合拢状态即是独立美学单元"
+    design_level:
+      score: 5
+      reason: "翻盖折叠形态的时尚旗舰，渐变玻璃+大外屏的造型组合具有极高辨识度和情感价值"
+    design_tags: ["折叠屏", "翻盖", "Flip", "渐变", "外屏", "时尚", "旗舰"]
+    hero_feature: "合拢状态下大外屏+渐变玻璃背面，让手机在口袋外即成时尚配件"
+    problem_solved: "将折叠形态的实用性与时尚消费品的情感价值结合，吸引追求个性表达的用户"
+    transferable_technique: "渐变玻璃背面处理——同一颜色从深到浅跨越背面，低成本实现高感知价值"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_phone_007"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/15.jpg"
+        image_role: "hero"
+        visual_anchor: "Galaxy S25或S25 Edge侧面+背面细节，银白色，双摄大圆形岛，极薄机身"
+    product_name: "Galaxy S25 Edge"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "直板超薄机身，侧面轮廓极为纤细，边框与背面过渡圆润自然"
+      light_opening: "无打孔可见（侧面角度），边框超薄"
+      thermal: "背面双摄大圆形岛，两个圆形镜头并列，整合在一个大圆盘形模组内"
+      cmf:
+        color: "银白（Icy Silver），背面与边框几乎同色"
+        material: "钛合金边框，背面哑光玻璃"
+        finish: "背面磨砂亚光，边框拉丝哑光，整体低调高级"
+      mounting: "超薄机身为核心卖点，侧边按键与机身融合度极高"
+      signature_detail: "双摄大圆形岛与超薄机身的视觉对比——厚重镜头岛衬托出机身极致薄度"
+    design_level:
+      score: 5
+      reason: "S25 Edge为三星极致轻薄旗舰，双摄大圆岛+超薄侧面的视觉张力达到行业顶尖水准"
+    design_tags: ["旗舰", "超薄", "Edge", "双摄", "大圆岛", "钛合金", "磨砂"]
+    hero_feature: "极薄机身侧面轮廓与大尺寸双摄圆形镜头岛形成强烈视觉对比"
+    problem_solved: "在不牺牲摄影能力的前提下将机身厚度压缩至极限，满足轻薄追求者"
+    transferable_technique: "大圆形镜头岛设计——两枚主摄整合进单一大圆盘，简化背面视觉复杂度同时强化焦点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: "侧面角度无法确认具体型号，推测为S25 Edge，依据为双摄+超薄组合特征"
+
+  - product_id: "samsung_phone_008"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/11.jpg"
+        image_role: "hero"
+        visual_anchor: "Galaxy A57 5G黑色正背面，三摄胶囊形模组，全面屏打孔"
+    product_name: "Galaxy A57 5G"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "直板机身，圆角较大，整体偏厚，轮廓线较S系更朴实"
+      light_opening: "中置打孔前摄，全面屏，边框比S系略宽"
+      thermal: "背面三摄采用胶囊形（药丸形）一体模组，左侧垂直排列，模组有明显凸起"
+      cmf:
+        color: "Midnight（深夜黑），背面亮面玻璃质感"
+        material: "塑料边框，背面玻璃或塑料（A系）"
+        finish: "背面半亮面，略有镜面反射"
+      mounting: "无S Pen，A系列定位"
+      signature_detail: "胶囊形竖向三摄模组是A系列辨识符号，与S系独立圆柱模组形成明显层级区分"
+    design_level:
+      score: 3
+      reason: "中端A系列，胶囊三摄模组设计功能清晰，但工艺和材质感知价值明显低于S系"
+    design_tags: ["中端", "A系列", "三摄", "胶囊模组", "全面屏", "5G"]
+    hero_feature: "胶囊形一体三摄模组——将三枚镜头包裹进统一药丸形外壳，强调拍摄能力"
+    problem_solved: "以可负担价格提供三摄拍摄能力和5G连接，满足大众消费需求"
+    transferable_technique: "胶囊/药丸形镜头模组——比大岛更节省背面空间，比独立镜头更有整合感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_phone_009"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/12.jpg"
+        image_role: "hero"
+        visual_anchor: "Galaxy A37 5G薰衣草紫+石墨黑双色背面+正面，三摄胶囊模组"
+    product_name: "Galaxy A37 5G"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "直板机身，圆角较大，轮廓与A57相似但尺寸略小"
+      light_opening: "中置打孔前摄，全面屏，边框均匀"
+      thermal: "背面三摄胶囊形竖向模组，与A57同族语言，单摄独立圆点分离"
+      cmf:
+        color: "薰衣草紫（Lavender）/ 石墨黑（Graphite），背面磨砂或半亮面"
+        material: "塑料边框，背面塑料或玻璃"
+        finish: "背面磨砂或半亮，无镜面强反射"
+      mounting: "无S Pen"
+      signature_detail: "薰衣草紫配色显著区别于S系金属冷色调，传达青春活力感"
+    design_level:
+      score: 3
+      reason: "中端A系，配色策略（紫色+黑）面向年轻群体，造型语言与A57高度一致，形成清晰产品家族"
+    design_tags: ["中端", "A系列", "三摄", "胶囊模组", "年轻", "紫色", "5G"]
+    hero_feature: "薰衣草紫配色与简洁胶囊三摄组合，传达年轻活力定位"
+    problem_solved: "通过差异化配色在中端市场建立青年群体的情感连接"
+    transferable_technique: "同一造型结构+差异化配色策略，以最低成本实现产品线个性分层"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_phone_010"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/智能手机/13.jpg"
+        image_role: "hero"
+        visual_anchor: "Galaxy A17 5G黑色正背面，泪滴形刘海，三摄竖排独立模组"
+    product_name: "Galaxy A17 5G"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "直板机身，圆角偏大，整体较厚，入门级比例感"
+      light_opening: "泪滴形（水滴）刘海前摄——非打孔全面屏，入门级标识，边框较宽"
+      thermal: "背面三摄竖向独立排列，无模组整合，各镜头独立凸起，右侧另有闪光灯"
+      cmf:
+        color: "黑色（Black），背面磨砂塑料质感"
+        material: "塑料边框与背板"
+        finish: "背面磨砂，无光泽"
+      mounting: "无S Pen"
+      signature_detail: "泪滴刘海是该价位段标志性元素，与上端全面屏打孔形成清晰层级区分"
+    design_level:
+      score: 2
+      reason: "入门A系，塑料材质+泪滴刘海定位清晰但设计感知价值低，工艺与旗舰差距明显"
+    design_tags: ["入门", "A系列", "三摄", "泪滴刘海", "塑料", "5G"]
+    hero_feature: "泪滴刘海+三摄独立竖排是入门机功能完整性的视觉信号"
+    problem_solved: "以最低成本提供5G连接和三摄拍摄，覆盖价格敏感型消费者"
+    transferable_technique: "入门机三摄独立竖排——无模组整合成本最低，但传达了完整拍摄系统的视觉信息"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

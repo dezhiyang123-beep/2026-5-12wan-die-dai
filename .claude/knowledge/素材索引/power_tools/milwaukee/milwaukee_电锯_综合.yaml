@@ -1,0 +1,275 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "综合"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_综合_001"
+    source_images:
+      - filename: "电锯__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL轨道锯（Track Saw/Plunge Saw），红色顶部机身+银灰色底板护罩，Milwaukee FUEL白色logo居中，黑色布袋式集尘袋悬于左侧，底部透明防刮保护条可见，锯片完全隐藏于护罩内，把手红黑双色TPE包覆，右侧45度视角"
+    product_name: "Milwaukee M18 FUEL Track Saw"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "轨道锯"]
+    design_language:
+      silhouette: "轨道锯特征：顶置把手+前置锯片护罩+宽底板，整体低重心水平姿态；锯片完全内藏，比圆锯更安全紧凑"
+      light_opening: "N/A"
+      thermal: "封闭机壳，无刷被动散热，左侧集尘袋兼排气"
+      cmf:
+        color: "主色：Milwaukee红（上部机身+把手壳），次色：银灰（铸铝护罩/底板），哑光黑（集尘袋/把手TPE包覆）"
+        material: "机身：玻纤尼龙；护罩：压铸铝；把手：TPE包覆；集尘袋：涤纶织物"
+        finish: "红色机身哑光；铝护罩拉丝；TPE菱形纹防滑"
+      mounting: "M18平台，无电池裸机展示"
+      signature_detail: "Milwaukee FUEL大字logo+集尘袋织物Milwaukee徽章双重品牌呈现；底部导轨透明防刮条"
+    design_level:
+      score: 4
+      reason: "轨道锯品类Milwaukee FUEL系列造型语言高度统一，红灰黑三色分件清晰，集尘系统集成度高；锯片内藏安全设计体现专业工具进化方向"
+    design_tags:
+      - "轨道锯"
+      - "Track Saw"
+      - "M18平台"
+      - "FUEL无刷"
+      - "集尘集成"
+      - "锯片内藏"
+      - "红灰黑三色"
+    hero_feature: "锯片完全内藏于银灰铝合金护罩，顶部Milwaukee红机身强视觉对比，集尘袋侧挂式集成"
+    problem_solved: "轨道导向精准直线切割，锯片内藏防溅屑，集尘一体化适合精装工地"
+    transferable_technique: "H09隐藏工程：危险件（锯片）完全内藏于护罩，安全与美观兼得；H02包覆：把手红黑双色TPE分区包覆"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_综合_002"
+    source_images:
+      - filename: "电锯__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__综合__02.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线金属切割圆锯（Metal Cutting Circular Saw），银灰色机身主体占70%，顶部D形把手红色局部点缀，Milwaukee logo红色居机身侧面，圆锯片外露（金属切割专用锯片，齿较少），底板银灰铝合金，左前45度视角"
+    product_name: "Milwaukee Metal Cutting Circular Saw"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "手持圆锯轮廓：D形顶把+前护罩+底板，整体比轨道锯更紧凑，护罩包裹锯片2/3"
+      light_opening: "机身后段有散热槽"
+      thermal: "有线电机，纵向散热槽散热"
+      cmf:
+        color: "主色：银灰（机身占比高，与常规Milwaukee产品配色反差明显），点缀：红色（把手局部+logo），底板灰"
+        material: "机身：铝合金压铸为主；把手：注塑+红色覆盖"
+        finish: "铝合金本色；红色局部喷涂"
+      mounting: "有线交流电"
+      signature_detail: "银灰色为主打破Milwaukee惯常红色主导，专业金属切割工具的功能中性色策略"
+    design_level:
+      score: 3
+      reason: "金属切割功能性强，银灰主色体现专业感；但Milwaukee红色品牌辨识度被削弱，与Milwaukee主线产品视觉一致性较低"
+    design_tags:
+      - "金属切割"
+      - "圆锯"
+      - "有线"
+      - "银灰主色"
+      - "专业级"
+    hero_feature: "银灰铝合金机身为主，Milwaukee红仅作局部点缀，专业金属切割专用外观"
+    problem_solved: "专业金属材料切割，功能定向设计"
+    transferable_technique: "H10材料表达：铝合金主色方案传递专业金属工具质感，与常规消费工具形成差异化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_综合_003"
+    source_images:
+      - filename: "电锯__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__综合__03.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL SAWZALL军刀锯（Reciprocating Saw），红黑双色，前2/3机身黑色（含夹刀机构和前把手区），后1/3红色（电机壳+电池接口区），Milwaukee FUEL白色logo居红色区段，ONE-KEY蓝色标志可见，蓝色Wi-Fi图标叠加，顶部把手黑色TPE包覆，SAWZALL字样压印于黑色机身"
+      - filename: "电锯__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__综合__04.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "同款SAWZALL军刀锯无Wi-Fi图标版本，左侧面展示，黑色前身+红色后身分界清晰，Milwaukee FUEL logo居红色段，ONE-KEY标志可见，把手穿孔开口负空间可见"
+    product_name: "Milwaukee M18 FUEL SAWZALL Reciprocating Saw (ONE-KEY)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "军刀锯"]
+    design_language:
+      silhouette: "军刀锯特征：水平长条形，前端夹刀+导靴，后端把手+电池接口，整体'步枪'式水平延伸造型；把手穿孔D形开口是记忆点"
+      light_opening: "N/A"
+      thermal: "封闭无刷，被动散热"
+      cmf:
+        color: "前黑后红的前后双色分割（与Milwaukee其他产品的上下/左右分色不同），黑色占比约55%，红色占45%；分界线在中段把手根部"
+        material: "前身：玻纤尼龙哑黑；后身：玻纤尼龙亮红；把手：TPE包覆"
+        finish: "黑色哑光；红色哑光；把手网格纹压花"
+      mounting: "M18平台，后端电池接口，ONE-KEY智能互联"
+      signature_detail: "SAWZALL品牌名压印于黑色机身侧面；前后黑红分色前端突出功能/操控区，后端强调品牌动力区；ONE-KEY蓝色标志点缀"
+    design_level:
+      score: 4
+      reason: "SAWZALL系列前黑后红分色策略独特且功能逻辑清晰（操控区=黑色稳重，动力区=红色热力）；ONE-KEY智能互联为专业用户差异化；整体造型力量感突出"
+    design_tags:
+      - "军刀锯"
+      - "SAWZALL"
+      - "M18平台"
+      - "FUEL无刷"
+      - "ONE-KEY互联"
+      - "前黑后红"
+      - "步枪造型"
+      - "穿孔把手"
+    hero_feature: "前黑后红的前后分色策略，SAWZALL品牌名压印于黑色机身，把手穿孔D形负空间"
+    problem_solved: "拆迁破坏性切割，ONE-KEY自定义转速/行程，无线解放工地机动性"
+    transferable_technique: "H08对比强调：前后双色功能分区（操控/动力两区用色差异化），区别于Milwaukee其他产品上下分色，创造更强前后延伸张力感；可迁移至其他长条形手持电动工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_综合_004"
+    source_images:
+      - filename: "电锯__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__综合__05.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee早期有线SAWZALL军刀锯（较旧款），红黑双色但配色比例与新款不同，黑色前端+红色中后段，机身线条更圆润，Milwaukee徽标较小居中，无ONE-KEY，SAWZALL字样可见，整体设计语言更早期"
+      - filename: "电锯__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__综合__06.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "Milwaukee有线SAWZALL（含M18电池配件），红色主导+黑色前端，M18 RED LITHIUM电池附赠，整体与综合05同系列但角度略异，可见机身腰部分件线"
+      - filename: "电锯__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__综合__07.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "Milwaukee有线SAWZALL另一角度，红色前段比例更高，Milwaukee logo侧面居中，电源线从把手后方引出，导靴/夹刀机构银色金属外露，整体红色比例更接近传统Milwaukee配色"
+    product_name: "Milwaukee SAWZALL Reciprocating Saw (Corded, Gen-2)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "军刀锯"]
+    design_language:
+      silhouette: "军刀锯水平延伸，整体比新款M18 FUEL更圆润，分件线更明显，把手开口造型更传统"
+      light_opening: "机身中后段散热槽条状排列"
+      thermal: "有线电机散热槽，纵向排列"
+      cmf:
+        color: "红色比例高于新款（约65%红+35%黑），分色位置在前把手区"
+        material: "ABS注塑为主；导靴：金属"
+        finish: "红色高光喷涂（早期Milwaukee配色）；黑色橡胶哑光"
+      mounting: "有线交流电+早期M18电池版本"
+      signature_detail: "传统Milwaukee高光红色与新款哑光红色的代际对比参考"
+    design_level:
+      score: 3
+      reason: "经典Milwaukee红色识别度高，但整体造型语言属早期，与现代FUEL系列相比视觉张力不足，分件线过于明显"
+    design_tags:
+      - "有线"
+      - "SAWZALL经典款"
+      - "红色主导"
+      - "早期设计语言"
+    hero_feature: "高比例Milwaukee红色机身，SAWZALL经典造型语言"
+    problem_solved: "持续大功率拆迁切割"
+    transferable_technique: "设计演化参考：Milwaukee高光红→哑光红的品牌色演进，以及红色占比从高到均衡的分色策略演变"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_综合_005"
+    source_images:
+      - filename: "电锯__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__综合__08.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线SAWZALL（Super SAWZALL款），红色前段+银灰中段+黑色后把，Milwaukee logo居银灰腰带区，三色分段，导靴金属外露，机身更粗壮，腰带分件线明显"
+      - filename: "电锯__综合__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__综合__09.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "Milwaukee有线SAWZALL（The AXE款），红前+银腰+黑后三色，Milwaukee logo居银腰，机身比Super款略细长，'THE AXE'字样可见于锯片，整体比例更修长"
+      - filename: "电锯__综合__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__综合__10.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "Milwaukee有线SAWZALL（THE AXE款另一角度），同样三色分段，Milwaukee logo于银色腰带，电源线从黑色把手后引出，整体与综合09同款"
+    product_name: "Milwaukee Super SAWZALL / The AXE (Corded, Classic)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "军刀锯"]
+    design_language:
+      silhouette: "三段式水平延伸：红色前段（功能头）+银色中段（电机腰带）+黑色后段（把手），三色腰带是这代产品的核心记忆点"
+      light_opening: "无明显散热槽，早期封闭设计"
+      thermal: "早期封闭机壳"
+      cmf:
+        color: "红+银灰+黑三色水平腰带分段，Milwaukee logo放置于中性银色区，视觉中心明确"
+        material: "ABS注塑+金属腰带件"
+        finish: "红色高光；银色金属光泽；黑色橡胶"
+      mounting: "有线交流电"
+      signature_detail: "银色腰带Milwaukee logo区是品牌呈现最清晰位置；三色水平分段是Milwaukee SAWZALL历史设计DNA"
+    design_level:
+      score: 3
+      reason: "三色腰带设计有较强记忆点，Milwaukee logo在中性银色背景上视觉对比最优；但整体属早期设计语言，已被新款FUEL系列取代"
+    design_tags:
+      - "三色腰带"
+      - "SAWZALL经典款"
+      - "银色腰带"
+      - "有线"
+      - "设计演化参考"
+    hero_feature: "红+银+黑三色水平腰带，Milwaukee logo白字在银色区的最大视觉对比"
+    problem_solved: "拆迁破坏性切割经典解决方案"
+    transferable_technique: "H08对比强调：logo放置于中性底色区（银色）而非品牌主色区（红色），反向提升logo清晰度；三段分色的水平腰带节奏感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_综合_006"
+    source_images:
+      - filename: "电锯__综合__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__综合__11.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL深切带锯（Deep Cut Band Saw），安装于专用红色铸铁支架上；带锯机本体：红色+银灰双色，Milwaukee FUEL logo白字居侧面，圆形导带轮外露（上下各一），M18电池插于顶部，黑色导带张紧机构；支架：铸铁红色油漆，支架腿可见，整体工业感强烈"
+    product_name: "Milwaukee M18 FUEL Deep Cut Band Saw"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "带锯"]
+    design_language:
+      silhouette: "带锯特征：门形框架（上下导轮+锯条），无线手持带锯整体呈C形悬臂+D形把手；支架扩展为台式使用形态"
+      light_opening: "N/A"
+      thermal: "无刷封闭，被动散热"
+      cmf:
+        color: "机身：Milwaukee红+银灰导带壳（与斜切锯配色逻辑一致）；支架：Milwaukee红铸铁（难得的同色系深色件）"
+        material: "机身：玻纤尼龙；导带壳：铸铝；支架：铸铁"
+        finish: "机身哑光红；铸铝拉丝；铸铁红色油漆"
+      mounting: "M18平台，顶部电池插槽，可站立使用"
+      signature_detail: "圆形导带轮金属外露成为功能美学焦点；Milwaukee FUEL logo于红色主机体；铸铁支架与机身同色系（罕见大件配色一致性）"
+    design_level:
+      score: 4
+      reason: "手持带锯+专用支架的模块化生态完整，红色铸铁支架与Milwaukee机身同色系的一致性难得；导带轮外露的功能美学处理有设计感"
+    design_tags:
+      - "带锯"
+      - "Band Saw"
+      - "M18平台"
+      - "FUEL无刷"
+      - "模块化支架"
+      - "导带轮外露"
+      - "铸铁支架"
+    hero_feature: "圆形导带轮金属外露的功能美学，Milwaukee红色机身+红色铸铁支架的同色系生态一体感"
+    problem_solved: "管材/型材精准切割，支架扩展实现台式精密切割，无线移动灵活"
+    transferable_technique: "H11功能外显：导带轮/传动结构外露作为美学焦点；H05模块化：手持+台式双形态扩展生态；H10材料表达：铸铁支架沉重感与铝合金机身形成重量视觉对比"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

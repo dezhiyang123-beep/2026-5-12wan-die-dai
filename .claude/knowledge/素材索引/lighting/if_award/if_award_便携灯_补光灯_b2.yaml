@@ -1,0 +1,59 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "便携灯"
+  tertiary: "补光灯"
+
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/"
+  generated_at: "2026-05-09"
+
+# 补充batch：补光灯/19.jpg（已有if_award_便携灯_补光灯.yaml覆盖01-18,20-28,30）
+
+products:
+  - product_id: "if_便携灯_补光灯_b2_001"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/19.jpg"
+        image_role: "scene"
+        visual_anchor: "播客录音场景：男性主持人正前方有多支RGB圆柱形LED补光灯管交叉部署，左侧两支呈X形（青蓝色发光+银色带纵向散热肋条），中央一支品红色架装，右侧一支橙色落地支架，多色彩氛围布光"
+    product_name: ""
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+
+    category_path:
+      - "灯具"
+      - "便携灯"
+      - "补光灯"
+
+    design_language:
+      silhouette: "竖向圆柱形LED灯管（长径比约5:1），背面带纵向散热肋条，正面为均匀RGBWW漫射发光面，底部带LCD控制屏和功能按钮"
+      light_opening: "正面全长均匀漫射发光面；部分型号360°全向发光，提供柔和散射补光"
+      thermal: "背面纵向铝型材散热肋条，被动散热，肋条同时构成产品背面的主要视觉纹理"
+      cmf:
+        color: "灯体银白色铝合金；可输出任意RGB彩色（图示青蓝/品红/橙）"
+        material: "铝合金挤出型材管体 + 漫射发光面"
+        finish: "银色阳极氧化铝 + 磨砂漫射面"
+      mounting: "可落地独立支架、夹臂安装、手持，底部标准灯架螺纹口"
+      signature_detail: "散热肋条作为背面视觉纹理：纵向铝型材肋条在提供散热功能的同时形成强烈的竖向线性纹理，是产品关灯状态下的主要视觉特征，功能与美学合一"
+    design_level:
+      score: 3
+      reason: "棒形RGB补光灯的成熟工具性设计，核心价值在于全彩灵活性和高效布光；散热肋条是功能外显的设计语言；整体造型工具性强，无突破性形态创新，但系统性部署价值高"
+    design_tags:
+      - "棒形RGB灯管"
+      - "全彩补光"
+      - "散热肋条纹理"
+      - "播客视频场景"
+      - "H11功能外显"
+      - "H05模块化"
+    hero_feature: "多色彩管形RGB补光灯组合部署：可在同场景用不同色温/色彩灯管创造复杂氛围光，单灯小巧成本低，组合效果极丰富"
+    problem_solved: "视频创作/播客需要快速部署灵活彩色氛围补光；管形灯体积小、多角度安装、全彩输出，比传统方形柔光箱更灵活，比点光源更柔和"
+    transferable_technique: "圆柱/棒形发光体的多色彩组合部署策略可迁移到创意场景照明；背面散热肋条作为产品外观主纹理的H11手法适用于任何需要被动散热的手持/便携设备"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

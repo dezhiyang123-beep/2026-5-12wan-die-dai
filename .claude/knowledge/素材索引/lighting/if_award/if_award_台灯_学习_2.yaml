@@ -1,0 +1,515 @@
+schema_version: "product_dna_v1"
+batch: 2
+total_images: 23
+source_folder: "01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/"
+image_positions: "23-45 (sorted filenames: 27.jpg – 54.jpg)"
+generated: "2026-05-08"
+
+category:
+  primary: "灯具"
+  secondary: "台灯"
+  tertiary: "学习台灯"
+
+source_type: "if_design_award"
+brand_confidence: "medium"
+
+# ── NOTES ON GROUPING ──────────────────────────────────────────────────────────
+# 27+28  → same product: curved S-scroll organic-arm lamp (product view + lifestyle)
+# 29+30  → same product: round-head single-arm folding desk lamp (two angles)
+# 31     → standalone: long-arm disc-head architectural lamp (Flos-style)
+# 32     → standalone: Z-fold linear LED bar lamp
+# 34     → standalone: white cylindrical spot lamp, two-unit modular set
+# 36+37  → same product: white cylinder spot with ring handle (desk + outdoor lifestyle)
+# 39     → standalone: arch-loop lamp with vertical LED strip, wireless charging base
+# 41     → standalone: "Balance Smart Lamp" T-bar asymmetric linear head
+# 42+43  → same product: monitor lightbar with puck remote (front overview + rear mount detail)
+# 44+45  → same product: Luctra single diagonal arm + disc head (two angles)
+# 47+48  → same product: BenQ ScreenBar monitor clamp lamp (full + rear angle)
+# 49     → same product as 47+48: ultra-thin side profile of monitor clamp lamp
+# 50     → standalone: champagne/bronze compact angled lamp with round lens head
+# 51     → standalone: brass Nordic two-arm articulated reading lamp (lifestyle)
+# 52     → standalone: delta arrow-head slim-arm desk lamp
+# 53+54  → same product: foldable white bar lamp, tapered base (open + folded upright)
+# 55(54.jpg) → standalone: terrazzo/lava-stone base with hand-felted wool shade — decorative
+# ────────────────────────────────────────────────────────────────────────────────
+
+products:
+
+  - product_id: "if_台灯_学习_b2_001"
+    source_images: ["27.jpg", "28.jpg"]
+    name_guess: "Organic S-Scroll Dual-Panel LED Desk Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "仿生卷叶形灯头，双面发光LED面板嵌入有机曲线骨架，弓形臂三段关节"
+      hero_feature: "灯头呈双重S型卷曲，发光面板从卷曲内侧透出，主灯面+小补光镜面同时共存于一个连续形体内，形如展开的叶片"
+      material_finish: "深灰铝合金骨架哑光烤漆；乳白色LED散光面板；钛银色球形关节螺钉"
+      proportion_ratio: "灯头高宽比约1:1.2；弓形臂相对灯头约3倍长；圆形底座直径约等于灯头宽度"
+      innovation_score: 5
+      innovation_note: "灯头形体完全打破传统灯罩几何，以有机卷曲替代平板或罩形；同一形体集成主光源与反射补光；外形轮廓记忆点极强"
+
+    arm_structure:
+      type: "三关节弓形臂（底座-腰-肘-灯头）"
+      joints: 3
+      adjustment: "各关节球形螺钉摩擦固定，可任意角度定位"
+      arm_profile: "扁平铝合金条，渐变宽度"
+
+    use_context: "高端家庭书桌，兼顾照明与摆件属性"
+    design_method_tags: ["H06仿生", "H07极简整合", "H11功能外显"]
+    transferability: "双面发光+有机卷曲形体可迁移至需要上下双向照明的台灯；卷叶轮廓作为品牌记忆点手法可迁移至任何需要强辨识度灯头的产品"
+
+
+  - product_id: "if_台灯_学习_b2_002"
+    source_images: ["29.jpg", "30.jpg"]
+    name_guess: "Minimalist Round-Head Single-Arm Folding Desk Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "圆形灯头+单斜臂折叠结构，底座圆盘，极简黑色全哑光"
+      hero_feature: "灯头为完整圆环框+内嵌LED散光盘，框与臂的连接处为超薄单点铰链，侧视比例极度克制；灯臂与立柱直接折叠，无多余关节"
+      material_finish: "全黑砂纹铝合金；灯面乳白散光板；铰链处银色点缀"
+      proportion_ratio: "圆形灯头直径约为臂宽的6倍；臂长与立柱之比约3:2"
+      innovation_score: 3
+      innovation_note: "比例控制极为精准，圆头+细臂+圆盘底座形成强烈几何一致性；结构极简但完整"
+
+    arm_structure:
+      type: "单臂两段折叠（斜臂+立柱）"
+      joints: 2
+      adjustment: "顶部铰链可调灯头俯仰；中部铰链调臂角度"
+      arm_profile: "矩形截面扁臂"
+
+    use_context: "现代简约书桌，设计师工作台"
+    design_method_tags: ["H01减法", "H07极简整合", "H03分件线"]
+    transferability: "圆环灯头+单铰链臂的几何克制手法可迁移至任何追求高级感的学习台灯；黑色全哑光CMF处理方式具体可参考"
+
+
+  - product_id: "if_台灯_学习_b2_003"
+    source_images: ["31.jpg"]
+    name_guess: "Long-Reach Disc-Head Architectural Desk Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "超长单臂+UFO碟形灯头，两段折叠，圆盘底座；建筑感工程美学"
+      hero_feature: "灯臂极长（约为底座直径的3倍），灯头为薄碟状，臂头连接为单点钢销铰链；整体比例戏剧性悬挑，像建筑悬臂结构"
+      material_finish: "全哑黑铝合金；灯头内侧白色散光；钢销关节裸露可见"
+      proportion_ratio: "臂长与底座直径比约3:1；灯头厚度与直径比约1:8"
+      innovation_score: 4
+      innovation_note: "超长悬臂比例挑战品类惯例；碟形灯头薄度极限；建筑工程美学强烈"
+
+    arm_structure:
+      type: "两段折叠长臂（大角折+小角折）"
+      joints: 2
+      adjustment: "两处裸露钢销铰链摩擦固定"
+      arm_profile: "矩形截面，全程等宽"
+
+    use_context: "大尺寸工作桌，建筑师/设计师桌面"
+    design_method_tags: ["H01减法", "H11功能外显", "H09隐藏工程反向-结构外露"]
+    transferability: "超悬臂比例手法可迁移至需要大覆盖范围的工作台灯；裸露铰链作为设计语言可参考"
+
+
+  - product_id: "if_台灯_学习_b2_004"
+    source_images: ["32.jpg"]
+    name_guess: "Z-Fold Linear LED Bar Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "Z字型三段折叠线性LED灯管，无灯头与臂之分，整体即为发光体"
+      hero_feature: "三段等宽铝型材以Z形折叠构成整灯，顶段即为线性LED发光管；关节处为方形铰链块，形体高度几何化；无传统灯头形态"
+      material_finish: "全黑铝型材哑光；LED散光条内嵌顶段底面；圆形黑色底座"
+      proportion_ratio: "三段臂长度接近1:1:1；截面宽高比约1:2"
+      innovation_score: 4
+      innovation_note: "结构即发光体，消除灯头-臂分界；Z形折叠剪影极具辨识度；几何纯粹性高"
+
+    arm_structure:
+      type: "Z形三段折叠（灯体即臂，无独立灯头）"
+      joints: 2
+      adjustment: "两处方形关节块铰接，可调整Z型展开角度"
+      arm_profile: "矩形截面等宽铝型材"
+
+    use_context: "设计感书桌，追求极简几何的用户"
+    design_method_tags: ["H01减法", "H07极简整合", "H04参数化"]
+    transferability: "结构即发光体手法可迁移至线性灯产品；Z型折叠轮廓记忆点强，可借鉴于折叠台灯新形态"
+
+
+  - product_id: "if_台灯_学习_b2_005"
+    source_images: ["34.jpg"]
+    name_guess: "White Cylindrical Spot Lamp — Dual-Format Set (Table + Clip)"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "圆筒形聚光灯头，细杆底座款+夹式款两种安装方式，全白极简"
+      hero_feature: "两款共用同一圆筒灯头形态，底座款顶部有金属提环可携带，夹式款灯头可独立旋转；形体像微缩射灯，质感简洁"
+      material_finish: "全白哑光塑料/铝；灯口内黑色遮光面"
+      proportion_ratio: "灯头直径与筒长比约1:1.5；杆径约为灯头直径的1/3"
+      innovation_score: 3
+      innovation_note: "同一灯头适配两种底座形态（底座款+夹式）体现模块化思路；提环设计增加便携属性"
+
+    arm_structure:
+      type: "直杆单臂（底座款）；无臂（夹式款，灯头直连夹具）"
+      joints: 1
+      adjustment: "灯头可俯仰旋转"
+      arm_profile: "细圆杆"
+
+    use_context: "学生书桌/床头阅读，兼顾便携使用"
+    design_method_tags: ["H05模块化", "H01减法", "H07极简整合"]
+    transferability: "圆筒聚光灯头+提环手法可迁移至便携台灯；同形态多安装方式的模块化思路值得参考"
+
+
+  - product_id: "if_台灯_学习_b2_006"
+    source_images: ["36.jpg", "37.jpg"]
+    name_guess: "White Cylinder Spot Lamp with Carry Ring — Portable Desk Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "圆筒灯头+提环，细直杆，椭圆底座，全白；可室内外使用"
+      hero_feature: "灯头顶部金属提环为核心记忆点，兼顾提携与造型；底座为内充电式，可脱离电源线室外使用；灯头可360°旋转调向"
+      material_finish: "白色哑光铝合金；底座底部橡胶防滑垫；提环金属银色"
+      proportion_ratio: "提环直径约等于灯头直径；杆高约为灯头长度的2.5倍"
+      innovation_score: 3
+      innovation_note: "提环+无线充电底座使台灯具备完整便携属性，室内外场景打通；27号图中展示户外桌面使用场景"
+
+    arm_structure:
+      type: "无关节直杆（灯头顶点安装）"
+      joints: 0
+      adjustment: "灯头旋转（360°）"
+      arm_profile: "细圆杆直接支撑"
+
+    use_context: "室内书桌 + 户外便携场景（咖啡馆、露台）"
+    design_method_tags: ["H01减法", "H05模块化", "H07极简整合"]
+    transferability: "提环+无线底座的便携台灯组合策略可直接迁移；白色全哑光圆筒形态在学生台灯细分市场的竞争力参考价值高"
+
+
+  - product_id: "if_台灯_学习_b2_007"
+    source_images: ["39.jpg"]
+    name_guess: "Arch-Loop LED Strip Lamp with Wireless Charging Base"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "拱形/U型管状骨架，垂直LED条嵌于内侧，底座整合无线充电"
+      hero_feature: "整灯形体为圆管弯成U型拱，LED发光条沿U型内侧垂直布置，底座为圆形无线充电板；拱形剪影强烈，无传统灯头"
+      material_finish: "白色圆管（铝或PC材质）；底座白色圆盘含无线充电线圈"
+      proportion_ratio: "拱高约为底座直径的1.5倍；管径约为底座直径的1/8"
+      innovation_score: 4
+      innovation_note: "拱形结构将支撑结构与发光体完全合并，无灯头概念；底座无线充电增加实用价值；形体极具辨识度"
+
+    arm_structure:
+      type: "无关节固定拱形（一体成型弯管）"
+      joints: 0
+      adjustment: "无（固定形态）"
+      arm_profile: "圆管均匀弯曲"
+
+    use_context: "儿童/青少年书桌，注重造型趣味性；手机无线充电常用场景"
+    design_method_tags: ["H07极简整合", "H06仿生-拱形语义", "H11功能外显"]
+    transferability: "拱形=发光体的形态融合手法可迁移；底座无线充电集成方式值得参考；U型剪影轮廓记忆点强"
+
+
+  - product_id: "if_台灯_学习_b2_008"
+    source_images: ["41.jpg"]
+    name_guess: "Balance Smart Lamp — T-Bar Asymmetric Linear Desk Lamp"
+    brand_guess: null
+    brand_confidence: "medium"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "倒T形结构：垂直立柱+水平线性灯头，灯头可左右换向，底座圆盘带滚花纹路"
+      hero_feature: "线性灯头固定于立柱顶端，左右两侧均可配置（不限定左手/右手方向）；灯头极薄，侧视几乎消失；底座圆盘表面滚花纹路提供触感与视觉细节"
+      material_finish: "深灰铝合金哑光；底座滚花圆盘；灯头极薄铝合金板"
+      proportion_ratio: "灯头宽与立柱高比约3:2；底座直径约为立柱截面宽度的8倍"
+      innovation_score: 4
+      innovation_note: "左右对称可换向消除用手方向限制；灯头极薄化追求形态极限；底座滚花纹路为触觉设计加分项；产品名Balance直接表达设计哲学"
+
+    arm_structure:
+      type: "固定T形（无关节，灯头固定于立柱顶）"
+      joints: 0
+      adjustment: "灯头可旋转180°换向（左/右照射）"
+      arm_profile: "方形立柱截面"
+
+    use_context: "办公桌/学习桌，左右手用户均适用，追求无拘束摆放"
+    design_method_tags: ["H01减法", "H07极简整合", "H10材料表达"]
+    transferability: "无方向限制的T形台灯策略可迁移至对称人机台灯设计；底座滚花表面触感细节处理方式值得借鉴"
+
+
+  - product_id: "if_台灯_学习_b2_009"
+    source_images: ["42.jpg", "43.jpg"]
+    name_guess: "Monitor Lightbar with Puck Remote Controller"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "显示器夹扣式线性灯条，独立圆形旋钮遥控器；灯条两端对称延伸"
+      hero_feature: "灯条搭载显示器顶边，夹具居中，灯管向两侧对称延伸；圆形旋钮遥控器独立摆放桌面，控制亮度色温；灯条正面朝下照射桌面，完全不影响屏幕画面"
+      material_finish: "深灰/黑色铝合金灯管；哑光夹扣塑料；黑色圆形旋钮底座金属质感"
+      proportion_ratio: "灯管总长约为夹扣宽度的6倍；灯管截面直径约1cm"
+      innovation_score: 4
+      innovation_note: "显示器顶置完全解放桌面空间；独立旋钮遥控器操作直觉感强；不向屏幕散射光的单向照明解决屏幕反光痛点"
+
+    arm_structure:
+      type: "无臂，夹扣直接固定于显示器顶边"
+      joints: 0
+      adjustment: "夹扣配重平衡，可小幅前后倾斜"
+      arm_profile: "N/A"
+
+    use_context: "电脑工作站/游戏桌，显示器顶置照明，解放桌面"
+    design_method_tags: ["H09隐藏工程", "H07极简整合", "H11功能外显"]
+    transferability: "显示器顶置照明+独立旋钮控制器的产品策略已成为细分品类；夹扣配重平衡机构设计可参考；对称灯管+中央夹扣比例控制值得借鉴"
+
+
+  - product_id: "if_台灯_学习_b2_010"
+    source_images: ["44.jpg", "45.jpg"]
+    name_guess: "Luctra Single Diagonal-Arm LED Disc-Head Desk Lamp"
+    brand_guess: "Luctra"
+    brand_confidence: "high"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "单斜臂+圆盘灯头，立柱圆柱体，底座厚圆盘，高端办公感"
+      hero_feature: "灯臂以大角度斜置形成强烈动势，灯头圆盘极薄，从侧面看臂与头几乎在同一厚度内；立柱为细圆柱，底座为厚圆盘；整体比例极度克制"
+      material_finish: "全黑哑光铝合金；灯头内侧白色散光；立柱印有Luctra品牌字样"
+      proportion_ratio: "斜臂长与立柱高比约2:1；灯头直径与厚度比约8:1"
+      innovation_score: 3
+      innovation_note: "极薄圆盘灯头+大斜角单臂组合在视觉上创造极度克制的优雅感；Luctra品牌专注办公照明，生物节律光线是品牌核心卖点"
+
+    arm_structure:
+      type: "单斜臂（臂直接从立柱顶侧方延伸，大倾斜角约45°）"
+      joints: 1
+      adjustment: "灯头小铰链可调俯仰"
+      arm_profile: "矩形截面细臂"
+
+    use_context: "高端办公桌/学习桌，品牌导向型购买"
+    design_method_tags: ["H01减法", "H07极简整合", "H03分件线"]
+    transferability: "大角度斜臂+极薄圆盘灯头的比例组合可迁移至学习台灯高端线；立柱上压印品牌名的细节处理参考价值高"
+
+
+  - product_id: "if_台灯_学习_b2_011"
+    source_images: ["47.jpg", "48.jpg", "49.jpg"]
+    name_guess: "BenQ ScreenBar Pro Monitor Clamp Lamp"
+    brand_guess: "BenQ"
+    brand_confidence: "high"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "显示器夹扣线性灯条（宽扁截面），背面有集成小型补光灯，与BenQ ScreenBar初代形态升级版"
+      hero_feature: "灯条截面宽扁（约3cm宽），背面中央集成独立小型LED补光模块朝向用户，兼顾正面桌面照明+背面人脸补光；侧视极薄；49.jpg展示了侧面剖面厚度几乎为零"
+      material_finish: "深灰/太空灰铝合金；背面补光头白色透镜；夹扣背板塑料"
+      proportion_ratio: "灯管总长约为夹扣宽度的5倍；灯管截面高宽比约1:3"
+      innovation_score: 5
+      innovation_note: "在原有显示器灯基础上增加背面人脸补光模块，解决视频通话照明问题；三功能合一（桌面照明+屏幕防反光+人脸补光）；49图的超薄侧剖面展示了工程整合极限"
+
+    arm_structure:
+      type: "无臂，夹扣固定于显示器顶边"
+      joints: 0
+      adjustment: "配重夹扣可微调前后仰角；背面补光头可俯仰"
+      arm_profile: "N/A"
+
+    use_context: "居家办公/视频会议场景，显示器顶置多功能照明"
+    design_method_tags: ["H09隐藏工程", "H07极简整合", "H11功能外显", "H05模块化"]
+    transferability: "背面补光模块集成策略解决了视频通话光源的真实痛点，可迁移至任何工作台灯；超薄侧面剖面控制是工程美学参考案例"
+
+
+  - product_id: "if_台灯_学习_b2_012"
+    source_images: ["50.jpg"]
+    name_guess: "Compact Angled-Arm Lens-Head Desk Lamp — Champagne/Bronze"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "斜臂+圆柱形透镜灯头，底座厚圆盘，双色对比CMF（香槟金+哑黑）"
+      hero_feature: "灯头为圆柱形含正面玻璃透镜，透镜内可见LED点阵；双色分件设计：灯头+臂为香槟金，底座为哑黑，对比强烈；臂短小，形体紧凑"
+      material_finish: "香槟金砂纹铝合金灯头+臂；哑黑铝合金底座；玻璃透镜正面"
+      proportion_ratio: "灯头直径与臂长比约1:2；底座直径与灯头直径比约3:1"
+      innovation_score: 3
+      innovation_note: "透镜外露展示LED光源的工程美学处理；双色对比CMF在学习台灯中较少见；紧凑体量适合小书桌"
+
+    arm_structure:
+      type: "单斜臂，短臂（约45°倾斜）"
+      joints: 1
+      adjustment: "灯头可旋转"
+      arm_profile: "矩形薄臂"
+
+    use_context: "小型书桌/床头柜，追求设计感的用户"
+    design_method_tags: ["H08对比强调", "H10材料表达", "H11功能外显"]
+    transferability: "双色分件对比CMF策略（底座哑黑+灯头金属色）可直接迁移至学习台灯CMF方案；透镜外露处理方式参考价值高"
+
+
+  - product_id: "if_台灯_学习_b2_013"
+    source_images: ["51.jpeg"]
+    name_guess: "Nordic Brass Two-Arm Articulated Reading Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "两段铰接臂+圆碟形灯头，黄铜色+米白，北欧手工感"
+      hero_feature: "灯臂为两段铰接细臂，肘部和头部各有球形铰链，灯头为浅碟形；整体色调黄铜+奶白，有明显北欧手工艺品气质；灯头圆碟顶部有一个细圆环提手"
+      material_finish: "黄铜色金属臂；乳白色圆碟灯头；黑色圆形底座"
+      proportion_ratio: "两段臂各约等长；灯头直径约为臂宽的5倍"
+      innovation_score: 2
+      innovation_note: "北欧手工感设计语言，形态传统但CMF有特色；更偏向装饰台灯，学习照明性能有限"
+
+    arm_structure:
+      type: "两段铰接臂（肩部+肘部铰链）"
+      joints: 2
+      adjustment: "各铰链点可调整角度"
+      arm_profile: "细圆杆"
+
+    use_context: "北欧风格书桌/卧室，装饰性为主"
+    design_method_tags: ["H10材料表达", "H08对比强调"]
+    transferability: "黄铜色+哑黑底座+白灯头的三色CMF组合可迁移至学习台灯北欧风格线；圆碟提环细节参考价值有限"
+
+
+  - product_id: "if_台灯_学习_b2_014"
+    source_images: ["52.jpeg"]
+    name_guess: "Delta Arrow-Head Slim-Arm Desk Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "三角箭头形灯头+折叠细臂，全黑哑光，极简动态感"
+      hero_feature: "灯头呈三角形/箭头状，发光面从三角形底面散出；三段折叠臂收折时体积极小；整体剪影如向前冲刺的箭头，动势强烈"
+      material_finish: "全黑哑光铝合金；灯头内侧白色散光面"
+      proportion_ratio: "三角灯头高宽比约2:3；折叠后整体高度约为灯头高度的3倍"
+      innovation_score: 4
+      innovation_note: "三角箭头灯头轮廓为强记忆点，与市场绝大多数圆形/矩形灯头形成明显差异化；折叠收纳考虑了便携需求"
+
+    arm_structure:
+      type: "三段折叠臂"
+      joints: 2
+      adjustment: "两处铰链关节调整展开高度和灯头角度"
+      arm_profile: "超细矩形截面臂"
+
+    use_context: "学生书桌/宿舍，追求个性化造型的用户"
+    design_method_tags: ["H01减法", "H07极简整合", "H06仿生-箭头动势"]
+    transferability: "三角/箭头形灯头轮廓是突破圆形灯头惯例的有效路径；折叠极薄臂的工程处理方式可参考"
+
+
+  - product_id: "if_台灯_学习_b2_015"
+    source_images: ["53.jpeg", "54.jpeg"]
+    name_guess: "Foldable White LED Bar Lamp with Tapered Base — Collapsible Design"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "线性LED灯头+铰接立柱+锥形底座，可折叠收纳为直筒形态，全白"
+      hero_feature: "灯头为线性LED条，通过肘部铰链折叠与立柱平行，收纳时整体为单一白色直筒；底座为锥形（类似花瓶底），与立柱圆截面一体贯通；触控按钮位于底座前方"
+      material_finish: "全白哑光塑料（含铝内芯）；底座锥形收束；灯头圆角矩形截面"
+      proportion_ratio: "灯头长约为底座高度的2倍；折叠后总高约为展开状态的60%"
+      innovation_score: 3
+      innovation_note: "折叠收纳使台灯可便携携带；锥形底座与圆柱立柱的一体造型语言统一；全白单色CMF整洁"
+
+    arm_structure:
+      type: "单铰接臂（灯头可折叠至与立柱平行）"
+      joints: 1
+      adjustment: "灯头折叠角度（0°收纳到约120°使用）"
+      arm_profile: "圆形截面立柱"
+
+    use_context: "学生宿舍/旅行便携，收纳空间有限场景"
+    design_method_tags: ["H05模块化", "H07极简整合", "H01减法"]
+    transferability: "折叠收纳台灯的形态策略可迁移至学生/便携台灯细分；锥形底座+圆柱立柱的连续曲线处理方式值得借鉴"
+
+
+  - product_id: "if_台灯_学习_b2_016"
+    source_images: ["54.jpg"]
+    name_guess: "Terrazzo-Base Felted Wool Shade Decorative Table Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "学习台灯"
+
+    design_language:
+      form_archetype: "传统灯罩形态，底座为熔岩/水磨石质感透明柱体内嵌光源，灯罩为手工羊毛毡"
+      hero_feature: "底座为圆柱形熔岩石/水磨石质感半透明材质，光从内部透出；灯罩为手工羊毛毡锥形，有明显毛茸茸纤维质感；发光方式为底座透光而非灯头朝下照"
+      material_finish: "水磨石/熔岩质感透明树脂底座；手工羊毛毡灯罩（米白色）；暖黄光从底座侧透"
+      proportion_ratio: "灯罩直径约为底座直径的1.5倍；底座高约为总高的40%"
+      innovation_score: 4
+      innovation_note: "材质组合极为罕见（熔岩石透光体+羊毛毡）；发光体在底座而非灯头的颠覆性处理；强烈的手工艺/自然物料氛围感"
+
+    arm_structure:
+      type: "无臂（底座即发光体，直接支撑灯罩）"
+      joints: 0
+      adjustment: "无"
+      arm_profile: "N/A"
+
+    use_context: "家居装饰场景，艺术感优先，照明功能性为辅"
+    design_method_tags: ["H10材料表达", "H06仿生-自然物料", "H07极简整合"]
+    transferability: "熔岩石/水磨石质感透明材质底座内透光手法可迁移至装饰台灯底座设计；羊毛毡灯罩的织物材质探索参考价值高；注意：此款偏装饰灯，学习照明迁移性有限"

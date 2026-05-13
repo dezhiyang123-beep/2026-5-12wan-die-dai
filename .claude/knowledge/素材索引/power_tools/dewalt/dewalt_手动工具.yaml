@@ -1,0 +1,1584 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "手动工具"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/"
+  generated_at: "2026-05-08"
+
+products:
+  # ─── 棘轮 (34张) ────────────────────────────────────────────────
+
+  - product_id: "dewalt_手动工具_001"
+    source_images:
+      - filename: "手动工具__棘轮__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__01.jpg"
+        image_role: "hero"
+        visual_anchor: "1/4\"驱动棘轮扳手，黄色双色注塑手柄，黑色橡胶包覆握区，金属棘轮头"
+      - filename: "手动工具__棘轮__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__02.jpg"
+        image_role: "hero"
+        visual_anchor: "3/8\"驱动棘轮扳手，同系列黄黑双色手柄，棘轮头稍大"
+      - filename: "手动工具__棘轮__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__03.jpg"
+        image_role: "hero"
+        visual_anchor: "3/8\"棘轮+延长杆+接头套装，黄黑手柄，俯视展开排列"
+      - filename: "手动工具__棘轮__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__04.jpg"
+        image_role: "scene"
+        visual_anchor: "棘轮套装盒装展示，黄色托盘，1/4\"和3/8\"双驱动套装"
+    product_name: "DeWalt DWMT Series 1/4\" & 3/8\" Drive Ratchet Set"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "棘轮扳手"
+    design_language:
+      silhouette: "直柄圆弧收尾，棘轮头与手柄一体成型感强，无明显颈部收窄"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄主体）+ 黑色（橡胶握区/棘轮机构）+ 镀铬银（棘轮头金属件）"
+        material: "工程塑料手柄，铬钒钢棘轮头，TPR橡胶包覆握区"
+        finish: "哑光黄注塑，黑色软胶覆盖"
+      mounting: "1/4\"/3/8\"方驱动接口，72齿棘轮机构"
+      signature_detail: "手柄中部黑色TPR凹槽与黄色壳体交替的视觉节奏，功能分区清晰"
+    design_level:
+      score: 3
+      reason: "黄黑双色系统统一，握持感强调设计到位，但整体形态保守"
+    design_tags:
+      - "棘轮"
+      - "手动工具"
+      - "黄黑双色"
+      - "H03_分件线设计"
+    hero_feature: "黄色手柄上黑色TPR握区的三段式节奏，一眼识别品牌"
+    problem_solved: "无需反复换位，72齿细密棘轮适应狭窄空间快速操作"
+    transferable_technique: "功能区与握持区双色分离，材质软硬对比强化握持信心"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_002"
+    source_images:
+      - filename: "手动工具__棘轮__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__05.jpg"
+        image_role: "hero"
+        visual_anchor: "1/2\"驱动棘轮，黄黑双色手柄，棘轮头更大更厚，正面DEWALT标识"
+      - filename: "手动工具__棘轮__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__06.jpg"
+        image_role: "hero"
+        visual_anchor: "1/2\"棘轮+接头+延长杆侧面视角，手柄比1/4\"明显更粗"
+    product_name: "DeWalt DWMT Series 1/2\" Drive Ratchet"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "棘轮扳手"
+    design_language:
+      silhouette: "与001同平台但比例更大，棘轮头占比增大，手柄相应加粗加长"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄）+ 黑色（TPR握区）+ 铬银（棘轮头）"
+        material: "工程塑料，铬钒钢，TPR"
+        finish: "哑光黄，软胶黑"
+      mounting: "1/2\"方驱动，72齿"
+      signature_detail: "棘轮头体量加大，与001形成明确的规格视觉区分"
+    design_level:
+      score: 3
+      reason: "与001同设计语言，体量放大执行一致"
+    design_tags:
+      - "棘轮"
+      - "1/2驱动"
+      - "黄黑双色"
+    hero_feature: "更大的棘轮头与加粗手柄传递出重型扭矩感"
+    problem_solved: "大扭矩场景，1/2\"驱动覆盖汽车维修级紧固件"
+    transferable_technique: "相同设计语言通过比例缩放覆盖不同规格，系统视觉统一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_003"
+    source_images:
+      - filename: "手动工具__棘轮__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__07.jpg"
+        image_role: "hero"
+        visual_anchor: "弯头/柔性头棘轮，黄黑手柄，棘轮头可旋转弯折，侧面视角显示弯折关节"
+      - filename: "手动工具__棘轮__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__08.jpg"
+        image_role: "hero"
+        visual_anchor: "弯头棘轮3/8\"版，正面视角，关节处有DeWalt标识铭牌"
+    product_name: "DeWalt Flex-Head Ratchet"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "棘轮扳手"
+    design_language:
+      silhouette: "在直柄基础上增加可旋转关节，头部可弯折0-180°，关节处形成明显过渡段"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄）+ 黑色（TPR/关节保护）+ 铬银（棘轮机构）"
+        material: "工程塑料，钢质关节，铬钒钢棘轮头"
+        finish: "哑光黄，关节部分黑色"
+      mounting: "3/8\"方驱动，弯折关节铰接机构"
+      signature_detail: "手柄与头部的弯折关节是结构与视觉的核心，黑色关节套环强化过渡感"
+    design_level:
+      score: 3
+      reason: "弯头功能增加使用场景，视觉上关节处理还算干净"
+    design_tags:
+      - "弯头棘轮"
+      - "柔性头"
+      - "H05_模块化设计"
+    hero_feature: "可旋转弯折的棘轮头，适应多角度拧紧场景"
+    problem_solved: "障碍物后方的紧固件操作，弯头避免直接对准的限制"
+    transferable_technique: "关节结构引入作为功能扩展点，通过颜色标注关节区分功能段"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_004"
+    source_images:
+      - filename: "手动工具__棘轮__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__09.jpg"
+        image_role: "hero"
+        visual_anchor: "超短柄棘轮（Stubby），黄黑手柄极短，棘轮头与手柄比约1:1.5"
+      - filename: "手动工具__棘轮__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__10.jpg"
+        image_role: "hero"
+        visual_anchor: "超短柄棘轮俯视，棘轮头朝上，整体轮廓极紧凑"
+    product_name: "DeWalt Stubby Ratchet"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "棘轮扳手"
+    design_language:
+      silhouette: "手柄长度缩至最短，棘轮头与手柄视觉比例接近1:1.5，整体呈方块感"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄）+ 黑色（TPR）+ 铬银（棘轮头）"
+        material: "工程塑料，TPR，铬钒钢"
+        finish: "哑光黄，软胶黑"
+      mounting: "3/8\"方驱动，极短手柄"
+      signature_detail: "超短手柄让棘轮头比例异常放大，视觉上头重脚轻，传达极限空间适应性"
+    design_level:
+      score: 3
+      reason: "比例独特有记忆点，功能目的明确，但审美层面无突破"
+    design_tags:
+      - "超短柄"
+      - "紧凑型"
+      - "狭小空间"
+    hero_feature: "超短手柄与大棘轮头的极端比例，一眼传递狭空间工具定位"
+    problem_solved: "超低净空间隙内的紧固件操作，标准长度棘轮无法进入的场景"
+    transferable_technique: "极端比例压缩强化特定功能定位的视觉传达"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_005"
+    source_images:
+      - filename: "手动工具__棘轮__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__11.jpg"
+        image_role: "hero"
+        visual_anchor: "DWMT72165镜面抛光水滴形棘轮，全铬银金属手柄，水滴轮廓侧面视角"
+      - filename: "手动工具__棘轮__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__12.jpg"
+        image_role: "hero"
+        visual_anchor: "DWMT72165正面，全铬镜面，棘轮头圆形拨片清晰可见"
+      - filename: "手动工具__棘轮__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__13.jpg"
+        image_role: "hero"
+        visual_anchor: "DWMT72168 1/2\"驱动版同系列，水滴形，铬银，手柄略粗"
+      - filename: "手动工具__棘轮__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__14.jpg"
+        image_role: "hero"
+        visual_anchor: "水滴棘轮系列套装展示，三把并排，尺寸递进"
+    product_name: "DeWalt DWMT72165/72168 Teardrop Ratchet (Chrome)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "棘轮扳手"
+    design_language:
+      silhouette: "经典水滴形（Teardrop）轮廓，棘轮头从宽圆润滑过渡收窄至手柄尾端，专业级优雅"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "全铬银（镜面抛光）"
+        material: "铬钒钢一体成型，镜面抛光处理"
+        finish: "镜面铬，高光金属质感"
+      mounting: "3/8\"/1/2\"方驱动，84齿精密棘轮"
+      signature_detail: "全金属水滴形轮廓+镜面铬，与黄黑系列形成极强的产品线视觉分层"
+    design_level:
+      score: 4
+      reason: "水滴形是手工具设计的经典美学，镜面铬处理精致，比例优美，是DeWalt手工具中设计分值最高的一类"
+    design_tags:
+      - "水滴形"
+      - "镜面铬"
+      - "专业级"
+      - "H10_材料表达"
+    hero_feature: "水滴形全铬镜面，在DeWalt黄黑系列中形成高端视觉突破"
+    problem_solved: "专业技师工具箱的高端配置，84齿精密棘轮适应更精确扭矩控制"
+    transferable_technique: "水滴形（宽→窄渐变轮廓）作为手工具经典美学形态，全金属处理强化专业感知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_006"
+    source_images:
+      - filename: "手动工具__棘轮__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__15.jpg"
+        image_role: "hero"
+        visual_anchor: "长柄棘轮扳手，黄黑手柄延长版，手柄明显比标准款长约30%"
+      - filename: "手动工具__棘轮__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__16.jpg"
+        image_role: "hero"
+        visual_anchor: "长柄棘轮侧面，棘轮头与延长手柄的比例，尾端防滑端盖"
+    product_name: "DeWalt Long Handle Ratchet"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "棘轮扳手"
+    design_language:
+      silhouette: "手柄延长，增加力臂，棘轮头相对手柄比例更小，整体呈细长感"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄）+ 黑色（TPR）+ 铬银（棘轮头）"
+        material: "工程塑料，TPR，铬钒钢"
+        finish: "哑光黄，软胶黑"
+      mounting: "3/8\"方驱动，标准72齿"
+      signature_detail: "加长手柄提供更大力臂，尾端加重/防滑端盖明确尾部"
+    design_level:
+      score: 3
+      reason: "功能逻辑清晰，设计执行标准"
+    design_tags:
+      - "长柄"
+      - "大力臂"
+    hero_feature: "加长手柄在黄黑系列中形成明确的规格差异化"
+    problem_solved: "需要更大扭矩的紧固件，长手柄省力效果更明显"
+    transferable_technique: "长度变化作为功能区分的主要视觉信号"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_007"
+    source_images:
+      - filename: "手动工具__棘轮__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__17.jpg"
+        image_role: "hero"
+        visual_anchor: "快速释放按钮棘轮，黄黑手柄，棘轮头侧面可见金属释放按钮"
+      - filename: "手动工具__棘轮__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__18.jpg"
+        image_role: "hero"
+        visual_anchor: "快速释放棘轮套装，含多个接头，黄色托盘排列"
+    product_name: "DeWalt Quick-Release Ratchet Set"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "棘轮扳手"
+    design_language:
+      silhouette: "与标准款同轮廓，棘轮头侧面增加突出的金属释放按钮"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄）+ 黑色（TPR）+ 铬银（棘轮头+释放按钮）"
+        material: "工程塑料，TPR，钢质按钮"
+        finish: "哑光黄，软胶黑，铬银按钮"
+      mounting: "3/8\"方驱动，快速释放机构"
+      signature_detail: "棘轮头侧面的圆形金属释放按钮，功能外显设计"
+    design_level:
+      score: 3
+      reason: "快释放按钮是功能亮点，视觉处理干净"
+    design_tags:
+      - "快速释放"
+      - "H11_功能外显"
+    hero_feature: "棘轮头侧面突出的金属释放按钮，单手换套筒"
+    problem_solved: "单手快速更换套筒，提升作业效率"
+    transferable_technique: "将关键功能操作件外显化，视觉上预告其使用方式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_008"
+    source_images:
+      - filename: "手动工具__棘轮__19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__19.jpg"
+        image_role: "scene"
+        visual_anchor: "棘轮+套筒完整套装展示，黄色模塑托盘，多颗套筒排列整齐"
+      - filename: "手动工具__棘轮__20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__20.jpg"
+        image_role: "scene"
+        visual_anchor: "棘轮套装盒装正面，黄色外包装印有DeWalt标识和套装件数"
+      - filename: "手动工具__棘轮__21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__21.jpg"
+        image_role: "scene"
+        visual_anchor: "大型综合套装，含棘轮+扳手+套筒，黄色托盘展开视角"
+      - filename: "手动工具__棘轮__22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__22.jpg"
+        image_role: "scene"
+        visual_anchor: "套装组合全家福，多件并排，尺寸从小到大递进"
+      - filename: "手动工具__棘轮__23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__23.jpg"
+        image_role: "scene"
+        visual_anchor: "棘轮套装含公英制套筒，黄色托盘，套筒两排整齐排列"
+      - filename: "手动工具__棘轮__24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__24.jpg"
+        image_role: "scene"
+        visual_anchor: "套装展示角度变化，侧45°视角，托盘立体感"
+      - filename: "手动工具__棘轮__25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__25.jpg"
+        image_role: "scene"
+        visual_anchor: "小型套装（20件以下），紧凑托盘，便携定位"
+      - filename: "手动工具__棘轮__26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__26.jpg"
+        image_role: "scene"
+        visual_anchor: "中型套装，含3/8\"棘轮+全套公制套筒"
+      - filename: "手动工具__棘轮__27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__27.jpg"
+        image_role: "scene"
+        visual_anchor: "大型套装，含1/4\"+3/8\"+1/2\"三驱动，配件丰富"
+      - filename: "手动工具__棘轮__28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__28.jpg"
+        image_role: "scene"
+        visual_anchor: "套装使用场景，手持棘轮操作中，背景模糊"
+      - filename: "手动工具__棘轮__29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__29.jpg"
+        image_role: "scene"
+        visual_anchor: "棘轮套装托盘从抽屉取出场景，配合工具车使用"
+      - filename: "手动工具__棘轮__30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__30.jpg"
+        image_role: "scene"
+        visual_anchor: "套装包装盒展示，多盒叠放，渠道销售陈列场景"
+      - filename: "手动工具__棘轮__31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__31.jpg"
+        image_role: "scene"
+        visual_anchor: "机械师套装（200+件），大型黄色托盘，全系列覆盖"
+      - filename: "手动工具__棘轮__32.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__32.jpg"
+        image_role: "scene"
+        visual_anchor: "套装托盘俯视全景，黄色托盘+银色套筒阵列视觉"
+      - filename: "手动工具__棘轮__33.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__33.jpg"
+        image_role: "scene"
+        visual_anchor: "套装外包装盒正面，黄色底印花，DeWalt大字Logo"
+      - filename: "手动工具__棘轮__34.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__棘轮__34.jpg"
+        image_role: "scene"
+        visual_anchor: "综合套装全家族俯视，多种套筒+棘轮整齐排列，黄色托盘满布"
+    product_name: "DeWalt Mechanics Tool Set (Socket & Ratchet Sets)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "棘轮套装"
+    design_language:
+      silhouette: "套装托盘为黄色模塑塑料，套筒铬银色整齐阵列，视觉满足感强"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（托盘）+ 铬银（套筒/棘轮）+ 黑色（文字/尺寸标注）"
+        material: "ABS模塑托盘，铬钒钢套筒"
+        finish: "黄色ABS，镜面铬套筒"
+      mounting: "托盘卡槽固定，套筒按尺寸顺序排列"
+      signature_detail: "黄色托盘+银色套筒阵列的视觉对比，DeWalt品牌色系延伸至包装"
+    design_level:
+      score: 3
+      reason: "黄色托盘品牌识别强，排列整齐有满足感，但本质是常规套装包装"
+    design_tags:
+      - "套装"
+      - "托盘系统"
+      - "H05_模块化设计"
+    hero_feature: "黄色模塑托盘+铬银套筒阵列，打开即有品牌冲击力"
+    problem_solved: "完整机械师工具包，避免单件购买，收纳整洁"
+    transferable_technique: "品牌色托盘作为套装包装设计语言，黄色即开即识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 活动扳手 (6张) ────────────────────────────────────────────
+
+  - product_id: "dewalt_手动工具_009"
+    source_images:
+      - filename: "手动工具__活动扳手__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__活动扳手__01.jpg"
+        image_role: "hero"
+        visual_anchor: "全磷化黑色活动扳手，蜗轮调节，黑色手柄，PERFORM&PROTECT系列全黑"
+      - filename: "手动工具__活动扳手__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__活动扳手__02.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑活动扳手大号版，比01更长，同全黑设计语言"
+      - filename: "手动工具__活动扳手__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__活动扳手__03.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑活动扳手三件套并排，6\"/8\"/10\"尺寸递进，PERFORM&PROTECT全黑系列"
+    product_name: "DeWalt PERFORM & PROTECT Adjustable Wrench Set (All-Black)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "活动扳手"
+    design_language:
+      silhouette: "经典活动扳手侧面轮廓，颈部收窄后展开为扳手头，全身磷化处理无亮色"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "全哑光黑（磷化处理）"
+        material: "铬钒钢，磷化表面处理"
+        finish: "磷化哑光黑，防锈耐磨"
+      mounting: "蜗轮调节活动下颚，开口可调"
+      signature_detail: "全黑磷化处理，在DeWalt黄黑系列中形成强烈反差，隐藏品牌标识增加专业感"
+    design_level:
+      score: 4
+      reason: "全黑处理打破DeWalt黄色惯例，哑光质感专业感强，磷化处理有手工具中的高端感"
+    design_tags:
+      - "全黑"
+      - "磷化"
+      - "PERFORM&PROTECT"
+      - "H10_材料表达"
+    hero_feature: "全哑光磷化黑，在DeWalt黄黑世界中极具视觉冲击力"
+    problem_solved: "专业场合使用的活动扳手，磷化防锈延长使用寿命"
+    transferable_technique: "全色系统一（单色）作为产品线区分策略，颠覆品牌惯用色的反向操作"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_010"
+    source_images:
+      - filename: "手动工具__活动扳手__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__活动扳手__04.jpg"
+        image_role: "hero"
+        visual_anchor: "标准黄柄活动扳手，黄色手柄+黑色软胶覆盖握区，铬银扳手头"
+      - filename: "手动工具__活动扳手__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__活动扳手__05.jpg"
+        image_role: "hero"
+        visual_anchor: "黄柄活动扳手大号，同系列，手柄更长，比例更修长"
+      - filename: "手动工具__活动扳手__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__活动扳手__06.jpg"
+        image_role: "hero"
+        visual_anchor: "黄柄活动扳手套装，三件并排，黄黑双色清晰，铬银头部"
+    product_name: "DeWalt Adjustable Wrench Set (Yellow Handle)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "活动扳手"
+    design_language:
+      silhouette: "标准活动扳手侧面轮廓，手柄区有黑色TPR软胶包覆"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄主体）+ 黑色（TPR软胶）+ 铬银（扳手头金属）"
+        material: "铬钒钢扳手头，工程塑料/TPR手柄"
+        finish: "哑光黄，软胶黑，铬银"
+      mounting: "蜗轮调节活动下颚"
+      signature_detail: "黄色手柄+铬银扳手头的经典DeWalt双色对比，品牌辨识度高"
+    design_level:
+      score: 3
+      reason: "标准DeWalt手工具设计语言，执行到位但无亮点"
+    design_tags:
+      - "活动扳手"
+      - "黄黑双色"
+    hero_feature: "黄色手柄+铬银扳手头对比，品牌色强力表达"
+    problem_solved: "万能扳手，一把覆盖多种螺栓规格"
+    transferable_technique: "材质对比+颜色对比双重加强品牌辨识"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 组合扳手 (18张) ──────────────────────────────────────────
+
+  - product_id: "dewalt_手动工具_011"
+    source_images:
+      - filename: "手动工具__组合扳手__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__组合扳手__01.jpg"
+        image_role: "hero"
+        visual_anchor: "组合扳手单件，一端梅花一端开口，全铬银，DEWALT打印，细长直身"
+      - filename: "手动工具__组合扳手__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__组合扳手__02.jpg"
+        image_role: "hero"
+        visual_anchor: "组合扳手不同规格并排，从小到大尺寸递进，全铬银系列"
+      - filename: "手动工具__组合扳手__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__组合扳手__03.jpg"
+        image_role: "hero"
+        visual_anchor: "组合扳手套装（10件），放射状排列，展示套装完整性"
+      - filename: "手动工具__组合扳手__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__组合扳手__04.jpg"
+        image_role: "scene"
+        visual_anchor: "组合扳手套装盒装，黄色外包装，DeWalt标识"
+    product_name: "DeWalt Combination Wrench Set (Metric & SAE)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "组合扳手"
+    design_language:
+      silhouette: "标准组合扳手（梅花+开口两用）侧面，细长直身，两端各有功能头部"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "全铬银（镜面抛光）"
+        material: "铬钒钢"
+        finish: "镜面铬抛光，符合行业标准"
+      mounting: "一端梅花环（12点或6点）一端开口"
+      signature_detail: "DeWalt标识激光蚀刻于扳手颈部，全铬专业外观"
+    design_level:
+      score: 3
+      reason: "组合扳手是标准化商品，设计差异化空间极小，DeWalt在铬处理和标识上执行标准"
+    design_tags:
+      - "组合扳手"
+      - "铬钒钢"
+      - "公英制"
+      - "套装"
+    hero_feature: "全套规格齐全，铬钒钢镜面处理，专业套装陈列"
+    problem_solved: "覆盖最常用螺栓规格，梅花+开口两用提升效率"
+    transferable_technique: "套装放射状排列视觉展示策略，传达完整系统感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 羊角锤 (11张) ───────────────────────────────────────────
+
+  - product_id: "dewalt_手动工具_012"
+    source_images:
+      - filename: "手动工具__羊角锤__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__羊角锤__01.jpg"
+        image_role: "hero"
+        visual_anchor: "标准弯爪羊角锤，黄黑双色玻纤手柄，铬钒钢锤头，16oz，侧面视角"
+      - filename: "手动工具__羊角锤__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__羊角锤__02.jpg"
+        image_role: "hero"
+        visual_anchor: "弯爪羊角锤20oz版，比01稍大，同黄黑系列，锤头更重"
+    product_name: "DeWalt Curved Claw Hammer (16oz/20oz)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "羊角锤"
+    design_language:
+      silhouette: "经典羊角锤侧面：锤头顶端弧形弯爪+平击打面，颈部圆弧收窄至直柄手柄"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄主体）+ 黑色（TPR握区+弧形覆盖）+ 铬银（钢锤头）"
+        material: "铬钒钢锤头，玻璃纤维手柄，TPR软胶"
+        finish: "哑光黄，软胶黑，钢本色"
+      mounting: "锤头与柄一体成型（玻纤穿透锤孔固定），防脱落设计"
+      signature_detail: "手柄上黑色防震TPR包覆区的造型切割线，与羊角锤经典轮廓结合"
+    design_level:
+      score: 3
+      reason: "DeWalt手锤设计语言标准执行，玻纤手柄防震是品质亮点"
+    design_tags:
+      - "弯爪"
+      - "羊角锤"
+      - "玻纤手柄"
+      - "防震"
+    hero_feature: "黄色玻纤手柄+黑色TPR握区的两段式组合"
+    problem_solved: "通用敲钉拔钉，弯爪方便拔除弯钉"
+    transferable_technique: "玻纤手柄使黄色可以一直延伸到锤头颈部，比木柄握区更长的品牌色表达"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_013"
+    source_images:
+      - filename: "手动工具__羊角锤__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__羊角锤__03.jpg"
+        image_role: "hero"
+        visual_anchor: "直爪（撬爪）羊角锤，黄黑手柄，直爪末端尖锐，适合撬板拔钉"
+      - filename: "手动工具__羊角锤__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__羊角锤__04.jpg"
+        image_role: "hero"
+        visual_anchor: "直爪羊角锤20oz，同系列，锤头比03更大更重"
+    product_name: "DeWalt Rip Claw Hammer (Straight Claw)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "羊角锤"
+    design_language:
+      silhouette: "与弯爪款相似但爪子改为直线型，爪末端分叉更锐利，整体轮廓更硬朗"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄）+ 黑色（TPR）+ 铬银（钢锤头）"
+        material: "铬钒钢，玻纤手柄，TPR"
+        finish: "同弯爪款"
+      mounting: "锤头固定于玻纤柄顶，直爪设计"
+      signature_detail: "直爪比弯爪更视觉锋利，传达更强的撬力感"
+    design_level:
+      score: 3
+      reason: "与弯爪款同平台执行，直爪轮廓更具攻击性视觉"
+    design_tags:
+      - "直爪"
+      - "撬爪锤"
+      - "木工"
+    hero_feature: "直爪尖锐轮廓比弯爪更具撬动力量感"
+    problem_solved: "大力撬开木板和模板，直爪提供更大杠杆力"
+    transferable_technique: "爪形变化（弯/直）作为功能差异化的视觉信号"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_014"
+    source_images:
+      - filename: "手动工具__羊角锤__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__羊角锤__05.jpg"
+        image_role: "hero"
+        visual_anchor: "TOUGH SERIES羊角锤，全黑锤头+黑色手柄，仅爪尖和DeWalt标签为黄色"
+      - filename: "手动工具__羊角锤__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__羊角锤__06.jpg"
+        image_role: "hero"
+        visual_anchor: "TOUGH SERIES大号版，同全黑设计，28oz重锤，手柄更长"
+      - filename: "手动工具__羊角锤__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__羊角锤__07.jpg"
+        image_role: "hero"
+        visual_anchor: "TOUGH SERIES三件套并排，16/20/28oz尺寸递进，全黑系列"
+    product_name: "DeWalt TOUGH SERIES Hammer (All-Black, 16/20/28oz)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "羊角锤"
+    design_language:
+      silhouette: "与标准款同轮廓，但锤头和手柄均采用全黑处理，品牌标签黄色作为唯一点缀"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "全哑光黑（锤头+手柄）+ 黄色（DeWalt铭牌标签）"
+        material: "锻钢锤头（黑色磷化），玻纤手柄（黑色），TPR握区"
+        finish: "哑光黑磷化，黑色消光"
+      mounting: "锤头与柄一体成型玻纤结构"
+      signature_detail: "全黑背景上黄色DeWalt标签极为突出，形成品牌识别的强烈对比"
+    design_level:
+      score: 4
+      reason: "全黑处理有力量感和高端感，黄色标签的点睛效果极佳，三件套尺寸递进设计完整"
+    design_tags:
+      - "TOUGH SERIES"
+      - "全黑"
+      - "重型"
+      - "H08_对比强调"
+    hero_feature: "全黑磷化锤头+黑手柄，唯一的黄色DeWalt铭牌形成极强视觉焦点"
+    problem_solved: "重型施工场景（框架木工），多规格覆盖轻/中/重锤需求"
+    transferable_technique: "大面积全黑衬托小面积品牌黄，视觉层级清晰（H08对比强调的点睛应用）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_015"
+    source_images:
+      - filename: "手动工具__羊角锤__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__羊角锤__08.jpg"
+        image_role: "hero"
+        visual_anchor: "抹灰锤（Mason's Hammer），方形锤头+平背，黄黑手柄，无弯爪"
+      - filename: "手动工具__羊角锤__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__羊角锤__09.jpg"
+        image_role: "hero"
+        visual_anchor: "电工锤（Electrician's Hammer），长颈细柄，尖锥形背端，黄黑手柄"
+    product_name: "DeWalt Specialty Hammers (Mason's / Electrician's)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "专用锤"
+    design_language:
+      silhouette: "锤头形状根据用途定制：抹灰锤方形对称，电工锤细长颈+尖锥背端"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄）+ 黑色（TPR）+ 铬银（钢锤头）"
+        material: "铬钒钢锤头，玻纤/钢手柄，TPR"
+        finish: "哑光黄，钢本色/磷化"
+      mounting: "锤头固定"
+      signature_detail: "不同的锤头形态直白传达用途，无需额外说明"
+    design_level:
+      score: 3
+      reason: "专业锤头形态设计直白功能，DeWalt黄黑语言统一"
+    design_tags:
+      - "专用锤"
+      - "抹灰锤"
+      - "电工锤"
+      - "H11_功能外显"
+    hero_feature: "锤头形态即功能说明书，无需标签识别用途"
+    problem_solved: "专业工种需要的特定锤头形态"
+    transferable_technique: "工具头形态作为功能的直接视觉编码"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_016"
+    source_images:
+      - filename: "手动工具__羊角锤__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__羊角锤__10.jpg"
+        image_role: "hero"
+        visual_anchor: "钢柄羊角锤，一体锻造钢柄，橡胶把手，无玻纤"
+      - filename: "手动工具__羊角锤__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__羊角锤__11.jpg"
+        image_role: "hero"
+        visual_anchor: "钢柄锤系列两款并排，弯爪+直爪各一，全钢构造"
+    product_name: "DeWalt Steel Handle Hammer"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "羊角锤"
+    design_language:
+      silhouette: "锤头与手柄为一体锻造，无颈部分件，整体更粗壮"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "银灰色（钢柄）+ 黑色（橡胶把手）"
+        material: "一体锻造钢，橡胶把手套"
+        finish: "钢本色，橡胶软胶"
+      mounting: "一体锻造，无脱落风险"
+      signature_detail: "一体锻造结构，无接缝无拼接，视觉上整体感极强"
+    design_level:
+      score: 3
+      reason: "一体锻造有工业感，但缺乏DeWalt品牌色彩特征"
+    design_tags:
+      - "一体锻造"
+      - "钢柄"
+      - "H01_减法设计"
+    hero_feature: "锤头到手柄一体成型，无接缝无拼接点"
+    problem_solved: "极端使用场景，无脱落风险的绝对可靠性"
+    transferable_technique: "一体成型消除所有拼接感，传达工具最原始的可靠性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 螺丝刀 (18张) ───────────────────────────────────────────
+
+  - product_id: "dewalt_手动工具_017"
+    source_images:
+      - filename: "手动工具__螺丝刀__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__01.jpg"
+        image_role: "hero"
+        visual_anchor: "六角杆螺母起子（Nut Driver），黄色T形手柄，六角钢杆，多种规格并排"
+      - filename: "手动工具__螺丝刀__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__02.jpg"
+        image_role: "hero"
+        visual_anchor: "螺母起子单件，黄黑双色圆柱手柄，3/8\"六角头，DeWalt标识"
+      - filename: "手动工具__螺丝刀__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__03.jpg"
+        image_role: "hero"
+        visual_anchor: "螺母起子套装（6件），黄色海绵托盘，规格从小到大排列"
+      - filename: "手动工具__螺丝刀__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__04.jpg"
+        image_role: "hero"
+        visual_anchor: "磁性螺母起子，黄色磁头端特写，磁力吸附演示"
+    product_name: "DeWalt Nut Driver Set"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "螺母起子"
+    design_language:
+      silhouette: "圆柱形手柄（直径约32mm），六角钢杆从手柄端伸出，整体纺锤形握持感"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄主体）+ 黑色（尾端/DeWalt标识区域）+ 银色（钢杆）"
+        material: "工程塑料手柄，铬钒钢六角杆"
+        finish: "哑光黄，钢本色"
+      mounting: "六角驱动头，可接各种六角螺母"
+      signature_detail: "粗圆柱手柄与细六角杆的体量对比，传达高扭矩手动驱动感"
+    design_level:
+      score: 3
+      reason: "手柄比例设计合理，黄黑系统延续"
+    design_tags:
+      - "螺母起子"
+      - "六角驱动"
+      - "套装"
+    hero_feature: "大直径圆柱手柄提供高扭矩操作感知"
+    problem_solved: "手动驱动六角螺母，大手柄面积增加力矩"
+    transferable_technique: "粗手柄+细工作端的比例对比强化扭矩感知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_018"
+    source_images:
+      - filename: "手动工具__螺丝刀__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__05.jpg"
+        image_role: "hero"
+        visual_anchor: "螺丝刀位套装，黄色圆形旋转手柄，多种批头套装，十字+一字+星形"
+      - filename: "手动工具__螺丝刀__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__06.jpg"
+        image_role: "hero"
+        visual_anchor: "螺丝批套装，黄黑手柄，批头端六角接口，可换头设计"
+      - filename: "手动工具__螺丝刀__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__07.jpg"
+        image_role: "hero"
+        visual_anchor: "批头套装（30件），黑色塑料存储盒，批头整齐插放"
+      - filename: "手动工具__螺丝刀__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__08.jpg"
+        image_role: "hero"
+        visual_anchor: "磁性批头套装，批头六角接口特写，磁性尖端可见"
+      - filename: "手动工具__螺丝刀__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__09.jpg"
+        image_role: "hero"
+        visual_anchor: "批头套装配件展开，十字/一字/星形/方头多种批头"
+      - filename: "手动工具__螺丝刀__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__10.jpg"
+        image_role: "hero"
+        visual_anchor: "批头+手柄套装组合，手柄可拆换批头，套装并排展示"
+    product_name: "DeWalt Screwdriver Bit Set"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "螺丝批头"
+    design_language:
+      silhouette: "手柄为圆柱或T形，批头细杆从端部伸出；批头本身为六角截面短柱"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄）+ 黑色（套装盒）+ 银色（批头钢）"
+        material: "S2工具钢批头，工程塑料存储盒"
+        finish: "黑色氧化批头，黄色塑料盒"
+      mounting: "1/4\"六角接口，通用换头系统"
+      signature_detail: "批头套装盒的紧凑排列，每个批头有对应插孔的满足感"
+    design_level:
+      score: 3
+      reason: "批头是高度标准化产品，套装盒设计中规中矩"
+    design_tags:
+      - "批头套装"
+      - "六角接口"
+      - "H05_模块化设计"
+    hero_feature: "1/4\"六角通用接口的模块化批头系统"
+    problem_solved: "覆盖全部常见螺丝头型，换头快速"
+    transferable_technique: "模块化插拔系统的视觉呈现（套装展开显示系统完整性）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_019"
+    source_images:
+      - filename: "手动工具__螺丝刀__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__11.jpg"
+        image_role: "hero"
+        visual_anchor: "手动螺丝刀套装，黄黑双色手柄，多把不同规格，十字和一字"
+      - filename: "手动工具__螺丝刀__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__12.jpg"
+        image_role: "hero"
+        visual_anchor: "单把螺丝刀，黄黑手柄，细钢杆，正面DeWalt标识"
+      - filename: "手动工具__螺丝刀__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__13.jpg"
+        image_role: "hero"
+        visual_anchor: "6件手动螺丝刀套装，黄色托盘排列，十字1/2+一字1/2+特殊头型"
+      - filename: "手动工具__螺丝刀__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__14.jpg"
+        image_role: "hero"
+        visual_anchor: "螺丝刀手柄特写，黄色主体+黑色TPR包覆三段，顶部圆形旋钮清晰"
+      - filename: "手动工具__螺丝刀__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__15.jpg"
+        image_role: "hero"
+        visual_anchor: "螺丝刀头型特写，磁性十字头（PH2），六角钢杆接口"
+      - filename: "手动工具__螺丝刀__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__16.jpg"
+        image_role: "hero"
+        visual_anchor: "螺丝刀套装外包装，黄色吸卡包装，透明窗口显示产品"
+      - filename: "手动工具__螺丝刀__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__17.jpg"
+        image_role: "hero"
+        visual_anchor: "大型螺丝刀套装（10件+），黄色托盘，规格从短到长排列"
+      - filename: "手动工具__螺丝刀__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__螺丝刀__18.jpg"
+        image_role: "hero"
+        visual_anchor: "螺丝刀使用场景，拧螺丝动作，手持特写，背景模糊"
+    product_name: "DeWalt Screwdriver Set (Manual)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "手动螺丝刀"
+    design_language:
+      silhouette: "三段式手柄：顶端圆形旋钮（单手旋转）+中段椭圆截面主握区+底端过渡到钢杆"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（手柄主体）+ 黑色（TPR三点包覆）"
+        material: "工程塑料手柄，S2工具钢杆，TPR"
+        finish: "哑光黄，软胶黑"
+      mounting: "一体成型手柄+钢杆，固定头型或可换头"
+      signature_detail: "顶端圆形旋钮使单手加速旋转成为可能，功能外显于形态"
+    design_level:
+      score: 3
+      reason: "三段式手柄设计人机工程到位，黄黑系统统一"
+    design_tags:
+      - "手动螺丝刀"
+      - "三段手柄"
+      - "顶端旋钮"
+      - "H12_人机界面强化"
+    hero_feature: "顶端圆形旋钮+椭圆握区的手柄功能区分设计"
+    problem_solved: "手动紧固螺丝，顶部旋钮实现快速旋转"
+    transferable_technique: "手柄顶端旋钮的功能外显，单手旋转能力通过形态预告"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 订枪 (5张) ──────────────────────────────────────────────
+
+  - product_id: "dewalt_手动工具_020"
+    source_images:
+      - filename: "手动工具__订枪__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__订枪__01.jpg"
+        image_role: "hero"
+        visual_anchor: "锤击式订枪（Hammer Tacker），黄色矩形主体，顶部击打面，手柄握把"
+      - filename: "手动工具__订枪__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__订枪__02.jpg"
+        image_role: "hero"
+        visual_anchor: "锤击订枪侧面，弧形底部出钉口，黄色塑料机身，简洁盒形轮廓"
+      - filename: "手动工具__订枪__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__订枪__03.jpg"
+        image_role: "hero"
+        visual_anchor: "锤击订枪顶部视角，击打面为橡胶防滑，DeWalt标识"
+    product_name: "DeWalt Hammer Tacker"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "锤击订枪"
+    design_language:
+      silhouette: "扁平矩形盒形主体，顶部有击打运动空间，底部出钉口，手柄从侧面延伸"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（机身主体）+ 黑色（手柄/握区）"
+        material: "工程塑料机身，橡胶击打面"
+        finish: "哑光黄，黑色橡胶"
+      mounting: "底部装订，锤击触发送钉"
+      signature_detail: "盒形机身底部弧形出钉口，功能直白"
+    design_level:
+      score: 2
+      reason: "简单工具，设计中规中矩"
+    design_tags:
+      - "锤击订枪"
+      - "订枪"
+    hero_feature: "扁平盒形，挥动即出钉，操作动作即形态逻辑"
+    problem_solved: "快速钉防水布/隔热棉等软材料，无需扣扳机"
+    transferable_technique: "工具动作与形态的一致性（挥击→盒形→底部出钉）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_021"
+    source_images:
+      - filename: "手动工具__订枪__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__订枪__04.jpg"
+        image_role: "hero"
+        visual_anchor: "扳机式订枪，黄色枪形机身，黑色扳机，侧面进钉仓"
+      - filename: "手动工具__订枪__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__订枪__05.jpg"
+        image_role: "hero"
+        visual_anchor: "扳机订枪侧面，黄黑枪形，导轨式进钉仓，DeWalt标识"
+    product_name: "DeWalt Heavy Duty Staple Gun (Trigger)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "扳机订枪"
+    design_language:
+      silhouette: "枪形主体（与电钻形态相似），底部进钉仓水平伸出，扳机居中"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（机身）+ 黑色（扳机/握把）"
+        material: "金属+工程塑料混合机身"
+        finish: "哑光黄，黑色"
+      mounting: "侧面或底部装钉仓，扳机触发"
+      signature_detail: "枪形机身在手动工具中传达电动工具的家族感"
+    design_level:
+      score: 3
+      reason: "枪形造型与DeWalt电动工具家族有形态呼应"
+    design_tags:
+      - "扳机订枪"
+      - "枪形"
+      - "H03_分件线设计"
+    hero_feature: "枪形机身设计，与DeWalt电钻形态家族呼应"
+    problem_solved: "精准定点装订，扳机控制比锤击更精确"
+    transferable_technique: "手动工具采用电动工具形态语言，强化品牌跨品类视觉统一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 钳子 (18张) ─────────────────────────────────────────────
+
+  - product_id: "dewalt_手动工具_022"
+    source_images:
+      - filename: "手动工具__钳子__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__01.jpg"
+        image_role: "hero"
+        visual_anchor: "前切钳（End-Cutting Nipper），黑色氧化圆头，黄黑双色双料手柄，DWHT75488"
+      - filename: "手动工具__钳子__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__02.jpg"
+        image_role: "hero"
+        visual_anchor: "斜口钳，黑色氧化头部+黄黑双色手柄，DWHT74275，刃部银色"
+      - filename: "手动工具__钳子__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__07.jpg"
+        image_role: "hero"
+        visual_anchor: "斜口钳全黑氧化版，DWHT74274，头部全黑，黄黑手柄"
+    product_name: "DeWalt PERFORM & PROTECT Cutting Pliers (End-Cut / Diagonal)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "剪切钳"
+    design_language:
+      silhouette: "剪切钳典型轮廓：钳头圆弧收尾（前切）或斜切（斜口），手柄V形张开"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黑色氧化（钳头）+ 黄色（手柄主体）+ 黑色（TPR握区）+ 银色（刃部）"
+        material: "高碳钢钳头（磷化/氧化），工程塑料+TPR手柄"
+        finish: "哑光黑氧化钳头，哑光黄+软胶黑手柄"
+      mounting: "固定轴销铰接，无需调节"
+      signature_detail: "黑色氧化钳头与黄黑双色手柄的三色组合，品牌辨识强"
+    design_level:
+      score: 3
+      reason: "三色分区清晰，钳头黑化有专业感，DeWalt语言统一"
+    design_tags:
+      - "前切钳"
+      - "斜口钳"
+      - "黑化"
+      - "H03_分件线设计"
+    hero_feature: "钳头黑色氧化+刃部银色的双色处理，功能区与机身清晰分割"
+    problem_solved: "金属线/钉剪切，前切钳适合水平剪切"
+    transferable_technique: "钳头黑化（功能端）+黄色手柄（握持端）的颜色功能分区"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_023"
+    source_images:
+      - filename: "手动工具__钳子__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__03.jpg"
+        image_role: "hero"
+        visual_anchor: "带弹簧回位的电工钳（Linesman），铬银头+纯黄浸塑手柄，DWHT84818，弹簧露出"
+      - filename: "手动工具__钳子__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__04.jpg"
+        image_role: "hero"
+        visual_anchor: "多功能组合钳，铬银头+黄黑双色手柄，DWHT70276，含剪线/剥线/夹持功能"
+      - filename: "手动工具__钳子__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__18.jpg"
+        image_role: "hero"
+        visual_anchor: "尖嘴长鼻钳，铬银头+黄黑双色手柄，DWHT70277，带弹簧回位，钳嘴细长"
+    product_name: "DeWalt Spring-Return Pliers (Linesman / Combination / Long-Nose)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "钳子"
+    design_language:
+      silhouette: "钳头铬银，手柄V形展开，关节处可见弹簧回位机构外露"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "铬银（钳头）+ 黄色（手柄主体）+ 黑色（TPR/弹簧黑色氧化）"
+        material: "铬钒钢钳头，工程塑料+TPR手柄，钢弹簧"
+        finish: "铬银镜面或拉丝，哑光黄，软胶黑"
+      mounting: "固定轴销+弹簧回位机构"
+      signature_detail: "关节处外露的弹簧回位机构，功能可见性（H11）"
+    design_level:
+      score: 3
+      reason: "弹簧外露是功能外显的诚实表达，执行干净"
+    design_tags:
+      - "弹簧回位"
+      - "电工钳"
+      - "H11_功能外显"
+    hero_feature: "关节处外露弹簧，功能机构直白可见"
+    problem_solved: "单手持续开合操作（如穿线/理线），弹簧自动复位减轻疲劳"
+    transferable_technique: "将关键功能机构（弹簧）外显而非隐藏，增加产品诚实感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_024"
+    source_images:
+      - filename: "手动工具__钳子__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__16.jpg"
+        image_role: "hero"
+        visual_anchor: "Mega Bite复合动作钳3件套展示：DWHT70229侧切+DWHT70225组合钳+DWHT70220尖嘴，黑色主体+橙黄双色手柄"
+    product_name: "DeWalt Mega Bite Compound Action Pliers Set (3-piece)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "复合动作钳"
+    design_language:
+      silhouette: "复合动作机构使钳头比普通钳更大，手柄更长，整体比例更夸张有力"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（钳头金属主体）+ 橙色+黑色（双色注塑手柄）"
+        material: "高碳钢钳头，双色注塑手柄"
+        finish: "哑光黑氧化，橙黑双色"
+      mounting: "复合动作铰链，增力比约2倍"
+      signature_detail: "橙黑双色手柄在DeWalt产品线中独特，区分Mega Bite子品牌"
+    design_level:
+      score: 4
+      reason: "橙黑双色是品牌内少见的高能量配色，复合动作机构使整体比例更夸张，视觉力量感强"
+    design_tags:
+      - "复合动作"
+      - "增力"
+      - "Mega Bite"
+      - "橙黑配色"
+      - "H08_对比强调"
+    hero_feature: "橙色+黑色双色手柄，Mega Bite系列的子品牌专属视觉"
+    problem_solved: "需要更大夹持力的场景，复合动作机构放大操作力约2倍"
+    transferable_technique: "子品牌通过配色（橙）区分于主品牌（黄），差异化而不破坏家族感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_025"
+    source_images:
+      - filename: "手动工具__钳子__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__05.jpg"
+        image_role: "hero"
+        visual_anchor: "电缆剪/线切钳，铬银头+黄黑手柄，DWHT70275，钳嘴宽短适合粗线切割"
+      - filename: "手动工具__钳子__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__06.jpg"
+        image_role: "hero"
+        visual_anchor: "围栏钳（Fencing Pliers），大型银色多功能头（含锤面+钩爪+钳口），长黄黑手柄，DWHT70273"
+    product_name: "DeWalt Specialty Pliers (Cable Cutter / Fencing)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "专用钳"
+    design_language:
+      silhouette: "围栏钳头部为多功能复合形态（锤+钩+钳），比常规钳头大2-3倍，比例夸张"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "铬银（钳头）+ 黄黑双色（手柄）"
+        material: "铬钒钢，工程塑料+TPR"
+        finish: "铬银拉丝，哑光黄+软胶黑"
+      mounting: "固定轴销铰接"
+      signature_detail: "围栏钳超大复合头部包含多个功能面，一工具多用的形态直白表达"
+    design_level:
+      score: 3
+      reason: "围栏钳头部形态复杂有工业感，专业场景识别度高"
+    design_tags:
+      - "专用钳"
+      - "围栏钳"
+      - "多功能头"
+      - "H11_功能外显"
+    hero_feature: "围栏钳超大复合头部，3种功能（锤/钩/钳）在一个头部并存"
+    problem_solved: "围栏施工场景，拔钉/锤击/剪线三功能合一"
+    transferable_technique: "多功能工具头将所有功能外显于形态，无需查说明书"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_026"
+    source_images:
+      - filename: "手动工具__钳子__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__08.jpg"
+        image_role: "hero"
+        visual_anchor: "SLIDE LOCK水泵钳大号，全黑头+黄黑手柄，SLIDE字样可见，一键调节按钮"
+      - filename: "手动工具__钳子__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__10.jpg"
+        image_role: "hero"
+        visual_anchor: "SLIDE LOCK水泵钳中号，同系列全黑头+黄黑手柄，比08稍小"
+      - filename: "手动工具__钳子__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__11.jpg"
+        image_role: "hero"
+        visual_anchor: "SLIDE LOCK水泵钳小号，最紧凑尺寸，同语言"
+      - filename: "手动工具__钳子__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__12.jpg"
+        image_role: "hero"
+        visual_anchor: "SLIDE LOCK水泵钳另一尺寸，可见FINE-ADJUST和SLIDE LOCK标识"
+    product_name: "DeWalt SLIDE LOCK Groove Joint Pliers (3-Size)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "水泵钳"
+    design_language:
+      silhouette: "水泵钳典型侧面：弯颈+锯齿夹持头+长手柄，头部相对手柄有偏置"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "全黑（钳头）+ 黄色（手柄主体）+ 黑色（TPR握区）"
+        material: "高碳钢钳头（黑色氧化），工程塑料+TPR手柄"
+        finish: "哑光黑，哑光黄，软胶黑"
+      mounting: "滑动锁定（SLIDE LOCK）机构，一键精细调节"
+      signature_detail: "SLIDE LOCK按钮是视觉焦点，银色金属按钮在黑色钳头上突出，功能外显"
+    design_level:
+      score: 4
+      reason: "SLIDE LOCK一键调节解决传统水泵钳需要两手调节的痛点，银色按钮设计干净，功能外显到位"
+    design_tags:
+      - "水泵钳"
+      - "SLIDE LOCK"
+      - "一键调节"
+      - "H11_功能外显"
+    hero_feature: "SLIDE LOCK按钮外露，单手快速调节开口宽度"
+    problem_solved: "单手快速调节水泵钳开口，传统款需双手操作"
+    transferable_technique: "调节机构外显为可见银色按钮，功能可操作性通过形态预告"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_027"
+    source_images:
+      - filename: "手动工具__钳子__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__09.jpg"
+        image_role: "hero"
+        visual_anchor: "传统水泵钳，全黑头+黄黑手柄，DWHTT4428，传统按钮式调节，无SLIDE LOCK"
+      - filename: "手动工具__钳子__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__14.jpg"
+        image_role: "hero"
+        visual_anchor: "传统水泵钳中号，全黑头+黄黑手柄，DWHTT4428系列，侧面展示"
+      - filename: "手动工具__钳子__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__15.jpg"
+        image_role: "hero"
+        visual_anchor: "传统水泵钳大号，DWHT74427，黑头+黄黑手柄，传统卡槽调节"
+    product_name: "DeWalt Traditional Groove Joint Pliers"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "水泵钳"
+    design_language:
+      silhouette: "与SLIDE LOCK款相近轮廓，但调节机构为传统卡槽式"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "全黑（钳头）+ 黄色（手柄）+ 黑色（TPR）"
+        material: "高碳钢，工程塑料，TPR"
+        finish: "哑光黑，哑光黄，软胶"
+      mounting: "传统卡槽式调节"
+      signature_detail: "无按钮的干净外观，但功能调节需双手配合"
+    design_level:
+      score: 3
+      reason: "传统调节方式，设计保守，执行标准"
+    design_tags:
+      - "水泵钳"
+      - "传统调节"
+    hero_feature: "黑头+黄黑手柄的品牌识别"
+    problem_solved: "管道夹持紧固，传统卡槽调节适应大范围开口"
+    transferable_technique: "品牌色系统延伸到管道工具品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_028"
+    source_images:
+      - filename: "手动工具__钳子__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__13.jpg"
+        image_role: "hero"
+        visual_anchor: "斜口钳纯黄浸塑手柄版，银铬头部+全黄单色浸塑手柄，DWNT70793，老款设计风格"
+      - filename: "手动工具__钳子__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__钳子__17.jpg"
+        image_role: "hero"
+        visual_anchor: "卡簧钳（Snap Ring Pliers），黑色内外双用头+纯黄单色浸塑手柄，内置弹簧机构，银色导杆"
+    product_name: "DeWalt Classic Yellow Dip Handle Pliers"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "钳子"
+    design_language:
+      silhouette: "经典工具浸塑手柄，纯黄单色无黑色TPR段，老款设计语言"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "纯黄色浸塑（手柄）+ 铬银（钳头）"
+        material: "铬钒钢，PVC浸塑手柄"
+        finish: "铬银，纯黄浸塑"
+      mounting: "固定铰接"
+      signature_detail: "纯黄浸塑单色手柄，与现代黄黑双色双料手柄形成代际对比"
+    design_level:
+      score: 2
+      reason: "老款浸塑单色设计，相比新款双料手柄显得简朴，缺乏精致感"
+    design_tags:
+      - "浸塑手柄"
+      - "纯黄"
+      - "经典款"
+    hero_feature: "纯黄浸塑手柄延续工具品牌最原始的色彩表达"
+    problem_solved: "基础钳子功能，卡簧钳专用于卡环安装拆卸"
+    transferable_technique: "单色浸塑vs双料软硬胶的设计代际演进参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 铆钉枪 (1张) ────────────────────────────────────────────
+
+  - product_id: "dewalt_手动工具_029"
+    source_images:
+      - filename: "手动工具__铆钉枪__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__铆钉枪__01.jpg"
+        image_role: "hero"
+        visual_anchor: "手动铆钉枪，黄色压铸铝机身，黑色双手柄握把，前端4个银色铆钉嘴，侧视角"
+    product_name: "DeWalt Rivet Gun (Manual Pop Riveter)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "铆钉枪"
+    design_language:
+      silhouette: "前端宽体铆钉机构+V形双把手，整体呈剪刀形，前端重后端轻"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（压铸铝机身）+ 黑色（橡胶把手）+ 银色（铆钉嘴/铰链）"
+        material: "压铸铝机身，橡胶把手，钢铆钉嘴"
+        finish: "黄色铝铸，黑色橡胶，银色钢件"
+      mounting: "前端4种尺寸铆钉嘴，可更换适应不同铆钉规格"
+      signature_detail: "前端4个银色铆钉嘴整齐排列，功能即视觉中心"
+    design_level:
+      score: 3
+      reason: "黄色压铸铝机身质感好，4嘴外露功能清晰，执行标准"
+    design_tags:
+      - "铆钉枪"
+      - "压铸铝"
+      - "H11_功能外显"
+    hero_feature: "前端4个规格铆钉嘴整齐外露，功能一目了然"
+    problem_solved: "手动拉铆，4种嘴头覆盖全部常用铆钉规格"
+    transferable_technique: "将多规格嘴头外露排列，视觉传达产品兼容性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 锤子 (2张) ──────────────────────────────────────────────
+
+  - product_id: "dewalt_手动工具_030"
+    source_images:
+      - filename: "手动工具__锤子__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__锤子__01.jpg"
+        image_role: "hero"
+        visual_anchor: "3lb防震大锤（Dead-Blow Mallet），全黑橡胶圆柱锤头，黄黑双色玻纤手柄，DWHT51388，TOUGH SERIES"
+    product_name: "DeWalt TOUGH SERIES 3lb Dead-Blow Mallet"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "橡胶锤"
+    design_language:
+      silhouette: "大圆柱锤头（橡胶）置于相对细的玻纤手柄之上，头重脚轻，重心极高"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "全黑（橡胶锤头）+ 黄色（玻纤手柄）+ 黑色（TPR握区）"
+        material: "橡胶/铁砂填充锤头，玻纤手柄，TPR"
+        finish: "黑色橡胶，哑光黄，软胶黑"
+      mounting: "玻纤手柄穿过锤孔，一体成型结构"
+      signature_detail: "超大圆柱黑色锤头与细黄色手柄的体量悬殊对比，重量感直白外显"
+    design_level:
+      score: 3
+      reason: "圆柱锤头与手柄比例极端，重量感通过比例传达清晰"
+    design_tags:
+      - "橡胶锤"
+      - "防震"
+      - "TOUGH SERIES"
+      - "H08_对比强调"
+    hero_feature: "黑色超大圆柱锤头与黄色细手柄的极端比例对比"
+    problem_solved: "无痕击打（不损伤工件表面），铁砂填充防反弹"
+    transferable_technique: "极端头身比例传达重量感，无需数字标注即可感知重量"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_手动工具_031"
+    source_images:
+      - filename: "手动工具__锤子__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/手动工具/手动工具__锤子__02.jpg"
+        image_role: "hero"
+        visual_anchor: "20oz营地斧（Camper's Axe），黑色斧头+银色斧刃+黄黑玻纤手柄，DWHT51387，刃面有三个减重槽"
+    product_name: "DeWalt 20oz Camper's Axe"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "手动工具"
+      - "斧头"
+    design_language:
+      silhouette: "斧头轮廓：扁平矩形斧颈+扇形斧刃，手柄向后弯曲，整体流线型轴线"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（斧头主体/磷化）+ 银色（斧刃研磨面）+ 黄色（手柄）+ 黑色（TPR）"
+        material: "锻钢斧头（磷化），玻纤手柄，TPR"
+        finish: "哑光黑磷化，银色研磨刃，哑光黄，软胶黑"
+      mounting: "锻钢斧头+玻纤手柄穿孔固定"
+      signature_detail: "斧刃面三个减重/防粘槽在银色刃面上形成规律开口，功能+美学兼具"
+    design_level:
+      score: 4
+      reason: "斧刃三槽设计既有功能逻辑（防粘木）又有美学细节，黑磷化+银刃面对比精彩，是手工具中设计细节最丰富的"
+    design_tags:
+      - "斧头"
+      - "营地斧"
+      - "磷化"
+      - "减重槽"
+      - "H03_分件线设计"
+      - "H10_材料表达"
+    hero_feature: "斧刃三个减重槽在银色研磨面形成规律开口，功能与美学统一"
+    problem_solved: "劈柴/砍枝，三槽设计减少木料粘连，轻量营地使用"
+    transferable_technique: "功能孔洞（减重/防粘）的规律排列作为设计细节，功能即装饰"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

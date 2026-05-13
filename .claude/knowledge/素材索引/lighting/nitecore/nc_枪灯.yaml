@@ -1,0 +1,149 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "手电筒"
+  tertiary: "枪灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/枪灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_枪灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/枪灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "银黑双色工程渲染图，皮卡汀尼导轨卡扣+圆柱灯头，精密机械感"
+    product_name: "Nitecore NPL 系列（渲染款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "枪灯"]
+    design_language:
+      silhouette: "低矮扁平矩形机身+前置圆柱灯头，机身宽于灯头，整体呈L形侧视轮廓"
+      light_opening: "单颗大直径圆形反光杯，灯头前突，深锥形反光碗"
+      thermal: "铝合金机身，侧面散热槽纹可见"
+      cmf:
+        color: "银色铝合金 + 哑黑工程件"
+        material: "铝合金机身 + 钢制导轨夹"
+        finish: "金属银抛光 + 哑黑阳极"
+      mounting: "顶部皮卡汀尼导轨快拆卡扣，适配标准20mm导轨"
+      signature_detail: "顶面导轨卡扣锯齿清晰可见，侧面齿形散热槽，工程制图级细节"
+    design_level:
+      score: 3
+      reason: "工程渲染图细节扎实，但为渲染稿非实物照片，完成度信息有限"
+    design_tags: ["皮卡汀尼导轨", "快拆", "单灯头", "战术灯", "工程渲染"]
+    hero_feature: "顶置皮卡汀尼快拆夹具，精密导轨适配"
+    problem_solved: "战术/防卫场景中需要快速装卸于枪械导轨的可靠照明"
+    transferable_technique: "皮卡汀尼快拆卡扣+紧凑机身布局，可迁移至相机导轨灯、战术配件设计"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "图片为工程渲染图，非实物产品照，部分表面处理细节需实物确认"
+
+  - product_id: "nc_枪灯_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/枪灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑NPL27，方形厚实机身+大口径圆形灯头，侧面点阵按键+散热格栅"
+    product_name: "Nitecore NPL27"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "枪灯"]
+    design_language:
+      silhouette: "矩形厚板机身+前置大口径圆柱灯头，机身顶部延伸为皮卡汀尼夹轨，整体重心前置"
+      light_opening: "大口径单LED，深锥形反光杯，出光面直径明显大于机身宽度"
+      thermal: "铝合金机身，侧面平行散热槽组"
+      cmf:
+        color: "全哑黑"
+        material: "铝合金机身 + 聚合物结构件"
+        finish: "哑黑阳极氧化 + 磨砂表面"
+      mounting: "顶部一体式皮卡汀尼导轨夹，侧面快拆锁扣"
+      signature_detail: "侧面4个状态指示LED点阵+圆形按键，功能外显清晰"
+    design_level:
+      score: 4
+      reason: "全黑战术美学完整统一，灯头比例张力强，侧面状态点阵细节加分，完成度高"
+    design_tags: ["全黑战术", "大口径灯头", "状态指示点阵", "皮卡汀尼", "散热槽"]
+    hero_feature: "侧面4点LED状态指示阵列，无需开灯即可判断电量/模式"
+    problem_solved: "战术场景需要在暗环境中快速确认灯具状态，同时保持战术隐蔽性"
+    transferable_technique: "侧置状态点阵LED指示系统，可迁移至其他战术装备、工具电源管理界面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_枪灯_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/枪灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "NPL25 GL全黑紧凑方形机身，双出光口（白光+激光），顶部皮卡汀尼夹"
+    product_name: "Nitecore NPL25 GL"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "枪灯"]
+    design_language:
+      silhouette: "方正紧凑机身，比NPL27更扁平，灯头与机身高度接近，双出光口横排布置"
+      light_opening: "双孔并排：主白光LED圆形出光口 + 绿色激光出光孔，前面板平整"
+      thermal: "全铝机身，体积紧凑散热压力较大，侧面有少量散热纹"
+      cmf:
+        color: "全哑黑"
+        material: "铝合金机身 + 钢制导轨夹"
+        finish: "哑黑阳极氧化"
+      mounting: "顶部皮卡汀尼快拆卡座，侧面拇指操作按键"
+      signature_detail: "白光+激光双出光口并排，前面板干净利落，无多余装饰"
+    design_level:
+      score: 4
+      reason: "双功能集成（灯+激光）前面板布局整洁，紧凑比例做到极致，战术克制美学"
+    design_tags: ["白光+激光", "双出光口", "紧凑方正", "皮卡汀尼", "战术克制"]
+    hero_feature: "白光照明+绿激光瞄准一体化，双功能前面板极简整合"
+    problem_solved: "需要照明+目标指示双功能却不想挂载两个配件的战术场景"
+    transferable_technique: "双功能出光口并排整合于单一前面板，可迁移至多功能传感器/指示器设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_枪灯_004"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/枪灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑小体积枪灯，矮扁机身+单圆形灯头，侧面拨动式按键，极简线条"
+    product_name: "Nitecore NPL 系列（入门款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "枪灯"]
+    design_language:
+      silhouette: "超扁平矩形机身，高度极低，灯头微突出机身前端，整体贴合枪械护木轮廓"
+      light_opening: "单LED中等口径出光口，反光杯内嵌于机身前端，出光面与机身基本齐平"
+      thermal: "紧凑铝合金机身，低调散热处理"
+      cmf:
+        color: "全哑黑"
+        material: "铝合金 + 工程塑料"
+        finish: "哑黑阳极氧化 + 磨砂"
+      mounting: "顶部皮卡汀尼快拆夹，侧面拨动操作键"
+      signature_detail: "机身高度极低、轮廓极扁，是该系列中体积最紧凑的战术定位"
+    design_level:
+      score: 3
+      reason: "极简克制，尺寸做到极致紧凑，但造型语言与同系列相比无明显突破"
+    design_tags: ["超紧凑", "极扁机身", "全黑", "皮卡汀尼", "入门战术"]
+    hero_feature: "同类产品中最低矮的机身高度，最小化增加枪械体积"
+    problem_solved: "追求极简配置、最小增重的战术照明需求"
+    transferable_technique: "超低矮紧凑机身+嵌入式出光口设计，可迁移至各类导轨配件或紧凑传感器"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

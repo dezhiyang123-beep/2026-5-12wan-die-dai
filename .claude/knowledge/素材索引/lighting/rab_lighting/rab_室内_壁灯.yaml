@@ -1,0 +1,44 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内灯"
+  tertiary: "壁灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/壁灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_室内壁灯_001"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/壁灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "矩形扁平灯体+全长漫射面板+深棕色外框+侧面拨动开关"
+    product_name: "RAB 橱柜下方壁灯/线条壁灯（深棕款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "壁灯"]
+    design_language:
+      silhouette: "矩形极扁体，长宽比约3:1，高度极低，侧视薄板状"
+      light_opening: "全长漫射面板居中，乳白PC，占灯体面积约50%"
+      thermal: "超薄金属壳体兼散热，无外露鳍片"
+      cmf:
+        color: "深棕色（青铜色调）外框，乳白漫射面"
+        material: "金属冲压壳体，PC漫射板"
+        finish: "深棕粉末喷涂，漫射面乳白"
+      mounting: "壁面螺钉安装，四角安装孔"
+      signature_detail: "深棕色金属外框+拨动开关暴露于侧面，功能直白，北美厨房橱柜灯典型语言"
+    design_level:
+      score: 2
+      reason: "功能导向产品，设计语言极其实用，无装饰意图，深棕色选色是唯一的个性化选择"
+    design_tags: ["橱柜灯", "线条壁灯", "深棕色", "拨动开关", "功能直白"]
+    hero_feature: "深棕色金属壳体配置侧面拨动开关，功能外显且安装即用"
+    problem_solved: "厨房橱柜下方操作台照明，需要自带开关方便控制"
+    transferable_technique: "开关集成于灯体侧面，减少外部布线依赖"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

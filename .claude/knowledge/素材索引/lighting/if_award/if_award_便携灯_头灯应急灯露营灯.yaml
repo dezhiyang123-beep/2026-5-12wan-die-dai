@@ -1,0 +1,899 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "便携灯"
+  tertiary: ""
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/"
+  generated_at: "2026-05-09"
+products:
+  # ─── 头灯 ───────────────────────────────────────────────────────────────────
+
+  - product_id: "if_便携灯_头灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/头灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "圆角矩形一体机身，右侧嵌入大口径单LED反射碗，左侧USB充电口，极简分件"
+    product_name: "Compact Portable Torch / Emergency Light"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "头灯"]
+    design_language:
+      silhouette: "圆角矩形砖块造型，横卧放置，长宽比约1.8:1，整体高度极低，贴合感强"
+      light_opening: "右侧偏置单点大口径LED反射碗，直径约占机身短边40%，银色反射碗嵌入前面板"
+      thermal: "全封闭铝/塑料一体壳，无外露散热鳍片，依赖整体导热"
+      cmf:
+        color: "哑光浅银灰主体，深灰侧边框，局部暖白光晕"
+        material: "铝合金或高光泽塑料主壳，硅胶防滑侧边"
+        finish: "磨砂/缎面哑光"
+      mounting: "便携手持，侧面USB-C充电口，无可见固定结构（疑似磁吸底座）"
+      signature_detail: "单点LED反射碗与扁平矩形机身的反差——科技感与极简主义并置"
+    design_level:
+      score: 4
+      reason: "造型克制、比例精准，反射碗在扁平机身上形成强记忆点；归属品类模糊（可头灯/桌灯/应急灯三用），跨品类语义做得好"
+    design_tags: ["极简整合", "双功能", "磁吸底座", "圆角矩形", "银灰CMF"]
+    hero_feature: "扁平矩形机身中央嵌置大反射碗——颠覆手电筒传统圆柱轮廓"
+    problem_solved: "普通手电难以平放发散光，本品横置即成泛光台灯"
+    transferable_technique: "反射碗偏置于扁平机身的布局手法，可迁移至多功能应急灯/桌灯设计"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "品牌未识别；品类定位介于头灯/应急灯之间，需人工确认归类"
+
+  - product_id: "if_便携灯_头灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/头灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "深黑色圆角矩形机身，水花飞溅表现防水性能，红色圆形电源键高对比度"
+    product_name: "Waterproof Compact Headlamp Module"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "头灯"]
+    design_language:
+      silhouette: "圆角矩形砖块，竖置，比例约1.3:1，与01.jpg同族产品（相同反射碗+按键语言）"
+      light_opening: "右上偏置单点LED反射碗，正面透明盖板封闭防水"
+      thermal: "全封闭黑色工程塑料壳，IP防水设计"
+      cmf:
+        color: "哑光全黑主体，红色圆形电源键作为唯一强调色"
+        material: "高强度工程塑料，TPU封边防水"
+        finish: "亚光黑，按键红色高光"
+      mounting: "疑似磁吸或夹扣式，机身下部有凸起夹扣结构"
+      signature_detail: "全黑机身唯一亮点——红色圆形电源键，色彩对比极强，操作识别性极高"
+    design_level:
+      score: 4
+      reason: "黑+红配色是高功能便携灯经典语言，防水表演营销画面到位；红色按键作为Hero Detail执行干净"
+    design_tags: ["防水", "全黑CMF", "红色强调键", "户外EDC", "功能外显"]
+    hero_feature: "全黑防水壳体上的红色圆形电源键——一键即找，极端场景操作无误"
+    problem_solved: "户外潮湿/暗环境下快速定位控制键，单手盲操"
+    transferable_technique: "黑色壳体+单一高对比色功能键的CMF策略，可直接迁移至任何户外便携设备"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "品牌未识别；与01.jpg为同族产品但放置方式不同，需确认是否同一产品线"
+
+  - product_id: "if_便携灯_头灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/头灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "Olight品牌全黑头灯，圆柱形灯头+镂空透气头带，蓝色装饰环点缀"
+    product_name: "Olight Array 2S Headlamp"
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "头灯"]
+    design_language:
+      silhouette: "标准圆柱灯头横置于头带中央，灯头两侧收紧接头，整体轮廓紧凑对称"
+      light_opening: "正面单点大LED+蓝色装饰圆环，直径约占灯头径面60%"
+      thermal: "圆柱灯头背面有菱形网格散热纹理，被动散热"
+      cmf:
+        color: "全黑主体，蓝色LED环+侧面蓝色标识装饰圈作为品牌辨识色"
+        material: "铝合金灯头，尼龙弹性头带，工程塑料连接件"
+        finish: "灯头阳极氧化磨砂黑，头带哑光编织"
+      mounting: "弹性宽头带+侧边调节扣，无独立顶带"
+      signature_detail: "圆柱灯头侧面Olight品牌圆形Logo+蓝色LED环——品牌辨识极强"
+    design_level:
+      score: 3
+      reason: "功能扎实、品牌语言清晰，但造型相对传统；蓝色装饰环是Olight品牌一贯语言，设计执行到位但创新度有限"
+    design_tags: ["圆柱灯头", "品牌蓝环", "弹性头带", "菱形散热纹", "运动头灯"]
+    hero_feature: "蓝色LED装饰环——Olight全系列头灯的品牌识别锚点"
+    problem_solved: "运动/徒步场景稳定头戴，轻量无顶带设计减少束缚感"
+    transferable_technique: "品牌色装饰环作为产品族语言锚点，CMF单点强化品牌识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_头灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/头灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "Ledlenser头灯正面，双宽头带+顶带系统，深灰色复合灯头，多LED阵列+感应摄像头"
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/头灯/05.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "Ledlenser头灯3/4侧视，显示灯头倾仰调节结构与顶带连接方式"
+    product_name: "Ledlenser HF8R Core / Neo Series"
+    brand_name: "Ledlenser"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "头灯"]
+    design_language:
+      silhouette: "宽扁矩形复合灯头，三点头带系统（两侧+顶带），灯头可倾仰约-10°~90°"
+      light_opening: "多LED阵列：中央主LED（远射）+两侧泛光LED+感应模块，五点布局"
+      thermal: "灯头背面分件式壳体，通过结构分件被动散热"
+      cmf:
+        color: "深灰（军事橄榄灰）主体，黑色头带，白色顶带支架"
+        material: "工程塑料壳体，铝合金导轨，弹性织物头带"
+        finish: "哑光深灰，局部亮黑塑料"
+      mounting: "三点头带：双侧弹性带+可调顶带，灯头背部铰链倾仰"
+      signature_detail: "「高/宽」比<1的超宽扁灯头形态+感应摄像头——传感器集成外显，科技感强"
+    design_level:
+      score: 4
+      reason: "多传感器集成+三点支撑系统是专业头灯顶级配置；灯头宽扁形态形成品牌标志性轮廓，与竞品圆柱形成明显差异"
+    design_tags: ["专业头灯", "多LED阵列", "感应摄像头", "三点头带", "倾仰调节", "宽扁灯头"]
+    hero_feature: "超宽扁矩形灯头+嵌入式感应摄像头——科技集成密度视觉化"
+    problem_solved: "专业越野/搜救场景，近场泛光+远射+感应智能切换，减少手动操作"
+    transferable_technique: "宽扁灯头轮廓作为品类差异化轮廓；多功能单元横向并列排布手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─── 应急灯 ──────────────────────────────────────────────────────────────────
+
+  - product_id: "if_便携灯_应急灯_001"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "插座式应急灯三态展示：待机/报警/SOS，LED矩阵发光体+圆角胶囊灯头，白色极简"
+    product_name: "Smart Emergency Escape Light (SOS Wall Plug)"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "应急灯"]
+    design_language:
+      silhouette: "垂直胶囊造型灯头+直角底座插头，整体如一支直立的竖型pill，比例约1:2.5"
+      light_opening: "灯头正面LED矩阵面板（方形点阵）兼具状态指示+照明，顶部SOS触摸按键"
+      thermal: "全密封白色塑料壳体，低功耗LED无需主动散热"
+      cmf:
+        color: "纯白主体，报警状态绿光/橙光状态色变化为产品核心交互语言"
+        material: "ABS工程塑料，正面磨砂半透明扩散面板"
+        finish: "哑光白，整洁无缝"
+      mounting: "直接插入欧标墙壁插座，无需任何工具安装"
+      signature_detail: "LED矩阵面板三色状态切换（白/绿/橙）——状态即设计，颜色即信息"
+    design_level:
+      score: 5
+      reason: "系统级设计思维：产品即接口，零安装门槛；三色状态矩阵把信息架构设计进CMF；iF金奖级别的本质创新"
+    design_tags: ["插座式", "零安装", "LED矩阵状态色", "SOS触发", "系统设计", "应急疏散"]
+    hero_feature: "插座即安装+LED矩阵三色状态——应急灯的终极简化：无需布线、无需维护、颜色即指令"
+    problem_solved: "传统应急灯需走线安装、位置固定；本品插座即用，普通家庭/办公室零门槛部署应急照明+疏散引导"
+    transferable_technique: "状态色编码（白=待机/绿=安全/橙=危险）的CMF语言体系，可迁移至任何安全类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_应急灯_002"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "Giraffe Power品牌绿色迷彩管状便携灯，透明端帽+深绿铝管+织带挂绳，户外/人道主义灯"
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/06.jpg"
+        image_role: "usage_context"
+        visual_anchor: "使用场景：非洲市集夜市中手持管状灯照明，多人使用，展示便携性"
+    product_name: "Giraffe Power Portable LED Tube Light"
+    brand_name: "Giraffe Power"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "应急灯"]
+    design_language:
+      silhouette: "细长圆管，长宽比约6:1，透明两端端帽，中段绿色铝管，类似应急荧光棒形态"
+      light_opening: "全管面发光（360°无角度损失），透明端帽封闭，LED条均匀分布管内"
+      thermal: "铝管导热，低功耗LED，自然散热"
+      cmf:
+        color: "军绿/迷彩绿主体+品牌白色文字，透明端帽，织带挂绳灰白双色"
+        material: "铝合金管体，PC透明端帽，尼龙织带"
+        finish: "铝管阳极氧化军绿，织带印花品牌文字"
+      mounting: "织带挂绳可颈挂/手提/悬挂，两端设卡扣可连接扩展"
+      signature_detail: "管状形态+颈挂织带——像应急荧光棒一样无需手持，解放双手"
+    design_level:
+      score: 4
+      reason: "专为发展中国家离网照明设计，形态、使用方式、CMF三者为同一用户需求服务；迷彩绿+白织带品牌语言独特"
+    design_tags: ["管状灯", "360°发光", "颈挂", "离网照明", "人道主义设计", "军绿CMF"]
+    hero_feature: "颈挂管状灯——将应急灯变成可穿戴照明，双手不受占用"
+    problem_solved: "发展中国家/灾区无稳定电力场景，户外商贩/家庭夜间照明，轻便、耐用、可太阳能充电"
+    transferable_technique: "管状360°发光+颈挂携行方式组合，可迁移至户外工作灯/夜跑安全灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_应急灯_003"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "Lovork黄黑色三脚架工作灯，管状白色LED灯管+黄色铝合金夹持器+黑色折叠三脚架"
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/08.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "Lovork灯管角度可调功能展示，三脚架展开，灯管在夹持器中旋转多角度"
+      - filename: "08__from综合.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/08__from综合.jpg"
+        image_role: "detail"
+        visual_anchor: "OMO品牌橙白双色棒状灯，橙色硅胶顶帽+白色磨砂管身+织带挂绳，两种长度展示"
+    product_name: "Lovork Portable Work / Emergency Light"
+    brand_name: "Lovork"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "应急灯"]
+    design_language:
+      silhouette: "细长白色圆管灯管（长宽比约10:1）+黄色宽扁夹持器+黑色铝合金三脚架，整体竖置如小型路灯"
+      light_opening: "全管面360°发光，白色磨砂PC管均匀扩散"
+      thermal: "铝合金散热夹持块，自然被动散热"
+      cmf:
+        color: "DeWalt风格高可视黄+哑光黑双色，白色灯管为中性过渡"
+        material: "铝合金夹持器，PC白色灯管，铝合金折叠三脚架"
+        finish: "黄色阳极氧化/喷涂，黑色阳极氧化，灯管磨砂PC"
+      mounting: "折叠三脚架自立，夹持器可旋转调角，亦可单独手持管灯"
+      signature_detail: "折叠三脚架+可旋转角度的黄色夹持器——一键部署、任意角度、无需辅助支撑"
+    design_level:
+      score: 4
+      reason: "模块化思维清晰：灯管独立+支架独立，黄黑CMF传达专业工具气质；角度可调三脚架是真正的功能创新"
+    design_tags: ["三脚架", "角度可调", "360°发光", "工程黄黑", "模块化", "工作灯"]
+    hero_feature: "折叠三脚架+旋转夹持器——随放随用，自动成角，告别手持疲劳"
+    problem_solved: "施工/应急场景需要无障碍双手操作，传统工作灯固定方向不够灵活"
+    transferable_technique: "折叠三脚架自立结构+夹持器旋转角度机构，可迁移至露营灯/摄影辅助照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_应急灯_004"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "细长铝合金LED灯棒，双钩头设计，深灰色，对角线展开展示两种挂接状态"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/10.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "同款灯棒折叠收纳状态展示，折叠后为紧凑方块+单侧大钩"
+    product_name: "Extendable LED Work Bar with Dual Hook"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "应急灯"]
+    design_language:
+      silhouette: "细圆棒造型，可延伸/折叠，展开约80cm，折叠约25cm；两端均有旋转钩"
+      light_opening: "棒身正面线性LED条，单侧泛光，折叠时双棒并排扩展光面宽度"
+      thermal: "铝合金棒身全导热，线性LED低热量自然散热"
+      cmf:
+        color: "深空灰铝合金+哑光黑塑料接头，低调工具感"
+        material: "铝合金挤压棒身，工程塑料铰链+钩头"
+        finish: "铝合金磨砂阳极氧化深灰，塑料哑光黑"
+      mounting: "双端旋转挂钩，可挂车顶篷/工作台边缘/帐篷杆，铰链折叠收纳"
+      signature_detail: "两端旋转挂钩+折叠展开机构——无需任何工具，一步部署，两种使用形态"
+    design_level:
+      score: 4
+      reason: "极端功能主义美学，挂钩即结构+折叠即功能，无多余装饰；深灰铝合金质感高级，工具属性清晰"
+    design_tags: ["折叠灯棒", "双端挂钩", "线性LED", "铝合金挤压", "工具美学", "车用应急"]
+    hero_feature: "双端旋转挂钩+折叠展开——像工具一样携带，像灯一样使用"
+    problem_solved: "车内/帐篷/工地临时照明，双钩挂接无需额外支架，折叠后口袋尺寸"
+    transferable_technique: "线性LED棒+多态折叠结构+挂钩收纳，可迁移至露营灯/应急工作灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_应急灯_005"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "Iris Ohyama橙色大型应急工作灯，正方形LED面板+铰链支架+提把，后视展示"
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/13.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "WEIJIA品牌黑橙应急工作灯，矩形LED面板+球形万向关节+折叠支架底座"
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/14.jpg"
+        image_role: "detail"
+        visual_anchor: "WEIJIA工作灯正视图，矩形LED面板+黑橙框架，下方球形万向节清晰可见"
+    product_name: "Iris Ohyama / WEIJIA Portable Work & Emergency Flood Light"
+    brand_name: "Iris Ohyama / WEIJIA"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "应急灯"]
+    design_language:
+      silhouette: "矩形LED面板（主发光体）+围绕其的框架/支架结构，面板可旋转倾仰，整体呈T或L形"
+      light_opening: "大面积矩形正面泛光LED面板，均匀扩散无热点"
+      thermal: "铝合金或橙色ABS后盖+内置散热结构，风扇或纯被动"
+      cmf:
+        color: "Iris：亮橙+黑双色，高可视急救配色；WEIJIA：暗橙+哑黑，更工具化"
+        material: "铝合金/ABS混合壳体，钢管支架"
+        finish: "高光橙（Iris）/ 哑光橙（WEIJIA），黑色哑光支架"
+      mounting: "折叠支架底座（WEIJIA），铰链提把（Iris）；WEIJIA球关节可任意旋转照射角度"
+      signature_detail: "WEIJIA：球形万向关节——LED面板360°全向调节，功能结构完全外显"
+    design_level:
+      score: 3
+      reason: "功能完整、CMF醒目；Iris造型中规中矩，WEIJIA球关节是真正的设计亮点；整体属专业工具设计而非消费品设计"
+    design_tags: ["泛光面板", "球形万向节", "橙黑CMF", "折叠支架", "工程应急灯", "大功率"]
+    hero_feature: "球形万向关节（WEIJIA）——一个结构件替代所有角度调节机构"
+    problem_solved: "施工/防灾应急场景大面积均匀泛光，单人快速部署，任意角度照射"
+    transferable_technique: "球形万向关节应用于便携灯角度调节，结构外显即设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "12.jpg与13/14.jpg为不同品牌产品，已注明；如需拆分为独立条目请人工操作"
+
+  # ─── 露营灯 ──────────────────────────────────────────────────────────────────
+
+  - product_id: "if_便携灯_露营灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "Sony Portable Bluetooth Speaker Light，酒瓶造型铝合金机身+透明玻璃罩，皮革提把，户外桌面"
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/02.jpg"
+        image_role: "usage_context"
+        visual_anchor: "同款灯手持悬挂使用，皮革提把自然下垂，展示携行状态"
+    product_name: "Sony LSPX-S3 Glass Sound Speaker with LED"
+    brand_name: "Sony"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "酒瓶/花瓶造型，下宽上细颈部收腰，顶部圆柱玻璃灯罩，整体高度约30cm，女性/家居气质"
+      light_opening: "顶部圆柱透明玻璃罩，竖条纹LED模块居中，360°全向柔光扩散"
+      thermal: "铝合金瓶身自然导热，LED低热"
+      cmf:
+        color: "拉丝铝银色主体，透明玻璃灯罩，棕色皮革提把，暖黄光色"
+        material: "铝合金机身，硼硅酸盐玻璃灯罩，真皮提把"
+        finish: "机身拉丝磨砂铝，玻璃透明光滑，皮革自然纹理"
+      mounting: "桌面直立/皮革提把手提悬挂两用，底座带充电触点"
+      signature_detail: "酒瓶轮廓+真皮提把+玻璃灯罩三元素——消费电子品变成家居装饰品"
+    design_level:
+      score: 5
+      reason: "跨品类融合设计典范：蓝牙音箱+氛围灯+工艺品三位一体；酒瓶轮廓是强记忆点，皮革提把是情感触发点；在露营灯品类中审美层级最高"
+    design_tags: ["音箱灯一体", "酒瓶造型", "玻璃灯罩", "皮革提把", "家居氛围", "Sony"]
+    hero_feature: "酒瓶造型铝合金机身+玻璃灯罩——灯不像灯，音箱不像音箱，但两者都做到极致"
+    problem_solved: "户外/家居场景需要一件产品同时满足氛围照明+音乐，拒绝堆砌廉价感"
+    transferable_technique: "酒器/容器隐喻用于便携灯轮廓设计；材质反差（冷金属+暖皮革+透明玻璃）制造高级感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_露营灯_002"
+    source_images:
+      - filename: "01.jpg__from综合.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/01.jpg__from综合.jpg"
+        image_role: "hero"
+        visual_anchor: "四色圆柱形露营灯阵列，横向切割螺旋光缝，暖橙/白/橄榄绿/柠檬黄，Lexon/独立设计品牌"
+      - filename: "02.jpg__from综合.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/02.jpg__from综合.jpg"
+        image_role: "usage_context"
+        visual_anchor: "同款两只不同颜色，白和橙，叠放在书堆上展示家居使用场景"
+    product_name: "Lexon / Design Studio Stackable Camping Lantern"
+    brand_name: "Lexon"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "矮粗圆柱，高宽比约1.2:1，顶部圆形盖板，主体被水平切割成多层台阶状光缝"
+      light_opening: "横向分层切割光缝，光从每层缝隙中向外辐射，形成水平光带阵列效果"
+      thermal: "全塑料封闭体，低功耗LED无散热需求"
+      cmf:
+        color: "马卡龙系：暖橙/奶白/橄榄绿/柠檬黄，饱和但不刺眼的莫兰迪色系"
+        material: "ABS塑料主体，半透明扩散内层"
+        finish: "哑光纯色外壳，内层扩散膜"
+      mounting: "底部平面直立，可叠放（圆柱顶底契合），无手柄无挂钩"
+      signature_detail: "横向切割光缝阵列——类似建筑百叶窗效果，光线从水平缝隙透出，造型即照明机制"
+    design_level:
+      score: 4
+      reason: "造型语言一致性极高——切割手法、配色体系、叠放逻辑三位一体；家居露营两用，审美层级高于功能导向产品"
+    design_tags: ["横向光缝", "叠放设计", "马卡龙色系", "圆柱形", "家居露营两用", "百叶窗光效"]
+    hero_feature: "水平切割光缝——外壳即灯罩，结构即光学，一个切割动作完成所有设计"
+    problem_solved: "露营/家居氛围灯需要可叠放收纳、配色个性化，拒绝功能主义黑绿军事感"
+    transferable_technique: "横向切割光缝手法可迁移至任何需要360°扩散的便携灯；叠放榫卯逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_露营灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "红色正四棱台镂空框架露营灯，四柱+透明侧板+LED竖条，Fermob/法国户外品牌风格"
+    product_name: "Portable Lantern with Trapezoidal Open Frame"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "正四棱台（上大下小倒梯形）镂空框架，四角立柱+顶底封闭板，中空透明侧面，高宽比约1.3:1"
+      light_opening: "内置LED竖条居中发光，四面透明侧板全向扩散，无灯罩遮挡"
+      thermal: "开放框架结构，自然对流散热"
+      cmf:
+        color: "纯正大红，高饱和单色，无其他装饰色"
+        material: "ABS/铝合金红色框架，透明亚克力/PC侧板"
+        finish: "红色高光或哑光，透明侧板抛光"
+      mounting: "底部平放，顶部无提把，通过轮廓识别为可提携灯笼"
+      signature_detail: "倒梯形镂空四棱台框架——纯粹几何语言，框架即造型，内外通透"
+    design_level:
+      score: 4
+      reason: "几何纯粹度极高，倒梯形轮廓在露营灯中独一无二；大红色配透明内壁的发光效果强烈；极简到接近装置艺术"
+    design_tags: ["倒梯形", "镂空框架", "纯色大红", "几何主义", "全透明侧板", "装置感"]
+    hero_feature: "倒梯形镂空四棱台——光从四面透出，框架轮廓即品牌记忆点"
+    problem_solved: "家居/露营场景氛围灯需要强烈的视觉存在感，拒绝低调无感造型"
+    transferable_technique: "镂空框架结构（框架导热+内置光源+透明侧板）可迁移至任何需要全向漫射的便携灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_露营灯_004"
+    source_images:
+      - filename: "03.jpg__from综合.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/03.jpg__from综合.jpg"
+        image_role: "hero"
+        visual_anchor: "Schneider Electric绿色球形太阳能露营灯，圆球发光体+绿色把手+太阳能板套件"
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/04.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "同款俯视角度，展示球形灯体+把手+太阳能板整体系统"
+    product_name: "Schneider Electric Solar Portable Ball Lantern"
+    brand_name: "Schneider Electric"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "正球形发光体+倒U形提把+底部锥形底座，球形为视觉主体，比例饱满"
+      light_opening: "球形全向360°漫射，类似大号灯泡效果，LED内置球形扩散体"
+      thermal: "球形塑料外壳，被动散热，低热量LED"
+      cmf:
+        color: "高饱和草绿（Schneider品牌绿），白色球形发光体，灰银色底座控制件"
+        material: "ABS绿色壳体，PC白色半透明球罩，太阳能板铝框"
+        finish: "绿色哑光，球罩磨砂半透明"
+      mounting: "底部放置或挂钩悬挂，配独立太阳能板+多接口充电线"
+      signature_detail: "球形灯体+品牌绿色+倒U把手——普通村民、灾民一眼识别的设计，无需说明书"
+    design_level:
+      score: 4
+      reason: "为低识字率发展中国家用户设计，球形+绿色=全球通用无障碍理解；系统性设计（灯+太阳能板+多接口线）完整度高"
+    design_tags: ["球形灯", "太阳能", "品牌绿", "离网电力", "人道主义设计", "Schneider"]
+    hero_feature: "球形漫射+太阳能充电系统——全球任何地方零电网依赖部署"
+    problem_solved: "无电力基础设施的农村/灾区，简单、耐用、可自充电的家庭照明"
+    transferable_technique: "球形全向漫射造型+直观颜色编码（品牌绿=安全可靠）的设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_露营灯_005"
+    source_images:
+      - filename: "04.jpg__from综合.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/04.jpg__from综合.jpg"
+        image_role: "hero"
+        visual_anchor: "模块化太阳能露营灯系统，透明圆柱主灯+可折叠太阳能帆+背包携行展示"
+    product_name: "Modular Solar Camping Lantern (Brand Unknown)"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "透明圆柱主灯体，顶部可分离模块，底部折叠太阳能帆，系统展开时垂直轴对称"
+      light_opening: "圆柱全向360°发光，透明外壳内置LED模块"
+      thermal: "透明PC外壳，自然散热，低热LED"
+      cmf:
+        color: "透明+深棕/深绿军事感配色，折叠太阳能帆蓝灰色"
+        material: "PC透明柱身，铝合金/ABS模块接头，柔性太阳能帆"
+        finish: "透明光滑，金属接头磨砂"
+      mounting: "背包侧袋携行，帆可折叠收纳，主灯可独立使用"
+      signature_detail: "可折叠太阳能帆+透明圆柱灯一体化——收纳态和展开态两种形态都有记忆点"
+    design_level:
+      score: 4
+      reason: "系统化设计思维，模块拆装逻辑清晰；折叠太阳能帆是真正的创新结构；透明柱身在夜间的发光效果极强"
+    design_tags: ["太阳能帆", "模块化", "透明圆柱", "背包携行", "系统设计", "户外探险"]
+    hero_feature: "可折叠太阳能帆——充电装置即收纳结构，双功能合一"
+    problem_solved: "长途徒步/野营无充电源，需要轻量化自充电照明系统"
+    transferable_technique: "可折叠充电帆+主灯分离模块结构，可迁移至任何移动供电便携设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_露营灯_006"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "Claymore Tri-Head Pro露营灯，白色+玫瑰金圆柱灯笼，铜色金属杆+圆顶帽，可拆卸散光罩"
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/06.jpg"
+        image_role: "detail"
+        visual_anchor: "同款拆解图，展示顶帽分离、底座独立，三段式模块化结构"
+    product_name: "Claymore Tri-Head Pro Lantern"
+    brand_name: "Claymore"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "圆柱形灯笼，顶部宽帽遮光圈+圆形提把，中段透明圆柱灯罩+铜色竖框，底座独立圆盘，高宽比约2:1"
+      light_opening: "竖向圆柱LED灯管居中，全向360°扩散，透明玻璃/PC外罩无遮挡"
+      thermal: "铝合金铜色框架导热，LED竖管主动散热"
+      cmf:
+        color: "白色主体+玫瑰金/铜色金属件+透明灯罩，暖白/琥珀双光色"
+        material: "铝合金框架（玫瑰金阳极氧化），白色ABS顶帽/底座，硼硅玻璃或PC灯罩"
+        finish: "铝合金拉丝玫瑰金，ABS磨砂白，玻璃透明抛光"
+      mounting: "圆形提把手持/悬挂，底座充电，顶帽可拆换散光罩"
+      signature_detail: "玫瑰金铜色竖框+可拆卸顶帽散光罩——工艺珠宝感与功能性共存"
+    design_level:
+      score: 5
+      reason: "CMF执行精准，玫瑰金+白+透明三材质组合在露营灯中极为罕见；模块化设计（拆帽换光型）功能完整；整体已达家居精品级别"
+    design_tags: ["圆柱灯笼", "玫瑰金框架", "可拆顶帽", "三段模块化", "精品露营", "Claymore"]
+    hero_feature: "玫瑰金铝框+可拆卸散光罩——一盏灯，直射/扩散两种光型随时切换"
+    problem_solved: "精品露营市场需要颜值与功能并重的灯具，拒绝户外灯的军事/工具美学"
+    transferable_technique: "铜色/玫瑰金框架+白色主体+透明灯罩的三色CMF方案，可迁移至任何高端便携灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_露营灯_007"
+    source_images:
+      - filename: "06.jpg__from综合.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/06.jpg__from综合.jpg"
+        image_role: "hero"
+        visual_anchor: "Schneider Electric绿色球形灯+太阳能板+USB多口充电线整体系统，白色背景"
+    product_name: "Schneider Electric Solar System (System Shot)"
+    brand_name: "Schneider Electric"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "球+倒U把手+锥底三元素，与if_便携灯_露营灯_004同款，此图为系统展示版"
+      light_opening: "与004相同"
+      thermal: "与004相同"
+      cmf:
+        color: "与004相同，此图为早期版本，球体为老款浅绿，系统整体为白底展示"
+        material: "与004相同"
+        finish: "与004相同"
+      mounting: "与004相同"
+      signature_detail: "太阳能板框架为绿色（品牌一致性），多口充电线随机附送——生态系统视角"
+    design_level:
+      score: 3
+      reason: "此图价值主要在于展示充电生态系统，造型分析参考004"
+    design_tags: ["太阳能系统", "多接口充电", "生态系统设计", "Schneider"]
+    hero_feature: "一套产品解决照明+充电手机双需求——灯即电源"
+    problem_solved: "离网地区，灯作为枢纽同时为手机充电"
+    transferable_technique: "灯具兼备充电枢纽功能，多接口输出的系统思维"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_露营灯_008"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "Claymore多功能户外灯，橄榄绿圆锥形底座+透明倒扣圆顶灯罩+三脚腿，顶部驱蚊模块"
+    product_name: "Claymore Bug & Lantern Combo (Multi-function)"
+    brand_name: "Claymore"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "宽扁橄榄绿圆锥底座+倒扣半球透明灯罩，三脚腿收纳式，顶部方形功能模块，整体似蘑菇/太空船"
+      light_opening: "倒置半球透明灯罩内置竖向LED灯管，向下/四周均匀扩散"
+      thermal: "铝合金底座散热，被动自然对流"
+      cmf:
+        color: "橄榄绿（军用哑绿）+透明烟灰罩+哑黑三脚腿，琥珀暖光"
+        material: "铝合金底座，PC烟灰透明罩，铝合金三脚腿"
+        finish: "铝合金哑绿阳极氧化，PC半透明烟灰"
+      mounting: "三脚腿展开自立，收起后底座平放，顶部功能模块可分离"
+      signature_detail: "驱蚊UV模块+照明灯一体化——顶部功能块可见化，功能外显设计语言"
+    design_level:
+      score: 4
+      reason: "多功能整合而非堆砌，驱蚊+照明两大户外核心需求合二为一；军绿+三脚腿的户外感强烈；造型独特（蘑菇/太空船）记忆点强"
+    design_tags: ["驱蚊灯一体", "三脚腿", "橄榄绿", "倒置半球罩", "多功能模块", "Claymore"]
+    hero_feature: "驱蚊UV模块嵌顶+三脚腿自立——一件产品解决露营夜晚全部照明+防蚊需求"
+    problem_solved: "露营场景同时携带驱蚊器和灯具造成负重冗余"
+    transferable_technique: "功能模块叠加在灯具顶部的设计策略（灯作为功能平台）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_露营灯_009"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "Claymore Neo系列大号露营灯，橄榄绿圆锥+烟灰透明倒碗罩+皮革提带+三脚腿，正视图"
+    product_name: "Claymore Neo L Camping Lantern"
+    brand_name: "Claymore"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "宽扁倒碗形透明灯罩+圆锥形底座，皮革提带绕顶，三脚腿收纳，较007更大更宽扁"
+      light_opening: "超宽倒碗形灯罩下向+四周漫射，中央LED蜡烛柱形发光体"
+      thermal: "铝合金底座，被动散热"
+      cmf:
+        color: "橄榄绿底座+烟灰透明倒碗+棕色皮革提带+哑黑三脚腿，琥珀暖光"
+        material: "铝合金底座，PC透明灯罩，真皮或PU提带，铝合金三脚腿"
+        finish: "同007，皮革质感更明显"
+      mounting: "三脚腿展开自立，皮革带悬挂，顶部控制面板"
+      signature_detail: "超宽倒碗灯罩+皮革提带组合——功能灯的奢侈品材质语言"
+    design_level:
+      score: 5
+      reason: "Claymore系列中审美最高；超宽碗形既是功能（大角度照射）又是造型主题；皮革细节在露营灯中极为稀缺；整体CMF统一度一流"
+    design_tags: ["倒碗形灯罩", "皮革提带", "三脚腿", "橄榄绿", "精品露营", "Claymore"]
+    hero_feature: "超宽倒碗烟灰灯罩——像UFO降落伞一样将光线均匀投向四面，覆盖整个营地桌面"
+    problem_solved: "精品露营市场对灯具的颜值要求已接近家居精品，传统灯笼设计落后"
+    transferable_technique: "超宽倒碗形灯罩的造型比例（宽>高），皮革细节在功能产品中的情感价值"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_露营灯_010"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "极简黑色提灯，传统提灯轮廓，黑色金属顶帽+圆弧提把，透明圆柱灯罩，琥珀火焰LED"
+    product_name: "Minimalist Portable Lantern (Nordic Style)"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "古典提灯轮廓：顶帽+透明圆柱灯体+底座三段，提把弧形向上，整体比例纤细"
+      light_opening: "透明圆柱灯罩内置竖向LED/灯芯，360°全向漫射，暖琥珀色"
+      thermal: "金属顶帽散热，被动自然对流"
+      cmf:
+        color: "全哑光黑（顶帽+底座+提把），透明/烟灰灯罩，琥珀暖光"
+        material: "铁/铝合金顶帽底座，玻璃或PC圆柱灯罩"
+        finish: "哑光黑烤漆，玻璃透明光滑"
+      mounting: "圆弧提把手持/悬挂，底座平放，疑似无线充电底座"
+      signature_detail: "古典提灯轮廓与现代极简黑色CMF的对话——历史形态+当代材料"
+    design_level:
+      score: 4
+      reason: "造型克制但辨识度极高，全黑+透明+琥珀光三元素组合建立强记忆点；古典提灯语言的现代诠释执行干净"
+    design_tags: ["古典提灯", "全黑CMF", "圆柱灯罩", "琥珀光", "极简主义", "家居露营两用"]
+    hero_feature: "古典提灯轮廓+全哑黑——最古老的形态+最当代的色彩，时间感冲突制造记忆"
+    problem_solved: "精品露营/家居用户需要一盏有「物件感」的灯，不接受工具感强的产品"
+    transferable_technique: "古典容器/器皿轮廓用于现代便携灯，历史形态+当代CMF的设计策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_露营灯_011"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/10.jpg"
+        image_role: "usage_context"
+        visual_anchor: "同款提灯放置于家居餐桌环境，展示室内+户外两用场景"
+    product_name: "Minimalist Portable Lantern (Nordic Style) — Scene Shot"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "与009相同，此图为场景照，桌上放置，展示家居适用性"
+      light_opening: "与009相同"
+      thermal: "与009相同"
+      cmf:
+        color: "米白色/灰白版本（此图为浅色变体），提把浅棕色"
+        material: "与009相同"
+        finish: "哑白/米灰"
+      mounting: "与009相同"
+      signature_detail: "与009相同，此图展示颜色变体+场景"
+    design_level:
+      score: 4
+      reason: "场景图价值：证明该设计在家居环境中的适配性，跨场景通用性高"
+    design_tags: ["家居场景", "米白色变体", "桌面灯", "室内外两用"]
+    hero_feature: "与009相同"
+    problem_solved: "与009相同"
+    transferable_technique: "同一产品发布多色变体的视觉差异化策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_露营灯_012"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "Olight Baton Turbo S户外多功能灯，军绿金属手电棒，前端圆形COB灯阵，侧边控制键"
+    product_name: "Olight Baton Turbo S Outdoor Multi-use Light"
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "标准手电筒圆柱形，前端COB灯阵为加粗头部，整体如「胖头鱼」，长宽比约3:1"
+      light_opening: "前端大直径圆形COB泛光灯阵+蜂窝格栅，大面积均匀出光"
+      thermal: "铝合金主体（军绿阳极氧化），前端散热鳍片隐于COB边缘"
+      cmf:
+        color: "军绿（ODG）阳极氧化铝合金，黑色控制键"
+        material: "铝合金主体，光学PC前盖，硅胶防滑纹理"
+        finish: "铝合金军绿阳极氧化，磨砂质感"
+      mounting: "手持圆柱，磁吸尾盖吸附钢铁表面，可竖立作泛光台灯"
+      signature_detail: "超大COB蜂窝泛光灯面——手电筒头径放大，泛光面积碾压传统聚光手电"
+    design_level:
+      score: 4
+      reason: "Olight品牌标志性军绿+磁吸尾盖组合；超大COB泛光面是功能性Hero Feature，户外露营场景价值极高"
+    design_tags: ["COB泛光", "磁吸尾盖", "军绿EDC", "圆柱手电", "多功能", "Olight"]
+    hero_feature: "超大直径COB泛光灯面+磁吸尾盖——手电即台灯，磁吸即三脚架"
+    problem_solved: "露营帐篷内需要均匀泛光而非聚光，传统手电无法满足"
+    transferable_technique: "磁吸尾盖作为隐形支撑结构（不增加造型负担的固定方式）"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "此产品更接近手电筒/EDC灯，被归入露营灯文件夹需确认；露营使用方式成立但品类定位有争议"
+
+  - product_id: "if_便携灯_露营灯_013"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "多款便携桌灯合影，包含：三脚X形立灯+沙漏形灯+碗形底座泛光灯+小型圆筒灯，棕灰暖色调"
+    product_name: "Portable Table Lamp Collection (Group Shot)"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "合影展示多种造型：X三脚立灯（最高主体）、沙漏形灯、碗形底泛光灯、小圆筒灯"
+      light_opening: "各异：X灯为竖向线性LED缝；沙漏为全包覆发光体；碗形为碗口向上扩散；圆筒为顶部泛光"
+      thermal: "各异，均为低热LED"
+      cmf:
+        color: "统一暖棕灰色系，不锈钢/铝/哑黑，整体如北欧设计语系"
+        material: "金属+玻璃/PC混合"
+        finish: "哑光为主，部分拉丝金属"
+      mounting: "均为桌面放置，部分可手提"
+      signature_detail: "X三脚框架立灯——用X形交叉立柱替代传统底座，极简解构"
+    design_level:
+      score: 4
+      reason: "合影图价值在于展示同一品牌/系列不同形态的设计语言一致性；X三脚灯是其中最有原创性的造型"
+    design_tags: ["X三脚框架", "系列合影", "北欧极简", "多形态系列", "暖棕调"]
+    hero_feature: "X形交叉立柱（主灯）——用两根立柱的X交叉代替底座，解构传统支撑逻辑"
+    problem_solved: "桌面灯需要在收纳态减少占地面积，X形框架折叠后更薄"
+    transferable_technique: "X交叉立柱支撑结构（视觉轻量+可折叠），可迁移至任何桌面便携灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "合影图包含多款不同产品，建议人工拆分为独立条目（X灯/沙漏灯/碗形灯/圆筒灯）"
+
+  - product_id: "if_便携灯_露营灯_014"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "Nitecore TIKI/TUP系列钥匙扣微型灯，黑色+透明两款，岩石上放置展示极小尺寸"
+    product_name: "Nitecore TIKI / TUP Keychain EDC Light"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "极小钥匙扣形态，长约6cm，扁平矩形，前端LED模块，尾部钥匙环"
+      light_opening: "前端小型LED点光源，多光色（白+UV+红）"
+      thermal: "铝合金或PC壳体，低热量微型LED"
+      cmf:
+        color: "黑色铝合金+透明PC两种，小尺寸使颜色对比更强"
+        material: "铝合金（黑色款），PC透明（透明款）"
+        finish: "铝合金阳极氧化哑黑，PC透明抛光"
+      mounting: "钥匙环随身携带，随时取用"
+      signature_detail: "透明PC款——内部电路/电池完全可见，结构即装饰"
+    design_level:
+      score: 4
+      reason: "极端微型化EDC设计，透明款将内部结构可见化是绝妙设计语言；在露营灯分类中作为「随身备用」极端案例价值高"
+    design_tags: ["钥匙扣灯", "EDC", "透明壳体", "多光色", "微型化", "Nitecore"]
+    hero_feature: "透明PC全透明壳——内部PCB+电池+线路完全可视，电子产品变成可欣赏的机械装置"
+    problem_solved: "每日随身携带照明工具，钥匙扣零额外负担"
+    transferable_technique: "透明/半透明壳体将内部结构外显，「内部即设计」的语言策略"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "此产品为钥匙扣EDC灯，归入露营灯有争议；建议考虑移入头灯或单独EDC品类"
+
+  - product_id: "if_便携灯_露营灯_015"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "三款mini桌灯合影：绿色三角帽灯/白色蘑菇灯/橙色蘑菇灯，玩具感极强，家居桌面"
+    product_name: "Mini Portable Lamp Collection (Playful Series)"
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "三款：(1)绿色三角锥帽+圆柱底座；(2)白色浅碗帽+圆柱底座+小提把；(3)橙色蘑菇（上宽帽下细柱）"
+      light_opening: "底部向下漫射（帽形灯罩反射），无明显出光口暴露"
+      thermal: "小体积低热量，ABS壳体被动散热"
+      cmf:
+        color: "高饱和撞色：绿+黄底、白+黄底、橙色单色，糖果/玩具色系"
+        material: "ABS塑料，玻璃/PC小灯罩"
+        finish: "高光彩色，光泽感"
+      mounting: "桌面直立，底部平放，小尺寸（约手掌大）"
+      signature_detail: "蘑菇帽比例（宽帽>细柱）——儿童玩具感强烈，完全打破功能照明的视觉惯性"
+    design_level:
+      score: 4
+      reason: "色彩+形态组合形成强烈个性，完全区别于功能主义便携灯；糖果色系+玩具比例在便携灯品类中属罕见挑战"
+    design_tags: ["蘑菇造型", "玩具色系", "mini桌灯", "家居装饰灯", "高光彩色", "高比例帽"]
+    hero_feature: "蘑菇宽帽造型——比例完全倒置（头比柱宽3倍），像玩具不像灯，放上去就是装饰"
+    problem_solved: "家居用户需要桌面小灯兼具装饰功能，传统灯具审美太保守"
+    transferable_technique: "帽宽>柱径的夸张比例设计策略，颠覆品类常规比例关系"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "合影图包含3款不同产品，建议人工确认是否拆分；品牌未识别"

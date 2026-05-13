@@ -1,0 +1,135 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: ""
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/"
+  generated_at: "2026-05-09"
+# 子类：庭院灯(13)、投光灯(17)、路灯(27)，共57张
+
+products:
+  - product_id: "if_灯具_户外灯_庭院灯_001"
+    source_images:
+      - filename: "庭院灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色庭院灯双版本：壁装版（C形圆环头安装于L形壁架）和立柱版（细方柱底座+C形圆环头顶端），圆环内白色LED弧形光带从一侧缺口出光向下"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "户外灯", "庭院灯"]
+    design_language:
+      silhouette: "灯头为C形/月牙形圆环（直径约150mm），环内嵌LED弧形光带；方柱立柱版（立柱截面约50x50mm，高约800mm）或L形壁架版"
+      light_opening: "C形圆环底部缺口方向向下出光，形成向下的月牙形光面，精确控制地面照射范围"
+      thermal: "铝合金圆环灯头，热量经立柱/壁架传导散逸"
+      cmf:
+        color: "深灰色（anthracite）"
+        material: "铝合金圆环 + 铝合金方柱/壁架"
+        finish: "深灰哑面粉末涂层"
+      mounting: "立柱地埋式安装 或 L形壁架墙面安装，系列化两种形式"
+      signature_detail: "C形月牙圆环灯头的缺口方向性：圆环的开口缺口始终朝向照明目标（地面/路面），使光仅从这一缺口方向精确射出，在视觉上产生明确的指向性设计语言"
+    design_level:
+      score: 4
+      reason: "C形月牙圆环作为灯头形态，在庭院灯领域具有强识别性；双版本（立柱/壁装）的系列化设计体现了产品族思维；深灰+月牙缺口的光控设计兼顾防眩光和精确路径照明"
+    design_tags:
+      - "月牙圆环灯头"
+      - "C形开口"
+      - "系列化双版本"
+      - "定向防眩光"
+      - "H09隐藏工程"
+      - "H07极简整合"
+    hero_feature: "C形月牙圆环灯头：完整圆环开一个缺口，光仅从缺口处向下射出，将圆形几何的纯粹感与精确光控统一，缺口本身成为视觉识别点"
+    problem_solved: "庭院路径灯需要精确向下照射路面、防止眩光骚扰邻居/行人，同时在白天有建筑雕塑感；C形月牙圆环以缺口方向控制光线方向，避免了球形/全向漫射的眩光问题"
+    transferable_technique: "圆形/球形上开缺口/切口的'月牙'形态策略：在完整几何体上切出功能性开口，开口方向即光线/功能方向，同时成为产品的核心视觉识别特征；系列化两种安装方式（立柱/壁挂）共用同一灯头的产品族策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_户外灯_路灯_001"
+    source_images:
+      - filename: "路灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色路径立灯：圆柱形实心底柱，顶端弯折成钩形/C形弯颈，弯颈末端为小圆形LED灯头（直径约60mm），灯头内有白色圆形LED，整体如植物茎干弯曲状"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "户外灯", "路灯"]
+    design_language:
+      silhouette: "圆柱实心底柱（直径约60mm），顶端弯折弧形颈部，末端承载小圆形灯头，整体侧影呈'J'形或弯茎状，高约600-800mm"
+      light_opening: "圆形小灯头（约60mm），向下定向照射，地面形成圆形光斑"
+      thermal: "圆柱铝合金柱体兼散热体"
+      cmf:
+        color: "全哑黑"
+        material: "铝合金实心柱体"
+        finish: "哑黑粉末涂层"
+      mounting: "地面埋桩或底盘固定"
+      signature_detail: "弯颈末端圆形灯头：实心圆柱从底部一贯而上，在顶端优雅弯曲，末端收束为最小化圆形灯头——圆柱→弯颈→圆形灯头的语言一致性强"
+    design_level:
+      score: 4
+      reason: "'弯茎/弓形'路灯形态在仿生语境中有强烈自然联想（植物茎/弓箭），在路径灯品类中具有强烈识别性；全黑CMF使其在白天成为庭院雕塑，夜间仅以小圆形光斑存在；整体克制极简"
+    design_tags:
+      - "弯茎路径灯"
+      - "J形弯颈"
+      - "小圆灯头"
+      - "全哑黑"
+      - "仿生弯茎"
+      - "H06仿生"
+      - "H07极简整合"
+    hero_feature: "弯颈J形轮廓+最小化圆形灯头：实心圆柱顶端弯曲成J形，末端收束为60mm圆形灯头，整体轮廓简洁如一根弯曲的茎干，夜间仅有地面圆形光斑可见"
+    problem_solved: "庭院路径灯需要在白天不显得刻板笨重、夜间提供柔和路径照明；弓形弯颈+小圆灯头解决了路径灯'功能件'形象，赋予了植物般的有机生命感"
+    transferable_technique: "J形/弯茎形态（圆柱顶端弯折）作为庭院/路径灯的识别语言；'仿生弯茎'的形态从植物/鸟颈等自然元素迁移到工业产品，适用于任何细长立式产品；全黑CMF使功能产品白天成为雕塑配件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_户外灯_投光灯_001"
+    source_images:
+      - filename: "投光灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色ROIOBS方形LED投光灯：单头（方形面板+U形支架）和三联版（圆形底盘上三个方形头扇形散开），正面均为蜂窝微透镜LED阵列"
+    product_name: ""
+    brand_name: "ROIOBS"
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "投光灯"]
+    design_language:
+      silhouette: "正方形灯头面板，三联版以圆形底盘为轴呈扇形散开，整体形成放射状多角度照明阵列"
+      light_opening: "正面满铺蜂窝六角微透镜阵列，精确防眩配光"
+      thermal: "铝合金灯体背面/侧面散热，通过支架进一步传导"
+      cmf:
+        color: "深灰/炭黑"
+        material: "铝合金灯体 + 蜂窝微透镜组件"
+        finish: "哑黑/深灰粉末涂层"
+      mounting: "U形壁挂支架或圆形地面底盘，可调方向"
+      signature_detail: "三联扇形展开的放射架构：三个方形灯头以圆形底盘为中心轴，各自独立调方向并扇形散开，形成'投光矩阵'的系统感"
+    design_level:
+      score: 4
+      reason: "三联扇形架构解决了单灯头无法满足多方向照明的痛点；蜂窝微透镜阵列的整面覆盖使关灯时的正面具有强烈的工业美学；方形模块化灯头的可扩展性强"
+    design_tags:
+      - "三联方形投光灯"
+      - "扇形放射架构"
+      - "蜂窝微透镜"
+      - "可调方向"
+      - "H05模块化"
+      - "H11功能外显"
+    hero_feature: "三联扇形投光矩阵：三个方形蜂窝灯头从圆形底盘扇形展开，各自独立调向，形成可覆盖多方向的灵活投光系统，关灯时是工业美学装置"
+    problem_solved: "大型场地（建筑外立面/停车场/体育场）需要多方向精确照射且各方向可独立调节；三联扇形架构以一个底盘安装点实现了三方向独立精确投光"
+    transferable_technique: "单圆形底盘+多头扇形展开的'多方向投光矩阵'架构；满铺蜂窝微透镜阵列覆盖整个面板的光学+视觉双功能策略，适用于所有专业照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

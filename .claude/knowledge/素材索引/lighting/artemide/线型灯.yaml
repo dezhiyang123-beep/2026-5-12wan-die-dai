@@ -1,0 +1,218 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 线型灯
+  tertiary: 线型灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/线型灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_线型灯_001
+  source_images:
+  - filename: 18.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/线型灯/18.jpg
+    image_role: hero
+    visual_anchor: 墙顶交界处的极薄白色线性灯带，粉橙渐变背景强调连续光线。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 线型灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 墙顶交界处的极薄白色线性灯带，粉橙渐变背景强调连续光线
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 线型灯
+  - 线性
+  - 逐张视觉识别
+  hero_feature: 墙顶交界处的极薄白色线性灯带，粉橙渐变背景强调连续光线
+  problem_solved: 线型灯需要在长距离安装中保持连续发光、端部收口和空间走向清晰。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_线型灯_002
+  source_images:
+  - filename: 19.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/线型灯/19.jpg
+    image_role: hero
+    visual_anchor: 银色铝型材线性灯与LED灯板分离展示，端部滑槽和电气件可见。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 线型灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 银色铝型材线性灯与LED灯板分离展示，端部滑槽和电气件可见
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 线型灯
+  - 线性
+  - 逐张视觉识别
+  hero_feature: 银色铝型材线性灯与LED灯板分离展示，端部滑槽和电气件可见
+  problem_solved: 线型灯需要在长距离安装中保持连续发光、端部收口和空间走向清晰。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_线型灯_003
+  source_images:
+  - filename: 33.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/线型灯/33.jpg
+    image_role: hero
+    visual_anchor: 多段透明线性LED模块并列，彩色背景中可见单颗透镜和金属卡扣。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 线型灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 多段透明线性LED模块并列，彩色背景中可见单颗透镜和金属卡扣
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 彩色
+  - 灯具
+  - 线型灯
+  - 线性
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 多段透明线性LED模块并列，彩色背景中可见单颗透镜和金属卡扣
+  problem_solved: 线型灯需要在长距离安装中保持连续发光、端部收口和空间走向清晰。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_线型灯_004
+  source_images:
+  - filename: 62.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/线型灯/62.jpg
+    image_role: hero
+    visual_anchor: 蓝黄黑三色方形线性灯在转角处拼接，下方排列深腔小透镜。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 线型灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 蓝黄黑三色方形线性灯在转角处拼接，下方排列深腔小透镜
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 深腔
+  - 灯具
+  - 线型灯
+  - 线性
+  - 逐张视觉识别
+  hero_feature: 蓝黄黑三色方形线性灯在转角处拼接，下方排列深腔小透镜
+  problem_solved: 线型灯需要在长距离安装中保持连续发光、端部收口和空间走向清晰。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_线型灯_005
+  source_images:
+  - filename: 67.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/线型灯/67.jpg
+    image_role: hero
+    visual_anchor: 透明柔性弧形灯带悬挂成圆弧，内部连续LED点沿曲线排列。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 线型灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 透明/半透明材质配白色或暖色光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 透明柔性弧形灯带悬挂成圆弧，内部连续LED点沿曲线排列
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 线型灯
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 透明柔性弧形灯带悬挂成圆弧，内部连续LED点沿曲线排列
+  problem_solved: 线型灯需要在长距离安装中保持连续发光、端部收口和空间走向清晰。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

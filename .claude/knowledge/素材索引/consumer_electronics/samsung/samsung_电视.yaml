@@ -1,0 +1,44 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "电视"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/电视/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "samsung_tv_001"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/电视/12.jpg"
+        image_role: "hero"
+        visual_anchor: "平板电视正面全视图，极窄边框，低矮宽底座居中，屏幕播放高饱和色彩内容"
+    product_name: "Samsung Micro RGB 电视"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "电视"]
+    design_language:
+      silhouette: "标准平板矩形，边框极细（约5mm），屏体与边框几乎齐平；底座矮而宽，横向展开"
+      light_opening: "大尺寸平板屏，边框内几乎无黑边；屏占比极高"
+      thermal: "背板散热通过中央支撑架结构处理，正面无可见散热孔"
+      cmf:
+        color: "屏框深黑色，底座深空灰拉丝金属"
+        material: "铝合金底座，工程塑料屏框"
+        finish: "底座拉丝金属哑光，屏框哑光黑"
+      mounting: "矮宽型双脚底座，支持壁挂VESA"
+      signature_detail: "极细屏框+矮宽底座组合，整体重心低、横向延伸感强"
+    design_level:
+      score: 3
+      reason: "标准旗舰电视设计语言，极窄边框与低矮底座为行业共识方案；设计克制规整，无突破性创新，但品牌辨识度稳定"
+    design_tags: ["极窄边框", "平板电视", "高屏占比", "低矮底座", "哑光黑框"]
+    hero_feature: "Micro RGB屏体技术带来的极高饱和度显示能力，配合极窄边框最大化视觉沉浸"
+    problem_solved: "客厅场景中电视边框视觉干扰问题，追求无边界屏幕体验"
+    transferable_technique: "极细屏框+矮宽底座的比例逻辑——屏体与支撑结构的轻重比对比，可迁移至其他大屏显示产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

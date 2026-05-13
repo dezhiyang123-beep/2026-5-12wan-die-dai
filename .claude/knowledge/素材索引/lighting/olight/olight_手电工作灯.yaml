@@ -1,0 +1,616 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "手电·工作灯"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "olight_手电工作灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "五色并排的扁平矩形机身，顶部集成旋转式多功能灯头（UV/白光/手电），深色旋钮是视觉焦点"
+    product_name: ""
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "扁平矩形板状（类似厚信用卡），顶端突出圆形多光源旋转模块，整体呈T字轮廓"
+      light_opening: "顶部圆形旋转模块集成UV、白光泛光和手电三路光源，旋钮拨动切换，发散角不固定"
+      thermal: "铝合金薄板机身整体导热，无散热鳍片，依靠大面积平面散热"
+      cmf:
+        color: "橙色、暗纹灰（限定涂装）、银灰双色、军绿、哑黑（五色可选）"
+        material: "阳极氧化铝合金机身"
+        finish: "哑光阳极氧化，限定款有铆钉纹浮雕装饰"
+      mounting: "手持夹持，机身无附加固定结构（无夹、无磁），靠厚度和宽面防滑握持"
+      signature_detail: "顶部突出的圆形旋转多功能灯头模块——将UV、泛光和聚光三种光型整合进一个可拨动的圆盘，在扁平卡片形体上形成强烈的圆形视觉锚点"
+    design_level:
+      score: 4
+      reason: "将UV+白光+泛光三功能整合进旋转圆盘并植入卡片形体，功能集成思路独特；五色配色含限定刻纹版，产品力强；但整体比例稍显笨重，限定款纹理与其他款视觉差异过大，系列感略弱"
+    design_tags:
+      - "H05模块化"
+      - "H11功能外显"
+      - "H08对比强调"
+      - "多功能EDC"
+      - "卡片形体"
+      - "UV光源"
+      - "旋转切换"
+      - "阳极氧化铝"
+      - "多色系列"
+      - "限定配色"
+    hero_feature: "顶部旋转式三合一圆形光源模块（UV/泛光/聚光可拨动切换）嵌入扁平矩形板身"
+    problem_solved: "EDC用户需要随身携带UV验钞/泛光照明/手电三种功能，传统手电无法做到，此设计将三者压进卡片尺寸"
+    transferable_technique: "将多模式切换功能整合进一个物理旋转模块，用圆形旋钮在矩形平面上创造视觉焦点，同时实现功能外显——可迁移至多档位工具、多功能笔、随身充电器等品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "四色（哑黑/橙/军绿/闪电纹限定）并排的粗管圆柱手电，密集箭头状钻石纹握把是主视觉"
+    product_name: "Baton 4 Pro"
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "等径粗圆柱（上下直径相近），顶部无明显缩颈，尾端平切，整体比例偏短粗"
+      light_opening: "顶端单凸透镜聚光，浅贝塞尔圈，中远射程spotbeam，正面可见一枚蓝色/绿色圆形磁吸充电按钮（部分款）"
+      thermal: "铝合金全体导热，无鳍片，靠机身粗管截面散热"
+      cmf:
+        color: "哑黑、橙色、军绿、白色闪电迷彩（限定款）"
+        material: "阳极氧化铝合金"
+        finish: "阳极氧化哑光，限定款有水墨溅射纹"
+      mounting: "手持握把，右侧带金属弹力口袋夹，尾部无磁性，侧面有方形侧按开关"
+      signature_detail: "全身密布的箭头方向性钻石纹（Arrowhead knurling）——方向感强烈的纹路既提供360°防滑握持，又形成有节奏感的视觉肌理，区别于普通横纹滚花"
+    design_level:
+      score: 4
+      reason: "箭头钻石纹在EDC手电中辨识度极高，四色系列含限定款，产品线规划成熟；比例短粗偏战术但兼顾EDC口袋携带，侧按开关位置人机合理；总体执行精良，仍在Olight自身体系内"
+    design_tags:
+      - "H04参数化"
+      - "H10材料表达"
+      - "H12人机界面强化"
+      - "箭头钻石纹"
+      - "EDC手电"
+      - "口袋夹"
+      - "侧按开关"
+      - "多色系列"
+      - "限定配色"
+      - "短粗圆柱"
+    hero_feature: "全握把区覆盖的方向性箭头钻石纹，兼具防滑功能与高辨识度视觉肌理"
+    problem_solved: "口袋EDC用户需要单手盲操稳握、防滑不脱手的随身照明，箭头钻石纹在湿手或手套操作下提供多向防滑"
+    transferable_technique: "用方向性箭头纹路（而非传统横纹滚花）覆盖握持区，兼顾方向感视觉语言与多向防滑功能，可迁移至户外刀具、战术手柄、相机握把等需要握持感的品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑战术圆柱手电，中段螺旋斜纹握把与六角形侧按开关共同构成视觉重心"
+    product_name: ""
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "细长圆柱，顶端略有缩颈后扩展为中等直径头部，整体比例偏长，具战术手电典型轮廓"
+      light_opening: "尾端（图中朝上）可见小型LED点光源，暗示双向出光或尾灯设计；头部（图中朝下）应为主聚光方向，未正面展示"
+      thermal: "铝合金机身导热，顶部有细密滚花散热纹，无独立鳍片"
+      cmf:
+        color: "军绿/深橄榄（matte OD green）"
+        material: "阳极氧化铝合金"
+        finish: "哑光阳极氧化"
+      mounting: "手持握把，中部螺旋斜纹防滑区，六角形侧按开关位于握把上部，无可见口袋夹"
+      signature_detail: "六角形（Hex）造型的侧按开关——将工业螺栓语言引入按键设计，提供视觉识别与防误触两用功能，形成战术感强烈的特征细节"
+    design_level:
+      score: 3
+      reason: "战术手电标准形态，执行扎实；六角形按键是一个有设计考量的细节，但整体造型仍在行业惯例范围内，缺乏颠覆性特征，属于高质量常规执行"
+    design_tags:
+      - "H04参数化"
+      - "H08对比强调"
+      - "战术手电"
+      - "六角形开关"
+      - "螺旋斜纹"
+      - "军绿配色"
+      - "长管圆柱"
+      - "侧按开关"
+    hero_feature: "六角形螺栓造型侧按开关，将工业紧固件语言转化为操控界面细节"
+    problem_solved: "战术/执法用户需要单手盲操找到开关且防止误触，六角形突出轮廓在黑暗中提供触觉定位"
+    transferable_technique: "将工业螺栓/六角形几何引入功能按键轮廓，同时解决防误触（边缘有阻挡感）和视觉识别两个问题，可迁移至头灯、战术工具、头盔配件等操控界面设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "黑+金框/橙双色扁平矩形卡片灯，顶部三孔光源阵列（两圆一方）嵌入黑色面板，Olight标志居中下方"
+    product_name: "Oclip Pro S"
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "竖向矩形卡片，圆角，顶部1/3为黑色光源面板区，下部2/3为色彩机身区，右侧有薄型金属弹簧夹"
+      light_opening: "顶部黑色面板内嵌三光源阵列：左上白光LED（聚光）、右上红色LED（信号/夜视保护）、下方方形COB泛光源，提供多向混合照明"
+      thermal: "铝合金薄板机身整体散热，无鳍片"
+      cmf:
+        color: "哑黑+金色装饰框（限定款）、橙色（标准款）"
+        material: "阳极氧化铝合金"
+        finish: "哑光阳极氧化，限定款有金色边框点缀"
+      mounting: "右侧弹簧金属夹，可夹帽檐、口袋、背包带；底部疑似有磁性底座（Olight Oclip系列特征）"
+      signature_detail: "三光源阵列（白光聚光+红光信号+COB泛光）整合进单一黑色面板，像手机后置相机模组的灯具版，具有强烈科技感和功能外显性"
+    design_level:
+      score: 4
+      reason: "三光源阵列模组化布局视觉辨识度高，将多功能灯具设计语言向消费电子靠拢（相机模组感）；卡片+弹簧夹的携带方案解决EDC便携痛点；两色系列+限定款金框执行精良，整体设计成熟度高"
+    design_tags:
+      - "H05模块化"
+      - "H11功能外显"
+      - "H07极简整合"
+      - "卡片形体"
+      - "三光源阵列"
+      - "COB泛光"
+      - "弹簧夹携带"
+      - "相机模组语言"
+      - "EDC夹灯"
+      - "限定配色"
+    hero_feature: "顶部三光源矩阵（白光+红光+COB方形）嵌入黑色面板，形成类相机模组的功能外显阵列"
+    problem_solved: "需要随身夹带、免手持的多场景照明（近光泛光+远光手电+夜视保护红光），帽夹/口袋夹方案解放双手"
+    transferable_technique: "将多功能光源整合成模组化阵列，借用消费电子（手机相机模组）的视觉语言让功能布局一目了然，可迁移至头灯、工作头盔灯、随身应急灯等需要功能外显的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑大功率手电，蓝色铝合金锯齿贝塞尔圈搭配四颗LED阵列，形成强烈色彩对比焦点"
+    product_name: "Seeker 4 Pro"
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "中大型圆柱，头部明显扩径（灯头比管身粗），向尾部略有收缩，具搜索灯/高性能手电典型轮廓"
+      light_opening: "四颗LED方形阵列，搭配蓝色阳极氧化铝合金深锯齿贝塞尔圈，大直径反光碗，泛光+远射混合光型"
+      thermal: "头部设有明显纵向散热槽（凹槽内可见），铝合金头部兼做散热体，无鳍片但有结构化散热沟槽"
+      cmf:
+        color: "哑黑机身+蓝色贝塞尔圈（撞色）"
+        material: "阳极氧化铝合金，握把区有橡胶/TPU注塑包覆纹理"
+        finish: "机身哑光阳极氧化，贝塞尔圈蓝色阳极氧化；握把区压纹橡胶"
+      mounting: "手持握把，尾端平切（隐含磁吸尾盖可能），侧面圆形侧按开关"
+      signature_detail: "蓝色阳极氧化铝合金锯齿贝塞尔圈——在全黑战术机身上形成高饱和度蓝色色带，与四颗LED阵列共同构成品牌视觉记忆点（Seeker系列标志性蓝色圈）"
+    design_level:
+      score: 4
+      reason: "蓝色贝塞尔圈+四LED阵列是Seeker系列高辨识度视觉基因，撞色手法在战术黑色手电品类中罕见且有效；握把区橡胶纹理体现人机工程考量；整体是高端搜索手电的优秀范本，但形态仍在传统手电框架内"
+    design_tags:
+      - "H08对比强调"
+      - "H10材料表达"
+      - "H04参数化"
+      - "蓝色贝塞尔圈"
+      - "四LED阵列"
+      - "撞色设计"
+      - "大功率搜索灯"
+      - "橡胶握把"
+      - "战术手电"
+      - "Seeker系列"
+    hero_feature: "蓝色阳极氧化锯齿贝塞尔圈与全黑机身的强烈撞色对比，形成Seeker系列专属视觉基因"
+    problem_solved: "高亮度远射搜索需求（户外/搜救/执法），四LED提供超高流明输出，蓝色圈在产品线内形成快速识别"
+    transferable_technique: "在单色调（全黑）机身上，用单一高饱和度色彩贝塞尔圈/端盖来建立系列视觉基因，实现低成本高辨识度的品牌差异化，可迁移至其他工具类产品的系列化设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑战术笔形态，中部蓝色装饰环将笔身分为上下两段，右侧展示白光/红激光/绿激光三种出光模式"
+    product_name: ""
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "细长圆柱（钢笔/战术笔比例），顶端为传统笔形出光口，下半段略粗且有点状防滑纹，整体呈笔形"
+      light_opening: "笔尖方向单LED小聚光（白光手电模式），尾部可切换出红色激光和绿色激光，共三种出光模式"
+      thermal: "笔形铝合金导热，无特殊散热结构（低功率无需）"
+      cmf:
+        color: "全哑黑，中段蓝色铝环装饰"
+        material: "铝合金笔身"
+        finish: "哑光阳极氧化黑色，蓝色环阳极氧化"
+      mounting: "笔夹携带（右侧金属弹簧笔夹），可插入衬衫口袋/笔袋，操控按键位于笔夹附近"
+      signature_detail: "蓝色铝合金腰环将笔身分节，同时作为手电/激光切换界面的视觉分割线，让功能分区在外形上一目了然"
+    design_level:
+      score: 3
+      reason: "笔形手电+激光指示器三合一的功能集成适合商务/EDC场景，蓝色腰环分节处理较优雅；但造型整体较为常规，笔形手电品类已有众多竞品，设计差异度不足以形成强烈记忆点"
+    design_tags:
+      - "H05模块化"
+      - "H11功能外显"
+      - "H09隐藏工程"
+      - "笔形手电"
+      - "激光指示器"
+      - "多功能EDC"
+      - "笔夹携带"
+      - "蓝色腰环"
+      - "战术笔"
+    hero_feature: "笔形机身集成白光手电+红激光+绿激光三种出光模式，蓝色腰环作为功能分区视觉标记"
+    problem_solved: "商务/EDC用户需要单件工具覆盖照明+激光演示+随身携带三种场景，笔形伪装降低携带门槛"
+    transferable_technique: "用腰环色彩分节法将多功能工具的功能区在外形上显性化，让使用者直觉理解功能分布，可迁移至多功能笔、EDC多用工具、组合工具等产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "沙漠棕微型钥匙扣手电，末端接不锈钢方形钥匙扣架，圆柱形体与多边形尾部拼接形成强烈材质对比"
+    product_name: ""
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "微型短粗圆柱，头部略有收缩形成小凸缘，尾部接多边形铝合金（带文字'Ultra'）过渡段，末端接不锈钢方形钥匙扣"
+      light_opening: "头部单一小LED，极小直径无透镜裸露光源或微型TIR透镜，泛光近射"
+      thermal: "微型机身无专用散热结构，整体铝合金导热"
+      cmf:
+        color: "沙漠棕/沙色（Desert Sand），钥匙扣为银色不锈钢"
+        material: "阳极氧化铝合金机身，不锈钢钥匙扣"
+        finish: "哑光阳极氧化，钥匙扣拉丝不锈钢"
+      mounting: "不锈钢方形钥匙扣直接集成于尾端，钥匙圈穿孔设计，可挂于钥匙环/背包"
+      signature_detail: "不锈钢方形钥匙扣架与多边形铝合金尾段的组合——将EDC钥匙扣的固定结构做成精致工具感的几何拼接，钥匙扣本身成为设计细节而非后加零件"
+    design_level:
+      score: 4
+      reason: "微型EDC手电中不锈钢钥匙扣一体设计的执行非常精致，材质拼接（铝+不锈钢）层次感强；沙色配色符合EDC/军事美学；尺寸极小但设计细节完成度高，是小尺寸高完成度的优秀案例"
+    design_tags:
+      - "H07极简整合"
+      - "H10材料表达"
+      - "H09隐藏工程"
+      - "钥匙扣手电"
+      - "微型EDC"
+      - "沙漠棕"
+      - "不锈钢拼接"
+      - "多边形几何"
+      - "极小尺寸"
+    hero_feature: "不锈钢方形钥匙扣架与多边形铝合金尾端的精致材质拼接，将固定件做成设计亮点"
+    problem_solved: "日常钥匙挂件用户需要随时可用的应急照明，一体化钥匙扣方案实现零额外携带负担"
+    transferable_technique: "将附件固定结构（钥匙扣/夹/扣）做成产品设计的一部分而非事后零件，用材质切换（铝+不锈钢）在小尺寸产品上制造精致感，可迁移至钥匙工具、EDC小件、挂扣类配件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "深海蓝微型圆柱手电，尾端直接延伸为USB-A充电插头，形成充电器与手电合一的独特剪影"
+    product_name: "imini 2"
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "微型圆柱（手电段）+矩形平板（USB-A插头段），两段通过弧形过渡相连，整体呈USB闪存盘式轮廓"
+      light_opening: "头部单一极小LED，TIR或裸露微型光源，泛光近射"
+      thermal: "极小体积无散热需求，铝合金机身导热"
+      cmf:
+        color: "深海蓝（Navy Blue/Ocean Blue）"
+        material: "阳极氧化铝合金，USB金属触点"
+        finish: "哑光阳极氧化，机身有细钻石纹滚花"
+      mounting: "USB-A插头直接插入充电设备/电脑口充电，使用时手持或夹持，可见CE认证标志"
+      signature_detail: "尾端USB-A插头与圆柱手电体的一体化融合——充电接口即是机身的一部分，消灭了充电线/充电夹，是Olight imini系列的标志性设计解法"
+    design_level:
+      score: 4
+      reason: "USB直插充电方案彻底解决微型EDC手电的充电痛点，造型极度精简（即插即充）；深海蓝配色在黑色主导的手电品类中清新罕见；设计逻辑清晰，是功能驱动造型的典型优秀案例"
+    design_tags:
+      - "H07极简整合"
+      - "H09隐藏工程"
+      - "H11功能外显"
+      - "USB直插充电"
+      - "微型EDC"
+      - "深海蓝"
+      - "充电一体化"
+      - "极简形体"
+      - "imini系列"
+    hero_feature: "尾端USB-A插头与手电机身的一体化融合，充电即插入USB口，零附件充电"
+    problem_solved: "微型EDC手电充电繁琐（需专用线/充电夹）的痛点，USB直插方案让任何USB口都能充电"
+    transferable_technique: "将充电接口从附件整合进产品本体，用形态融合而非接口连接实现功能集成，可迁移至便携小型电子设备、应急工具、随身充电类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "军绿/沙色拉丝铝合金竖向矩形卡片灯，顶部三孔光源三角阵列嵌入黑色面板，底部压印'Made of DAL'字样"
+    product_name: ""
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "竖向矩形卡片，圆角，顶部1/3为黑色面板区，下部机身展示拉丝铝合金工艺，右侧弹簧金属夹"
+      light_opening: "顶部黑色面板内嵌三光源三角阵列：左上黄色暖光LED、右上白色冷光LED、下方方形黄色COB泛光源，三种色温可选"
+      thermal: "DAL（Dual Alloy Layer）拉丝铝合金机身，无鳍片，整面导热"
+      cmf:
+        color: "军绿/沙色（拉丝铝合金本色+阳极氧化）"
+        material: "DAL双层铝合金（Dual Alloy Layer），区别于标准6061铝合金"
+        finish: "机身拉丝铝合金哑光，面板黑色阳极氧化"
+      mounting: "右侧弹簧金属夹（帽夹/口袋夹），可能有磁吸底座"
+      signature_detail: "'Made of DAL'压印字样+拉丝铝合金面层——将材料质量外显为设计语言，类似Apple 'Shot on iPhone'的做法，让材质本身成为产品差异化声明"
+    design_level:
+      score: 4
+      reason: "DAL材质外显+拉丝铝面层提供了超越同级的质感；三光源三角阵列（暖/冷/COB）的色温覆盖方案实用且功能外显清晰；材料策略+UI设计+功能设计三者协调一致，整体完成度高"
+    design_tags:
+      - "H05模块化"
+      - "H10材料表达"
+      - "H11功能外显"
+      - "拉丝铝合金"
+      - "DAL材质"
+      - "三光源三角阵列"
+      - "卡片形体"
+      - "弹簧夹携带"
+      - "材质外显策略"
+      - "多色温"
+    hero_feature: "拉丝DAL铝合金机身+底部压印材质声明，将原材料品质做成可见的设计差异化语言"
+    problem_solved: "需要随身夹带、免手持、多色温选择（工作/阅读/夜间保护）的专业EDC照明需求，拉丝铝面传递工具级品质感"
+    transferable_technique: "将材料规格（DAL/航空铝/钛合金等）通过压印+工艺可见性外显为设计卖点，让材质本身说话，可迁移至高端工具、户外装备、精密仪器等需要传递品质感的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_010"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "宝蓝色短粗圆柱手电，全身覆盖白色星系/宇宙元素印花图案，尾端连接钥匙圈"
+    product_name: ""
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "短粗圆柱，头部与尾部有细环形分节，中段为主体握持区，整体比例接近Baton系列但更短小"
+      light_opening: "头部单一小LED，浅凸透镜聚光，小直径贝塞尔，中等射程spotbeam"
+      thermal: "铝合金机身导热，无鳍片"
+      cmf:
+        color: "宝蓝/青蓝（Teal Blue），白色印花图案"
+        material: "阳极氧化铝合金"
+        finish: "哑光阳极氧化+白色丝印/激光刻印宇宙星系图案"
+      mounting: "尾端钥匙圈直接连接，钥匙扣挂载，手持亦可"
+      signature_detail: "全机身覆盖白色星系印花（Saturn/星球/星点/轨道）——将宇宙题材图案化装饰铺满圆柱机身，是Olight限定联名/主题款的典型手法，将工具感转化为收藏品感"
+    design_level:
+      score: 3
+      reason: "星系印花限定款设计执行精良，颜色与图案搭配协调；但造型本体（短粗圆柱+钥匙圈）较为通用，设计价值主要来自表面图案而非形体创新，功能上无突破，是优质限定款但非类别定义级产品"
+    design_tags:
+      - "H10材料表达"
+      - "H08对比强调"
+      - "限定印花"
+      - "宇宙星系主题"
+      - "钥匙扣手电"
+      - "收藏品感"
+      - "主题款"
+      - "短粗圆柱"
+      - "宝蓝色"
+    hero_feature: "宝蓝色机身上全覆盖的白色星系宇宙印花，将工具产品转化为主题收藏品"
+    problem_solved: "EDC爱好者对个性化/收藏级随身工具的需求，通过主题印花提供超越功能的情感价值"
+    transferable_technique: "用全机身主题印花将标准工具产品升级为限定收藏品，通过表面装饰建立情感差异化（无需改变功能结构），可迁移至户外刀具、打火机、EDC工具的联名/主题款设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_011"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑方形战术枪灯+绿色激光，顶部皮卡汀尼导轨座搭配侧翼快拆拨片，绿色激光束从灯头射出"
+    product_name: ""
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "紧凑方形模块，前端圆形灯头+激光孔，顶端标准皮卡汀尼导轨安装座，右侧有宽大拨片式快拆开关"
+      light_opening: "前端单一大直径圆形反光碗LED（聚光远射），激光孔位于灯头一侧，绿色激光与白光同向出射"
+      thermal: "铝合金方形壳体导热，体积限制无鳍片"
+      cmf:
+        color: "全哑黑"
+        material: "阳极氧化铝合金+工程塑料复合"
+        finish: "哑光阳极氧化黑色，皮卡汀尼座和快拆机构为CNC铝"
+      mounting: "顶部标准皮卡汀尼/Picatinny导轨安装座（枪灯专用），右侧宽大拨片开关可单手操作"
+      signature_detail: "宽大平面拨片式快拆开关——允许戴手套的用户单手操控武器系统，形体扁宽提供操控面积，是执法/战术场景的人机工程解法"
+    design_level:
+      score: 3
+      reason: "枪灯+绿激光集成是战术用户明确需求，导轨座+快拆拨片执行规范；但枪灯品类形态高度标准化，设计空间有限，此款是类别内高质量执行而非形态突破"
+    design_tags:
+      - "H12人机界面强化"
+      - "H05模块化"
+      - "H11功能外显"
+      - "枪灯"
+      - "战术配件"
+      - "皮卡汀尼导轨"
+      - "绿色激光"
+      - "快拆机构"
+      - "拨片开关"
+      - "手套操作"
+    hero_feature: "宽大平面拨片式快拆开关，专为戴手套单手操控战术武器系统设计"
+    problem_solved: "执法/战术用户需要在武器平台上快速装卸照明+激光瞄准模块，并在紧张环境下单手盲操开关"
+    transferable_technique: "为特殊使用场景（戴手套、紧张、单手）设计超大操控面积的拨片开关，将人机工程约束转化为形态特征，可迁移至工业设备、户外装备、医疗器械等极端使用场景的操控界面设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_012"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "沙漠棕等径圆柱手电，中部六角形黑色侧按开关突出于机身，密集横向环形纹路覆盖全握把区"
+    product_name: "Baton Ultra"
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "等径圆柱，头部无明显扩径，上下直径一致，整体比例偏长，纯管身轮廓"
+      light_opening: "顶部平切（图中未展示灯头），应为单一LED聚光，顶端可见细滚花防滑边"
+      thermal: "铝合金等径圆柱，无鳍片，等径设计提供均匀散热截面"
+      cmf:
+        color: "沙漠棕/浅军绿（Desert Tan）"
+        material: "DAL阳极氧化铝合金（机身有'Made of DAL'文字）"
+        finish: "哑光阳极氧化，全身密集横向环形纹"
+      mounting: "手持握把，无可见口袋夹（图中正视角未显示），六角形侧按开关"
+      signature_detail: "密集等间距横向环形纹从头到尾统一覆盖全管身——既作为防滑纹路，又通过均匀节奏感创造视觉整体性，使等径圆柱在单调形体上获得强烈肌理感"
+    design_level:
+      score: 4
+      reason: "等径圆柱+全身密集横纹是一种高度自律的设计克制，Baton Ultra在形体上做减法（无缩颈无扩头），用纹路密度和DAL材质提升质感；沙漠棕配色+六角形侧按整合了Olight战术美学；整体极简但有强烈个性"
+    design_tags:
+      - "H01减法"
+      - "H04参数化"
+      - "H10材料表达"
+      - "等径圆柱"
+      - "全身横纹"
+      - "DAL材质"
+      - "沙漠棕"
+      - "六角形开关"
+      - "极简战术"
+      - "Baton系列"
+    hero_feature: "等径圆柱从头到尾密集横向环形纹路的全覆盖，用极度统一的肌理语言替代形体变化"
+    problem_solved: "战术/EDC用户需要无需思考即可握稳的随身照明，全向均匀横纹提供360°一致防滑手感，等径设计方便反握和战术握持"
+    transferable_technique: "用全身统一肌理纹路（而非形体变化）建立产品视觉个性，等径圆柱策略兼顾多种握持方式，可迁移至战术手柄、户外刀具、手持设备等需要握持均一性的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "olight_手电工作灯_013"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/olight/手电·工作灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑头灯，蓝色圆形双色温三LED灯头嵌入横向管形支架，宽幅黑色透气织带横贯画面"
+    product_name: ""
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "手电·工作灯"
+    design_language:
+      silhouette: "横向管形手电（灯头朝右，管身横置）通过中央支架固定在头带上，灯头可能有俯仰角调节"
+      light_opening: "圆形灯头内三颗LED呈三角形阵列（暖白+冷白+暖白组合），外圈蓝色铝合金装饰/散热圈，泛光+聚光可切换"
+      thermal: "灯头蓝色铝合金圈兼作散热环，圆形大面积散热"
+      cmf:
+        color: "全黑机身+蓝色灯头装饰圈"
+        material: "阳极氧化铝合金灯头，尼龙/涤纶织带，ABS/PC支架"
+        finish: "灯头哑光铝合金，织带哑光黑+反光银条纹"
+      mounting: "双层弹性头带（额带+顶带），宽幅透气织带，头带两侧有Olight标志，织带有反光条"
+      signature_detail: "蓝色铝合金外圈+三LED三角阵列的圆形灯头——蓝色圈延续Seeker系列品牌DNA，同时在头灯品类中创造Olight的跨产品系列视觉一致性"
+    design_level:
+      score: 4
+      reason: "蓝色圈将Seeker系列视觉基因迁移至头灯品类，建立跨产品线的品牌视觉一致性，这是高成熟度品牌设计策略；三LED暖冷组合提供色温灵活性；双带头灯固定方案人机舒适，总体是执行成熟的高端头灯"
+    design_tags:
+      - "H08对比强调"
+      - "H05模块化"
+      - "H12人机界面强化"
+      - "头灯"
+      - "蓝色装饰圈"
+      - "三LED阵列"
+      - "暖冷双色温"
+      - "双层头带"
+      - "跨产品线视觉一致"
+      - "反光织带"
+    hero_feature: "蓝色铝合金外圈将Seeker/Baton系列视觉DNA迁移至头灯品类，建立跨产品线识别"
+    problem_solved: "户外/工作用户需要双手解放+多色温选择+长时间舒适佩戴的头灯，三LED暖冷阵列+宽幅透气织带满足多场景需求"
+    transferable_technique: "用特定颜色零件（蓝色圈、橙色环等）在不同品类之间传递品牌视觉基因，低成本实现跨品类产品线一致性，可迁移至其他有多品类产品线的工具/户外品牌设计体系"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

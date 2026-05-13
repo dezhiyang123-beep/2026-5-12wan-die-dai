@@ -1,0 +1,84 @@
+# gate_review.schema.yaml — 关卡审查结果（reviewer输出，可在任何关卡调用）
+
+schema_version: "1.0"
+
+required:
+  project_id:
+    type: string
+  review_gate:
+    type: string
+    description: 被审查的关卡，如G0/G1/G2/G3
+  review_date:
+    type: string
+  reviewed_artifact:
+    type: string
+    description: 被审查的文件路径
+
+  boss_7d_review:
+    type: list
+    description: 7维度逐一审查结果
+    item_fields:
+      dimension:
+        type: string
+        enum: [使用场景, 目标人群, 差异化, 制造可行性, 成本结构, 市场规模, 客户买单]
+      boss_question:
+        type: string
+        description: 老板最可能追问的具体问题（必须尖锐，不能泛泛）
+      current_answer:
+        type: string
+        description: 当前方案对这个问题的回答
+      competitor_ref:
+        type: string
+        description: 引用竞品数据对比（来自g1_intel.competitor_matrix）
+      weakness:
+        type: string
+        description: 当前答案的薄弱点
+      risk_level:
+        type: string
+        enum: [致命, 非致命]
+
+  false_positive_check:
+    type: object
+    description: 3条假阳性检查
+    fields:
+      decision_core_real:
+        type: object
+        fields:
+          verdict: string   # 真实/虚假
+          reason: string    # 判断依据
+      contradiction_solved:
+        type: object
+        fields:
+          verdict: string   # 真正消解/折中妥协
+          reason: string
+      dfm_pass_real:
+        type: object
+        fields:
+          verdict: string   # 真实PASS/形式PASS
+          reason: string
+
+  fatal_issues:
+    type: list
+    description: 致命问题清单（不修复则无法提交）
+    item_fields:
+      issue: string
+      dimension: string
+      fix_required: string
+
+  non_fatal_issues:
+    type: list
+    description: 非致命问题清单（建议修复但不阻断）
+
+  verdict:
+    type: string
+    enum: [通过, 不通过, 条件通过]
+    description: 最终判定
+
+  verdict_reason:
+    type: string
+    description: 判定依据（1-2句话）
+
+validation:
+  - boss_7d_review 必须有7条，每条dimension不重复
+  - 如果verdict为通过，fatal_issues必须为空列表
+  - boss_question不得包含"是否考虑"/"是否可以"等软性表述，必须是直接追问

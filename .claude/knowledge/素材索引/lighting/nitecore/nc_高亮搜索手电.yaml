@@ -1,0 +1,149 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "手电筒"
+  tertiary: "高亮搜索手电"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/高亮搜索手电/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_高亮_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/高亮搜索手电/01.jpg"
+        image_role: "hero"
+        visual_anchor: "TM9K Pro，标准手电型，3颗LED三角排布宽头，筒身滚花+散热槽，哑黑+银灰双色"
+    product_name: "Nitecore TM9K Pro"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "高亮搜索手电"]
+    design_language:
+      silhouette: "经典圆柱手电型，头部明显大于握把直径，锥形过渡，尾部收细"
+      light_opening: "3颗LED三角矩阵排布，共用一个大口径反光碗，灰色铝合金灯口边框"
+      thermal: "筒身中段密集平行散热槽，配合尾部散热孔，热管理明显"
+      cmf:
+        color: "哑黑主体 + 银灰铝合金灯头环"
+        material: "铝合金全身"
+        finish: "哑黑阳极氧化 + 滚花防滑纹"
+      mounting: "尾部标准悬挂孔，可配手绳"
+      signature_detail: "3颗LED三角排布视觉冲击强，筒身双区滚花+平行散热槽层次丰富"
+    design_level:
+      score: 4
+      reason: "三LED矩阵头部视觉特征极强，散热结构语言清晰专业，整体比例协调"
+    design_tags: ["三LED矩阵", "大功率", "圆柱型", "散热槽", "专业搜索"]
+    hero_feature: "三颗LED三角矩阵排布，视觉上即传递超高光通量信息"
+    problem_solved: "搜救/探险场景需要极高亮度远射与大泛光覆盖"
+    transferable_technique: "多LED三角矩阵排布+统一大反光碗，可迁移至高功率摄影灯、工程探照灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_高亮_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/高亮搜索手电/02.jpg"
+        image_role: "hero"
+        visual_anchor: "TM12K，砖块形扁平机身，四颗LED 2x2矩阵，顶部OLED显示屏，双按键，全黑"
+    product_name: "Nitecore TM12K"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "高亮搜索手电"]
+    design_language:
+      silhouette: "扁方砖形机身，灯头端截面为矩形，偏离传统圆柱手电形态，类似便携充电宝比例"
+      light_opening: "四颗LED 2x2方形矩阵，独立反光杯，整体出光面为宽矩形"
+      thermal: "机身底部一排通风散热孔阵列，铝合金全身"
+      cmf:
+        color: "全哑黑"
+        material: "铝合金机身"
+        finish: "哑黑阳极氧化 + 侧面细纹滚花"
+      mounting: "顶部双圆形按键+OLED小屏，侧面有挂绳孔"
+      signature_detail: "顶面OLED显示屏实时显示亮度/电量，双按键操控，智能化程度高"
+    design_level:
+      score: 5
+      reason: "非传统手电形态突破强，OLED屏幕+4LED矩阵+砖形机身三要素叠加，设计语言自成一格"
+    design_tags: ["OLED显示屏", "四LED矩阵", "砖形机身", "12000流明", "智能手电"]
+    hero_feature: "顶置OLED实时信息屏，将手电变为可读取状态的智能工具"
+    problem_solved: "高强度使用场景需要实时掌握剩余亮度/电量，避免关键时刻断电"
+    transferable_technique: "扁平砖形机身+顶置信息屏布局，可迁移至专业测量仪器、户外智能设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_高亮_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/高亮搜索手电/03.jpg"
+        image_role: "hero"
+        visual_anchor: "TM20K，超大口径头部+超长圆柱筒身，12颗以上LED环形+中心矩阵排布，黑白迷彩"
+    product_name: "Nitecore TM20K"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "高亮搜索手电"]
+    design_language:
+      silhouette: "长圆柱型，头部直径极大（近握把2倍），头部与筒身形成强烈比例张力"
+      light_opening: "超大口径灯头，LED多阵列：外圈环形排列+内圈矩阵，总颗数12+，专业搜索阵列"
+      thermal: "筒身全程密集平行散热槽，散热面积极大"
+      cmf:
+        color: "黑白迷彩拼接图案 + 哑黑铝合金"
+        material: "铝合金"
+        finish: "迷彩印刷/烤漆 + 滚花纹理"
+      mounting: "尾部带挂绳孔，体积较大需双手持握"
+      signature_detail: "黑白迷彩图案跨越筒身全段，视觉张力极强，属于限定/特别版处理"
+    design_level:
+      score: 4
+      reason: "超大头部比例+多LED阵列视觉震撼，迷彩配色为加分项，但迷彩降低了通用性"
+    design_tags: ["超大灯头", "多LED环形阵列", "迷彩配色", "20000流明", "双手持握"]
+    hero_feature: "超大口径灯头+12颗以上LED环形矩阵，从外观即可感知极限光通量"
+    problem_solved: "极端搜救、夜间大范围照明需要最高流明输出的专业设备"
+    transferable_technique: "LED环形+中心矩阵双层排布，可迁移至大型投影/舞台灯光阵列设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_高亮_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/高亮搜索手电/04.jpg"
+        image_role: "hero"
+        visual_anchor: "NBRP910D超大口径远射手电，单LED深抛物面反光杯，筒身极粗，腰部OLED+操控模块"
+    product_name: "Nitecore NBRP910D"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "高亮搜索手电"]
+    design_language:
+      silhouette: "超大圆柱型，头部口径为握把直径约3倍，深抛物面灯头，腰部有控制模块凸起"
+      light_opening: "单LED超大口径深抛物面反光杯，强远射设计，光束集中度极高"
+      thermal: "筒身粗大散热体积，腰部控制模块处有散热开口"
+      cmf:
+        color: "哑黑主体 + 银灰反光杯内壁"
+        material: "铝合金全身"
+        finish: "哑黑阳极氧化 + 菱形滚花"
+      mounting: "腰部可拆卸控制模块含OLED屏+按键，尾部有挂绳/固定点"
+      signature_detail: "腰部分离式OLED控制模块是设计亮点，将操控界面与灯头灯体分离"
+    design_level:
+      score: 5
+      reason: "超大口径深抛物面形态视觉震撼，腰部分离控制模块是类别创新，整体专业感顶级"
+    design_tags: ["超大口径", "深抛物面", "腰部控制模块", "OLED", "远射专业"]
+    hero_feature: "腰部可拆卸OLED控制模块，将照明与控制界面物理分离，操控人机工程优秀"
+    problem_solved: "超远距离（1000m+）搜索照明，需要极高光束集中度和专业操控界面"
+    transferable_technique: "分离式控制模块+主功能体的模块化思路，可迁移至大型专业设备、工业手持仪器"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

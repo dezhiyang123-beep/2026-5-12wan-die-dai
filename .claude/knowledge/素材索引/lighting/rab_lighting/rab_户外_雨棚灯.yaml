@@ -1,0 +1,219 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "雨棚灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/雨棚灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_雨棚灯_001"
+    source_images:
+      - filename: "15__from场地灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/雨棚灯/15__from场地灯.jpg"
+        image_role: "hero"
+        visual_anchor: "扁圆UFO形灯体+透明侧裙+内部放射状散热鳍片"
+    product_name: "RAB UFO形雨棚灯（透明裙边款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "雨棚灯"]
+    design_language:
+      silhouette: "扁圆UFO形，上部黑色圆盘+下部透明裙边，侧面轮廓呈飞碟状"
+      light_opening: "下方全开放，透明PC裙边包裹内部LED和散热结构，向下漫射"
+      thermal: "内部放射状散热鳍片从中心向外辐射，完全暴露在透明裙边内，散热外显"
+      cmf:
+        color: "黑色+透明"
+        material: "铸铝+PC透明裙"
+        finish: "消光涂层+透明"
+      mounting: "顶部圆形挂钩，天花板吊装"
+      signature_detail: "透明PC裙边包裹放射状鳍片——将内部工程结构转化为可观赏的视觉图案"
+    design_level:
+      score: 4
+      reason: "透明裙边将散热鳍片变成可见的工程美学展示，放射状鳍片图案具有强视觉吸引力，UFO轮廓辨识度高，材质对比（黑铝+透明PC）处理得当"
+    design_tags: ["UFO形", "透明裙边", "放射鳍片外显", "H11功能外显", "吊装", "工程美学"]
+    hero_feature: "透明PC裙边+内部放射状鳍片——将热管理工程结构转化为视觉核心，「功能即装饰」"
+    problem_solved: "高功率雨棚灯需要大散热面积，放射状鳍片+透明裙边在紧凑UFO体积内兼顾散热效率与视觉展示"
+    transferable_technique: "透明外壳暴露内部工程结构（散热鳍片、电路板等）的设计手法，可迁移至工业风室内灯、机械设备装饰罩等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_雨棚灯_002"
+    source_images:
+      - filename: "16__from删除桶_from场地灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/雨棚灯/16__from删除桶_from场地灯.jpg"
+        image_role: "hero"
+        visual_anchor: "扁圆灯体+大型放射状散热鳍片完全外露+圆环边框"
+    product_name: "RAB 扁圆放射鳍片雨棚灯（鳍片全外露款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "雨棚灯"]
+    design_language:
+      silhouette: "扁圆形，上部圆环边框+下部放射状鳍片完全外露，底面视角呈车轮放射图案"
+      light_opening: "下方向下直接照射，无防护裙边，内嵌LED模组"
+      thermal: "放射状鳍片从圆心向外完全外露，RAB品牌标识置于散热区中心，散热面积最大化"
+      cmf:
+        color: "深灰+黑色"
+        material: "铸铝"
+        finish: "消光粉末涂层"
+      mounting: "顶部圆形挂钩，天花板吊装"
+      signature_detail: "RAB品牌字样内嵌于放射鳍片中心——品牌标识与散热结构合二为一"
+    design_level:
+      score: 4
+      reason: "品牌logo置于散热鳍片正中心的设计决策非常聪明，放射状鳍片图案从底面看极具视觉张力，品牌展示与功能结构无缝融合"
+    design_tags: ["放射鳍片外露", "品牌融入结构", "H11功能外显", "吊装", "底面视角", "工程美学"]
+    hero_feature: "品牌LOGO内嵌于放射鳍片中心——品牌标识即是散热核心，结构即是品牌展示"
+    problem_solved: "高功率雨棚灯散热需求大，全外露放射鳍片在最大化散热效率的同时，将必要的工程结构转化为品牌展示面"
+    transferable_technique: "将品牌标识融入功能性结构（散热/通风/框架）的设计手法，比单纯贴标更具整合感，可迁移至工业设备、户外照明等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_雨棚灯_003"
+    source_images:
+      - filename: "17__from删除桶.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/雨棚灯/17__from删除桶.jpg"
+        image_role: "hero"
+        visual_anchor: "方形灯体+透明满面扩散板+放射状内部鳍片+四角卡扣"
+    product_name: "RAB 方形透明面板雨棚灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "雨棚灯"]
+    design_language:
+      silhouette: "正方形扁体，上部深色框架+下方透明满铺扩散板，底面视角轮廓方正"
+      light_opening: "下方全面积透明PC扩散板，内部放射状鳍片和LED模组透过板面可见"
+      thermal: "内部放射状鳍片透过透明扩散板可见，散热结构半外显"
+      cmf:
+        color: "深灰框+透明扩散板"
+        material: "铸铝框架+PC扩散板"
+        finish: "消光涂层+透明磨砂"
+      mounting: "顶部固定，天花板嵌装或吊装"
+      signature_detail: "透明满铺扩散板+内部可见鳍片图案——方形光面中透出放射状工程内核"
+    design_level:
+      score: 3
+      reason: "透明扩散板手法与_001类似但换成方形，方形边框与透明面板的对比干净，但创新度较_001和_002低，属于实用型设计"
+    design_tags: ["方形灯体", "透明扩散板", "满铺出光", "放射鳍片半外显", "嵌装/吊装"]
+    hero_feature: "全面积透明扩散板——均匀大面积出光，方形灯体确保安装整齐对称"
+    problem_solved: "加油站雨棚等商业场所需要均匀无暗角的地面照明，方形满铺出光面消除局部热点"
+    transferable_technique: "方形满铺透明扩散板+内部可见结构的组合，可迁移至商业室内雨棚灯、停车场灯等需要均匀照度的场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_雨棚灯_004"
+    source_images:
+      - filename: "20__from场地灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/雨棚灯/20__from场地灯.jpg"
+        image_role: "hero"
+        visual_anchor: "方形大面积灯体+白色磨砂扩散板+金属安装架+多LED点阵"
+    product_name: "RAB 方形大面积LED雨棚灯（白色款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "雨棚灯"]
+    design_language:
+      silhouette: "宽扁方形体，上部银色安装架+下部白色磨砂扩散板，底面视角洁白整洁"
+      light_opening: "下方大面积白色磨砂PC扩散板，LED点阵均匀分布其上，漫射出光"
+      thermal: "上部安装架兼作散热，白色壳体反射散热"
+      cmf:
+        color: "白色+银色"
+        material: "铸铝+PC磨砂扩散板"
+        finish: "白色粉末涂层+银色"
+      mounting: "上部金属支架，天花板固定安装"
+      signature_detail: "全白色调+大面积LED点阵扩散板——洁净商业感，适合加油站、超市等商业环境"
+    design_level:
+      score: 3
+      reason: "白色配色在雨棚灯中有差异化（多数为黑/灰），大面积均匀出光面实用，但造型本身较为工程标准化，设计语言偏商业实用"
+    design_tags: ["方形大面积", "白色配色", "LED点阵", "磨砂扩散板", "商业场所", "均匀出光"]
+    hero_feature: "全白色调+大面积均匀LED点阵——洁净商业气质，与加油站/超市雨棚环境高度匹配"
+    problem_solved: "商业雨棚需要高亮度均匀无暗角照明，大面积扩散板+密集LED点阵确保地面照度均匀"
+    transferable_technique: "白色配色+大面积均匀出光面的组合，在商业清洁场所（医院、超市、加油站）比深色灯具更能强化明亮洁净感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_雨棚灯_005"
+    source_images:
+      - filename: "21__from柱顶灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/雨棚灯/21__from柱顶灯.jpg"
+        image_role: "hero"
+        visual_anchor: "方形扁体+透明磨砂折角侧裙+白色上壳"
+    product_name: "RAB 方形折角裙边雨棚灯（柱顶款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "雨棚灯"]
+    design_language:
+      silhouette: "方形扁体，白色上壳+透明磨砂折角侧裙向下包裹，侧面呈斜切倒梯形"
+      light_opening: "下方和侧向漫射，透明折角裙边允许侧向出光，兼顾下照和环境光"
+      thermal: "封闭白色上壳，低调处理，无外露散热"
+      cmf:
+        color: "白色+透明磨砂"
+        material: "铸铝+PC磨砂"
+        finish: "白色粉末涂层+磨砂透明"
+      mounting: "顶部平面固定，柱顶或天花板安装"
+      signature_detail: "透明磨砂折角侧裙——侧面透光产生柔和环境光晕，不只是向下照射"
+    design_level:
+      score: 3
+      reason: "折角侧裙的设计增加了侧向出光，提升了雨棚灯的环境光效果，但整体造型语言普通，白色配色略显朴素"
+    design_tags: ["方形扁体", "折角侧裙", "侧向出光", "白色配色", "柱顶安装", "环境光"]
+    hero_feature: "透明磨砂折角侧裙——在向下主光之外增加侧向环境光，提升雨棚空间的整体照明质感"
+    problem_solved: "纯向下照射的雨棚灯会造成上方空间昏暗感，折角侧裙出光改善整体空间亮度感知"
+    transferable_technique: "在主出光方向之外增加折角侧裙漫射的结构，可迁移至任何需要兼顾主照明与环境氛围光的吸顶/嵌顶灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_雨棚灯_006"
+    source_images:
+      - filename: "22__from柱顶灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/雨棚灯/22__from柱顶灯.jpg"
+        image_role: "hero"
+        visual_anchor: "方形灯体+大面积透明玻璃扩散面+密集LED矩阵+深色铝框"
+    product_name: "RAB 方形LED矩阵雨棚灯（深色框款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "雨棚灯"]
+    design_language:
+      silhouette: "正方形扁体，深色铝框+透明平面扩散板，底面视角清晰可见LED矩阵排列"
+      light_opening: "下方全面积平面透明扩散板，内部LED矩阵规律排列清晰可见，亮灯状态视觉强烈"
+      thermal: "深色铝框兼作散热，四周框架壁厚足够"
+      cmf:
+        color: "深灰/黑色铝框+透明扩散板"
+        material: "铸铝框+钢化玻璃或PC透明板"
+        finish: "消光涂层+透明"
+      mounting: "顶部固定，天花板平装"
+      signature_detail: "密集规律LED矩阵透过透明面板完全可见——亮灯时形成强烈的科技感光点阵图案"
+    design_level:
+      score: 4
+      reason: "LED矩阵透过透明面板直接暴露是大胆的设计决策，亮灯时密集光点阵列视觉冲击力强，暗装时深色框+透明面板也足够干净，昼夜两种状态都有记忆点"
+    design_tags: ["LED矩阵外显", "透明扩散板", "深色铝框", "H11功能外显", "科技感", "矩阵排列"]
+    hero_feature: "密集LED矩阵透过透明面板完全可见——将LED电路板本身变成发光图案，直接展示技术内核"
+    problem_solved: "高功率商业雨棚灯需要可感知的高品质，暴露LED矩阵的设计将「技术内核」直接呈现给用户，建立专业信任感"
+    transferable_technique: "将LED矩阵/PCB电路作为可见视觉元素而非隐藏部件的设计手法，适用于强调技术品牌属性的商业照明、舞台灯、工业检测灯等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

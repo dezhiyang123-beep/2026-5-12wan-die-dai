@@ -1,0 +1,21 @@
+# 素材库路径配置（换电脑时修改此文件）
+# 系统启动时按顺序检查，使用第一个存在的路径
+
+asset_root_candidates:
+  - "~/Desktop/设计素材库"
+  - "D:/设计素材库"
+  - "/Users/{user}/Desktop/设计素材库"
+  - "C:/Users/{user}/Desktop/设计素材库"
+
+# 素材库必须包含以下顶层文件夹
+required_folders:
+  - 01_品类标杆库
+  - 02_品牌语法库
+  - 03_设计手法库
+  - 04_失败反例库
+  - 05_渲染参考库
+
+# 图片同步方案
+sync_method:
+  recommended: "OneDrive / Google Drive / Syncthing / NAS"
+  note: "图片不放git，用云盘同步到每台电脑的相同路径"

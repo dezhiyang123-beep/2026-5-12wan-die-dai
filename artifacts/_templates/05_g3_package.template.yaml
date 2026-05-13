@@ -1,0 +1,113 @@
+# G3完整方案包模板（packager输出）
+# 符合 contracts/g3_package.schema.yaml
+
+project_id: "20260403-ACG-LIGHT"
+selected_concept_id: "C-01"
+
+prd:
+  product_name: "NEBO ClampLite 600"
+  target_user: "专业技工（电工/管道工）和重度DIY用户，25-45岁男性，惯用Home Depot/Amazon购买工具"
+  use_scenario: "在管道井或电控柜内单独作业，将灯夹在管道上解放双手进行接线或检修操作"
+  function_list:
+    - priority: "P0"
+      function: "夹持固定——夹持8-25mm直径管道/型材，单手操作锁定"
+    - priority: "P0"
+      function: "照明——正面600lm工作灯，3档亮度（100%/50%/10%）"
+    - priority: "P1"
+      function: "磁吸备用——底部磁吸固定金属面"
+    - priority: "P2"
+      function: "USB-C充电，含电量显示"
+  key_specs:
+    - "光通量：600lm（100%档）[M-基于竞品估算，需测试确认]"
+    - "夹持范围：Φ8-25mm[H-设计参数]"
+    - "电池容量：2000mAh[M]"
+    - "防水：IP54[H-设计约束]"
+    - "重量：UNKNOWN（需完成结构设计后称重）"
+    - "充电：USB-C 5V/1A[H]"
+  constraints:
+    - "零售价≤$30[H-客户档案]"
+    - "FCC Part 15认证[H-客户档案]"
+    - "UN38.3（锂电运输）[H-客户档案]"
+    - "风格：工业工具感，禁止家居化[H-客户档案]"
+  validation_plan:
+    - "夹持力测试：Φ8/12/20/25mm各夹持，垂直悬挂2kg重物10分钟不脱落"
+    - "耐久测试：开合5000次后夹持力不低于初始值80%"
+    - "EMC预合规测试（FCC Lab）"
+
+manufacturability:
+  risk_categories:
+    - category: "结构"
+      level: "M"
+      note: "铰链公差要求0.1mm，需精密模具"
+    - category: "电气"
+      level: "L"
+      note: "标准PCB+锂电方案，风险低"
+    - category: "可靠性"
+      level: "M"
+      note: "夹持耐久5000次目标未验证"
+    - category: "人因"
+      level: "L"
+      note: "单手操作符合Dreyfuss包络"
+    - category: "成本"
+      level: "M"
+      note: "夹持机构增加$2-3 BOM，需评估"
+    - category: "法规"
+      level: "L"
+      note: "FCC/UN38.3标准方案，无新挑战"
+  top10_risks:
+    - rank: 1
+      category: "结构"
+      risk: "铰链耐久性不达标（5000次目标）"
+      level: "M"
+      mitigation: "采用金属铰轴替代纯塑料铰，增加约$0.5成本"
+    # ... 共10条
+  bom_reduction_tree: "若BOM超标：①铰链改纯塑料（省$0.5，耐久风险增加）；②磁铁降规格（省$1，磁力降低）；③取消电量指示（省$0.3，用户体验下降）"
+
+cmf:
+  color:
+    primary:
+      pantone: "Pantone 432 C（深灰）"
+      hex: "#4A4A4A"
+      ratio: "70%主体外壳"
+      tolerance: "ΔE ≤ 2.0[UNKNOWN-待客户确认]"
+    secondary:
+      pantone: "Pantone 021 C（橙色）"
+      ratio: "30%夹持臂和按键区域"
+    forbidden_colors:
+      - "白色（家居感过强，违反客户档案风格禁忌）"
+      - "木纹/暖色系"
+  material:
+    primary_body:
+      system: "PC+ABS合金"
+      grade: "UL94 V-0阻燃"
+      touch_target: "哑光微砂感"
+      structure_role: "外壳承力件"
+      cost_estimate: "$0.8/件[M]"
+    sealing:
+      system: "IP54密封圈，硅胶"
+      spec: "邵氏硬度40A"
+    unknown_fields: []
+  finish:
+    process: "喷涂+UV哑光光油"
+    gloss_level: "哑光 GU20以下"
+    texture: "细皮纹（0.02mm深度）"
+    touch_result: "防指纹哑面，磨砂质感"
+    durability_test: "百格附着力测试3B以上"
+    unknown_fields: []
+
+render_prompts:
+  geometry_translation:
+    - "功能[夹持固定] → 几何特征：hinged clamp arm, C-shape profile, 60mm span | 位置：side-mounted, pivoting from body center | 分件线：vertical parting line at hinge axis"
+    - "功能[照明] → 几何特征：rectangular light face 60×40mm, flush lens | 位置：front face, full width | 分件线：perimeter snap-fit line"
+    - "功能[USB-C充电] → 几何特征：Type-C port, 9mm wide cutout | 位置：bottom face, centered | 分件线：rectangular overmold seal boundary"
+  styling_summary: "Compact work light with integrated clamp arm. Industrial tool aesthetic with visible mechanical structure. Matte dark gray body with high-visibility orange accent on clamp and controls. Functional geometry expressed through ribbed surfaces and visible hinge mechanism."
+  en_prompts:
+    - "subject: compact work light with side clamp arm, product photography | background: dark workshop background | lighting: soft diffused studio lighting | camera: 45-degree isometric front view | material: matte PC+ABS dark gray body, orange clamp arm, rubber grip texture | color: Pantone 432C dark gray 70% body, Pantone 021C orange 30% accents | realism: photorealistic product render | exclude: glossy surface, decorative elements, home lighting aesthetic"
+    - "subject: compact work light clamped on metal pipe, in-use photography | background: industrial environment, pipe and conduit visible | lighting: dramatic side lighting showing clamp mechanism | camera: 3/4 angle showing clamp engaged on 20mm pipe | material: matte dark gray with orange highlights | realism: photorealistic | exclude: white walls, clean office environment"
+  angles:
+    - "正面45°俯视（主视角）"
+    - "侧面展示夹持臂机构"
+    - "夹持在管道上的使用场景"
+    - "底部磁吸细节特写"
+
+pptx_path: "artifacts/projects/20260403-ACG-LIGHT/final_pitch.pptx"

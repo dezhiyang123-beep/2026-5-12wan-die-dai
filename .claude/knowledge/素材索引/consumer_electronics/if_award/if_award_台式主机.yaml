@@ -1,0 +1,87 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "台式主机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/台式主机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_desktop_001"
+    source_images:
+      - filename: "51.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/台式主机/51.jpg"
+        image_role: "hero"
+        visual_anchor: "Fujitsu工作站塔式机箱斜角视图，前面板竖向条纹散热格栅+红色侧边装饰条"
+      - filename: "52.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/台式主机/52.jpg"
+        image_role: "detail"
+        visual_anchor: "侧板开启后内部结构展示：绿色GPU卡+模块化安装框架+工具无螺丝设计"
+    product_name: "Fujitsu CELSIUS Workstation Tower"
+    brand_name: "Fujitsu"
+    brand_confidence: "high"
+    category_path: ["消费电子", "台式主机"]
+    design_language:
+      silhouette: "标准mid-tower方正塔式，顶部有一体化提手，前面板功能区集中在右侧条带"
+      light_opening: "无"
+      thermal: "前面板大面积竖向条纹散热格栅，侧面百叶窗排列"
+      cmf:
+        color: "主体深灰/黑色+右侧红色装饰条"
+        material: "钢板机箱"
+        finish: "前面板哑光，红色条件光滑"
+      mounting: "桌面/机架立式放置，顶部提手方便移动"
+      signature_detail: "前面板右侧红色垂直条带贯穿上下，内含光驱/接口区域，是品牌颜色锚点"
+    design_level:
+      score: 3
+      reason: "功能分区清晰，红色条带品牌辨识度明确，但整体形态传统，无造型突破"
+    design_tags: ["工作站", "红色装饰条", "提手", "工具无螺丝", "条纹格栅"]
+    hero_feature: "顶部一体化提手+红色垂直功能条带贯穿前面板"
+    problem_solved: "工作站频繁搬移需求，提手解决移动问题；红色条带快速定位功能接口区"
+    transferable_technique: "垂直功能条带将接口/按键集中分区，视觉与使用双重清晰"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_desktop_002"
+    source_images:
+      - filename: "76.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/台式主机/76.jpg"
+        image_role: "detail"
+        visual_anchor: "IBM Network IPS机架式设备近景：六边形蜂巢散热孔面板+多端口前面板接口排列"
+      - filename: "77.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/台式主机/77.jpg"
+        image_role: "hero"
+        visual_anchor: "IBM 3U机架式主机正面全貌：蜂巢散热面板+左侧LCD状态屏+右侧提手"
+    product_name: "IBM Security Network IPS Rack Appliance"
+    brand_name: "IBM"
+    brand_confidence: "high"
+    category_path: ["消费电子", "台式主机"]
+    design_language:
+      silhouette: "3U矩形机架单元，正面主体为蜂巢孔散热面板，左侧小LCD显示区，右侧拉手"
+      light_opening: "无"
+      thermal: "正面大面积六边形蜂巢散热孔阵列，覆盖70%面积"
+      cmf:
+        color: "全黑"
+        material: "钢板机箱"
+        finish: "哑光黑，前面板蜂巢冲孔"
+      mounting: "标准19英寸机架安装，两侧有固定耳片"
+      signature_detail: "六边形蜂巢冲孔密集阵列覆盖前面板，结构美感与散热功能统一"
+    design_level:
+      score: 4
+      reason: "蜂巢散热孔阵列在服务器/网络设备中视觉密度和规律性极强，工业美感突出，IBM品牌一贯设计严谨"
+    design_tags: ["蜂巢散热", "机架式", "服务器", "全黑", "工业感", "IBM"]
+    hero_feature: "大面积六边形蜂巢冲孔散热面板，视觉上兼顾散热功能与工业美感"
+    problem_solved: "高性能网络安全设备散热需求，蜂巢孔在面积利用率和气流通道上优于圆孔"
+    transferable_technique: "蜂巢孔阵列作为面板肌理语言，可迁移到需要散热+工业感的产品前面板"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,188 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "吸尘器"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/吸尘器/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "shark_vacuum_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/吸尘器/01.jpg"
+        image_role: "hero"
+        visual_anchor: "粉色手持吸尘器+配件展开陈列，顶部竖纹握持段与底部风扇格栅形成上下对比"
+      - filename: "01_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/吸尘器/01_dup1.jpg"
+        image_role: "alternate"
+        visual_anchor: "同款配件更完整展示，增加充电底座视角"
+    product_name: "Shark BlastBOSS 手持吸尘器（粉色限定）"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "吸尘器"]
+    design_language:
+      silhouette: "L形手持结构，上段圆柱握持+下段前倾吸头；握持段上2/3为竖条纹防滑肋，下1/3光面过渡"
+      light_opening: "无"
+      thermal: "机身下段圆形风扇格栅外露，既散热又为视觉焦点"
+      cmf:
+        color: "粉紫（握持段）+ 浅粉（机身/配件）+ 玫红（按键/底环点缀）"
+        material: "ABS硬壳 + 软橡胶防滑纹路"
+        finish: "竖纹磨砂握持段 + 光面浅粉机身"
+      mounting: "无线手持；配套伸缩延伸杆可转换为地面清洁"
+      signature_detail: "顶部竖条纹密纹握持区——密度约每厘米3条，触感与视觉双重防滑信号"
+    design_level:
+      score: 3
+      reason: "粉色配色定位清晰（女性消费者），配件体系完整；但形态语言无突破，基本是Shark标准手持套路"
+    design_tags: ["手持吸尘器", "粉色配色", "女性向设计", "配件展示", "防滑竖纹"]
+    hero_feature: "一体机身可拆配件——伸缩杆+刷头+嘴头三件套，手持转地面清洁秒切换"
+    problem_solved: "轻量手持吸尘兼顾家居多场景，粉色CMF降低使用门槛感"
+    transferable_technique: "密纹竖条防滑握持区——视觉传递抓握信心，可迁移至手持工具、美容仪等需要握持安全感的品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "shark_vacuum_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/吸尘器/02.jpg"
+        image_role: "hero"
+        visual_anchor: "蒸汽拖把全身视角，底部三圆盘清洁头+金棕色杆体为识别锚点"
+    product_name: "Shark SteamScrub Pro 蒸汽旋转拖把"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "吸尘器"]
+    design_language:
+      silhouette: "直立长杆形态（约130cm），上段T形手柄+中段细杆+下段控制面板+底座三圆盘；整体纵向比例约8:1"
+      light_opening: "有——控制面板背光蓝色指示灯"
+      thermal: "无明显散热结构"
+      cmf:
+        color: "白（机身主体）+ 金棕色（杆体/细节线）+ 深灰（底座/手柄）"
+        material: "ABS机身 + 铝合金杆 + 微纤维清洁垫"
+        finish: "光面白主体 + 拉丝金棕杆 + 橡胶防滑手柄"
+      mounting: "有线插电；杆体可收纳竖立"
+      signature_detail: "底部三联圆盘布局——两侧大圆+中间小圆，三角形稳定构图，视觉上强化旋转清洁感"
+    design_level:
+      score: 2
+      reason: "形态传统，白色+金棕配色略显老气；三圆盘功能特征有辨识度但整体设计感不强"
+    design_tags: ["蒸汽拖把", "旋转清洁头", "三圆盘结构", "有线设计", "地面护理"]
+    hero_feature: "三联旋转圆盘清洁头——双大盘+单小盘组合，物理旋转摩擦无死角清洁"
+    problem_solved: "免手洗拖地，蒸汽高温杀菌同步完成，适合硬地板深层清洁"
+    transferable_technique: "多圆盘旋转头形态——三盘错位布局在视觉上直接传递旋转/覆盖能力，可迁移至扫地机拖地模块设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "shark_vacuum_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/吸尘器/03.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝灰色立式无线吸尘器正面，透明尘杯+铜色顶环+橙色刷头底盘三段结构"
+    product_name: "Shark PowerDetect Speed 立式无线吸尘器"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "吸尘器"]
+    design_language:
+      silhouette: "竖直细长体（高约110cm），三段构成：顶部圆柱电机头+中段透明尘杯+底部大矩形底座；侧视呈倒T形"
+      light_opening: "无"
+      thermal: "顶部铜色环形散热格栅"
+      cmf:
+        color: "蓝灰（机身主体）+ 透明（尘杯）+ 铜金（顶环/细节）+ 橙红（底盘刷头）"
+        material: "ABS外壳 + PC透明尘杯 + 铝合金装饰环"
+        finish: "磨砂蓝灰主体 + 高光铜金环 + 哑光橙底盘"
+      mounting: "无线独立站立；底座自支撑"
+      signature_detail: "铜色顶部散热环——品牌专属高档感细节，与橙色底盘形成上下暖色呼应"
+    design_level:
+      score: 4
+      reason: "三色分段构图清晰，铜金细节提升产品档次；透明尘杯让脏污可见化形成功能自证；整体比例修长优雅"
+    design_tags: ["立式无线吸尘器", "透明尘杯", "铜金细节", "三段构图", "科技蓝灰"]
+    hero_feature: "透明尘杯+铜金顶环——尘杯满了一眼可见，高档细节强化价值感"
+    problem_solved: "无线立式吸尘兼顾便携与大容量，透明设计让清洁时机一目了然"
+    transferable_technique: "异色功能分区——顶部散热、中段收纳、底部驱动三段各用不同CMF，用颜色做功能说明书"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "shark_vacuum_004"
+    source_images:
+      - filename: "03_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/吸尘器/03_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "墨绿色PowerDetect立式吸尘器+充电底座全套系统，紫色点缀+teal绿刷头"
+    product_name: "Shark PowerDetect 立式吸尘器+充电底座套装"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "吸尘器"]
+    design_language:
+      silhouette: "立式吸尘器（高约115cm）+独立充电底座；底座为矩形柱体，顶部卡槽停靠设计"
+      light_opening: "有——底座前方白色状态灯带"
+      thermal: "机身上部背面格栅"
+      cmf:
+        color: "深墨绿（机身主体）+ 银灰（杆体）+ 紫色（LOGO条/按键）+ teal（刷头底盘）"
+        material: "ABS主体 + PC透明尘杯 + 金属装饰条"
+        finish: "哑光墨绿 + 半透明尘杯 + 光面紫色LOGO条"
+      mounting: "无线；配套底座充电停靠"
+      signature_detail: "紫色横向LOGO条——贯穿机身中段，品牌色点缀，在深色主体上高对比度"
+    design_level:
+      score: 3
+      reason: "充电底座系统配套完善；墨绿+紫色组合辨识度高但略显暗沉；整体是shark立式系列的常规延伸"
+    design_tags: ["立式吸尘器", "充电底座", "墨绿配色", "紫色品牌条", "系统套装"]
+    hero_feature: "集成充电底座——停靠即充电，配件挂架内置，收纳与充电合一"
+    problem_solved: "无线吸尘器收纳痛点解决，底座提供固定停靠点避免倒地，适合家居常置"
+    transferable_technique: "停靠充电一体底座——产品+底座构成视觉系统，底座本身即收纳家具，可迁移至其他无线家电"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "shark_vacuum_005"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/吸尘器/04.jpg"
+        image_role: "hero"
+        visual_anchor: "墨绿色立式有线吸尘器正面，透明圆柱尘杯居中+teal刷头底盘，LIFT-AWAY字样"
+    product_name: "Shark Detect Pro Lift-Away 立式有线吸尘器"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "吸尘器"]
+    design_language:
+      silhouette: "传统立式吸尘器（高约110cm），上宽下窄锥形机身；透明大圆柱尘杯居中，前视形成T形重心"
+      light_opening: "无"
+      thermal: "机身背部上方格栅"
+      cmf:
+        color: "深墨绿（机身）+ 银灰（杆/装饰条）+ 紫色（LOGO条/底盘线条）+ teal绿（刷头底盘）"
+        material: "ABS主体 + 大容量PC透明尘杯 + 金属装饰"
+        finish: "哑光深绿 + 透明光面尘杯 + 银色高光条"
+      mounting: "有线插电；可脱离底盘手持使用（Lift-Away功能）"
+      signature_detail: "大容量全透明圆柱尘杯——内部旋风结构可视，清洁度自证，是品类辨识最强特征"
+    design_level:
+      score: 4
+      reason: "透明尘杯内旋风结构完全可视，功能外显极致；深绿+紫+teal三色组合有强品牌识别性；Lift-Away模块化清晰"
+    design_tags: ["立式有线吸尘器", "透明尘杯", "旋风可视", "Lift-Away", "模块化"]
+    hero_feature: "全透明圆柱大尘杯——内部旋风锥清晰可见，清洁状态实时反馈，功能自证"
+    problem_solved: "大空间深度清洁，可分离手持模式灵活应对沙发/楼梯等场景"
+    transferable_technique: "功能结构透明化——将内部工作机制通过透明外壳直接外露，用户无需理解原理即能感知运作，信任感来自可视"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

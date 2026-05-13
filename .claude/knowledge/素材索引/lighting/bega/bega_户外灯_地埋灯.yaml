@@ -1,0 +1,507 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "地埋灯"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "bega_户外_地埋灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "两款方形地埋灯并列展示：前方银色框架带深凹收口型点射透镜，后方金色框架带圆形磨砂泛光玻璃；两款共用阶梯状黑色散热筒体"
+    product_name: "方形地埋灯（点射/泛光双版本）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "方形面板 + 阶梯状圆柱筒体；面板与地面齐平，筒体埋入地下；金属面板与塑料筒体两段式构成"
+      light_opening: "点射版：圆形深凹收口透镜，窄光束（约15-25°）上射聚光；泛光版：圆形磨砂平玻璃，宽泛光（约60°+）均匀上射"
+      thermal: "多段阶梯状黑色工程塑料筒体，阶梯设计增大散热面积；LED热量经筒体壁传导至土壤"
+      cmf:
+        color: "面板：不锈钢色（前款）/ 金色黄铜感（后款）；筒体：哑黑"
+        material: "面板：不锈钢或黄铜；筒体：玻璃纤维增强工程塑料；透镜：光学玻璃（点射）/ 磨砂钢化玻璃（泛光）"
+        finish: "面板：拉丝金属；筒体：哑光黑；玻璃：透明光学 / 磨砂白"
+      mounting: "阶梯筒体直接回填埋入，无独立安装法兰；顶面方形框架定位贴合地面"
+      signature_detail: "方形金属面板与圆形阶梯筒体的形态对比；BEGA品牌铭牌嵌于面板边缘"
+    design_level:
+      score: 4
+      reason: "方圆形态对比制造视觉张力；金色黄铜版具有高端装饰感；双版本共享筒体体现系统化设计思维；面板-筒体拼接线清晰利落"
+    design_tags:
+      - "方形开口"
+      - "双版本家族"
+      - "阶梯散热体"
+      - "黄铜饰面"
+      - "点射/泛光可选"
+      - "H01减法"
+      - "H09隐藏工程"
+    hero_feature: "金色黄铜感方形面板配白色磨砂泛光玻璃——将功能性地埋灯提升为景观装饰元素"
+    problem_solved: "方形面板在铺装地面更易对齐铺缝，减少视觉破坏感；阶梯筒体增大散热面积解决地埋散热难题"
+    transferable_technique: "阶梯状埋入筒体的散热结构可迁移至其他地埋灯/地埋传感器产品；方形面板+圆形光学元件的组合形式可迁移至嵌入式地面灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_地埋灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "超薄矩形线条地埋灯侧面轮廓：极低剖面黑色铝合金体，顶面全宽透明玻璃盖板与银色铝框平齐，整体高度仅约40mm"
+    product_name: "超薄矩形线条地埋灯（侧视）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "扁平矩形条状；极低剖面（高约40mm）；顶面玻璃盖板横跨全宽；侧面为实体黑色铝材"
+      light_opening: "全宽透明玻璃盖板，宽泛光上射（约120°），均匀洗亮路面；线性光带效果"
+      thermal: "薄壁铝合金挤压型材作为主体结构兼散热体；低功率LED阵列分布于型材底部，热量经铝材横向传导"
+      cmf:
+        color: "主体：哑黑铝；顶框：银色铝；玻璃：透明"
+        material: "主体：铝合金挤压型材；顶框：铝合金；盖板：钢化透明玻璃"
+        finish: "主体：哑光黑阳极氧化；顶框：自然铝本色；玻璃：高透光"
+      mounting: "嵌入地面槽道，顶面与地面齐平；铝型材两侧与槽道壁接触定位"
+      signature_detail: "近零厚度视觉剖面；银色铝顶框形成精确的线条感；透明玻璃无遮挡显露发光内腔"
+    design_level:
+      score: 5
+      reason: "极致的减法设计——剖面高度压缩至极限；银黑双色顶框与黑色主体形成精准层次；透明玻璃不遮挡内部结构体现工艺自信；线条地埋灯品类内顶级设计克制度"
+    design_tags:
+      - "线条地埋"
+      - "超薄剖面"
+      - "铝挤压型材"
+      - "透明玻璃盖板"
+      - "H01减法"
+      - "H07极简整合"
+      - "H10材料表达"
+    hero_feature: "约40mm超低剖面——在地面几乎消失，仅留一道发光线条"
+    problem_solved: "地埋线条灯剖面过高导致影响地面铺装连续性；透明玻璃盖板使维修时可直接看清内部状态"
+    transferable_technique: "铝挤压型材兼做结构+散热+外壳三合一的整合手法；超薄剖面+全宽玻璃的线条感设计语言可迁移至室内地脚灯、台阶灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_地埋灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "两款大型圆形地埋射灯并列：不锈钢圆柱筒体配宽缘圆形面板，弹簧夹固定环清晰可见；大尺寸款内置多面切割反射碗，小尺寸款内置COB透镜模组"
+    product_name: "大型圆形地埋射灯（多面反射碗版）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "圆形宽边面板 + 不锈钢圆柱筒体；筒体直径较大（约200-300mm），适合高功率应用；面板宽缘增加稳定感"
+      light_opening: "大尺寸款：开放式多面切割铝反射碗，无玻璃遮盖，宽角度（约60-90°）上射泛光；小尺寸款：圆形COB LED透镜，中等角度（约35-45°）上射聚光"
+      thermal: "不锈钢圆柱筒体内置铝制散热结构；筒体大尺寸提供足够散热容积；弹簧夹安装环方便维护时拆卸"
+      cmf:
+        color: "面板+筒体：拉丝不锈钢；反射碗内腔：镜面铝；固定夹：不锈钢"
+        material: "面板+筒体：不锈钢；反射碗：压铸铝镀膜；固定夹：弹簧不锈钢"
+        finish: "外部：拉丝不锈钢；反射碗：高反射率镀铝"
+      mounting: "圆柱筒体直接埋入，顶面宽缘面板贴合地面；弹簧夹固定整套光学组件于筒体顶部"
+      signature_detail: "外露弹簧夹固定环——工业美学的功能外显；两种尺寸共享同一设计语言形成产品家族"
+    design_level:
+      score: 4
+      reason: "不锈钢与镜面铝的材质对比精准；外露弹簧夹将固定结构转化为设计亮点；开放式反射碗无玻璃遮盖设计大胆；双尺寸家族系统完整"
+    design_tags:
+      - "大型地埋"
+      - "不锈钢筒体"
+      - "开放反射碗"
+      - "弹簧夹固定"
+      - "双尺寸家族"
+      - "H11功能外显"
+      - "H10材料表达"
+    hero_feature: "外露弹簧夹固定环——将维护结构变为设计语言，兼具美观与实用"
+    problem_solved: "高功率地埋射灯散热容量不足；弹簧夹快拆设计解决光学模组维护需要拆开整个地面安装的难题"
+    transferable_technique: "弹簧夹快拆固定环可迁移至需要频繁维护的地埋灯产品；外露功能件转化为设计元素的手法（H11）可迁移至工业风户外灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_地埋灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "两款低剖面圆形地埋灯：不锈钢宽缘面板配矮圆柱筒体，侧面可见电缆入口接头；前款磨砂泛光玻璃，后款开放式非对称点射反射碗"
+    product_name: "低剖面圆形地埋灯（泛光/非对称双版本）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "低矮圆形剖面；宽缘不锈钢面板直径明显大于筒体直径；整体高宽比约1:2，强调扁平感"
+      light_opening: "泛光版：圆形磨砂白玻璃，均匀宽泛光（约120°）上射；非对称版：开放式倾斜反射碗，非对称配光（约30°x60°）适合单侧洗墙"
+      thermal: "矮圆柱不锈钢筒体，侧面设电缆入口金属接头；散热依赖不锈钢壳体传导与筒体内腔对流"
+      cmf:
+        color: "面板+筒体：拉丝不锈钢；弹簧夹：不锈钢；反射碗：镜面铝"
+        material: "面板+筒体：不锈钢；玻璃：磨砂钢化玻璃；反射碗：压铸铝镀膜"
+        finish: "外部：拉丝不锈钢；玻璃：均匀磨砂"
+      mounting: "矮筒体埋入，宽缘面板坐于地面；侧面出线避免顶面穿线影响防水；弹簧夹固定光学组件"
+      signature_detail: "侧面电缆入口金属接头——精密压力测试级密封构造；宽缘面板的大直径与矮筒体形成强烈比例张力"
+    design_level:
+      score: 4
+      reason: "宽缘面板与矮筒体的极端比例形成独特的扁平美学；侧出线设计体现专业防水工程思维；泛光与非对称两版本同样系统化"
+    design_tags:
+      - "低剖面"
+      - "宽缘面板"
+      - "侧出线"
+      - "非对称配光"
+      - "弹簧夹"
+      - "H01减法"
+      - "H11功能外显"
+    hero_feature: "超宽缘不锈钢面板与极矮筒体的比例——盘状形态，强烈地面感"
+    problem_solved: "低剖面减少地面障碍物；侧出线金属密封接头解决顶面穿线防水薄弱点"
+    transferable_technique: "宽缘面板遮盖安装缝隙的手法可迁移至各类嵌入式地面装置；侧出线密封接头设计可迁移至其他地埋灯产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_地埋灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "两款大型圆形地埋射灯半拆解展示：黑色大容量圆柱筒体配不锈钢面板，弹簧夹固定圈外露；小尺寸款内置COB配透镜，大尺寸款内置非对称反射碗；可见内部组件安装结构"
+    product_name: "大型圆形地埋射灯（黑色筒体 / 可调组件版）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "大口径圆形面板（不锈钢）+ 超大黑色圆柱筒体；筒体直径约250-350mm，容积大；底部带法兰安装盘"
+      light_opening: "小尺寸款：COB LED + 圆形透镜模组，中等上射聚光（约25-35°）；大尺寸款：非对称宽角反射碗，宽角上射（约60-90°），适合大面积洗亮"
+      thermal: "超大容积黑色圆柱筒体提供充足散热空间；筒体内壁铸有散热结构；弹簧夹使光学组件可脱离筒体独立维护"
+      cmf:
+        color: "面板+固定夹：不锈钢；筒体：哑黑铝铸或塑料；反射碗：镜面铝"
+        material: "面板：不锈钢；筒体：铸铝或玻璃纤维增强塑料；内部组件：压铸铝"
+        finish: "筒体：哑光黑；面板：拉丝不锈钢；反射碗：高反射率镀铝"
+      mounting: "超大圆柱筒体直接回填，底部法兰盘固定；弹簧夹实现光学组件快拆；顶面面板坐于地面不打钉"
+      signature_detail: "大容积黑色筒体与不锈钢面板的材质与色彩强对比；底部法兰盘的工程感"
+    design_level:
+      score: 4
+      reason: "黑白双材质强对比使产品辨识度高；大容积筒体的工程美学自信展示；弹簧夹快拆系统工程完整度高；与05号产品形成明确的材质变体系列"
+    design_tags:
+      - "大型地埋"
+      - "黑色筒体"
+      - "不锈钢面板"
+      - "底部法兰"
+      - "弹簧夹快拆"
+      - "非对称配光"
+      - "H11功能外显"
+      - "H08对比强调"
+    hero_feature: "超大容积黑色圆柱筒体——工程级散热容量外显，不掩盖实力"
+    problem_solved: "高功率地埋射灯（如1000W级应用）需要大散热容积；模块化弹簧夹组件使维护无需破坏地面安装"
+    transferable_technique: "模块化弹簧夹光学组件系统可迁移至所有需要现场更换光源的地埋灯；黑色大容积筒体+精致金属面板的对比组合手法可迁移至工业风景观灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_地埋灯_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "两款方形地埋灯从黑色方形筒体上提起展示：不锈钢方形面板通过四角支柱悬浮于筒体之上；前款面板内为4x4微透镜阵列，后款为纯白磨砂平面泛光玻璃"
+    product_name: "方形地埋灯（微透镜阵列/泛光双版本，可提升维护版）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "正方形面板 + 正方形筒体（上下同形）；面板通过四角调节螺柱悬浮/可脱离筒体；安装高度可微调"
+      light_opening: "微透镜版：4x4共16单元微透镜阵列，每单元独立配光，总体宽泛光（约90°+）均匀上射；泛光版：大面积磨砂平面玻璃，极宽均匀泛光（约120°）"
+      thermal: "方形铝合金筒体兼做散热体；四角调节螺柱导热；LED板位于筒体内顶部"
+      cmf:
+        color: "面板：拉丝不锈钢；筒体：哑黑铝；螺柱：不锈钢"
+        material: "面板：不锈钢；筒体：铝合金；微透镜：光学级聚碳酸酯或玻璃"
+        finish: "面板：拉丝不锈钢；筒体：哑光黑阳极氧化；微透镜：光学透明"
+      mounting: "方形筒体直接埋入；四角螺柱调节面板高度以匹配地面铺装厚度；可在不破坏安装的情况下提起面板组件维护"
+      signature_detail: "四角悬浮螺柱可提升面板——将维护性设计结构化为产品亮点；微透镜阵列的精密光学美学"
+    design_level:
+      score: 5
+      reason: "可提升维护设计将工程问题转化为产品特色；微透镜阵列呈现强烈的精密工学美感；方形对方形的几何纯粹性；高度可调螺柱解决地面铺装厚度公差问题，工程思维领先"
+    design_tags:
+      - "方形地埋"
+      - "可提升面板"
+      - "微透镜阵列"
+      - "高度可调"
+      - "H09隐藏工程"
+      - "H04参数化"
+      - "H11功能外显"
+    hero_feature: "4x4微透镜阵列——16个独立光学单元在方形框内形成精密光学图案，功能与美学高度统一"
+    problem_solved: "方形地埋灯维护需破坏地面；高度可调解决不同铺装厚度兼容问题；微透镜阵列实现高均匀度配光"
+    transferable_technique: "面板可提升维护系统（四角螺柱+悬浮结构）可迁移至所有嵌入式地面装置；微透镜阵列光学面板设计语言可迁移至高端室内嵌入灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_地埋灯_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "线条地埋灯侧面：深灰色铝挤压型材主体，顶面窄线型LED光带（约10mm宽）配银色铝合金顶框，端部可见连接螺钉"
+    product_name: "窄缝线条地埋灯（窄光带版）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "扁平矩形长条；顶面极窄线型发光缝（约10mm宽）居中；银色顶框与深灰主体形成双层剖面"
+      light_opening: "极窄线型LED缝，宽泛光（约110-120°）上射洗地；光带宽度极窄营造精准的线条光效"
+      thermal: "深灰色铝挤压型材整体散热；型材截面高度约50-60mm提供散热容积；LED模组嵌入型材顶槽"
+      cmf:
+        color: "主体：深灰色（近石墨黑）铝；顶框：银色铝本色；LED缝：温白光"
+        material: "主体+顶框：铝挤压型材；LED模组：SMD LED条"
+        finish: "主体：细砂感阳极氧化深灰；顶框：自然铝色阳极氧化"
+      mounting: "铝型材嵌入地面槽道，顶面与地面齐平；端部可链接延伸形成连续线条"
+      signature_detail: "极窄约10mm发光缝隙——地面上几乎消失的线条光；银灰双色顶框层次"
+    design_level:
+      score: 5
+      reason: "发光缝极窄（约10mm），产品在地面几乎隐形；深灰与银色双色顶框在极简中制造精准层次；与04号产品形成宽缝/窄缝的完整线条地埋家族；减法设计极致"
+    design_tags:
+      - "线条地埋"
+      - "窄缝发光"
+      - "铝挤压型材"
+      - "深灰色"
+      - "H01减法"
+      - "H07极简整合"
+      - "H10材料表达"
+    hero_feature: "约10mm极窄发光缝——线条光在地面近乎消失，光重于形"
+    problem_solved: "传统线条灯视觉宽度过大破坏地面整体性；极窄缝设计最大限度保持铺装连续感"
+    transferable_technique: "极窄发光缝配宽配光角的设计策略可迁移至步道照明、台阶嵌入灯；双色铝型材截面手法可迁移至建筑嵌入线条灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_地埋灯_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "线条地埋灯侧面：纯石墨黑色铝型材主体，顶面宽线型磨砂白玻璃（约30-40mm宽）配银白色铝顶框，整体极低剖面"
+    product_name: "宽缝线条地埋灯（宽光带磨砂版）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "扁平矩形长条；顶面宽磨砂玻璃发光面（约30-40mm）居中；银白顶框嵌入石墨黑主体；整体剖面高度约45-55mm"
+      light_opening: "宽线型磨砂白玻璃，均匀宽泛光（约120°）上射；磨砂扩散光线产生柔和无眩光效果"
+      thermal: "纯石墨黑铝挤压型材，极低热阻；低剖面设计依赖水平热传导至土壤"
+      cmf:
+        color: "主体：石墨黑铝；顶框：银白铝；玻璃：磨砂白"
+        material: "主体：铝挤压型材；顶框：铝挤压型材；玻璃：磨砂钢化玻璃"
+        finish: "主体：哑光石墨黑阳极氧化；顶框：亮银白阳极氧化；玻璃：均匀磨砂"
+      mounting: "铝型材嵌入地面槽道，顶面完全平齐；模块化可连接延伸"
+      signature_detail: "石墨黑与银白的强双色对比；磨砂玻璃宽光带的柔光质感"
+    design_level:
+      score: 5
+      reason: "石墨黑主体与银白顶框的强色彩对比极具视觉冲击；磨砂玻璃宽光带呈现柔和高级感；与09号窄缝版共同构成BEGA线条地埋完整产品线；减法语言高度一致"
+    design_tags:
+      - "线条地埋"
+      - "宽缝发光"
+      - "磨砂玻璃"
+      - "石墨黑"
+      - "双色对比"
+      - "H01减法"
+      - "H08对比强调"
+      - "H10材料表达"
+    hero_feature: "石墨黑铝体+银白铝框+磨砂白玻璃三色精确分层——简洁外形内藏材质叙事"
+    problem_solved: "纯黑线条灯在铺装中过于隐蔽难以察觉；三色分层在保持低调同时增加可识别性，兼顾安全与美观"
+    transferable_technique: "三色铝型材截面的分层手法可迁移至建筑嵌入灯槽、踢脚灯、台阶灯；磨砂玻璃宽缝配高均匀度LED阵列的柔光策略可广泛迁移"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_地埋灯_011"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "两款蘑菇形地面出地柱灯：浅灰色不锈钢圆柱体上方扣半球形铸铝灰色拱顶，拱顶四周开两条水平槽缝射出侧向光；方形安装底板贴地"
+    product_name: "半球顶地埋式出地柱灯（双槽缝侧射版）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "圆柱体 + 半球形拱顶的蘑菇形态；整体高度约150-200mm（半出地面形式）；方形底板坐于地面"
+      light_opening: "拱顶与柱体交界处两条水平环形槽缝，侧向水平射出（约0-15°仰角），360°全向均匀侧射洗地；无上射，仅侧射路径/草坪照明"
+      thermal: "铸铝拱顶兼做散热体；圆柱体内腔作为热缓冲空间；拱顶与柱体之间的开缝同时参与对流散热"
+      cmf:
+        color: "拱顶：深灰铸铝；柱体：浅灰不锈钢；底板：不锈钢"
+        material: "拱顶：压铸铝；柱体：不锈钢圆管；底板：不锈钢板"
+        finish: "拱顶：细砂感哑灰喷涂；柱体：拉丝不锈钢；底板：拉丝不锈钢"
+      mounting: "圆柱筒体部分埋入地面，方形底板固定于地面；拱顶以螺丝固定于柱体顶部"
+      signature_detail: "蘑菇形拱顶 + 水平双槽缝——独特形态同时具备功能逻辑；拱顶遮光防眩，仅从槽缝透光"
+    design_level:
+      score: 4
+      reason: "蘑菇形态强烈辨识度；拱顶遮光+槽缝透光的双向解决方案兼具防眩与美学；深灰拱顶与浅灰柱体的细腻色差制造精确层次；360°侧射应用场景明确"
+    design_tags:
+      - "出地柱灯"
+      - "半球拱顶"
+      - "双槽缝侧射"
+      - "360度侧射"
+      - "蘑菇形态"
+      - "H06仿生"
+      - "H09隐藏工程"
+    hero_feature: "半球铸铝拱顶 + 双水平槽缝——完全遮挡直视光源，仅从槽缝溢出侧向照明光"
+    problem_solved: "草坪/路径灯直视光源引起眩光不适；拱顶完全遮蔽LED，仅侧射实现完美防眩"
+    transferable_technique: "拱顶防眩+槽缝侧射的遮光策略可迁移至草坪灯、台柱灯、户外路径灯；半球拱顶形态语言可迁移至功能性景观装置"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_地埋灯_012"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "两款石墨黑色蘑菇形出地柱灯：整体石墨黑铸铝一体感，拱顶与柱体同色；拱顶边缘两条水平槽缝可见内部光源；弹簧夹固定圈外露于拱顶与柱体接合处"
+    product_name: "半球顶地埋式出地柱灯（石墨黑单色版）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "与11号产品相同的蘑菇形态；整体石墨黑单色，拱顶与柱体色彩统一；视觉整体感更强；弹簧夹固定圈外露"
+      light_opening: "拱顶边缘两条水平环形槽缝，360°侧向均匀射出，照射地面路径；光角度约0-20°侧射"
+      thermal: "整体铸铝结构兼做散热；石墨黑哑光涂层强化辐射散热"
+      cmf:
+        color: "整体：石墨黑；弹簧夹：不锈钢（金属银点缀）"
+        material: "整体：铸铝；弹簧夹：不锈钢弹簧钢"
+        finish: "整体：细砂感哑光石墨黑喷涂；固定夹：不锈钢本色"
+      mounting: "圆柱体部分埋入地面；底部法兰固定；拱顶弹簧夹快拆维护"
+      signature_detail: "石墨黑整体单色强化雕塑感；弹簧夹银色点缀于黑色主体上形成精准焦点"
+    design_level:
+      score: 4
+      reason: "单色处理使形态更具雕塑感；石墨黑在深色地面铺装中极度克制；弹簧夹银色点缀是唯一金属色彩焦点；与11号共同构成同型产品的色彩家族"
+    design_tags:
+      - "出地柱灯"
+      - "半球拱顶"
+      - "石墨黑单色"
+      - "雕塑感"
+      - "弹簧夹"
+      - "H01减法"
+      - "H10材料表达"
+    hero_feature: "石墨黑整体单色处理——灯具在深色环境中消隐，仅留发光槽缝的存在感"
+    problem_solved: "双色版本（11号）在某些深色铺装环境中色差过于突出；单色版本适应更广泛的景观色彩方案"
+    transferable_technique: "同款产品单色与双色两个版本的系统化策略可迁移至其他景观灯具产品线规划；整体哑光单色涂装的消隐手法可广泛迁移"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_地埋灯_013"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "单只圆形地埋射灯独立展示：窄缘不锈钢圆环面板，开放式银色铝反射碗，黑色工程塑料圆柱筒体，筒体底部带四支入土地锚尖脚"
+    product_name: "地钉式圆形地埋射灯（无框架草坪版）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "窄缘圆形面板 + 直壁圆柱黑色筒体；筒体底部四支V形地锚尖脚；无底部法兰，极简直插式"
+      light_opening: "开放式圆形铝制反射碗，无玻璃遮盖，宽角度上射（约60-90°）泛光；裸露LED或光源直接由反射碗成型配光"
+      thermal: "黑色工程塑料圆柱筒体（轻量化）；热量由开放式反射碗顶面自然对流散出；低功率产品热负荷小"
+      cmf:
+        color: "面板：窄不锈钢环；筒体：哑黑工程塑料；反射碗：镜面铝；地锚：哑黑塑料"
+        material: "面板：不锈钢；筒体：工程塑料（HDPE或ABS）；反射碗：压铸铝镀膜"
+        finish: "面板：拉丝不锈钢；筒体：哑光黑；反射碗：高反射率镀铝"
+      mounting: "无需挖槽回填，底部四支尖脚直接插入草坪土壤；适合临时或软土安装"
+      signature_detail: "底部四支V形入土尖脚——彻底免挖槽安装，最大化安装便捷性；开放式反射碗无玻璃体现功能主义设计思维"
+    design_level:
+      score: 3
+      reason: "功能主义设计，形式完全服从安装逻辑；地锚尖脚是独特的功能解决方案但视觉不如其他款精致；开放式反射碗无防护玻璃耐久性存疑；相比家族其他产品精致度较低，但实用价值明确"
+    design_tags:
+      - "地钉式安装"
+      - "无框架草坪灯"
+      - "开放反射碗"
+      - "入土尖脚"
+      - "H11功能外显"
+      - "功能主义"
+    hero_feature: "底部四支V形入土尖脚——无需工具、无需挖槽，直接插入草坪土壤完成安装"
+    problem_solved: "草坪区域无法进行挖槽回填施工；地钉式安装大幅降低草坪照明的施工难度和成本"
+    transferable_technique: "入土尖脚免施工安装策略可迁移至户外临时照明、草坪装饰灯、花园景观灯；开放式反射碗轻量化设计可迁移至低功率景观点光源"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

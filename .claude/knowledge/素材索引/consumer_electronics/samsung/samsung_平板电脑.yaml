@@ -1,0 +1,309 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "平板电脑"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "samsung_tablet_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/01.jpg"
+        image_role: "hero"
+        visual_anchor: "红色软硅胶全包边保护壳+内置支架+安全挂绳"
+    product_name: "Galaxy Tab A11+ Kids Edition（红色）"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "矩形平板，厚重硅胶包覆后整体轮廓圆角化，厚度明显大于标准款"
+      light_opening: "标准16:10宽屏显示区，窄边框，前置摄像头居中嵌入顶部边框"
+      thermal: "硅胶包覆壳四角加厚凸起，起防摔缓冲作用"
+      cmf:
+        color: "珊瑚红（保护壳）+ 黑色（平板本体边框）"
+        material: "软硅胶保护壳 + 铝合金/塑料本体"
+        finish: "哑光橡胶质感（保护壳）"
+      mounting: "内置可折叠三角支架（背面），黑色安全挂绳"
+      signature_detail: "全包围软壳+侧边凸出抓握纹路，儿童专属安全设计语言"
+    design_level:
+      score: 2
+      reason: "功能导向设计，安全保护壳美观度有限，色彩活泼但造型语言普通，设计溢价低"
+    design_tags: ["儿童保护", "防摔设计", "全包覆硅胶壳", "亲子配色", "内置支架"]
+    hero_feature: "软硅胶全包覆防摔壳+三角支架一体化，无需额外配件即可防摔竖立"
+    problem_solved: "儿童使用场景下防摔保护与独立支撑需求，家长不必额外购买配件"
+    transferable_technique: "保护壳与支架一体化集成思路；四角加厚缓冲区结构；挂绳固定点设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_tablet_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/02.jpg"
+        image_role: "hero"
+        visual_anchor: "极薄铝合金机身侧面轮廓+单摄圆形镜头模组+随附白色S Pen"
+    product_name: "Galaxy Tab S11"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "超薄矩形平板，四边等宽极窄边框，背面极度平整，侧面轮廓线条锐利"
+      light_opening: "近全面屏，屏占比极高，前置摄像头嵌入顶部窄边框，背面显示Samsung品牌字样"
+      thermal: "铝合金一体背板，无明显散热开孔，热量通过金属背壳均匀导散"
+      cmf:
+        color: "冰蓝银（Icy Blue）"
+        material: "铝合金后壳 + 玻璃屏"
+        finish: "拉丝磨砂铝合金（背面）+ 镜面玻璃（正面）"
+      mounting: "顶部边框内置S Pen磁吸槽（正面）"
+      signature_detail: "侧面极窄金属边框+圆形单摄模组，简洁高级感；S Pen随附且与机身颜色配套"
+    design_level:
+      score: 4
+      reason: "极薄机身+高屏占比+S Pen整合，Samsung旗舰平板设计语言标杆，工艺精度高，整体协调"
+    design_tags: ["超薄机身", "全面屏", "S Pen整合", "铝合金后壳", "旗舰级", "Galaxy AI"]
+    hero_feature: "超薄铝合金机身配合极窄四边等宽边框，侧面近乎锐利的金属切割感"
+    problem_solved: "高端用户对轻薄手感与全面沉浸屏幕体验的追求，同时集成S Pen减少配件携带"
+    transferable_technique: "等宽极窄四边框视觉统一处理；圆形镜头模组收敛背面设计干扰；S Pen磁吸收纳槽一体化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_tablet_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/03.jpg"
+        image_role: "hero"
+        visual_anchor: "双屏多任务界面+S Pen书写状态+深灰铝合金后壳"
+    product_name: "Galaxy Tab S10 Lite"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "矩形平板，中等边框宽度，背面轻度弧面收边，整体较厚实"
+      light_opening: "宽屏显示区，顶部边框稍宽于底部，前置摄像头居中于顶部边框"
+      thermal: "铝合金后壳，背面中央区域轻微凸起纹理处理"
+      cmf:
+        color: "石墨灰（Graphite）"
+        material: "铝合金后壳 + 玻璃屏"
+        finish: "磨砂铝合金（背面）"
+      mounting: "S Pen磁吸附于背面"
+      signature_detail: "背面右上角单摄+简洁Samsung字样，强调轻创作场景的功能性定位"
+    design_level:
+      score: 3
+      reason: "中规中矩的Lite系设计，整体比例协调但无明显设计亮点，S Pen是主要差异点"
+    design_tags: ["S Pen整合", "创作定位", "多任务", "铝合金", "中端"]
+    hero_feature: "中端价位配备S Pen，降低创作入门门槛"
+    problem_solved: "预算有限的创意用户希望获得S Pen体验而无需购买旗舰款"
+    transferable_technique: "背面磁吸S Pen收纳一体化；双屏分屏功能的视觉呈现方式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_tablet_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/04.jpg"
+        image_role: "hero"
+        visual_anchor: "三台不同角度展示（正面+两后壳），银色与灰色配色对比"
+      - filename: "04__01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/04__01.jpg"
+        image_role: "detail"
+        visual_anchor: "正背面45度对角构图，深灰色，双摄模组+侧面S Pen磁吸点可见"
+    product_name: "Galaxy Tab A11+"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "矩形平板，四角圆弧，中等厚度，背面平整，侧边框略带弧度"
+      light_opening: "宽屏大屏幕，边框较窄，前置摄像头位于顶部边框中央"
+      thermal: "铝合金/金属漆后壳，背面无明显散热设计"
+      cmf:
+        color: "银色（Silver）/ 石墨灰（Graphite）"
+        material: "铝合金后壳 + 玻璃屏"
+        finish: "哑光金属漆（背面）"
+      mounting: "背面右上角单摄模组，侧面有S Pen磁吸连接点"
+      signature_detail: "后壳Samsung竖向字体Logo，居左下，低调品牌识别"
+    design_level:
+      score: 3
+      reason: "入门级平板标准设计语言，比例协调，配色选择合理，无突出设计创新"
+    design_tags: ["入门级", "多配色", "铝合金", "S Pen兼容", "大屏"]
+    hero_feature: "入门价位提供大屏+金属机身质感，性价比视觉观感强"
+    problem_solved: "家庭/学生用户以较低预算获取大屏平板使用体验"
+    transferable_technique: "同款多配色展示方式（银/灰对比）；后壳竖向品牌字体低调嵌入方式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_tablet_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/05.jpg"
+        image_role: "hero"
+        visual_anchor: "正背面双45度对角构图，深灰色，双摄+S Pen随附"
+      - filename: "08__01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/08__01.jpg"
+        image_role: "detail"
+        visual_anchor: "同款同角度不同背景（蓝紫渐变），确认双摄模组细节与S Pen比例"
+    product_name: "Galaxy Tab S11 FE"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "矩形平板，四角方正圆弧，侧面极薄，正面近乎全面屏"
+      light_opening: "极高屏占比，四边等宽极窄边框，前置摄像头嵌于顶部窄边"
+      thermal: "铝合金后壳，背面平整无明显散热结构"
+      cmf:
+        color: "石墨灰（Graphite）"
+        material: "铝合金后壳 + 玻璃屏"
+        finish: "磨砂哑光铝合金（背面）"
+      mounting: "后壳右上角双摄横排模组，侧面底部S Pen磁吸收纳点（三点触点）"
+      signature_detail: "双摄横排圆形镜头组+闪光灯紧凑排列，S Pen配色与机身一致（灰白）"
+    design_level:
+      score: 4
+      reason: "FE系列以旗舰设计语言下放至中端价位，全面屏比例+双摄+S Pen集成度高，整体设计完成度佳"
+    design_tags: ["全面屏", "双摄", "S Pen整合", "旗舰下放", "铝合金", "FE系列"]
+    hero_feature: "双摄横排模组+极窄四边等宽边框，旗舰视觉语言以FE价位实现"
+    problem_solved: "中端用户希望拥有旗舰设计外观与S Pen功能，但无法承担S系列旗舰售价"
+    transferable_technique: "双摄横排紧凑排列收敛背面干扰；三点S Pen磁吸触点嵌入侧面框体不破坏轮廓"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_tablet_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/06.jpg"
+        image_role: "hero"
+        visual_anchor: "低角度正面透视，顶部边框S Pen磁吸槽+双摄清晰可见，银色"
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/07.jpg"
+        image_role: "color_variant"
+        visual_anchor: "同款蓝灰色（Slate Blue），相同低角度正面透视构图"
+    product_name: "Galaxy Tab S10+"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "大尺寸矩形平板（12.4英寸级），超薄侧面，四边等宽窄边框，比例接近笔记本"
+      light_opening: "超大面积屏幕，四边极窄等宽边框，屏幕占比极高，顶部边框内嵌S Pen磁吸槽"
+      thermal: "铝合金后壳，超薄机身，双摄模组嵌于顶部边框右侧"
+      cmf:
+        color: "冰蓝银（Icy Blue）/ 板岩蓝（Slate Blue）"
+        material: "铝合金后壳 + 玻璃屏"
+        finish: "拉丝磨砂铝合金（后壳）+ 抛光金属侧边"
+      mounting: "顶部边框内S Pen磁吸收纳槽（正面边框一体化）；底部三个金属触点（键盘配件接口）"
+      signature_detail: "S Pen槽与顶部边框融为一体，不破坏整体薄度视觉感；底部三触点支持DeX键盘配件"
+    design_level:
+      score: 5
+      reason: "旗舰大屏设计的集大成之作：极窄等宽边框、S Pen槽正面集成、双配色精准定位专业人群，工艺与设计语言完全统一"
+    design_tags: ["旗舰", "大屏", "S Pen正面收纳", "超薄", "双配色", "DeX生产力", "铝合金"]
+    hero_feature: "S Pen磁吸槽无缝集成于顶部边框，不增加任何厚度即实现收纳，是全系列设计密度最高的细节"
+    problem_solved: "专业用户需要在平板上进行高效创作与生产力工作，同时不牺牲携带便利性"
+    transferable_technique: "边框内S Pen磁吸槽一体化处理（零厚度增加）；底部触点键盘扩展接口嵌入式设计；等宽四边框视觉统一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_tablet_007"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/08.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝色后壳正背面对角展示，单摄圆形镜头，S Pen随附"
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/09.jpg"
+        image_role: "color_variant"
+        visual_anchor: "银色后壳同构图，强调S Pen配套关系"
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/10.jpg"
+        image_role: "color_variant"
+        visual_anchor: "深灰色后壳同构图，5G版本"
+    product_name: "Galaxy Tab S10 FE / S10 FE 5G"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "矩形平板，四角明显圆弧，背面后盖边缘有明显倒角，厚度适中"
+      light_opening: "中等屏占比，顶部和底部边框稍宽，前置摄像头居中嵌于顶部边框"
+      thermal: "铝合金后壳，背面左上角单圆形摄像头模组，侧面S Pen磁吸收纳槽"
+      cmf:
+        color: "蓝绿色（Blue）/ 银色（Silver）/ 石墨灰（Graphite）"
+        material: "铝合金后壳 + 玻璃屏"
+        finish: "磨砂铝合金（后壳），侧面抛光金属"
+      mounting: "侧面S Pen磁吸收纳条（侧面一体集成，不破坏背面平整感）"
+      signature_detail: "侧面S Pen收纳磁条集成；三色配色策略覆盖不同审美人群（活泼/中性/商务）"
+    design_level:
+      score: 3
+      reason: "FE系列中端设计，三配色策略完善，侧面S Pen收纳是亮点，整体设计语言统一但无旗舰级精细度"
+    design_tags: ["FE系列", "三配色", "S Pen侧面收纳", "圆形单摄", "中端", "5G"]
+    hero_feature: "S Pen磁吸收纳条集成于侧面边框，无需任何附件袋即可随手携带S Pen"
+    problem_solved: "中端用户随时需要S Pen但不想单独携带，侧面收纳降低使用门槛"
+    transferable_technique: "侧边框S Pen磁吸收纳条设计；三色配色覆盖不同人群的产品线策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "samsung_tablet_008"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/平板电脑/11.jpg"
+        image_role: "color_variant"
+        visual_anchor: "蓝色软硅胶保护壳+绿色支架，与01.jpg同款不同配色"
+    product_name: "Galaxy Tab A11+ Kids Edition（蓝色）"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "平板电脑"]
+    design_language:
+      silhouette: "同001，矩形平板+厚重硅胶全包覆，四角圆弧加厚"
+      light_opening: "同001，标准宽屏，顶部前置摄像头居中"
+      thermal: "同001，硅胶包覆提供缓冲保护"
+      cmf:
+        color: "天蓝色（Sky Blue，保护壳）+ 黄绿色（Yellow Green，支架）"
+        material: "软硅胶保护壳 + 铝合金/塑料本体"
+        finish: "哑光橡胶质感（保护壳）"
+      mounting: "内置折叠三角支架（背面，黄绿色），黑色安全挂绳"
+      signature_detail: "保护壳与支架双色配色，相比红色款更活泼明亮，面向更小年龄儿童"
+    design_level:
+      score: 2
+      reason: "同001，功能导向儿童保护设计，蓝绿配色更鲜艳活泼但设计层次与001一致"
+    design_tags: ["儿童保护", "防摔设计", "全包覆硅胶壳", "亲子配色", "内置支架", "双色方案"]
+    hero_feature: "蓝色+绿色双色保护壳+支架组合，比红色款更鲜亮，适合低龄儿童视觉偏好"
+    problem_solved: "同001，面向不同性别/偏好儿童提供配色选择"
+    transferable_technique: "儿童产品双色保护壳配色策略（功能件与机身件用对比色区分）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

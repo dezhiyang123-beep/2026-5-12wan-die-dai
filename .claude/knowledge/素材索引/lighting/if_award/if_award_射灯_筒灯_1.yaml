@@ -1,0 +1,517 @@
+schema_version: "product_dna_v1"
+batch: 1
+total_images: 20
+source_folder: "01_品类标杆库/灯具/ifdesign_lighting/射灯/筒灯/"
+generated: "2026-05-08"
+
+category:
+  primary: "灯具"
+  secondary: "射灯"
+  tertiary: "筒灯"
+
+source_type: "if_design_award"
+brand_confidence: "medium"
+
+# ── NOTES ON GROUPING ──────────────────────────────────────────────────────────
+# 01+02 → same product (installed + exploded views)
+# 03+04 → same product (off + on ambience views)
+# 15+17 → same product (two angles of outdoor spike spot)
+# 13+14 → MISFILED: "Blindo" child GPS tracker + balloon, not a 筒灯 — flagged below
+# ────────────────────────────────────────────────────────────────────────────────
+
+products:
+
+  - product_id: "if_射灯_筒灯_001"
+    source_images: ["01.jpg", "02.jpg"]
+    name_guess: "IP-rated Adjustable Recessed Downlight with Fin Heatsink"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "筒灯"
+
+    design_language:
+      form_archetype: "圆形嵌入式筒灯，机械感暴露散热鳍片模块，顶部外露于吊顶上方"
+      hero_feature: "散热鳍片模块完全暴露于天花板背侧，支持从天花板下方无工具倾斜调节（±35°可见刻度），整体防水滴设计"
+      material_finish: "银灰色铸铝散热体；白色烤漆修口圈；下端镜面反射碗"
+      proportion_ratio: "可见修口圈与筒身比约1:3；4头线性阵列均等间距"
+      innovation_score: 5
+      innovation_note: "散热模块外置暴露于吊顶上方 + 吊顶下方免工具倾斜调节 + 防水（水珠可见）是三项并行创新，工程美学高度外显"
+
+    light_opening:
+      aperture_shape: "圆形"
+      trim_ring: "极细白色修口圈，约5mm宽"
+      anti_glare: "深筒遮光，反射碗内缩约20mm"
+      beam_angle_visible: "约30°窄光束，可见光束投射"
+      tilt_capable: true
+
+    use_context: "商业空间天花嵌入，需要防水（浴室/厨房/室外半封闭）+ 精准重点照明"
+    design_method_tags: ["H11功能外显", "H09隐藏工程反向-散热外置", "H03分件线"]
+    transferability: "散热鳍片外置手法可迁移至需要热管理的高功率筒灯；刻度调节环手法可迁移至任何需要角度感知的嵌入灯"
+
+
+  - product_id: "if_射灯_筒灯_002"
+    source_images: ["03.jpg", "04.jpg"]
+    name_guess: "Dual-Mode Recessed Downlight with Ambient Halo Ring"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "筒灯"
+
+    design_language:
+      form_archetype: "小型圆形嵌入式筒灯，白色修口圈 + 镜面反射碗；独特之处在于修口圈外侧有乳白亚克力圆柱扩散体，形成双模式光效"
+      hero_feature: "关闭时呈标准白边+镜面碗外观；开启时乳白圆柱扩散体产生温暖环形光晕，向上漫射使天花板发光，同时向下射出主光束——双模式合为一体"
+      material_finish: "白色烤漆金属修口圈；镜面铬反射碗；乳白亚克力圆柱漫射体"
+      proportion_ratio: "修口圈直径约80mm；乳白柱体高约15mm，整体比例紧凑"
+      innovation_score: 4
+      innovation_note: "将环形间接照明与直接下照合并在同一嵌入式开口，无需额外安装间接灯；视觉上天花板主动发光而非仅被照亮"
+
+    light_opening:
+      aperture_shape: "圆形"
+      trim_ring: "中等宽度白色修口圈，约8mm"
+      anti_glare: "镜面碗内缩，防眩等级中等"
+      beam_angle_visible: "主光束约40°；环形漫射全角度"
+      tilt_capable: false
+
+    use_context: "住宅客厅/餐厅，需要兼顾重点照明与氛围照明的场景"
+    design_method_tags: ["H07极简整合", "H10材料表达", "H08对比强调"]
+    transferability: "双模式光效（直射+漫射一体化）手法可迁移至需要多情景切换的住宅筒灯；乳白柱体扩散体作为装饰性光学元件的语言可迁移"
+
+
+  - product_id: "if_射灯_筒灯_003"
+    source_images: ["05.jpg"]
+    name_guess: "Wood-Slat Surface Mount Cylinder Downlight"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "筒灯"
+
+    design_language:
+      form_archetype: "表面安装圆柱形筒灯，外壳由竖向实木条包覆铝合金内壳，底部暴露镜面反射碗"
+      hero_feature: "实木竖条与金属底圈的材质对比；木条既是装饰语言也是自然通风散热通道"
+      material_finish: "浅色橡木/胡桃木竖条；香槟金/暗铜色金属顶盖与底圈；镜面铬反射碗"
+      proportion_ratio: "高径比约1:1（正圆柱）；木条宽约8mm，间距约5mm"
+      innovation_score: 3
+      innovation_note: "木材与精密光学的跨材质融合有差异化语言，但表面安装形式限制了嵌入式筒灯的代表性"
+
+    light_opening:
+      aperture_shape: "圆形"
+      trim_ring: "无修口圈，底圈即为金属环"
+      anti_glare: "镜面碗内缩约25mm，防眩中等"
+      beam_angle_visible: "约40°"
+      tilt_capable: false
+
+    use_context: "住宅/精品商业，北欧/日式风格空间，表面安装于天花板"
+    design_method_tags: ["H10材料表达", "H08对比强调", "H02包覆"]
+    transferability: "木条包覆铝壳的材质分层手法可迁移至任何圆柱形灯具外壳；散热通道即装饰槽的双功能设计可迁移"
+
+
+  - product_id: "if_射灯_筒灯_004"
+    source_images: ["06.jpg"]
+    name_guess: "Triple Recessed Downlight in Capsule Frame — Tilt Array"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "筒灯"
+
+    design_language:
+      form_archetype: "长椭圆形（胶囊形）嵌入框架，内嵌3个圆形筒灯开口：两侧各一个可大角度侧倾（约60°），中央一个正向固定带LED微型光环"
+      hero_feature: "两侧筒体可向外大角度侧倾至几乎平行于天花板，实现洗墙/重点侧照；中央固定筒灯带精密LED齿纹光环装饰"
+      material_finish: "全白哑光烤漆；纯白内腔；LED环细节精密"
+      proportion_ratio: "整体框架约600×200mm；三筒等间距；侧筒开口约80mm，中央约100mm"
+      innovation_score: 4
+      innovation_note: "三功能一体（两向重点侧照+正向均匀照）集成于单一嵌入框架；极简白色整合使整体视觉噪声极低"
+
+    light_opening:
+      aperture_shape: "圆形（×3）"
+      trim_ring: "与框架一体化，无独立修口圈"
+      anti_glare: "深筒遮光，侧倾后光束角受深筒控制"
+      beam_angle_visible: "中央约40°；侧筒约30°可调向"
+      tilt_capable: true
+
+    use_context: "商业展陈/高端住宅，需要在单点位同时实现洗墙与重点照明"
+    design_method_tags: ["H07极简整合", "H05模块化", "H11功能外显"]
+    transferability: "胶囊框架多头集成手法可迁移至需要多方向照明的嵌入场景；大角度倾斜机构语言可迁移"
+
+
+  - product_id: "if_射灯_筒灯_005"
+    source_images: ["07.jpg"]
+    name_guess: "Ultra-Miniature Recessed Downlight — Brass Trim ~30mm"
+    brand_guess: "PAJU（据尺子品牌推断）"
+    brand_confidence: "medium"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "筒灯"
+
+    design_language:
+      form_archetype: "极小型嵌入式筒灯，开口直径约25-30mm，黄铜色平盘修口圈，中央嵌水晶切割棱镜反射元件"
+      hero_feature: "以金属尺比对展示其超小尺寸（约2.5cm直径）；黄铜平盘修口圈几乎与天花板齐平；棱镜反射体产生宝石般的光效"
+      material_finish: "黄铜/金色哑光修口盘；水晶切割棱镜光学件；粗糙混凝土/石膏天花背景"
+      proportion_ratio: "修口圈厚度约2mm，直径约30mm；极扁平"
+      innovation_score: 5
+      innovation_note: "极致小型化（业内最小级别）+ 黄铜平盘零修口圈设计 + 棱镜宝石光效三项叠加，可被视为点缀型珠宝灯的极限探索"
+
+    light_opening:
+      aperture_shape: "圆形"
+      trim_ring: "极薄黄铜平盘，约2mm厚，可视为无修口圈设计"
+      anti_glare: "开口几乎暴露，防眩依赖棱镜散射"
+      beam_angle_visible: "宽散射，约60°+，非精准下照"
+      tilt_capable: false
+
+    use_context: "高端住宅/精品店/博物馆，天花板需要极度干净或作为点缀"
+    design_method_tags: ["H01减法", "H10材料表达", "H07极简整合"]
+    transferability: "超小型化开口 + 近零修口圈 + 贵金属饰盘的组合语言可迁移至极简主义天花设计；棱镜散射光学元件可迁移至需要柔化点光源的场景"
+
+
+  - product_id: "if_射灯_筒灯_006"
+    source_images: ["08.jpg"]
+    name_guess: "Large-Diameter Flat Recessed Reflector — Pinhole Center"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "筒灯"
+
+    design_language:
+      form_archetype: "超大直径（约400-500mm）浅盘形嵌入式筒灯，整体为白色哑光平碟，中央仅有一个极小的针孔出光口（约15mm）"
+      hero_feature: "以极大的反光白碟面作为间接反射面，针孔出光；天花板成为柔光源，无可见眩光；整体视觉极度极简"
+      material_finish: "全白哑光漆面浅碟；极细白边修口圈与天花齐平"
+      proportion_ratio: "碟面直径与中央针孔比约30:1，比例极度夸张"
+      innovation_score: 5
+      innovation_note: "反转了筒灯逻辑：大面积反射碟作为二次漫射面，光源几乎隐形，天花板面积被激活为发光体；是筒灯形态中防眩极限解法"
+
+    light_opening:
+      aperture_shape: "圆形（针孔，极小）"
+      trim_ring: "极细，与天花齐平，约3mm"
+      anti_glare: "极优，UGR极低，针孔不可见直接光源"
+      beam_angle_visible: "宽漫射，约120°+"
+      tilt_capable: false
+
+    use_context: "美术馆/高端住宅/冥想空间，要求天花板视觉完全干净、零眩光"
+    design_method_tags: ["H01减法", "H09隐藏工程", "H07极简整合"]
+    transferability: "大面积漫射碟+针孔出光的防眩手法可迁移至对眩光控制要求极高的场景；天花平面激活为发光面的概念可迁移"
+
+
+  - product_id: "if_射灯_筒灯_007"
+    source_images: ["09.jpg"]
+    name_guess: "Hexagonal Mesh Diffuser Surface/Semi-Recessed Downlight"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "筒灯"
+
+    design_language:
+      form_archetype: "圆形半嵌/吸顶式筒灯，深黑色圆环框架内嵌六边形网格漫射面板，通过白色小天花盘+细杆连接天花"
+      hero_feature: "六边形蜂窝网格漫射体作为装饰性光学面板，既控制眩光又形成强烈的几何视觉纹理；黑色圆框与白色天花盘的强对比"
+      material_finish: "哑光黑色铸铝圆环；透明/半透明六边形蜂窝光学玻璃或亚克力；白色烤漆小天花盘"
+      proportion_ratio: "网格面板直径约200mm；框环宽约15mm；整体下垂约80mm"
+      innovation_score: 4
+      innovation_note: "蜂窝光学面板将工业防眩格栅美学化，黑白对比增强设计感；可倾斜调向使其兼具射灯功能"
+
+    light_opening:
+      aperture_shape: "圆形（蜂窝漫射面板覆盖整个开口）"
+      trim_ring: "黑色圆环即为框架，宽约15mm"
+      anti_glare: "蜂窝格栅防眩，UGR良好"
+      beam_angle_visible: "约60°漫射"
+      tilt_capable: true
+
+    use_context: "工业风/现代商业空间，需要防眩的同时保留强烈设计感"
+    design_method_tags: ["H04参数化", "H10材料表达", "H08对比强调"]
+    transferability: "蜂窝/格栅光学面板作为装饰性防眩元件的手法可迁移至任何需要兼顾防眩与美观的灯具；黑框+白底盘的悬挂对比语言可迁移"
+
+
+  - product_id: "if_射灯_筒灯_008"
+    source_images: ["10.jpg"]
+    name_guess: "Compact Recessed Downlight — Context/Ambient Shot"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "筒灯"
+
+    design_language:
+      form_archetype: "小型圆形嵌入式筒灯，白色天花背景，仅出光口可见，无可见修口圈，极度融入天花"
+      hero_feature: "天花板融合度极高，在生活场景中几乎不可见；双灯间距均匀，光束直径约400mm照射范围"
+      material_finish: "白色，与天花一体"
+      proportion_ratio: "可见开口约60-70mm"
+      innovation_score: 2
+      innovation_note: "本图为环境场景图，主要价值在于展示天花融合效果；产品本身设计特征不突出"
+
+    light_opening:
+      aperture_shape: "圆形"
+      trim_ring: "几乎不可见，极细或无"
+      anti_glare: "中等，开口有轻微内缩"
+      beam_angle_visible: "约45°"
+      tilt_capable: false
+
+    use_context: "住宅客厅，要求天花板整洁无干扰"
+    design_method_tags: ["H01减法"]
+    transferability: "天花融合度的极致追求可作为反例参考——过于融合则无法被用户识别为品牌产品"
+
+
+  - product_id: "if_射灯_筒灯_009"
+    source_images: ["11.jpg"]
+    name_guess: "Recessed Linear LED Bar with Crystal Prismatic Optics"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "筒灯"
+
+    design_language:
+      form_archetype: "嵌入式线性LED条形灯，黑色矩形外壳，内嵌一排方形水晶切割棱镜光学元件，每个单元独立成腔"
+      hero_feature: "水晶切割棱镜阵列（约8-10个单元）在暗背景下呈现强烈的多面折射宝石质感；黑色哑光框与水晶高反光的极端对比"
+      material_finish: "哑光黑色铝型材；光学级水晶/玻璃棱镜阵列；镜面铬侧腔"
+      proportion_ratio: "线条长宽比约5:1；各棱镜单元宽度均等"
+      innovation_score: 4
+      innovation_note: "将珠宝切割美学引入建筑线性照明，水晶棱镜阵列在黑暗背景下形成强烈视觉冲击；属于H10材料表达+H04参数化的高水平结合"
+
+    light_opening:
+      aperture_shape: "矩形（线性多腔）"
+      trim_ring: "黑色金属框，约10mm宽"
+      anti_glare: "各腔独立，防眩较好"
+      beam_angle_visible: "约45°宽光束"
+      tilt_capable: false
+
+    use_context: "高端商业/酒店天花，追求奢华视觉冲击的嵌入式照明"
+    design_method_tags: ["H10材料表达", "H04参数化", "H08对比强调"]
+    transferability: "棱镜阵列作为线性灯具光学装饰元件可迁移至任何需要奢华感的线性灯；黑底+水晶高对比语言可迁移"
+
+
+  - product_id: "if_射灯_筒灯_010"
+    source_images: ["12.jpg"]
+    name_guess: "Magnetic Track Recessed Module with Swappable Louvre Insert"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "筒灯"
+
+    design_language:
+      form_archetype: "嵌入式磁吸轨道系统，方形黑色模块，内嵌可抽换百叶片组件；组件可从正面拉出/推入更换，实现光束角或色温切换"
+      hero_feature: "手持抽出的百叶片插件（warm色温百叶）与安装状态的中性色百叶对比展示了无工具热插拔光学组件的核心创新；模块化轨道可扩展"
+      material_finish: "哑光深灰/黑色铝型材；铝百叶片；磁吸轨道"
+      proportion_ratio: "模块宽约60mm；百叶插件约55×120mm"
+      innovation_score: 5
+      innovation_note: "热插拔光学百叶组件（无工具，从正面操作）+ 磁吸轨道集成是双重安装维护创新；允许现场切换配光曲线，极大提升灵活性"
+
+    light_opening:
+      aperture_shape: "矩形（百叶格栅覆盖）"
+      trim_ring: "无，与轨道系统一体"
+      anti_glare: "百叶格栅防眩，UGR优秀"
+      beam_angle_visible: "取决于插件，约20-60°可换"
+      tilt_capable: false
+
+    use_context: "商业展陈/零售/博物馆，需要定期调整配光或色温的专业场景"
+    design_method_tags: ["H05模块化", "H09隐藏工程", "H11功能外显"]
+    transferability: "热插拔光学组件手法可迁移至任何需要现场调整配光的专业照明；磁吸模块化安装语言可迁移至消费级灯具"
+
+
+  - product_id: "if_射灯_筒灯_011"
+    source_images: ["15.jpg", "17.jpg"]
+    name_guess: "Outdoor Ground-Spike Directional Spot — Philips Hue Lily Style"
+    brand_guess: "Philips Hue"
+    brand_confidence: "medium"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "户外射灯"
+
+    design_language:
+      form_archetype: "户外地插式射灯，哑光黑色圆筒灯头，单轴倾斜支架，圆形底座带固定孔，外接电源线"
+      hero_feature: "15.jpg为深反射碗版本（精准配光），17.jpg为大口径平面漫射面版本（泛光）——同平台两种配光模块化；简洁工业形态"
+      material_finish: "哑光黑色铝合金；内腔黑色（深碗）或白色漫射面；聚碳酸酯防护罩"
+      proportion_ratio: "灯头高径比约1.2:1；支架高约100mm"
+      innovation_score: 3
+      innovation_note: "双模配光（深碗窄束/宽口漫射）在同一外形下实现是较好的模块化设计，但整体形态语言较为通用"
+
+    light_opening:
+      aperture_shape: "圆形"
+      trim_ring: "无修口圈，灯筒端面即为开口"
+      anti_glare: "深碗版防眩佳；漫射面版宽角低防眩"
+      beam_angle_visible: "深碗约25°；漫射约100°"
+      tilt_capable: true
+
+    use_context: "户外庭院/景观照明，植物/建筑立面重点照射"
+    design_method_tags: ["H05模块化", "H07极简整合"]
+    transferability: "同平台双配光模块（窄束/泛光可换头）手法可迁移至任何户外射灯产品线规划"
+
+
+  - product_id: "if_射灯_筒灯_012"
+    source_images: ["16.jpg"]
+    name_guess: "Recessed Linear Multi-Head — 2 Fixed + 1 Tiltable Cylinder"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "筒灯"
+
+    design_language:
+      form_archetype: "嵌入式矩形修口盘（白色），内嵌黑色底盘载3个照明单元：2个平齐固定筒（小型，约40mm）+ 1个可外伸倾斜圆柱射灯头（约60mm，完全外伸至天花以下）"
+      hero_feature: "混合光学组合：两个固定下照筒灯提供基础均匀照明，第三个可倾斜延伸射灯头提供重点照明——三合一嵌入式解决方案"
+      material_finish: "白色烤漆修口盘；黑色哑光内盘；黑色铝射灯头"
+      proportion_ratio: "修口盘约350×120mm；延伸射灯头突出天花约40mm"
+      innovation_score: 4
+      innovation_note: "将三种不同功能的照明器件（2×固定筒灯+1×可调射灯）整合在同一嵌入框架内，白/黑双色配合既分层又统一"
+
+    light_opening:
+      aperture_shape: "矩形框+圆形×3"
+      trim_ring: "白色外框约8mm；黑色内盘无独立修口"
+      anti_glare: "固定筒灯深腔防眩；延伸射灯头中等"
+      beam_angle_visible: "固定筒约40°；延伸射灯约25°可调向"
+      tilt_capable: true
+
+    use_context: "住宅/精品商业，需要在同一嵌入点实现多功能照明"
+    design_method_tags: ["H05模块化", "H07极简整合", "H08对比强调"]
+    transferability: "异形模块混搭（固定筒+可调射灯）集成于单一修口盘的手法是实用创新，可迁移至餐厅/厨房多功能灯位设计"
+
+
+  - product_id: "if_射灯_筒灯_013"
+    source_images: ["18.jpg"]
+    name_guess: "4-Head Surface Bar Spotlight System"
+    brand_guess: "Philips Hue"
+    brand_confidence: "medium"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "吸顶射灯组合"
+
+    design_language:
+      form_archetype: "长条形吸顶表面安装底座，两端各2个圆柱形射灯头，共4头，每头可独立旋转调向"
+      hero_feature: "灯头集中在两端（2+2）而非均匀分布，形成视觉上的书端式对称；细长底座比例优雅；全白统一色调"
+      material_finish: "全白哑光，底座与灯头同色调"
+      proportion_ratio: "底座长约600mm；灯头直径约50mm；高约80mm"
+      innovation_score: 2
+      innovation_note: "设计语言完整度高但创新点一般，主要价值在于比例关系和两端集中排列的布局"
+
+    light_opening:
+      aperture_shape: "圆形×4"
+      trim_ring: "灯头端口即开口，无修口圈"
+      anti_glare: "较浅，防眩中等"
+      beam_angle_visible: "约40°"
+      tilt_capable: true
+
+    use_context: "住宅客厅/餐厅表面安装，适合层高不足以嵌入的场景"
+    design_method_tags: ["H07极简整合", "H05模块化"]
+    transferability: "两端集中排列（书端式）的多头组合布局手法可迁移至轨道灯/吸顶组合灯设计"
+
+
+  - product_id: "if_射灯_筒灯_014"
+    source_images: ["19.jpg"]
+    name_guess: "Modular Recessed Triangle Reveal System with Integrated Track"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "嵌入式轨道系统"
+
+    design_language:
+      form_archetype: "嵌入式三角形黑色天花reveal（沟槽）系统，沟槽形成倒三角形暗盒，两侧嵌线性灯带，右侧轨道载2个小型圆柱射灯头，左侧悬挂1个吊线圆柱点射灯"
+      hero_feature: "三角形天花构型同时作为建筑装饰元素与照明系统载体：线性/射灯/吊灯三合一嵌入；黑色整体视觉强烈"
+      material_finish: "全哑光黑色铝型材；极细线性灯带；小型黑色铝合金圆柱射灯"
+      proportion_ratio: "三角边长约800mm；射灯头直径约30mm；吊线长约300mm"
+      innovation_score: 5
+      innovation_note: "建筑构型（三角reveal）与照明系统深度整合是高级设计手法；三种照明形式（线性/射灯/吊灯）在同一极简黑色框架内共存，实现最大功能密度"
+
+    light_opening:
+      aperture_shape: "圆形（射灯头）+ 线性（线条灯）"
+      trim_ring: "无，与沟槽系统一体"
+      anti_glare: "射灯中等；线性灯条直接可见"
+      beam_angle_visible: "射灯约25°；线性洗墙约120°"
+      tilt_capable: true
+
+    use_context: "高端商业/建筑室内定制，天花作为照明载体的整体设计"
+    design_method_tags: ["H09隐藏工程", "H05模块化", "H07极简整合"]
+    transferability: "建筑构型（沟槽/reveal）作为照明系统载体的深度整合手法可迁移；三角形构型的几何美学可作为概念迁移素材"
+
+
+  - product_id: "if_射灯_筒灯_015"
+    source_images: ["20.jpg"]
+    name_guess: "Circular Ring Track with Clip-On Cylinder Spots"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "射灯"
+      tertiary: "吊装轨道射灯"
+
+    design_language:
+      form_archetype: "两个尺寸不同的椭圆形线性轨道圆环，以细钢丝悬吊，圆环上分布4-8个小型黑色圆柱射灯头（夹式安装，可沿轨道滑动）"
+      hero_feature: "圆环轨道将照明设施转化为雕塑性天花装置；射灯头可在圆环上任意定位；大小圆环错层悬挂形成空间层次"
+      material_finish: "哑光黑色铝制圆环轨道；细钢丝；小型哑光黑色铝合金圆柱射灯头"
+      proportion_ratio: "大环直径约1200mm，小环约800mm；射灯头直径约30mm"
+      innovation_score: 4
+      innovation_note: "圆环轨道将功能性照明系统雕塑化，是建筑照明与装置艺术的边界探索；可滑动定位射灯头保留了功能灵活性"
+
+    light_opening:
+      aperture_shape: "圆形（多个小射灯头）"
+      trim_ring: "无，射灯头夹式安装于圆环"
+      anti_glare: "深筒中等防眩"
+      beam_angle_visible: "约25-30°"
+      tilt_capable: true
+
+    use_context: "高端住宅/精品零售/展览，天花照明作为空间装置的核心视觉元素"
+    design_method_tags: ["H06仿生", "H05模块化", "H08对比强调"]
+    transferability: "圆形/曲线轨道作为吊装系统骨架的形态语言可迁移；射灯头夹式可滑移安装机制可迁移至其他曲线轨道系统"
+
+
+# ── MISFILED ENTRIES ──────────────────────────────────────────────────────────
+misfiled:
+  - source_images: ["13.jpg", "14.jpg"]
+    reason: "产品为'Blindo'儿童GPS气球追踪器+腕带，非灯具类产品。文件名落在筒灯文件夹属于错误归档。"
+    suggested_action: "移至其他品类或删除"
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── BATCH SUMMARY ─────────────────────────────────────────────────────────────
+batch_summary:
+  total_products: 15
+  valid_lighting_products: 13
+  misfiled: 2
+  innovation_score_distribution:
+    score_5: ["if_射灯_筒灯_001", "if_射灯_筒灯_005", "if_射灯_筒灯_006", "if_射灯_筒灯_010", "if_射灯_筒灯_014"]
+    score_4: ["if_射灯_筒灯_002", "if_射灯_筒灯_004", "if_射灯_筒灯_007", "if_射灯_筒灯_009", "if_射灯_筒灯_012", "if_射灯_筒灯_015"]
+    score_3: ["if_射灯_筒灯_003", "if_射灯_筒灯_011"]
+    score_2: ["if_射灯_筒灯_008", "if_射灯_筒灯_013"]
+  top_design_themes:
+    - "极简融合天花（近零修口圈）: 001, 005, 006, 008"
+    - "模块化/热插拔光学: 010, 012, 004"
+    - "材质对比（木/金属/水晶）: 003, 009, 011"
+    - "多功能集成（多种照明形式合并）: 004, 012, 014"
+    - "建筑构型深度整合: 014, 015"
+  most_transferable:
+    - "if_射灯_筒灯_001: 散热外置+调节刻度 → 高功率筒灯工程美学"
+    - "if_射灯_筒灯_005: 超小型化+贵金属平盘 → 珠宝感极简筒灯"
+    - "if_射灯_筒灯_006: 大碟+针孔防眩 → 零眩光天花解决方案"
+    - "if_射灯_筒灯_010: 热插拔百叶组件 → 专业可调配光系统"
+# ─────────────────────────────────────────────────────────────────────────────

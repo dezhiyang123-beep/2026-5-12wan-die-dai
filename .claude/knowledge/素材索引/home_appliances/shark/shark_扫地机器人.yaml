@@ -1,0 +1,149 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "扫地机器人"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/扫地机器人/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "shark_robot_001"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/扫地机器人/03.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色扫地机+方形高箱底座正面，机身中央银色圆形LOGO盘，底座侧蓝色水箱"
+    product_name: "Shark PowerDetect 2-in-1 扫拖机器人套装"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "扫地机器人"]
+    design_language:
+      silhouette: "低矮圆盘机身（高约8cm）+ 高箱形底座（高约30cm）；底座顶部宽度与机身直径齐平，整体比例方正"
+      light_opening: "有——底座右侧透明蓝色水箱可见液位"
+      thermal: "底座背面细密格栅散热"
+      cmf:
+        color: "哑黑（机身/底座主体）+ 银灰（机身中央LOGO圆盘/底座腰线）+ 蓝色（水箱透明液位窗）"
+        material: "ABS主体 + 磨砂PC盖板 + 透明PC水箱窗"
+        finish: "哑光黑主体 + 拉丝银装饰环 + 光面蓝透明水箱"
+      mounting: "底座自动回充+集尘+补水；机身无线自主导航"
+      signature_detail: "机身中央同心圆银色金属盘——凸起圆饼造型，兼作LOGO载体，视觉重心明确"
+    design_level:
+      score: 4
+      reason: "黑色+银灰+蓝色三色构成强专业感；底座方正高箱形设计差异化明显；水箱液位窗功能可视化加分"
+    design_tags: ["扫拖一体", "自动集尘底座", "蓝色水箱", "黑银配色", "中央圆盘LOGO"]
+    hero_feature: "蓝色透明水箱嵌入底座侧面——液位实时可见，补水状态无需开盖查看"
+    problem_solved: "扫拖同步+自动集尘+自动补水，全程免手动干预，适合大户型长时间无人清洁"
+    transferable_technique: "液位可视化侧窗——透明窗嵌入不透明机身，状态信息无需数字显示即可感知，可迁移至加湿器/净水机等含液体设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "shark_robot_002"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/扫地机器人/04.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色MATRIX扫地机斜45°视角，机身顶部大银色旋转圆盘LOGO，底座方形高箱"
+    product_name: "Shark Matrix 扫地机器人套装"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "扫地机器人"]
+    design_language:
+      silhouette: "圆盘机身（直径约35cm），顶视呈正圆，厚度约8cm；底座为L形侧剖面，机身停靠后整体高约40cm"
+      light_opening: "无"
+      thermal: "底座右侧纵向通风格栅"
+      cmf:
+        color: "深黑灰（机身/底座）+ 银灰（顶部大圆盘）+ 深烟灰（机身腰部过渡圈）"
+        material: "ABS主体 + 金属拉丝顶盖圆盘 + 橡胶防撞边"
+        finish: "哑光黑灰主体 + 拉丝银圆盘 + 磨砂灰腰围"
+      mounting: "底座自动回充集尘；LiDAR导航"
+      signature_detail: "超大拉丝银圆形顶盖——占机身顶面约60%面积，'MATRIX'字样镭雕，品牌仪式感强"
+    design_level:
+      score: 4
+      reason: "全黑灰+大银圆盘构图高级感突出；顶盖大面积金属处理提升产品档次；45°展示角度强化机器人个性"
+    design_tags: ["扫地机器人", "大银圆盘", "全黑配色", "高档感", "LiDAR导航"]
+    hero_feature: "超大拉丝银圆形顶盖——几乎占满顶面，强烈品牌仪式感，在同类黑色机器人中辨识度最高"
+    problem_solved: "精准LiDAR矩阵导航清洁全覆盖，底座自动集尘免频繁倒垃圾"
+    transferable_technique: "顶盖大面积金属圆盘——单一高档材质覆盖主视面，用材质而非形态制造高级感，成本集中点明确"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "shark_robot_003"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/扫地机器人/05.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色无激光塔扫地机+矮圆形底座正面，机身顶部平整，品牌logo居中"
+    product_name: "Shark IQ 扫地机器人（入门款）"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "扫地机器人"]
+    design_language:
+      silhouette: "标准低矮圆盘（直径约32cm，高约7cm），顶面完全平整无突出；底座为矮矩形，高度约15cm"
+      light_opening: "无"
+      thermal: "底座背部小方形格栅"
+      cmf:
+        color: "中灰（机身）+ 深灰黑（腰带/底座）+ 银白（LOGO字）"
+        material: "ABS全包覆 + 橡胶防撞圈"
+        finish: "细纹磨砂中灰顶盖 + 哑光深灰腰带"
+      mounting: "底座自动回充；摄像头视觉导航"
+      signature_detail: "完全平整的顶面——无激光塔凸起，整机厚度均匀，能钻入更低矮家具底部"
+    design_level:
+      score: 2
+      reason: "设计平实，无明显差异化特征；灰色配色中庸；定位入门，设计克制但缺乏记忆点"
+    design_tags: ["扫地机器人", "入门款", "平顶设计", "视觉导航", "中灰配色"]
+    hero_feature: "完全平顶无激光塔——机身高度最低，可通过更多低矮家具底部盲区"
+    problem_solved: "家庭地面基础清洁，低成本入门，适合小户型或预算有限用户"
+    transferable_technique: "去激光塔平顶设计——为降低机身高度的设计决策，视觉上更简洁，功能约束转化为外观优势"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "shark_robot_004"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/扫地机器人/06.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色PowerDetect旗舰扫地机斜视角，银色同心圆大顶盖+POWERDETECT金属腰带，底座含气味中和功能"
+    product_name: "Shark PowerDetect 旗舰扫地机+异味净化底座"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "扫地机器人"]
+    design_language:
+      silhouette: "圆盘机身（直径约36cm），机身轮廓前D型+后圆弧；底座为高箱矩形，侧面有圆形'ODOR NEUTRALIZER'旋钮"
+      light_opening: "无"
+      thermal: "底座右侧纵向格栅散热"
+      cmf:
+        color: "哑黑（机身主体）+ 银灰（大圆顶盖/腰带/旋钮）+ 深钢灰（底座）"
+        material: "ABS主体 + 拉丝金属顶盖 + 铝合金装饰腰带"
+        finish: "哑光黑主体 + 拉丝银同心圆顶盖 + 高光银腰带"
+      mounting: "底座自动回充+集尘+气味中和三合一"
+      signature_detail: "底座侧面圆形'ODOR NEUTRALIZER'功能旋钮——将气味净化功能用物理旋钮外显，视觉即功能承诺"
+    design_level:
+      score: 5
+      reason: "产品力+设计力双强：旗舰黑银CMF系统完整，气味中和旋钮创新功能外显，底座功能堆叠但视觉克制，整体档次最高"
+    design_tags: ["扫地机器人旗舰", "气味中和", "黑银配色", "功能外显旋钮", "三合一底座"]
+    hero_feature: "底座侧面气味中和圆形旋钮——首创功能可视化，清洁完成同步除味，底座即净化站"
+    problem_solved: "全自动深度清洁同步消除宠物/烹饪气味，底座三合一减少用户操作频次"
+    transferable_technique: "功能专属旋钮外显——将隐藏功能用实体旋钮呈现在外观上，用户扫一眼即知能力边界，信任感来自物理可见"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,424 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "砂光机"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_砂光机_001"
+    source_images:
+      - filename: "砂光机__砂带机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__砂带机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX Brushless砂带机裸机：黄色机身+黑色前把手区，顶部竖立大型黑色帆布集尘袋（DEWALT黄字，拉链开口），BRUSHLESS MOTOR徽章，3\"宽砂带水平运行，灰色底板"
+    product_name: "DeWalt 20V MAX Brushless Belt Sander"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "砂光机"
+      - "砂带机"
+    design_language:
+      silhouette: "砂带机标准形态：水平细长砂带在底部，机身垂直于砂带轴向（双手操作），顶部集尘袋垂直竖立，侧视呈倒L形"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身侧面散热槽"
+      cmf:
+        color: "黄色（机身主体）+ 黑色（把手+集尘袋+前端）"
+        material: "工程塑料机身，帆布集尘袋，砂纸砂带，灰色底板"
+        finish: "哑光黄，哑光黑帆布"
+      mounting: "20V MAX电池后端插入"
+      signature_detail: "顶部垂直竖立的大型黑色帆布集尘袋（DEWALT黄字logo）——集尘袋视觉体量大于机身，功能配件成为产品的最高点"
+    design_level:
+      score: 3
+      reason: "砂带机标准形态，20V无绳升级，集尘袋品牌化处理到位，设计无突破"
+    design_tags:
+      - "20V MAX"
+      - "砂带机"
+      - "无绳"
+      - "帆布集尘袋"
+    hero_feature: "大型黑色帆布集尘袋竖立于机身顶部，功能配件高于机身成为视觉主角"
+    problem_solved: "木材表面无绳磨削，20V无绳解放施工现场，集尘袋减少粉尘"
+    transferable_technique: "配件（集尘袋）在产品中的视觉主导——当配件体量大于主机，配件即产品特征"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_砂光机_002"
+    source_images:
+      - filename: "砂光机__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX Brushless掌上四分之一砂光机（1/4-sheet）裸机：黑色顶部（含黄色散热槽嵌条）+黄色中下部机身，矩形砂纸底板，侧面伸出圆柱形黑色帆布集尘袋（DEWALT标识），前端纸夹扣，BRUSHLESS标签"
+    product_name: "DeWalt 20V MAX Brushless 1/4-Sheet Orbital Sander"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "砂光机"
+      - "平板砂光机"
+    design_language:
+      silhouette: "矩形平板砂光机：方形底部砂纸盘+圆形机身体量叠加，侧面伸出水平圆柱集尘袋，整体侧视呈T形+侧延伸"
+      light_opening: "N/A（电动工具）"
+      thermal: "顶部黄色散热槽嵌条（内嵌于黑色顶盖，形成黑中见黄的散热窗）"
+      cmf:
+        color: "黑色（顶部主体）+ 黄色（散热槽嵌条+中下机身+集尘袋固定环）+ 黑色（帆布集尘袋）"
+        material: "工程塑料机身，帆布集尘袋，矩形砂纸底板"
+        finish: "哑光黑顶，哑光黄中段，帆布袋"
+      mounting: "20V MAX电池底部滑入"
+      signature_detail: "黑色顶盖中的黄色散热槽嵌条——「黑中见黄」的散热结构处理，相比通体黄色更精炼"
+    design_level:
+      score: 3
+      reason: "20V掌上砂光机标准形态，黑色主导顶部区别于有绳款，散热槽嵌条细节到位"
+    design_tags:
+      - "20V MAX"
+      - "平板砂光机"
+      - "1/4-sheet"
+      - "无刷"
+    hero_feature: "黑色顶盖内嵌黄色散热槽——「黑中见黄」将DeWalt CMF融入散热结构"
+    problem_solved: "木工精装打磨，矩形底板可到达角落，无绳便于移动作业"
+    transferable_technique: "散热槽颜色差异化处理——与机身顶色对比的散热槽颜色，将工程散热结构转化为设计细节"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_砂光机_003"
+    source_images:
+      - filename: "砂光机__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__02.jpg"
+        image_role: "hero"
+        visual_anchor: "有绳1/4-sheet平板砂光机套装：黄色/黑色机身（老款），矩形底板，圆柱黑色集尘袋，电源线，配套黑色方形打孔模板（9根尖刺用于在砂纸上预打集尘孔）"
+      - filename: "砂光机__综合__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__10.jpg"
+        image_role: "scene"
+        visual_anchor: "有绳1/4-sheet平板砂光机套装（另一款）：黄色/黑色机身，矩形底板，集尘袋，黑色包+打孔模板配件"
+    product_name: "DeWalt Corded 1/4-Sheet Palm Sander"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "砂光机"
+      - "平板砂光机"
+    design_language:
+      silhouette: "有绳版平板砂光机：形态同无绳款但无电池接口，机身更扁平，电源线从后端引出"
+      light_opening: "N/A（电动工具）"
+      thermal: "顶部散热槽"
+      cmf:
+        color: "黄色（机身中下）+ 黑色（顶部+集尘袋）"
+        material: "工程塑料机身，帆布集尘袋，打孔模板（塑料+钢针）"
+        finish: "哑光黄，哑光黑"
+      mounting: "有线（电源线），无电池"
+      signature_detail: "配套打孔模板（黑色方形+9根钢针）——在砂纸上预打集尘孔，系统化配件思维"
+    design_level:
+      score: 3
+      reason: "有绳平板砂光机标准执行，打孔模板配件是实用功能附件，整体设计常规"
+    design_tags:
+      - "有绳"
+      - "平板砂光机"
+      - "1/4-sheet"
+      - "打孔模板"
+    hero_feature: "配套打孔模板——系统化配件将砂纸安装前的预打孔工序标准化"
+    problem_solved: "家庭/精装木工打磨，有绳持续动力，打孔模板确保集尘效率"
+    transferable_technique: "配件系统化设计——为工具使用前准备步骤设计专用配件，提升整体使用体验"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_砂光机_004"
+    source_images:
+      - filename: "砂光机__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__03.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX Brushless 5\"随机轨道砂光机套装：黑色顶部+黄色中下部+黄色侧裙边，圆形5\"砂纸盘，黑色集尘袋，BRUSHLESS标签，5Ah+DCB107充电器"
+      - filename: "砂光机__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__04.jpg"
+        image_role: "hero"
+        visual_anchor: "同款5\" ROS裸机近景：黑色顶部内嵌黄色蜂巢形散热格栅（大面积矩形散热嵌条），DEWALT黑色标签区，黄色BRUSHLESS椭圆徽章，黄色下裙边+圆形砂纸盘，集尘袋夹在侧面"
+      - filename: "砂光机__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__05.jpg"
+        image_role: "scene"
+        visual_anchor: "同款5\" ROS另一套装配置（DCB112充电器+黄色包），机身同03/04"
+    product_name: "DeWalt 20V MAX Brushless 5\" Random Orbital Sander"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "砂光机"
+      - "随机轨道砂光机"
+    design_language:
+      silhouette: "5\"随机轨道砂光机：正视呈圆形（砂盘直径决定），侧视为扁圆蘑菇形（顶部半球+圆形裙边），集尘袋横向伸出，电池从底部插入，整体低矮稳重"
+      light_opening: "N/A（电动工具）"
+      thermal: "顶部大面积黄色蜂巢格栅嵌条（矩形区域，细长条散热孔），嵌于黑色顶盖内"
+      cmf:
+        color: "黑色（顶盖主体）+ 黄色（散热格栅嵌条+下裙边+BRUSHLESS徽章）+ 黑色（集尘袋）"
+        material: "工程塑料机身，帆布集尘袋，绒面砂纸盘"
+        finish: "哑光黑顶，哑光黄裙边和散热嵌条"
+      mounting: "20V MAX电池底部滑入（垂直插入底盘下方）"
+      signature_detail: "黑色顶盖内嵌大面积黄色蜂巢格栅散热嵌条——格栅面积约占顶盖40%，「黑中见黄」散热区是最显眼的设计特征"
+    design_level:
+      score: 4
+      reason: "黑色顶盖中的大面积黄色蜂巢格栅嵌条形态独特，比有绳款的小散热槽有显著视觉升级，黑/黄/裙边三段式比例在ROS品类中有品牌识别度"
+    design_tags:
+      - "20V MAX"
+      - "5\""
+      - "随机轨道砂光机"
+      - "无刷"
+      - "蜂巢格栅"
+      - "H08_对比强调"
+    hero_feature: "黑色顶盖内嵌大面积黄色蜂巢格栅——将散热区域设计为产品最显眼的视觉特征，散热功能即设计语言"
+    problem_solved: "木材精细表面无绳打磨，随机轨道减少打磨痕，20V无绳现场作业"
+    transferable_technique: "必要散热孔的图案化+品牌色处理——散热区用品牌主色+几何图案强化，「功能区域即品牌区域」"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_砂光机_005"
+    source_images:
+      - filename: "砂光机__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__06.jpg"
+        image_role: "hero"
+        visual_anchor: "有绳5\"随机轨道砂光机（老款）：黄色为主机身+黑色顶盖，侧面伸出大圆形黄色集尘接口（圆管接头），电源线，5\"砂纸盘"
+      - filename: "砂光机__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__07.jpg"
+        image_role: "scene"
+        visual_anchor: "有绳5\"ROS套装+黑色包：黄色/黑色机身，黑色帆布集尘袋，6档调速旋钮（标签可见），电源线"
+      - filename: "砂光机__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__08.jpg"
+        image_role: "scene"
+        visual_anchor: "同系列有绳5\"ROS另一配置+黑色包，侧面展示机身形态"
+      - filename: "砂光机__综合__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__09.jpg"
+        image_role: "scene"
+        visual_anchor: "有绳5\"ROS+大号黑色包：黄色/黑色机身同系列，不同大包配置"
+    product_name: "DeWalt Corded 5\" Random Orbital Sander"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "砂光机"
+      - "随机轨道砂光机"
+    design_language:
+      silhouette: "有绳5\" ROS：标准蘑菇形侧视，黄色机身主导（区别于无绳款黑色顶主导），06款侧面有外露黄色圆管集尘接口"
+      light_opening: "N/A（电动工具）"
+      thermal: "顶部散热槽（较无绳款面积小）"
+      cmf:
+        color: "黄色（机身主体，区别于无绳款黑色主导）+ 黑色（顶盖+集尘袋）"
+        material: "工程塑料机身，帆布集尘袋，绒面砂纸盘"
+        finish: "哑光黄为主，哑光黑"
+      mounting: "有绳（电源线），无电池"
+      signature_detail: "06款黄色大圆管集尘接口从侧面伸出——与机身同色的集尘接口，整体感更强（相比对比色接口）"
+    design_level:
+      score: 3
+      reason: "有绳5\" ROS标准执行，黄色主导CMF区别于无绳款，设计常规但品类标识清晰"
+    design_tags:
+      - "有绳"
+      - "5\""
+      - "随机轨道砂光机"
+      - "调速"
+    hero_feature: "黄色为主导色的机身CMF——区别于无绳款，有绳系列用黄色主导传达更传统的专业感"
+    problem_solved: "持续长时间木材精细打磨（家具/地板），有绳无需担心电量"
+    transferable_technique: "有绳vs无绳系列的CMF差异化——黄色主导（有绳/经典）vs黑色主导（无绳/现代），用主色比例区分产品系"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_砂光机_006"
+    source_images:
+      - filename: "砂光机__综合__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__12.jpg"
+        image_role: "hero"
+        visual_anchor: "有绳5\" ROS（PERFORM-PROTECT版）：黑色主导机身+黄色散热槽+黄色DEWALT标识区，顶左角红色PERFORM-PROTECT徽章，侧面大型黑色帆布集尘袋，顶部黄色散热格栅嵌条，方形功能按钮区"
+    product_name: "DeWalt Corded 5\" ROS with PERFORM-PROTECT (XR-tier)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "砂光机"
+      - "随机轨道砂光机"
+    design_language:
+      silhouette: "5\" ROS标准蘑菇形，但机身CMF接近无绳款的黑色主导风格，PERFORM-PROTECT徽章在顶左角"
+      light_opening: "N/A（电动工具）"
+      thermal: "顶部黄色散热格栅嵌条（与无绳款类似设计语言）"
+      cmf:
+        color: "黑色（机身主导）+ 黄色（散热嵌条+功能区）+ 红色（PERFORM-PROTECT徽章）"
+        material: "工程塑料机身，帆布集尘袋"
+        finish: "哑光黑主，哑光黄散热嵌条，红色徽章"
+      mounting: "有绳（电源线）"
+      signature_detail: "红色PERFORM-PROTECT徽章——DeWalt第三色（安全/保护），在砂光机中标志「过热保护/过载保护」功能"
+    design_level:
+      score: 3
+      reason: "有绳高端砂光机以黑色主导CMF+PERFORM-PROTECT标识，与标准款形成CMF层级区分，设计执行到位"
+    design_tags:
+      - "有绳"
+      - "PERFORM-PROTECT"
+      - "5\""
+      - "随机轨道砂光机"
+      - "H11_功能外显"
+    hero_feature: "红色PERFORM-PROTECT徽章在黑色机身左上角——保护功能以专属色标识，三色系统（黄/黑/红）完整体现"
+    problem_solved: "高强度持续打磨作业，PERFORM-PROTECT系统防过热/过载保护电机"
+    transferable_technique: "三色系统的功能编码——红色专属用于「保护/安全」类功能，与主色黄/黑形成功能色层级"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_砂光机_007"
+    source_images:
+      - filename: "砂光机__综合__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__11.jpg"
+        image_role: "hero"
+        visual_anchor: "有绳大型随机轨道砂光机（7\"/8\"）：黄色L形机身（垂直电机体+水平侧握把），无集尘袋（直接真空吸尘接口），大直径圆形砂纸盘（直径远超5\"款），黑色旋转头部，DEWALT标签，侧把手无防滑纹"
+    product_name: "DeWalt Corded Large Random Orbital Sander (7\"/8\")"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "砂光机"
+      - "随机轨道砂光机"
+    design_language:
+      silhouette: "大型ROS独特L形侧视：垂直电机头+水平侧把手延伸（区别于小型ROS的顶部握持）,大圆形底盘直径是机身直径的约1.5倍，低重心大盘形态"
+      light_opening: "N/A（电动工具）；侧面圆形吸尘接口"
+      thermal: "机身散热槽（顶部）"
+      cmf:
+        color: "黄色（机身+侧把手）+ 黑色（头部旋转关节+砂盘护裙）"
+        material: "工程塑料机身，大直径绒面砂纸盘"
+        finish: "哑光黄，哑光黑"
+      mounting: "有绳（电源线）；无集尘袋（需外接真空吸尘）"
+      signature_detail: "L形侧把手+大直径底盘的比例——侧把握持区别于顶部掌压式，大盘设计适合大面积地板/台面打磨"
+    design_level:
+      score: 3
+      reason: "大型ROS的L形侧握形态与小型款完全不同，尺寸决定握持方式，外接吸尘设计针对大面积工业应用"
+    design_tags:
+      - "有绳"
+      - "大型ROS"
+      - "7\"/8\""
+      - "L形侧握"
+      - "外接吸尘"
+    hero_feature: "L形侧把手+超大底盘比例——形态直接反映使用方式（侧握平推），与小型ROS完全不同的人机界面"
+    problem_solved: "大面积地板/台面专业打磨（车间/地板施工），大盘覆盖面积提高效率"
+    transferable_technique: "尺寸升级导致形态架构改变——从顶部掌压到侧面L形握持，产品规模决定握持模式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_砂光机_008"
+    source_images:
+      - filename: "砂光机__综合__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/砂光机__综合__13.jpg"
+        image_role: "hero"
+        visual_anchor: "DeWalt 237-05商用地板砂光机：银灰色T形顶部把手（两侧橡胶握柄），细长铬钢立柱（带多张安全标签），下方连接黑色铸铁圆形机身（圆形冲孔格栅+铬色侧环），底部黄色DeWalt横向标签带，圆形研磨底盘，黑色集尘袋缠绕立柱，工业插头"
+    product_name: "DeWalt 237-05 Commercial Floor Sander/Polisher"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "砂光机"
+      - "地板砂光机"
+    design_language:
+      silhouette: "推车式立式地板机：顶部T形把手→细长立柱（约1.2m高）→下方圆形机身底盘，整体呈细长竖向形态，无黄色外壳（商用设备黑色/银色主色调）"
+      light_opening: "N/A（工业设备）"
+      thermal: "圆形机身冲孔格栅（气流散热）"
+      cmf:
+        color: "银灰色（T形把手+控制箱）+ 黑色（机身圆形壳+立柱）+ 铬色（侧环）+ 黄色（底部标识带）"
+        material: "钢质立柱，铸铁机身，橡胶把手，黄色标识带"
+        finish: "银灰亚光，黑色粉末涂层，铬色高光环"
+      mounting: "地面推行操作，圆盘旋转研磨，工业插头有线"
+      signature_detail: "黄色DeWalt横向标签带位于机身底部圆周——商用设备几乎全黑银，唯有底部一圈黄色标识保持品牌识别"
+    design_level:
+      score: 3
+      reason: "商用地板机与消费品设计语言完全不同，黑/银色调，黄色仅保留在最小必要面积标识，专业设备感强"
+    design_tags:
+      - "商用"
+      - "地板砂光机"
+      - "立式"
+      - "有绳"
+      - "工业级"
+    hero_feature: "底部圆周黄色标识带——在全黑商用设备上，DeWalt黄色以最小面积完成品牌标识"
+    problem_solved: "商业地板磨光/翻新/清洁（酒店/商业空间），立式操作减少弯腰疲劳"
+    transferable_technique: "在非标准设计语言的商用设备上保持品牌识别的最小面积策略——一条颜色标识带即完成品牌归属"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_砂光机_009"
+    source_images:
+      - filename: "角磨机__带式锉__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/角磨机__带式锉__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR Brushless带式锉裸机：黑色主导机身（XR徽章黄字），黄色边角强调线，BRUSHLESS标签，细长棕色砂带（约20mm宽）从机头斜向延伸到金属臂末端，黑色橡胶侧把手（圆柱形），20V MAX电池顶部插入"
+      - filename: "角磨机__带式锉__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/砂光机/角磨机__带式锉__02.jpg"
+        image_role: "hero"
+        visual_anchor: "同款XR带式锉+POWERSTACK电池：配置POWERSTACK 20V扁平电池，机身同01，砂带和金属臂细节清晰"
+    product_name: "DeWalt 20V MAX XR Brushless Belt File (带式锉)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "砂光机"
+      - "带式锉"
+    design_language:
+      silhouette: "带式锉独特形态：枪形主机（垂直把手）+细长金属砂带臂从机头斜下方伸出（约45度角），砂带在臂末端绕两个小轮运转，侧视呈「J形」或钩形"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身散热槽（XR级）"
+      cmf:
+        color: "黑色（机身主导，XR系）+ 黄色（XR徽章+边角强调线）+ 棕色（砂带）+ 银色（金属导向臂）"
+        material: "工程塑料机身，金属砂带导向臂，橡胶把手，砂带"
+        finish: "哑光黑，哑光黄线条，金属本色银"
+      mounting: "20V MAX电池顶部插入（枪形把手顶端）；黑色圆柱橡胶侧把手可调向"
+      signature_detail: "细长金属砂带臂从机头斜向伸出——带式锉品类独特的「J形」或「鱼竿形」侧视轮廓，与所有其他砂光机完全不同"
+    design_level:
+      score: 4
+      reason: "带式锉品类形态独特（J形侧视），黑色XR主导机身+金属砂带臂的组合在视觉上强烈有力，品类内稀缺产品；注：文件放在砂光机文件夹但应归属角磨机/锉削工具"
+    design_tags:
+      - "20V MAX XR"
+      - "带式锉"
+      - "无刷"
+      - "J形轮廓"
+      - "金属修锉"
+      - "H11_功能外显"
+    hero_feature: "细长砂带金属臂从机头斜向伸出形成J形——功能结构（砂带导向）直接成为产品的剪影特征"
+    problem_solved: "金属管道/型材内外表面精细打磨，细长臂可进入管道内侧和圆弧面区域"
+    transferable_technique: "功能延伸件（砂带臂）成为产品剪影——延伸臂长度和角度直接传达工具的作业能力和场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名含「角磨机」且为带式锉，放置于砂光机文件夹中，建议确认归类；图像内容为带式锉（Belt File），与角磨机品类不同"

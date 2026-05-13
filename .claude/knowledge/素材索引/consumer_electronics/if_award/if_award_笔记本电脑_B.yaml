@@ -1,0 +1,274 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "笔记本电脑"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_laptop_013"
+    source_images:
+      - filename: "61.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/61.jpg"
+        image_role: "hero"
+        visual_anchor: "双机展示：俯视角展现青绿色侧边发光条+银色铝合金机身全貌"
+      - filename: "62.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/62.jpg"
+        image_role: "detail"
+        visual_anchor: "侧面特写：青绿色RGB发光散热通道+键盘分件线+密集端口布局"
+    product_name: "Compal Gaming Laptop"
+    brand_name: "Compal"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "游戏本"]
+    design_language:
+      silhouette: "扁平矩形机身，棱角分明，无明显楔形；机身厚度中等偏厚，强调力量感"
+      light_opening: "标准16:9屏幕比例，屏幕四边等宽细边框，上边框含摄像头，屏盖平整无装饰"
+      thermal: "侧面全宽青绿色发光散热槽贯穿左右，散热口可见内部网格结构，同时兼具视觉标识功能"
+      cmf:
+        color: "银色铝合金主色调，青绿色（teal）RGB灯光为点缀色"
+        material: "铝合金机身，键盘区域深色硬塑料，散热通道金属网格"
+        finish: "拉丝铝合金哑光处理，发光区域透明或半透明格栅"
+      mounting: "传统合页铰链，开合角度约120度，轴位低调集成于机身后缘"
+      signature_detail: "侧边通体青绿色发光散热通道——将散热结构转化为视觉标识，开合两面均可见"
+    design_level:
+      score: 4
+      reason: "将散热工程结构外显为品牌视觉语言的创意度高；发光通道贯穿侧面的设计语言有较强记忆点；整体工业感强但非常规电竞俗套，设计克制"
+    design_tags: ["gaming", "RGB发光", "散热外显", "H11功能外显", "H08对比强调", "侧边光条", "铝合金"]
+    hero_feature: "侧面全宽青绿色发光散热通道，散热即标识"
+    problem_solved: "游戏本散热通道通常难看或被遮蔽，本品将其转化为品牌视觉核心，兼顾功能与识别度"
+    transferable_technique: "将功能性开孔/通道用对比色光源强化，使工程结构成为设计语言（H11+H08）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_014"
+    source_images:
+      - filename: "65.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/65.jpg"
+        image_role: "hero"
+        visual_anchor: "四分之三俯视角展示全机+扩展底座：黑色商务本+独立扩展坞组合"
+      - filename: "66.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/66.jpg"
+        image_role: "context"
+        visual_anchor: "另一角度展示相同机型，屏幕显示Windows 8界面，强调商务定位"
+    product_name: "Acer TravelMate P6"
+    brand_name: "Acer"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "商务本"]
+    design_language:
+      silhouette: "纯矩形轮廓，机身极薄，边角略有倒角；底座扩展模块为独立矩形块，可拆卸"
+      light_opening: "14英寸标准屏，边框较细，上边框含摄像头，屏幕与A面铰链用金属托架固定"
+      thermal: "被动散热为主，侧面无明显散热格栅外露，机身维持整洁"
+      cmf:
+        color: "全黑色调，铰链和边框处有银色金属点缀"
+        material: "机身疑为镁铝合金或工程塑料，A面轻微纹理；底座为黑色塑料"
+        finish: "微砂质感哑光黑，低调商务风格"
+      mounting: "后置铰链+金属支撑托架，支撑屏幕用两段式金属立柱可见，类ThinkPad设计语言"
+      signature_detail: "可拆卸底座扩展坞设计——将电池/端口扩展模块独立为底部附件，延长续航同时保持主机轻薄"
+    design_level:
+      score: 3
+      reason: "商务本经典造型，配色和材质克制得当；底座扩展坞设计提升实用性但视觉创新度一般；整体是优秀但非突破性的企业级设计"
+    design_tags: ["商务本", "模块化底座", "黑色商务风", "H05模块化", "企业级", "可扩展"]
+    hero_feature: "可拆卸电池/端口扩展底座，轻薄主机与扩展坞形态组合"
+    problem_solved: "商务用户既需要轻薄携带，又需要会议室全端口扩展，底座扩展坞方案解决两者矛盾"
+    transferable_technique: "主机轻薄化+扩展附件模块化分离的产品形态策略（H05模块化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_015"
+    source_images:
+      - filename: "67.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/67.jpg"
+        image_role: "hero"
+        visual_anchor: "双机展示两种模式：帐篷模式+平板模式，旁置手写笔，白底棚拍"
+    product_name: "2-in-1 Convertible Laptop with Stylus"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "笔记本电脑", "二合一变形本"]
+    design_language:
+      silhouette: "极薄楔形机身，屏幕与底座等厚；360度转轴支持多形态，边角尖锐有科技感"
+      light_opening: "约13-14英寸屏幕，边框极细（约4mm），屏占比高，黑色边框统一"
+      thermal: "机身极薄，被动散热为主，侧面无明显散热口"
+      cmf:
+        color: "深空灰色调，接近深炭灰；手写笔为哑光黑"
+        material: "铝合金机身，A面和C面统一材质；手写笔金属杆"
+        finish: "细砂哑光铝合金，无明显反光"
+      mounting: "360度全翻转铰链，可实现笔记本/帐篷/展示/平板四种模式，铰链位于中轴线"
+      signature_detail: "超细边框+360度铰链组合，配套手写笔，主打创意工作者的全场景适配"
+    design_level:
+      score: 4
+      reason: "极细边框与360度铰链的工艺整合度高；帐篷模式展示具有强视觉差异化；整体设计语言简洁克制，无多余装饰；品牌未确认扣一分"
+    design_tags: ["二合一", "360度铰链", "手写笔", "H07极简整合", "超细边框", "变形本", "创意工作者"]
+    hero_feature: "360度全翻转铰链实现四态变形，超细边框与金属机身的极简整合"
+    problem_solved: "创意工作者在触控绘图和键盘输入之间频繁切换的形态需求，单机覆盖全场景"
+    transferable_technique: "360度铰链+等厚机身的变形逻辑，使各形态重心稳定且视觉一致（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "品牌未识别，外观风格类似Dell XPS 2-in-1或HP Spectre x360，需人工确认品牌"
+
+  - product_id: "if_laptop_016"
+    source_images:
+      - filename: "69.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/69.jpg"
+        image_role: "hero"
+        visual_anchor: "四分之三右前方视角展示全机，白底棚拍，屏幕显示Samsung品牌壁纸"
+    product_name: "Samsung Galaxy Book3 Ultra"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "轻薄本"]
+    design_language:
+      silhouette: "极薄矩形轮廓，无明显楔形，边角采用小圆角处理；整体比例接近MacBook的扁薄风格"
+      light_opening: "约16英寸大屏，四边极细边框，上边框内嵌摄像头，屏幕与键盘比例协调"
+      thermal: "超薄机身，侧面无明显散热槽，采用内置主动散热，外观保持整洁"
+      cmf:
+        color: "银色（Mystic Silver）主色调，键盘区黑色键帽与银色底座对比"
+        material: "铝合金机身，A面极光滑；键盘为黑色硬塑料键帽"
+        finish: "高光银色铝合金，A面有轻微镜面质感"
+      mounting: "后置一体式铰链，开合顺滑，A面到C面厚度均匀"
+      signature_detail: "银色铝合金机身+黑色键盘的高对比度组合，品牌Logo居中，整体延续Galaxy生态视觉统一性"
+    design_level:
+      score: 3
+      reason: "优雅的商务轻薄本设计，工艺精良；但设计语言过于保守，与MacBook银色风格差异度低；缺乏强记忆点，靠品牌Logo识别"
+    design_tags: ["轻薄本", "银色铝合金", "Galaxy生态", "H07极简整合", "商务创意", "大屏"]
+    hero_feature: "超薄银色铝合金机身，Galaxy生态无缝连接体验"
+    problem_solved: "专业创意用户需要大屏高性能但不愿牺牲轻薄便携，Galaxy Book3提供MacBook Pro级别的替代选择"
+    transferable_technique: "高光银铝合金A面+黑色键盘的双色对比策略，以CMF差异建立视觉层次（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_017"
+    source_images:
+      - filename: "70.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/70.jpg"
+        image_role: "hero"
+        visual_anchor: "暗色背景双机展示：开盖+合盖，展示Legion LOGO发光+后侧RGB散热进气条"
+      - filename: "71.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/71.jpg"
+        image_role: "detail"
+        visual_anchor: "白色背景双机背面对比：左机带RGB发光进气格栅，右机为普通进气格栅，材质对比清晰"
+    product_name: "Lenovo Legion Pro"
+    brand_name: "Lenovo"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "游戏本"]
+    design_language:
+      silhouette: "厚重矩形机身，四角方正；A面有明显LEGION文字浮雕，整体强调力量感和攻击性"
+      light_opening: "约16英寸屏幕，细边框；屏盖四角方正，无倒角；上边框较细"
+      thermal: "后侧全宽RGB发光进气格栅贯穿A面顶部边缘，侧面多个排热口，散热结构高度外显"
+      cmf:
+        color: "深空黑主色调；LEGION LOGO为紫色+粉色渐变RGB；后侧格栅RGB可调色"
+        material: "铝合金顶盖，底部为工程塑料+金属质感涂层"
+        finish: "哑光黑色磨砂，LOGO区域有高光对比"
+      mounting: "后置铰链，开合角度约145度，铰链区域有Legion品牌装饰细节"
+      signature_detail: "A面顶部全宽RGB发光进气格栅条——将散热进气与品牌发光标识合二为一，背面可视性强"
+    design_level:
+      score: 3
+      reason: "电竞游戏本中较为克制的设计，RGB用量有节制，主要集中在后侧进气条；Legion品牌识别度高；但设计语言仍在电竞惯例框架内，无突破性创新"
+    design_tags: ["gaming", "电竞", "RGB发光", "H11功能外显", "Legion品牌", "后侧进气格栅", "黑色哑光"]
+    hero_feature: "A面顶部贯穿全宽的RGB发光进气格栅，散热口即品牌发光标识"
+    problem_solved: "高性能游戏本需要大量进气面积，本品将进气格栅设计为品牌RGB标识，解决散热与外观矛盾"
+    transferable_technique: "将必须存在的大面积散热进气开孔转化为品牌发光标识条（H11+H08），同一结构双重价值"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_018"
+    source_images:
+      - filename: "83.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/83.jpg"
+        image_role: "hero"
+        visual_anchor: "合盖侧后视角：展示银色机身+精密雕刻链式铰链全貌，白底棚拍"
+      - filename: "84.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/84.jpg"
+        image_role: "detail"
+        visual_anchor: "帐篷模式展示360度翻转状态，强调链式铰链在极限角度下的结构美感"
+    product_name: "Lenovo Yoga (early generation)"
+    brand_name: "Lenovo"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "二合一变形本"]
+    design_language:
+      silhouette: "极薄矩形轮廓，A面和C面为银色铝合金；侧面黑色边框为对比色；整体极简"
+      light_opening: "约13英寸屏幕，边框较窄，上边框含摄像头，比例标准"
+      thermal: "侧面有条形散热槽，被动散热为主"
+      cmf:
+        color: "银色铝合金（A/C面）+ 黑色（侧框/B面）双色策略"
+        material: "铝合金顶盖和底座，边框为铝合金或镁合金"
+        finish: "拉丝铝合金哑光，黑色侧框高光对比"
+      mounting: "精密链式（watchband）铰链——由多段小铰链单元串联构成，类似表带结构，实现360度翻转"
+      signature_detail: "链式铰链（watchband hinge）——精密加工的多节串联铰链是Yoga系列的核心视觉标识，兼具工程美感和品牌识别"
+    design_level:
+      score: 5
+      reason: "链式铰链设计将工程必要结构转化为顶级工艺展示品，结构即美学；铰链在任意角度都展现精密感；这是笔记本设计史上最具辨识度的细节之一，IF Award级别完全匹配"
+    design_tags: ["二合一", "链式铰链", "watchband-hinge", "H09隐藏工程", "H03分件线", "Yoga", "工艺标志物", "360度翻转"]
+    hero_feature: "链式表带铰链（watchband hinge）——多节精密铰链串联，将360度翻转机构转化为珠宝级工艺展示"
+    problem_solved: "360度翻转铰链通常宽大笨拙，Lenovo用多节串联链式结构使铰链纤细精密，并成为设计亮点而非妥协"
+    transferable_technique: "将功能铰链/转轴设计为可见的精密工艺细节，使结构性必要部件成为产品灵魂（H03分件线转化为H09工艺美学）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_019"
+    source_images:
+      - filename: "87.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/87.jpg"
+        image_role: "hero"
+        visual_anchor: "双机展示：前方开盖+后方合盖，白底棚拍，Dell logo清晰可见，屏幕显示CAD软件"
+      - filename: "88.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/88.jpg"
+        image_role: "detail"
+        visual_anchor: "单机开盖正面四分之三视角，强调大屏键盘布局和侧面端口密度"
+    product_name: "Dell Precision Mobile Workstation"
+    brand_name: "Dell"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "移动工作站"]
+    design_language:
+      silhouette: "标准矩形机身，机身偏厚（移动工作站级别），四角小圆角；整体形态稳重实用"
+      light_opening: "约17英寸大屏，边框适中（非超窄），上边框含摄像头，屏幕高度接近键盘区"
+      thermal: "侧面有多个散热口，底部可见进气格栅，主动散热系统，但外观处理低调"
+      cmf:
+        color: "钛灰色（Titan Gray）单色调，统一A/B/C/D面，无对比色"
+        material: "铝合金机身，顶盖和底座统一；键盘为灰色键帽"
+        finish: "细砂哑光铝合金，抗指纹处理，专业感强"
+      mounting: "低调后置铰链，开合约135度，铰链不外露，整体轮廓干净"
+      signature_detail: "全机统一钛灰色+极简线条语言，Precision系列强调工程专业感而非消费美学，CAD/3D工作场景适配性强"
+    design_level:
+      score: 3
+      reason: "专业级工作站的克制设计，钛灰统一色调体现专业感；但设计语言保守，无突破性形态创新；优点在于工程整合度和专业定位的一致性，设计服务功能而非表达"
+    design_tags: ["移动工作站", "钛灰色", "专业级", "H07极简整合", "CAD工作站", "大屏", "Dell Precision"]
+    hero_feature: "全机钛灰统一色调，专业工作站的极简克制语言，高端灰色铝合金整机感"
+    problem_solved: "工程师和设计师需要高性能工作站但不希望外观过于张扬，Dell Precision以低调专业感区别于游戏本和消费本"
+    transferable_technique: "单一专业色调统一全机（A/B/C/D面），以材质和工艺精度传递高端感而非颜色变化（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

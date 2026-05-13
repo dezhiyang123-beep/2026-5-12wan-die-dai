@@ -1,0 +1,512 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内壁灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/"
+  generated_at: "2026-05-09"
+products:
+  - product_id: "bega_室内壁灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "两只白色矩形壁灯并排，左方形右横向，底部单条缝隙出光"
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/02.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "同款两只，俯视角度，顶部缝隙清晰可见，双向出光版本"
+    product_name: "矩形下照壁灯（方形/横向双尺寸）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "矩形下照"]
+    design_language:
+      silhouette: "纯平直角矩形体，无任何倒角或装饰线，正面完全封闭，造型极度克制"
+      light_opening: "底部单条全宽水平缝隙（下照版）或顶底各一条缝隙（上下照版），出光极细窄"
+      thermal: "平面背板直接贴墙，无外露散热鳍片，热管理隐藏于内腔"
+      cmf:
+        color: "纯白"
+        material: "压铸铝"
+        finish: "哑光粉末涂层"
+      mounting: "背板平贴墙面，灯体微微悬浮于墙面之上，无可见安装螺丝"
+      signature_detail: "出光缝极窄（约2-3mm），与灯体宽度形成极端比例反差；灯体侧壁与正面交接处为直角硬边"
+    design_level:
+      score: 5
+      reason: "比例精确、减法彻底、无一多余细节，是BEGA矩形语言的完美载体"
+    design_tags: ["矩形", "极简", "下照", "上下照", "缝隙出光", "白色", "压铸铝", "H07极简整合"]
+    hero_feature: "极窄出光缝与大面积封闭正面的比例张力——光源完全隐藏，仅留一道光缝"
+    problem_solved: "走廊/楼梯间需要柔和引导光但不想让灯具本身喧宾夺主"
+    transferable_technique: "封闭正面+底部全宽单缝出光的减法策略可迁移至任何需要「隐形」壁灯的场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内壁灯_002"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "超宽超薄横向矩形灯体，宽高比约4:1，底部全宽条形乳白扩散板出光"
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/08.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "中等宽高比横向矩形，宽高比约2.5:1，底部白色扩散板出光"
+    product_name: "宽幅横向矩形壁灯（扩散板底面出光）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "宽幅横向矩形"]
+    design_language:
+      silhouette: "扁平横向矩形板状，宽高比大（超宽版约4:1），灯体厚度极薄"
+      light_opening: "底面全面积乳白扩散板，出光面积大，与上方封闭铝体形成材质对比"
+      thermal: "铝制顶面背板为主散热面，无外露结构"
+      cmf:
+        color: "纯白"
+        material: "压铸铝（灯体）+ 乳白亚克力（扩散板）"
+        finish: "哑光粉末涂层"
+      mounting: "左侧背板贴墙，灯体向右横向延伸"
+      signature_detail: "超大宽高比的横向延伸感；底部扩散板与铝壳边缘齐平，界面干净"
+    design_level:
+      score: 4
+      reason: "比例有特点，宽幅形态具有强烈建筑感，但扩散板方案比缝隙出光略显普通"
+    design_tags: ["横向矩形", "宽幅", "扩散板", "下照", "白色", "建筑感", "H07极简整合"]
+    hero_feature: "超大宽高比创造建筑水平线感，灯具消失于建筑语汇之中"
+    problem_solved: "需要宽幅均匀照明（如镜前灯、走廊水平补光）同时保持建筑语言统一"
+    transferable_technique: "宽高比极端化（>3:1）的横向矩形可作为区分档次的比例手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内壁灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆柱体，上下两端各有透明圆形玻璃盖，中部扁平支臂连接墙面"
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/06.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "同款完整圆柱，更大尺寸版本，上下出光效果明显"
+      - filename: "112.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/112.jpg"
+        image_role: "lit_context"
+        visual_anchor: "灯亮状态，上下射灯光锥清晰，上照照亮天花，下照落地"
+    product_name: "圆柱双向投射壁灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "圆柱双向投射"]
+    design_language:
+      silhouette: "圆柱体，高度约为直径的1.5-2倍，上下对称，中部被水平支臂打断"
+      light_opening: "顶部和底部各有一片透明圆形玻璃/水晶盖，光从两端定向射出"
+      thermal: "铝制圆筒身兼散热器，中部支臂为铝制，无外加散热结构"
+      cmf:
+        color: "纯白"
+        material: "压铸铝（筒体）+ 透明光学玻璃（端盖）"
+        finish: "哑光粉末涂层（铝）+ 透明（玻璃）"
+      mounting: "水平支臂从圆柱中部侧面伸出，直接贴墙安装，极简支臂"
+      signature_detail: "透明玻璃端盖可见内部光学元件；支臂与圆柱的T形连接；上下对称的双向光"
+    design_level:
+      score: 5
+      reason: "圆柱语言纯粹，双向出光功能完全由形态传达，工业感与精密感并存"
+    design_tags: ["圆柱", "双向投射", "上下照", "透明玻璃", "白色", "精密光学", "H11功能外显", "H07极简整合"]
+    hero_feature: "透明玻璃端盖使内部精密光学结构可见，功能即美学"
+    problem_solved: "需要精准上下双向定向照明，同时要求灯具形态具有雕塑感"
+    transferable_technique: "透明端盖露出光学结构的「功能外显」手法；圆柱+支臂的T形连接语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内壁灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "白色正方体，四角有透明玻璃角件，顶面和底面各有一条全宽透明缝隙"
+    product_name: "方体玻璃角件上下照壁灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "方体上下照"]
+    design_language:
+      silhouette: "近正方体，边长比约1:1:1，六面中五面为哑光白铝，出光面在顶底各有条形透明玻璃缝"
+      light_opening: "顶面和底面全宽透明玻璃条缝，上下均匀出光，四角有透明角件点缀"
+      thermal: "全封闭铝制立方体，内腔散热"
+      cmf:
+        color: "纯白"
+        material: "压铸铝 + 透明玻璃（角件+缝隙）"
+        finish: "哑光粉末涂层"
+      mounting: "背面直接贴墙，无外露支臂"
+      signature_detail: "四角透明玻璃角件是视觉亮点，使立方体「悬浮」感增强；顶底对称缝隙"
+    design_level:
+      score: 4
+      reason: "立方体纯粹，玻璃角件是独特细节，但整体略不如圆柱版本有辨识度"
+    design_tags: ["方体", "上下照", "透明玻璃", "白色", "角件细节", "H07极简整合", "H10材料表达"]
+    hero_feature: "四角透明玻璃角件——将结构节点转化为装饰焦点，强化立方体的精密感"
+    problem_solved: "需要上下双向均匀照明的走廊/门厅壁灯，同时具有精密工业质感"
+    transferable_technique: "将结构连接点（角件）做成透明材料，实现「露出精度」的视觉语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内壁灯_005"
+    source_images:
+      - filename: "06__2.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/06__2.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色大方板壁灯，正面呈金字塔形斜面汇聚至底部，底部三格百叶出光，BEGA标志可见"
+      - filename: "07__2.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/07__2.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "同款，更大背景图，灯体与深灰墙面融合，四角可见固定螺丝"
+    product_name: "大方板棱锥面下照壁灯（深灰色）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "大方板下照"]
+    design_language:
+      silhouette: "正方形大板，约300×300mm估算，正面为双斜面棱锥形态向底部收束，侧面看呈梯形"
+      light_opening: "底部三格分隔的条形防眩百叶，条格内有乳白扩散板，向下出光"
+      thermal: "铝制大面积背板直接散热至墙体"
+      cmf:
+        color: "深灰色（anthracite）"
+        material: "压铸铝"
+        finish: "哑光质感粉末涂层，砂感表面"
+      mounting: "四角螺丝固定于墙面，螺丝外露但直径极小，视觉干净"
+      signature_detail: "棱锥斜面与下方百叶的组合：上部几何感强、下部功能性强，形成鲜明对比；BEGA压印标志"
+    design_level:
+      score: 5
+      reason: "深灰色+棱锥面是BEGA户外/工程语言的室内版本，体量感和建筑感极强"
+    design_tags: ["方板", "棱锥面", "深灰色", "百叶防眩", "下照", "建筑感", "工程级", "H08对比强调", "H09隐藏工程"]
+    hero_feature: "棱锥斜切正面——将遮光几何做成雕塑形态，功能与美学合一"
+    problem_solved: "大体量墙面需要强下照路径灯光，同时要求灯具本身成为建筑立面的视觉元素"
+    transferable_technique: "正面斜切产生棱锥阴影面的形态语言；深灰色大面板与浅色墙面的材质对话"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内壁灯_006"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "白色薄片折纸形壁灯，从侧面看为菱形，正面大斜面向下倾斜，底部极薄"
+    product_name: "薄片折面下照壁灯（折纸形）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "折面下照"]
+    design_language:
+      silhouette: "薄片折叠形态，侧面看为锐角菱形，正面大斜面占主导，整体极薄极轻盈"
+      light_opening: "灯体底部向外延伸的薄唇边下方出光，光线向下漫射"
+      thermal: "超薄铝片，散热面积极小，适用于低功率LED"
+      cmf:
+        color: "纯白"
+        material: "压铸铝（折面）"
+        finish: "哑光粉末涂层"
+      mounting: "左侧角点固定于墙面，灯体悬挑向右"
+      signature_detail: "折纸般的锐角几何；灯体极薄，从侧面几乎消失；正面大斜面形成强烈投影"
+    design_level:
+      score: 4
+      reason: "形态独特，折纸语言在壁灯品类少见，但出光方式较简单"
+    design_tags: ["折面", "薄片", "下照", "折纸形", "白色", "轻盈", "H07极简整合", "H08对比强调"]
+    hero_feature: "折纸式锐角斜面——从侧面看近乎消失，正面看形成强烈几何张力"
+    problem_solved: "需要轻盈感强、不占体量的引导照明，兼具艺术性"
+    transferable_technique: "折叠平面+锐角处理使灯体「消薄」的视觉技法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内壁灯_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "超长条形壁灯，宽高比超过10:1，方形截面，底面乳白扩散板连续出光"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/10.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "同款但圆角截面版本，更柔和，底面半圆形乳白扩散体"
+    product_name: "超长条形壁灯（线形光带）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "线形光带"]
+    design_language:
+      silhouette: "极细长条形，宽高比>10:1，截面为小方形或小圆形，主体为线形"
+      light_opening: "全长底面连续出光（方截面版为平扩散板，圆截面版为半圆弧扩散体）"
+      thermal: "细长铝挤型材，全长散热"
+      cmf:
+        color: "纯白"
+        material: "铝挤型材 + 乳白PC/亚克力扩散体"
+        finish: "哑光粉末涂层"
+      mounting: "左端背板固定，灯体横向悬挑"
+      signature_detail: "超极端宽高比（>10:1）使灯具变成「光线」而非「灯具」；截面极小，存在感极弱"
+    design_level:
+      score: 4
+      reason: "线形语言干净，但挤型材工艺比压铸铝略降档，整体仍具建筑感"
+    design_tags: ["线形", "超长条", "光带", "白色", "建筑感", "连续出光", "H07极简整合"]
+    hero_feature: "极端宽高比让灯具「成为光」——灯具结构消失，光带本身成为空间线条"
+    problem_solved: "需要纯粹水平线形光强化空间进深感，灯具本身不成为视觉焦点"
+    transferable_technique: "宽高比极端化到10:1以上时灯具转化为「空间线条」的视觉逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内壁灯_008"
+    source_images:
+      - filename: "08__2.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/08__2.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色宽幅横向下照壁灯，顶部有斜切遮光帽，底部四格百叶，带固定螺丝"
+      - filename: "144.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/144.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "同款，不同视角，深灰色横向遮光帽下照，侧面梯形轮廓清晰"
+    product_name: "宽幅横向斜切遮光帽下照壁灯（深灰色）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "宽幅斜切下照"]
+    design_language:
+      silhouette: "宽幅横向，顶部为向前倾斜的斜切遮光挡板，整体侧面轮廓为梯形"
+      light_opening: "底部四格分隔百叶条，乳白扩散板，均匀向下出光"
+      thermal: "铝制遮光帽兼作散热结构"
+      cmf:
+        color: "深灰色（anthracite）"
+        material: "压铸铝"
+        finish: "哑光砂感涂层"
+      mounting: "单点/双点螺丝贴墙"
+      signature_detail: "斜切遮光帽与百叶格的组合；深灰色大面积遮光帽产生强阴影，强化工业感"
+    design_level:
+      score: 4
+      reason: "功能性强，形态有力，是BEGA工程线的标准语言，但创意性略低于几何雕塑款"
+    design_tags: ["宽幅", "斜切遮光帽", "百叶防眩", "深灰色", "下照", "工程级", "H08对比强调", "H09隐藏工程"]
+    hero_feature: "斜切遮光帽形成强烈阴影——防眩功能通过几何斜切实现，不需要额外零件"
+    problem_solved: "需要精准下照防眩壁灯用于通道/楼梯，同时具有工程建筑质感"
+    transferable_technique: "斜切遮光帽做成灯体主体形态的一部分，而非附加配件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内壁灯_009"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆形壁灯/吸顶灯，正面多面体折射玻璃透镜，铬色金属环框，圆形铝底座"
+    product_name: "圆形多面体玻璃透镜壁灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "圆形壁吸两用"]
+    design_language:
+      silhouette: "圆形正面，厚度适中，可贴墙（壁灯）或贴天花（吸顶灯）"
+      light_opening: "全正面多面体折射玻璃透镜，光线经折射向四周漫射"
+      thermal: "圆形铝底座散热，无外露结构"
+      cmf:
+        color: "白色底座 + 银色/铬色金属环"
+        material: "压铸铝（底座）+ 精密光学玻璃（多面体透镜）+ 铬钢（边环）"
+        finish: "哑光白（铝）+ 抛光铬（环）+ 透明（透镜）"
+      mounting: "圆形背板贴墙，无可见螺丝"
+      signature_detail: "多面体（蜂窝状）折射玻璃透镜是最大视觉焦点，不发光时呈现精密几何纹路，发光时光线折射华丽"
+    design_level:
+      score: 5
+      reason: "透镜工艺精湛，不发光时是精工艺术品，发光时折射效果独特，是BEGA高端室内线代表"
+    design_tags: ["圆形", "多面体透镜", "折射玻璃", "铬色", "白色", "壁吸两用", "精密光学", "H10材料表达", "H11功能外显"]
+    hero_feature: "蜂窝状多面体光学玻璃透镜——静态是雕塑艺术，发光是折射秀场"
+    problem_solved: "高端室内空间需要兼具艺术装饰价值和高品质照明效果的壁灯"
+    transferable_technique: "将光学工程精度（多面体透镜）作为表面装饰语言的「精工外显」手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内壁灯_010"
+    source_images:
+      - filename: "106.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/106.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形磨砂乳白玻璃平面壁灯，全面发光，外圈有细金属框，发光时外圈有光晕溢出"
+      - filename: "50.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/50.jpg"
+        image_role: "lit_context"
+        visual_anchor: "楼梯间场景，多个圆形壁灯均匀分布于楼梯侧墙，发光状态柔和"
+      - filename: "97.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/97.jpg"
+        image_role: "lit_context"
+        visual_anchor: "公共空间（地铁/机场风）天花+墙面安装，圆形壁/吸两用灯均匀点阵排列"
+      - filename: "101.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/101.jpg"
+        image_role: "application_context"
+        visual_anchor: "室外楼梯间（半室外）场景，圆形壁灯竖向排列于楼梯侧面"
+    product_name: "圆形乳白平面壁灯（壁吸两用）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "圆形壁吸两用"]
+    design_language:
+      silhouette: "正圆形，扁平厚度，正面为平面，无任何凸起"
+      light_opening: "全正面磨砂乳白玻璃均匀发光，外溢光晕打亮周围墙面形成光圆"
+      thermal: "铝制后壳散热，紧贴墙面"
+      cmf:
+        color: "深灰色金属框 + 乳白磨砂玻璃"
+        material: "铝（框架）+ 磨砂玻璃（发光面）"
+        finish: "哑光深灰（铝）+ 磨砂（玻璃）"
+      mounting: "平贴墙面或天花，通用安装，无可见螺丝"
+      signature_detail: "圆形轮廓+全面均匀出光+外圈光晕——简单到极致的圆形光源；公共空间中成点阵排列时有强烈秩序美"
+    design_level:
+      score: 4
+      reason: "形态极简，功能可靠，是BEGA公共建筑线的经典款，但设计无特别突出的独创性"
+    design_tags: ["圆形", "乳白玻璃", "均匀出光", "壁吸两用", "公共空间", "点阵排列", "H07极简整合"]
+    hero_feature: "纯粹的发光圆——没有任何装饰，圆本身就是全部设计语言"
+    problem_solved: "公共建筑（楼梯间、走廊、机场、地铁）需要耐久可靠、辨识度低、维护方便的壁灯"
+    transferable_technique: "圆形壁灯点阵排列时产生的「繁星」秩序美；壁灯/吸顶两用通用安装逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内壁灯_011"
+    source_images:
+      - filename: "131.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/131.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色高柱体壁灯，顶部有斜切遮光板，发光口向下，灯体极高细长"
+      - filename: "132.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/132.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "深灰色近正方体壁灯，三面开窗，内部V槽反射腔，多向出光，用于步道/楼梯照明"
+      - filename: "49.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/49.jpg"
+        image_role: "application_context"
+        visual_anchor: "楼梯间走廊，小型深灰色方形步道灯嵌入楼梯侧面，多级排列"
+    product_name: "深灰色步道/楼梯引导壁灯（方体多向出光）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "步道引导灯"]
+    design_language:
+      silhouette: "近正方体或高细柱体（两种尺寸），深灰色，低调融入建筑"
+      light_opening: "三面或正面开窗，内部白色V槽反射腔，光线向前/侧漫射引导方向"
+      thermal: "铝制外壳散热，无外露结构"
+      cmf:
+        color: "深灰色（anthracite）"
+        material: "压铸铝"
+        finish: "哑光砂感涂层"
+      mounting: "贴墙面或嵌入楼梯侧板"
+      signature_detail: "内部白色V槽反射腔透过开窗可见，几何感强；深灰体积感与V槽白色形成强烈内外对比"
+    design_level:
+      score: 4
+      reason: "功能导向设计，V槽内反射结构是工程美学亮点，适合楼梯/走廊引导场景"
+    design_tags: ["步道灯", "楼梯引导", "深灰色", "V槽反射", "多向出光", "方体", "H09隐藏工程", "H08对比强调"]
+    hero_feature: "内部白色V槽反射腔——功能性折射结构成为透过开窗可见的几何装饰"
+    problem_solved: "楼梯/走廊步道需要低位引导照明，既不刺眼又有方向性"
+    transferable_technique: "开窗露出内部反射腔结构的「透视工程」手法；深色外壳+亮白内腔的对比语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内壁灯_012"
+    source_images:
+      - filename: "55.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/55.jpg"
+        image_role: "application_context"
+        visual_anchor: "泳池场景，墙面竖向排列细长矩形壁灯（深色+白色扩散板），天花有方形吸顶灯"
+    product_name: "竖向细长矩形壁灯（泳池/湿区）"
+    brand_name: "BEGA"
+    brand_confidence: "medium"
+    category_path: ["灯具", "室内壁灯", "竖向线形"]
+    design_language:
+      silhouette: "竖向超细长矩形，高宽比约5:1以上，扁平贴墙"
+      light_opening: "正面全面积乳白扩散板均匀出光"
+      thermal: "铝制背框，细长散热"
+      cmf:
+        color: "深色（anthracite/黑色）+ 乳白扩散面"
+        material: "铝 + 乳白PC扩散板"
+        finish: "哑光深色涂层"
+      mounting: "贴墙竖向安装，无可见螺丝"
+      signature_detail: "竖向线形+深色框架+白色发光面的强对比；多个并排使用时形成竖向光柱阵列"
+    design_level:
+      score: 3
+      reason: "场景图中只见小缩略图，细节不完全清晰，产品本身为标准线形款，无特别突出创意"
+    design_tags: ["竖向线形", "深色", "扩散板", "湿区", "阵列", "H07极简整合"]
+    hero_feature: "竖向超细长比例——与横向宽幅款形成品牌内的系统对称"
+    problem_solved: "湿区（泳池/浴室）需要防水壁灯，同时保持建筑线条感"
+    transferable_technique: "深色铝框+白色扩散面的竖向线形，与系列横向款共用语言形成家族感"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "仅在场景图(55.jpg)中可见，图中尺寸小，细节描述置信度为medium，建议补充产品单图"
+
+  - product_id: "bega_室内壁灯_013"
+    source_images:
+      - filename: "124.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/壁灯/124.jpg"
+        image_role: "application_context"
+        visual_anchor: "豪华室内场景，白色球形吊灯悬挂于大理石+白色橱柜空间，BEGA圆柱体横向带出现在左侧"
+    product_name: "球形吊灯（参考：同系列风格）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "球形"]
+    design_language:
+      silhouette: "大型球形，乳白外壳有横向分模线和铬色腰带，顶部有透气孔细节"
+      light_opening: "全球面乳白玻璃漫射，360度均匀出光"
+      thermal: "球形腔体内散热，顶部透气"
+      cmf:
+        color: "乳白 + 银色/铬色腰带"
+        material: "乳白玻璃球 + 铬钢腰带"
+        finish: "磨砂乳白（玻璃）+ 抛光铬（腰带）"
+      mounting: "细钢丝吊绳悬挂"
+      signature_detail: "铬色腰带横截球体；腰带与球体的几何分割；BEGA特有的精密分模线处理"
+    design_level:
+      score: 4
+      reason: "球形语言经典，铬腰带增添精工感，但此图为壁灯文件夹中的吊灯产品，归类供参考"
+    design_tags: ["球形", "吊灯", "乳白玻璃", "铬色腰带", "豪华室内", "H10材料表达"]
+    hero_feature: "铬腰带精准等分球体——极简几何手术刀切割，精工质感一目了然"
+    problem_solved: "高端住宅/酒店大堂需要大尺寸标志性吊灯，兼具实用照明与视觉焦点"
+    transferable_technique: "金属腰带横截圆球的分件线处理语言；与圆形壁灯系列共享圆形家族基因"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "此为吊灯，出现在壁灯文件夹中；作为BEGA品牌语言参考保留，但品类分类标注为室内吊灯"

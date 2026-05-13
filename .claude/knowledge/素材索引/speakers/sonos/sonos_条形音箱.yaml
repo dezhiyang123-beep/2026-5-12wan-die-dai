@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "条形音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/条形音箱"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "sonos_soundbar_001"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/条形音箱/02.jpg"
+        image_role: "hero"
+        visual_anchor: "超细圆柱管形主体，两端半球封口，整体轮廓如一根精密金属管"
+    product_name: "Sonos Arc Ultra"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "条形音箱"]
+    design_language:
+      silhouette: "超细圆柱管形，直径约55mm，长度远大于截面，两端半球封口，比例极端修长"
+      light_opening: "无可见开孔，声学单元完全隐藏于壳体内部，表面连续无缝"
+      thermal: "无可见散热结构，全封闭壳体"
+      cmf:
+        color: "哑光黑（Matte Black），全身单色无对比"
+        material: "硬质塑料或铸铝壳体，表面微砂处理"
+        finish: "均匀哑光，无金属光泽，无织物"
+      mounting: "底部集成小型横向支脚，支持桌面横置；顶部中段有单点壁挂接口"
+      signature_detail: "正面中段极小Sonos品牌字样（白字），及单颗极小LED状态指示灯，其余表面完全素净"
+    design_level:
+      score: 5
+      reason: "轮廓语言极度统一克制——圆柱管形贯穿全身无打断，无格栅无开孔无装饰，所有功能被彻底隐藏。造型纯粹度达到家电品类天花板，有建筑雕塑感。"
+    design_tags: ["极简主义", "雕塑感", "H07极简整合", "H09隐藏工程", "单色系", "无装饰", "圆柱体", "全封闭"]
+    hero_feature: "超细圆柱管形全封闭壳体——无开孔、无格栅、无分件线，声学功能完全隐藏，轮廓即产品"
+    problem_solved: "条形音箱通常因格栅/开孔/分件线显得廉价且功能外露；Arc Ultra用连续封闭管体彻底消除所有视觉噪音"
+    transferable_technique: "将声学开口完全内化，以连续几何体替代开孔格栅——适用于任何需要隐藏功能结构、追求雕塑感的音频或消费电子产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_soundbar_002"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/sonos/条形音箱/10.jpg"
+        image_role: "hero"
+        visual_anchor: "矩形圆角砖块主体，配套金属壁挂支架同框展示"
+    product_name: "Sonos Beam Gen2"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "条形音箱"]
+    design_language:
+      silhouette: "矩形圆角砖块形，四角大圆角，顶面平整，正面弧面织物，整体比Arc Ultra更紧凑宽短"
+      light_opening: "前面板全幅织物覆盖，声学单元隐于织物后，无外露格栅"
+      thermal: "无可见散热结构"
+      cmf:
+        color: "全黑（Shadow Black），壳体与织物保持同色系"
+        material: "顶面/侧面硬质塑料；前面板Sonos标准织物面料"
+        finish: "顶面哑光硬壳 + 前面板粗纺织物，双材质对比"
+      mounting: "底面设平放脚垫；配套官方金属壁挂支架（U形卡扣结构），支架独立陈列于图中"
+      signature_detail: "顶面中段4颗LED点阵状态灯（触控操作反馈），正面下方居中Sonos字样"
+    design_level:
+      score: 3
+      reason: "标准Sonos圆角砖块语言，织物前面板是品牌惯用手法，整体设计完成度高但无突破性创新，属于品牌标准产品线水准。壁挂支架工程感略强，与主机设计语言有轻微割裂。"
+    design_tags: ["圆角矩形", "织物面板", "H10材料表达", "多材质", "紧凑型", "壁挂配件", "LED状态灯", "家居融合"]
+    hero_feature: "全幅织物前面板 + 大圆角砖块轮廓——以家居织物语言软化电子产品硬感，使条形音箱融入客厅场景"
+    problem_solved: "条形音箱放于电视下方时视觉存在感过强、工业感与家居环境冲突；Beam用织物+圆角降低侵入感"
+    transferable_technique: "织物前面板覆盖声学腔体——在需要家居融合感的音频产品中，以织物替代格栅可同时解决声学透过与视觉柔化两个问题"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,445 @@
+schema_version: "product_dna_v1"
+batch: 3
+total_images: 20
+source_folder: "01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/"
+generated: "2026-05-08"
+
+category:
+  primary: "灯具"
+  secondary: "台灯"
+  tertiary: "创意台灯"
+
+source_type: "if_design_award"
+brand_confidence: "medium"
+
+# ── NOTES ON GROUPING ──────────────────────────────────────────────────────────
+# 42+43   → same product: 透明碗形台灯（两角度：氛围图+交互使用图）
+# 57+68   → same product: 实木方块镂圆台灯（两场景：产品特写+卧室情境）
+# 61+62   → same product: 双筒竖纹灯（两角度：圆弧对碰+菱形对碰）
+# 63+64   → same product: 颈挂阅读灯（产品图+使用场景多图）
+# 65+66   → same product: 日出治疗台灯（两角度：侧面倾斜+正面直视）
+# 75+76   → same product: 斜切碗形玻璃台灯（铜色版+透明版）
+# ────────────────────────────────────────────────────────────────────────────────
+
+products:
+
+  - product_id: "if_台灯_创意_b3_001"
+    source_images: ["41.jpg"]
+    name_guess: "Leaning-Rod Magnetic Spot Table Lamp (Multi-Form System)"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "极细斜杆台灯，底部方形配重底座，杆身单侧挂载微型金属球灯头；同系统延伸为墙轨灯和吊杆灯"
+      hero_feature: "全杆倾斜约15-20°，黄铜色小球灯头可沿杆滑移定位；多色彩（墨绿、深灰、酒红、香槟）同系统覆盖台灯+落地灯+轨道灯三形态"
+      material_finish: "阳极氧化铝杆（墨绿/深灰/酒红/香槟色）；黄铜微型球形灯头；哑黑钢底座"
+      proportion_ratio: "杆径约10mm，杆高约450mm；底座约150×150mm薄板；灯头直径约30mm"
+      innovation_score: 4
+      innovation_note: "倾斜杆+滑移灯头+跨品类系列化（台/落地/轨道同语法），形态极简但系统覆盖广；黄铜点缀制造高级感"
+
+    structural_features:
+      arm_type: "固定斜杆，无折叠关节"
+      head_type: "金属小球，单点光源"
+      base_type: "薄型方形配重底板，黄铜螺母收口"
+      adjustability: "灯头沿杆滑动（位置可调），角度固定"
+
+    use_context: "书房/餐厅/精品零售陈设；装饰感强于功能性；套系搭配墙面使用"
+    design_method_tags: ["H01减法", "H08对比强调", "H05模块化"]
+    transferability: "倾斜杆+配重底座结构可迁移至任何需要无关节调节感的台灯；黄铜点灯头手法可迁移至极简台灯的视觉重心设计"
+
+
+  - product_id: "if_台灯_创意_b3_002"
+    source_images: ["42.jpg", "43.jpg"]
+    name_guess: "Hourglass-Diffuser Transparent Bowl Table Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "透明玻璃半球碗罩+内置沙漏形磨砂玻璃双锥扩散器+圆柱黑色底座；光从内扩散器向外折射形成双层光晕"
+      hero_feature: "内部独立沙漏/双锥形磨砂扩散体悬浮于透明碗中，上方圆形白色顶盖作为第二光源射出柔光；整体呈现'灯中灯'双层光学奇观"
+      material_finish: "透明吹制玻璃碗罩；白色磨砂内扩散器；哑黑铸铝底座；白色薄圆顶盖"
+      proportion_ratio: "碗罩直径约300mm，高约250mm；底座直径约140mm，高约80mm；碗体与底座高度比约3:1"
+      innovation_score: 5
+      innovation_note: "'灯中灯'光学结构极为罕见——内部独立双锥扩散器将光折射成内部光晕+顶部溢出光两层效果；可用手从顶部开口伸入互动（43.jpg展示手势），交互仪式感强"
+
+    structural_features:
+      shade_type: "透明吹制玻璃大碗，顶部开口"
+      diffuser: "内置独立磨砂玻璃双锥体，底部坐于底座，顶部悬浮于碗内"
+      base_type: "厚重圆柱黑色底座"
+      top_cap: "白色薄圆盘，嵌入碗口，内置LED环"
+
+    use_context: "客厅边柜/酒店大堂/高端餐饮；强装饰属性，光效是核心卖点"
+    design_method_tags: ["H09隐藏工程", "H10材料表达", "H06仿生"]
+    transferability: "'灯中灯'双层扩散结构可迁移至任何需要创造层次光效的氛围台灯；透明外罩+内置独立发光体组合手法高度可迁移"
+
+
+  - product_id: "if_台灯_创意_b3_003"
+    source_images: ["46.jpg"]
+    name_guess: "Ring-Head Adjustable Table & Floor Lamp System"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "极细黑色金属杆+Z形折角杆头+椭圆形环状灯头；台灯版（约450mm高）与落地灯版（约1600mm高）共用同一灯头设计"
+      hero_feature: "灯头为椭圆环形LED圆环，外圈香槟金色金属框，内圈白色乳白扩散板；环可绕横轴仰俯转动（约0-90°），光照方向自由切换"
+      material_finish: "哑黑粉末涂层铝杆；香槟金色阳极氧化铝环框；乳白亚克力扩散板"
+      proportion_ratio: "台灯环径约200mm，杆高约400mm，圆形底盘直径约180mm；台/落地同比例环头"
+      innovation_score: 4
+      innovation_note: "椭圆LED环灯头形态区分度高；台灯/落地灯系列化同一灯头实现跨尺度覆盖；哑黑杆+香槟金环的双色对比精准"
+
+    structural_features:
+      arm_type: "竖直杆+Z形折角连接环头"
+      head_type: "椭圆环形LED面板，可仰俯"
+      base_type: "圆形扁底盘"
+      adjustability: "环头仰俯角度可调"
+
+    use_context: "书房/卧室床头/客厅边柜；台灯+落地灯套系搭配使用"
+    design_method_tags: ["H01减法", "H08对比强调", "H07极简整合"]
+    transferability: "环形LED灯头+细杆组合是高辨识度台灯形态；双色（哑黑+香槟金）配色策略可直接迁移至同品类"
+
+
+  - product_id: "if_台灯_创意_b3_004"
+    source_images: ["47.jpg"]
+    name_guess: "3D-Printed Biomorphic Shade Table Lamp with Petal Base"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "椭圆卵形磨砂白色灯罩+全覆盖仿鳞/气泡浮雕纹路+深灰莲蓬花瓣状底座；灯罩与底座两种纹理系统对话"
+      hero_feature: "灯罩表面满布有机气泡/鳞状浮雕（疑似3D打印或注塑模压），通体透光后形成柔和光斑纹理投影；底座为压缩花瓣形放射浮雕，与灯罩纹理形成粗/细对比"
+      material_finish: "白色半透明磨砂聚合物灯罩（3D打印或注塑）；深灰陶瓷/树脂底座"
+      proportion_ratio: "灯罩约250×180mm椭圆，高约300mm；底座直径约120mm，高约60mm；灯罩占总高约80%"
+      innovation_score: 4
+      innovation_note: "3D打印满覆浮雕纹理作为光效发生器，亮灯后纹理变成透光图案，形态与光效强绑定；两种浮雕纹理系统（细气泡vs粗花瓣）的对话有设计自觉"
+
+    structural_features:
+      shade_type: "独立卵形罩，顶部开口散热"
+      base_type: "莲蓬花瓣放射浮雕底座"
+      adjustability: "无"
+
+    use_context: "卧室床头/客厅边几；强艺术/装饰属性"
+    design_method_tags: ["H04参数化", "H06仿生", "H10材料表达"]
+    transferability: "满覆浮雕纹路+透光材质组合可迁移至任何需要'通电变图案'的灯罩设计；花瓣底座的放射分件线手法可迁移至底座造型设计"
+
+
+  - product_id: "if_台灯_创意_b3_005"
+    source_images: ["49.jpg"]
+    name_guess: "Modular Desk Organizer + Ring-Loop Task Lamp System"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "L形弯管台灯（顶端圆环LED灯头）+同色系陶瓷收纳罐套系；灯与收纳共同构成桌面系统"
+      hero_feature: "灯臂为深蓝色圆管L形折弯，顶端安装白色圆环LED灯头（约80mm径），与奶白色陶瓷收纳罐（高/矮两款）共用配色系统；系统可分开单独使用"
+      material_finish: "海军蓝粉末涂层钢管灯臂；镀铬折叠铰链；白色圆环灯头；奶白色陶瓷/石膏收纳罐"
+      proportion_ratio: "灯臂总高约350mm，L形横向约200mm；圆环灯头径约80mm；收纳罐高约130mm和80mm"
+      innovation_score: 3
+      innovation_note: "灯+收纳系统化是主要创新点；圆环灯头+L形臂形态识别度高；海军蓝+奶白色配色精准"
+
+    structural_features:
+      arm_type: "固定L形弯管，底部有折叠铰链可拆卸"
+      head_type: "小型白色圆环LED"
+      base_type: "无独立底座，依靠L臂折叠脚固定"
+      accessories: "配套陶瓷收纳罐（高杯型×2+矮碗型×1）"
+
+    use_context: "书房/家庭办公桌面；灯+收纳一体化桌面套系"
+    design_method_tags: ["H05模块化", "H07极简整合", "H08对比强调"]
+    transferability: "灯+配套收纳系统化策略可迁移至任何桌面台灯产品线设计；L形弯管+圆环灯头的极简形态高度可迁移"
+
+
+  - product_id: "if_台灯_创意_b3_006"
+    source_images: ["51.jpg"]
+    name_guess: "Faucet-Spout Minimalist Table Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "单根弯管模拟水龙头弧形，顶部朝下弯曲形成出光口；无灯罩，光源内藏于管口；底部圆柱基座"
+      hero_feature: "整体为一根连续弯曲的拉丝不锈钢管，弯弧模拟现代卫浴水龙头造型，出光端朝下180°弯曲；光源完全隐藏在管端，无任何暴露五金件"
+      material_finish: "拉丝不锈钢（全体统一材质）；底部圆柱基座同材质"
+      proportion_ratio: "总高约500mm；管径约25mm；弯弧半径约100mm；底座直径约80mm"
+      innovation_score: 4
+      innovation_note: "水龙头语义迁移至台灯极为罕见且高度统一——单一材质、单一管径、连续弯曲无接缝，形态叙事完整；放置于Dieter Rams书籍上强化设计意图表达"
+
+    structural_features:
+      arm_type: "单根连续弯曲管，无关节"
+      head_type: "管口内藏光源，向下出光"
+      base_type: "小圆柱底座，台面放置"
+      adjustability: "无"
+
+    use_context: "书房/设计师工作台；强概念性，装饰>功能"
+    design_method_tags: ["H01减法", "H07极简整合", "H10材料表达"]
+    transferability: "单一截面连续弯曲管造型策略可迁移至任何需要'雕塑感'的台灯；水龙头弧线借形手法可迁移至工业感台灯设计"
+
+
+  - product_id: "if_台灯_创意_b3_007"
+    source_images: ["53.jpg"]
+    name_guess: "Woven Rattan Concentric-Ring Sculptural Floor/Table Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "多个圆柱形同心圆竹/藤编织体叠加，形成有机生长状灯罩集群；从顶部俯视呈同心圆螺旋纹路"
+      hero_feature: "每个灯罩由密集的细竹/藤片绕成同心圆层叠筒体，透光后圆弧截面显现美丽格栅纹投影；多个筒体高低错落聚合成群组雕塑，灯源内置于每个筒底"
+      material_finish: "天然竹/藤编织，原色米黄；无金属外露件"
+      proportion_ratio: "单筒直径约200-300mm，高约300-500mm；群组整体约800×600mm范围"
+      innovation_score: 4
+      innovation_note: "同心圆竹编工艺将传统材料转化为参数化视觉语言；多筒群组构成雕塑装置，单独一个也成立；竹片密度控制透光率是核心工艺创新"
+
+    structural_features:
+      shade_type: "竹/藤同心圆编织圆柱体，底部开口内置光源"
+      base_type: "细金属支架（被遮挡，不可见）"
+      adjustability: "无"
+
+    use_context: "高端酒店大堂/民宿公区/设计展示空间；强艺术装置属性"
+    design_method_tags: ["H04参数化", "H10材料表达", "H06仿生"]
+    transferability: "同心圆密编织透光工艺可迁移至台灯/吊灯罩设计；群组化多灯头装置布局策略可迁移至照明装置设计"
+
+
+  - product_id: "if_台灯_创意_b3_008"
+    source_images: ["57.jpg", "68.jpg"]
+    name_guess: "Solid Maple Block Lamp with Circular Cutout and LED Rim"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "厚实木方块（正方或竖长方形），正面铣出一个完整圆形孔洞，孔洞边缘内嵌LED灯带形成发光轮廓；整体无多余部件"
+      hero_feature: "纯实木方块与正圆镂空的几何张力——方与圆的极致对话；圆孔下沿设水平分隔槽，灯带嵌于槽内向上投光，形成'日出/月亮从地平线升起'意象；圆形镂空可透视背后环境"
+      material_finish: "浅色枫木/桦木，清漆保留木纹；内嵌暖白LED灯带"
+      proportion_ratio: "57.jpg版：约200×200×80mm正方块；68.jpg版：约180×280×80mm竖长方块；圆孔直径约占块宽的65%"
+      innovation_score: 5
+      innovation_note: "方块+正圆镂空是强烈几何符号，极度简洁但极具辨识力；LED隐藏于水平分隔槽内仅向上投光，是典型H09隐藏工程；木纹在光下呈现是H10材料表达的精华"
+
+    structural_features:
+      shade_type: "无罩，木块本身即光源载体"
+      light_source: "LED灯带嵌于圆孔内水平分割槽，漫反射"
+      base_type: "木块直接立于桌面，底部平整"
+      adjustability: "无"
+
+    use_context: "卧室床头/书房；强装饰+氛围灯属性；送礼/礼品场景"
+    design_method_tags: ["H01减法", "H09隐藏工程", "H10材料表达"]
+    transferability: "方块镂空+LED隐藏槽手法是高复用度的木质台灯基础形态；方圆几何对话策略可迁移至任何需要强识别符号的氛围灯设计"
+
+
+  - product_id: "if_台灯_创意_b3_009"
+    source_images: ["58.jpg"]
+    name_guess: "Ultra-Slim Pencil Column Table Lamp with Mid-Section Diffuser"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "极细圆柱杆台灯，杆中部设一段磨砂玻璃/亚克力扩散环作为发光腰带；顶端为出光点，底部圆柱底座"
+      hero_feature: "全杆极细（约12-15mm径），杆中部约1/4处嵌一段半透明扩散环（发光腰带），同时顶端也出光；整体比例接近铅笔/自动铅笔的优雅纤细感；多色彩（香槟/哑黑/白/银灰）"
+      material_finish: "阳极氧化铝杆（多色）；磨砂亚克力/玻璃中部扩散环；金属圆柱底座"
+      proportion_ratio: "总高约400-500mm；杆径约12mm；底座直径约80mm；扩散腰带高约40mm"
+      innovation_score: 3
+      innovation_note: "铅笔比例的极细杆+腰带发光点是独特形态；多色彩家族展示系列化思维；顶端+腰带双发光点的光层次有新意"
+
+    structural_features:
+      arm_type: "单根圆杆，无关节"
+      head_type: "顶端内藏LED点光源"
+      mid_diffuser: "圆筒形磨砂扩散腰带，约1/4杆高处"
+      base_type: "圆柱底座"
+      adjustability: "无"
+
+    use_context: "书房/卧室床头/玄关；装饰感台灯，多支成组使用效果佳"
+    design_method_tags: ["H01减法", "H08对比强调", "H07极简整合"]
+    transferability: "铅笔比例极细杆形态可迁移至强调优雅感的台灯；腰带扩散环+顶端双发光点结构可迁移至任何需要多层次光的竖向灯具"
+
+
+  - product_id: "if_台灯_创意_b3_010"
+    source_images: ["60.jpg"]
+    name_guess: "Dual-Mode Flat-Panel Light Box (Task + Decorative Backlit Panel)"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "两块相同尺寸薄面板以铰链连接，A形展开后一面向上出平行光（任务照明），翻转后另一面展示镂刻图案背光（装饰照明）"
+      hero_feature: "同一产品双模：合拢=便携平板；展开倒V=任务台灯；翻转180°=透光图案装饰灯（图案可更换）；顶部铰链集成LED，灯光通过扩散板均匀输出"
+      material_finish: "白色/银灰色铝合金面板；磨砂亚克力扩散层；镭雕/镂刻图案叠层板"
+      proportion_ratio: "面板约260×260mm；厚约8mm；展开A形高约200mm"
+      innovation_score: 4
+      innovation_note: "双模（任务灯+装饰灯）+可换图案板是真实的功能创新；A形展开即用，无需装配；图案板替换实现个性化——右图展示野生动物地球图案"
+
+    structural_features:
+      form_factor: "双面板铰链折叠，A形展开使用"
+      light_source: "LED集成于顶部铰链连接处"
+      diffuser: "内层磨砂亚克力均匀出光"
+      pattern_layer: "可叠加镂刻图案板（透光剪影图案）"
+      controls: "底部两个滑动开关+圆形按钮"
+
+    use_context: "儿童房/书桌/旅行便携；装饰与任务双用途"
+    design_method_tags: ["H05模块化", "H11功能外显", "H09隐藏工程"]
+    transferability: "A形折叠=无底座台灯结构可迁移至便携台灯设计；双模翻转（任务/装饰）策略可迁移至多功能台灯产品定义"
+
+
+  - product_id: "if_台灯_创意_b3_011"
+    source_images: ["61.jpg", "62.jpg"]
+    name_guess: "Twin-Cylinder Ribbed Foldable Table Lamp"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "两个完全相同的密肋纹圆柱灯体通过中央铰链对折，可呈90°L形（一立一横）或45°V形或180°平铺；出光口为圆形磨砂端面"
+      hero_feature: "双筒共用一套密肋纹铝制/金属外壳（横向平行凹槽），两端面各内嵌圆形LED面板；中央铰链决定照射方向和摆放姿态，可任意角度锁定；香槟金色整体"
+      material_finish: "香槟金色阳极氧化铝密肋纹圆柱体；白色磨砂亚克力圆形端面"
+      proportion_ratio: "单筒约直径80mm、长200mm；中央铰链连接处约30mm；两筒总展开约430mm"
+      innovation_score: 4
+      innovation_note: "双筒+中央铰链实现姿态自由度；密肋纹铝制外壳兼具散热和装饰；两端均可出光——既可双向氛围照明，也可单向任务照明；形态抽象、无明显上下之分"
+
+    structural_features:
+      form_factor: "双圆柱铰链连接，可折叠调角度"
+      head_type: "两端均为圆形磨砂LED面板"
+      base_type: "无固定底座，依靠自身重心稳定"
+      adjustability: "中央铰链，两筒夹角0-180°可调"
+
+    use_context: "书桌/餐边柜/床头；可作桌面氛围灯或任务灯"
+    design_method_tags: ["H05模块化", "H04参数化", "H08对比强调"]
+    transferability: "双端出光+中央铰链姿态调节结构可迁移至便携氛围台灯；密肋纹铝制筒体兼散热与装饰的手法可迁移至高功率台灯外壳设计"
+
+
+  - product_id: "if_台灯_创意_b3_012"
+    source_images: ["63.jpg", "64.jpg"]
+    name_guess: "Wearable Neck-Mount Flexible Reading Light"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "U形颈挂弧形结构，两端各一个出光头；中段为刚性铝制弧形脊梁，两臂为可弯曲硅胶/橡胶软管；戴在颈肩部双手解放阅读"
+      hero_feature: "弧形脊梁戴于颈后，两臂可任意弯曲定向双光头；光头内置3色温切换（暖/中/冷白），侧面按键控制；两臂可扭曲收折为8字形便携收纳"
+      material_finish: "深灰色铝合金刚性弧形脊梁；黑色硅橡胶波纹软管臂；深灰塑料光头壳体"
+      proportion_ratio: "展开U形宽约350mm；臂长约250mm；光头直径约25mm；软管径约20mm"
+      innovation_score: 4
+      innovation_note: "颈挂=双手解放是真实用户场景创新；双头各自可独立弯曲定向；可折叠收纳；3色温切换是实用功能；全程无需固定在任何家具上"
+
+    structural_features:
+      form_factor: "U形颈挂，刚性脊梁+柔性臂"
+      head_type: "两端对称出光头，3色温"
+      arm_type: "可任意弯曲软管，可扭折收纳"
+      controls: "臂侧面按键（色温/亮度）"
+      portability: "可折叠为8字形，放入包内"
+
+    use_context: "卧室阅读/户外露营/出行；手持解放场景"
+    design_method_tags: ["H12人机界面强化", "H05模块化", "H11功能外显"]
+    transferability: "颈挂双头可弯曲结构可迁移至便携阅读灯产品；软管+刚性脊梁组合的人体工学适配策略可迁移至头戴/颈挂类照明"
+
+
+  - product_id: "if_台灯_创意_b3_013"
+    source_images: ["65.jpg", "66.jpg"]
+    name_guess: "Sunrise Therapy SAD Light with Tilting Panel"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "大尺寸圆角矩形白色面板+银色铝制倾斜支架；面板为无边框均匀发光体，支架为单脚月牙形曲线支撑"
+      hero_feature: "面板比例接近智能手机（约2:3），圆角白色哑光；下段集成触摸操控区（亮度滑动条+色温滑动条+开关键）；铝制支架为优雅月牙曲线，面板可调至约10-70°仰角"
+      material_finish: "白色哑光面板（磨砂/烤漆）；拉丝银色铝合金支架；支架底脚为圆弧形铝片"
+      proportion_ratio: "面板约160×230mm；总高约280mm；支架脚宽约150mm；面板厚约18mm"
+      innovation_score: 3
+      innovation_note: "触摸操控区直接集成于面板下段（无旋钮/外置按键），极为干净；铝制月牙支架兼顾美观与稳定；整体形态接近智能显示器，去除了传统SAD灯的医疗感"
+
+    structural_features:
+      panel_shape: "圆角矩形，无边框"
+      controls: "触摸式亮度/色温两条滑动轨+圆形电源键，集成于面板下段"
+      stand: "单脚月牙弧形铝制支架，面板仰角可调"
+      light_type: "高亮度全谱白光（SAD/日出疗法）"
+
+    use_context: "办公桌/梳妆台；SAD光疗/日出模拟/早晨唤醒场景"
+    design_method_tags: ["H07极简整合", "H12人机界面强化", "H01减法"]
+    transferability: "触控条集成于面板本体（消除外露旋钮）策略可迁移至任何需要简洁操控的台灯；月牙曲线单脚支架形态可迁移至屏幕式台灯底座设计"
+
+
+  - product_id: "if_台灯_创意_b3_014"
+    source_images: ["75.jpg", "76.jpg"]
+    name_guess: "Tilted Glass Bowl Table Lamp (Copper + Clear versions)"
+    brand_guess: null
+    brand_confidence: "low"
+
+    category:
+      primary: "灯具"
+      secondary: "台灯"
+      tertiary: "创意台灯"
+
+    design_language:
+      form_archetype: "碗形玻璃灯体，开口斜切约30-40°，使碗自然倾斜靠底部平切面立于桌面；内置中央玻璃支柱托举灯板；无外部底座，整体=一块玻璃"
+      hero_feature: "斜切口+自重平衡=零底座：玻璃碗的平切端面直接接触桌面，利用重心自稳，出光口（碗口）斜向上45°投射；铜色版为染色玻璃，透明版为光学级清玻璃；光透过玻璃体折射形成投影光晕"
+      material_finish: "75.jpg：玫瑰铜色/粉棕色染色玻璃；76.jpg：光学级无色透明玻璃；内部白色磨砂LED圆盘"
+      proportion_ratio: "碗体约直径200mm，高约160mm；斜切角约35°；玻璃壁厚约8-10mm"
+      innovation_score: 5
+      innovation_note: "斜切玻璃体自稳=彻底消除底座，形态纯粹到极致；重心设计是真正的工程创新，不是装饰性的；铜色/透明双版本覆盖暖/冷两种家居风格；光穿透有色玻璃体形成整体发光雕塑感"
+
+    structural_features:
+      shade_type: "斜切碗形玻璃，整体即底座"
+      inner_support: "中央竖向玻璃支柱，顶端托举LED圆盘"
+      base_type: "无独立底座，斜切平面直接接地"
+      cord: "细黑/白色电源线从碗底引出"
+      colorways: ["玫瑰铜色染色玻璃（75.jpg）", "光学级无色透明玻璃（76.jpg）"]
+
+    use_context: "客厅边柜/卧室床头/精品酒店床头柜；高端礼品/收藏级台灯"
+    design_method_tags: ["H01减法", "H10材料表达", "H09隐藏工程"]
+    transferability: "斜切+自重平衡=消除底座策略是极高价值的台灯形态创新，可迁移至任何玻璃/石材台灯设计；染色玻璃体透光雕塑感手法可迁移至氛围灯设计"

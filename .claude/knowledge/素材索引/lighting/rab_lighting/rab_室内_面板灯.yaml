@@ -1,0 +1,639 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内灯"
+  tertiary: "面板灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_面板灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "标准2x4嵌入式面板灯，白色细边框，扩散面板均匀平整，45度俯视角，整体极简"
+    product_name: "RAB Lighting 2x4嵌入式面板灯（标准款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "标准2x4英尺矩形，正面完全平整，边框极细，长宽比2:1"
+      light_opening: "全面板均匀扩散出光"
+      thermal: "背面隐藏驱动，正面无热管理外露"
+      cmf:
+        color: "白色边框+白色扩散面"
+        material: "铝框 + 扩散PC面板"
+        finish: "亚光白"
+      mounting: "嵌入式天花T-bar安装"
+      signature_detail: "正面近乎完全平整，与天花无缝融合"
+    design_level:
+      score: 2
+      reason: "标准商业面板灯，无设计差异化，功能优先"
+    design_tags: ["嵌入式", "2x4", "标准款", "极简", "T-bar"]
+    hero_feature: "正面极平整，与天花无缝融合"
+    problem_solved: "办公/商业空间标准化均匀照明"
+    transferable_technique: "细边框+全面板出光的极简嵌入手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "标准2x2嵌入式面板灯，正方形，白色细边框，背面可见细线状吊挂安全线，扩散面平整"
+    product_name: "RAB Lighting 2x2嵌入式面板灯（正方形款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "标准2x2英尺正方形，长宽比1:1，正面完全平整，边框极细"
+      light_opening: "全面板均匀扩散出光"
+      thermal: "背面隐藏，正面无结构外露"
+      cmf:
+        color: "白色边框+白色扩散面"
+        material: "铝框 + 扩散PC面板"
+        finish: "亚光白"
+      mounting: "嵌入式天花T-bar安装，背面带安全线"
+      signature_detail: "正方形比例+背面安全线细节"
+    design_level:
+      score: 2
+      reason: "标准正方形面板灯，造型无特色，完全功能导向"
+    design_tags: ["嵌入式", "2x2", "正方形", "标准款", "T-bar"]
+    hero_feature: "正方形比例，模块化安装灵活"
+    problem_solved: "办公/商业空间模块化照明布局"
+    transferable_technique: "模块化正方形单元照明策略，可排列组合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "嵌入式troffer型面板灯，内凹弯折漫反射面，正方形外框，面板内有弧形折面，有立体层次"
+    product_name: "RAB Lighting Troffer面板灯（弧折漫反射款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "正方形外框，内部漫反射面有弧形折面，形成立体凹陷感，长宽比1:1"
+      light_opening: "折面漫反射出光+边缘出光，层次丰富"
+      thermal: "内置驱动，背面隐藏"
+      cmf:
+        color: "全白"
+        material: "钢板折弯 + 白色高反射涂层"
+        finish: "高光白内面 + 亚光白外框"
+      mounting: "嵌入式天花T-bar安装"
+      signature_detail: "内部弧形折面产生光影层次，troffer特征明显"
+    design_level:
+      score: 3
+      reason: "折面漫反射设计产生光影立体感，比标准平板面板灯有更多视觉信息"
+    design_tags: ["troffer", "漫反射", "折面", "嵌入式", "立体"]
+    hero_feature: "内部弧形折面产生光影立体层次"
+    problem_solved: "办公空间需要均匀无眩光照明，降低直接眩光"
+    transferable_technique: "内凹折面漫反射设计，将直接照明转为间接照明，降低眩光"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "宽体嵌入式troffer，长方形，内部双折面漫反射，顶部有带孔安装耳，整体扁宽厚实"
+    product_name: "RAB Lighting 2x4 Troffer面板灯（双折漫反射）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "标准2x4矩形，内部双折漫反射面，边框带安装耳，正面有立体深度感"
+      light_opening: "双折漫反射面出光，中央亮、边缘渐变"
+      thermal: "顶部带孔安装耳兼作结构件，驱动内置"
+      cmf:
+        color: "全白"
+        material: "钢板折弯 + 白色高反射涂层"
+        finish: "高光白内面 + 亚光白外框"
+      mounting: "嵌入式天花安装，顶部安装耳挂接"
+      signature_detail: "双折面产生更强的三维立体光效，中央凸起反射体"
+    design_level:
+      score: 3
+      reason: "双折漫反射产生丰富光影，但整体造型仍偏功能性"
+    design_tags: ["troffer", "双折面", "漫反射", "嵌入式", "2x4"]
+    hero_feature: "双折漫反射面形成中央亮边缘渐变的三维光效"
+    problem_solved: "大型办公室、医院等需要无眩光均匀照明的场所"
+    transferable_technique: "双折面漫反射设计控制光分布，消除直接眩光"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "方形工业面板灯，侧视图，极薄主体，背部有粗壮中央安装柱+两侧圆形吊挂环，LED阵列裸露可见"
+    product_name: "RAB Lighting 方形工业平面灯（链挂式）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "正方形扁平主体，极薄，背面中央安装柱+两侧吊挂环，侧视呈T形剖面"
+      light_opening: "正面裸露LED阵列出光，无扩散面板，有一定眩光"
+      thermal: "背面大面积铝散热板，安装柱兼作导热体"
+      cmf:
+        color: "白色主体+银色吊挂环"
+        material: "铝压铸主体 + 裸LED阵列"
+        finish: "亚光白喷涂"
+      mounting: "背面吊挂环链式悬吊，或安装柱直接固定"
+      signature_detail: "背部安装结构与挂环外露，工业风格显著"
+    design_level:
+      score: 2
+      reason: "工业功能导向，LED裸露无扩散，设计处理简陋"
+    design_tags: ["工业", "链挂", "裸LED", "方形", "平面灯"]
+    hero_feature: "超薄方形主体+背部链挂结构，工业感强烈"
+    problem_solved: "工厂、仓库等对眩光要求不高的大空间照明"
+    transferable_technique: "背部安装结构与挂环外露作为工业风格语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "宽体吊装条形面板灯，端部有RAB品牌logo+红色安全卡扣，侧面可见安全吊线，扩散面平整"
+    product_name: "RAB Lighting 宽体吊装条形面板灯（红色安全卡）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "长宽体矩形，正面扩散面平整，端部有带RAB logo的白色端盖+红色安全扣，长宽比约6:1"
+      light_opening: "底面全长均匀扩散出光"
+      thermal: "顶面金属散热，驱动内置"
+      cmf:
+        color: "白色主体+端部红色安全扣点缀"
+        material: "钢板 + PC扩散面"
+        finish: "亚光白"
+      mounting: "侧面金属吊线悬吊，端部安全卡扣防脱落"
+      signature_detail: "端部红色安全卡扣为唯一色彩点，兼具安全功能与品牌识别"
+    design_level:
+      score: 3
+      reason: "红色安全卡扣是少见的色彩功能外显点，整体设计克制但有记忆点"
+    design_tags: ["吊装", "红色安全扣", "品牌识别", "宽体", "功能外显"]
+    hero_feature: "端部红色安全卡扣——白色灯体上唯一色彩点，品牌+安全双重功能"
+    problem_solved: "商业/工业空间需要悬吊安装且有防脱落安全要求的大面积照明"
+    transferable_technique: "单一色彩功能点设计：在全白产品上用红色标注安全/关键功能部位"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_007"
+    source_images:
+      - filename: "06__from条形灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/06__from条形灯.jpg"
+        image_role: "hero"
+        visual_anchor: "正方形面板灯正视图，纯白色，极细边框，扩散面完全平整，无任何装饰细节"
+    product_name: "RAB Lighting 正方形面板灯（正视极简款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "标准正方形，正面完全平整，边框极细，长宽比1:1"
+      light_opening: "全面板均匀扩散出光"
+      thermal: "背面隐藏，正面无结构外露"
+      cmf:
+        color: "纯白"
+        material: "铝框 + 扩散PC面板"
+        finish: "亚光白"
+      mounting: "嵌入式天花安装（正视图，安装方式不可见）"
+      signature_detail: "正面完全无细节，最大程度极简"
+    design_level:
+      score: 2
+      reason: "极简到无特征，缺乏识别度，仅功能性"
+    design_tags: ["极简", "正方形", "嵌入式", "无装饰", "面板灯"]
+    hero_feature: "正面无任何细节的极致极简面"
+    problem_solved: "要求天花视觉干净的高端办公或医疗空间"
+    transferable_technique: "正面零细节设计，所有功能结构藏于背面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_008"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "方形嵌入式高湾面板灯，背部有中央安装架+单侧吊挂环，扩散面平整，截面有一定厚度"
+    product_name: "RAB Lighting 方形嵌入式高湾面板灯（单环吊挂）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "正方形，有一定厚度，背部单侧吊挂环+中央安装架，整体重心偏背面"
+      light_opening: "正面均匀扩散面出光"
+      thermal: "背部安装架兼作散热结构"
+      cmf:
+        color: "白色主体+银色吊挂环"
+        material: "铝铸+PC扩散面"
+        finish: "亚光白"
+      mounting: "背部单环悬吊，适合高天花空间"
+      signature_detail: "背部单侧吊挂环+安装架的不对称结构"
+    design_level:
+      score: 2
+      reason: "工业功能型，设计语言平淡，背面结构较粗犷"
+    design_tags: ["高湾", "单环吊挂", "方形", "工业", "嵌入式"]
+    hero_feature: "单侧吊挂环设计，便于高空悬挂调节"
+    problem_solved: "高天花工业厂房或仓库的大面积照明"
+    transferable_technique: "单点吊挂结构设计，简化安装，适合高空场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_009"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "双联方形高湾面板灯，两个方形灯体并排，共用背面散热鳍片，鳍片数量密集，整体外观像高性能散热器"
+    product_name: "RAB Lighting 双联方形高湾面板灯（密集鳍片散热）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "两个正方形灯体并排，背部共用大型密集散热鳍片阵列，整体呈宽扁矩形"
+      light_opening: "两个正面分别均匀扩散出光"
+      thermal: "背面密集铝散热鳍片，散热能力突出，是视觉焦点"
+      cmf:
+        color: "全白"
+        material: "铝压铸散热体 + PC扩散面"
+        finish: "亚光白"
+      mounting: "顶面安装孔，吸顶或嵌入"
+      signature_detail: "背部大面积密集鳍片散热阵列，是功能结构外显的极端案例"
+    design_level:
+      score: 4
+      reason: "散热鳍片阵列形成强烈视觉纹理，功能结构成为设计语言，有高端感"
+    design_tags: ["高湾", "双联", "密集鳍片", "散热外显", "功能美学"]
+    hero_feature: "密集背部散热鳍片阵列，将散热结构转化为视觉纹理"
+    problem_solved: "高功率高湾照明场景，散热是关键约束"
+    transferable_technique: "H11功能外显：将散热鳍片阵列作为设计语言，功能结构即产品外观"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_010"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "面板灯背部细节，侧视图，背部有大型方形驱动盒+两侧吊挂环，主体极薄，驱动盒高出主体较多"
+    product_name: "RAB Lighting 面板灯背部驱动盒细节（吊挂款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "主体极薄面板，背部驱动盒突出，高度约为主体3倍，两侧金属吊挂环，侧视呈T字形"
+      light_opening: "正面扩散出光（侧视不可见）"
+      thermal: "驱动盒集中于背面中央，与主体分离"
+      cmf:
+        color: "全白"
+        material: "钢板主体 + 塑料驱动盒"
+        finish: "亚光白"
+      mounting: "两侧金属吊挂环悬吊"
+      signature_detail: "驱动盒集中于背面并外露，安装维修便捷性优先"
+    design_level:
+      score: 2
+      reason: "工程安装视角图，驱动盒外露影响美观，设计意图非美学导向"
+    design_tags: ["背部细节", "驱动盒", "吊挂", "安装", "工程视角"]
+    hero_feature: "驱动盒集中外置，便于独立维修更换"
+    problem_solved: "降低维护成本，驱动盒单独更换不影响整灯"
+    transferable_technique: "驱动盒/控制模块外置独立设计，提升维护便捷性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_011"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "标准2x4嵌入式面板灯，斜角俯视，正面极平整，边框稍宽，扩散面均匀白色"
+    product_name: "RAB Lighting 2x4嵌入式面板灯（宽边框款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "标准2x4矩形，边框相对较宽，正面平整，长宽比2:1"
+      light_opening: "全面板均匀扩散出光"
+      thermal: "背面隐藏，正面无结构外露"
+      cmf:
+        color: "白色"
+        material: "铝框 + 扩散PC面板"
+        finish: "亚光白"
+      mounting: "嵌入式天花T-bar安装"
+      signature_detail: "相对较宽的边框使出光面视觉比例更集中"
+    design_level:
+      score: 2
+      reason: "标准面板灯，宽边框反而减弱了极简效果"
+    design_tags: ["嵌入式", "2x4", "宽边框", "标准款", "T-bar"]
+    hero_feature: "宽边框+集中出光面，视觉比例稳重"
+    problem_solved: "标准商业天花照明"
+    transferable_technique: "边框宽度对面板灯整体比例感影响的参考案例"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_012"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "两组平行LED种植灯条，银色铝型材，多个支架夹持，中央有白色驱动控制盒，红蓝双色LED可见"
+    product_name: "RAB Lighting LED植物生长灯（双条组合）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "两条平行细长LED灯条，银色铝型材，中央驱动盒连接，支架夹持固定，整体开放式框架结构"
+      light_opening: "裸露LED阵列（红蓝混色），无扩散处理"
+      thermal: "铝型材轨道散热，裸露LED便于散热"
+      cmf:
+        color: "银色铝型材 + 白色驱动盒 + 红蓝LED灯珠"
+        material: "铝挤型材 + 多色LED"
+        finish: "银色阳极氧化"
+      mounting: "夹持支架安装，可调位置"
+      signature_detail: "红蓝双色LED裸露，色彩与功能外显，与照明灯具截然不同的视觉语言"
+    design_level:
+      score: 3
+      reason: "植物灯特殊品类，红蓝LED色彩外显是功能标识，工程感较强"
+    design_tags: ["植物灯", "双色LED", "银色", "开放框架", "农业照明"]
+    hero_feature: "红蓝双色LED裸露，功能色彩外显"
+    problem_solved: "室内植物栽培需要特定光谱的专业照明"
+    transferable_technique: "功能色彩外显——用特殊波长LED颜色直接标注产品功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_013"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "2x4嵌入式面板灯，有四个角部安装夹耳，扩散面平整，边框较窄，安装耳白色金属"
+    product_name: "RAB Lighting 2x4嵌入式面板灯（四角安装耳款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "标准2x4矩形，四角有安装夹耳外露，长宽比2:1，边框较窄"
+      light_opening: "全面板均匀扩散出光"
+      thermal: "背面隐藏"
+      cmf:
+        color: "白色"
+        material: "铝框 + 扩散PC面板 + 白色安装耳"
+        finish: "亚光白"
+      mounting: "四角安装耳夹入天花T-bar，安装耳外露"
+      signature_detail: "四角安装耳外露，安装方式可视化"
+    design_level:
+      score: 2
+      reason: "四角安装耳外露破坏了正面极简，功能优先设计"
+    design_tags: ["嵌入式", "2x4", "安装耳", "T-bar", "可视化安装"]
+    hero_feature: "四角安装耳使安装/拆卸操作直观可视"
+    problem_solved: "需要频繁维护更换的商业天花照明"
+    transferable_technique: "安装机构外露可视化，提升安装维护直觉性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_014"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/22.jpg"
+        image_role: "hero"
+        visual_anchor: "正方形嵌入式troffer，内部折面呈V形凹槽，折面为中央脊线型，两侧为平面扩散，有立体层次感"
+    product_name: "RAB Lighting 正方形Troffer（V形脊线折面）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "正方形外框，内部中央V形脊线+两侧扩散面，形成三段式折面，有强烈立体感"
+      light_opening: "中央脊线反射+两侧扩散面出光，立体光效"
+      thermal: "驱动内置背面"
+      cmf:
+        color: "全白"
+        material: "钢板折弯高反射 + 白色扩散面"
+        finish: "高光白内面 + 亚光白外框"
+      mounting: "嵌入式T-bar天花安装"
+      signature_detail: "中央V形脊线折面为强记忆点，产生明确的光影中线"
+    design_level:
+      score: 4
+      reason: "V形脊线设计创造强烈视觉中心线，比标准troffer有明显设计主张"
+    design_tags: ["troffer", "V形脊线", "折面", "立体光效", "嵌入式"]
+    hero_feature: "中央V形脊线折面——产生光影中线，形成强视觉焦点"
+    problem_solved: "有设计感要求的办公/商业空间，兼顾均匀照明与视觉层次"
+    transferable_technique: "中央脊线折面设计，在平面灯具中引入立体秩序感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_015"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/23.jpg"
+        image_role: "hero"
+        visual_anchor: "2x4嵌入式面板灯，正面可见双排细线状光槽+中央弧形隆起扩散罩，立体感强，有明确光带结构"
+    product_name: "RAB Lighting 2x4 Troffer（双线槽+弧形扩散）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "2x4矩形框，内部双排细线光槽夹持中央弧形隆起扩散罩，立体层次丰富"
+      light_opening: "双线槽直接出光+弧形扩散面漫射，两种出光方式并存"
+      thermal: "驱动内置背面"
+      cmf:
+        color: "全白"
+        material: "钢板+弧形PC扩散罩"
+        finish: "亚光白外框+半透明扩散罩"
+      mounting: "嵌入式T-bar天花安装"
+      signature_detail: "双线槽+弧形中央扩散罩的三段式出光面，视觉层次最丰富"
+    design_level:
+      score: 4
+      reason: "双线直接出光+弧面扩散的组合创造独特光效，设计主张清晰"
+    design_tags: ["troffer", "双线槽", "弧形扩散", "复合出光", "立体"]
+    hero_feature: "双线直射+弧形漫射复合出光结构，视觉层次丰富"
+    problem_solved: "需要既有直接照明效率又有柔和光环境的高端办公场所"
+    transferable_technique: "复合出光结构设计：直接+间接并存，一灯实现两种光效"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_016"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/24.jpg"
+        image_role: "hero"
+        visual_anchor: "2x4嵌入式面板灯，内部弧形隆起扩散罩，圆柱形中央元素，两侧有弧面延伸，驱动盒外露于侧边"
+    product_name: "RAB Lighting 2x4 Troffer（圆柱中央扩散+侧驱动盒）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "2x4矩形框，中央圆柱形扩散元素向下突出，两侧弧面延伸，侧边有驱动盒外露"
+      light_opening: "圆柱形中央扩散体出光+两侧弧面漫射"
+      thermal: "侧边驱动盒外置"
+      cmf:
+        color: "全白"
+        material: "钢板+圆柱PC扩散体"
+        finish: "亚光白"
+      mounting: "嵌入式T-bar天花安装，侧驱动盒外置"
+      signature_detail: "圆柱形中央扩散元素在矩形框内，形态对比强烈"
+    design_level:
+      score: 4
+      reason: "圆柱体与矩形框的形态对比有强记忆点，是RAB面板灯中最有设计感的形态之一"
+    design_tags: ["troffer", "圆柱中央", "形态对比", "嵌入式", "外置驱动"]
+    hero_feature: "矩形框内圆柱扩散体——方圆形态对比创造视觉焦点"
+    problem_solved: "有较高设计品位要求的商业办公照明"
+    transferable_technique: "H08对比强调：在矩形主体中置入圆柱元素，产生形态对比焦点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_017"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/25.jpg"
+        image_role: "hero"
+        visual_anchor: "2x4嵌入式troffer，内部弧形大扩散罩向下凸出，两侧弧面反射，整体像船底形，有强烈立体感"
+    product_name: "RAB Lighting 2x4 Troffer（大弧扩散罩船底形）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "2x4矩形框，内部大弧形扩散罩向下凸出，截面呈船底弧形，立体感最强"
+      light_opening: "大弧面均匀扩散出光，出光角极宽"
+      thermal: "驱动内置背面"
+      cmf:
+        color: "全白"
+        material: "钢板 + 大弧形PC扩散罩"
+        finish: "亚光白外框+半透明弧面扩散罩"
+      mounting: "嵌入式T-bar天花安装"
+      signature_detail: "大弧面扩散罩体量突出，是系列中体量感最强的款式"
+    design_level:
+      score: 3
+      reason: "大弧面体量感强，但造型较传统troffer，无创新点"
+    design_tags: ["troffer", "大弧扩散罩", "船底形", "宽出光角", "嵌入式"]
+    hero_feature: "大弧形扩散罩凸出设计，最大化出光面积与出光角"
+    problem_solved: "需要大出光角宽覆盖照明的空间，减少暗角"
+    transferable_technique: "大弧面扩散罩设计最大化出光角，适合高天花或宽空间"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_面板灯_018"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/面板灯/26.jpg"
+        image_role: "hero"
+        visual_anchor: "2x4嵌入式troffer，内部中央弧形隆起+两侧斜面反射板，结构更宽更扁，中央弧形线条清晰"
+    product_name: "RAB Lighting 2x4 Troffer（中央弧脊+斜面反射）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "面板灯"]
+    design_language:
+      silhouette: "2x4矩形框较宽，内部中央弧形脊线+两侧斜面反射板，截面呈M形，有明确视觉中轴"
+      light_opening: "中央弧面+两侧斜面反射板复合出光"
+      thermal: "驱动内置背面"
+      cmf:
+        color: "全白"
+        material: "钢板+弧形PC扩散脊"
+        finish: "高光白反射面 + 亚光白外框"
+      mounting: "嵌入式T-bar天花安装"
+      signature_detail: "M形截面产生明确视觉中轴线，与rab_面板灯_014形态呼应但更扁宽"
+    design_level:
+      score: 4
+      reason: "M形截面设计语言清晰，中轴对称感强，有建筑照明气质"
+    design_tags: ["troffer", "M形截面", "中轴对称", "斜面反射", "建筑感"]
+    hero_feature: "M形截面中央弧脊+两侧斜面反射——对称中轴线形态语言"
+    problem_solved: "有建筑美学要求的高端办公或公共空间照明"
+    transferable_technique: "M形截面对称中轴设计，赋予面板灯明确的方向感与建筑美学"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

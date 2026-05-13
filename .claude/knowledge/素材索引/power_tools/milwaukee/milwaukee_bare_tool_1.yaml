@@ -1,0 +1,690 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "bare_tool综合"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/"
+  generated_at: "2026-05-08"
+
+products:
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 1: M18 FUEL Hammer Drill/Driver with ONE-KEY (2角度)
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p01"
+    source_images:
+      - filename: "milwaukee_bare_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_001.jpg"
+        image_role: "hero"
+        visual_anchor: "亮红色M18 FUEL锤钻，右侧45°视角；顶部安装D形辅助把手支架（黑色金属框架）；机身正面大面积Milwaukee徽标+FUEL字样；中部黑色散热格栅分件线；扳机区黑色橡胶包覆；底部红色电池接口座带ONE-KEY字样；底侧铸铁belt hook；ONE-KEY WiFi蓝色徽章标注"
+      - filename: "milwaukee_bare_002.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_002.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "同款M18 FUEL锤钻，略偏正侧视角；无ONE-KEY徽章；顶部辅助把手安装框架清晰可见；黑色扳机区与红色机身对比鲜明；银灰色卡盘与齿轮箱接合处压铸件可见；底部belt hook"
+    product_name: "Milwaukee M18 FUEL Hammer Drill/Driver with ONE-KEY"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "锤钻"
+    design_language:
+      silhouette: "经典手枪握持轮廓；机头圆柱齿轮箱向后收窄接红色机身主体；顶部D形辅助把手安装框架突出上方形成矩形开口；整体前重后轻视觉感；比M12系列明显更大"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身腰部两侧黑色长方形散热格栅槽，左右对称；功能区与机身之间的分件线兼顾散热导流"
+      cmf:
+        color: "主色Milwaukee Red（亮红）占机身70%；黑色占功能区（扳机+散热格栅+辅助把手框架）约25%；银灰色压铸铝（卡盘/齿轮箱环）约5%"
+        material: "机壳：玻纤增强尼龙注塑；扳机/握持区：TPE软胶包覆；卡盘环+齿轮箱：压铸铝；belt hook：冲压钢"
+        finish: "机壳：半哑光质感；软胶区：菱形网格纹理防滑；压铸件：喷砂银灰"
+      mounting: "底部滑轨式M18电池座（无电池裸机状态）"
+      signature_detail: "顶部矩形开口D形辅助把手安装框架（品牌标志性造型元素）；Milwaukee+FUEL双徽标并列于机身侧面"
+    design_level:
+      score: 4
+      reason: "FUEL系列旗舰设计执行完整：辅助把手框架造型独特，红黑双色对比强烈且比例精准；ONE-KEY数字控制集成不破坏整体造型；分件线服务于散热功能，非纯装饰"
+    design_tags:
+      - "M18"
+      - "M18_FUEL"
+      - "ONE-KEY"
+      - "锤钻"
+      - "辅助把手框架"
+      - "H08_对比强调"
+      - "H09_隐藏工程"
+    hero_feature: "顶部矩形开口D形辅助把手框架——品类内标志性轮廓，远距离可识别"
+    problem_solved: "高扭矩钻孔需要双手控制；框架结构提供360°辅助把手安装位，同时成为视觉记忆点"
+    transferable_technique: "功能性附件座（把手安装框架）作为主要造型特征，将工程约束转化为品牌识别元素（H11_功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 2: M12 FUEL Hammer Drill/Driver（紧凑版）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p02"
+    source_images:
+      - filename: "milwaukee_bare_003.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_003.jpg"
+        image_role: "hero"
+        visual_anchor: "亮红色M12 FUEL锤钻，左前45°视角；体型明显小于M18；无辅助把手框架；机身正面Milwaukee+FUEL徽标；侧面银灰色金属belt clip集成于机身腰部；扳机区黑色软胶；底部红色电池接口（裸机）；卡盘为黑色无齿套筒式"
+    product_name: "Milwaukee M12 FUEL Hammer Drill/Driver"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "锤钻"
+    design_language:
+      silhouette: "M12紧凑手枪握持轮廓；机头短粗，机身整体更方正；无顶部辅助把手框架，轮廓更简洁；整体高度约为M18的75%"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身上部两侧小型散热槽口，面积小于M18版本"
+      cmf:
+        color: "主色Milwaukee Red约65%；黑色扳机/后壳约30%；银灰色belt clip点缀"
+        material: "机壳：玻纤增强尼龙注塑；扳机区：TPE软胶；belt clip：压铸铝"
+        finish: "机壳半哑光；软胶菱形网格纹"
+      mounting: "底部M12滑轨式电池座"
+      signature_detail: "腰部银灰色金属belt clip与红色机身形成点缀对比；FUEL徽标标识无刷电机"
+    design_level:
+      score: 3
+      reason: "M12紧凑设计执行到位；比例合理，品牌语法传承M18；无显著造型突破，belt clip集成较有设计感"
+    design_tags:
+      - "M12"
+      - "M12_FUEL"
+      - "锤钻"
+      - "紧凑型"
+      - "H08_对比强调"
+    hero_feature: "超紧凑M12机身比例——仅靠造型体量感即可与M18区分系列，无需文字"
+    problem_solved: "受限空间作业需要更小机身；M12平台保持与M18相同设计语言但尺寸缩减"
+    transferable_technique: "同一品牌语法在不同尺寸平台的等比缩放执行（品牌一致性跨尺寸传递）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 3: M12 FUEL Installation Drill/Driver（可换头多功能套装）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p03"
+    source_images:
+      - filename: "milwaukee_bare_004.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_004.jpg"
+        image_role: "hero"
+        visual_anchor: "M12 FUEL Installation Drill套装展示图；主机体极短，机头正前方为快换接口（无钻夹头），机身Milwaukee+FUEL徽标；下方展示4种可换接头（直钻夹头、弯头接头、偏心接头、角度接头）+Milwaukee收纳包；背景红色品牌收纳包印M12 FUEL字样"
+    product_name: "Milwaukee M12 FUEL Installation Drill/Driver（可换头多功能套装）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "多功能安装钻"
+    design_language:
+      silhouette: "极短枪形机身；机头仅为快换接口无传统卡盘，整体前端极短；握持区紧凑；底部标准M12电池接口"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身散热槽较小，机身紧凑散热面积有限"
+      cmf:
+        color: "Milwaukee Red主色；黑色扳机/功能区；银灰色快换接口金属件"
+        material: "主壳尼龙注塑；快换接头：钢制"
+        finish: "机壳半哑光；接头为金属本色"
+      mounting: "底部M12电池座"
+      signature_detail: "模块化快换接头系统是核心功能设计——同一机体支持直钻、弯头、角度钻多种作业形态"
+    design_level:
+      score: 4
+      reason: "模块化接头系统是品类层面的功能突破；机身为接头系统服务而极度缩短，形态逻辑清晰；H05模块化手法执行优秀"
+    design_tags:
+      - "M12"
+      - "M12_FUEL"
+      - "模块化"
+      - "可换头"
+      - "安装钻"
+      - "H05_模块化"
+      - "H11_功能外显"
+    hero_feature: "模块化快换接头系统——一台主机覆盖直钻/弯头/角度钻多场景，机头造型完全服务于此"
+    problem_solved: "安装工人需要在不同角度作业但不想携带多台工具；快换接头系统解决多形态作业需求"
+    transferable_technique: "快换接口作为主要设计特征，机身造型极度简化以突出接口系统（H05_模块化 + H01_减法）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 4: M12 FUEL Drill/Driver（标准版，带belt clip+LED）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p04"
+    source_images:
+      - filename: "milwaukee_bare_005.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_005.jpg"
+        image_role: "hero"
+        visual_anchor: "亮红色M12 FUEL电钻，右侧45°视角；机头黑色套筒卡盘带M12标识；机身Milwaukee+FUEL徽标；腰部右侧银灰色金属belt clip集成；扳机区黑色；底部4颗LED电量指示灯；底部M12电池接口（裸机）；机身侧面有小型LED灯头"
+    product_name: "Milwaukee M12 FUEL Drill/Driver"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "电钻/螺丝刀"
+    design_language:
+      silhouette: "紧凑M12手枪握持；机头较003更短（无锤击机构）；整体更轻巧"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身上部左侧两处散热槽口"
+      cmf:
+        color: "Milwaukee Red主色；黑色扳机+卡盘；银灰色belt clip"
+        material: "尼龙机壳；TPE握持软胶；压铸铝belt clip"
+        finish: "半哑光机壳；网格软胶纹理"
+      mounting: "底部M12电池座"
+      signature_detail: "腰部外露银灰色belt clip + 底部LED电量指示灯条——工程细节显性化"
+    design_level:
+      score: 3
+      reason: "M12标准电钻执行扎实；belt clip集成设计较为精致；LED电量显示实用；整体无造型突破但品牌语法到位"
+    design_tags:
+      - "M12"
+      - "M12_FUEL"
+      - "电钻"
+      - "belt_clip"
+      - "LED电量显示"
+      - "H11_功能外显"
+    hero_feature: "银灰色金属belt clip与红色机身的材质/色彩对比——小尺寸工具的视觉记忆点"
+    problem_solved: "需要频繁腰挂收纳的安装作业；belt clip集成设计比外挂夹更牢固美观"
+    transferable_technique: "金属belt clip作为侧面视觉焦点，材质对比（银灰vs红）比纯造型更有记忆点（H10_材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 5: M18 FUEL Mud Mixer（搅拌机/泥浆搅拌器）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p05"
+    source_images:
+      - filename: "milwaukee_bare_006.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_006.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL搅拌机，正侧视角；产品形态与手枪握持类工具完全不同——顶部黑色D形环形提手（用于双手握持和悬挂），中部红色FUEL机身带Milwaukee徽标，下部大型银灰色压铸齿轮箱（外露，体积约占产品1/3），最下方金属钻夹头；整体呈纵向T字形"
+    product_name: "Milwaukee M18 FUEL Mud Mixer（搅拌机）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "搅拌机"
+      - "泥浆搅拌器"
+    design_language:
+      silhouette: "纵向T字形轮廓；顶部D形提手+中部机身+底部齿轮箱三段式；非手枪握持形态，为双手垂直操持"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身左右均有散热通道；齿轮箱外露本身即为散热策略"
+      cmf:
+        color: "Milwaukee Red机身主色；黑色提手/操控区；银灰色大面积压铸齿轮箱"
+        material: "机壳尼龙注塑；提手：TPE包覆；齿轮箱：压铸铝本色"
+        finish: "机壳半哑光；齿轮箱喷砂银灰本色"
+      mounting: "底部M18电池接口（裸机无电池）"
+      signature_detail: "外露超大压铸铝齿轮箱——体积巨大的银灰色压铸件作为视觉重心，传达工业重型感"
+    design_level:
+      score: 4
+      reason: "产品形态完全服从功能需求（双手垂直握持搅拌）；外露齿轮箱的处理诚实而有力量感；品牌语法（红+黑+银灰）在非常规形态上得到保持；属于品类内造型创新"
+    design_tags:
+      - "M18"
+      - "M18_FUEL"
+      - "搅拌机"
+      - "外露齿轮箱"
+      - "双手垂直握持"
+      - "H10_材料表达"
+      - "H11_功能外显"
+    hero_feature: "外露超大银灰压铸铝齿轮箱——功能部件即造型亮点，力量感外显"
+    problem_solved: "混凝土/泥浆等高黏度材料搅拌需要大扭矩和双手控制；纵向T字形态提供最优双手握持"
+    transferable_technique: "将内部最强力的功能部件（齿轮箱）外显为主要造型特征，力量感表达无需额外装饰（H11_功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 6: M12 BRUSHLESS Drill/Driver（非FUEL无刷款）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p06"
+    source_images:
+      - filename: "milwaukee_bare_007.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_007.jpg"
+        image_role: "hero"
+        visual_anchor: "亮红色M12 BRUSHLESS电钻，右前45°视角；无FUEL徽标，侧面印BRUSHLESS字样；Milwaukee徽标标准白色；腰部右侧银灰色belt clip；扳机区黑色；卡盘为黑色套筒式；机身无辅助散热格栅（比FUEL版本更简洁）；底部M12电池座"
+    product_name: "Milwaukee M12 BRUSHLESS Drill/Driver"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "电钻/螺丝刀"
+    design_language:
+      silhouette: "M12标准紧凑手枪握持；与FUEL版外形接近但细节简化"
+      light_opening: "N/A（电动工具）"
+      thermal: "散热槽口较少，体现非旗舰定位"
+      cmf:
+        color: "Milwaukee Red主色；黑色扳机区；银灰色belt clip"
+        material: "尼龙机壳；TPE软胶"
+        finish: "半哑光机壳"
+      mounting: "底部M12电池座"
+      signature_detail: "BRUSHLESS文字标识取代FUEL徽标，视觉层级降低——产品线区分设计"
+    design_level:
+      score: 3
+      reason: "标准执行，品牌语法一致；相比FUEL系列减少了设计细节，定位次旗舰；belt clip集成保留"
+    design_tags:
+      - "M12"
+      - "M12_BRUSHLESS"
+      - "电钻"
+      - "非FUEL"
+    hero_feature: "M12 BRUSHLESS在保持品牌视觉语言的基础上简化细节——展示Milwaukee品牌语法的最低执行门槛"
+    problem_solved: "对价格更敏感但仍需要无刷电机性能的用户"
+    transferable_technique: "用文字标识（BRUSHLESS vs FUEL）区分产品线，造型语言保持一致——产品族群管理策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 7: M18 BRUSHLESS Compact Drill/Driver（2角度）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p07"
+    source_images:
+      - filename: "milwaukee_bare_008.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_008.jpg"
+        image_role: "hero"
+        visual_anchor: "红黑双色M18 BRUSHLESS紧凑电钻，左侧45°视角；机身腹部大面积黑色覆盖（前半部机体为黑色）与后部Milwaukee Red形成强烈分件；Milwaukee徽标+BRUSHLESS字样在黑色区；卡盘黑色；底部红色电池座+belt hook；无FUEL徽标"
+      - filename: "milwaukee_bare_009.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_009.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "同款M18 BRUSHLESS紧凑电钻，稍微不同角度；黑色前壳与红色后壳分件更清晰；卡盘齿轮环银灰色；BRUSHLESS字样白色印于黑色机壳；belt hook铸铁银灰"
+    product_name: "Milwaukee M18 BRUSHLESS Compact Drill/Driver"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "电钻/螺丝刀"
+    design_language:
+      silhouette: "M18平台标准手枪握持；机身比M18 FUEL版本更短（紧凑型）；无辅助把手框架"
+      light_opening: "N/A（电动工具）"
+      thermal: "黑色前壳上有细小散热通道"
+      cmf:
+        color: "前壳黑色约45%+后壳Milwaukee Red约45%+银灰压铸件约10%；黑色比例比其他M18款式更高"
+        material: "尼龙机壳双色；TPE软胶扳机；压铸铝齿轮箱环"
+        finish: "机壳半哑光；软胶网格纹"
+      mounting: "底部M18电池座"
+      signature_detail: "前黑后红的强烈分件线——与FUEL系列的红主黑辅形成反差，BRUSHLESS线分件设计语言不同"
+    design_level:
+      score: 3
+      reason: "执行到位；前黑后红分件颇有个性；与FUEL系列形成清晰视觉区分；无造型突破但整体感较强"
+    design_tags:
+      - "M18"
+      - "M18_BRUSHLESS"
+      - "紧凑型"
+      - "电钻"
+      - "前黑后红分件"
+      - "H08_对比强调"
+      - "H03_分件线"
+    hero_feature: "前黑后红强分件——在Milwaukee平台内用色彩分区区分系列定位，视觉逻辑清晰"
+    problem_solved: "需要M18平台动力但场地受限需要紧凑机身的作业；BRUSHLESS版本平衡性能与成本"
+    transferable_technique: "用大面积色彩分区（前/后壳）作为产品线视觉区分手段，比细节标识更强烈（H03_分件线 + H08_对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 8: M18 BRUSHLESS Drill/Driver（标准版，红主导）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p08"
+    source_images:
+      - filename: "milwaukee_bare_010.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_010.jpg"
+        image_role: "hero"
+        visual_anchor: "红主色M18 BRUSHLESS电钻（非紧凑型），右侧45°视角；与007-009的前黑后红方案不同，此款为红色机身为主，黑色仅在扳机区和小面积散热处；Milwaukee徽标+BRUSHLESS字样；底部red电池座+belt hook；机身腹部有两道红色浮雕装饰线"
+    product_name: "Milwaukee M18 BRUSHLESS Drill/Driver（标准版）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "电钻/螺丝刀"
+    design_language:
+      silhouette: "M18标准手枪握持，比紧凑型略长；标准M18比例；无辅助把手框架"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身有少量散热槽"
+      cmf:
+        color: "Milwaukee Red主色约70%；黑色扳机/格栅约25%；银灰压铸件约5%"
+        material: "尼龙注塑；TPE扳机软胶"
+        finish: "半哑光；扳机软胶纹理"
+      mounting: "底部M18电池座"
+      signature_detail: "红色主导配色与BRUSHLESS版紧凑型（前黑后红）形成系列内对比；机身有浮雕装饰线条"
+    design_level:
+      score: 3
+      reason: "标准执行，品牌语法正确；与紧凑型BRUSHLESS形成差异但无突出设计特征"
+    design_tags:
+      - "M18"
+      - "M18_BRUSHLESS"
+      - "电钻"
+      - "标准型"
+    hero_feature: "M18 BRUSHLESS标准版——展示Milwaukee品牌核心红色语法在M18平台的基础表达"
+    problem_solved: "需要全尺寸M18动力但预算低于FUEL系列的用户"
+    transferable_technique: "同平台不同产品线通过色彩配比（红主/黑主）建立视觉层级"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 9: M18 FUEL Impact Driver（标准款，3角度合并）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p09"
+    source_images:
+      - filename: "milwaukee_bare_011.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_011.jpg"
+        image_role: "hero"
+        visual_anchor: "亮红色M18 FUEL冲击螺丝刀，正侧视角；机头短粗圆柱形黑色外壳+顶部小型黑色旋钮；机身Milwaukee+FUEL徽标；机身侧面两道垂直红色散热槽；底部红色电池接口+belt hook铸铁；整体比钻机更紧凑，机头无卡盘无扭矩环"
+      - filename: "milwaukee_bare_012.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_012.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "同款M18 FUEL冲击螺丝刀带ONE-KEY，右侧视角；底部ONE-KEY模块（红色标识）；WiFi蓝色徽章标注；机头灰色金属六角套筒；机身散热槽清晰"
+      - filename: "milwaukee_bare_013.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_013.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "同款M18 FUEL冲击螺丝刀无ONE-KEY，右侧45°视角；底部LED电量指示灯可见；red机身+黑色扳机+FUEL徽标；belt hook铸铁"
+    product_name: "Milwaukee M18 FUEL Impact Driver with ONE-KEY"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "冲击螺丝刀"
+      - "六角冲击起子"
+    design_language:
+      silhouette: "标准冲击起子轮廓；机头比电钻更短更粗；无卡盘无扭矩环；整体呈头重脚轻块状感"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身两侧垂直长条散热槽（比电钻更醒目）"
+      cmf:
+        color: "Milwaukee Red主色；黑色机头/扳机约30%；灰色六角套筒金属件"
+        material: "尼龙机壳；TPE软胶；钢制六角套筒"
+        finish: "半哑光机壳；六角套筒金属本色"
+      mounting: "底部M18电池座"
+      signature_detail: "机头顶部小型黑色选速旋钮——冲击起子独有，功能外显清晰；垂直散热槽比钻机更突出"
+    design_level:
+      score: 4
+      reason: "冲击起子领域设计成熟；机头选速旋钮处理简洁直接；ONE-KEY版本在不破坏机身造型的前提下集成WiFi控制；散热槽设计兼顾视觉节奏感"
+    design_tags:
+      - "M18"
+      - "M18_FUEL"
+      - "ONE-KEY"
+      - "冲击起子"
+      - "选速旋钮"
+      - "H11_功能外显"
+      - "H08_对比强调"
+    hero_feature: "机头顶部黑色选速旋钮+垂直散热槽组合——在紧凑机头上集中传达高性能控制信息"
+    problem_solved: "紧固螺丝需要高冲击扭矩；多速控制满足不同材料/螺丝需求；ONE-KEY实现数字化扭矩管理"
+    transferable_technique: "顶部旋钮选速（非传统侧面开关）将控制逻辑集成于机头形态，简化侧面视觉（H07_极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 10: M12 FUEL Impact Driver（紧凑版，带belt clip）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p10"
+    source_images:
+      - filename: "milwaukee_bare_014.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_014.jpg"
+        image_role: "hero"
+        visual_anchor: "亮红色M12 FUEL冲击起子，右前45°俯视角；机头非常紧凑，顶部黑色旋钮；Milwaukee+FUEL徽标；腰部右侧银灰色金属belt clip；底部4颗LED电量指示灯；无belt hook（靠belt clip挂载）；机身比M18版更扁更短"
+    product_name: "Milwaukee M12 FUEL Impact Driver"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "冲击螺丝刀"
+      - "六角冲击起子"
+    design_language:
+      silhouette: "超紧凑M12冲击起子；机头高度明显低于M18版本；整体更方正紧凑"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身小型散热槽"
+      cmf:
+        color: "Milwaukee Red主色；黑色机头/扳机；银灰色belt clip"
+        material: "尼龙机壳；TPE软胶；压铸铝belt clip"
+        finish: "半哑光；网格软胶"
+      mounting: "底部M12电池座"
+      signature_detail: "腰部银灰色belt clip + LED电量指示——M12系列通用细节语言"
+    design_level:
+      score: 3
+      reason: "M12冲击起子标准执行；与M18 FUEL共享设计语言比例缩放；belt clip细节精致"
+    design_tags:
+      - "M12"
+      - "M12_FUEL"
+      - "冲击起子"
+      - "belt_clip"
+      - "紧凑型"
+    hero_feature: "M12超紧凑冲击起子——机身体量感本身即为卖点，仅靠比例就能传达轻量化优势"
+    problem_solved: "需要高冲击扭矩但受限于空间的精细作业（如室内装修、汽车维修）"
+    transferable_technique: "LED电量显示条沿底部布置，不破坏机身轮廓，信息功能集成于形态边界（H09_隐藏工程）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 11: M12 FUEL SURGE Hydraulic Driver（液压起子，2角度）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p11"
+    source_images:
+      - filename: "milwaukee_bare_015.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_015.jpg"
+        image_role: "hero"
+        visual_anchor: "亮红色M12 FUEL SURGE液压起子，右侧视角；机头为大型银灰色金属液压套筒（远大于普通冲击起子机头）；Milwaukee+FUEL徽标；腰部银灰色metal belt clip；底部3颗LED指示灯；左下角SURGE HYDRAULIC DRIVER黑色标识牌"
+      - filename: "milwaukee_bare_016.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_016.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "同款M12 FUEL SURGE，更大角度展示机头液压套筒细节；银灰色机头占比明显更大；整体红+银灰色比例约各50%"
+    product_name: "Milwaukee M12 FUEL SURGE Hydraulic Driver"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "冲击螺丝刀"
+      - "液压起子"
+    design_language:
+      silhouette: "M12机身+超大银灰液压机头；机头体积占比远超普通冲击起子，形成前重感；整体像戴了一顶金属帽"
+      light_opening: "N/A（电动工具）"
+      thermal: "液压系统自带降温机制，机身散热槽较少"
+      cmf:
+        color: "Milwaukee Red机身约50%+银灰色液压机头约45%+黑色扳机约5%；银灰色比例极高，为系列内独特"
+        material: "机壳尼龙；液压机头：精密加工钢/铝；belt clip：压铸铝"
+        finish: "机壳半哑光；液压机头机加工银灰本色；belt clip阳极氧化"
+      mounting: "底部M12电池座"
+      signature_detail: "超大银灰液压机头——功能不同于冲击（无冲击噪声）的液压传动机构外显为主要视觉特征"
+    design_level:
+      score: 5
+      reason: "液压传动机构外显为巨大银灰机头，彻底区分于普通冲击起子；产品形态的独特性是技术差异化的直接视觉语言；在M12平台实现品类级视觉突破"
+    design_tags:
+      - "M12"
+      - "M12_FUEL"
+      - "SURGE"
+      - "液压起子"
+      - "液压机头"
+      - "品类突破"
+      - "H11_功能外显"
+      - "H10_材料表达"
+    hero_feature: "超大银灰色液压机头——技术差异点直接成为外观最突出特征，远看即可识别与普通冲击起子的区别"
+    problem_solved: "冲击起子噪声大震动大，液压传动实现安静高扭矩紧固；机头形态诚实反映内部技术差异"
+    transferable_technique: "将全新内部技术（液压传动）外显为截然不同的机头形态，让用户一眼识别技术优势（H11_功能外显 + H10_材料表达）——品类突破级迁移价值"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 12: M18 FUEL SURGE Hydraulic Driver（M18液压起子）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p12"
+    source_images:
+      - filename: "milwaukee_bare_017.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_017.jpg"
+        image_role: "hero"
+        visual_anchor: "红色M18 FUEL SURGE液压起子，右侧视角；机头银灰色液压套筒（相比M12版体积更大）；Milwaukee+FUEL徽标；扳机区黑色；底部红色电池座+belt hook；SURGE HYDRAULIC DRIVER标识牌"
+    product_name: "Milwaukee M18 FUEL SURGE Hydraulic Driver"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "冲击螺丝刀"
+      - "液压起子"
+    design_language:
+      silhouette: "M18机身+大型液压机头；比M12 SURGE整体更大；机头/机身比例与M12版一致"
+      light_opening: "N/A（电动工具）"
+      thermal: "液压系统；机身有散热通道"
+      cmf:
+        color: "Milwaukee Red约55%+银灰液压机头约35%+黑色约10%"
+        material: "尼龙机壳；精密加工液压机头；钢制belt hook"
+        finish: "机壳半哑光；液压机头本色银灰"
+      mounting: "底部M18电池座"
+      signature_detail: "与M12 SURGE同系列视觉语言——银灰大机头，在M18平台放大版"
+    design_level:
+      score: 4
+      reason: "M18版SURGE执行完整；与M12版共享视觉识别系统；M18体量感更强"
+    design_tags:
+      - "M18"
+      - "M18_FUEL"
+      - "SURGE"
+      - "液压起子"
+      - "H11_功能外显"
+      - "H10_材料表达"
+    hero_feature: "M18平台大型液压机头——同一技术语言在M18功率级的完整表达"
+    problem_solved: "需要更高扭矩液压驱动的重型紧固作业"
+    transferable_technique: "跨平台（M12/M18）保持同一视觉识别策略（大银灰机头），形成系列家族感（H05_模块化视觉逻辑）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 13: M12 BRUSHLESS Impact Driver（非FUEL无刷冲击起子）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p13"
+    source_images:
+      - filename: "milwaukee_bare_018.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_018.jpg"
+        image_role: "hero"
+        visual_anchor: "亮红色M12 BRUSHLESS冲击起子，右前45°视角；Milwaukee徽标+BRUSHLESS字样（无FUEL）；机头黑色套筒+顶部小旋钮；腰部银灰color belt clip；底部M12电池座；整体与M12 FUEL款接近但BRUSHLESS标识区分"
+    product_name: "Milwaukee M12 BRUSHLESS Impact Driver"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "冲击螺丝刀"
+      - "六角冲击起子"
+    design_language:
+      silhouette: "M12标准紧凑冲击起子形态，与FUEL款一致"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身有散热槽"
+      cmf:
+        color: "Milwaukee Red主色；黑色机头/扳机；银灰belt clip"
+        material: "尼龙机壳；TPE软胶；金属belt clip"
+        finish: "半哑光机壳"
+      mounting: "底部M12电池座"
+      signature_detail: "BRUSHLESS文字区分定位；belt clip与FUEL款相同规格"
+    design_level:
+      score: 3
+      reason: "标准执行；与M12 FUEL冲击视觉区分仅靠标识，造型几乎一致"
+    design_tags:
+      - "M12"
+      - "M12_BRUSHLESS"
+      - "冲击起子"
+      - "非FUEL"
+    hero_feature: "M12 BRUSHLESS冲击起子——Milwaukee品牌语法在次旗舰定位的完整保持"
+    problem_solved: "价格敏感用户的无刷冲击起子需求"
+    transferable_technique: "产品族群视觉一致性——通过最小差异化（标识文字）区分定位，保持家族感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────────────────────────
+  # PRODUCT 14: M18 BRUSHLESS Impact Driver（2角度合并）
+  # ─────────────────────────────────────────────────────────────────
+  - product_id: "milwaukee_bare_p14"
+    source_images:
+      - filename: "milwaukee_bare_019.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_019.jpg"
+        image_role: "hero"
+        visual_anchor: "红色M18 BRUSHLESS冲击起子，左侧视角；Milwaukee徽标+BRUSHLESS字样；机头银灰色套筒（比FUEL款更简洁无旋钮选速）；扳机区黑色；底部红色电池座+belt hook铸铁灰；整体与M18 FUEL冲击外形接近"
+      - filename: "milwaukee_bare_020.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_020.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "同款M18 BRUSHLESS冲击起子，右侧视角；与019角度相反；银灰色六角套筒细节清晰；Milwaukee+BRUSHLESS标识；belt hook形态为矩形开口框架"
+    product_name: "Milwaukee M18 BRUSHLESS Impact Driver"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "冲击螺丝刀"
+      - "六角冲击起子"
+    design_language:
+      silhouette: "M18标准冲击起子手枪握持；比FUEL款稍简洁（无顶部旋钮）"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身散热槽"
+      cmf:
+        color: "Milwaukee Red约65%；黑色扳机约25%；银灰色套筒/belt hook约10%"
+        material: "尼龙机壳；TPE软胶；钢制belt hook和六角套筒"
+        finish: "半哑光机壳；金属件本色"
+      mounting: "底部M18电池座"
+      signature_detail: "矩形开口belt hook是Milwaukee M18平台标志性收纳元素；BRUSHLESS标识区分定位"
+    design_level:
+      score: 3
+      reason: "标准执行；belt hook处理精致；整体与FUEL款区分度低，靠标识区分"
+    design_tags:
+      - "M18"
+      - "M18_BRUSHLESS"
+      - "冲击起子"
+      - "belt_hook"
+      - "非FUEL"
+    hero_feature: "矩形开口钢制belt hook——Milwaukee M18平台通用收纳设计，形态统一强化系列感"
+    problem_solved: "需要M18平台冲击扭矩但预算低于FUEL旗舰系列的用户"
+    transferable_technique: "Belt hook作为系列通用元素，形态统一（矩形开口框架）强化平台家族感，成为品牌识别符号之一（H05_模块化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

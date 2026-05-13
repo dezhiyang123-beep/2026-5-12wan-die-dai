@@ -1,0 +1,288 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "带锯"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_带锯_001"
+    source_images:
+      - filename: "电锯__带锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，Milwaukee M18 FUEL Deep Cut Band Saw，横置卧式机身，顶部弧形顶置把手（黑色橡胶包覆），机身中央Milwaukee FUEL品牌徽标（红底白字），左侧大型黑色轮盖（滚轮罩），右侧红色FUEL BRUSHLESS电机盖，中间矩形开口为锯带切割空间，ONE-KEY WiFi功能指示，M18电池顶置于把手后方"
+      - filename: "电锯__带锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__03.jpg"
+        image_role: "detail"
+        visual_anchor: "正面裸机视角，M18 FUEL Deep Cut Band Saw，无电池，可见机身结构：黑色主体框架+红色Milwaukee FUEL面板+右侧红色FUEL BRUSHLESS电机端盖，矩形切割口清晰，顶部把手弧度清晰"
+      - filename: "电锯__带锯__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__06.jpg"
+        image_role: "detail"
+        visual_anchor: "侧面视角，M18 FUEL Deep Cut Band Saw，黑色主体轮廓，红色Milwaukee FUEL前面板，把手黑色，左侧轮盖可见M18系统标识，整体C形卧式剪影"
+      - filename: "电锯__带锯__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__07.jpg"
+        image_role: "detail"
+        visual_anchor: "斜前45度视角，含M18电池，M18 FUEL Deep Cut Band Saw，Red body机身红色前面板明显，右侧FUEL BRUSHLESS端盖红色，电池竖向顶部插入"
+    product_name: "Milwaukee M18 FUEL Deep Cut Band Saw"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "带锯"]
+    design_language:
+      silhouette: "横置C形卧式机身：两端各一个大型圆形轮盖（左黑右红），中间矩形镂空为切割空间，顶部弧形把手横跨机身，整体侧视呈大写字母C形，宽度远大于高度"
+      light_opening: "中央矩形切割口（约5\"×5\"），锯带从开口底部水平穿过"
+      thermal: "FUEL BRUSHLESS电机端盖（右侧红色圆形盖）周边散热肋片"
+      cmf:
+        color: "主色：黑色（机身主体框架），次色：Milwaukee亮红色（前面板+电机端盖+Milwaukee品牌区），银灰色（锯带导轨金属件）"
+        material: "机身外壳：ABS工程塑料；轮盖：玻璃纤维增强尼龙；导轨：钢制；锯带：碳钢"
+        finish: "机身：磨砂黑；红色区域：亮面红漆；金属件：亚光银"
+      mounting: "M18电池竖向插入顶部把手后方，形成配重平衡"
+      signature_detail: "C形切割口大幅镂空的独特轮廓；右侧FUEL BRUSHLESS圆形端盖红色强调；ONE-KEY WiFi数字连接功能；前面板Milwaukee FUEL品牌徽标居中"
+    design_level:
+      score: 5
+      reason: "Milwaukee带锯旗舰款，C形切割口形态极具辨识度，红黑双色分区精准，FUEL BRUSHLESS端盖圆形设计成为签名细节，设计语言统一性强，在带锯品类中设计水准顶级"
+    design_tags:
+      - "M18_FUEL"
+      - "Deep_Cut"
+      - "带锯"
+      - "C形机身"
+      - "ONE-KEY"
+      - "FUEL_BRUSHLESS"
+      - "红黑配色"
+      - "无绳"
+    hero_feature: "C形大开口切割空间允许深度切割（5\"切割容量），右侧圆形FUEL BRUSHLESS端盖成为视觉焦点签名"
+    problem_solved: "解决传统带锯笨重不可携带的问题，无绳深切带锯可在工地管道切割中单手操作"
+    transferable_technique: "C形开口功能外显设计直接转化为产品轮廓特征（H11功能外显）；红黑双色功能分区策略（H08对比强调）；圆形电机端盖作为签名细节（H03分件线）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_带锯_002"
+    source_images:
+      - filename: "电锯__带锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，Milwaukee M12 FUEL Compact Band Saw，竖向紧凑机身，顶置D形把手（红色，黑色橡胶包覆），中央Milwaukee FUEL红色面板（钻石形状），左右两侧黑灰色轮盖，右侧圆形FUEL BRUSHLESS端盖红色，M12 XC4.0电池后置，整体比M18更紧凑竖向"
+      - filename: "电锯__带锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__04.jpg"
+        image_role: "detail"
+        visual_anchor: "正面裸机，Milwaukee M12 FUEL Compact Band Saw，竖向，无电池，Milwaukee FUEL面板居中，左黑色轮盖印M12标识，右侧红色FUEL BRUSHLESS端盖，切割口矩形开口"
+      - filename: "电锯__带锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__05.jpg"
+        image_role: "detail"
+        visual_anchor: "侧面视角，M18 FUEL（另一款，Deep Cut），可见侧面扁平轮廓，黑色机身，Milwaukee FUEL徽标，把手弧度，LED灯位于切割口附近"
+    product_name: "Milwaukee M12 FUEL Compact Band Saw"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "带锯"]
+    design_language:
+      silhouette: "紧凑竖向机身：相比M18横置C形，M12更趋于竖向长方体，把手顶置，切割口在机身中下部，整体更接近直立矩形轮廓"
+      light_opening: "中央切割口相对M18更小（约2.5\"切割容量）"
+      thermal: "FUEL BRUSHLESS圆形端盖散热肋"
+      cmf:
+        color: "主色：黑色，次色：亮红色（面板+端盖），把手：红色含黑色橡胶"
+        material: "ABS工程塑料，钢制导轨"
+        finish: "磨砂黑机身，亮红漆面板，亚光金属件"
+      mounting: "M12电池后置竖插"
+      signature_detail: "Milwaukee FUEL钻石形面板居中；圆形FUEL BRUSHLESS端盖；LED工作灯集成于切割口附近"
+    design_level:
+      score: 4
+      reason: "M12系列设计语言统一，竖向紧凑形态适合单手操作，LED灯集成位置合理，与M18差异化明确"
+    design_tags:
+      - "M12_FUEL"
+      - "Compact"
+      - "带锯"
+      - "竖向机身"
+      - "无绳"
+      - "LED灯"
+    hero_feature: "M12小体积+竖向布局，可进入M18无法触及的狭窄空间（如墙内管道）"
+    problem_solved: "M18带锯太大进不去的狭窄施工空间，M12 Compact Band Saw解决最后一英里切割问题"
+    transferable_technique: "LED灯集成于切割口附近提供精准照明（H09隐藏工程）；竖向布局将重心保持在手掌正上方（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_带锯_003"
+    source_images:
+      - filename: "电锯__带锯__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__08.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，Milwaukee M18 FUEL Deep Cut Band Saw另一版本，黑红配色，Milwaukee FUEL红色面板居中，机身主体为黑色，顶部把手红色区域更多，右侧红色端盖，左侧黑色大轮盖，锯带可见，无电池裸机"
+      - filename: "电锯__带锯__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__09.jpg"
+        image_role: "detail"
+        visual_anchor: "斜视角含81V电池（Milwaukee MX FUEL），M18 FUEL Deep Cut Band Saw，顶部电池较大，整体重量感更强"
+      - filename: "电锯__带锯__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__10.jpg"
+        image_role: "detail"
+        visual_anchor: "套装图，M18 FUEL Deep Cut Band Saw+两块M18电池+充电器+Milwaukee红色硬壳收纳箱，硬壳箱红色Milwaukee徽标"
+    product_name: "Milwaukee M18 FUEL Deep Cut Band Saw (Updated Generation)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "带锯"]
+    design_language:
+      silhouette: "C形卧式，与001款形态相近，更新一代，红色面板和把手区域比例有调整"
+      light_opening: "矩形C形切割口，约5\"容量"
+      thermal: "FUEL BRUSHLESS端盖散热设计"
+      cmf:
+        color: "黑色主体，红色点缀（面板、端盖、把手区），银灰色金属件"
+        material: "工程塑料，钢制导轨，锯带"
+        finish: "磨砂黑，亮红漆，亚光银"
+      mounting: "M18电池顶置，套装含硬壳收纳箱"
+      signature_detail: "Milwaukee红色硬壳收纳箱作为套装标配；顶部电池位置平衡设计"
+    design_level:
+      score: 4
+      reason: "更新一代保持高设计水准，硬壳收纳箱提升产品整体溢价感"
+    design_tags:
+      - "M18_FUEL"
+      - "Deep_Cut"
+      - "带锯"
+      - "更新款"
+      - "套装"
+      - "硬壳收纳"
+      - "无绳"
+    hero_feature: "Milwaukee红色硬壳收纳箱（Packout系统）+带锯套装，工地收纳管理系统化"
+    problem_solved: "工具运输和存储标准化，防碰撞保护"
+    transferable_technique: "硬壳收纳箱颜色与工具品牌色统一，强化品牌生态系统感（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_带锯_004"
+    source_images:
+      - filename: "电锯__带锯__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__11.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，Milwaukee M12 Sub-Compact Band Saw（更早款式），黑色平板椭圆机身，顶部红色把手+Milwaukee品牌区，右侧红色圆柱电机端盖，M12电池后置，切割口底部小矩形开口，整体更扁平简洁"
+    product_name: "Milwaukee M12 Band Saw (Sub-Compact, Legacy)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "带锯"]
+    design_language:
+      silhouette: "扁平椭圆机身，比M12 FUEL Compact更早一代，黑色大面积椭圆轮廓，把手和品牌区红色，圆柱形红色电机端盖为早期设计特征"
+      light_opening: "底部小矩形切割口"
+      thermal: "电机端盖侧面散热槽"
+      cmf:
+        color: "主色：黑色，次色：亮红色（把手区+电机端盖），灰色（中间区域）"
+        material: "ABS工程塑料"
+        finish: "磨砂黑，亮红，亚光灰"
+      mounting: "M12电池后置"
+      signature_detail: "圆柱形红色电机端盖（早期Milwaukee特征）；黑色大面积椭圆机身；Milwaukee徽标于机身平面"
+    design_level:
+      score: 3
+      reason: "早期Milwaukee M12带锯，设计已较旧但品牌元素清晰，黑色椭圆机身紧凑感强"
+    design_tags:
+      - "M12"
+      - "Sub-Compact"
+      - "带锯"
+      - "早期款"
+      - "椭圆机身"
+      - "无绳"
+    hero_feature: "超紧凑体积，黑色椭圆机身便于单手握持"
+    problem_solved: "最轻便的Milwaukee无绳带锯方案"
+    transferable_technique: "椭圆扁平机身在手掌中的贴合度（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_带锯_005"
+    source_images:
+      - filename: "电锯__带锯__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__12.jpg"
+        image_role: "packaging"
+        visual_anchor: "Milwaukee红色硬壳收纳箱开盖状态，展示内部黑色泡棉预成型刀片存储区，可见带锯刀片轮廓印模，箱盖内侧Milwaukee品牌印刷，用于带锯刀片运输收纳"
+    product_name: "Milwaukee Band Saw Blade Case (Packout)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "带锯"]
+    design_language:
+      silhouette: "标准Milwaukee Packout硬壳箱，红色塑料外壳，黑色泡棉内衬，内衬预成型匹配带锯刀片轮廓"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "外壳：Milwaukee亮红色；内衬：黑色泡棉"
+        material: "高密度聚乙烯外壳，EVA泡棉内衬"
+        finish: "亮红外壳，磨砂黑内衬"
+      mounting: "N/A（收纳配件）"
+      signature_detail: "预成型刀片轮廓泡棉内衬；Milwaukee品牌标识于箱盖内侧"
+    design_level:
+      score: 3
+      reason: "Milwaukee Packout系统的标准配件，预成型内衬体现产品设计细心度，红色外壳统一品牌生态"
+    design_tags:
+      - "Packout"
+      - "收纳箱"
+      - "刀片收纳"
+      - "配件"
+      - "硬壳"
+    hero_feature: "预成型内衬精确匹配带锯刀片，防止运输中刀片相互磕碰"
+    problem_solved: "带锯刀片（环形锯带）存储和运输的专用解决方案"
+    transferable_technique: "预成型内衬设计语言（H09隐藏工程）；收纳系统与工具品牌色统一（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_带锯_006"
+    source_images:
+      - filename: "电锯__带锯__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__13.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，Milwaukee有线Deep Cut Band Saw（corded），黑色主体机身，红色Milwaukee品牌面板居中，红色把手区域，银灰色内框架，有线电源线从后方引出，整体与无绳款形态相近但无电池接口"
+      - filename: "电锯__带锯__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__带锯__14.jpg"
+        image_role: "detail"
+        visual_anchor: "侧面视角，Milwaukee有线Deep Cut Band Saw，黑色+红色机身，有线款电源线明显，Milwaukee品牌面板，比无绳款后部更纤细"
+    product_name: "Milwaukee Corded Deep Cut Band Saw"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "带锯"]
+    design_language:
+      silhouette: "C形横置机身，与无绳款形态相近，后部无电池接口更纤细，有线款从后侧引出电源线"
+      light_opening: "矩形C形切割口"
+      thermal: "电机端部散热槽"
+      cmf:
+        color: "黑色主体，红色面板和把手区，银灰内框架"
+        material: "ABS工程塑料，钢制内框"
+        finish: "磨砂黑，亮红漆，银灰金属"
+      mounting: "有线电源，无电池接口"
+      signature_detail: "Milwaukee品牌红色面板；有线款后部纤细造型区别于无绳款"
+    design_level:
+      score: 3
+      reason: "有线版延续Milwaukee带锯设计语言，但无电池形成的后部纤细感实为产品特征，整体设计合格"
+    design_tags:
+      - "有线"
+      - "corded"
+      - "Deep_Cut"
+      - "带锯"
+      - "C形机身"
+    hero_feature: "有线持续功率，无需换电池的长时间切割"
+    problem_solved: "重度金属切割和施工中需要持续大功率输出的场景"
+    transferable_technique: "有线款和无绳款共用同一机身语言，产品线视觉统一（H08对比强调产品族谱）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,157 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "家用音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/家用音箱/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_home_spk_001"
+    source_images:
+      - filename: "101.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/家用音箱/101.jpg"
+        image_role: "hero"
+        visual_anchor: "展开翼状形态，中柱+双翼格栅面板展开，斜透视"
+      - filename: "112.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/家用音箱/112.jpg"
+        image_role: "variant"
+        visual_anchor: "收拢竖立形态，正面双扬声器单元外露"
+    product_name: "BenQ treVolo"
+    brand_name: "BenQ"
+    brand_confidence: "high"
+    category_path: ["音箱", "家用音箱"]
+    design_language:
+      silhouette: "双形态：展开时呈蝴蝶/翼展形，左右两块黑色微孔格栅面板向外旋转展开；收拢时为竖向矩形塔状，中央两个圆形扬声器单元外露，铜色环框"
+      light_opening: "左右翼为全面积细密微孔网格；中柱两个圆形蜂窝网格振膜"
+      thermal: "无独立散热开口"
+      cmf:
+        color: "深灰/枪金属色主体，铜色扬声器环框，黑色微孔格栅面板"
+        material: "铝合金中柱机身，织物或金属微孔格栅翼板"
+        finish: "中柱喷砂阳极氧化哑光银灰，扬声器环框拉丝铜色"
+      mounting: "桌面竖立，底座稳定脚撑"
+      signature_detail: "铜色圆环扬声器框架与深灰机身的材质对比；展开翼形态将音箱变为桌面雕塑"
+    design_level:
+      score: 5
+      reason: "折叠翼展设计彻底重新定义桌面音箱形态；双状态造型在功能与装饰之间切换；铜灰配色材质层次丰富；treVolo是iF奖标志性获奖产品"
+    design_tags: ["翼展折叠", "双形态", "铜色环框", "桌面雕塑", "静电振膜", "变形设计", "高端Hi-Fi"]
+    hero_feature: "左右翼板可展开的双状态形态，展开时如蝴蝶翅膀，收拢时如竖立单体，同一产品两种视觉身份"
+    problem_solved: "桌面音箱不使用时显得笨重突兀，折叠设计令音箱在播放与收纳两个状态下均有视觉价值"
+    transferable_technique: "折叠展开结构赋予产品双重形态语言；将功能动作（展开获得更大振膜面积）直接转化为视觉仪式感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_home_spk_002"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/家用音箱/30.jpg"
+        image_role: "hero"
+        visual_anchor: "双视图：左侧背面接口视图，右侧播放器插入底座使用状态"
+      - filename: "32.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/家用音箱/32.jpg"
+        image_role: "detail"
+        visual_anchor: "侧面特写，大直径金色旋钮与水平条纹机身，播放器插槽清晰可见"
+    product_name: "Astell&Kern ACRO CA1000T"
+    brand_name: "Astell&Kern"
+    brand_confidence: "high"
+    category_path: ["音箱", "家用音箱"]
+    design_language:
+      silhouette: "横向矩形桌面机，顶部设有倾斜播放器插槽，使便携播放器可插入并立于底座上方；整机为楔形截面，前厚后薄"
+      light_opening: "无扬声器开口（耳放/DAC功能）；侧面设金色旋钮"
+      thermal: "机身侧面水平条纹散热槽"
+      cmf:
+        color: "银色/亮铝色机身，金色黄铜旋钮，黑色顶部插槽区"
+        material: "铝合金机身，黄铜旋钮，玻璃顶面"
+        finish: "机身拉丝银铝，水平条纹机加工，旋钮抛光金色"
+      mounting: "桌面放置，有防滑脚垫"
+      signature_detail: "顶部倾斜插槽将便携播放器融合进桌面系统；侧面水平机加工条纹散热槽兼具工业美感；大直径金色旋钮"
+    design_level:
+      score: 5
+      reason: "将便携Hi-Fi播放器与桌面耳放一体化的设计概念极具创新性；机加工条纹+金色旋钮的高端制造工艺展示一流；产品系统化思维体现在插槽设计"
+    design_tags: ["播放器底座", "系统化设计", "水平条纹", "金色旋钮", "铝合金", "桌面Hi-Fi", "楔形截面"]
+    hero_feature: "顶部倾斜插槽将便携播放器立于底座上方，形成独特的人机界面与视觉组合"
+    problem_solved: "便携播放器在家使用时缺乏稳定支撑与功率放大，底座插槽同时解决放置、充电、音频扩展三个问题"
+    transferable_technique: "为配套产品设计专用接驳槽位，令两个独立产品组合后形成更高视觉完整度；水平条纹机加工作为高端制造工艺的可视化表达"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "产品为桌面耳放/DAC底座，无扬声器功能，归类家用音箱需确认"
+
+  - product_id: "if_home_spk_003"
+    source_images:
+      - filename: "80.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/家用音箱/80.jpg"
+        image_role: "hero"
+        visual_anchor: "两对书架箱展示，左组正背面，右组斜透视；银色铝框+黑布面"
+    product_name: "桌面书架音箱（品牌待确认）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "家用音箱"]
+    design_language:
+      silhouette: "竖向矩形箱体，四角为独立银色铝合金立柱，顶面为深色玻璃或亚克力盖板，正背面均为黑色织物面板，底部为开放式铝框底座离地支撑"
+      light_opening: "正面全面积黑色织物透音面"
+      thermal: "无独立散热结构"
+      cmf:
+        color: "银色铝合金框架，黑色织物面板，深黑顶面"
+        material: "铝合金立柱与底框，高密度黑色音频织物，玻璃或亚克力顶盖"
+        finish: "铝框拉丝银色，织物细腻平纹，顶盖亮面"
+      mounting: "桌面竖立，底部铝框悬空支撑"
+      signature_detail: "四角独立铝柱构成可见结构骨架，将箱体内容物与外框架分离，呈现家具化书架感"
+    design_level:
+      score: 4
+      reason: "铝框骨架+织物面板的家具化设计语言精致，将音箱去电子化；四角立柱的结构外露手法有建筑感；整体克制优雅"
+    design_tags: ["书架箱", "铝框骨架", "织物面板", "家具化", "结构外露", "银黑配色", "桌面Hi-Fi"]
+    hero_feature: "四角独立铝合金立柱将箱体悬空，底部开放式框架令音箱如家具般轻盈"
+    problem_solved: "传统书架箱封闭箱体显得笨重，铝框骨架外露设计减轻视觉重量，令音箱融入家居环境"
+    transferable_technique: "将结构骨架外露作为设计语言，框架与填充面板分件处理，创造轻盈的家具化质感；铝柱+织物的材质搭配可广泛应用于家用电子产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_home_spk_004"
+    source_images:
+      - filename: "88.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/家用音箱/88.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视图，上方收音机控制面板+下方音箱格栅，全白极简"
+    product_name: "Braun 收音机/音箱组合（型号待确认）"
+    brand_name: "Braun"
+    brand_confidence: "high"
+    category_path: ["音箱", "家用音箱"]
+    design_language:
+      silhouette: "横向矩形双层组合：上层为收音机面板（旋钮+频率显示条+滑块），下层为全面积大型织物/金属网格音箱面；整体扁平宽幅，比例约5:2"
+      light_opening: "下层全面积椭圆形网格大振膜区，均匀细密"
+      thermal: "无独立散热"
+      cmf:
+        color: "全白/浅灰配色，旋钮与刻度盘为白色，极少色彩对比"
+        material: "塑料机身，金属网格音箱面，塑料旋钮"
+        finish: "全哑光白，细腻均匀，无光泽差异"
+      mounting: "桌面或柜面横向放置"
+      signature_detail: "极简水平布局：多旋钮与刻度尺平行排列，形成强烈理性网格感；全白单色消除所有装饰性元素"
+    design_level:
+      score: 5
+      reason: "Braun经典收音机是迪特·拉姆斯极简主义设计的代表作，直接影响了苹果等现代设计语言；全白+水平网格+旋钮阵列的极简语法是工业设计史级别参考"
+    design_tags: ["极简主义", "全白", "Braun", "迪特拉姆斯", "水平布局", "旋钮阵列", "经典设计", "收音机音箱"]
+    hero_feature: "全白无装饰机身，所有控制元素以网格化水平排列，形成纯粹的功能理性美学"
+    problem_solved: "消费电子通常过度装饰，Braun通过去除所有非必要元素，令功能布局本身成为唯一视觉语言"
+    transferable_technique: "单色（尤其全白）彻底消除视觉噪音，令产品形态与功能布局本身产生美感；旋钮/按键的模块化水平阵列排列法，功能即秩序"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

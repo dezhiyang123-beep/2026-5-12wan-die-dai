@@ -1,0 +1,18 @@
+# 项目日志 — 系统进化的客观数据源
+# 每个项目结束时追加一条记录
+
+projects: []
+
+# 示例格式：
+# - project: "Grow Light - Agrolux"
+#   client: "agrolux"
+#   date: "2026-04-21"
+#   mode: "M1"
+#   render_iterations_avg: 3.2
+#   steps_redone: ["Step 03"]
+#   concepts_delivered: 5
+#   concepts_accepted: null  # 客户反馈后填入
+#   feedback_highlights:
+#     - "概念偏保守，缺少眼前一亮的"
+#     - "渲染第一轮就很准，迭代少"
+#   rule_changes_triggered: []

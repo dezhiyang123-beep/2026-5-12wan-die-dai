@@ -1,0 +1,111 @@
+project_id: "20260403-Agrolux-HORT"
+
+directions:
+  - direction_id: "D-A"
+    title: "内光补偿"
+    core_claim: "开发兼容LYRA平台的层间补光（inter-lighting）灯条，填补Agrolux唯一产品空白，解决顶光无法穿透密植作物冠层的矛盾"
+    behavioral_contradiction: "要提升中下层叶片光照→但顶灯穿透力有限，进入冠层会造成温度伤害"
+    supporting_evidence:
+      - "Agrolux全产品线无任何层间补光产品，竞品（Philips/Hortilux）均有[H-agrolux.com产品页]"
+      - "LYRA平台公开支持七种配置，模块化设计为第八种配置（层间补光）提供架构空间[H-floraldaily.com]"
+      - "密植番茄/黄瓜的层间补光可提升产量20-30%（行业数据）[M]"
+    counter_evidence:
+      - "LYRA物理接口规格未公开，第三方模块兼容性未知，存在无法接入风险[L]"
+      - "无Agrolux接受第三方LYRA模块的任何先例[L]"
+      - "荷兰冬季加热悖论：层间补光产热更少，反而可能加剧HPS改LED后的供暖成本问题[H]"
+    assumptions:
+      verified:
+        - "Agrolux确实没有层间补光产品[H]"
+        - "LYRA模块化架构公开存在[H]"
+        - "密植作物场景的层间补光需求真实存在[H]"
+      unverified:
+        - "Agrolux愿意接受第三方LYRA兼容模块[L-无证据]"
+        - "LYRA物理连接器规格可获取或兼容[L]"
+        - "层间补光不会加剧冬季供暖成本[待热力学验证]"
+    boss_7d_preview:
+      use_scenario: "密植番茄/黄瓜温室，顶光无法覆盖中下层[H]"
+      target_user: "荷兰/北欧密植商业温室种植者[M]"
+      differentiation: "Agrolux产品线唯一层间补光，但前提是LYRA接口可接入[L]"
+      manufacturability: "灯条制造成熟，接口兼容性是关键风险[M]"
+      cost_structure: "UNKNOWN——取决于LYRA接口授权/开发成本"
+      market_size: "密植温室场景约占市场22-35%[M-有限观察]"
+      client_buyin: "UNKNOWN——Agrolux是否开放OEM接入完全未知[L]"
+
+  - direction_id: "D-B"
+    title: "光谱分区"
+    core_claim: "开发双通道可调光谱顶灯，通过LYRA现有Modbus/0-10V控制栈接入Agrolux OS，解决同一区域不同品种需要不同光谱配方的矛盾，同时成为OS软件价值的硬件载体"
+    behavioral_contradiction: "要优化某品种光谱配方→但同一顶灯覆盖区域内无法给不同品种分别配光"
+    supporting_evidence:
+      - "LYRA明确支持Modbus RTU/TCP+horti protocol+0-10V，可调光谱灯具天然适配这一控制栈[M-agrolux.com/os]"
+      - "Agrolux OS（2026年初上线）规划AI光策略自动化，可调光谱灯具是OS价值实现的硬件前提[H]"
+      - "可调光谱灯具在市场上有15-25%的溢价空间（参考Signify TLF Tunable）[M]"
+      - "种植者轮种场景（番茄→辣椒→生菜）对光谱切换有明确需求[H-greenhousegrower.com]"
+    counter_evidence:
+      - "光谱优化的增产数据（+5-10%/品种）是Signify专有研究，复制需要18-24个月自主田间试验[L]"
+      - "可调光谱灯价格比单光谱高20-30%，种植场主（Owner）的初期成本顾虑反而加剧[H]"
+      - "Agrolux OS刚上线，采用率未知，OS依赖型产品面临市场时机风险[M]"
+    assumptions:
+      verified:
+        - "LYRA支持0-10V和Modbus控制[M]"
+        - "种植者存在轮种需求和品种光谱差异问题[H]"
+        - "Agrolux OS正在推进，AI自动化是路线图方向[H]"
+      unverified:
+        - "可调光谱增产效果可在无Signify专有数据条件下复现[L]"
+        - "种植场主会为20-30%价差批准采购（Owner决策层）[L]"
+        - "Agrolux OS 2026年底前采用率超过20%[L]"
+    boss_7d_preview:
+      use_scenario: "多品种轮作温室，同区域不同阶段需要不同光谱[H]"
+      target_user: "中高端商业温室，有轮作和差异化种植需求[M]"
+      differentiation: "唯一针对OS生态系统设计的可调光谱灯，vs Signify TLF是现有最强竞品[M]"
+      manufacturability: "双通道LED驱动+控制PCB，技术成熟，认证路径清晰[M]"
+      cost_structure: "开发约$30-40万；比单光谱贵20-30%，BOM可控[M]"
+      market_size: "多品种轮作覆盖60%+商业温室，但实际采购意愿受价格敏感度约束[M]"
+      client_buyin: "与OS战略高度一致，Agrolux有动机推广OS生态系统灯具[M]"
+
+  - direction_id: "D-C"
+    title: "成本优化"
+    core_claim: "开发≥4.1 µmol/J高效能顶灯，售价低于Agrolux WEGA Max 15-25%，主攻HPS改造市场中对初期成本敏感的种植场，解决Owner层的首要购买障碍"
+    behavioral_contradiction: "要降低能耗就必须换LED→但LED初期成本高，Owner层决策卡在ROI回报期（18-36个月）"
+    supporting_evidence:
+      - "HPS改造市场荷兰约4万公顷仍在使用HPS，改造周期2026-2028年前强制完成[M]"
+      - "Agrolux WEGA Max效能3.85 µmol/J排竞品第四，存在效能+价格双向被替代空间[H]"
+      - "中国OEM厂商（Maksdep/Atop/AUXGROW）已持有CE+UL8800认证，可大幅降低认证风险[M]"
+      - "Iluminar iLogic 6（330W）公开价$725，证明大众商业市场存在公开定价入口[H]"
+    counter_evidence:
+      - "达到4.1 µmol/J需要Hortilux专有磷粉/光学设计，IP风险或需18-24个月自研[H]"
+      - "成本竞争使OEM毛利率约18-22%，需年销1万台以上才能可持续，而你无分销渠道[H]"
+      - "HPS改造市场2028年后将急速萎缩（EU法规一次性推动），不构成长期业务[M]"
+      - "此方向使OEM变成Agrolux的竞争对手而非合作伙伴，推销逻辑自相矛盾[H]"
+    assumptions:
+      verified:
+        - "HPS改造市场真实存在，EU法规推动[H]"
+        - "持证中国OEM可合作[M]"
+        - "4.1 µmol/J效能商业上可实现[H-Hortilux NXTLED证明]"
+      unverified:
+        - "可通过许可或合作获取4.1 µmol/J设计而不触发IP风险[L]"
+        - "2028年后市场不会断崖下跌[L]"
+        - "Agrolux不会进入低成本改造市场[M]"
+    boss_7d_preview:
+      use_scenario: "旧温室HPS改造，成本敏感型种植者[H]"
+      target_user: "中小型商业温室Owner，关注初期投入和回本周期[H]"
+      differentiation: "效能对标Hortilux，价格比Agrolux低15-25%[M-需验证]"
+      manufacturability: "借用持证OEM方案，制造风险低[M]"
+      cost_structure: "开发约$20-30万+许可费，但规模化需10000台/年[M]"
+      market_size: "2026-2028短期波峰，长期市场萎缩[M]"
+      client_buyin: "定位为竞争对手而非合作伙伴，Agrolux不会推荐[H]"
+
+analyst_pick: |
+  倾向D-B（光谱分区）。理由：用户痛点有可追溯证据（品种轮作需求），
+  控制接口不需要破解私有协议，且OS战略对齐是罕见的合作叙事切入口。
+
+  可能错在：①Agrolux OS若采用率低（<20%），D-B的战略叙事失效；
+  ②Owner层对20-30%溢价的抵制被严重低估；
+  ③没有田间试验数据，增产主张无法支撑，只是功能卖点而非解决方案。
+
+analyst_risk_note: |
+  全部三个方向的最高风险是同一个UNKNOWN：Agrolux是否开放OEM合作。
+  如果答案是"否"，D-A直接消亡，D-B和D-C退化为普通改造市场竞争者，
+  逻辑完全不同，需要重新出方向。
+
+  建议在选定方向前先通过一次Agrolux商务接触（邮件或展会），
+  探明其对第三方OEM的开放态度，这一个信息可以改变所有方向的可行性评估。

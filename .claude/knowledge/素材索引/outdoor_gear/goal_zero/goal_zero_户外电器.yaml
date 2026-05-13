@@ -1,0 +1,184 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "户外装备"
+  secondary: "户外电器"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外电器"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "goal_zero_appliance_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外电器/01.jpg"
+        image_role: "hero"
+        visual_anchor: "横卧矩形便携冰箱，拉丝银铝合金侧板，顶部黑色盖板，前面板Goal Zero标识"
+    product_name: "Goal Zero Alta 50 Fridge/Freezer (Landscape)"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电器", "便携冰箱"]
+    design_language:
+      silhouette: "横向长方体，宽远大于高，顶部平盖，整体低矮扁平感"
+      light_opening: "无"
+      thermal: "侧面格栅散热区，内置压缩机制冷"
+      cmf:
+        color: "拉丝银（铝合金侧板）+ 哑光黑（顶盖/控制区）+ 荧光黄绿（品牌标识/按键）"
+        material: "铝合金侧板 + ABS顶盖 + 聚氨酯保温层"
+        finish: "铝拉丝 + 塑料哑面"
+      mounting: "底部橡胶防滑垫，无提手（依赖顶盖边缘抓握）"
+      signature_detail: "铝合金侧板拉丝工艺与黑色顶盖的双材质语言，与Goal Zero储能电源产品线设计高度统一"
+    design_level:
+      score: 4
+      reason: "材质语言与品牌储能产品线高度统一，铝拉丝+黑盖的组合形成强产品家族感，冰箱品类内设计辨识度突出"
+    design_tags: ["便携冰箱", "铝合金侧板", "户外电器", "拉丝银", "品牌家族语言"]
+    hero_feature: "铝合金拉丝侧板与黑色顶盖的双材质语言，将Goal Zero储能产品设计DNA延伸至冰箱品类"
+    problem_solved: "户外露营需要真正制冷（而非保温箱）的便携冰箱，同时希望产品与电源生态视觉统一"
+    transferable_technique: "跨品类材质语言统一——用铝拉丝+黑盖组合将品牌设计DNA延伸至新品类，维持生态一致性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_appliance_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外电器/02.jpg"
+        image_role: "hero"
+        visual_anchor: "近方形便携冰箱，拉丝银侧板，黑色顶盖带弧形提手，正面数字温控显示屏"
+    product_name: "Goal Zero Alta 40 Fridge/Freezer (Portrait)"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电器", "便携冰箱"]
+    design_language:
+      silhouette: "近正方体箱型，比Alta 50更高更紧凑，顶部圆弧形一体提手"
+      light_opening: "无"
+      thermal: "侧面格栅散热，内置压缩机"
+      cmf:
+        color: "拉丝银（铝合金侧板）+ 哑光黑（顶盖/提手）+ 荧光黄绿（控制按键/温度数字）"
+        material: "铝合金侧板 + ABS顶盖提手 + 聚氨酯保温层"
+        finish: "铝拉丝 + 塑料哑面"
+      mounting: "顶部圆弧形一体提手，单手提携"
+      signature_detail: "顶部圆弧形一体提手与铝侧板构成强功能语言，前面板集成小型数字温控显示屏"
+    design_level:
+      score: 4
+      reason: "圆弧提手设计呼应Yeti 300电站的提手语言，品牌家族感强；正面温控显示直观，整体比例协调"
+    design_tags: ["便携冰箱", "圆弧提手", "铝合金", "温控显示", "紧凑方形"]
+    hero_feature: "顶部圆弧形一体提手从铝侧板延伸而出，与Yeti系列电站形成家族呼应"
+    problem_solved: "需要更紧凑竖向形态便携冰箱，可单手提携，适合车载和小空间场景"
+    transferable_technique: "家族化提手设计语言——同一圆弧提手形态跨品类复用，强化品牌产品生态识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_appliance_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外电器/03.jpg"
+        image_role: "ecosystem"
+        visual_anchor: "Alta冰箱放置于Yeti 1500储能电站上方，展示完整户外电力+制冷生态系统"
+    product_name: "Goal Zero Alta + Yeti 1500 Ecosystem"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电器", "生态套装"]
+    design_language:
+      silhouette: "冰箱与电站叠放组合，整体轮廓为上小下大的稳定塔形"
+      light_opening: "无"
+      thermal: "下方电站提供电力，上方冰箱独立散热"
+      cmf:
+        color: "统一拉丝银铝合金外壳 + 哑光黑顶盖/边框，两件产品视觉完全融合"
+        material: "铝合金 + ABS"
+        finish: "铝拉丝统一"
+      mounting: "冰箱叠放于电站顶部，设计上高度匹配"
+      signature_detail: "两件产品材质语言完全统一，叠放后视觉融为一体，形成户外电力生态站概念"
+    design_level:
+      score: 5
+      reason: "生态系统整合概念极强，两件产品叠放后视觉完全统一，是Goal Zero品牌户外生态化战略的典型体现"
+    design_tags: ["生态套装", "电源+冰箱", "叠放组合", "统一设计语言", "户外生态站"]
+    hero_feature: "Alta冰箱与Yeti电站叠放后材质语言完全统一，形成视觉一体的户外电力生态站"
+    problem_solved: "户外营地需要整合制冷与供电的完整解决方案，而非分散的独立设备"
+    transferable_technique: "生态系统叠放设计——产品间物理尺寸和视觉语言双重匹配，叠放即成系统，可迁移至家电/工具生态设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_appliance_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外电器/04.jpg"
+        image_role: "ecosystem"
+        visual_anchor: "Alta冰箱+Yeti 1500组合另一视角，侧面格栅散热孔与电站侧面铝板同框展示"
+    product_name: "Goal Zero Alta + Yeti 1500 Ecosystem (Side View)"
+    brand_name: "Goal Zero"
+    brand_confidence: "high"
+    category_path: ["户外装备", "户外电器", "生态套装"]
+    design_language:
+      silhouette: "侧视角展示叠放组合侧面轮廓，冰箱侧面格栅与电站侧面铝板形成对比"
+      light_opening: "无"
+      thermal: "侧面格栅散热明显，冰箱压缩机散热需求"
+      cmf:
+        color: "拉丝银统一，侧面格栅区为黑色ABS"
+        material: "铝合金 + ABS格栅"
+        finish: "铝拉丝 + 格栅哑面"
+      mounting: "侧视展示，叠放组合结构"
+      signature_detail: "侧面格栅散热区域设计与品牌其他产品散热语言保持一致，整体侧面轮廓干净"
+    design_level:
+      score: 3
+      reason: "侧视图补充了散热结构细节，与03.jpg为同一生态组合不同角度，单独评分参考价值"
+    design_tags: ["生态套装", "侧视角", "格栅散热", "叠放组合"]
+    hero_feature: "侧面格栅散热区域与铝合金侧板的材质对比细节"
+    problem_solved: "补充生态套装侧面散热细节的参考视角"
+    transferable_technique: "格栅散热区域分区处理——将散热区用材质差异与主体区分，功能与美学兼顾"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "goal_zero_appliance_005"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/户外电器/08.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形吊灯/营地灯，细金属框架，球形灯罩，顶部悬挂链"
+    product_name: "Goal Zero Torch Pendant Light"
+    brand_name: "Goal Zero"
+    brand_confidence: "medium"
+    category_path: ["户外装备", "户外灯", "吊灯/营地灯"]
+    design_language:
+      silhouette: "球形或圆形灯笼轮廓，细金属支架框架，顶部悬挂链"
+      light_opening: "全球面漫射发光，360度出光"
+      thermal: "开放框架结构自然散热"
+      cmf:
+        color: "黑色（金属框架）+ 暖白（发光体）"
+        material: "金属框架 + LED发光体"
+        finish: "哑光黑金属 + 漫射白光"
+      mounting: "顶部悬挂链，用于帐篷内或树间悬挂"
+      signature_detail: "细金属线框构成球形骨架，发光体悬于框架中央，有设计感的营地氛围灯"
+    design_level:
+      score: 3
+      reason: "线框球形结构有良好的氛围感，金属工艺精致，但产品分类归属需确认"
+    design_tags: ["吊灯", "球形灯", "营地氛围灯", "金属线框", "悬挂灯"]
+    hero_feature: "细金属线框球形骨架结构，发光体悬于中央，兼具功能照明和氛围感"
+    problem_solved: "营地帐篷内需要有氛围感的悬挂照明，区别于纯功能性营地灯"
+    transferable_technique: "线框球形骨架灯具——开放框架最小化材料用量同时创造体积感，可迁移至户外氛围灯设计"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "medium"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "外观为吊灯/营地灯，疑似误放入户外电器文件夹，建议确认是否应归入户外灯分类"

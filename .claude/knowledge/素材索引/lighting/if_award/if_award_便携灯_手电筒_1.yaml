@@ -1,0 +1,663 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "便携灯"
+  tertiary: "手电筒"
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/"
+  generated_at: "2026-05-09"
+products:
+  - product_id: "if_便携灯_手电筒_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/01.jpg"
+        image_role: "hero"
+        visual_anchor: "斜侧面全景，清晰呈现红色accent圆环与菱形滚花纹路"
+    product_name: "TAC6R"
+    brand_name: "Ledlenser"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "经典战术直筒型，头部略粗、尾部收细，整体比例约1:5（头径:长）"
+      light_opening: "spot（单颗LED+反射杯聚焦，强调远射）"
+      thermal: "头部铝合金散热体，无独立散热鳍片，依靠筒身导热"
+      cmf:
+        color: "全黑（哑光黑阳极氧化铝）+ 红色accent圆环（光圈处）"
+        material: "航空铝合金主体，尾部钢制弹簧夹"
+        finish: "哑光喷砂阳极氧化，菱形交叉滚花增加防滑"
+      mounting: "侧向钢制弹簧夹（可拆卸），无磁吸"
+      signature_detail: "红色激光警示三角贴纸+红色光圈分件线——战术识别语言"
+    design_level:
+      score: 4
+      reason: "战术风格高度统一，红色accent与哑黑对比克制有力；滚花密度与分件线处理精准；整体是职业级战术手电的教科书范本"
+    design_tags: ["战术风格", "单光斑聚焦", "红色accent分件线", "菱形滚花", "弹簧夹", "哑黑铝合金"]
+    hero_feature: "红色光圈accent圆环作为头部与筒身的分件线，兼具功能标识与视觉识别"
+    problem_solved: "专业战术场景需要远射聚焦光束，同时保持单手可操作的握持感"
+    transferable_technique: "红色accent圆环分件线——在黑色功能性产品上以单一高饱和色做分段节点，既分件又视觉聚焦"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_002"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/04.jpg"
+        image_role: "hero"
+        visual_anchor: "斜侧面全景，尾部RGB尾盖与红色光圈清晰可见"
+    product_name: "TAC7R"
+    brand_name: "Ledlenser"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "战术直筒型，比TAC6R更长（约1:6头径:长），尾部有RGB彩色尾盖模块"
+      light_opening: "spot（单颗聚焦LED，深反射杯）"
+      thermal: "铝合金头部一体散热，无鳍片"
+      cmf:
+        color: "全哑黑铝合金 + 红色光圈accent + 尾部RGB彩色指示灯"
+        material: "航空铝合金，尾盖RGB模块"
+        finish: "哑光阳极氧化，菱形交叉滚花"
+      mounting: "侧向钢制弹簧夹"
+      signature_detail: "尾部独立RGB彩色模块——可作信号灯/模式指示，战术+多功能叠加"
+    design_level:
+      score: 4
+      reason: "在TAC6R基础上增加RGB尾盖功能模块，战术语言延续同时功能维度扩展；尾部与主体的模块感处理干净"
+    design_tags: ["战术风格", "RGB尾盖", "模块化功能", "单光斑聚焦", "红色accent", "菱形滚花"]
+    hero_feature: "独立RGB彩色尾盖模块，在保持战术外观的同时增加信号/模式指示功能维度"
+    problem_solved: "战术人员需要在黑暗中快速识别设备状态或发送彩色信号，同时保持主灯强聚焦性能"
+    transferable_technique: "功能模块化尾盖——将附加功能（彩色指示/信号）集中在尾端独立模块，不破坏主体造型逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_003"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/06.jpg"
+        image_role: "hero"
+        visual_anchor: "两款侧面立姿对比，底座圆盘+锥形过渡+方柱筒身结构清晰"
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/07.jpg"
+        image_role: "detail"
+        visual_anchor: "斜前方视角，三镜阵列与红色accent圆环正面特写"
+    product_name: "P18R / P18R Signature"
+    brand_name: "Ledlenser"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "塔形立柱筒身+大口径圆形底座，底座内置充电触点，可独立竖立；头部直径远大于筒身形成反差比例"
+      light_opening: "spot（3颗独立反射杯LED阵列，专业远射级）"
+      thermal: "大面积头部铝合金散热体，三颗LED分散热负荷"
+      cmf:
+        color: "哑黑铝合金主体 + 红色accent圆环（头部分件线）+ P18R Signature版本深灰色筒身"
+        material: "航空铝合金，底座工程塑料充电底座"
+        finish: "细网格纹理滚花（筒身），哑光喷砂（头部）"
+      mounting: "充电底座（底部圆盘）+ 侧向小扳机式弹夹"
+      signature_detail: "三镜阵列正面布局——竖向三角排列的3颗反射杯形成独特的面孔识别"
+    design_level:
+      score: 5
+      reason: "塔形+底座的形态突破了传统手持手电的横向握持逻辑，成为可立式泛光/远射两用灯；三镜阵列形成极强的视觉记忆点；红色圆环延续品牌语法；整体是手电品类假设挑战的优秀案例"
+    design_tags: ["塔形立柱", "三镜阵列", "底座充电", "可立式", "红色accent", "大功率远射", "品类形态挑战"]
+    hero_feature: "塔形立柱+圆盘底座使产品可独立竖立充电，同时三镜阵列正面构成强烈面部识别符号"
+    problem_solved: "大功率手电既要强远射也需要稳定立放充电，传统横卧形态难以兼顾"
+    transferable_technique: "底座充电底盘设计——将充电功能集成在底座圆盘，产品可直立充电，形态逻辑与充电逻辑合一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_004"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/08.jpg"
+        image_role: "hero"
+        visual_anchor: "三款并排立姿，底部红色LED电量指示点排列醒目"
+    product_name: "P7R / P7R Signature / P7R Pro"
+    brand_name: "Ledlenser"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "修长直筒塔形，头尾同径或头部微大，底部扁圆尾盖；P7R Pro版有额外头部橡胶防护罩"
+      light_opening: "spot（单LED聚焦，Speed Focus拨钮在颈部）"
+      thermal: "铝合金头部，无显著鳍片"
+      cmf:
+        color: "P7R：细网格黑色；P7R Signature：光滑深灰；P7R Pro：粗滚花黑色+橡胶套"
+        material: "铝合金主体，P7R Pro加装橡胶防护套"
+        finish: "底部红色LED阵列（电量指示）为共同语言"
+      mounting: "底部磁吸充电触点，可竖立；无弹簧夹（P7R标准版）"
+      signature_detail: "底部一排红色LED电量指示灯——品牌家族统一语言，功能可视化"
+    design_level:
+      score: 4
+      reason: "三款形成清晰的家族梯度（标准/签名/专业），底部红色电量指示灯是强烈的品牌识别符号；Pro版橡胶套的添加在不破坏家族形态下完成了功能升级"
+    design_tags: ["家族系列", "底部电量指示灯", "红色LED阵列", "磁吸充电", "可立式", "速度聚焦拨钮"]
+    hero_feature: "底部一排红色LED电量指示灯，从侧面即可读取电量状态，形成强品牌记忆符号"
+    problem_solved: "用户在操作手电时难以快速判断剩余电量，底部可视化指示灯解决无需开盖即知电量的需求"
+    transferable_technique: "底部周向LED电量指示阵列——以小尺寸LED圆点在底部可见面集中显示状态信息，不占用操作面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_005"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/10.jpg"
+        image_role: "hero"
+        visual_anchor: "橙色+银灰两款对比，像素矩阵显示屏与旋钮头部清晰可见"
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/11.jpg"
+        image_role: "usage"
+        visual_anchor: "手握黑色版本，旋钮头部朝上，展示握持姿态与点亮状态"
+    product_name: "未知型号（像素显示EDC手电）"
+    brand_name: "未知品牌"
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "胶囊/椭圆竖立体型，上方独立旋钮头（LED+齿纹旋转圈），下方矩形体上嵌入像素LED矩阵显示面板"
+      light_opening: "spot（单颗小LED置于旋钮顶端，强聚焦）"
+      thermal: "小功率EDC，无显著散热需求"
+      cmf:
+        color: "橙色版（橙色金属主体）+ 银灰版（深灰金属主体），双色撞色对比强烈"
+        material: "金属主体（铝合金），旋钮齿纹金属"
+        finish: "光滑抛光金属面 + 齿纹旋转圈"
+      mounting: "无夹，造型偏收纳/展示导向"
+      signature_detail: "正面像素LED矩阵显示屏——可显示电量/模式/图案，是产品最强视觉记忆点"
+    design_level:
+      score: 5
+      reason: "像素矩阵显示面板引入手电品类是极强的品类假设挑战；旋钮头造型科技感强；双色撞色配色具有高辨识度；整体是手电品类中罕见的信息化显示+造型创新结合案例"
+    design_tags: ["像素矩阵显示", "旋钮式控制", "胶囊轮廓", "EDC微型", "撞色配色", "品类假设挑战", "信息可视化"]
+    hero_feature: "正面像素LED矩阵显示屏，在微型EDC上实现状态/信息的可视化交互，创造手电品类全新交互范式"
+    problem_solved: "EDC小手电缺乏直观的状态显示方式，像素矩阵屏提供远超单色LED的信息密度"
+    transferable_technique: "像素矩阵状态显示面板——将功能状态信息以可编程像素阵列显示，兼具功能性与个性化表达"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_006"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/12.jpg"
+        image_role: "hero"
+        visual_anchor: "两款并排斜侧面，大直径头部聚焦环与红色accent圆环对比"
+    product_name: "P5R / P5R Pro"
+    brand_name: "Ledlenser"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "中等直筒型，头部扩口明显（大反射杯），尾部有橡胶防护套（Pro版）；颈部有Focus推拉环"
+      light_opening: "spot（单LED+大直径反射杯，Focus推拉调焦）"
+      thermal: "铝合金头部，散热依靠筒身"
+      cmf:
+        color: "哑黑主体 + 红色accent圆环（头部分件线）"
+        material: "铝合金主体，Pro版尾部橡胶防护"
+        finish: "菱形滚花（筒身），头部哑光喷砂"
+      mounting: "侧向弹簧夹"
+      signature_detail: "颈部Focus推拉调焦环——实体机械调焦机构外显，功能结构即造型语言"
+    design_level:
+      score: 3
+      reason: "家族语言延续性强，红色accent圆环和菱形滚花是Ledlenser标志性元素；但整体相对常规，无显著突破"
+    design_tags: ["机械调焦环", "红色accent", "菱形滚花", "弹簧夹", "双款家族", "推拉调焦"]
+    hero_feature: "颈部机械推拉调焦环将聚焦操作外显为可见的实体结构，功能即形态"
+    problem_solved: "单手操作时需要快速切换泛光/聚焦模式，推拉调焦环提供直觉式操作"
+    transferable_technique: "颈部机械调焦环——将内部光学调节机构通过外部推拉环外显，形成可识别的功能造型节点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_007"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/14.jpg"
+        image_role: "hero"
+        visual_anchor: "斜侧面全景，8颗LED阵列头部与极简筒身构成强比例反差"
+    product_name: "8T"
+    brand_name: "Zweibrüder"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "经典直筒型，头部直径约为筒身1.5倍，无明显收腰；尾部精细滚花旋钮"
+      light_opening: "flood（8颗LED矩阵阵列，宽泛光）"
+      thermal: "铝合金头部，8颗LED分散热负荷"
+      cmf:
+        color: "全哑黑铝合金"
+        material: "铝合金主体"
+        finish: "斜纹滚花（头部与筒身交界），尾部精细直纹滚花"
+      mounting: "小型侧扣（颈部），无弹簧夹"
+      signature_detail: "8颗LED圆形阵列正面——视觉上形成强工业感的多点光源面孔"
+    design_level:
+      score: 3
+      reason: "8颗LED阵列的工业感有辨识度，但整体造型较为传统；材料和做工精准但无明显设计突破"
+    design_tags: ["8LED阵列", "泛光型", "工业风格", "哑黑铝合金", "多光源面孔"]
+    hero_feature: "8颗LED等间距圆形阵列形成强工业感的多点光源面孔，与单LED手电形成明显品类差异"
+    problem_solved: "需要宽范围工作照明而非远射点光源，8颗阵列提供均匀大面积泛光"
+    transferable_technique: "多LED对称阵列面孔——以等间距多点光源阵列替代单反射杯，形成独特的泛光手电面部识别符号"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_008"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/15.jpg"
+        image_role: "front"
+        visual_anchor: "正面仰视，1中心聚焦+4角泛光+红外中心点的混合阵列构成"
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/16.jpg"
+        image_role: "hero"
+        visual_anchor: "斜侧面，硅胶扩散环从头部分离展示可拆卸结构"
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/17.jpg"
+        image_role: "detail"
+        visual_anchor: "正面特写，7颗LED+红外混合阵列结构细节"
+    product_name: "19T"
+    brand_name: "Zweibrüder"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "粗壮直筒型，头部直径与筒身接近1.8:1，头部极大；侧部有小型作动按键"
+      light_opening: "dual（中心1颗聚焦spot + 周边多颗泛光flood，混合双模）"
+      thermal: "大铝合金头部散热，散热鳍片状结构在头肩部"
+      cmf:
+        color: "全哑黑铝合金"
+        material: "铝合金主体，硅胶可拆卸扩散环"
+        finish: "斜纹滚花（筒身），头部哑光喷砂"
+      mounting: "无弹簧夹，底部平面可立放"
+      signature_detail: "可拆卸硅胶扩散环（diffuser ring）——装上变柔性泛光，拆下变聚焦直射，一个零件切换两种光型"
+    design_level:
+      score: 5
+      reason: "可拆卸扩散环将一款产品变成两种光型切换，设计简洁但极具实用价值；混合LED阵列（spot+flood）+可拆扩散环实现三级光型控制；头部超大直径形成强视觉记忆点"
+    design_tags: ["可拆卸扩散环", "双模光型", "混合LED阵列", "硅胶附件", "超大头径", "模块化光控"]
+    hero_feature: "可拆卸硅胶扩散环——单一附件切换聚焦/泛光双模式，极简机械方案解决光型需求"
+    problem_solved: "用户在不同场景需要聚焦远射（探索）或柔性泛光（营地/工作），可拆扩散环免去携带两支手电"
+    transferable_technique: "可拆卸扩散/漫射附件环——在手电头部设计卡扣接口，配合硅胶扩散环实现光型快速切换，零件即功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_009"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/18.jpg"
+        image_role: "hero"
+        visual_anchor: "斜侧面展开状态，X形双翼COB面板展开并发光"
+    product_name: "Wurkkos 折叠翼工作灯手电"
+    brand_name: "Wurkkos"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "中心主体为战术矩形筒身（蓝色），两侧各有一块可折叠COB矩形翼面板，展开呈X/T形"
+      light_opening: "flood（双侧COB面板宽泛光，无聚焦功能）"
+      thermal: "铝合金主体，COB面板铝基板散热"
+      cmf:
+        color: "湛蓝色铝合金主体（品牌标志色）+ 黑色塑料折叠铰链"
+        material: "铝合金主体，COB铝基板面板，塑料铰链"
+        finish: "阳极氧化蓝色，主体正面有X形装饰槽"
+      mounting: "底部磁吸底座"
+      signature_detail: "双侧可折叠COB泛光翼面板——主体可作单向手电，展开双翼变全向泛光工作灯"
+    design_level:
+      score: 4
+      reason: "折叠翼结构将手电和工作灯两种使用场景整合，形态语言强烈；蓝色主体品牌辨识度高；X形展开后视觉冲击力强"
+    design_tags: ["折叠翼COB", "双模式", "工作灯+手电", "蓝色铝合金", "磁吸底座", "X形展开", "多用途"]
+    hero_feature: "两侧可折叠COB翼面板，收纳时是手电，展开后是X形工作灯，一体两用无需附件"
+    problem_solved: "户外/工作场景需要既能手持远照又能立放大面积泛光，折叠翼结构在单一产品实现双需求"
+    transferable_technique: "可折叠COB翼面板——在主体侧面铰接COB泛光板，折叠不增体积，展开即增功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_010"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/19.jpg"
+        image_role: "hero"
+        visual_anchor: "产品结构图解+使用场景示意，清晰展示磁铁+绳子发电原理"
+    product_name: "磁力旋转发电管状灯（概念设计）"
+    brand_name: "学生/概念设计"
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "细长管状体，两端黄色磁力握环，中部透明塑料管包裹发光体，一端有绳索"
+      light_opening: "flood（管状全向泛光，透明管体360度出光）"
+      thermal: "低功率概念设计，无散热需求"
+      cmf:
+        color: "透明塑料管 + 黄色磁性接环（两端）+ 灰色金属发电组件"
+        material: "透明聚碳酸酯管，磁铁，微型发电机"
+        finish: "简洁工业感，以功能构件直接暴露为美学语言"
+      mounting: "两端磁力吸附可连接多段；绳索悬挂"
+      signature_detail: "绳索旋转发电机构——旋转绳索带动内部磁铁发电，零电池设计"
+    design_level:
+      score: 3
+      reason: "创新概念有价值（无源发电+磁吸拼接），但图解风格为概念稿，细节完成度有限；磁吸拼接思路有实际迁移价值"
+    design_tags: ["发电概念", "磁力拼接", "透明管体", "无电池", "全向泛光", "概念设计", "绳索发电"]
+    hero_feature: "绳索旋转发电+磁力端帽拼接，实现无需电池的自发电便携照明，并可多段拼接延长"
+    problem_solved: "无电源环境下的应急照明需求，以物理旋转发电完全消除对电池的依赖"
+    transferable_technique: "磁力端帽模块化拼接——产品两端设计磁力接口，实现多个单元磁吸拼接，扩展长度和亮度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_011"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/20.jpg"
+        image_role: "hero"
+        visual_anchor: "白色手持展示L形整体轮廓，橙色头帽与白色扁平筒身的比例关系"
+    product_name: "amo（L形极简手电）"
+    brand_name: "amo"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "L形右角结构：细长扁平白色筒身（握柄）+ 直角转折橙色方形头帽，整体接近文具/指示棒比例"
+      light_opening: "spot（单LED置于橙色头帽端面）"
+      thermal: "低功率EDC，无显著散热"
+      cmf:
+        color: "白色扁平筒身 + 橙色方形头帽，对比鲜明"
+        material: "工程塑料或铝合金（待确认）"
+        finish: "哑光白色主体，哑光橙色头帽"
+      mounting: "尾端橙色小扁夹"
+      signature_detail: "L形直角转折造型——头部灯光方向与握持方向垂直，类似手术刀/笔形灯逻辑"
+    design_level:
+      score: 4
+      reason: "L形极简造型在手电品类中高度差异化；白+橙双色语言简洁有力；文具化比例感打破传统手电的工具感，更接近生活美学产品"
+    design_tags: ["L形转角", "极简设计", "双色撞色", "文具化比例", "生活美学", "EDC", "右角结构"]
+    hero_feature: "L形直角转折造型，将灯头与握柄设计为正交关系，脱离传统手电直筒逻辑，形成强记忆点轮廓"
+    problem_solved: "日常EDC需要轻便不突兀的随身照明，L形文具感降低心理携带门槛"
+    transferable_technique: "L形正交分体造型——将功能头部与握柄设计为90度正交，既改变使用姿势又创造全新轮廓语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_012"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/21.jpg"
+        image_role: "hero"
+        visual_anchor: "头部特写，透明玻璃管内光纤导光柱+哑黑底座+电源按键"
+    product_name: "透明光纤导光柱手电（1000lm）"
+    brand_name: "未知品牌"
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "竖立短柱形，上部透明玻璃圆管（包含喇叭形光纤导光结构），下部哑黑金属底座（含电源按键）"
+      light_opening: "flood（光纤导光柱360度全向柔光扩散，无方向性聚焦）"
+      thermal: "底部金属底座散热，LED置于底部"
+      cmf:
+        color: "透明玻璃管 + 深灰/黑色金属底座"
+        material: "高透光玻璃或亚克力管，金属底座"
+        finish: "光滑透明，光纤形成细密线条纹理"
+      mounting: "底部平面，可立放"
+      signature_detail: "内置喇叭形光纤导光结构——纤维束从底部LED向上发散再弯折，形成发光的艺术造型"
+    design_level:
+      score: 5
+      reason: "将光纤导光艺术化处理引入手电品类是极强的设计创新；透明玻璃管展示内部结构美学；喇叭形光纤束形成完全不同于传统手电的视觉语言；已接近灯具美学与手电功能的融合"
+    design_tags: ["光纤导光", "透明玻璃管", "全向柔光", "艺术化结构", "品类跨界", "内部结构外显", "1000lm"]
+    hero_feature: "透明玻璃管内可见的喇叭形光纤导光束，将内部功能结构转化为艺术装置级视觉语言"
+    problem_solved: "需要柔性全向泛光而非强方向性光束，光纤导光实现均匀散射，同时产品本身即具观赏价值"
+    transferable_technique: "功能结构艺术化外显——将光纤/导光等内部功能结构包裹在透明管体中暴露给用户，功能即美学"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_013"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/22.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色+钛灰两款对比，双LED头部与侧向按键整合夹的结构清晰"
+    product_name: "Nitecore TIKI系列（双款EDC）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "小型圆柱形EDC，头部略大于筒身，一体化侧向按键+弹簧夹整合在同一面"
+      light_opening: "spot（双颗黄白LED，集成式小反射杯）"
+      thermal: "低功率EDC，无独立散热"
+      cmf:
+        color: "黑色版（全黑）+ 钛灰版（半透明磨砂灰塑料）"
+        material: "铝合金或高强度工程塑料"
+        finish: "黑色哑光，钛灰半透明磨砂"
+      mounting: "一体化弹簧夹（与侧向按键集成在同侧面）"
+      signature_detail: "双LED（冷白+黄白）双光源切换，兼顾高显色与高亮度"
+    design_level:
+      score: 3
+      reason: "双款配色系列化清晰；双LED配置实用；但整体造型较为常规，无强视觉突破点"
+    design_tags: ["EDC微型", "双LED光源", "一体弹簧夹", "双配色系列", "小型圆柱"]
+    hero_feature: "双颗LED（冷暖双色）集成于超小型筒身，兼顾高显色日光色和高亮度白光两种需求"
+    problem_solved: "EDC随身照明需要在极小体积内提供两种不同色温的光，双LED实现单品多用途"
+    transferable_technique: "双LED双色温集成——在小型灯头中集成冷暖两颗LED并排，通过按键切换，单体实现双功能场景覆盖"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_014"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/23.jpg"
+        image_role: "hero"
+        visual_anchor: "斜侧面全景，OD绿扁平筒身与双LED方形头部、旋钮按键的比例关系"
+    product_name: "Arkfield Ultra"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "扁平长条形（接近卡片/U盘比例），头部方形双LED出光口，顶面圆形旋钮按键，尾端整合弹簧夹"
+      light_opening: "flood（双LED宽角出光，头部方形扩散开口）"
+      thermal: "铝合金扁平体，靠表面积散热"
+      cmf:
+        color: "OD绿（橄榄绿阳极氧化铝）+ 黑色头帽和按键"
+        material: "铝合金主体"
+        finish: "横向细线纹理（增加防滑），哑光阳极氧化"
+      mounting: "尾端整合弹簧夹（薄型，与主体同厚）"
+      signature_detail: "极薄卡片式扁平造型+OD绿配色——完全颠覆手电筒圆柱形印象，像一枚军用U盘"
+    design_level:
+      score: 5
+      reason: "扁平卡片形态是手电品类的极强形态挑战；OD绿配色与军用EDC语境完美契合；顶面旋钮按键设计新颖；整体是品类形态假设挑战的优秀案例"
+    design_tags: ["扁平卡片形", "OD绿", "品类形态挑战", "双LED泛光", "旋钮控制", "薄型弹簧夹", "军用EDC"]
+    hero_feature: "卡片式扁平铝合金造型彻底颠覆手电圆柱传统，OD绿配色强化军用EDC身份定位"
+    problem_solved: "圆柱形手电在口袋中会滚动且占用较厚空间，扁平卡片形解决贴身携带舒适性和稳定性"
+    transferable_technique: "扁平卡片化手电形态——以手机厚度逻辑重新设计手电，替代圆柱截面为矩形截面，改变口袋携带逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_015"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/24.jpg"
+        image_role: "hero"
+        visual_anchor: "正面竖立视角，蓝色accent圆环按键与密集箭头形锯齿滚花全景"
+    product_name: "Baton系列（Olight短粗EDC）"
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "短粗圆柱形（高径比约3:1），头部与筒身同径；极短款EDC，无弹簧夹"
+      light_opening: "spot（单LED，小型聚焦反射杯）"
+      thermal: "铝合金全身导热，无鳍片"
+      cmf:
+        color: "全哑黑铝合金 + 蓝色accent圆环（侧向按键圆圈）"
+        material: "铝合金主体"
+        finish: "密集箭头形锯齿滚花（全身），蓝色阳极氧化按键圆环"
+      mounting: "无弹簧夹，纯手持"
+      signature_detail: "蓝色圆形按键圆环——将侧向开关做成发光蓝圈，功能与品牌识别合一（Olight品牌色）"
+    design_level:
+      score: 4
+      reason: "蓝色圆环侧键是Olight的强品牌语法，短粗比例增加握持感；箭头形锯齿滚花密度极高，触觉与视觉都极具辨识度"
+    design_tags: ["蓝色accent圆环", "短粗圆柱", "箭头锯齿滚花", "侧向圆形按键", "Olight品牌语法", "EDC"]
+    hero_feature: "蓝色发光圆环侧向按键，将开关功能转化为品牌标志性符号，兼顾操作识别与品牌表达"
+    problem_solved: "小型EDC需要在黑暗中快速找到开关，发光蓝圈提供直观位置指示"
+    transferable_technique: "发光圆环功能键——将侧向按键设计为发光彩色圆环形态，使操作点在暗处可见且形成品牌记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_016"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/26.jpg"
+        image_role: "hero"
+        visual_anchor: "打火机形充电盒翻盖开启，小手电嵌入其中，Wireless Charger字样清晰"
+      - filename: "27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/27.jpg"
+        image_role: "detail"
+        visual_anchor: "充电盒+USB-C连接线组合，展示充电状态"
+    product_name: "Olight 无线充电盒套装（小型手电+打火机形无线充电仓）"
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "手电本体为超微型圆柱（含蓝色旋钮头）；充电盒为打火机/AirPods耳机盒形态，翻盖开启，手电嵌入仓内无线充电"
+      light_opening: "spot（微型单LED，方向性点光源）"
+      thermal: "超低功率，无散热需求"
+      cmf:
+        color: "充电盒：全哑黑（ABS+铝合金混用）；手电本体：哑黑+蓝色accent旋钮"
+        material: "充电盒工程塑料/铝合金，手电铝合金"
+        finish: "充电盒哑光黑，手电蓝色阳极氧化旋钮"
+      mounting: "充电盒内磁吸定位+无线充电线圈；手电无外夹"
+      signature_detail: "打火机形无线充电盒——借用AirPods逻辑，手电随身携带时一直在充电盒中充电"
+    design_level:
+      score: 5
+      reason: "将AirPods充电盒概念迁移到手电品类是极强的品类跨界创新；解决了微型手电电量焦虑问题；打火机形态亲切易理解；无线充电+磁吸定位的系统设计完整"
+    design_tags: ["无线充电盒", "打火机形态", "品类跨界迁移", "磁吸定位", "AirPods逻辑", "系统化设计", "超微型EDC"]
+    hero_feature: "打火机形无线充电仓，手电不用时自动在随身携带的仓中无线充电，根治微型手电电量焦虑"
+    problem_solved: "微型EDC手电电池容量极小，经常面临没电窘境；充电仓系统让手电随时处于满电状态"
+    transferable_technique: "随身充电仓系统——为微型便携设备设计专属随身充电盒，仓即充电器，解决用户忘记充电的根本问题"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_017"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/28.jpg"
+        image_role: "hero"
+        visual_anchor: "正面竖立，蓝色宽边accent圆环+侧旋钮+USB-C口的头颈部组合"
+      - filename: "29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/29.jpg"
+        image_role: "detail"
+        visual_anchor: "斜侧面，5颗LED阵列与蓝色宽圆环+钻石滚花全身纹理"
+    product_name: "Marauder Mini"
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "中等直筒型，头部直径约筒身1.4倍；头肩部蓝色宽accent圆环极为醒目；全身钻石菱形凸点滚花"
+      light_opening: "flood（5颗LED宽角阵列，无聚焦模式）"
+      thermal: "铝合金大头部散热，5颗LED分散热"
+      cmf:
+        color: "全哑黑铝合金 + 蓝色宽accent圆环（头肩分件线）"
+        material: "铝合金主体"
+        finish: "全身钻石凸点菱形滚花（极高密度），哑黑阳极氧化"
+      mounting: "侧向旋钮（模式选择）+ 侧面USB-C充电口直接外露"
+      signature_detail: "蓝色宽圆环accent+全身超密钻石凸点滚花——双重强视觉/触觉语言叠加"
+    design_level:
+      score: 4
+      reason: "蓝色宽环accent是Olight Marauder系列标志性设计语言；全身钻石滚花密度和立体感极强；5LED阵列泛光型在大功率手电中是差异化定位；整体视觉密度高，形成强烈个性"
+    design_tags: ["蓝色宽accent圆环", "5LED泛光阵列", "钻石凸点滚花", "USB-C直接充电", "大功率泛光", "Olight品牌语法"]
+    hero_feature: "蓝色超宽accent圆环将头部与筒身的分件线放大为视觉主角，配合全身钻石凸点滚花形成高辨识度触视觉语言"
+    problem_solved: "大功率泛光手电需要在保持便携的前提下提供类似工作灯的宽广照明面积，5LED阵列实现无需另配工作灯"
+    transferable_technique: "超宽色环分件线——将头肩部分件线宽度放大至视觉主导地位（非细线而是宽带），彩色处理后成为最强视觉记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_018"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/03.jpg"
+        image_role: "hero"
+        visual_anchor: "正面竖立，蓝色accent圆环+COB环形面板+菱形滚花全景"
+    product_name: "Olight Perun Mini系列（直角式多功能EDC）"
+    brand_name: "Olight"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "短粗方头型（接近正方形截面），头部直角向上（右角式），头顶COB圆形面板+中心LED；筒身菱形交叉滚花"
+      light_opening: "dual（头顶COB泛光flood + 中心聚焦spot，双模式）"
+      thermal: "铝合金主体，头部散热"
+      cmf:
+        color: "哑黑铝合金主体 + 蓝色accent圆环（头部）"
+        material: "铝合金主体"
+        finish: "菱形交叉滚花（筒身），哑黑阳极氧化"
+      mounting: "底部磁吸（可立放），侧面弹簧夹（可做头灯夹扣）"
+      signature_detail: "头顶COB环形泛光+中心聚焦双模——一颗灯实现头灯泛光和手电聚焦两种使用场景"
+    design_level:
+      score: 4
+      reason: "双模式光输出（COB泛光+聚焦spot）在单一产品实现多场景覆盖；蓝色accent圆环延续Olight家族语言；右角结构适配头灯夹扣使用，系统思维完整"
+    design_tags: ["双模式光输出", "COB+spot集成", "蓝色accent", "直角式", "磁吸底座", "头灯兼容", "多场景"]
+    hero_feature: "头顶COB环形泛光+中心LED聚焦双模，单一产品切换宽泛光工作灯与聚焦手电两种光型"
+    problem_solved: "用户携带EDC时希望单品覆盖近距离工作泛光和远距离聚焦照明两种场景，双模光输出实现"
+    transferable_technique: "COB环形+中心LED同轴双模设计——在同一出光面同轴集成COB环形泛光与中心聚焦LED，通过切换实现双模光型"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

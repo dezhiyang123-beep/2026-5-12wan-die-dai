@@ -1,0 +1,318 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电钻"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电钻/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_电钻_001"
+    source_images:
+      - filename: "电钻__取芯钻__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电钻/电钻__取芯钻__01.jpg"
+        image_role: "hero"
+        visual_anchor: "POWERSHIFT+金刚石取芯钻立式套装：黄色钻机头（DEWALT标签）+银色铝合金竖向导轨+黑色POWERSHIFT+轮式底座（黄色橡胶轮），右侧2块POWERSHIFT+电池+充电/搬运模块"
+    product_name: "DeWalt POWERSHIFT+ Cordless Diamond Core Drill (Stand-Mounted)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "金刚石取芯钻"
+    design_language:
+      silhouette: "立式钻床形态：黄色钻机头沿银色铝轨垂直上下滑动，黑色L形底座（含POWERSHIFT+电池区+前轮+固定支腿），整体高度约1.2m，钻头在底部朝下"
+      light_opening: "N/A（电动工具）"
+      thermal: "钻机头两侧散热格栅，铝合金导轨兼导热"
+      cmf:
+        color: "黄色（钻机头）+ 银色（铝合金立柱/导轨）+ 黑色（底座+POWERSHIFT+组件）"
+        material: "铸铝导轨，工程塑料钻头壳，钢质底座，橡胶轮"
+        finish: "哑光黄注塑，银色阳极铝，黑色粉末涂层底座"
+      mounting: "地面固定放置，前轮便于移动；POWERSHIFT+大容量电池侧插底座"
+      signature_detail: "银色阳极铝导轨从黑色底座垂直延伸——精密机床感，与工具黄黑CMF形成三色组合（黄+黑+银），银色轨道是精密性的材质信号"
+    design_level:
+      score: 4
+      reason: "POWERSHIFT+无绳金刚石取芯钻立式钻床是品类中的技术顶点，银色铝导轨+黄黑CMF的三色组合在工程设备中视觉独特，带轮底座使大型专业设备具有移动性"
+    design_tags:
+      - "POWERSHIFT+"
+      - "取芯钻"
+      - "立式钻床"
+      - "H11_功能外显"
+    hero_feature: "银色铝合金精密导轨从黑色底座垂直升起，精密机床感与工地黄黑CMF的三色对比"
+    problem_solved: "混凝土/砌体无绳金刚石取芯（排水/管道穿孔），POWERSHIFT+大容量免除电缆限制"
+    transferable_technique: "铝合金导轨在黄黑工具CMF中引入银色精密材质码，三色分区（黑=结构，银=精密，黄=动力）建立功能分区视觉语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电钻_002"
+    source_images:
+      - filename: "电钻__取芯钻__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电钻/电钻__取芯钻__02.jpg"
+        image_role: "hero"
+        visual_anchor: "60V FLEXVOLT无刷金刚石取芯钻手持套装：黄色主机体（DEWALT+BRUSHLESS+60V+3档深度设置标尺），黑色大型减速箱，底部弯管水冷接头，黑色长杆辅助把手；配套2块FLEXVOLT 15Ah超大电池+12A快充"
+    product_name: "DeWalt 60V MAX FLEXVOLT Brushless Diamond Core Drill"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "金刚石取芯钻"
+    design_language:
+      silhouette: "横卧T形：黄色矩形机体（后部电机区）+黑色大圆形减速箱（前部），底部引出L形水冷软管，长黑色辅助把手从机体侧面向外延伸约300mm（类似角磨机辅助把手位置）"
+      light_opening: "N/A（电动工具）；前端钻孔即功能开口"
+      thermal: "机体腰部散热格栅，水冷系统主导散热（水冷软管接头可见）"
+      cmf:
+        color: "黄色（机体）+ 黑色（减速箱+辅助把手+水冷管）+ 银色（钻头接口金属件）"
+        material: "工程塑料机体，铸铁减速箱，橡胶软管，金刚石钻头接口"
+        finish: "哑光黄，哑光黑铸铁"
+      mounting: "FLEXVOLT 15Ah后端插入，可配立式支架使用，也可手持"
+      signature_detail: "正面机体的3档深度刻度标尺（6-3/8\"/3\"/1-1/2\"）直接印刻于黄色机壳，功能参数即外观信息"
+    design_level:
+      score: 4
+      reason: "FLEXVOLT 60V无绳金刚石取芯钻是品类顶点，3档深度刻度标尺外显于机壳是独特的信息设计，水冷管接头是专业功能的外显结构特征"
+    design_tags:
+      - "FLEXVOLT"
+      - "60V"
+      - "金刚石取芯"
+      - "水冷"
+      - "H11_功能外显"
+    hero_feature: "机壳印刻3档深度刻度标尺+水冷软管接头——专业功能参数直接外显于产品表面"
+    problem_solved: "混凝土无绳湿式取芯，60V大功率+水冷延长刀片寿命，FLEXVOLT 15Ah支持持续作业"
+    transferable_technique: "专业工具的技术参数（深度档位）刻印于机壳可读位置，使产品本身即操作说明（H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电钻_003"
+    source_images:
+      - filename: "电钻__电动螺丝刀__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电钻/电钻__电动螺丝刀__05.jpg"
+        image_role: "hero"
+        visual_anchor: "12V MAX无刷紧凑冲击驱动器，黄黑枪形，黑色握把（BRUSHLESS竖向文字），黄色机头区（DEWALT+12V MAX+BRUSHLESS标签），银灰色扭矩环（MAX刻度，可调级数），银色镀铬皮带钩（DEWALT字样），顶部绿色LED灯"
+    product_name: "DeWalt 12V MAX Brushless Compact Impact Driver (ATSM)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "冲击驱动器"
+    design_language:
+      silhouette: "超紧凑枪形：机头直径比12V MAX标准款更细（约45mm），机身总长约130mm，底部镀铬皮带钩垂直伸出，整体轮廓极为紧凑"
+      light_opening: "N/A（电动工具）；顶部LED工作灯"
+      thermal: "机头两侧散热槽，12V小电流散热需求低"
+      cmf:
+        color: "黑色（握把+背部）+ 黄色（机头面板）+ 银灰色（扭矩环）+ 银色镀铬（皮带钩）"
+        material: "工程塑料机体，铸铝扭矩环，不锈钢皮带钩"
+        finish: "哑光黑橡胶，哑光黄注塑，银灰色阳极铝扭矩环，镀铬皮带钩"
+      mounting: "12V MAX紧凑电池底部插入；皮带钩可左右换装"
+      signature_detail: "银色镀铬皮带钩从底部伸出——精致消费品感的材质（镀铬）出现在工具底部，提升品类感知层次；扭矩调节环的银灰色在黄黑中形成精密感"
+    design_level:
+      score: 4
+      reason: "12V超紧凑尺寸+镀铬皮带钩+银灰扭矩环的CMF组合在DeWalt工具家族中呈现更精致的消费品质感，面向装修/轻型场景的审美诉求，紧凑形态在狭小空间操作有明确优势"
+    design_tags:
+      - "12V MAX"
+      - "紧凑"
+      - "无刷"
+      - "H07_极简整合"
+      - "H10_材料表达"
+    hero_feature: "镀铬皮带钩+银灰扭矩环在黄黑工具上引入精致消费品材质语言，工具感与精品感并存"
+    problem_solved: "狭小空间螺丝驱动（橱柜/家具组装），12V紧凑体量减少手腕疲劳，皮带钩便于挂腰"
+    transferable_technique: "在工具CMF中引入消费品材质（镀铬/阳极铝）局部点缀，提升感知品质而不破坏工业工具整体语言（H10）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电钻_004"
+    source_images:
+      - filename: "电钻__磁座钻__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电钻/电钻__磁座钻__01.jpg"
+        image_role: "scene"
+        visual_anchor: "20V XR无刷磁座钻套装，含黑色硬壳箱+2块FLEXVOLT 9Ah+8A快充；磁座钻裸机：黄色小方形电机体（DEWALT 20V XR+PERFORM-PROTECT红标+5档速度拨盘）+银色Weldon钻夹头+白色水冷收集环+灰色C形磁座（BRUSHLESS字样）+黑色弓形顶提手"
+      - filename: "电钻__磁座钻__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电钻/电钻__磁座钻__02.jpg"
+        image_role: "hero"
+        visual_anchor: "同款裸机正面详视：黄色电机体（速度1-5刻度可见，PERFORM-PROTECT红徽章），银色大齿轮/Weldon环形夹头，白色冷却液收集圈，灰色C形磁座右侧黄色面板（BRUSHLESS+操作手柄），红色磁铁激活LED，黑色弓形顶提手"
+    product_name: "DeWalt 20V MAX XR Brushless Cordless Magnetic Drill Press"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "磁座钻"
+    design_language:
+      silhouette: "C形侧视剪影：顶弓形提手+竖向电机柱+底磁座平台，电机在C形开口内可沿导柱升降，整体结构感强，类似小型台钻"
+      light_opening: "N/A（电动工具）；红色磁铁激活指示LED在底座上"
+      thermal: "电机体侧散热格栅，冷却液收集环（湿式钻孔时导走热量）"
+      cmf:
+        color: "黄色（电机体+C形臂黄色面板）+ 灰色（C形磁座主体）+ 银色（Weldon夹头+齿轮）+ 白色（冷却液收集环）"
+        material: "工程塑料电机壳，灰色铸铁磁座，银色合金夹头，橡胶冷却环"
+        finish: "哑光黄，铸铁灰色，银色抛光合金"
+      mounting: "电磁铁底座吸附金属表面（钢梁/钢板），红色LED指示磁铁激活；20V XR电池背面插入"
+      signature_detail: "PERFORM-PROTECT红色徽章在黄色机头正面——在DeWalt工具家族中，红色徽章专门用于有安全保护电路的工具，是品类内的红色信号码"
+    design_level:
+      score: 4
+      reason: "20V无绳磁座钻是品类中的无绳先驱，C形磁座+弓形提手的三色（黄+灰+银）组合视觉丰富；PERFORM-PROTECT红色徽章在黄黑CMF中形成独特的安全功能视觉信号"
+    design_tags:
+      - "20V XR"
+      - "磁座钻"
+      - "PERFORM-PROTECT"
+      - "无绳"
+      - "H11_功能外显"
+    hero_feature: "PERFORM-PROTECT红色徽章+磁座激活红色LED——在黄黑CMF中，红色专门作为安全/保护功能的颜色码"
+    problem_solved: "金属结构钢无绳钻孔（钢梁/钢柱），磁座吸附固定免去夹具，无绳免去延长线"
+    transferable_technique: "用红色作为安全保护功能的专属色码，在工具CMF的黄黑体系中建立第三色的语义专属性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电钻_005"
+    source_images:
+      - filename: "电钻__磁座钻__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电钻/电钻__磁座钻__03.jpg"
+        image_role: "scene"
+        visual_anchor: "有绳磁座钻套装：黄色电机+黑色C形底座+黑色控制盒（电源/过载/启动按钮）+T杆进给旋钮+弯曲冷却管；套装含黑色硬壳箱+冷却液瓶（DEWALT）+链条安全绳+T形工具+扳手"
+    product_name: "DeWalt Corded Magnetic Drill Press (with Safety Chain Kit)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "磁座钻"
+    design_language:
+      silhouette: "同C形侧视，但有绳版本无后部电池区，机身更细/更短，黑色控制盒侧挂在底座上，电源线从机头引出"
+      light_opening: "N/A（电动工具）"
+      thermal: "弯曲冷却管从顶盖导入冷却液"
+      cmf:
+        color: "黄色（电机体）+ 黑色（C形底座+控制盒+T杆把手）+ 银色（夹头金属件）"
+        material: "工程塑料，铸铁底座，铝合金控制盒，不锈钢安全链"
+        finish: "哑光黄，哑光黑，铸铁本色"
+      mounting: "电磁底座吸附；安全链固定于结构件防止掉落（高空必备）"
+      signature_detail: "配套安全链（不锈钢链条+挂扣）——高空钢结构作业必要的跌落防护，链条本身是工具可靠性的物质信号"
+    design_level:
+      score: 3
+      reason: "标准有绳磁座钻设计，控制盒整合了电源管理功能，安全链套件体现专业完整性，但形态无创新"
+    design_tags:
+      - "有绳"
+      - "磁座钻"
+      - "安全链"
+      - "H11_功能外显"
+    hero_feature: "不锈钢安全链套件——跌落防护配件以显眼银色金属链形态强调高空作业安全意识"
+    problem_solved: "高空/垂直面钢结构有绳磁座钻孔，安全链防止设备跌落，冷却液确保孔质量"
+    transferable_technique: "高空作业工具标配安全链配件，将安全功能设计为产品套装的可见组成部分"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电钻_006"
+    source_images:
+      - filename: "电钻__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电钻/电钻__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "60V FLEXVOLT无刷楞缝钻/重型桶钻裸机，黑色主体大型电机体（DEWALT+BRUSHLESS+60V标签），前端黑色大型减速齿轮箱，银色可调夹头，右侧黑色粗圆柱辅助把手（端部圆帽），底部FLEXVOLT电池接口（黄色边框），黄色局部面板区"
+      - filename: "电钻__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电钻/电钻__综合__02.jpg"
+        image_role: "scene"
+        visual_anchor: "同款60V含FLEXVOLT 6Ah电池+8A快充+黄色帆布工具袋，整套组合展示"
+    product_name: "DeWalt 60V MAX FLEXVOLT Brushless Stud & Joist Drill"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "大扭矩钻"
+    design_language:
+      silhouette: "超大体量横卧T形：黑色圆柱电机体（后部）+黑色大圆形减速箱（前部），右侧粗壮辅助圆柱把手几乎与机体等长，枪形握把在中部，整体体量远大于普通电钻（约为2倍）"
+      light_opening: "N/A（电动工具）"
+      thermal: "后部大型电机体两侧散热格栅（60V大功率），FLEXVOLT散热区"
+      cmf:
+        color: "黑色（主电机体+减速箱+辅助把手）+ 黄色（局部面板+FLEXVOLT接口边框）"
+        material: "工程塑料机体，铸铁减速箱，橡胶辅助把手"
+        finish: "哑光黑主体，哑光黄局部，哑光黑橡胶"
+      mounting: "FLEXVOLT电池从底端插入；可选装立柱支架"
+      signature_detail: "辅助把手的粗壮圆柱形（直径约40mm，比标准辅助把手粗50%）传达巨大反扭力——把手的物理尺寸是工具扭矩能力的直接外显"
+    design_level:
+      score: 4
+      reason: "60V FLEXVOLT无刷楞缝/大扭矩钻在无绳品类中属于体量顶端，黑色主导的巨型剪影（区别于20V系列黄主体）与超粗辅助把手共同传达高功率重工具的力量感"
+    design_tags:
+      - "FLEXVOLT"
+      - "60V"
+      - "大扭矩"
+      - "超粗辅助把手"
+      - "H12_人机界面强化"
+      - "H08_对比强调"
+    hero_feature: "超粗壮辅助圆柱把手——把手尺寸直接传达工具扭矩量级，功能感知与人机需求同步"
+    problem_solved: "重型楞缝钻孔（龙骨/椽子），60V FLEXVOLT无绳代替有绳混凝土钻，超大扭矩处理自锁情况"
+    transferable_technique: "把手粗细（直径）作为工具功率的视觉指标——粗把手=大扭矩=重型机器，形态即产品分级信号"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电钻_007"
+    source_images:
+      - filename: "电钻__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电钻/电钻__综合__03.jpg"
+        image_role: "hero"
+        visual_anchor: "有绳重型搅拌/楞缝钻，黄色桶形机体（DEWALT标签）+银色前齿轮盖，右侧黑色方形D形把手框架，枪形握把（黑色扳机），电源线从尾端引出，银色爪夹夹头，全机黄色比例较高（无大面积黑体）"
+    product_name: "DeWalt Corded Stud / Mixer Drill (Heavy Duty)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电钻"
+      - "有绳重型钻"
+    design_language:
+      silhouette: "横卧桶形机体（长圆柱体）+右侧方形D形提手框架（可360°旋转定位），枪形握把在机体中部偏后，前端伸出爪夹夹头，电源线从机尾拖出"
+      light_opening: "N/A（有绳电动工具）"
+      thermal: "顶部圆形进气格栅，机体腰部散热槽"
+      cmf:
+        color: "黄色（机体主壳）+ 黑色（D形框把手+枪形握把+进气格栅）+ 银色（齿轮前盖+夹头）"
+        material: "工程塑料机壳，铸铝齿轮盖，金属夹头，钢质D形框"
+        finish: "哑光黄，哑光黑，银色铸铝原色"
+      mounting: "地面/手持操作；D形方框把手可360°旋转适应搅拌/钻孔不同姿势"
+      signature_detail: "方形D形框把手（非圆弧，而是直角方框）——搅拌作业时可双手握持框架获得更大控制力，方框比圆弧握持更稳定"
+    design_level:
+      score: 3
+      reason: "标准有绳重型桶钻/搅拌钻设计，方形D框把手是功能性选择，全黄机体在有绳品类中识别度高，但无设计突破"
+    design_tags:
+      - "有绳"
+      - "重型钻"
+      - "D形框把手"
+      - "H12_人机界面强化"
+    hero_feature: "方形D框把手——双手握框的搅拌操作模式，把手形态直接传达用途"
+    problem_solved: "大扭矩有绳搅拌（混凝土/涂料）和重型钻孔，D框把手提供强力双手控制"
+    transferable_technique: "D形框把手从圆弧改为方框，双手包握更稳定——功能优化即形态优化（H12）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

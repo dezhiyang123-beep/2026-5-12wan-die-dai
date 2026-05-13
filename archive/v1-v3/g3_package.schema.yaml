@@ -1,0 +1,100 @@
+# g3_package.schema.yaml — G3关卡完整方案包（packager输出，G3用户决策输入）
+
+schema_version: "1.0"
+
+required:
+  project_id:
+    type: string
+  selected_concept_id:
+    type: string
+    description: 用户在G2选定的概念ID
+
+  prd:
+    type: object
+    description: 1页PRD
+    fields:
+      product_name: string
+      target_user: string
+      use_scenario: string
+      function_list:
+        type: list
+        description: 功能列表，每条含优先级P0/P1/P2
+      key_specs:
+        type: list
+        description: 关键规格，缺失标UNKNOWN
+      constraints:
+        type: list
+        description: 不可触碰约束（认证/价格/风格等）
+      validation_plan:
+        type: list
+        description: 验证计划，每条含验证方式+通过标准
+
+  manufacturability:
+    type: object
+    fields:
+      risk_categories:
+        type: list
+        description: 6类风险评估（结构/电气/可靠性/人因/成本/法规），每类含等级H/M/L
+      top10_risks:
+        type: list
+        description: Top10风险清单，每条含风险描述+缓解动作
+      bom_reduction_tree:
+        type: string
+        description: BOM降级策略树，说明如何降本而不影响核心卖点
+
+  cmf:
+    type: object
+    fields:
+      color:
+        type: object
+        fields:
+          pantone: string
+          ratio: string
+          tolerance: string
+          forbidden: list
+      material:
+        type: object
+        fields:
+          system: string
+          grade: string
+          touch_target: string
+          structure: string
+          cost_estimate: string
+      finish:
+        type: object
+        fields:
+          process: string
+          gloss: string
+          texture: string
+          touch_result: string
+          durability_test: string
+      unknown_fields:
+        type: list
+        description: CMF中无法确定的字段，标UNKNOWN
+
+  render_prompts:
+    type: object
+    fields:
+      geometry_translation:
+        type: list
+        description: 功能→几何转译结果，每条格式"功能[X]→几何特征[Y]，位置[Z]，分件线[W]"
+      styling_summary:
+        type: string
+        description: 造型意图摘要（英文）
+      en_prompts:
+        type: list
+        description: 备用英文提示词，每个角度一条，含subject/material/lighting/camera/exclude
+      angles:
+        type: list
+        description: 出图角度清单，至少3个
+
+  pptx_path:
+    type: string
+    description: 生成的.pptx文件路径，格式 artifacts/projects/{project_id}/final_pitch.pptx
+
+validation:
+  - prd.function_list 每条必须有优先级P0/P1/P2
+  - manufacturability.top10_risks 必须有10条
+  - cmf中缺失字段必须在unknown_fields中列出
+  - render_prompts.en_prompts 必须是英文
+  - pptx_path 必须指向实际存在的文件

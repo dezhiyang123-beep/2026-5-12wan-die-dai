@@ -1,0 +1,638 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "创意吊灯"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "flos_创意吊灯_b2_001"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/19.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑圆筒灯头倾斜悬挂，双线缆从顶端分叉，灯口朝侧方开放"
+    product_name: "Aim Pendant"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "可调向吊灯"
+    design_language:
+      silhouette: "小型圆筒体，顶部圆弧封闭，单侧开口；双绳分叉悬挂使灯头自然倾斜约30°"
+      light_opening: "单侧圆形开口，漫射白色板，定向侧向照射"
+      thermal: "无可见散热结构，封闭铝壳自然散热"
+      cmf:
+        color: "哑光黑"
+        material: "铝合金灯体，黑色织物线缆"
+        finish: "哑光喷涂"
+      mounting: "双线缆悬挂，线缆汇聚于顶部单点固定"
+      signature_detail: "双线缆分叉+灯头自由倾斜——无需手动调节，重力自动定向"
+    design_level:
+      score: 5
+      reason: "Ronan & Erwan Bouroullec 2013年设计，双线缆定向原理颠覆传统吊灯调向逻辑，成为Flos标志性产品"
+    design_tags:
+      - "可调向"
+      - "极简结构"
+      - "双线缆悬挂"
+      - "Bouroullec"
+      - "定向照明"
+    hero_feature: "双线缆从灯体两侧分叉悬挂，利用重力使灯头自然倾斜指向目标区域"
+    problem_solved: "吊灯无法灵活定向的问题——通过线缆几何关系实现无机械调节的方向控制"
+    transferable_technique: "用悬挂几何替代机械铰链实现方向控制；双线缆分叉比例决定倾角，可迁移至其他需要固定倾角的悬挂灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_b2_002"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "扁圆碟形金属网格灯罩，橙红色铁丝编织成蜘蛛网状放射图案，单线缆悬挂"
+      - filename: "22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/22.jpg"
+        image_role: "context"
+        visual_anchor: "同款灯具点亮状态，网格结构透光，边缘形成光晕，搭配弧形落地支架悬于餐桌上方"
+    product_name: "Spiders Pendant"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "网格装饰吊灯"
+    design_language:
+      silhouette: "扁平碟形（直径远大于高度），顶部和底部均由弧形金属丝围合，侧面开放"
+      light_opening: "全周侧向漏光+顶部网格透光；光源隐藏在碟心，光线透过网格向四周漫射"
+      thermal: "全开放网格结构，自然通风散热"
+      cmf:
+        color: "橙红色（与线缆同色）"
+        material: "金属铁丝编织网格"
+        finish: "烤漆（橙红）"
+      mounting: "单股彩色线缆顶部悬挂；22图显示可配弧形悬臂落地支架"
+      signature_detail: "同心圆放射网格图案，顶视呈蜘蛛网结构，灯亮时网格投影形成地面图案"
+    design_level:
+      score: 4
+      reason: "网格编织工艺将结构美学与光影装饰合二为一，彩色线缆与灯体颜色一体化设计"
+    design_tags:
+      - "金属网格"
+      - "装饰性"
+      - "彩色线缆"
+      - "光影投影"
+      - "碟形"
+    hero_feature: "手工编织同心圆放射金属网格灯罩，点亮后网格向地面和四周投射几何光影"
+    problem_solved: "吊灯灯罩在关灯状态通常缺乏观赏性——网格结构让白天和夜晚都有视觉焦点"
+    transferable_technique: "网格密度控制出光量与装饰感的平衡；彩色线缆作为整体色彩系统的延伸而非附件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "产品名称需确认，疑似Flos Spiders系列，但网格工艺细节需核实"
+
+  - product_id: "flos_创意吊灯_b2_003"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "水滴/泪滴轮廓的LED光线环，黑色金属外轨道+白色内发光面，细线缆悬挂"
+    product_name: "Arrangements Teardrop Element"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "线条LED吊灯"
+    design_language:
+      silhouette: "封闭泪滴/水滴形轮廓环，顶部尖，底部圆弧，整体扁平如画框；无实体灯罩，仅有发光边缘"
+      light_opening: "环形内侧边缘发光，向环内空间漫射；泪滴内部为负空间，光线从边缘向两侧散射"
+      thermal: "细长铝型材，LED内置，自然散热"
+      cmf:
+        color: "黑色外壳，白色发光面"
+        material: "铝合金型材"
+        finish: "哑光黑喷涂，白色扩散面"
+      mounting: "顶部细黑线缆单点悬挂"
+      signature_detail: "泪滴形负空间轮廓——灯具本身是空的，发光的是边框线条"
+    design_level:
+      score: 5
+      reason: "Arrangements系列（Michael Anastassiades设计）将吊灯从功能照明升华为空间雕塑，极度克制的线条语言"
+    design_tags:
+      - "线条LED"
+      - "负空间"
+      - "泪滴形"
+      - "Anastassiades"
+      - "极简主义"
+      - "雕塑感"
+    hero_feature: "泪滴形LED光线环，发光的是轮廓线本身，内部完全镂空，形如悬浮的光线素描"
+    problem_solved: "吊灯体积感带来的空间压迫——用纯线条轮廓替代实体灯罩，最大程度减轻视觉重量"
+    transferable_technique: "用型材轮廓线替代实体灯罩，负空间即是设计语言；泪滴几何既有方向感又有有机曲线"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_b2_004"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/23.jpg"
+        image_role: "hero"
+        visual_anchor: "超高细杆落地灯，顶部半球形PAR灯反射器朝上，中部红色U形钢管框架+调光器，底部透明变压器方块"
+      - filename: "29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/29.jpg"
+        image_role: "context"
+        visual_anchor: "同款灯具在走廊场景，黑色配色版本，结构更清晰可见"
+    product_name: "Toio Floor Lamp"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "落地灯"
+      - "功能外显落地灯"
+    design_language:
+      silhouette: "极细高杆（约2米），顶部汽车头灯PAR反射器碗，中段功能性框架结构，底部变压器块作为视觉锚点"
+      light_opening: "顶部朝上半球反射器，间接向上照射天花板，形成漫反射环境光"
+      thermal: "开放式结构，PAR灯自然散热"
+      cmf:
+        color: "红色U形框架+镀铬细杆（23图）；黑色版本（29图）"
+        material: "钢管，镀铬，铸铝反射器，塑料变压器壳"
+        finish: "镀铬抛光，烤漆"
+      mounting: "落地独立，底部变压器方块作为配重底座"
+      signature_detail: "将汽车前大灯PAR碗直接用作灯具反射器，电气元件（变压器、调光器）完全暴露作为设计语言"
+    design_level:
+      score: 5
+      reason: "Achille & Piergiacomo Castiglioni 1962年设计，Flos创始年代的标志之作，'现成品'设计哲学的经典案例"
+    design_tags:
+      - "现成品设计"
+      - "功能外显"
+      - "Castiglioni"
+      - "工业美学"
+      - "间接照明"
+      - "1962经典"
+    hero_feature: "汽车PAR前大灯反射器直接外露作为灯头，变压器和调光器不隐藏而是成为结构视觉元素"
+    problem_solved: "灯具设计掩盖电气元件导致结构不诚实——Toio反其道而行，让所有功能部件成为美学语言"
+    transferable_technique: "工业/现成品零件直接用作设计元素（功能外显手法H11）；超细杆比例使笨重元件显得轻盈"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_b2_005"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/24.jpg"
+        image_role: "hero"
+        visual_anchor: "垂直细长木质方形截面柱体，正面嵌入全长LED发光条，黑色圆盘底座，暖黄光"
+      - filename: "26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/26.jpg"
+        image_role: "detail"
+        visual_anchor: "同款灯具侧角度，木纹细节和LED发光缝隙清晰可见，暗房氛围"
+      - filename: "40.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/40.jpg"
+        image_role: "context"
+        visual_anchor: "同款灯具宽幅场景图，比例更完整，木材与黑色底座的材质对比明显"
+    product_name: "Bellhop F Floor Lamp"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "落地灯"
+      - "线性LED落地灯"
+    design_language:
+      silhouette: "竖直细长矩形柱体（近似正方形截面），高约180cm；木质外壳，正面开一道全长发光缝"
+      light_opening: "正面全长线性LED缝，向前方单向漫射；发光缝约占正面宽度的1/3"
+      thermal: "木质外壳导热有限，LED低功耗，内腔自然对流"
+      cmf:
+        color: "自然胡桃木色+黑色金属底座"
+        material: "胡桃木实木外壳，铝合金内腔，黑色铸铁圆盘底座"
+        finish: "木材自然纹理，金属哑黑"
+      mounting: "落地独立，重型圆盘底座防倾倒"
+      signature_detail: "纤细木柱中央开一道全高发光缝，关灯时是木雕塑，开灯时是光之柱"
+    design_level:
+      score: 4
+      reason: "木材温度与线性LED精准性的材料对话极具张力；比例极端（高宽比约10:1）创造强烈垂直感"
+    design_tags:
+      - "线性LED"
+      - "木材"
+      - "极高比例"
+      - "材料对比"
+      - "竖向发光缝"
+      - "雕塑感落地灯"
+    hero_feature: "胡桃木柱体正面全高发光缝——木材温暖质感与线性LED冷精准性形成材料张力"
+    problem_solved: "落地灯底部占地面积大且不美观——圆盘底座最小化，木柱极细化，减少空间侵占"
+    transferable_technique: "木材外壳+内置LED的组合方式；全高发光缝让整个柱体成为光源，比点光源更均匀"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_b2_006"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/25.jpg"
+        image_role: "hero"
+        visual_anchor: "雷达碟形大盖帽向上翻折的宽边圆锥罩，下方竖纹黑色圆筒基座带镀铬环，桌面摆放"
+    product_name: "Taccia Table Lamp"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "间接照明台灯"
+    design_language:
+      silhouette: "宽大扁圆锥形碗状罩（翻折边缘）置于竖纹圆筒基座之上；罩的直径明显大于基座"
+      light_opening: "朝上开口碗形反射，光线向上打天花后形成间接环境光；内碗为哑光白漫反射"
+      thermal: "外置竖纹散热片集成在基座外壁，主动散热造型化"
+      cmf:
+        color: "白色碗罩+黑色竖纹基座+镀铬环"
+        material: "吹制玻璃碗罩，铸铝竖纹基座，镀铬金属环"
+        finish: "磨砂玻璃，铸铝哑黑，镀铬抛光"
+      mounting: "桌面放置"
+      signature_detail: "竖纹散热片外露成为基座装饰语言，将工程需求转化为视觉节奏"
+    design_level:
+      score: 5
+      reason: "Achille & Piergiacomo Castiglioni 1962年设计，碗罩+竖纹散热基座的造型语言60年来无人超越"
+    design_tags:
+      - "间接照明"
+      - "碗形反射"
+      - "散热外显"
+      - "Castiglioni"
+      - "1962经典"
+      - "吹制玻璃"
+    hero_feature: "放大版雷达碗形玻璃罩朝上开口，将光线全部反射至天花，基座竖纹散热片成为装饰性节奏"
+    problem_solved: "直射台灯产生眩光——碗形间接反射消除光源直视，同时让散热工程结构成为设计亮点"
+    transferable_technique: "散热需求转化为装饰纹理（功能外显H11）；碗形反射将单点光源扩散为柔和环境光"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_b2_007"
+    source_images:
+      - filename: "27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/27.jpg"
+        image_role: "hero"
+        visual_anchor: "超大尺寸半球形深黑色高亮釉面罩，外部纯黑圆顶，内部白色，悬挂于餐桌正上方"
+    product_name: "Skygarden Pendant (Black)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "大型装饰吊灯"
+    design_language:
+      silhouette: "巨型半球形碗体（直径约60-80cm），外观极度简洁，内腔有浮雕花卉装饰（本图角度不可见）"
+      light_opening: "朝下圆形开口，内腔漫反射向下照明；内部浮雕反射光线创造柔和光晕"
+      thermal: "大体积钢制外壳，自然散热"
+      cmf:
+        color: "外黑内白"
+        material: "钢板冲压成型"
+        finish: "外壁高亮黑烤漆，内壁哑白"
+      mounting: "单线缆天花悬挂，线缆不可见（与黑色融入背景）"
+      signature_detail: "极简黑色外壳内藏白色花卉浮雕内腔——对比出人意料，外硬内柔"
+    design_level:
+      score: 5
+      reason: "Marcel Wanders设计，粗犷黑色外壳+精致内腔花园的张力成为Flos最识别度设计之一"
+    design_tags:
+      - "大型半球"
+      - "内外对比"
+      - "Marcel Wanders"
+      - "餐厅吊灯"
+      - "高亮黑"
+    hero_feature: "哑黑色巨型半球外壳内藏精致白色花卉浮雕内腔，关灯时是极简黑球，开灯时是花园"
+    problem_solved: "大型餐厅吊灯要么过于繁复要么过于冷峻——Skygarden外简内繁，兼顾现代感和细节惊喜"
+    transferable_technique: "外壁极简化以突出内腔细节（H07极简整合+H08对比强调）；大尺寸半球可作为内腔装饰载体"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_b2_008"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/28.jpg"
+        image_role: "hero"
+        visual_anchor: "超长水平悬臂壁灯，一端铅锤配重，另一端下折小型聚光灯头，整体黑色极简"
+    product_name: "265 Wall/Suspension Lamp"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "壁灯"
+      - "悬臂调节壁灯"
+    design_language:
+      silhouette: "超长水平单臂（约1.5-2米），末端小型圆锥聚光罩朝下，近端配重铅锤，中间支点固定于墙"
+      light_opening: "末端向下圆锥形聚光开口，集中照射"
+      thermal: "小型灯头，LED散热自然"
+      cmf:
+        color: "全黑"
+        material: "铝合金臂杆，钢制配重"
+        finish: "哑黑喷涂"
+      mounting: "单点固定于墙面，悬臂伸出"
+      signature_detail: "极长悬臂+配重铅锤——物理平衡结构外显，力学关系成为视觉语言"
+    design_level:
+      score: 5
+      reason: "Paolo Rizzatto 1975年设计，长悬臂物理平衡原理直接外显，是结构工程美学的标志案例"
+    design_tags:
+      - "悬臂"
+      - "配重"
+      - "力学外显"
+      - "壁灯"
+      - "极简黑"
+      - "定点照明"
+    hero_feature: "超长悬臂用铅锤配重实现平衡，物理力学关系完全外露成为设计主题"
+    problem_solved: "聚光壁灯覆盖范围有限——超长臂延伸照明半径，配重使臂可调整高低而无需复杂铰链"
+    transferable_technique: "配重平衡替代机械锁紧（简化机构）；超长单臂以极细截面实现轻盈感，截面越细臂越长"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_b2_009"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/30.jpg"
+        image_role: "hero"
+        visual_anchor: "蘑菇形便携台灯，圆鼓盖帽+圆柱灯体，砖红/陶土色，整体发光，无电线"
+    product_name: "Bellhop Table Lamp (Portable)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "便携充电台灯"
+    design_language:
+      silhouette: "蘑菇形：圆鼓形顶盖（帽缘下压，宽度略大于柱体）+短圆柱灯体；比例圆润，无任何棱角"
+      light_opening: "柱体全周向漫射发光，顶盖遮挡直射光，向下和侧方均匀漫射"
+      thermal: "低功耗LED，塑料/合成材质散热，无需额外散热结构"
+      cmf:
+        color: "砖红/陶土哑光色（单色整体）"
+        material: "工程塑料或喷漆金属"
+        finish: "哑光单色涂装"
+      mounting: "桌面放置，内置电池，无线便携"
+      signature_detail: "整体单色涂装无缝隙，盖帽与柱体颜色完全统一，视觉上是一个无分件的整体雕塑"
+    design_level:
+      score: 4
+      reason: "蘑菇形比例可爱而不幼稚，单色无缝处理使其既是灯具也是摆件；充电便携扩展使用场景"
+    design_tags:
+      - "蘑菇形"
+      - "便携充电"
+      - "单色整体"
+      - "圆润"
+      - "无绳"
+      - "餐桌摆灯"
+    hero_feature: "蘑菇形单色无缝整体造型，内置电池无绳，关灯是雕塑摆件，开灯是柔和漫射光"
+    problem_solved: "有线台灯限制摆放自由——内置电池使其可随意移动至户外或无插座场景"
+    transferable_technique: "顶盖遮挡上方直射光的蘑菇结构，让柱体全周漫射均匀；单色整体处理消除分件视觉割裂"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_b2_010"
+    source_images:
+      - filename: "31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/31.jpg"
+        image_role: "hero"
+        visual_anchor: "三颗白色哑光圆顶吸顶灯，大中小三尺寸斜角排列于天花板，每颗底部可见环形LED光圈"
+    product_name: "Wan Ceiling Light"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "吸顶灯"
+      - "半嵌入吸顶灯"
+    design_language:
+      silhouette: "圆顶半球形灯体，底部为圆形开口；多颗大中小组合排列，尺寸梯度创造节奏感"
+      light_opening: "底部圆形开口向下，内置LED圆环形发光，形成均匀环形光圈效果"
+      thermal: "金属灯体，LED低功耗，自然散热"
+      cmf:
+        color: "纯白哑光"
+        material: "铝合金压铸"
+        finish: "哑白喷涂"
+      mounting: "吸顶安装，近乎与天花齐平"
+      signature_detail: "底部环形LED光圈——不是点光源而是圆环，产生向心发光效果"
+    design_level:
+      score: 3
+      reason: "极度克制的设计，以尺寸变化和组合方式创造空间节奏；单颗设计较普通，组合后效果更强"
+    design_tags:
+      - "吸顶灯"
+      - "圆顶"
+      - "组合排列"
+      - "环形LED"
+      - "极简白"
+    hero_feature: "大中小三尺寸圆顶灯组合，各自底部环形LED光圈，通过尺寸梯度在天花创造韵律"
+    problem_solved: "单颗吸顶灯缺乏设计感——以成组不同尺寸排列取代单体，整体成为天花装置"
+    transferable_technique: "同款设计多尺寸组合创造节奏（模块化H05）；底部环形光圈比点状更均匀且有设计感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_b2_011"
+    source_images:
+      - filename: "33.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/33.jpg"
+        image_role: "hero"
+        visual_anchor: "水平长条管状吊灯，黄铜色金属管段通过接头串联，悬于古典壁画空间的餐桌上方"
+    product_name: "Coordinates Pendant (Linear)"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "线性管状吊灯"
+    design_language:
+      silhouette: "水平多段管体串联，总长约120-150cm；黄铜色金属管，接头节点清晰可见，整体如工业管道"
+      light_opening: "管体内置LED，管壁漫透光或底部线形发光缝；线性均匀出光"
+      thermal: "金属管体导热，自然散热"
+      cmf:
+        color: "黄铜金色"
+        material: "黄铜或镀黄铜铝管"
+        finish: "拉丝黄铜"
+      mounting: "多点线缆悬挂（至少2-3点），保持水平"
+      signature_detail: "多段管体串联的节点接头——工业管道语言带入家居，黄铜色在古典空间中融合传统与现代"
+    design_level:
+      score: 4
+      reason: "管道工业语言+黄铜贵金属色+古典空间形成强烈的时代对话；线性均匀照明适合长桌场景"
+    design_tags:
+      - "线性吊灯"
+      - "黄铜"
+      - "管道美学"
+      - "餐厅吊灯"
+      - "工业语言"
+    hero_feature: "黄铜色多段管体串联吊灯，接头节点外露，工业管道语言在古典空间中制造时间对话"
+    problem_solved: "长桌上方单颗吊灯照明不均——线性多段管体覆盖全桌长度，均匀照明"
+    transferable_technique: "多段管体串联可调整长度（模块化H05）；接头节点外露成为节奏元素而非遮盖"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "产品名称需确认，疑似Flos Coordinates或Wireline系列"
+
+  - product_id: "flos_创意吊灯_b2_012"
+    source_images:
+      - filename: "34.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/34.jpg"
+        image_role: "hero"
+        visual_anchor: "抽象线条组合吊灯：水平横杆+圆形光圈+菱形光圈三元素交叉叠放，黑色金属边框白色LED发光面"
+    product_name: "Arrangements Pendant (Composition)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "线条LED装饰吊灯"
+    design_language:
+      silhouette: "三元素抽象构成：水平线条+圆环+菱形环，三者空间交叉叠加，形成类似构成主义画作的3D线稿"
+      light_opening: "各元素内侧LED边缘发光，向元素内部负空间漫射；三个方向均有出光"
+      thermal: "细铝型材，LED低功耗，自然散热"
+      cmf:
+        color: "黑色外壳，白色发光内面"
+        material: "铝合金型材"
+        finish: "哑黑喷涂，白色扩散面"
+      mounting: "顶部多点细线缆悬挂，保持水平构图"
+      signature_detail: "圆形+菱形+水平线三元素空间交叉——每个元素独立成立，组合后形成动态平衡构图"
+    design_level:
+      score: 5
+      reason: "Michael Anastassiades Arrangements系列，将灯具设计为可自由组合的三维构成主义雕塑"
+    design_tags:
+      - "构成主义"
+      - "线条LED"
+      - "可组合"
+      - "Anastassiades"
+      - "空间雕塑"
+      - "负空间"
+    hero_feature: "圆环+菱形+水平杆三元素空间构成，发光线条勾勒几何负空间，如悬浮的三维线稿"
+    problem_solved: "单体吊灯造型固定无变化——Arrangements系列各元素可单独使用也可自由组合，每次布置都是新构图"
+    transferable_technique: "几何元素模块化组合（H05+H04）；不同几何形状的LED线条组合原则：共享同一视觉重心轴"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_b2_013"
+    source_images:
+      - filename: "35.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/35.jpg"
+        image_role: "hero"
+        visual_anchor: "黄铜方形截面细杆落地灯，顶部正球形磨砂乳白玻璃球，杆与底盘为正方形截面黄铜"
+    product_name: "IC Lights F Floor Lamp"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "落地灯"
+      - "球形漫射落地灯"
+    design_language:
+      silhouette: "正方形截面黄铜细杆从圆形底盘垂直升起，顶部正圆形磨砂玻璃球；极度简洁的T字构成"
+      light_opening: "球形360°全向漫射，光线向四周均匀散射，无明显主光方向"
+      thermal: "玻璃球散热良好，LED低功耗"
+      cmf:
+        color: "黄铜金色杆+底座，乳白磨砂玻璃球"
+        material: "黄铜实心方杆，吹制磨砂玻璃球"
+        finish: "拉丝黄铜，磨砂玻璃"
+      mounting: "落地独立，圆形黄铜底盘"
+      signature_detail: "正方形截面金属杆——微小的截面选择让杆件既有精密感又区别于圆管，与球形形成几何对话"
+    design_level:
+      score: 5
+      reason: "Michael Anastassiades设计，正方截面杆+正圆球的几何纯粹性达到极致；黄铜+磨砂玻璃的材料选择无可挑剔"
+    design_tags:
+      - "球形漫射"
+      - "黄铜"
+      - "方截面杆"
+      - "Anastassiades"
+      - "IC Lights"
+      - "几何纯粹"
+    hero_feature: "正方截面黄铜细杆托起完美圆球，两个最基础几何形体的对话，减无可减"
+    problem_solved: "落地灯造型复杂而难以与多种风格空间搭配——IC Lights以几何原型实现最大风格兼容性"
+    transferable_technique: "正方截面替代圆截面增加精密感；球形漫射体+细杆的比例关系（球径约=杆高的1/5）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_b2_014"
+    source_images:
+      - filename: "36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/36.jpg"
+        image_role: "hero"
+        visual_anchor: "两尺寸蚕茧形台灯：圆鼓球体上部+波浪裙摆底座，乳白色丝质灯罩竖向肋骨纹路，暖光透出"
+    product_name: "Gatto Table Lamp"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "丝质漫射台灯"
+    design_language:
+      silhouette: "上方圆鼓球体（稍扁）通过收腰过渡到下方多瓣波浪裙摆底座；整体如蚕茧或气球栓在裙摆上"
+      light_opening: "全球漫射，丝质纤维透光，光线均匀向四周散射；几乎无阴影照明"
+      thermal: "开放丝质灯罩，自然散热"
+      cmf:
+        color: "乳白色"
+        material: "丝质/绢织灯罩，金属内骨架"
+        finish: "自然织物肌理，竖向肋骨压痕"
+      mounting: "桌面放置，波浪裙摆底座"
+      signature_detail: "竖向肋骨线条压出丝质灯罩的体积感，同时肋骨形成视觉节奏，区别于普通球形灯罩"
+    design_level:
+      score: 5
+      reason: "Achille & Piergiacomo Castiglioni 1960年设计，丝质蚕茧形是Flos最早期标志，60年形态未变"
+    design_tags:
+      - "丝质灯罩"
+      - "蚕茧形"
+      - "Castiglioni"
+      - "1960经典"
+      - "竖向肋骨"
+      - "全漫射"
+    hero_feature: "丝质织物蚕茧灯罩配竖向肋骨骨架，全漫射出光，如被光填满的气球"
+    problem_solved: "硬质灯罩光线生硬——丝质透光材料创造最柔和的漫反射，同时多尺寸满足不同场景比例需求"
+    transferable_technique: "竖向肋骨为软质灯罩提供形态支撑同时形成装饰节奏；大小两尺寸同款组合增加空间层次"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

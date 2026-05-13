@@ -1,0 +1,41 @@
+# 品牌DNA模板（Brand DNA Pack）
+# 系统在Step 01 F01执行时自动填写本模板
+# 后续Step 05/06/07/09强制引用本文件作为硬约束
+
+brand_name: ""
+brand_positioning: ""  # 一句话定位（如："美国承包商渠道中档商业照明品牌"）
+
+# ── 形态资产词条（从客户现有产品图中自动提取） ──
+form_assets:
+  primary_silhouette: ""  # 主轮廓特征（如："水平稳定矩形，宽高比1.5-2.5:1"）
+  edge_treatment: ""  # 边缘处理（如："2-5mm工业倒角，无全圆角"）
+  parting_line_style: ""  # 分件线风格（如："深结构分件线，不隐藏"）
+  surface_texture: ""  # 表面质感（如："哑光粉末涂层，有颗粒感"）
+  mounting_language: ""  # 安装语言（如："外露螺栓固定，不追求隐藏安装件"）
+  thermal_expression: ""  # 散热表达（如："散热鳍片外露，作为功能可见特征"）
+  optical_expression: ""  # 光学表达（如："全截光设计，无上射光"）
+
+# ── 品牌色彩/材质体系 ──
+cmf_system:
+  allowed_colors: []  # 如：["architectural bronze", "industrial cool grey", "matte black"]
+  allowed_materials: []  # 如：["die-cast aluminum", "tempered glass", "stainless steel hardware"]
+  allowed_finishes: []  # 如：["matte textured powder coat", "raw anodized aluminum"]
+
+# ── 品牌红线表（禁止项，后续步骤硬约束） ──
+red_lines:
+  forbidden_forms: []  # 如：["有机曲面", "极端竖向比例(>1.5:1)", "六边形/蜂巢", "拟人化语义"]
+  forbidden_colors: []  # 如：["消费电子式高光白", "彩色装饰面"]
+  forbidden_styles: []  # 如：["后现代装饰主义", "消费品极简主义", "仿生有机形态"]
+  forbidden_elements: []  # 如：["纯装饰性无功能线条", "消费级塑料壳体", "隐藏式安装（客户渠道需要可见安装逻辑）"]
+
+# ── 品牌绿灯表（允许项，创新方向指引） ──
+green_lights:
+  allowed_innovation_types: []  # 如：["规格升级", "功能集成", "散热结构优化", "安装效率提升"]
+  allowed_form_directions: []  # 如：["水平稳定比例", "功能即装饰", "全截光遮檐", "工具级精密感"]
+  max_innovation_radius: ""  # 如："规格迭代+微外观升级"（不接受品类颠覆）
+
+# ── 竞品形态参照（从竞品产品图中自动提取） ──
+competitor_form_references:
+  - brand: ""
+    key_form_feature: ""
+    differentiation_opportunity: ""  # 我们可以在哪里做得不同

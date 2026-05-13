@@ -1,0 +1,71 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "测量工具"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/测量工具/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bosch_测量工具_001"
+    source_images:
+      - filename: "测量工具__激光仪__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/测量工具/测量工具__激光仪__01.jpg"
+        image_role: "hero"
+        visual_anchor: "手持激光测距仪BLAZE系列，黑色橡胶覆边+蓝色正面面板，顶部大红色圆形测量按钮，LCD屏显示数字，下方蓝色功能键区，整体砖形竖立轮廓"
+      - filename: "测量工具__激光仪__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/测量工具/测量工具__激光仪__02.jpg"
+        image_role: "variant"
+        visual_anchor: "十字线激光仪GLL50-20G，正方形小巧机身，黑色主体+蓝色正面嵌板，红色OFF/ON拨钮，发出绿色十字激光线，底部可见三脚架接口"
+      - filename: "测量工具__激光仪__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/测量工具/测量工具__激光仪__03.jpg"
+        image_role: "variant"
+        visual_anchor: "旋转激光仪GRL900-20HVG，大型底座式机身，深蓝色圆桶机身上带黑色旋转头，控制面板LCD屏显示XY坐标，顶部发射绿色360°水平激光面，红色电源按钮"
+    product_name: "Bosch Professional 激光测距仪 / 激光水平仪系列"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "测量工具", "激光仪"]
+
+  - product_id: "bosch_测量工具_002"
+    source_images:
+      - filename: "测量工具__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/测量工具/测量工具__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "数字角度尺GAM 270 MFL，两段铝合金直尺铰链展开30°，蓝色小型LCD数字显示单元嵌于铰链处，银白铝型材主体带蓝色贴片细节，气泡水平仪可见"
+      - filename: "测量工具__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/测量工具/测量工具__综合__02.jpg"
+        image_role: "variant"
+        visual_anchor: "墙体探测仪D-tect 200C，竖立扁平机身，蓝色主壳+黑色顶部传感器区，彩色LCD屏居中显示，红色中央圆形确认按钮，底部圆弧扫描面，Bosch LOGO圆形蓝底白字"
+      - filename: "测量工具__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/测量工具/测量工具__综合__03.jpg"
+        image_role: "variant"
+        visual_anchor: "5点绿光激光仪GFL100-50 G，紧凑块状机身，黑色主体+蓝色正面嵌板+红色ON/OFF拨杆，发出5点绿色激光，底部金属挂钩可悬挂"
+    product_name: "Bosch Professional 数字角度尺 / 墙体探测仪 / 点激光仪系列"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "测量工具", "综合测量"]
+    design_language:
+      silhouette: "按功能分两大形态：手持砖形（激光测距仪/探测仪）和紧凑正方块（十字/点激光仪）；角度尺为双臂铰链展开形"
+      light_opening: "N/A"
+      thermal: "无散热需求，外壳黑色橡胶包边兼做防跌保护"
+      cmf:
+        color: "深蓝色正面面板为品牌主色，黑色橡胶护角包边，红色单一操作按钮作视觉焦点，银白铝材（角度尺）"
+        material: "ABS工程塑料+橡胶护边，铝型材（角度尺），表面嵌蓝色塑料贴片"
+        finish: "蓝色哑面，黑色软质橡胶纹，铝型材阳极氧化银白"
+      mounting: "无电池滑轨；小型AA/锂电内置或USB充电"
+      signature_detail: "蓝色面板嵌入黑色橡胶护边的设计语言统一全线；单一大红色功能按钮作唯一操控焦点"
+    design_level:
+      score: 3
+      reason: "测量工具线设计语言统一，黑蓝红三色系统完整，橡胶护边解决跌落保护问题；整体为执行到位的成熟语言，无突破性造型"
+    design_tags: ["H07极简整合", "H08对比强调", "H09隐藏工程"]
+    hero_feature: "蓝色面板+黑色橡胶护边+单红按钮的三要素组合，跨品类一眼辨认Bosch测量工具"
+    problem_solved: "精密测量工具的专业可信度与现场防摔耐用性兼顾，橡胶护边视觉外显耐用性承诺"
+    transferable_technique: "将软质护边（橡胶）的功能性通过对比色差异外显为设计语言，既解决工程需求又形成品牌识别——可迁移到其他需要防护感的手持设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,74 @@
+# 已知事实修正库
+# 创建日期: 2026-05-13
+# 版本: V1.0
+# 用途: R21 - 防止已知错误事实被重新标注为FACT传递到新项目
+# 使用规则: 标注status=FACT前，对照本库检查，如匹配则必须使用修正后的事实
+
+known_fact_corrections:
+
+  - id: "KFC-001"
+    category: "法规/认证"
+    wrong_fact: "R600a制冷剂是美国EPA强制要求，便携冰箱必须使用"
+    correct_fact: "EPA SNAP Rule 23（2021年）将R600a列为首选方案，但对<6 cu ft（约170L）的便携冰箱有豁免条款。R600a是行业趋势不是法规强制，但主流商业产品已广泛采用。"
+    source: "EPA SNAP规定 + Rule 23 豁免条款"
+    source_url: "https://www.epa.gov/snap"
+    applies_to: ["车载冰箱", "便携冰箱", "Refrigerator"]
+    risk_if_wrong: "将行业趋势误作法规强制，可能错误限制制冷剂选择，或错误给R410a/R134a方案判FAIL"
+    added_date: "2026-05-13"
+    added_reason: "R21: Goal Zero×车载冰箱项目中，Step 01将此标注为FACT B级并作为硬约束传递"
+
+  - id: "KFC-002"
+    category: "竞品/市场"
+    wrong_fact: "Yeti V Series Cooler失败原因是'高端保温段品牌税撑不起'（压缩机冰箱也会失败）"
+    correct_fact: "Yeti V Series是真空保温（非压缩机）保温箱，失败原因是价格与传统保温箱相比价值感知不足，与压缩机冰箱品类完全不同。其失败不能作为压缩机冰箱品类的反面证据。"
+    source: "Yeti官网产品页 + 媒体报道"
+    applies_to: ["车载冰箱", "便携冰箱", "户外储能"]
+    risk_if_wrong: "跨品类反例误用，会错误建立'高端冰箱品牌税不成立'的设计约束"
+    added_date: "2026-05-13"
+    added_reason: "R21: Goal Zero项目CE-02将Yeti V失败作为'3秒可感知差异'硬约束依据"
+
+  - id: "KFC-003"
+    category: "成本走廊"
+    wrong_fact: "DTC模式下渠道加价倍率为1.4×（用于F10 BOM上限计算）"
+    correct_fact: "DTC（品牌直销）模式下，品牌商直接面向终端用户，渠道加价倍率约为1.0×（无中间商）。1.4×适用于有经销商/零售渠道的B2B或传统零售模式。DTC项目BOM上限=目标零售价÷品牌毛利率，不需要再除渠道加价率。"
+    source: "F10框架定义 + 成本走廊计算逻辑"
+    applies_to: ["DTC品牌", "Indiegogo/Kickstarter产品", "品牌直营电商"]
+    risk_if_wrong: "BOM上限算错约$18-30（具体金额取决于零售价），直接影响Step 02-07所有成本校验"
+    added_date: "2026-05-13"
+    added_reason: "R21: F10框架渠道加价率概念错误导致BOM上限系统性偏低"
+
+  - id: "KFC-004"
+    category: "认证/标准"
+    wrong_fact: "UL2054标准适用于冰箱本体认证"
+    correct_fact: "UL2054是'Household and Commercial Batteries'标准，针对独立电池组（如锂电池包）而非冰箱本体。冰箱本体认证通常需要UL 60335-2-24（household refrigerating appliances）或相关IEC标准。内置锂电池的产品可能同时需要UL2054（电池组）和冰箱本体认证。"
+    source: "UL官网标准列表"
+    applies_to: ["车载冰箱", "便携冰箱", "含电池家电"]
+    risk_if_wrong: "认证路径判断错误，可能导致项目认证策略完全错误"
+    added_date: "2026-05-13"
+    added_reason: "R21: Goal Zero项目中UL2054被用于冰箱本体认证，实为电池组标准"
+
+  - id: "KFC-005"
+    category: "市场份额"
+    wrong_fact: "Secop压缩机占全球便携冰箱压缩机市场60%以上份额"
+    correct_fact: "Secop（原Danfoss）是重要的压缩机供应商，但'60%+市场份额'是基于品牌规格表出现频率推算的AI推断，非实际市场份额数据。实际份额估算约25-30%（与GMCC、LG、松下等分食市场）。应标注为INFERENCE而非FACT。"
+    source: "无第三方市场报告支撑，为AI推断"
+    applies_to: ["车载冰箱", "便携冰箱", "压缩机冰箱"]
+    risk_if_wrong: "将AI推断的市场集中度误作FACT，可能错误建立'压缩机不可差异化'的硬约束"
+    added_date: "2026-05-13"
+    added_reason: "R21: Goal Zero项目CE-03的Secop市场份额推断被标为FACT并传递为硬约束"
+
+  - id: "KFC-006"
+    category: "框架适用性"
+    wrong_fact: "F05价值链利润分布框架适用于品牌商自有品牌扩张项目（如Goal Zero开发自有冰箱）"
+    correct_fact: "F05框架设计为B2B ODM场景下'让品牌商敢为设计溢价付钱'的分析工具。当客户本身就是品牌商（做自有品牌扩张）时，F05的价值链分析逻辑出现场景错位——没有独立的品牌商和ODM两方，分析框架的前提条件不成立。此时应直接分析品牌商的利润结构，而非套用ODM利润瀑布模型。"
+    source: "F05框架定义"
+    applies_to: ["品牌商自有品牌", "DTC品牌自研", "品牌扩品类"]
+    risk_if_wrong: "错误的框架会产生错误的利润分析和设计溢价判断"
+    added_date: "2026-05-13"
+    added_reason: "R21: Goal Zero项目是品牌商自有品牌扩张，F05被错误套用"
+
+# 使用说明：
+# 1. 每次Step 01标注FACT前，按品类/认证/成本/市场等字段搜索本库
+# 2. 匹配到的错误事实→使用correct_fact替换，标注"来源：已知事实修正库 KFC-XXX"
+# 3. 发现新的FACT错误→立即追加到本库，格式照上面
+# 4. 本库随项目积累增长，是系统学习机制的一部分

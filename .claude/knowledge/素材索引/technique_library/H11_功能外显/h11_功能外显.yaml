@@ -1,0 +1,262 @@
+schema_version: product_dna_v1
+category:
+  primary: H11_功能外显
+  secondary: 灯具
+  tertiary: ''
+source:
+  source_type: technique_library
+  source_folder: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H11_功能外显/
+  generated_at: '2026-05-09'
+products:
+- product_id: h11_lighting_001
+  source_images:
+  - filename: H11_lighting_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H11_功能外显/H11_lighting_001.jpg
+    image_role: hero
+    visual_anchor: 几何形LED线条悬挂灯，圆圈+菱形+水平杆三段组合
+  product_name: 几何线条组合吊灯
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H11_功能外显
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 抽象几何线条组合：圆环+菱形+水平细杆，线性LED灯条即结构骨架
+    light_opening: LED灯条全程裸露，整条线性光源即为发光结构，无遮挡扩散
+    thermal: 线性细杆结构，LED功率低，无独立散热结构，依靠细长杆体自然散热
+    cmf:
+      color: 黑色金属杆体，白色LED光线
+      material: 金属（铝合金杆体），LED灯条
+      finish: 哑光黑色喷涂
+    mounting: 吊线悬挂，多点固定
+    signature_detail: 外显手法：LED发光线路即结构骨架——灯条弯折成圆环和菱形几何形态，发光元件与承重结构合二为一，功能（照明路径）与形态（几何造型）完全重合，无任何包覆或遮蔽
+  design_level:
+    score: 5
+    reason: LED结构即造型，功能外显达到教科书级别：光路=结构线=轮廓线，三位一体，内部功能零件无一隐藏
+  design_tags:
+  - H11功能外显
+  - LED结构即造型
+  - 线性光源外露
+  - 几何吊灯
+  - 功能形态合一
+  hero_feature: LED灯条弯折成几何骨架，发光元件同时承担结构与造型功能
+  problem_solved: 传统灯具把光源藏在灯罩里，此设计让光源本身成为可见的雕塑性结构
+  transferable_technique: 将功能部件（LED、导线、散热片）的排列路径直接设计为产品轮廓线，功能暴露=设计语言
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h11_lighting_002
+  source_images:
+  - filename: H11_lighting_002.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H11_功能外显/H11_lighting_002.jpg
+    image_role: hero
+    visual_anchor: 两只茧形台灯，透明蚕茧状灯罩内部纵向骨架肋条清晰可见
+  product_name: Cocoon蚕茧台灯（两件，大小各一）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H11_功能外显
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 蚕茧/气球形，上圆下收窄，底座波浪形裙边
+    light_opening: 整体灯罩为扩散发光体，无单独出光口，外壳即为漫射面
+    thermal: 结构肋条兼作骨架，内部光源功率推测较低，无外露散热片
+    cmf:
+      color: 米白色半透明，暖白光透出
+      material: 薄纱/蚕丝布料包裹内部金属/塑料骨架肋条
+      finish: 柔性半透明织物
+    mounting: 台放，底座稳定
+    signature_detail: 外显手法：内部纵向骨架肋条透过半透明织物清晰可见——骨骼结构从内部'透出'而非被完全包裹隐藏，使结构支撑逻辑外显为装饰纹理，形成蚕茧/灯笼的功能性视觉语言
+  design_level:
+    score: 4
+    reason: 内部骨架透过材料外显是清晰的功能外显策略，但依赖特殊材料而非造型结构本身，手法稍弱于001
+  design_tags:
+  - H11功能外显
+  - 骨架透显
+  - 半透明材料外显结构
+  - 蚕茧台灯
+  - 内外双层结构
+  hero_feature: 纵向支撑肋条透过半透明织物可见，结构逻辑成为装饰语言
+  problem_solved: 灯罩既遮蔽光源又需传递结构感；此设计让支撑骨架成为可读的内部结构展示
+  transferable_technique: 用半透明材料覆盖内部结构件，让功能骨骼'透视可见'，适用于需要同时传递强度感与柔和感的产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h11_lighting_004
+  source_images:
+  - filename: H11_lighting_004.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H11_功能外显/H11_lighting_004.jpg
+    image_role: hero
+    visual_anchor: 大尺寸圆形LED面板吊灯，深灰色金属圆框，正面整圆为均匀发光面
+  product_name: 圆形LED面板吊灯
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H11_功能外显
+  - 灯具
+  - 吊灯
+  design_language:
+    silhouette: 正圆形，深灰色金属边框，整个圆面为发光体
+    light_opening: 整个正圆面为LED发光面，出光口即产品正面，无任何遮罩或格栅
+    thermal: 金属圆框兼作散热体，框体厚度暗示内置散热结构，但外部不可见
+    cmf:
+      color: 深灰/石墨色金属框，白色漫射发光面
+      material: 阳极氧化铝金属框，乳白色亚克力或PC漫射板
+      finish: 金属哑光，发光面平整均匀
+    mounting: 细钢绳双点悬挂
+    signature_detail: 外显手法：LED面板出光结构即产品正面——发光功能面完全暴露为产品的主视觉，LED阵列背后的均匀漫射代替了传统灯罩的遮蔽功能，'我在发光'的功能事实成为设计主体
+  design_level:
+    score: 3
+    reason: LED面板完全暴露是清晰的功能外显，但造型本身较为基础（圆盘），没有进一步将内部结构层次（如LED排布、散热鳍）带入造型语言
+  design_tags:
+  - H11功能外显
+  - LED面板外露
+  - 圆形面板灯
+  - 发光面即产品面
+  hero_feature: 整圆正面为均匀LED发光面，无遮蔽，出光结构直接等于产品外观
+  problem_solved: 传统面板灯有格栅或遮光框；此设计让发光面板本身承担全部视觉表达
+  transferable_technique: 将功能出口（出光面、出风口、显示面）直接设计为产品主视觉面，功能结构即造型主体
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h11_lighting_005
+  source_images:
+  - filename: H11_lighting_005.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H11_功能外显/H11_lighting_005.jpg
+    image_role: hero
+    visual_anchor: 天花轨道特写，裸露黑色导轨截面+小型白色可调射灯头挂件，弧形白色管灯臂从轨道延伸
+  product_name: 磁吸轨道灯系统（导轨+射灯+线型灯臂）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H11_功能外显
+  - 灯具
+  - 轨道灯
+  design_language:
+    silhouette: 裸露金属导轨横截面可见内部导电槽，射灯头独立悬挂，线型灯臂弯曲延伸
+    light_opening: 射灯头底部为LED出光口，直接朝向目标方向；线型灯臂灯管为管状扩散发光
+    thermal: 射灯头体积小，内置散热；线型臂为铝制管体兼散热
+    cmf:
+      color: 白色灯体，黑色轨道截面，银色金属接头
+      material: 铝合金轨道，铝制灯头，PC漫射罩
+      finish: 白色粉末涂层，黑色阳极氧化
+    mounting: 天花嵌入轨道，灯具以磁吸/卡扣方式安装
+    signature_detail: 外显手法：导电轨道截面裸露可见——导轨的电气通道结构（金属导槽、固定卡位）完全暴露，安装关系与电气连接逻辑外显为产品美感；灯头悬挂位置和调整关节也完全不加遮蔽
+  design_level:
+    score: 4
+    reason: 轨道截面、连接节点、悬挂关系全部外显，系统性地展示了灯具的功能逻辑，功能外显应用于系统而非单件
+  design_tags:
+  - H11功能外显
+  - 导轨结构外显
+  - 电气连接可视化
+  - 轨道灯系统
+  - 安装逻辑外显
+  hero_feature: 导轨截面和电气连接结构完全裸露，安装与供电逻辑成为可读的视觉语言
+  problem_solved: 传统轨道灯会用装饰盖遮住轨道截面；此系统将导电结构作为美学元素直接展示
+  transferable_technique: 将连接结构（插槽、卡口、导轨截面）设计为产品视觉亮点，系统的装配逻辑外显为设计语言
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h11_lighting_006
+  source_images:
+  - filename: H11_lighting_006.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H11_功能外显/H11_lighting_006.jpg
+    image_role: hero
+    visual_anchor: 圆环形LED落地灯，黑色圆环内侧可见LED发光条，三角形黑色底座
+  product_name: 圆环LED台地灯
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H11_功能外显
+  - 灯具
+  - 台灯/落地灯
+  design_language:
+    silhouette: 正圆形黑色金属环，环内侧嵌入LED条，三角形斜切底座
+    light_opening: 圆环内壁为LED出光面，光向内射出并向外漫射；底座底部也有线性光缝
+    thermal: 圆环金属体兼作散热，铝合金圆截面管体
+    cmf:
+      color: 哑光黑色
+      material: 铝合金圆管，LED灯条
+      finish: 哑光黑色喷涂
+    mounting: 底座台放，无吊挂
+    signature_detail: 外显手法：LED发光条嵌于圆环内侧槽道——槽道结构直接可见，LED的安装路径（沿圆周内侧分布）构成发光形态；圆环整体即是'灯的骨架+灯的发光体'两个功能的叠加外显
+  design_level:
+    score: 4
+    reason: LED安装结构（内侧槽道）与圆环造型高度统一，功能外显清晰且具有强烈的轮廓记忆点
+  design_tags:
+  - H11功能外显
+  - LED槽道外显
+  - 圆环LED灯
+  - 结构即灯体
+  - 线型光源外露
+  hero_feature: LED嵌入圆环内侧槽道，安装结构与发光结构合一，圆环轮廓即光路轮廓
+  problem_solved: 圆环形灯通常用外罩包住LED；此设计让LED槽道结构直接可见，安装方式即设计语言
+  transferable_technique: 将LED/光源的安装槽道设计为开放可见的凹槽，使安装结构与发光效果同时成为产品视觉重点
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h11_lighting_007
+  source_images:
+  - filename: H11_lighting_007.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H11_功能外显/H11_lighting_007.jpg
+    image_role: hero
+    visual_anchor: 台灯关节特写，橄榄绿色金属臂，金属螺旋弹簧外露，白色电线裸露穿出
+  product_name: 弹簧平衡臂台灯（关节特写）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H11_功能外显
+  - 灯具
+  - 台灯
+  design_language:
+    silhouette: 矩形金属臂十字交叉节点，螺旋弹簧横跨两端，白色电线裸露弯曲
+    light_opening: 未在此图中可见（局部特写）
+    thermal: N/A（此特写非光源部分）
+    cmf:
+      color: 橄榄绿/军绿色金属臂，银色不锈钢弹簧，白色电线
+      material: 铝合金或钢制臂体，不锈钢螺旋弹簧，橡胶/塑料线缆
+      finish: 粉末涂层（橄榄绿哑光），弹簧裸露金属
+    mounting: 台灯臂节点，非独立台放
+    signature_detail: 外显手法：螺旋弹簧平衡机构完全裸露——弹簧是灯臂保持角度的核心力学元件，通常被藏在外壳内；此设计将弹簧完全暴露在外，白色电线也不加线槽裸露穿出，使力学平衡原理成为产品最显眼的视觉特征
+  design_level:
+    score: 5
+    reason: 教科书级功能外显：弹簧力学机构是绝大多数灯具设计藏起来的部分，此设计将其作为核心装饰元素完全裸露，功能诚实性达到最高级别
+  design_tags:
+  - H11功能外显
+  - 弹簧机构外显
+  - 力学结构裸露
+  - 工业风台灯
+  - 电线裸露
+  - 平衡机构可视化
+  hero_feature: 螺旋弹簧平衡机构完全裸露，力学原理直接成为最强视觉记忆点
+  problem_solved: 平衡臂台灯的弹簧通常被外壳藏起；此设计把隐藏的力学核心部件翻转为最醒目的视觉元素
+  transferable_technique: 将平衡/驱动/传动等力学机构（弹簧、齿轮、铰链）完全暴露，使产品的'工作原理'成为设计语言，适用于任何有运动或调节结构的产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

@@ -1,0 +1,501 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "H08_对比强调"
+  secondary: "混合（家电/音频/家具）"
+  tertiary: ""
+
+source:
+  source_type: "technique_library"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H08_对比强调/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "h08_appliance_001"
+    source_images:
+      - filename: "H08_appliance_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H08_对比强调/H08_appliance_001.jpg"
+        image_role: "hero"
+        visual_anchor: "哑光黑玻璃大门面 + 玫瑰铜金色细线框，黑色吸收主体，铜色线条强调边界"
+    product_name: "嵌入式烤箱"
+    brand_name: "Smeg"
+    brand_confidence: "high"
+
+    category_path:
+      - "H08_对比强调"
+      - "家电"
+
+    design_language:
+      silhouette: "正方形嵌入式箱体，纯平门面"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "哑光黑 + 玫瑰铜金"
+        material: "钢化玻璃门面 + 金属边框"
+        finish: "高光钢化玻璃 + 拉丝铜"
+      mounting: "嵌入式"
+      signature_detail: "大面积黑色与单根极细铜色横线的色彩对比：铜色线条占据正面约1%面积但吸引100%注意力；黑色高光门面的镜面反射与铜色拉丝的哑光质感形成质感对比"
+
+    design_level:
+      score: 5
+      reason: "教科书级别的对比强调：主体95%面积使用低调黑色后退，单根铜色线条以最小面积创造最大视觉焦点；色彩对比+质感对比双重叠加，效率极高"
+
+    design_tags:
+      - "H08对比强调"
+      - "小面积亮色强调"
+      - "色彩对比"
+      - "质感对比（高光vs拉丝）"
+      - "单线条焦点"
+
+    hero_feature: "单根铜色横线在整片黑色中产生强烈视觉停顿，以最小元素创造最强焦点"
+    problem_solved: "全黑产品容易视觉沉闷；铜色线条以极小代价唤醒整个设计的视觉层次"
+    transferable_technique: "单线对比策略：在大面积单色主体上，用1-2mm宽的异色线条创造焦点，面积越小对比越强"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h08_appliance_002"
+    source_images:
+      - filename: "H08_appliance_002.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H08_对比强调/H08_appliance_002.jpg"
+        image_role: "hero"
+        visual_anchor: "奶油色烤漆机身 vs 银色不锈钢功能件，暖白与冷银形成色温对比"
+    product_name: "意式浓缩咖啡机（含磨豆机）"
+    brand_name: "Smeg"
+    brand_confidence: "high"
+
+    category_path:
+      - "H08_对比强调"
+      - "家电"
+
+    design_language:
+      silhouette: "近正方形圆角机身，正面左右对称"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "奶油白（暖）vs 不锈钢银（冷）"
+        material: "烤漆钣金 + 不锈钢功能件"
+        finish: "哑光烤漆 vs 镜面不锈钢"
+      mounting: "台面放置"
+      signature_detail: "暖色奶油机身作为主体大面积背景，冷色不锈钢萃取头、蒸汽棒、磨豆仓作为功能强调点；色温对比（暖vs冷）与质感对比（哑光vs镜面）双重叠加，使功能件在视觉上自动突出"
+
+    design_level:
+      score: 4
+      reason: "色温对比策略明确：暖奶油色作底，冷钢色点缀功能件；但功能件数量较多（萃取头+蒸汽棒+压力表），焦点略分散；整体对比手法清晰可迁移"
+
+    design_tags:
+      - "H08对比强调"
+      - "色温对比（暖vs冷）"
+      - "质感对比（哑光vs镜面）"
+      - "功能件用冷色强调"
+      - "主从色彩分工"
+
+    hero_feature: "奶油白（主体）+ 不锈钢银（功能焦点）的冷暖对比，使操作区自动浮出视觉层次"
+    problem_solved: "全色机器难以区分操控区与外观区；冷暖色对比自然引导用户视线至功能件"
+    transferable_technique: "色温分工策略：主体用暖色系（奶油/米色）退后，功能区/操控区用冷色系（钢/黑）前进"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h08_appliance_003"
+    source_images:
+      - filename: "H08_appliance_003.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H08_对比强调/H08_appliance_003.jpg"
+        image_role: "hero"
+        visual_anchor: "与appliance_001同款，黑色门面+铜色线条，白底产品照"
+    product_name: "嵌入式烤箱（白底产品照）"
+    brand_name: "Smeg"
+    brand_confidence: "high"
+
+    category_path:
+      - "H08_对比强调"
+      - "家电"
+
+    design_language:
+      silhouette: "正方形嵌入式箱体，纯平门面"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "哑光黑 + 玫瑰铜金"
+        material: "钢化玻璃门面 + 金属边框"
+        finish: "高光钢化玻璃 + 拉丝铜"
+      mounting: "嵌入式"
+      signature_detail: "与appliance_001相同产品，白底产品照更清晰展示铜色线条与黑色主体的色彩比例；触控屏图标的彩色点阵与黑底形成局部色彩对比，进一步强调控制区"
+
+    design_level:
+      score: 5
+      reason: "白底产品照最清晰展示H08对比手法：铜线/黑底对比 + 彩色图标/黑底对比两层对比叠加；适合作为渲染参考图"
+
+    design_tags:
+      - "H08对比强调"
+      - "小面积亮色强调"
+      - "产品照参考"
+      - "多层对比叠加"
+      - "彩色图标强调控制区"
+
+    hero_feature: "铜色线条+彩色触控图标在黑色背景上产生双层对比，控制区与门面区主从分明"
+    problem_solved: "提供清晰的H08对比手法示例图，适合Step 08渲染参考"
+    transferable_technique: "多层对比叠加：大对比（异色框线）+ 小对比（彩色图标）分别针对不同层级创造焦点"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h08_appliance_004"
+    source_images:
+      - filename: "H08_appliance_004.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H08_对比强调/H08_appliance_004.jpg"
+        image_role: "hero"
+        visual_anchor: "与appliance_002同款，奶油色咖啡机白底产品照"
+    product_name: "意式浓缩咖啡机（含磨豆机，白底产品照）"
+    brand_name: "Smeg"
+    brand_confidence: "high"
+
+    category_path:
+      - "H08_对比强调"
+      - "家电"
+
+    design_language:
+      silhouette: "近正方形圆角机身，正面轴对称"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "奶油白（暖）vs 不锈钢银（冷）"
+        material: "烤漆钣金 + 不锈钢功能件"
+        finish: "哑光烤漆 vs 镜面不锈钢"
+      mounting: "台面放置"
+      signature_detail: "白底产品照，冷暖色对比比场景照更明确；压力表的红色指针在银色/奶油色背景中形成第三层对比焦点"
+
+    design_level:
+      score: 4
+      reason: "白底产品照清晰展示三层对比：奶油vs银（色温）、哑光vs镜面（质感）、红色指针vs整体（点缀色）；适合手法教学"
+
+    design_tags:
+      - "H08对比强调"
+      - "色温对比"
+      - "质感对比"
+      - "点缀色强调（红色指针）"
+      - "三层对比"
+
+    hero_feature: "压力表红色指针作为三级对比焦点，在冷暖主对比之外增加精准引导"
+    problem_solved: "功能区视觉指引不足；红色功能指示元素自然成为第一视线落点"
+    transferable_technique: "三层对比策略：主对比（色温）+ 次对比（质感）+ 点睛对比（点缀色功能件）"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h08_audio_005"
+    source_images:
+      - filename: "H08_audio_005.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H08_对比强调/H08_audio_005.jpg"
+        image_role: "hero"
+        visual_anchor: "纯蓝色礼盒4件套，深蓝盒体+亮蓝丝带，白色logo文字"
+    product_name: "Bang & Olufsen 礼盒包装套装"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+
+    category_path:
+      - "H08_对比强调"
+      - "音频"
+
+    design_language:
+      silhouette: "矩形礼盒，不同尺寸叠放"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "深钴蓝盒体 + 亮宝蓝丝带 + 纯白字"
+        material: "硬质礼盒 + 缎带"
+        finish: "哑光涂层纸盒 + 缎面丝带"
+      mounting: "N/A（包装）"
+      signature_detail: "深蓝主体与亮蓝丝带的同色相明度对比：主体退后，丝带前进；白色logo字体在深蓝上的强度最高的对比；大尺寸与小尺寸礼盒的形态对比强调层次"
+
+    design_level:
+      score: 4
+      reason: "同色相内的明度对比是高级对比手法（深蓝vs亮蓝），避免廉价感；白字/深底是视觉层级最清晰的对比；整体展示了用克制的色彩变化创造丰富层次"
+
+    design_tags:
+      - "H08对比强调"
+      - "同色相明度对比"
+      - "白字深底对比"
+      - "大小尺寸对比"
+      - "克制对比手法"
+
+    hero_feature: "深蓝+亮蓝同色相明度对比，比补色对比更克制，传递高端感"
+    problem_solved: "礼盒包装若用强烈补色对比显廉价；同色相明度差解决豪华感与对比感的矛盾"
+    transferable_technique: "同色相明度对比策略：主体用深色，功能强调区（按键/Logo/线条）用同色相亮色，克制而有效"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h08_audio_006"
+    source_images:
+      - filename: "H08_audio_006.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H08_对比强调/H08_audio_006.jpg"
+        image_role: "hero"
+        visual_anchor: "玫瑰金金属棒形耳机在耳内佩戴，冷金属光泽 vs 暗色发丝/皮肤背景"
+    product_name: "Bang & Olufsen Beoplay EX 无线耳机（佩戴场景）"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+
+    category_path:
+      - "H08_对比强调"
+      - "音频"
+
+    design_language:
+      silhouette: "矩形金属棒，两端圆角，极简几何形态"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "玫瑰金（冷暖中间色）vs 哑光黑耳塞"
+        material: "铝合金棒体 + 硅胶耳塞"
+        finish: "镜面抛光金属 vs 哑光软质硅胶"
+      mounting: "入耳佩戴"
+      signature_detail: "玫瑰金镜面金属棒在黑发/皮肤背景中高度突出；金属的高反射率与皮肤/发丝的低反射形成强烈质感对比；金属棒形态的几何感与耳朵的有机形态形成形态对比"
+
+    design_level:
+      score: 5
+      reason: "三重对比叠加：色彩（金属色vs肤色/黑发）+ 质感（镜面vs哑光皮肤）+ 形态（几何矩形vs有机耳廓）；耳机在视觉中心地位毫无疑问，佩戴场景即展示H08手法"
+
+    design_tags:
+      - "H08对比强调"
+      - "金属色vs肤色/发色"
+      - "镜面vs哑光质感对比"
+      - "几何vs有机形态对比"
+      - "三重对比叠加"
+
+    hero_feature: "玫瑰金金属棒在耳廓形成极强几何-有机对比，使耳机成为佩戴者的视觉焦点"
+    problem_solved: "耳机通常被设计为低调融入；反其道而行，用对比使耳机成为首饰级别的展示件"
+    transferable_technique: "几何vs有机形态对比：产品用强几何感对抗人体有机曲线，在使用场景中自动形成视觉强调"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h08_audio_007"
+    source_images:
+      - filename: "H08_audio_007.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H08_对比强调/H08_audio_007.jpg"
+        image_role: "hero"
+        visual_anchor: "玫瑰金收纳盒+两粒入耳耳机，金属棒上的黑色耳塞与金色棒体对比"
+    product_name: "Bang & Olufsen Beoplay EX 无线耳机（产品照含充电盒）"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+
+    category_path:
+      - "H08_对比强调"
+      - "音频"
+
+    design_language:
+      silhouette: "圆角矩形充电盒 + 矩形金属棒耳机"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "玫瑰金（主体）+ 哑光黑（耳塞）"
+        material: "铝合金充电盒 + 铝合金耳机棒 + 硅胶耳塞"
+        finish: "拉丝+镜面金属 vs 哑光黑硅胶"
+      mounting: "N/A（产品照）"
+      signature_detail: "充电盒玫瑰金拉丝与顶部细缝线的光影对比；耳机金色棒端与黑色耳塞头的色彩对比——黑色耳塞功能性强调（入耳端）同时成为视觉收尾点；盒体圆角与耳机硬边角的形态对比"
+
+    design_level:
+      score: 4
+      reason: "金/黑对比精准指向功能分区（金=触控/品牌展示端，黑=功能入耳端）；充电盒的细缝线在整面金属上创造精准焦点；整体对比有逻辑且传递功能信息"
+
+    design_tags:
+      - "H08对比强调"
+      - "金vs黑材质对比"
+      - "功能端用对比色强调"
+      - "细缝线光影对比"
+      - "对比兼具功能引导"
+
+    hero_feature: "黑色耳塞与金色棒体的对比精准标记出入耳端，对比同时传递功能信息"
+    problem_solved: "入耳端方向易混淆；黑色耳塞通过对比自动成为功能识别标记"
+    transferable_technique: "功能对比策略：对比色不只作装饰，同时标记功能端/操控区，使用户自然识别"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h08_furniture_008"
+    source_images:
+      - filename: "H08_furniture_008.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H08_对比强调/H08_furniture_008.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝灰色金属餐桌椅，网格椅背 vs 实心桌面，工业高窗白帘背景"
+    product_name: "Kartell餐桌椅组合（蓝灰色系）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H08_对比强调"
+      - "家具"
+
+    design_language:
+      silhouette: "方形桌面 + 细腿；椅子背镂空矩形网格"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "蓝灰（统一色）"
+        material: "金属腿 + 铝/复合桌面 + 网格椅背"
+        finish: "哑光喷涂统一色"
+      mounting: "落地"
+      signature_detail: "实心桌面与镂空网格椅背在同色涂层下的形态对比：实 vs 虚；细腿的线性感与桌面的平面感的对比；在白色帷幔+高窗背景下，深色家具作为整体与背景形成色彩对比"
+
+    design_level:
+      score: 3
+      reason: "对比手法以实/虚形态对比为主（实桌面vs网格椅背），色彩上统一而无对比；场景利用背景与家具的明度对比；整体对比手法偏弱，更多展示H07整合而非H08强对比"
+
+    design_tags:
+      - "H08对比强调"
+      - "实vs虚形态对比"
+      - "桌面vs椅背镂空对比"
+      - "家具vs背景明度对比"
+      - "细腿vs平面对比"
+
+    hero_feature: "实心桌面与镂空网格椅背在同色系下的虚实对比，轻量感与稳重感并置"
+    problem_solved: "全实心家具视觉沉重；全镂空家具视觉飘浮；虚实组合兼顾两者"
+    transferable_technique: "虚实对比策略：同色系下桌面用实面，椅背用镂空，通过虚实而非色彩创造视觉层次"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h08_furniture_009"
+    source_images:
+      - filename: "H08_furniture_009.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H08_对比强调/H08_furniture_009.jpg"
+        image_role: "hero"
+        visual_anchor: "同furniture_008，蓝灰色餐桌椅场景，不同角度"
+    product_name: "Kartell餐桌椅组合（蓝灰色系，同furniture_008另一图）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H08_对比强调"
+      - "家具"
+
+    design_language:
+      silhouette: "方形桌面 + 细腿；椅子背镂空矩形网格"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "蓝灰（统一色）"
+        material: "金属腿 + 复合桌面 + 网格椅背"
+        finish: "哑光喷涂统一色"
+      mounting: "落地"
+      signature_detail: "与furniture_008相同产品，此图更清晰展示桌面、桌腿、椅框的色彩统一与虚实的形态分化；秋色花束作为暖色点缀与整套蓝灰家具形成色彩补色对比"
+
+    design_level:
+      score: 3
+      reason: "同furniture_008；此图额外展示了场景道具（暖橙色花束）与家具冷蓝灰色的补色对比，道具vs家具的色彩对比强化了整体场景层次"
+
+    design_tags:
+      - "H08对比强调"
+      - "实vs虚形态对比"
+      - "场景道具补色对比"
+      - "冷蓝vs暖橙"
+      - "家具统一色内虚实分化"
+
+    hero_feature: "暖橙色花束在冷蓝灰家具中形成强烈补色视觉焦点，放大家具的色彩特征"
+    problem_solved: "单色家具场景缺乏活力；用对比色道具激活家具色彩的冷静特质"
+    transferable_technique: "场景补色策略：产品自身用统一冷色，场景中置入暖色道具，用补色对比强调产品色彩特征"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h08_furniture_010"
+    source_images:
+      - filename: "H08_furniture_010.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H08_对比强调/H08_furniture_010.jpg"
+        image_role: "hero"
+        visual_anchor: "白色boucle沙发（软）vs 大理石/黑色边桌（硬），有机曲线vs几何圆形，Kartell品牌册散落"
+    product_name: "现代客厅家具组合（含Kartell品牌资料）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H08_对比强调"
+      - "家具"
+
+    design_language:
+      silhouette: "有机圆弧沙发+异形椅 vs 几何圆形桌"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "米白boucle（暖软）vs 大理石米色+黑色边桌（冷硬）"
+        material: "绒面boucle织物 vs 大理石/黑色金属"
+        finish: "绒面粗织 vs 光滑石材/金属"
+      mounting: "落地"
+      signature_detail: "软（boucle绒面）与硬（大理石/金属）的材质对比是场景核心；暖白（沙发）与冷白（大理石）的色温微妙对比；有机大曲线（沙发轮廓）与精确圆形（桌面）的形态对比"
+
+    design_level:
+      score: 4
+      reason: "软硬材质对比是该场景H08手法的主要表达：boucle绒面吸光 vs 大理石高光反射，两者并置产生强烈质感层次；形态的有机vs几何对比进一步丰富层次"
+
+    design_tags:
+      - "H08对比强调"
+      - "软vs硬材质对比"
+      - "绒面vs光滑质感对比"
+      - "有机vs几何形态对比"
+      - "暖白vs冷白色温对比"
+
+    hero_feature: "boucle软包沙发与大理石桌面的软硬质感并置，是家具场景中最典型的H08对比强调"
+    problem_solved: "全软或全硬家具场景缺乏层次；软硬对比使视觉自动分级，柔性区与刚性区各司其职"
+    transferable_technique: "软硬对比策略：坐卧区用吸光软材质（绒面/皮革），支撑/台面区用反光硬材质（大理石/金属），并置创造丰富层次"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""

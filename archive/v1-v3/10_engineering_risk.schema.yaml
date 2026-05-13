@@ -1,0 +1,45 @@
+# 10_engineering_risk.schema.yaml — 工程风险
+
+schema_version: "2.0"
+
+required:
+  risk_top5:
+    type: list
+    description: "Top5工程风险"
+    item_schema:
+      rank:
+        type: integer
+        range: [1, 5]
+      category:
+        type: enum
+        values: ["结构", "电气", "可靠性", "人因", "成本", "法规"]
+      risk:
+        type: string
+        description: "具体风险描述"
+      level:
+        type: enum
+        values: ["H", "M", "L"]
+        description: "H=不解决无法量产/认证；M=影响成本或交期；L=优化项"
+      mitigation:
+        type: string
+        description: "缓解动作，不得为空"
+      owner:
+        type: string
+        description: "负责人/角色"
+
+  dfm_verdict:
+    type: enum
+    values: ["green", "yellow", "red"]
+    description: "综合DFM判定（来自05_render_definition_pack的最低分方案）"
+
+  certification_path:
+    type: list
+    description: "认证路径说明，每条含认证名称/机构/预计周期/成本估算"
+
+  manufacturing_timeline:
+    type: string
+    description: "制造时间线估算（样品→小批→量产）"
+
+validation:
+  - risk_top5每条的mitigation不得为空
+  - dfm_verdict=red时必须说明回流建议

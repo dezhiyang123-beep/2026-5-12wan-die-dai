@@ -1,0 +1,470 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "圆锯"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_圆锯_001"
+    source_images:
+      - filename: "电锯__圆锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "正侧面视角，后手柄式圆锯（worm drive），7-1/4英寸红色Milwaukee FRAMING刀片裸露，银灰色圆形护罩正面印Milwaukee FUEL品牌徽标，红色机身上部后置把手配黑色橡胶防滑包覆，灰色铝制底板，无电池裸机状态"
+      - filename: "电锯__圆锯__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__11.jpg"
+        image_role: "detail"
+        visual_anchor: "斜后45度视角，后手柄式圆锯，红色机身与银色护罩对比清晰，可见锯片调节弧形轨道和斜切角刻度标尺"
+    product_name: "Milwaukee M18 FUEL Rear Handle Circular Saw 7-1/4\""
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "后手柄式（worm drive）布局：把手位于机身最后方，电机纵向布置，机身呈水平长方体延伸，重心靠后，整体轮廓比标准圆锯更长更低矮"
+      light_opening: "N/A"
+      thermal: "电机舱两侧设有通风槽，前方护罩开口自然散热"
+      cmf:
+        color: "主色：Milwaukee亮红色（#DB2323近似），次色：哑光黑色（橡胶握把区），护罩：银灰色金属涂装"
+        material: "机身：注塑工程塑料；护罩：铸铝/压铸铝；底板：镁合金/铝合金；握把包覆：TPR橡胶"
+        finish: "机身：亮面喷漆；护罩：亚光金属漆；握把：磨砂防滑纹"
+      mounting: "M18电池接口位于机身底部后端（裸机无电池）"
+      signature_detail: "护罩正面红色Milwaukee闪电FUEL徽标+圆形刀片护罩银色哑光漆；后置把手人体工学弧度；锯片斜切调节弧形导轨带刻度"
+    design_level:
+      score: 4
+      reason: "FUEL系列设计语言高度统一，红黑银三色组合品牌识别度极强，后手柄式布局具备专业工地辨识感，比例控制精准，细节处理干净"
+    design_tags:
+      - "M18_FUEL"
+      - "后手柄圆锯"
+      - "worm_drive"
+      - "7-1/4英寸"
+      - "红黑银配色"
+      - "无绳"
+    hero_feature: "后置把手+纵向电机布局，重心低矮，适合单手长时间切割操控"
+    problem_solved: "解决标准圆锯把手位置导致的腕部扭转疲劳，后手柄式提供更直觉的推进力方向"
+    transferable_technique: "护罩+机身双层品牌徽标叠加策略（H08对比强调）；把手末端圆润收口处理（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_圆锯_002"
+    source_images:
+      - filename: "电锯__圆锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "套装展示图：圆锯+M18 REDLITHIUM FORGE HD12.0电池+充电器+红色Milwaukee帆布工具包，圆锯为标准顶置把手款，7-1/4英寸，红色机身+银灰色护罩，机身顶部可见WiFi ONE-KEY连接指示"
+      - filename: "电锯__圆锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__05.jpg"
+        image_role: "detail"
+        visual_anchor: "正侧面特写，顶置D形把手圆锯，7-1/4英寸红色FRAMING刀片，银灰色护罩，机身顶部ONE-KEY WiFi模块可见，护罩上Milwaukee FUEL钻石徽标清晰"
+      - filename: "电锯__圆锯__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__07.jpg"
+        image_role: "detail"
+        visual_anchor: "正侧面裸机视图，顶置把手圆锯，7-1/4英寸，护罩银灰色，无电池，机身顶部显示BRUSHLESS文字标识"
+    product_name: "Milwaukee M18 FUEL Circular Saw 7-1/4\" (Top Handle, ONE-KEY)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "标准顶置D形把手布局：把手在机身顶部中央，电机横向布置，机身紧凑，正视呈近似等腰梯形轮廓，底部底板水平延伸"
+      light_opening: "N/A"
+      thermal: "机身侧面通风槽，护罩后方开口"
+      cmf:
+        color: "主色：Milwaukee亮红色，次色：哑光黑色橡胶区，护罩：银灰色金属漆"
+        material: "机身：玻璃纤维增强尼龙；护罩：压铸铝；底板：镁合金；握把：TPR橡胶"
+        finish: "机身：亮面红漆；护罩：亚光银灰；握把：磨砂黑"
+      mounting: "M18电池竖向插入机身后下方"
+      signature_detail: "护罩顶部Milwaukee FUEL钻石形徽标；机身集成ONE-KEY WiFi无线连接模块；顶置把手内侧扣板设计"
+    design_level:
+      score: 4
+      reason: "现代M18 FUEL设计语言完整体现，ONE-KEY数字化集成无缝融入机身，整体比例和谐，品牌辨识度高"
+    design_tags:
+      - "M18_FUEL"
+      - "顶置把手"
+      - "ONE-KEY"
+      - "7-1/4英寸"
+      - "套装"
+      - "无绳"
+    hero_feature: "ONE-KEY无线连接功能模块集成于顶置把手后方，实现电子防盗+参数记录"
+    problem_solved: "顶置把手提供更直觉的压刀切割感，ONE-KEY解决工具被盗和速度设置问题"
+    transferable_technique: "功能模块（WiFi/蓝牙）无缝集成于把手区域，不破坏整体轮廓（H09隐藏工程）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_圆锯_003"
+    source_images:
+      - filename: "电锯__圆锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__03.jpg"
+        image_role: "hero"
+        visual_anchor: "套装展示，后手柄式圆锯10-1/4英寸，红色机身，银灰色超大护罩，M18 FORGE电池+充电器+红色工具袋，护罩尺寸明显大于7-1/4英寸版本"
+      - filename: "电锯__圆锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__04.jpg"
+        image_role: "detail"
+        visual_anchor: "正侧45度视角，10-1/4英寸后手柄圆锯，护罩银灰色极大，红色机身与黑色橡胶把手对比，底部镁合金底板宽大，斜切调节机构清晰可见"
+    product_name: "Milwaukee M18 FUEL Rear Handle Circular Saw 10-1/4\""
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "大尺寸后手柄式，10-1/4英寸刀片对应超大护罩，机身比7-1/4版本显著更宽更重，底板加长，整体视觉感工程级厚重"
+      light_opening: "N/A"
+      thermal: "电机舱通风槽沿机身纵向分布"
+      cmf:
+        color: "主色：亮红色，次色：黑色，护罩：银灰色"
+        material: "机身：工程塑料；护罩：压铸铝；底板：镁合金"
+        finish: "机身亮漆，护罩亚光银"
+      mounting: "M18电池接口，套装含FORGE电池"
+      signature_detail: "超大10-1/4英寸护罩形成视觉主体，后置把手与机身的比例关系；FUEL徽标在护罩正上方位置"
+    design_level:
+      score: 4
+      reason: "大尺寸工程级形态，品牌语言一致，护罩与机身比例关系专业，整体厚重感与产品定位匹配"
+    design_tags:
+      - "M18_FUEL"
+      - "后手柄圆锯"
+      - "10-1/4英寸"
+      - "大型"
+      - "无绳"
+    hero_feature: "10-1/4英寸超大刀片，可切割更厚木材，护罩尺寸形成强烈视觉冲击"
+    problem_solved: "解决7-1/4英寸圆锯无法一次切割双层厚木料（如2x12木板）的问题"
+    transferable_technique: "大尺寸功能件（护罩）直接成为视觉焦点的设计策略（H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_圆锯_004"
+    source_images:
+      - filename: "电锯__圆锯__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__06.jpg"
+        image_role: "hero"
+        visual_anchor: "套装图，后手柄式7-1/4英寸圆锯+M18 FORGE电池+充电器+红色工具袋，与02号产品同款但无ONE-KEY版本，护罩银灰色，机身亮红"
+    product_name: "Milwaukee M18 FUEL Rear Handle Circular Saw 7-1/4\" (Kit)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "后手柄式7-1/4英寸，与001号产品同款形态"
+      light_opening: "N/A"
+      thermal: "电机舱通风槽"
+      cmf:
+        color: "主色：亮红色，次色：黑色，护罩：银灰色"
+        material: "注塑机身，铸铝护罩，镁合金底板，TPR握把"
+        finish: "亮面红漆机身，亚光银灰护罩"
+      mounting: "M18 FORGE电池，套装配件"
+      signature_detail: "Milwaukee FUEL徽标在护罩正面，后置把手黑色橡胶包覆"
+    design_level:
+      score: 4
+      reason: "标准FUEL系列设计语言，套装包装展示完整，品牌一致性强"
+    design_tags:
+      - "M18_FUEL"
+      - "后手柄圆锯"
+      - "7-1/4英寸"
+      - "套装"
+      - "无绳"
+    hero_feature: "后置把手工人体工学布局，配合M18 FORGE大容量电池实现长时间施工"
+    problem_solved: "套装配置满足开箱即用需求，无需单独购置电池充电器"
+    transferable_technique: "套装展示图中配件颜色统一（红色工具包），形成品牌氛围强化（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_圆锯_005"
+    source_images:
+      - filename: "电锯__圆锯__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__08.jpg"
+        image_role: "hero"
+        visual_anchor: "正侧面，M18 FUEL顶置把手6-1/2英寸圆锯，银灰色护罩，刀片为标准FRAMING 6-1/2英寸银色，红色机身，黑色前辅助把手球形端头，底板铝合金"
+      - filename: "电锯__圆锯__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__13.jpg"
+        image_role: "detail"
+        visual_anchor: "斜前45度，M18 FUEL 6-1/2英寸，护罩银灰，机身红色，前辅助把手球形端头黑色，电池槽口清晰可见"
+    product_name: "Milwaukee M18 FUEL Circular Saw 6-1/2\""
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "顶置把手式，6-1/2英寸紧凑型，护罩略小，前辅助把手为球形握持端，整体比7-1/4版本更轻便，高宽比更协调"
+      light_opening: "N/A"
+      thermal: "机身后侧通风槽"
+      cmf:
+        color: "主色：亮红色，次色：黑色，护罩：银灰色"
+        material: "工程塑料机身，铸铝护罩，铝合金底板"
+        finish: "机身亮红漆，护罩亚光银灰，前把手磨砂黑"
+      mounting: "M18电池竖插后下方"
+      signature_detail: "前辅助把手球形端头设计，提供多角度握持支点；FUEL钻石徽标于护罩顶部"
+    design_level:
+      score: 3
+      reason: "延续FUEL设计语言，6-1/2英寸尺寸比例协调，但相比7-1/4版本视觉冲击力稍弱"
+    design_tags:
+      - "M18_FUEL"
+      - "顶置把手"
+      - "6-1/2英寸"
+      - "紧凑型"
+      - "无绳"
+    hero_feature: "球形前辅助把手提供360度握持角度，单手操作稳定性提升"
+    problem_solved: "比7-1/4英寸更轻，适合精细作业和狭窄空间操控"
+    transferable_technique: "球形把手端头可迁移至其他手持工具（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_圆锯_006"
+    source_images:
+      - filename: "电锯__圆锯__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__09.jpg"
+        image_role: "hero"
+        visual_anchor: "斜视角，M12 FUEL 5-3/8英寸圆锯，红色机身+银灰色护罩，M12 REDLITHIUM XC5.0电池侧插，顶置把手D形，整体尺寸明显小于M18版本，刀片为标准FRAMING银色"
+      - filename: "电锯__圆锯__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__10.jpg"
+        image_role: "detail"
+        visual_anchor: "正侧面，M12 FUEL 5-3/8英寸裸机，机身红色比例紧凑，前辅助把手为小球形，护罩银灰，底板铝制，整体尺寸约为M18的70%"
+      - filename: "电锯__圆锯__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__12.jpg"
+        image_role: "detail"
+        visual_anchor: "正侧面裸机，M12 FUEL 5-3/8英寸，顶置把手，银灰护罩，红色机身，无电池展示比例关系"
+    product_name: "Milwaukee M12 FUEL Circular Saw 5-3/8\""
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "M12系列紧凑顶置把手布局，5-3/8英寸刀片对应较小护罩，整体高宽比接近1:1，比M18更接近方形轮廓"
+      light_opening: "N/A"
+      thermal: "机身侧面细条通风槽"
+      cmf:
+        color: "主色：亮红色，次色：黑色，护罩：银灰色"
+        material: "工程塑料，铸铝护罩，铝合金底板"
+        finish: "亮红漆机身，亚光银灰护罩"
+      mounting: "M12电池侧插（区别于M18的底插）"
+      signature_detail: "M12特有的侧插电池接口，整体小尺寸带来的高机动性；FUEL徽标护罩顶部"
+    design_level:
+      score: 3
+      reason: "M12延续品牌语言，尺寸缩减控制得当，侧插电池为独特细节，但整体设计感略逊于M18 FUEL旗舰"
+    design_tags:
+      - "M12_FUEL"
+      - "顶置把手"
+      - "5-3/8英寸"
+      - "紧凑型"
+      - "无绳"
+      - "侧插电池"
+    hero_feature: "M12电池侧插设计降低工具重心高度，小体积适合单手操持"
+    problem_solved: "M12系列重量约1.4kg，比M18轻约40%，适合精装修、橱柜制作等轻量化切割需求"
+    transferable_technique: "侧插电池将重心压低，改善单手操作平衡（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_圆锯_007"
+    source_images:
+      - filename: "电锯__圆锯__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__14.jpg"
+        image_role: "hero"
+        visual_anchor: "正侧面，M18无绳圆锯（非FUEL版），7-1/4英寸，银灰护罩，红色机身但颜色略深，顶置D形把手，护罩上Milwaukee徽标无FUEL字样，机身标注BRUSHLESS无刷，底板铝合金，整体设计较FUEL版简洁"
+      - filename: "电锯__圆锯__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__15.jpg"
+        image_role: "detail"
+        visual_anchor: "正侧面，M18无绳圆锯6-1/2英寸，前辅助把手球形端头，银灰护罩，红色机身，Milwaukee品牌名无FUEL标注"
+    product_name: "Milwaukee M18 Brushless Circular Saw (Non-FUEL)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "标准顶置把手式，形态与FUEL版相近但细节处理稍简化"
+      light_opening: "N/A"
+      thermal: "机身侧面通风槽"
+      cmf:
+        color: "主色：亮红色（与FUEL版相近），次色：黑色，护罩：银灰色"
+        material: "注塑机身，铸铝护罩，铝底板"
+        finish: "亮红漆，亚光银灰"
+      mounting: "M18电池竖插"
+      signature_detail: "护罩Milwaukee徽标无FUEL字样，机身BRUSHLESS标识区分产品层级"
+    design_level:
+      score: 3
+      reason: "品牌语言延续，但缺少FUEL特有的钻石徽标和ONE-KEY等差异化细节，设计层级低于FUEL版"
+    design_tags:
+      - "M18"
+      - "Brushless"
+      - "顶置把手"
+      - "7-1/4英寸"
+      - "非FUEL"
+      - "无绳"
+    hero_feature: "无刷电机降低维护成本，延续品牌红黑配色"
+    problem_solved: "提供比有绳款更便携、比FUEL款更经济的无绳圆锯选项"
+    transferable_technique: "通过徽标和文字标注区分产品线层级，同一外观下区隔SKU（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_圆锯_008"
+    source_images:
+      - filename: "电锯__圆锯__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__16.jpg"
+        image_role: "hero"
+        visual_anchor: "斜视角，旧款Milwaukee V28无绳圆锯（约2008-2012年代），6-1/2英寸，红色机身颜色较深（偏暗红），银灰护罩，Milwaukee Endurance刀片，M28电池后插，把手造型圆润无棱角，无FUEL/Brushless标注"
+      - filename: "电锯__圆锯__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__17.jpg"
+        image_role: "detail"
+        visual_anchor: "斜视角含M28电池，旧款V28/M28圆锯，Endurance刀片，M28 LITHIUM电池后插，整体造型圆润，较现代款笨重"
+    product_name: "Milwaukee V28/M28 Circular Saw 6-1/2\" (Legacy)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "早期Milwaukee圆锯形态，顶置把手，机身曲线更圆润，无现代FUEL系列的锋利分件线和肌肉感"
+      light_opening: "N/A"
+      thermal: "机身后方通风槽"
+      cmf:
+        color: "主色：深红色（偏暗），次色：黑色，护罩：银灰色"
+        material: "注塑机身，铝护罩，铝底板"
+        finish: "亮漆红色，亚光银灰"
+      mounting: "M28/V28旧款电池后插"
+      signature_detail: "Endurance品牌刀片（Milwaukee旧款刀片品牌），圆润机身造型，V28时代设计语言"
+    design_level:
+      score: 2
+      reason: "旧款设计，品牌语言已迭代，造型圆润但缺乏现代感，作为历史演变参考价值高"
+    design_tags:
+      - "V28_M28"
+      - "旧款"
+      - "顶置把手"
+      - "6-1/2英寸"
+      - "Endurance刀片"
+      - "无绳"
+      - "legacy"
+    hero_feature: "Milwaukee品牌最早期无绳圆锯，Endurance刀片为旧款标配"
+    problem_solved: "Milwaukee最早的28V无绳圆锯方案，奠定品牌无绳工具品类基础"
+    transferable_technique: "可作为品牌语言演变研究的对比基准，了解Milwaukee红色从暗红到亮红的迭代（H10材料表达历史对比）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_圆锯_009"
+    source_images:
+      - filename: "电锯__圆锯__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__18.jpg"
+        image_role: "hero"
+        visual_anchor: "斜视角，Milwaukee有线后手柄圆锯（corded），7-1/4英寸，红色机身，白灰色护罩（非银色），Milwaukee Endurance刀片，电源线从后方引出，后置把手，底板黑色，整体比无绳款更纤细"
+      - filename: "电锯__圆锯__19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__19.jpg"
+        image_role: "detail"
+        visual_anchor: "侧面，Milwaukee有线圆锯7-1/4英寸，红色机身护罩，Endurance刀片，电源线可见"
+      - filename: "电锯__圆锯__20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__20.jpg"
+        image_role: "detail"
+        visual_anchor: "斜视角，Milwaukee有线后手柄圆锯，7-1/4英寸，同款型不同角度"
+    product_name: "Milwaukee Corded Rear Handle Circular Saw 7-1/4\" (Endurance)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "有线款后手柄式，无需容纳电池，机身后部更纤细，整体更轻，护罩呈白灰色（旧款涂装）"
+      light_opening: "N/A"
+      thermal: "电机舱通风槽"
+      cmf:
+        color: "主色：红色，护罩：白灰色（旧款），次色：黑色"
+        material: "注塑机身，铝护罩"
+        finish: "亮漆红色，白灰色护罩"
+      mounting: "有线电源，无电池接口"
+      signature_detail: "有线款特有的纤细后部造型；白灰色护罩为旧款特征；Milwaukee Endurance刀片"
+    design_level:
+      score: 2
+      reason: "旧款有线设计，品牌语言陈旧，白灰护罩不如现代银灰精致，作为品牌历史记录使用"
+    design_tags:
+      - "有线"
+      - "corded"
+      - "后手柄圆锯"
+      - "7-1/4英寸"
+      - "Endurance刀片"
+      - "旧款"
+      - "legacy"
+    hero_feature: "有线款无需电池，持续输出功率不受电量影响"
+    problem_solved: "重度连续切割作业中不受电池续航限制"
+    transferable_technique: "有线款后部纤细造型可作为无绳款重量分布优化的参考（H01减法）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_圆锯_010"
+    source_images:
+      - filename: "电锯__圆锯__21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__21.jpg"
+        image_role: "hero"
+        visual_anchor: "斜视角，Milwaukee旧款有线圆锯7-1/4英寸，红色机身，银白色护罩，Milwaukee刀片（Carbide Tipped），顶置把手弧形，有线款无电池，手柄位置较高，底板银白"
+      - filename: "电锯__圆锯__22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__22.jpg"
+        image_role: "detail"
+        visual_anchor: "斜视角，Milwaukee有线大圆锯10-3/4英寸，红+灰白色护罩，FRAMING刀片28齿，较宽大护罩，有线款"
+      - filename: "电锯__圆锯__23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__圆锯__23.jpg"
+        image_role: "detail"
+        visual_anchor: "斜视角，Milwaukee有线7-1/4英寸顶置把手圆锯，红色机身，白色护罩，Endurance刀片16齿，有线款后部纤细"
+    product_name: "Milwaukee Corded Circular Saw 7-1/4\" Top Handle (Legacy)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "早期有线顶置把手圆锯，机身比例较高，护罩颜色偏白灰，整体造型圆润少棱角"
+      light_opening: "N/A"
+      thermal: "机身侧面通风槽"
+      cmf:
+        color: "主色：红色，护罩：白灰色，次色：黑色"
+        material: "注塑机身，铝合金护罩，铝合金底板"
+        finish: "亮漆红，白灰色护罩"
+      mounting: "有线电源"
+      signature_detail: "旧款白灰护罩，Milwaukee草书字体（非现代闪电图形标志），有线款设计"
+    design_level:
+      score: 2
+      reason: "旧款设计，品牌语言已大幅更新，作为Milwaukee品牌演变参考"
+    design_tags:
+      - "有线"
+      - "corded"
+      - "顶置把手"
+      - "7-1/4英寸"
+      - "旧款"
+      - "legacy"
+    hero_feature: "Milwaukee最早期有线圆锯，展示品牌设计语言从草书字体到现代闪电徽标的演变"
+    problem_solved: "基础木工切割，有线持续输出"
+    transferable_technique: "品牌从草书字体到图形徽标的语言演变，对比现代款的设计进化路径"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

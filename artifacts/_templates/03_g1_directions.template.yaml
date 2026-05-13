@@ -1,0 +1,54 @@
+# G1方向包模板（analyst输出）
+# 符合 contracts/g1_directions.schema.yaml
+
+project_id: "20260403-ACG-LIGHT"
+
+directions:
+  - direction_id: "D-A"
+    title: "无手固定专用灯"
+    core_claim: "解决双手操作场景中的照明固定矛盾——让灯在无理想吸附面的场景也能稳定固定"
+    behavioral_contradiction: "要照亮作业面就必须有人扶灯→但有人扶灯就无法双手操作"
+    supporting_evidence:
+      - "Amazon评论中'磁力不足'是NEBO Slyde King最高频投诉(N=15)[M-Amazon评论]"
+      - "工地/管道井用户场景在便携灯评论中出现频率高[M-有限观察]"
+    counter_evidence:
+      - "DEWALT DCL040已有固定支架设计，市场是否有空间[H-竞品分析]"
+    assumptions:
+      verified:
+        - "用户有双手操作场景需求[M-用户评论间接证据]"
+      unverified:
+        - "ACG客户接受'专业工具定位'的方向[L-待验证]"
+    boss_7d_preview:
+      use_scenario: "工人在管道井内检修，需双手操作[H]"
+      target_user: "专业技工/DIY重度用户[M]"
+      differentiation: "固定可靠性vs NEBO，UNKNOWN具体差异点"
+      manufacturability: "需要新型固定机构，风险待评估[L]"
+      cost_structure: "UNKNOWN，取决于固定机构成本"
+      market_size: "UNKNOWN，需G1情报补充"
+      client_buyin: "ACG接受专业化方向[M，需确认]"
+    analyst_pick: "推荐D-A，因为用户痛点有具体证据（N=15）。可能错在：DEWALT已有类似方案，ACG不一定愿意与工具品牌竞争。"
+
+  - direction_id: "D-B"
+    title: "超轻便携极简灯"
+    core_claim: "压缩到最小体积和重量，牺牲大部分功能，只保留一个场景做到极致"
+    behavioral_contradiction: "要功能完整就需要更大体积→但体积大了就失去便携优势"
+    supporting_evidence:
+      - "EDC携带用户对重量/尺寸敏感度高[M-有限观察]"
+    counter_evidence:
+      - "ACG客户档案风格偏好'功能表达'，极简方向可能不符合品牌调性[H-客户档案]"
+    assumptions:
+      verified:
+        - "ACG渠道有EDC用户群体[M]"
+      unverified:
+        - "极简灯能在$30以内实现目标差异化[L]"
+    boss_7d_preview:
+      use_scenario: "UNKNOWN"
+      target_user: "UNKNOWN"
+      differentiation: "UNKNOWN"
+      manufacturability: "低，结构简单[H]"
+      cost_structure: "UNKNOWN"
+      market_size: "UNKNOWN"
+      client_buyin: "与ACG风格不符，买单可能性低[M]"
+    analyst_pick: "不推荐D-B，与客户档案风格禁忌冲突。可能错在：如果ACG愿意拓展品类可能有机会。"
+
+analyst_risk_note: "情报包中竞品矩阵仅2个详细竞品，G1建议补充至5个再做最终方向决策。D-A的制造可行性和成本结构均为UNKNOWN。"

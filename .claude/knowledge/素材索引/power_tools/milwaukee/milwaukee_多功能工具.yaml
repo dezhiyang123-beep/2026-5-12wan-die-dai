@@ -1,0 +1,102 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "多功能工具"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/多功能工具/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_多功能工具_001"
+    source_images:
+      - filename: "多功能工具__切割工具__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/多功能工具/多功能工具__切割工具__01.jpg"
+        image_role: "hero"
+        visual_anchor: "M18无线切割/开孔工具侧视，圆柱形直握式机身，红色前端+黑色握把主体+红色尾端，左侧M18标识，右侧金属挂钩，前端黑色圆形深度止停盘+钻头，机身细长比例约4:1"
+    product_name: "Milwaukee M18 Cut-Out Tool 开孔工具"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "多功能工具", "切割工具"]
+    design_language:
+      silhouette: "细长圆柱直握式，前端工作区+中段握持区+尾端电池接口三段式，机身长径比约4:1"
+      light_opening: "N/A"
+      thermal: "中段黑色橡胶握区内集成散热，机身表面通风槽不明显"
+      cmf:
+        color: "亮红色（前端+尾端）+ 黑色（握把主体）双色对称分布"
+        material: "工程塑料外壳 + TPR橡胶握把 + 金属深度止停盘"
+        finish: "红色区域哑光，握把区域纹理防滑"
+      mounting: "M18滑轨式电池尾部插入"
+      signature_detail: "前端黑色圆形深度导向盘（深度调节可视化），右侧金属挂钩，红色双端夹持整体细长轮廓"
+    design_level:
+      score: 3
+      reason: "细长圆柱形直握式在品类中执行标准Milwaukee语法，红-黑-红三段对称色块分布整洁，深度止停盘是功能外显亮点，整体执行到位"
+    design_tags:
+      - "H07_极简"
+      - "H08_对比强调"
+      - "H11_功能外显"
+    hero_feature: "细长圆柱直握构型 + 前端黑色圆形深度止停盘"
+    problem_solved: "石膏板等薄板开孔，需要精确深度控制防止钻穿墙背后电线"
+    transferable_technique: "圆柱直握式工具的红-黑-红三段对称色块分布，传递专业性和品牌识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_多功能工具_002"
+    source_images:
+      - filename: "多功能工具__摆动工具__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/多功能工具/多功能工具__摆动工具__01.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL无线摆动多功能工具侧视，头部斜切灰黑色马达盖+红色机身+黑色握把，前端锁紧旋钮黑色，速度调节拨盘（10档）集成于侧面，摆动刀片向下伸出，尾端红色M18电池接口，整体轮廓楔形"
+      - filename: "多功能工具__摆动工具__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/多功能工具/多功能工具__摆动工具__02.jpg"
+        image_role: "alt"
+        visual_anchor: "同款M18 FUEL带M18电池侧视，电池为红黑色长方体，整体重心更靠后，完整套装状态"
+      - filename: "多功能工具__摆动工具__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/多功能工具/多功能工具__摆动工具__03.jpg"
+        image_role: "alt"
+        visual_anchor: "M12 FUEL摆动工具侧视，机身比M18更纤细/短，黑色主导+红色点缀，头部黑色马达盖更大比例，速度拨盘（12档）侧面可见，M12标识清晰"
+      - filename: "多功能工具__摆动工具__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/多功能工具/多功能工具__摆动工具__04.jpg"
+        image_role: "alt"
+        visual_anchor: "M18（非FUEL）摆动工具侧视，红色比例更高，头部较小，散热格栅在机身中段红色区域，速度拨盘（12档）外露，前端锁扣为黑色，整体更圆润"
+      - filename: "多功能工具__摆动工具__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/多功能工具/多功能工具__摆动工具__05.jpg"
+        image_role: "alt"
+        visual_anchor: "M12摆动工具侧视，机身最纤细/最短，红色主导+黑色辅助，头部小，无刷标识，M12紧凑比例最突出，速度拨盘外置右侧"
+    product_name: "Milwaukee M18/M12 FUEL 摆动多功能工具"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "多功能工具", "摆动工具"]
+    design_language:
+      silhouette: "楔形直握式，头部较宽（含马达+锁紧机构）向前收窄至刀片接口，尾端为电池接口，侧面轮廓呈锥形，整体比例约3:1"
+      light_opening: "N/A"
+      thermal: "黑色马达盖区域（顶部）集中散热，M18 FUEL版头部更大以容纳无刷马达"
+      cmf:
+        color: "FUEL版：黑色主导（头部+握把）+ 红色点缀（机身中段+尾端）; 标准版：红色主导 + 黑色功能区"
+        material: "工程塑料外壳 + TPR橡胶握把 + 金属刀片锁紧机构"
+        finish: "外壳哑光，握把纹理防滑，锁紧旋钮光滑"
+      mounting: "M18/M12滑轨式电池"
+      signature_detail: "斜切面头部（容纳摆动机构），侧面速度调节拨盘外显，FUEL版黑色头部与红色机身的前后色块切割"
+    design_level:
+      score: 4
+      reason: "M18 FUEL版头部斜切造型和黑-红前后分色在摆动工具品类中辨识度高，速度拨盘外置侧面是H11功能外显的典型运用，整体在标准Milwaukee语法上有明确造型创新"
+    design_tags:
+      - "H08_对比强调"
+      - "H03_分件线"
+      - "H11_功能外显"
+      - "H02_包覆"
+    hero_feature: "斜切面黑色马达头与红色机身的前后色块切割分件，速度拨盘外置于机身侧面"
+    problem_solved: "多材质精细切割/打磨/刮除，快速换刀片，变速控制适应不同材质"
+    transferable_technique: "头部斜切造型配合前后色块切割的分件手法，传递工作头与握持区功能分区；可迁移至任何需要明确功能头/握持区区分的工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

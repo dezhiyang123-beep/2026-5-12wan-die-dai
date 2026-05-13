@@ -1,0 +1,751 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "创意台灯"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "flos_创意台灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "砖红色哑光漆小蘑菇造型无线台灯，半球形灯罩与粗短圆柱底座一体单色成型，灯罩底缘与底座顶端之间仅有极细光隙"
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/14.jpg"
+        image_role: "colorway"
+        visual_anchor: "白色磨砂玻璃灯罩搭配深棕黑色圆柱底座的Bellhop配色版本，玻璃罩与底座材质对比强烈"
+    product_name: "Flos Bellhop"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "无线便携台灯"
+    design_language:
+      silhouette: "压扁的蘑菇形：宽扁半球灯罩（宽度约为高度2倍）架于矮粗圆柱底座，整体轮廓仅由两个简单几何体组成"
+      light_opening: "向下环形漫射开口，灯罩底缘与底座之间约8mm环形光隙，360°柔光向下漫射"
+      thermal: "LED低热量，底座内置散热结构，无外露散热片"
+      cmf:
+        color: "砖红/白+深棕/翠绿/黑等多色系，高饱和度哑光漆或玻璃白"
+        material: "01版本：ABS工程塑料全身喷漆；14版本：磨砂玻璃罩+金属底座"
+        finish: "01版本：高光漆面；14版本：磨砂玻璃+哑光金属"
+      mounting: "独立式，圆形平底自立，底座内置充电电池，底部USB-C充电口"
+      signature_detail: "灯罩与底座之间极细的环形发光间隙——关灯时形态完整，开灯时底缘浮现光晕，功能与形式高度统一"
+    design_level:
+      score: 4
+      reason: "单一设计动作（蘑菇形）执行极度精准，色彩策略大胆，无线设计干净无破绽；非Flos最高辨识度icon但设计品质一流"
+    design_tags:
+      - "H01减法"
+      - "H10材料表达"
+      - "无线便携"
+      - "单色成型"
+      - "蘑菇形"
+      - "环形漫射"
+    hero_feature: "全身单一几何形态无线台灯，灯罩底缘环形光隙是唯一的功能性开口，造型即功能"
+    problem_solved: "户外/无插座场景的优雅台灯需求，消除电线对桌面美学的破坏"
+    transferable_technique: "单色整体成型+极细发光缝隙作为唯一光出口——可迁移至便携工具灯、户外照明等需要无线+高颜值的品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "扁平横向椭圆黑色高光灯罩以约30°倾角斜靠在抛光铝圆柱底座上，重心前倾如同一只巨大的墨色甲虫"
+    product_name: "Flos Snoopy"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "装饰台灯"
+    design_language:
+      silhouette: "横置扁椭圆灯罩（宽高比约2:1）以锐角倾斜架于短粗圆柱底座，整体呈不稳定动态感的前倾姿态"
+      light_opening: "灯罩底面朝前下方的椭圆形开口（约200×150mm），透明玻璃漫射板，向前下方投射柔光"
+      thermal: "底座圆柱为抛光铝材，兼作散热体，无额外散热结构"
+      cmf:
+        color: "黑色灯罩+抛光铝底座（经典配色），亦有白色版本"
+        material: "灯罩：高光喷漆金属；底座：抛光铸铝；扩散板：透明/磨砂玻璃"
+        finish: "灯罩高光漆，底座镜面抛光铝"
+      mounting: "独立式，圆形铸铝底座自立，灯罩与底座通过单点球形铰接件连接，可调倾角"
+      signature_detail: "灯罩与底座的单点铰接——整个倾斜造型由这一个连接点决定，极度简化的结构产生强烈雕塑感"
+    design_level:
+      score: 5
+      reason: "Achille Castiglioni 1967年设计，以最少的零件数（灯罩+底座+铰接点）创造出最强的视觉张力，是Flos最具代表性的雕塑台灯之一，设计语言50年后仍无法超越"
+    design_tags:
+      - "H01减法"
+      - "H08对比强调"
+      - "雕塑感"
+      - "倾斜动态"
+      - "双材质对比"
+      - "Castiglioni"
+      - "1967经典"
+    hero_feature: "扁椭圆灯罩以极端倾角搭在圆柱铝底座上的单点铰接结构，静止的造型传递出运动的张力"
+    problem_solved: "台灯作为桌面雕塑的终极解答——让一盏灯在关灯时也具备艺术品的存在价值"
+    transferable_technique: "单点铰接+不对称重心偏移造型——可迁移至任何需要动态造型感的产品，如手持设备支架、可调节工具头等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "深森绿色金属竖向笼架内悬置透明玻璃管状光源，顶部橙色橡胶提环是唯一的色彩撞击点"
+    product_name: "Flos In Vitro Unplugged"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "无线便携台灯"
+    design_language:
+      silhouette: "细竖圆柱形笼状结构：4-6根金属细杆从底环延伸到顶盖，内部悬置玻璃光管，整体比例约1:3（径高比）"
+      light_opening: "360°全向漫射，透明玻璃管内LED光源向所有方向透出，无定向遮光"
+      thermal: "LED低热量，金属笼架辅助散热，开放式结构利于空气对流"
+      cmf:
+        color: "森绿色金属笼+橙色橡胶提环（撞色设计），亦有其他配色"
+        material: "笼架：喷粉涂层金属；内管：透明玻璃；提环：橡胶/硅胶"
+        finish: "笼架哑光喷粉，玻璃管透明光滑，提环哑光橡胶质感"
+      mounting: "独立式，底部圆环金属座自立；顶部橡胶提环可悬挂或手持，双模式使用"
+      signature_detail: "橙色橡胶提环——在深绿色金属笼的严肃感上打破规则的一笔，同时是功能性提手，设计撞色与功能合一"
+    design_level:
+      score: 4
+      reason: "笼中悬光的概念清晰，撞色手法精准，无线+可悬挂的双模式使用设计聪明；整体设计语言一致，强烈的户外感与Flos精品气质并存"
+    design_tags:
+      - "H09隐藏工程"
+      - "H08对比强调"
+      - "笼架结构"
+      - "无线便携"
+      - "撞色"
+      - "双模式使用"
+      - "360°漫射"
+    hero_feature: "金属笼架内悬置玻璃光管，橙色橡胶提环既是视觉焦点又是功能提手"
+    problem_solved: "台灯与便携提灯的双重需求，以笼架保护玻璃光源同时赋予工业美感"
+    transferable_technique: "笼架保护+内悬光源结构——可迁移至户外灯、工地照明等需要防护又要美感的场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "纯白磨砂玻璃球体被三根镀铬金属细杆组成的十字底座+单根上杆精准托举，球杆之间的几何关系如数学模型般精确"
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/09.jpg"
+        image_role: "colorway"
+        visual_anchor: "黄铜色高杆版IC Lights T，玻璃球悬于倾斜单杆顶端，金属杆与球体脱离垂直关系形成更动态的构图"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/10.jpg"
+        image_role: "variant"
+        visual_anchor: "黄铜色低杆版IC Lights T，玻璃球几乎与桌面齐平，结构关系更紧凑"
+    product_name: "Flos IC Lights T"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "装饰台灯"
+    design_language:
+      silhouette: "球体+杆件的极简构成：一个完整玻璃球由最少数量的金属细杆支撑，底座为三叉星形，整体线条感极强"
+      light_opening: "360°全向均匀漫射，磨砂乳白玻璃球体（直径约150-200mm）整体发光，无明暗方向性"
+      thermal: "LED光源，球体玻璃辅助散热，金属杆件导热，整体热管理隐藏于结构内"
+      cmf:
+        color: "镀铬银/黄铜金两种金属色，玻璃球始终为乳白色"
+        material: "金属杆件：黄铜或镀铬钢；球体：口吹磨砂乳白玻璃"
+        finish: "金属件镜面或拉丝；玻璃球磨砂均匀"
+      mounting: "三叉星形底座自立，中央单杆或V形双杆（高/低版本）向上支撑玻璃球，无额外配重"
+      signature_detail: "玻璃球与支撑杆件的相切关系——杆不穿过球，而是从侧面精准相切接触，这一细节让结构从工程件变成了雕塑"
+    design_level:
+      score: 5
+      reason: "Michael Anastassiades设计，球+杆的几何关系达到Flos历史上最纯粹的数学美感，在不做任何多余设计的前提下创造出最强的视觉张力，是当代Flos最具代表性的icon之一"
+    design_tags:
+      - "H01减法"
+      - "H07极简整合"
+      - "球体漫射"
+      - "杆件支撑"
+      - "Anastassiades"
+      - "几何极简"
+      - "口吹玻璃"
+      - "黄铜材质"
+    hero_feature: "玻璃球与金属杆件的切线接触关系——整个产品的设计哲学浓缩在这一个几何接触点上"
+    problem_solved: "让台灯成为桌面上的纯粹几何艺术品，消除所有非必要的视觉元素"
+    transferable_technique: "球体+细杆相切支撑结构——可迁移至任何需要轻盈感+高级感的产品形态，如电子产品支架、展示架等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑超薄折叠悬臂台灯，末端搭载一枚小方块LED头，整个悬臂展开后形成极夸张的水平伸出比例"
+    product_name: "Flos Kelvin Edge"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "工作台灯"
+    design_language:
+      silhouette: "L+L折叠悬臂结构：两段细长矩形截面铝臂通过关节折叠，末端挂载极小的正方体LED模块，底座为低矮矩形块"
+      light_opening: "正方体LED模块前面板（约40×40mm）向前直射，高精度光学面，集中定向照明"
+      thermal: "悬臂铝型材全长作为散热翼，LED模块热量通过臂件传导散出，无独立散热鳍片"
+      cmf:
+        color: "全黑（哑光）为主，亦有白色版本"
+        material: "悬臂：挤压铝型材；底座：铸铝；LED模块：工程塑料+光学镜片"
+        finish: "全身哑光粉末涂层，金属质感低调"
+      mounting: "矩形底座平置，底部防滑脚垫，两段悬臂可全角度折叠调节出光方向，底座内置USB接口"
+      signature_detail: "末端极小的正方体LED头——悬臂越长、灯头越小，这种比例反差制造出强烈的技术感与精准感"
+    design_level:
+      score: 4
+      reason: "Antonio Citterio设计，将工作灯的工程逻辑推到极致——悬臂尽可能长、灯头尽可能小，技术美学的强烈表达；USB一体化的功能考量超前"
+    design_tags:
+      - "H11功能外显"
+      - "H01减法"
+      - "折叠悬臂"
+      - "工作灯"
+      - "极细结构"
+      - "正方体灯头"
+      - "Citterio"
+    hero_feature: "两段超细折叠铝悬臂末端挂载极小正方体LED模块，比例反差产生强烈的精密仪器感"
+    problem_solved: "工作台灯的精准定向照明需求，同时消除传统台灯的笨重感"
+    transferable_technique: "细臂+微型功能头的比例反差设计——可迁移至工业机械臂、医疗灯、摄影支架等需要精准指向的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "草绿色高光漆平顶圆盘灯罩架于细圆柱茎上，底部为圆形扩展底盘，整体像一朵极度压扁的蘑菇或圆蘑菇"
+    product_name: "Flos Gustave"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "无线便携台灯"
+    design_language:
+      silhouette: "T字形轴对称结构：极薄圆盘灯罩（厚度约15mm，直径约120mm）+细长圆柱茎+圆形底盘，三段比例清晰"
+      light_opening: "向下均匀漫射，圆盘底面全面发光（约120mm直径），光线柔和均匀向下扩散"
+      thermal: "LED低热量，圆盘内腔散热，圆柱茎辅助导热"
+      cmf:
+        color: "高饱和度草绿，亦有其他色系"
+        material: "全金属（铝合金）喷漆"
+        finish: "高光漆面，镜面质感"
+      mounting: "圆形底盘自立，底部内置充电电池和USB-C充电口，无线便携"
+      signature_detail: "超薄圆盘灯罩——盘的厚度趋近于零，让灯罩从体量变成了一个纯粹的面，这是形式减法的极致"
+    design_level:
+      score: 4
+      reason: "将台灯压缩到最简形态的大胆尝试，三段几何（盘+茎+底）的比例关系完美，高饱和色彩选择强化了产品的装饰性格；无线设计加分"
+    design_tags:
+      - "H01减法"
+      - "H10材料表达"
+      - "无线便携"
+      - "超薄圆盘"
+      - "单色金属"
+      - "T形结构"
+    hero_feature: "接近零厚度的金属圆盘灯罩——形式减法的极致，灯罩变成了漂浮的发光圆面"
+    problem_solved: "桌面空间极度紧张时的优雅照明方案，无线设计解决插座位置限制"
+    transferable_technique: "超薄圆盘+细茎+宽底盘的三段T形结构——可迁移至任何追求极简轻盈感的便携设备形态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "巨大的透明半球玻璃罩以约15°倾角斜扣在黑色竖纹圆柱底座上，内部白色反射碗隐约可见，整体像一只巨大的飞碟"
+    product_name: "Flos Taccia"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "装饰台灯"
+    design_language:
+      silhouette: "倾斜大半球体（直径约400mm）架于短粗竖纹圆柱底座，玻璃罩倾斜切口创造非对称剪影，整体体量感极强"
+      light_opening: "倾斜半球玻璃罩内壁反射，通过内置白色铝制反射碗将光线向上投射至玻璃罩内壁再漫射出，360°加顶部间接光"
+      thermal: "底座多竖纹槽道为散热鳍片，兼具装饰与散热双重功能"
+      cmf:
+        color: "玻璃透明/磨砂白；底座黑色（哑光）或铝色"
+        material: "灯罩：吹制玻璃（透明或乳白）；底座：铸铝竖纹"
+        finish: "玻璃光滑透明/磨砂；底座哑光阳极氧化"
+      mounting: "底座圆形自立，底座与玻璃罩通过金属环卡扣固定，灯罩角度固定不可调"
+      signature_detail: "倾斜切割的大玻璃罩边缘线——一条斜线将对称半球打破，这条切线是整个产品最有力的设计语言"
+    design_level:
+      score: 5
+      reason: "Achille & Pier Giacomo Castiglioni 1962年设计，Flos创始年作品，大体量玻璃罩的倾斜处理在60年后仍是最大胆的台灯造型之一，兼具雕塑美感与卓越照明性能"
+    design_tags:
+      - "H08对比强调"
+      - "H06仿生"
+      - "大体量玻璃"
+      - "倾斜切割"
+      - "竖纹散热"
+      - "Castiglioni"
+      - "1962经典"
+      - "间接照明"
+    hero_feature: "倾斜切割边缘的大玻璃半球罩——非对称切线打破了球体的完美对称，产生强烈动态感"
+    problem_solved: "大空间的高品质间接环境照明需求，同时让台灯成为房间的视觉主角"
+    transferable_technique: "对称体量的非对称切割处理——可迁移至任何需要在规则几何体上注入动态感的产品形态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "全透明玻璃构成的六边形T形结构，中央4根平行LED灯管垂直排列清晰可见，整体如同一件玻璃建筑模型"
+    product_name: "Flos Supernova"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "装饰台灯"
+    design_language:
+      silhouette: "T字形玻璃结构：六边形宽帽状玻璃顶盖+六棱柱玻璃茎+六边形玻璃底盘，所有玻璃面板通过金属螺丝固定，整体几何严谨"
+      light_opening: "垂直LED灯管组（4根）向上向外全向漫射，透明玻璃几乎不做遮光，光线穿透所有面板向四周扩散"
+      thermal: "开放式玻璃结构利于散热，金属螺丝连接件辅助散热"
+      cmf:
+        color: "全透明玻璃+金属银螺丝件，无色系"
+        material: "所有面板：平板玻璃；连接件：不锈钢螺丝+铰件"
+        finish: "玻璃抛光透明，金属件抛光银色"
+      mounting: "六边形玻璃底盘自立，底部金属连接件承重，结构稳定"
+      signature_detail: "所有结构完全透明——灯具内部的光源、线路、连接件全部暴露可见，透明即设计，无需遮藏"
+    design_level:
+      score: 4
+      reason: "将台灯结构彻底透明化的激进概念，六边形模块化玻璃拼接手工艺感极强，是Flos对材料表达和结构外显的极致探索"
+    design_tags:
+      - "H09隐藏工程（反向：结构外显）"
+      - "H10材料表达"
+      - "全透明玻璃"
+      - "六边形几何"
+      - "结构即装饰"
+      - "LED灯管外露"
+    hero_feature: "全玻璃透明结构——所有内部元素完全可见，彻底颠覆台灯隐藏结构的传统逻辑"
+    problem_solved: "让台灯的内部工程结构成为装饰语言，透明玻璃建筑美学在家用照明上的实践"
+    transferable_technique: "全透明结构外露设计语言——可迁移至高端消费电子、实验室设备、精密仪器等需要展示内部工艺的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "产品名称不确定，可能为Flos Supernova或其他型号，建议对照官网确认"
+
+  - product_id: "flos_创意台灯_009"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "烟灰色半透明聚碳酸酯锥形灯罩内可透见白色内胆，银色细茎从方形镀铬底座延伸支撑，整体呈现双层半透明叠加效果"
+    product_name: "Flos KTribe T"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "装饰台灯"
+    design_language:
+      silhouette: "倒截锥形（下宽上窄）灯罩+细直圆柱茎+方形底座，经典台灯比例但材质颠覆传统"
+      light_opening: "下开口倒锥形漫射（底部全开放圆形，直径约200mm），烟灰半透明PC罩向侧面和下方均有漫射光"
+      thermal: "LED光源，PC罩体轻质散热，底座金属件辅助导热"
+      cmf:
+        color: "烟灰半透明外罩+白色不透明内胆；底座镀铬银"
+        material: "外罩：透明烟灰聚碳酸酯；内胆：白色ABS；茎+底座：抛光镀铬金属"
+        finish: "外罩半透明光滑；底座镜面镀铬"
+      mounting: "方形镀铬底座自立，底座内嵌调光开关，茎与底座为刚性连接"
+      signature_detail: "双层罩结构：烟灰透明外罩内可透见白色实心内胆轮廓——关灯时有雕塑层次，开灯时烟灰罩与白光的叠加产生独特暖灰光效"
+    design_level:
+      score: 4
+      reason: "Philippe Starck设计，以高分子材料重新诠释经典台灯形态，双层半透明结构是聪明的材料策略，底座调光集成度高"
+    design_tags:
+      - "H10材料表达"
+      - "H01减法"
+      - "双层结构"
+      - "半透明PC"
+      - "Starck"
+      - "调光集成"
+      - "锥形灯罩"
+    hero_feature: "烟灰透明PC外罩+白色内胆的双层叠加结构，光与影在两层材料之间的互动"
+    problem_solved: "让经典台灯形态在新材料语言下焕新，同时实现优雅的漫射照明效果"
+    transferable_technique: "双层嵌套罩体结构（外透明+内实心）——可迁移至任何需要关灯时有形态、开灯时有特殊光效的照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_010"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "薄荷绿色超薄圆盘悬于细直圆柱茎顶端，圆盘与茎的连接偏心（非中心），底部宽大圆盘嵌入充电感应圈，形态极度克制"
+    product_name: "Flos Oblique"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "无线便携台灯"
+    design_language:
+      silhouette: "极简竖向结构：圆形底盘+细直圆柱茎+偏心圆形顶盖，三段比例干净，偏心连接赋予不对称张力"
+      light_opening: "顶部圆盘底面向下漫射（约90mm直径圆形发光面），光线集中向下，形成小范围精准桌面照明"
+      thermal: "LED低热量，金属茎件导热，底盘金属散热"
+      cmf:
+        color: "薄荷绿（哑光），亦有其他色系"
+        material: "全金属（铝合金）喷漆"
+        finish: "哑光喷粉，质感细腻"
+      mounting: "宽圆形底盘自立，底盘内置无线充电感应圈（可为手机无线充电），内置电池无线使用，底部USB-C接口"
+      signature_detail: "底盘兼具无线充电功能——台灯底座即手机充电板，功能双合一设计，是工业设计中功能整合的范本"
+    design_level:
+      score: 4
+      reason: "将无线充电功能整合进台灯底座的概念聪明且执行精准，偏心连接的细节避免了完全对称的平庸，整体极简语言高度自洽"
+    design_tags:
+      - "H07极简整合"
+      - "H05模块化"
+      - "无线充电"
+      - "无线便携"
+      - "偏心连接"
+      - "功能双合一"
+      - "超薄圆盘"
+    hero_feature: "底盘集成无线充电功能，台灯与手机充电器合二为一，功能整合的极简主义"
+    problem_solved: "桌面功能整合需求，消除充电线对桌面环境的干扰"
+    transferable_technique: "功能底座双合一策略（照明底座=充电板）——可迁移至任何需要整合多功能于底座的桌面设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_011"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "裸露的大球形透明灯泡（约150mm直径）架在橙色陶瓷灯头上，圆形黑色底盘内嵌插座和黑色电源线，灯泡是唯一的主角"
+    product_name: "Flos Lampadina"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "装饰台灯"
+    design_language:
+      silhouette: "极简三元素：大球形玻璃灯泡+橙色灯头+黑色圆底盘，无任何灯罩或遮护，灯泡本身即产品轮廓"
+      light_opening: "360°全向裸露发光，大球形透明/半镀银玻璃灯泡无遮挡，光源完全外露"
+      thermal: "LED灯泡低热量，开放式自然对流散热"
+      cmf:
+        color: "透明玻璃灯泡（顶部半镀银）+橙色灯头+黑色底盘"
+        material: "灯泡：透明玻璃；灯头：橙色喷漆金属/陶瓷；底盘：黑色铸铁/金属"
+        finish: "灯泡透明光滑；灯头哑光橙；底盘哑光黑"
+      mounting: "圆形黑色底盘平置自立，底盘表面嵌有电源插座（可直插墙上插头），电源线从底盘边缘引出"
+      signature_detail: "底盘内嵌插座——底盘即插座，将电气接口从隐藏变为展示，Castiglioni式的反常识设计逻辑"
+    design_level:
+      score: 5
+      reason: "Achille Castiglioni 1972年设计，彻底颠覆台灯的本质：去掉灯罩，让灯泡本身成为产品，底盘即插座的设计是最极致的功能外显，是设计史上反设计逻辑的经典案例"
+    design_tags:
+      - "H11功能外显"
+      - "H01减法"
+      - "裸露光源"
+      - "Castiglioni"
+      - "1972经典"
+      - "反设计逻辑"
+      - "底座即插座"
+      - "撞色"
+    hero_feature: "彻底去除灯罩，大球形裸露灯泡即产品全部——这是对台灯定义的最激进简化"
+    problem_solved: "让灯泡自身的形态成为装饰，消除传统台灯结构的全部冗余"
+    transferable_technique: "以功能元素本身（灯泡、插座）代替装饰性外壳的极简策略——可迁移至任何愿意将内部功能件暴露为设计语言的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_012"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "纯白磨砂玻璃扁球体（宽>高的椭球）直接坐于极薄白色底环，整体纯净如同一颗发光的鹅卵石"
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/20.jpg"
+        image_role: "variant"
+        visual_anchor: "Glo-Ball T大尺寸版本，扁球比例更加强调横向宽度，球体直径约300mm，体量感更强"
+    product_name: "Flos Glo-Ball T"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "装饰台灯"
+    design_language:
+      silhouette: "扁椭球体（宽高比约1.3:1）直接落地，无明显底座，球体底部微微压平形成自立面，极度纯粹的单一几何体"
+      light_opening: "360°全向均匀漫射，磨砂乳白玻璃整球体均匀发光，无方向性，无明暗分区"
+      thermal: "玻璃球体天然散热，内部LED光源低热量，通过底部小开口自然对流"
+      cmf:
+        color: "纯白乳白（唯一色），底环极小，几乎不可见"
+        material: "球体：口吹磨砂乳白玻璃；底环：白色金属"
+        finish: "磨砂玻璃均匀哑白，底环哑白"
+      mounting: "底部极薄金属环自立，球体重心低，稳定性好；底环内含接线和开关"
+      signature_detail: "没有底座——球体直接以自身底部曲面坐落，消除了台灯必须有底座的固有认知"
+    design_level:
+      score: 5
+      reason: "Jasper Morrison设计，将台灯简化到不可能更简的程度：一个球，没有底座，没有装饰，没有方向，纯粹的光的容器，是极简主义在照明设计上的完美答案"
+    design_tags:
+      - "H01减法"
+      - "H07极简整合"
+      - "球体漫射"
+      - "口吹玻璃"
+      - "Jasper Morrison"
+      - "无底座"
+      - "360°漫射"
+      - "单一几何"
+    hero_feature: "无底座的纯白玻璃扁球体——台灯被简化为一个会发光的球，这是形式减法的终点"
+    problem_solved: "环境氛围照明的最纯粹解法，消除台灯所有结构性元素，只留下光"
+    transferable_technique: "无底座/极小底座单一几何体自立结构——可迁移至任何追求无边界感的小型消费品形态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_013"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "淡绿色细高身无线台灯，顶部透明锥形灯罩内可见LED环形光源，中间茎部向底部平滑扩展为宽圆底盘，整体轮廓如酒杯"
+    product_name: "Flos Bon Jour Unplugged"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "无线便携台灯"
+    design_language:
+      silhouette: "酒杯形轮廓：顶部扁截锥形透明灯罩+中段细直茎（向下渐扩）+宽圆底盘，整体高宽比约2.5:1，修长优雅"
+      light_opening: "透明截锥形罩内向下漫射（底部开口约80mm直径），LED环形光源可透过透明罩直接看到，向侧下方漫射"
+      thermal: "LED低热量，茎件金属导热，底盘散热"
+      cmf:
+        color: "淡绿（哑光），亦有多色系"
+        material: "茎+底盘：铝合金喷漆；灯罩：透明聚碳酸酯"
+        finish: "茎+底盘哑光喷粉；灯罩透明光滑"
+      mounting: "宽圆底盘自立，底部USB-C充电接口，内置电池无线使用，底盘内嵌充电指示灯"
+      signature_detail: "透明锥形灯罩内可见LED环形光源——功能性LED环变成了装饰性光圈，工程美学的自然流露"
+    design_level:
+      score: 4
+      reason: "Philippe Starck设计，酒杯比例赋予无线台灯优雅气质，透明罩内可见LED光圈的设计将功能件转化为装饰亮点，无线化执行干净"
+    design_tags:
+      - "H11功能外显"
+      - "H10材料表达"
+      - "无线便携"
+      - "酒杯轮廓"
+      - "透明灯罩"
+      - "LED光圈"
+      - "Starck"
+    hero_feature: "透明锥形灯罩内可见的LED环形光圈——让工程件成为装饰元素"
+    problem_solved: "无线台灯的优雅化解决方案，避免传统便携灯的工具感"
+    transferable_technique: "透明外罩内置可见功能性元素作为装饰——可迁移至任何愿意展示内部精密结构的消费产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_014"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "深蓝色高光漆倒截锥灯头向前倾斜约45°，固定在同色矩形竖板上，整体仅有三个几何面，造型如简笔画"
+    product_name: "Flos Céramique"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "装饰台灯"
+    design_language:
+      silhouette: "L形侧立面：矩形竖板从圆形底盘直立，倒截锥灯头以铰接方式固定于竖板顶端并向前倾斜，整体三视图极度简洁"
+      light_opening: "倒截锥灯头前端圆形开口（约100mm直径），白色漫射内衬，向前下方定向投射"
+      thermal: "小体量LED，竖板金属件散热"
+      cmf:
+        color: "深宝蓝色高光漆（全身单色），内壁白色"
+        material: "全金属（铸铝/钢板）喷漆"
+        finish: "外壁高光漆，内壁哑白"
+      mounting: "圆形底盘自立，底盘内含电源线出口，灯头与竖板铰接可小角度调节"
+      signature_detail: "矩形竖板+倾斜锥形灯头的两件式L形结构——整个产品用最少的零件数描绘出台灯的本质功能关系"
+    design_level:
+      score: 4
+      reason: "以极少零件（底盘+竖板+灯头）构建出充满表情的台灯造型，深蓝高光色彩选择强烈，倾斜灯头赋予强烈指向性，设计语言干净有力"
+    design_tags:
+      - "H01减法"
+      - "H08对比强调"
+      - "L形结构"
+      - "倾斜灯头"
+      - "单色成型"
+      - "高光漆"
+      - "定向照明"
+    hero_feature: "矩形竖板+倾斜截锥灯头的L形两件式结构，最少零件数表达最清晰的功能逻辑"
+    problem_solved: "将阅读灯/工作灯的功能性造型提升为具有雕塑感的装饰台灯"
+    transferable_technique: "竖板+灯头铰接的L形结构语言——可迁移至摄影灯、工作台灯等定向照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "产品具体型号不确定，可能为Flos Céramique或近年新品，建议对照官网确认"
+
+  - product_id: "flos_创意台灯_015"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/18.jpg"
+        image_role: "hero"
+        visual_anchor: "白色丝质可可茧形灯罩从粗腰部向上膨出为球形、向下收窄为棱柱底座，纵向折痕均布，整体形态如充气的热气球"
+    product_name: "Flos Gatto"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "装饰台灯"
+    design_language:
+      silhouette: "双葫芦形：上部球形膨胀体通过腰部收缩过渡到下部多棱柱底座，整体轮廓有强烈的有机曲线张力，纵向折痕强化垂直感"
+      light_opening: "360°全向柔光漫射，蚕丝/绢布材质半透明，整体均匀发光，无高亮点"
+      thermal: "蚕丝/可可茧材质天然透气，自然对流散热，低温LED光源无烫伤风险"
+      cmf:
+        color: "纯白（天然蚕丝色），底部棱柱为深棕木色"
+        material: "灯罩：蚕茧丝网（可可茧/silk cocoon）手工制作；底座：深色木质棱柱"
+        finish: "灯罩手工蚕丝质感，底座木纹哑光"
+      mounting: "多棱木质底座自立，内含灯头和电源线，蚕丝罩套在内部骨架上"
+      signature_detail: "蚕茧丝网编织灯罩——手工自然材料的纹理和透光性创造出其他材料无法复制的温暖光效，是Flos有机材料美学的代表"
+    design_level:
+      score: 5
+      reason: "Achille & Pier Giacomo Castiglioni 1960年代设计，蚕茧材料的选择将东方传统工艺引入意大利现代设计，有机双葫芦形态50年后仍是最具辨识度的Flos经典之一"
+    design_tags:
+      - "H06仿生"
+      - "H10材料表达"
+      - "蚕茧材料"
+      - "有机形态"
+      - "Castiglioni"
+      - "手工工艺"
+      - "360°漫射"
+      - "东西方融合"
+    hero_feature: "蚕茧丝网手工编织灯罩，自然材料的纹理在光线下显现出无可复制的有机美感"
+    problem_solved: "用自然材料创造最温暖的环境氛围光，抵抗工业化照明的冷硬感"
+    transferable_technique: "蚕茧/丝网等天然编织材料作为灯罩——可迁移至任何追求温暖有机感的照明产品或装置"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意台灯_016"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意台灯/19.jpg"
+        image_role: "hero"
+        visual_anchor: "橙色塑料钩形提手和缠绕的黑色电线构成上部结构，下方是纯白半透明倒锥形聚乙烯灯罩，两者色彩和材质形成强烈反差"
+    product_name: "Flos Mayday"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意台灯"
+      - "多用途便携灯"
+    design_language:
+      silhouette: "倒锥形（上小下大）漫射体+顶部Y形挂钩+绕线结构，整体呈现工具美学强烈的实用主义形态"
+      light_opening: "倒锥形半透明PE灯罩360°全向漫射，锥底为完全开放的大圆形（约200mm直径），大面积向下漫射"
+      thermal: "开放式锥形结构天然通风，PE材质轻质，LED低热量"
+      cmf:
+        color: "橙色钩件+黑色电线+白色半透明PE锥，三色对比鲜明"
+        material: "钩件+线架：橙色ABS；灯罩：半透明聚乙烯；电线：黑色橡皮绝缘线"
+        finish: "钩件哑光橙；PE锥半透明磨砂；电线亚光黑"
+      mounting: "橙色S形钩可悬挂于任何水平杆件；倒锥可直接倒置放于桌面；亦可手持，三种使用模式"
+      signature_detail: "橙色S形挂钩+绕线结构——将收纳电线的功能需求转化为最强的视觉标识，工具的功能语言直接成为产品的设计语言"
+    design_level:
+      score: 5
+      reason: "Konstantin Grcic 1999年设计，将工地照明灯的实用工具美学带入精品设计领域，橙色挂钩+绕线的功能外显策略是Flos史上最反叛的设计，工具即美学的完美案例"
+    design_tags:
+      - "H11功能外显"
+      - "H08对比强调"
+      - "工具美学"
+      - "Grcic"
+      - "多模式使用"
+      - "倒锥漫射"
+      - "绕线结构"
+      - "撞色"
+      - "1999经典"
+    hero_feature: "橙色S形挂钩+缠绕黑色电线，将收线功能转化为最强视觉标识，反叛的工具美学"
+    problem_solved: "多场景便携照明——悬挂、桌面、手持三种模式，用工具美学解决照明灵活性需求"
+    transferable_technique: "将收纳/功能性结构（绕线、挂钩）直接外显为产品最显眼的设计特征——可迁移至户外设备、工具灯、急救装备等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

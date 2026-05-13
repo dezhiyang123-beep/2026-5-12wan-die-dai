@@ -1,0 +1,65 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "台灯"
+  tertiary: "氛围台灯"
+
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/"
+  generated_at: "2026-05-09"
+
+# 补充：氛围台灯/09.jpg + 10.jpg（被if_award_台灯_智能氛围.yaml跳过）
+# 09+10为同一产品：两张图（产品图+手势交互图）
+
+products:
+  - product_id: "if_台灯_氛围台灯_b2_001"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "深海蓝无线氛围台灯，全金属一体深宝蓝色哑光，超大锥形底座渐收为极细立杆，顶端为微型倒梯形遮光罩，整体轮廓如蜡烛台，白底极简产品图"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/10.jpg"
+        image_role: "detail"
+        visual_anchor: "同款深蓝氛围台灯，女性手指轻点顶部微型遮光罩触控开关，画面提供尺度参考：灯高约25cm，顶部遮光罩直径仅约3cm，比例极为夸张修长"
+    product_name: ""
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "氛围台灯"
+
+    design_language:
+      silhouette: "超大锥形底座（底径约10cm）渐收为极细立杆（约4mm），顶端微型倒梯形/截锥遮光罩（直径约3cm），整体高宽比约10:1，极度修长，类蜡烛台轮廓"
+      light_opening: "顶部微型倒梯形遮光罩向下漫射，光源极小，散光柔和，强调氛围而非照度"
+      thermal: "LED极低功率，整体金属体自然散热，无独立散热结构"
+      cmf:
+        color: "深宝蓝色（全体一色，无分件色彩差异）"
+        material: "铝合金或锌合金整体铸造"
+        finish: "深蓝色哑光阳极氧化或粉末涂层，全体同色调"
+      mounting: "桌面放置，超宽锥形底座稳定配重，无线充电底座集成"
+      signature_detail: "超细立杆+超宽锥底的极端比例对比：立杆直径约4mm，底座底径约10cm，两端截面比约1:25，形成强烈的比例戏剧感，类蜡烛台但更极端修长"
+    design_level:
+      score: 4
+      reason: "比例极端化是核心设计语言——极细杆与极宽锥底的对比达到工艺挑战级别；无线/充电一体解决了有线带来的底部线缆破坏比例的问题；单色全体统一强化了雕塑感；白天是金属雕塑，开灯后顶部暗示出光点"
+    design_tags:
+      - "无线充电氛围灯"
+      - "极细立杆"
+      - "蜡烛台比例"
+      - "单色全体统一"
+      - "触控开关"
+      - "H01减法"
+      - "H07极简整合"
+    hero_feature: "极端比例立杆：4mm细杆从10cm宽锥底延伸至顶端微型灯罩，高宽比约10:1，蜡烛台意象被推到极致，在桌面上形成强烈的视觉存在"
+    problem_solved: "餐桌/床头需要极具装饰感的无线氛围灯，传统台灯底座与杆比例平庸，有线设计破坏桌面整洁；极端比例+无线充电解决了装饰价值与使用便利之间的矛盾"
+    transferable_technique: "极端比例化（将某一结构元素推向工艺极限）是制造强记忆点的有效手法，可迁移到任何需要差异化的台灯/落地灯；全体单色统一+极简形态是氛围灯的核心语法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,666 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "庭院灯 / 投光灯"
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/"
+  generated_at: "2026-05-08"
+
+products:
+
+  # ─────────────────────────────────────────────
+  # 庭院灯 (13 images → 7 products)
+  # ─────────────────────────────────────────────
+
+  - product_id: "if_户外灯_庭院灯_001"
+    source_images:
+      - filename: "庭院灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色铝合金系列：矩形竖柱路灯（立柱截面呈扁矩形，顶部戴圆环灯头）与配套壁灯组合展示，灯头为半圆环形，内嵌白色半透明环形漫射板，暖白光从环形缝隙漫射出"
+    product_name: "圆环头模块化庭院柱灯·壁灯系列"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "庭院灯"]
+    design_language:
+      silhouette: "立柱为扁矩形截面竖柱（锐利棱角），顶部冠以扁平圆环灯头，整体轮廓简洁垂直；壁灯版将同一圆环灯头直接贴墙，家族形态高度统一"
+      light_opening: "向下环形漫射出光，半圆环形白色漫射板覆盖出光面，光线柔和向下及侧向扩散；顶部金属帽遮蔽上方，防止眩光上溢"
+      thermal: "铝合金壳体被动散热，矩形立柱本身作为散热通道，无独立散热鳍片"
+      cmf:
+        color: "深炭灰（anthracite）哑光"
+        material: "铝合金压铸 + 白色PC漫射环"
+        finish: "户外级粉末涂层，哑光无反光，耐候耐腐蚀"
+      mounting: "柱灯：地面螺杆固定；壁灯：背板贴墙螺丝固定；同系列设计可混搭部署"
+      signature_detail: "扁矩形柱身与圆环灯头的方圆对比：方柱撑起张力，圆环灯头收束焦点，一刚一柔，家族辨识度极强"
+    design_level:
+      score: 5
+      reason: "柱灯与壁灯跨形态共享同一圆环灯头语言，模块化设计哲学成熟；形态与光效高度统一，iF顶级水准"
+    design_tags: ["庭院柱灯", "圆环灯头", "模块化", "深炭灰", "铝合金", "家族设计", "iF获奖"]
+    hero_feature: "扁矩形立柱顶戴圆环漫射灯头，方圆对比成为强力视觉记忆点，系列壁灯共享同一灯头语言"
+    problem_solved: "庭院灯柱、壁灯通常形态割裂；此设计以同一圆环灯头统一全系，安装场景多元而视觉协调"
+    transferable_technique: "矩形柱身+圆形灯头的方圆对比语言；同一出光模块跨载体复用（柱/壁/墙）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_庭院灯_002"
+    source_images:
+      - filename: "庭院灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "锈铜色仿锈面系列：低矮Bollard柱灯（圆柱底座+矩形细杆+扁圆盘头）、中高Bollard（同语言）、配套壁灯三件组合场景展示，背景有自行车，暗调室外空间"
+      - filename: "庭院灯/03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/03.jpg"
+        image_role: "context"
+        visual_anchor: "同系列锈铜色柱灯近景，扁圆盘形灯头出光面朝下，底部发暖白光，纤细矩形杆从圆形底座直立，壁灯版同一盘形灯头贴墙"
+    product_name: "锈铜盘头Bollard庭院灯系列"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "庭院灯"]
+    design_language:
+      silhouette: "纤细矩形截面竖杆从圆形底座直立（极细比例，约10:1高宽），顶部冠以扁平圆盘形灯头，盘头直径明显大于杆径，形成蘑菇状轮廓；有高、低两个高度规格"
+      light_opening: "向下漫射出光，扁圆盘底面为出光面，光线朝下扩散照地；盘面顶部为金属遮光，彻底防止上溢眩光"
+      thermal: "金属杆件与圆盘头一体铸造，靠自然对流散热，体型小功率低，被动散热足够"
+      cmf:
+        color: "锈铜棕（Corten/rust brown仿锈处理）"
+        material: "铝合金 + 扩散板（亚克力/PC）"
+        finish: "仿锈面涂层或实际Corten处理，表面有自然锈蚀肌理感，与砖石、绿植高度契合"
+      mounting: "圆形底座地面螺杆固定；壁灯背板贴墙"
+      signature_detail: "锈铜色仿自然氧化表面肌理：在户外景观中消隐于石材砖木背景，夜间暖光激活，昼夜双重美感"
+    design_level:
+      score: 5
+      reason: "仿锈CMF与景观材料语境高度融合，超细杆比例制造轻盈感，跨高度规格+壁灯家族完整，iF顶级"
+    design_tags: ["Bollard", "仿锈铜", "景观融合", "庭院柱灯", "圆盘灯头", "家族设计", "iF获奖"]
+    hero_feature: "极细矩形杆+大圆盘灯头的蘑菇形轮廓，锈铜色表面在景观中白天消隐、夜晚以暖光激活"
+    problem_solved: "庭院路灯白天视觉突兀；锈铜表面使灯具与景观材料融为一体，消隐自身存在感"
+    transferable_technique: "仿自然氧化CMF（锈铜/耐候钢）融入景观；超细杆与大灯头比例对比强化轻盈感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_庭院灯_003"
+    source_images:
+      - filename: "庭院灯/04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色金属框架手提灯笼，矩形骨架由4根竖向条状构件围合，顶部整圈皮革/帆布提手，内部中间层为木质/竹制圆盘（暖黄色），光源位于圆盘内侧向四周漫射；手持于海滩场景"
+      - filename: "庭院灯/05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/05.jpg"
+        image_role: "context"
+        visual_anchor: "同款灯笼放置于礁石上，海水环绕，远景强调其野外可携带性，暖白光从框架缝隙透出"
+    product_name: "金属骨架木芯手提灯笼"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "庭院灯"]
+    design_language:
+      silhouette: "矩形骨架灯笼：4根竖向扁条构成框架，顶部整圈弧形提手（皮革或帆布），中层嵌圆盘LED模块，整体比例修长（高宽约2:1），开放式骨架视觉通透"
+      light_opening: "内部圆盘LED向四周水平漫射，光线穿透开放式框架骨缝向外扩散，形成360°温暖漫射光；顶部提手挡板防止向上直射"
+      thermal: "低功率LED模块被动散热，开放骨架设计保证自然通风"
+      cmf:
+        color: "消光黑金属骨架 + 天然木/竹圆盘（暖黄木色）"
+        material: "铝合金或钢质骨架 + 木材/竹材圆盘 + 皮革/帆布提手"
+        finish: "金属喷砂哑黑；木质自然纹理保留，无过度涂装"
+      mounting: "手提便携，可置于地面、桌面、悬挂均可；无固定安装结构"
+      signature_detail: "金属骨架+木芯圆盘的工业与自然材料对比：黑色骨架的精工克制与木材暖意之间形成张力，兼具户外耐用性与室内精致感"
+    design_level:
+      score: 5
+      reason: "材料对话（工业金属vs自然木材）成熟，便携性与美学兼顾，骨架开放结构即装饰即结构，iF顶级"
+    design_tags: ["手提灯笼", "骨架结构", "消光黑", "木材", "便携户外灯", "材料对比", "iF获奖"]
+    hero_feature: "开放式金属骨架+内嵌木圆盘，工业与自然材料对话，夜间光从骨架缝隙漫出形成柔和光晕"
+    problem_solved: "户外手提灯笼通常造型粗糙或廉价；此设计以精工骨架+自然木材跨越室内外边界，昼间是雕塑、夜间是灯具"
+    transferable_technique: "骨架开放结构既导光又装饰；异质材料对比（金属+木/皮）制造高感知价值"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_庭院灯_004"
+    source_images:
+      - filename: "庭院灯/06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色太阳能庭院立灯，泳池边夜景，高约2米的细圆杆顶端冠以白色椭圆形大盘（UFO形状，直径约为杆径的8-10倍），向下漫射照地"
+      - filename: "庭院灯/07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/07.jpg"
+        image_role: "detail"
+        visual_anchor: "三视图展示：全身正面（细圆杆+椭圆白盘）、背面显示顶部内嵌太阳能电池板（黑色矩形）、灯盘底面近景显示中央绿色LED指示环、仰视大椭圆盘底面光扩散面"
+    product_name: "太阳能UFO盘头庭院立灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "庭院灯"]
+    design_language:
+      silhouette: "极细圆杆（约Φ25-30mm）支撑超大白色椭圆扁盘灯头（盘径约400-500mm），比例悬殊形成强烈UFO形轮廓；圆形底座压稳重心；白色灯盘与深灰杆色彩对比鲜明"
+      light_opening: "向下360°漫射，椭圆白色PC乳白扩散罩整面出光，光线柔和无眩光，照地面积大；灯盘顶面嵌太阳能板"
+      thermal: "LED低功率 + 太阳能驱动，被动散热，椭圆扁盘体型利于散热"
+      cmf:
+        color: "深灰（机体+杆）+ 乳白色（灯盘）"
+        material: "铝合金杆 + 乳白PC/PMMA扩散盘 + 单晶硅太阳能电池板"
+        finish: "深灰粉末涂层；乳白扩散板磨砂处理"
+      mounting: "圆形底座地面螺杆固定，无需外部电源布线；太阳能自供电"
+      signature_detail: "顶部太阳能板隐藏于灯盘背面，正面全无电子元件外露；绿色LED状态指示环是唯一功能色彩点缀，克制而清晰"
+    design_level:
+      score: 4
+      reason: "太阳能UFO形态辨识度高，白色大盘灯头与深灰杆的对比简洁有力，可再生能源整合设计优秀，iF获奖水准"
+    design_tags: ["太阳能", "UFO灯头", "庭院立灯", "乳白扩散", "深灰", "无线布置", "iF获奖"]
+    hero_feature: "极细深灰杆+超大乳白椭圆灯盘，太阳能板隐藏于灯盘背面，白天视觉极简，夜间大盘均匀泛光"
+    problem_solved: "庭院灯需要布线施工成本高；太阳能集成设计使安装无需开槽布线，极细杆降低白天视觉干扰"
+    transferable_technique: "太阳能板隐藏于灯盘背面（不破坏正面美观）；超大出光盘与极细支杆比例对比手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_庭院灯_005"
+    source_images:
+      - filename: "庭院灯/08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "三色系Bollard柱灯（银灰/深灰/暗红三个配色），品牌Jyo，圆形截面细圆杆（高约600-700mm），杆身中部偏上有一个椭圆开口出光窗（朝向侧面），顶部圆盖封闭，底部小圆底座"
+    product_name: "Jyo单侧开窗Bollard庭院柱灯"
+    brand_name: "Jyo"
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "庭院灯"]
+    design_language:
+      silhouette: "匀称圆柱体，高径比约15:1（极细），顶端半球形封盖，底部小圆底座接地，整体形如细挺的笔杆；杆身中上部挖出单个椭圆形开口（光窗），打破了筒状实体感"
+      light_opening: "单侧定向出光，椭圆开口朝侧向，光线从开口向水平侧向低角度照射（路径照明），遮蔽上方防止眩光上溢；出光面无扩散板，为裸露光学腔体"
+      thermal: "细圆柱铝合金整体挤压成型，杆身即散热体，自然对流散热"
+      cmf:
+        color: "三色：银灰（anodized）/ 深空灰 / 暗酒红（anodized）"
+        material: "铝合金挤压圆管 + 阳极氧化表面"
+        finish: "阳极氧化（anodized）处理，表面细腻有金属光泽，防腐耐候"
+      mounting: "小圆底座地面螺钉固定或地插安装"
+      signature_detail: "笔直圆管上的单个椭圆光窗：极简克制的开口打破实体筒面，白天是材料开口、夜间是定向光束，一个切口完成全部功能与装饰表达"
+    design_level:
+      score: 5
+      reason: "极简哲学顶峰：一根圆管+一个开口，无多余元素；阳极氧化多色系拓展产品线，iF顶级设计"
+    design_tags: ["Bollard", "极简", "单侧开窗", "阳极氧化", "圆管", "多色系", "Jyo", "iF获奖"]
+    hero_feature: "笔直细圆管身上的单椭圆开口出光，最少元素实现定向路径照明，白天是雕塑柱、夜晚是光源"
+    problem_solved: "庭院路灯造型繁复，维护成本高；极简圆管设计无可动部件，单开口窗定向照明消除上方眩光"
+    transferable_technique: "圆柱挤压管身+单开口窗出光（减法极简）；阳极氧化多色系产品家族化扩展手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_庭院灯_006"
+    source_images:
+      - filename: "庭院灯/09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "混凝土/石材质感地面灯/路缘灯，实心矩形块体（约300×200×H200mm），正面开椭圆形通孔，LED光源藏于通孔后壁，暖光从椭圆孔透出向前低角度照射；旁边有黑色镶嵌钢板质感"
+      - filename: "庭院灯/10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/10.jpg"
+        image_role: "context"
+        visual_anchor: "同款混凝土矩形开孔灯具放置于户外草坪边缘，两个并排，白色混凝土质感，白天作为景观石块，夜晚椭圆孔透出暖光"
+    product_name: "混凝土椭圆通孔地景灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "庭院灯"]
+    design_language:
+      silhouette: "实心矩形石块造型（仿混凝土外观），正面中央挖椭圆通孔；白天完全是一块景观石，夜晚通孔透光；有混凝土灰和石英岩纹两种材质变体"
+      light_opening: "前向低角度定向出光，LED藏于椭圆通孔后壁凹槽，光线穿通孔向前方地面低角度投射，形成低照明视角；无向上出光，零上溢眩光"
+      thermal: "混凝土/石材体块大热容被动散热，LED功率低，温度完全可控"
+      cmf:
+        color: "混凝土灰白 / 深石英岩灰黑（两色）"
+        material: "混凝土浇铸 或 GRC（玻璃纤维增强混凝土）"
+        finish: "自然混凝土表面纹理，未抛光，保留浇铸气孔细节"
+      mounting: "直接放置于地面（重力固定）或预埋螺杆固定；通孔方向决定光照方向"
+      signature_detail: "灯具即景观石：外形完全仿自然石块，通孔既是光学出口也是石块穿孔雕塑语言，光功能彻底隐身于景观"
+    design_level:
+      score: 5
+      reason: "概念彻底：灯具消失于景观，光从石块中透出，是光影与材料融合的极致表达，iF顶级"
+    design_tags: ["混凝土", "地景灯", "椭圆通孔", "景观融合", "雕塑感", "低眩光", "iF获奖"]
+    hero_feature: "混凝土矩形石块正面的椭圆通孔：白天是景观雕塑，夜晚暖光从孔中透出，灯具完全消隐"
+    problem_solved: "庭院灯白天视觉突出破坏景观整体感；此设计以建筑材料（混凝土）完全隐藏光源功能"
+    transferable_technique: "通孔出光结构（孔洞即出光口）；以建筑/景观材料（混凝土）做灯具外壳的跨界材料策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_庭院灯_007"
+    source_images:
+      - filename: "庭院灯/11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色低矮Bollard柱灯，安装于草坪边水岸木栈道旁，圆柱形灯体（高约400mm），顶部有偏切斜面金属帽（类似蘑菇伞边斜切），暖黄光从斜帽下缘与柱身间隙向下溢出"
+      - filename: "庭院灯/12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/12.jpg"
+        image_role: "context"
+        visual_anchor: "同款圆柱Bollard近景，夜间拍摄，深灰色圆柱体，暖光从顶部斜帽下缘缝隙均匀漫出，光影效果柔和，杆身无任何装饰"
+      - filename: "庭院灯/13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/庭院灯/13.jpg"
+        image_role: "context"
+        visual_anchor: "街道场景远景：多个同款低矮Bollard沿建筑立面排列，背景为大型赭石色条纹立面建筑，日落光线下灯具极低调，形如小型柱墩"
+    product_name: "斜切顶帽圆柱Bollard路径灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "庭院灯"]
+    design_language:
+      silhouette: "等径圆柱体（高径比约6:1），顶部冠以一体斜切金属帽（斜面约15-20°），帽沿比柱身直径略大，形成细微悬挑；整体轮廓简洁，无任何装饰线"
+      light_opening: "顶帽与柱身之间的环形缝隙向下出光（间接遮蔽式），光线从缝隙均匀向下漫射至地面，形成柔和下照环形光晕；斜切帽阻断所有上方出光，零眩光上溢"
+      thermal: "铝合金圆柱体被动散热，低矮设计自然对流充分"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "铝合金挤压圆管 + 压铸斜帽"
+        finish: "户外粉末涂层，哑光，抗UV"
+      mounting: "底部地面预埋螺杆固定，IP65以上防水等级"
+      signature_detail: "斜切顶帽设计：圆柱顶部的一个简单斜切面，同时完成遮光（防眩）、导光（向下缝隙出光）、形态识别三项功能，设计经济性极高"
+    design_level:
+      score: 4
+      reason: "斜切帽用一个几何动作解决遮光与出光双重需求，街道场景群体部署效果卓越，材质耐候，iF获奖水准"
+    design_tags: ["Bollard", "斜切顶帽", "圆柱", "路径照明", "深炭灰", "低眩光", "iF获奖"]
+    hero_feature: "斜切顶帽与圆柱身间的环形缝隙出光：一个斜面同时完成遮光和导光，形态简洁功能完整"
+    problem_solved: "路径灯通常有向上眩光干扰夜间环境；斜切顶帽物理遮断所有上溢光，实现零天空光污染"
+    transferable_technique: "斜切顶帽缝隙出光（单一几何动作解决遮光+导光）；圆柱形灯体街道群体部署的视觉秩序感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 投光灯 (17 images → 9 products)
+  # ─────────────────────────────────────────────
+
+  - product_id: "if_户外灯_投光灯_001"
+    source_images:
+      - filename: "投光灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "深黑色模块化投光灯系列（品牌Rolods），左：单模块方形灯头+U型底座壁挂；右：三模块组合（旋转鹅卵式底座上装三个可独立旋转方形灯头），灯头正面为蜂窝格栅面板"
+      - filename: "投光灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/02.jpg"
+        image_role: "family"
+        visual_anchor: "同系列四种尺寸（2×2/3×3/4×4/6×6 LED阵列）展示，黑色方形灯头，蜂窝格栅面，U型底座，小到大完整产品线"
+    product_name: "Rolods模块化方形蜂窝格栅投光灯系列"
+    brand_name: "Rolods"
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "投光灯"]
+    design_language:
+      silhouette: "正方形灯头（不同尺寸：~100×100mm至~300×300mm），厚度约为边长1/2，U型底座允许俯仰调节；三模块版底座为圆形旋转台，灯头可分别转向；整体形态坚实几何化"
+      light_opening: "正向定向出光，蜂窝微棱镜格栅面板（honeycomb louvre）覆盖出光面，格栅截光角约30-45°，强效防眩光；LED阵列密排于格栅后，透明防护玻璃密封"
+      thermal: "灯头背面有横向散热鳍片组（水平排列），与LED模块直接热接触；散热鳍片即灯头背面造型元素"
+      cmf:
+        color: "消光黑（matte black）"
+        material: "压铸铝合金灯壳 + 蜂窝铝格栅 + 钢化玻璃防护"
+        finish: "户外级粉末涂层哑黑，抗UV，IP65"
+      mounting: "U型底座壁/地双用安装；圆形底座版地面螺杆固定，灯头360°转动"
+      signature_detail: "蜂窝格栅面板：LED矩阵+蜂窝截光格栅一体化视觉语言，功能性与精密感高度统一；多模块组合版的放射形扇面构图是强烈视觉记忆点"
+    design_level:
+      score: 5
+      reason: "蜂窝格栅+方形灯头家族覆盖4个尺寸，多模块组合版极具视觉冲击力，精密工程美学顶级，iF获奖"
+    design_tags: ["投光灯", "蜂窝格栅", "模块化", "方形灯头", "消光黑", "多灯头组合", "Rolods", "iF获奖"]
+    hero_feature: "蜂窝微棱镜格栅面板覆盖方形灯头，三模块组合的放射扇面构图成为强烈视觉识别，精密感极强"
+    problem_solved: "投光灯LED阵列裸露眩光刺眼；蜂窝格栅物理截光，将光束精准控制在目标角度内"
+    transferable_technique: "蜂窝格栅截光面板（防眩+美观）；方形LED阵列灯头尺寸系列化扩展（2×2到6×6）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_投光灯_002"
+    source_images:
+      - filename: "投光灯/03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色圆筒形景观投光灯，鱼眼视角展示，正面为圆形出光口，外环有细密齿轮状锯齿环（导光/截光），内部蜂窝微棱镜格栅，筒身外部有竖向细密散热鳍片，底部为圆形旋转底座"
+    product_name: "齿环锯齿筒形景观投光灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "投光灯"]
+    design_language:
+      silhouette: "圆筒形灯头（直径约180mm，长约150mm），外环设计有精细锯齿环（类似镜头光圈纹），筒身外壁密集竖向散热鳍片；底部圆形底座，支架允许俯仰旋转"
+      light_opening: "正向定向出光，圆形出光口内设蜂窝截光格栅，外环锯齿参与遮光截角；出光角度精准可控（约20-40°可选），适合建筑立面洗墙和景观聚光"
+      thermal: "圆筒身外壁满布竖向散热鳍片（约20-30条），散热鳍片成为主要视觉特征之一，热管理与美学一体化"
+      cmf:
+        color: "深空灰（charcoal grey）"
+        material: "压铸铝合金灯筒 + 阳极氧化或粉末涂层"
+        finish: "细腻哑光，散热鳍片表面机加工精度高，强调精密机械美学"
+      mounting: "圆形底座地面螺杆固定，灯头360°水平旋转+俯仰角度调节"
+      signature_detail: "锯齿光圈环：圆形出光口外缘的精密锯齿环将光学截光结构转化为精密仪器般的美学符号，散热鳍片竖向密排强化精工感"
+    design_level:
+      score: 5
+      reason: "散热结构与美学符号完全合一，锯齿光圈环语言独特，精密仪器气质，iF顶级"
+    design_tags: ["投光灯", "锯齿截光环", "圆筒", "散热鳍片", "景观投光", "精密美学", "iF获奖"]
+    hero_feature: "圆形出光口外缘的精密锯齿环+密集竖向散热鳍片，将工程结构转化为精密仪器美学符号"
+    problem_solved: "圆筒投光灯散热结构通常裸露丑陋；将散热鳍片设计成主视觉元素，功能即美观"
+    transferable_technique: "散热鳍片竖向密排作为主视觉语言（功能结构美化手法）；锯齿截光环光学-美学双功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_投光灯_003"
+    source_images:
+      - filename: "投光灯/04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "极简消光黑景观投光灯三种出光角变体，暗背景：左为圆筒形（侧面圆润，底部球形枢轴旋转节）；中为喇叭口圆锥筒（开口最大）；右为扁圆盘+钻石截面伸出（宽角散射）；三者共享圆柱底座+细颈旋转关节语言"
+    product_name: "三角变体极简消光黑投光灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "投光灯"]
+    design_language:
+      silhouette: "三形态家族：圆筒聚光（窄角）/ 喇叭扩散（中角）/ 扁盘宽角，共享圆柱底座+球形枢轴旋转节语言；细颈关节使灯头任意方向旋转，设计语言高度统一"
+      light_opening: "根据形态差异：圆筒版为窄角定向出光（约15-25°）；喇叭版为中角扩散（约40-60°）；扁盘版为宽角洗墙（约80-120°）；三者均无可见扩散板，为裸LED腔体"
+      thermal: "圆柱底座兼作散热体，与灯头铝合金一体，被动对流散热"
+      cmf:
+        color: "消光黑（全黑，包括关节）"
+        material: "铝合金整体（灯头+底座一体）"
+        finish: "消光黑粉末涂层，全身统一，无任何高光部位"
+      mounting: "圆柱底座地面螺杆固定；球形旋转关节实现±45°俯仰+360°旋转"
+      signature_detail: "球形枢轴旋转关节：在极简造型语境中，这颗球节是唯一的圆形元素，同时承担光学精准定向功能，形态语义极清晰"
+    design_level:
+      score: 5
+      reason: "三形态覆盖全角度范围，极简全黑语言彻底，球节旋转功能可视化优雅，iF顶级设计"
+    design_tags: ["投光灯", "极简全黑", "球节旋转", "多角度变体", "喇叭形", "圆筒聚光", "iF获奖"]
+    hero_feature: "三种出光角形态（圆筒/喇叭/扁盘）共享球形旋转关节和全消光黑语言，家族识别度极强"
+    problem_solved: "不同项目需要不同光角的投光灯，通常需购买不同品牌产品；此系列三形态共享底座和设计语言，一套解决全角度需求"
+    transferable_technique: "球形旋转关节在极简设计中的功能可视化表达；三形态共享底座模块的家族化策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_投光灯_004"
+    source_images:
+      - filename: "投光灯/05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "三款圆形灯头景观投光灯，浅灰背景：左：圆筒+斜切开口遮光罩（大张角）；中：正圆盘+蜂窝格栅正面；右：圆筒+白色发光圆环（光晕环装饰）；三者共享圆形底座+双耳U型底座语言"
+      - filename: "投光灯/06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/06.jpg"
+        image_role: "family"
+        visual_anchor: "同系列五尺寸从小到大排列，深灰色圆形灯头+白色发光圆环，圆盘从80mm到400mm完整系列，圆环宽度随尺寸等比缩放"
+    product_name: "发光圆环框投光灯系列（五尺寸）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "投光灯"]
+    design_language:
+      silhouette: "圆形灯头，正面为圆形出光面，外围白色发光圆环（宽约10-20mm）作为标志性装饰兼辅助照明；灯头可斜安装于U型双耳底座；整体轮廓干净，圆形语言贯穿"
+      light_opening: "双层出光：主出光（圆心LED阵列，定向中角投光）+ 辅助圆环出光（外缘发光圆环，360°柔和漫射；增强可见性）；蜂窝格栅变体（中款）为纯定向出光"
+      thermal: "圆形灯头背面密集散热鳍片（放射状或同心圆排列），与圆形出光面形成正反两面对比"
+      cmf:
+        color: "深炭灰灯体 + 白色发光圆环"
+        material: "压铸铝合金 + PC发光圆环扩散件"
+        finish: "哑光粉末涂层，IP65户外级"
+      mounting: "U型双耳底座通用：地面/壁面/杆装，灯头俯仰±90°可调"
+      signature_detail: "发光圆环（光晕环）：白色发光圆环将产品轮廓在夜间以光勾勒出来，既是指示功能（远距可见）又是装饰语言，五尺寸等比缩放维持家族感"
+    design_level:
+      score: 5
+      reason: "发光圆环是强力Hero Feature，五尺寸完整家族，双层出光创新，iF顶级水准"
+    design_tags: ["投光灯", "发光圆环", "五尺寸系列", "深炭灰", "双层出光", "U型底座", "iF获奖"]
+    hero_feature: "白色发光圆环环绕灯头外缘，夜间以光勾勒轮廓，远距离可见的同时强化产品家族识别"
+    problem_solved: "景观投光灯夜间辨识度低，远距离难以定位；发光圆环提供辅助光晕，同时作为安全警示和美学符号"
+    transferable_technique: "发光圆环（光晕环）作为产品轮廓标识语言；五尺寸等比缩放系列化手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_投光灯_005"
+    source_images:
+      - filename: "投光灯/07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "Eaton CHAMP VMLV工业投光灯，仰视角，深黑色大型工业灯具：上半部为银灰色铸铝防护罩（含散热鳍片和QR码标签），下半部为密集纵向黑色散热鳍片包围圆形出光面（含光学透镜+球形盖），右侧附带额外小型下照灯"
+      - filename: "投光灯/08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/08.jpg"
+        image_role: "detail"
+        visual_anchor: "Eaton CHAMP VMLV近景，清晰显示银灰色上壳（含品牌标牌和QR码）、密集黑色竖向散热鳍片、圆形光学出光口（大曲面防护玻璃）和侧挂附灯"
+    product_name: "Eaton CHAMP VMLV工业高棚投光灯"
+    brand_name: "Eaton"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "投光灯"]
+    design_language:
+      silhouette: "大型圆盘形工业灯具（直径约400-500mm），上半部为铸铝防护壳（平整）+下半部密集散热鳍片包围圆形出光面；整体分上下两层视觉区：浅色信息区+深色热管理区；右侧附属小型辅灯悬臂"
+      light_opening: "向下宽角漫射（工业高棚用途），大曲面光学防护玻璃封闭出光口，玻璃内LED阵列+光学透镜组，均匀宽光分布；附属辅灯为独立定向出光"
+      thermal: "散热鳍片为主视觉元素：密集纵向铸铝鳍片环绕整个灯盘下半部，散热面积极大，显示高功率设计；上部银灰铸铝罩整合驱动电源腔体"
+      cmf:
+        color: "银灰（上壳）+ 哑黑（散热鳍片+出光区）"
+        material: "铸铝合金全金属，IP65工业防水"
+        finish: "上壳：铸铝本色/轻阳极；鳍片：哑黑涂层，防腐耐候"
+      mounting: "顶部铸铝吊装/壁装接口，适配工业厂房、体育场等高棚场景"
+      signature_detail: "银灰+哑黑双色分区：信息/电源区（上，浅色，视觉退后）与热管理区（下，深色，视觉前进），两区分明的工业分区语言"
+    design_level:
+      score: 4
+      reason: "工业美学诚实：散热鳍片不掩藏，二色分区清晰传递功能逻辑，高功率工业灯iF获奖，实用主义美学代表"
+    design_tags: ["工业投光灯", "高棚灯", "散热鳍片", "Eaton", "双色分区", "银灰黑", "iF获奖"]
+    hero_feature: "散热鳍片环绕圆盘出光面的工业分区形态：银灰电源区+哑黑热管理区，功能逻辑完全可视化"
+    problem_solved: "工业高棚灯散热难、视觉笨重；密集鳍片高效散热同时形成强烈工业纹理视觉，将工程需求转化为美学特征"
+    transferable_technique: "上下双色功能分区（信息/电源区vs热管理区）；散热鳍片作为主视觉纹理语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_投光灯_006"
+    source_images:
+      - filename: "投光灯/09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "金黄色防爆投光灯三形态（无托架/单托架/双提手），圆盘形灯体扁平，上半部为铸铝防爆壳（金黄色，有金属螺钉锁紧），下半部为圆形出光面（带防护金属格栅），中文标识标注严禁带电维护"
+      - filename: "投光灯/10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/10.jpg"
+        image_role: "detail"
+        visual_anchor: "同款防爆灯正面仰视，金黄色圆形灯体，透明光学大玻璃罩内可见LED阵列+透镜组，外圈金属锁紧环，底部铸铝圈有中文标识，黄色防爆漆面质感"
+    product_name: "防爆圆盘形LED投光灯（工业）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "投光灯"]
+    design_language:
+      silhouette: "扁圆盘形工业灯体（厚径比约1:4），上半铸铝防爆壳+下半圆形出光面（透明防护玻璃罩），整体构造厚实坚固感，有明显螺栓锁紧细节；安装形态多样（无托/单臂/手提）"
+      light_opening: "向下/前方定向宽角出光，大直径透明光学玻璃罩保护LED阵列，透镜组可实现20-80°光角选择；外缘金属防护圈防止物理撞击"
+      thermal: "上部铸铝防爆壳设计有隐性散热通道，厚重铝件大热容；防爆要求限制通风孔，依赖铸铝导热"
+      cmf:
+        color: "工程黄（safety yellow，中文标识防爆色彩规范）"
+        material: "铸铝防爆壳 + 防爆钢化玻璃 + 不锈钢螺栓"
+        finish: "防爆认证喷涂（环氧粉末涂层），耐溶剂耐腐蚀，符合Ex认证要求"
+      mounting: "三形态：吊装（无托）/ 壁装（单臂）/ 手持（双提手）；适用化工、采矿、船舶等防爆场所"
+      signature_detail: "工程黄防爆色：在工业安全色体系中，亮黄色=防爆认证识别色，实用安全规范直接成为产品最强视觉特征"
+    design_level:
+      score: 4
+      reason: "防爆工业设计将安全规范（工程黄）转化为强烈视觉识别，三形态安装灵活性覆盖多场景，iF获奖水准"
+    design_tags: ["防爆灯", "工业投光", "工程黄", "铸铝", "宽角出光", "多安装形态", "iF获奖"]
+    hero_feature: "工程黄防爆色+圆盘厚重铸铝形态：安全规范色直接成为产品最强视觉识别，三安装形态一体化"
+    problem_solved: "危险场所需要防爆认证灯具，通常美学极差；此设计将防爆结构（厚壳螺栓）和安全色（黄色）转化为工业美学特征"
+    transferable_technique: "安全规范色（工程黄/橙）直接作为主CMF；多安装形态共享同一灯体模块"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_投光灯_007"
+    source_images:
+      - filename: "投光灯/11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "Kelvin品牌便携式圆盘投光灯，夜间城市背景（埃菲尔铁塔），灯头为大直径圆形发光面（约200mm，暖橙色高亮），金属背板+侧向安装臂，固定于三脚架立杆，背景可见品牌名Kelvin"
+      - filename: "投光灯/12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/12.jpg"
+        image_role: "detail"
+        visual_anchor: "Epos 300便携投光灯，工业港口背景（有雨水），灰白色方形背板（含品牌名和规格印刷）+黑色圆筒出光头（侧向伸出），金属旋臂连接背板与灯头，长槽孔允许高度调节"
+    product_name: "便携式专业投光灯（Kelvin / Epos 300）"
+    brand_name: "Kelvin / Epos"
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "投光灯"]
+    design_language:
+      silhouette: "两款便携专业灯共享类似形态逻辑：方形/矩形背板（驱动+散热）+侧向旋臂+圆形灯头；背板为信息展示面（品牌+规格），旋臂提供俯仰角度调节；整体构成相机/云台般的精密仪器感"
+      light_opening: "圆形正向出光：Kelvin版为大直径圆形出光面（约200mm），全面均匀泛光；Epos 300版为圆筒聚光头，定向中角出光；均无外部格栅，透明光学玻璃保护"
+      thermal: "背板内集成驱动，背面散热；圆筒灯头铝合金被动散热；Epos 300灯头有轻微竖向鳍片"
+      cmf:
+        color: "Kelvin：银/黑双色；Epos 300：浅米灰（背板）+哑黑（灯头）"
+        material: "铝合金背板+灯头，不锈钢旋臂"
+        finish: "Kelvin：银色阳极氧化；Epos 300：米灰粉末涂层（含信息印刷）"
+      mounting: "三脚架/云台标准接口，便携临时安装；可快速拆装重新部署"
+      signature_detail: "背板信息面：将品牌名+规格参数直接印刷在背板正面，兼作品牌展示与技术文档载体，在专业场景中传递可信度"
+    design_level:
+      score: 4
+      reason: "便携专业投光灯的仪器感美学，背板信息化设计传递专业性，户外实战场景适应性强，iF获奖水准"
+    design_tags: ["便携投光灯", "方形背板", "旋臂调节", "专业户外", "银灰", "信息背板", "iF获奖"]
+    hero_feature: "方形背板+旋臂+圆形灯头的精密仪器构型，背板印刷品牌/规格信息，专业工具感极强"
+    problem_solved: "户外临时照明需要快速部署和精准定向；旋臂+标准三脚架接口实现快速定向安装"
+    transferable_technique: "背板作为品牌信息载体（印刷规格+品牌）；标准云台接口实现跨品台通用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_投光灯_008"
+    source_images:
+      - filename: "投光灯/13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "消光黑线性投光灯（洗墙灯），矩形长条截面（约1000×60×50mm），顶面透明钢化玻璃内嵌4-5颗大直径反射碗+LED，底部矩形铝型材壳体带圆形logo压印，两端黑色防水接头"
+      - filename: "投光灯/14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/14.jpg"
+        image_role: "explode"
+        visual_anchor: "同款线性投光灯爆炸图：黑色铝型材上盖、LED模组条（含多颗反射碗LED）、银色铝型材底座、左右防水连接器各一、安装卡扣×2、尾帽×2；拼装结构清晰"
+    product_name: "消光黑线性洗墙投光灯（带反射碗LED）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "投光灯"]
+    design_language:
+      silhouette: "标准矩形截面铝型材长条（约1000mm，截面约60×50mm），极简直线形态；顶面透明玻璃保护面内嵌LED反射碗阵列，底面铝型材有品牌logo压印浮雕；两端防水连接头，可串联"
+      light_opening: "向上/侧向定向洗墙出光，大直径反射碗（约30-40mm）精准控制光束，每颗LED独立反射碗实现精准配光；透明钢化玻璃封闭出光面，IP66防水，可埋地或地面贴装"
+      thermal: "铝型材壳体全身为散热体，铝型材截面积大，热阻低，高效被动散热"
+      cmf:
+        color: "消光黑（铝型材阳极氧化黑）"
+        material: "铝合金挤压型材 + 钢化玻璃 + 硅胶防水密封"
+        finish: "阳极氧化黑，表面细腻均匀，防腐耐候IP66"
+      mounting: "底面卡扣安装于槽道；可地面贴装（洗墙）或嵌入地面（地埋），串联连接扩展长度"
+      signature_detail: "反射碗LED阵列（非直射裸LED）：大直径反射碗精密控光同时形成强烈的重复几何纹理，透过玻璃清晰可见，白天如雕刻细节、夜晚如精密光学仪器"
+    design_level:
+      score: 4
+      reason: "线性洗墙灯将反射碗阵列转化为内置装饰纹理，爆炸图展示结构清晰，模块化串联设计成熟，iF获奖水准"
+    design_tags: ["线性投光灯", "洗墙灯", "反射碗阵列", "铝型材", "消光黑", "IP66", "串联模块", "iF获奖"]
+    hero_feature: "透明玻璃内的大直径反射碗LED阵列：精密控光同时形成强烈重复几何纹理，白天是装饰细节，夜晚是精密光学"
+    problem_solved: "线性洗墙灯通常LED直射裸露配光不均匀；独立反射碗精准配光+IP66全密封解决耐候和光均匀性"
+    transferable_technique: "反射碗LED阵列的装饰性纹理应用；铝型材截面被动散热+密封串联模块化结构"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_投光灯_009"
+    source_images:
+      - filename: "投光灯/15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "RGB彩色线性灯条，发青蓝绿色（RGB全彩），矩形铝型材截面，半圆弧形乳白扩散罩覆盖顶面（PC扩散），两端黑色防水圆形连接头，背面安装背夹和logo压印；用于建筑轮廓装饰照明"
+      - filename: "投光灯/16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/16.jpg"
+        image_role: "explode"
+        visual_anchor: "同款线性灯条爆炸图：黑色铝型材底座（含固定卡扣×2）、RGB LED模组条（密集小尺寸LED密排）、乳白半圆弧扩散罩、左右防水连接头、尾帽"
+    product_name: "RGB全彩弧形扩散线性灯条（建筑轮廓灯）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "投光灯"]
+    design_language:
+      silhouette: "细长矩形铝型材（截面约30×20mm），顶面为半圆弧形乳白PC扩散罩（扩散罩弧形截面），整体截面呈D形；轻薄贴附感，适合建筑线条装饰"
+      light_opening: "向上180°宽角漫射出光，乳白半弧PC扩散罩均匀扩散RGB LED光（消除颗粒感），光色均匀连续；向下/侧方无光溢出，铝型材底座遮蔽"
+      thermal: "铝型材底座散热，RGB LED高密度排列有一定热量，铝材导热快速分散"
+      cmf:
+        color: "铝本色/黑色（底座）+ 乳白色（扩散罩）；发光色全彩RGB可编程"
+        material: "铝合金挤压型材 + 乳白PC扩散罩 + 硅胶防水"
+        finish: "铝型材阳极氧化或粉末涂层；PC扩散罩磨砂乳白"
+      mounting: "底面卡扣固定，可贴附建筑立面线条、檐口、台阶边缘；串联扩展"
+      signature_detail: "D形截面（矩形底+弧顶扩散罩）：弧面扩散罩与铝型材底座的简洁组合成为线性装饰灯的标准美学模板，乳白弧面传递柔和均匀色彩"
+    design_level:
+      score: 4
+      reason: "RGB线性装饰灯设计语言成熟，D形截面经典，爆炸图结构完整清晰，建筑轮廓照明iF获奖水准"
+    design_tags: ["RGB线性灯", "建筑轮廓灯", "弧形扩散罩", "全彩", "D形截面", "铝型材", "iF获奖"]
+    hero_feature: "半弧PC扩散罩+RGB密排LED：弧形截面形成均匀柔和彩色光带，D形截面在建筑面上轻薄贴附"
+    problem_solved: "建筑轮廓RGB灯颗粒感强、防水差；密排LED+弧形扩散罩消除颗粒感，铝型材全包封实现IP66"
+    transferable_technique: "半弧扩散罩（D形截面）消除LED颗粒感；RGB密排+乳白扩散的均匀光色处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_投光灯_010"
+    source_images:
+      - filename: "投光灯/17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/投光灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "银灰色蝶翼形遮光板投光灯，正面视角：圆形底座+三角形支架颈部+双片蝶翼形遮光板（左右对称展开，中间夹持圆形灯头+菲涅尔/棱镜光学元件），遮光翼板为两片薄金属片，边缘锋利"
+    product_name: "蝶翼遮光板菲涅尔景观聚光灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "投光灯"]
+    design_language:
+      silhouette: "高度独特：两片薄金属遮光板从圆形灯头两侧向外对称展开（蝶翼形），三角形支架颈连接圆形底座；整体轮廓如展翅的几何蝴蝶，在投光灯中极为罕见的造型语言"
+      light_opening: "定向精准聚光，圆形出光口内嵌菲涅尔透镜或棱镜光学元件（反射光学），蝶翼遮光板从侧向截断溢出光；双翼遮光配合实现精准光束边界控制，适合建筑立面精确打光"
+      thermal: "小型圆形灯头铝合金被动散热，双翼遮光板本身也协助散热（增加散热面积）"
+      cmf:
+        color: "银灰（全身统一，金属铝本色感）"
+        material: "铝合金压铸底座+薄铝板遮光翼+铝合金灯头"
+        finish: "银灰粉末涂层或阳极氧化，金属光泽轻微，精密感"
+      mounting: "圆形底座地面螺杆固定，支架颈俯仰调节，灯头+翼板整体旋转"
+      signature_detail: "蝶翼双遮光板：将工程遮光板转化为雕塑语言，两片薄金属翼从灯头展开，白天是金属雕塑，夜晚是精准截光工具，功能与美学完全融合"
+    design_level:
+      score: 5
+      reason: "蝶翼遮光板的雕塑感前所未见，光学精准性与美学独特性完全统一，iF顶级创新"
+    design_tags: ["景观投光灯", "蝶翼遮光板", "菲涅尔光学", "雕塑感", "银灰铝", "精准截光", "iF获奖"]
+    hero_feature: "双片蝶翼形遮光板对称展开于灯头两侧：工程遮光结构直接成为强烈雕塑造型，功能与形态完全一体"
+    problem_solved: "精准景观投光灯遮光器通常为丑陋黑色遮光筒；蝶翼遮光板将遮光结构美化为产品最强视觉记忆点"
+    transferable_technique: "遮光板/遮光翼直接成为主造型元素（功能结构雕塑化）；蝶翼对称展开语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

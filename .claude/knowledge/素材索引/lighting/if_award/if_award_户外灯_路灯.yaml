@@ -1,0 +1,479 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "路灯"
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/"
+  generated_at: "2026-05-08"
+
+# 注：27张图中有6张属于误归类（非路灯产品），已在最后列出并标注。
+# 实际路灯/户外灯柱产品共11个（含bollard、park post-top、road arm-mount类型）。
+
+products:
+
+  - product_id: "if_户外灯_路灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：哑光黑色圆柱bollard，上部约1/3处杆身弯折形成弧形颈部，顶端单眼圆形LED灯头朝向斜下方，灯头镶嵌于流线型弯颈凹槽中，地面可见椭圆形暖光照射区"
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/02.jpg"
+        image_role: "detail"
+        visual_anchor: "灯头特写：单颗大直径圆形LED（约占灯头宽度60%）嵌于椭圆形弯颈凹槽，凹槽两侧收窄形成流线型眼睛轮廓，LED外圈可见聚焦光学镜片，背面弧形遮光板实现下射截光"
+    product_name: "弯颈单眼LED路灯bollard"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "路灯", "bollard"]
+    design_language:
+      silhouette: "直立圆柱杆身 + 上部有机弯折颈部 + 单眼圆形灯头，整体轮廓像一个低头俯视的人形，弯颈处形成最大视觉张力点"
+      light_opening: "单颗圆形LED向斜下方出光，弯颈背板形成天然遮光挡板，截光角约120°，无上射光污染，地面形成椭圆形集中照射区"
+      thermal: "圆柱杆身兼作散热体，铝制一体压铸，弯颈部位壁厚加强"
+      cmf:
+        color: "全身哑光黑（暖调）"
+        material: "铝合金压铸杆身与灯头 + 光学PC/玻璃镜片"
+        finish: "哑光粉末涂层，拒绝高光，质感内敛"
+      mounting: "地插/落地bollard式，杆身底部直接插入地面基础，无外露螺栓"
+      signature_detail: "弯颈凹槽将灯头完整包覆——灯头不是'安装'在杆上，而是'生长'于杆的弯曲处，形态逻辑完整"
+    design_level:
+      score: 5
+      reason: "弯颈与灯头一体化的形态语言极具辨识度，功能（截光、朝向控制）与造型（弯颈弧度）完全合一，是路灯设计中少见的有机仿生路径，iF顶级奖项水准"
+    design_tags: ["bollard", "弯颈一体", "单眼灯头", "下射截光", "仿生有机", "哑光黑", "H06仿生", "H07极简整合", "H09隐藏工程"]
+    hero_feature: "杆身弯折颈部将灯头包覆——灯头是弯颈的眼睛，形态与截光功能同时成立"
+    problem_solved: "传统bollard灯头像'帽子'被放在杆顶，该设计将灯头融入杆身弯曲动作中，消除头重脚轻感，同时实现天然截光"
+    transferable_technique: "将功能件（出光口）藏入结构弯折凹槽的手法，可迁移至需要定向出光的户外照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_路灯_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "四个高度规格（约600/900/1200/1600mm）并排展示，均为深灰色圆柱杆身，顶部有机Y形分叉托起扁平圆蘑菇盖帽，分叉间隙露出光源，配色深铁灰"
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/04.jpg"
+        image_role: "detail"
+        visual_anchor: "三个尺寸灯头特写并排：扁圆盘形帽顶 + Y形三叉支架，三叉从圆柱杆顶部有机展开，叉臂截面圆润，叉臂末端上翘托住圆盖，盖帽下缘与叉臂之间形成连续光出射缝隙"
+    product_name: "蘑菇伞形模块化bollard系列"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "路灯", "bollard", "park post-top"]
+    design_language:
+      silhouette: "圆柱杆 + Y形三叉有机展开 + 扁圆蘑菇帽，侧视轮廓如香槟杯，正视轮廓如树形，4高度模块化系列保持头部比例一致"
+      light_opening: "盖帽下缘与叉臂之间形成360°环形出光缝，光向侧下方均匀漫射，盖帽提供天然截光（full cutoff），几乎无上射光"
+      thermal: "扁圆铝制帽盖兼作散热面，表面积大，叉臂导热至杆身进一步散热"
+      cmf:
+        color: "深铁灰（anthracite）全系一色"
+        material: "铝合金压铸灯头+叉架 + 铝制圆柱杆身"
+        finish: "均匀哑光粉末涂层，户外耐候"
+      mounting: "bollard地插式，底部法兰或直插混凝土，可适配多高度"
+      signature_detail: "Y形三叉从杆顶有机分叉的比例控制——叉臂不是螺栓连接的附件，而是杆身顶端的自然延伸，实现头部与身的无缝过渡"
+    design_level:
+      score: 4
+      reason: "蘑菇形态辨识度高，Y形分叉比例优雅，模块化系列扩展合理；光学截光设计实用；扣1分因为蘑菇/伞形在公园灯中已有较多先例"
+    design_tags: ["bollard", "蘑菇形", "Y形分叉", "模块化系列", "全截光", "park post-top", "深铁灰", "H01减法", "H06仿生", "H05模块化"]
+    hero_feature: "杆顶Y形三叉有机展开托住圆盖——截光、散热、造型三位一体，关灯是雕塑"
+    problem_solved: "传统bollard帽顶结构突兀，该设计让帽盖通过有机叉架'悬浮'在杆顶，形成轻盈漂浮感，同时实现全截光防止光污染"
+    transferable_technique: "Y形叉架从杆身有机生长出来托举出光面的结构语言，可迁移至需要悬浮感灯头的各类户外灯柱"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_路灯_003"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/07.jpg"
+        image_role: "context"
+        visual_anchor: "场景照：深灰色圆柱bollard立于建筑入口雪地路边，顶部圆柱帽盖下方一圈透明晶体棱镜状光学环带发出冷白光，光线向下均匀漫射，周边积雪清晰可见光照效果"
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/08.jpg"
+        image_role: "context"
+        visual_anchor: "多个bollard沿花园小径排列，暖白光从帽盖下棱镜环带射出，地面形成连续圆形光晕，背景花卉与建筑清晰"
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "单灯特写：深灰圆柱杆，顶端平面圆帽盖（金属），帽盖与杆身之间夹一圈透明棱镜光学环带，棱镜呈多面体切割晶体状，LED光从帽盖下方射入棱镜后折射漫出"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/10.jpg"
+        image_role: "variant"
+        visual_anchor: "两个高度规格并排（约600mm和1000mm），相同棱镜环带光学设计，较高版本帽盖更宽，圆柱杆径一致，展示模块化高度扩展能力"
+    product_name: "棱镜环带LED bollard"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "路灯", "bollard"]
+    design_language:
+      silhouette: "纯圆柱杆身 + 平顶圆帽盖，轮廓极度克制，仅帽盖与杆身之间的棱镜环带打破单调，侧视轮廓像一枚胶囊加了一个腰带"
+      light_opening: "360°棱镜环带侧向出光，帽盖提供上射遮光（full cutoff），光通过多面体棱镜折射后漫散至侧下方，无眩光裸露LED"
+      thermal: "平顶帽盖为铝制散热板，杆身铝质，棱镜环带为PC/玻璃光学件，散热路径简洁"
+      cmf:
+        color: "深灰杆身+帽盖（anthracite） + 透明水晶棱镜光学环带"
+        material: "铝合金杆身 + 铝制帽盖 + 多面体棱镜光学PC或玻璃环带"
+        finish: "哑光粉末涂层（金属件）+ 高透明光学级（棱镜件）"
+      mounting: "bollard地插/法兰式，两种高度规格可互换灯头模块"
+      signature_detail: "多面体棱镜切割环带：工程光学元件被设计成珠宝质感，灯具白天是圆柱雕塑，夜晚棱镜环带发光如宝石腰带"
+    design_level:
+      score: 5
+      reason: "将光学棱镜环带设计为视觉焦点的手法独特，珠宝感与工业圆柱形成强烈对比，截光完美（帽盖），两款高度尺寸模块化，制造合理，iF顶级水准"
+    design_tags: ["bollard", "棱镜环带", "360度出光", "全截光", "珠宝光学", "模块化", "H10材料表达", "H08对比强调", "H09隐藏工程"]
+    hero_feature: "多面体棱镜切割光学环带——工程配光元件即是装饰腰带，白天珠宝感，夜间光晕感"
+    problem_solved: "bollard出光方式通常平庸（玻璃条缝或格栅），该设计用棱镜折射创造出宝石切割般的发光质感，白天也具强烈存在感"
+    transferable_technique: "将光学配光元件（棱镜/透镜）外露为装饰纹理带的思路，可迁移至需要兼顾光学效率与装饰性的户外照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_路灯_004"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "CG渲染图：银灰色路灯头侧视，水平悬臂从圆柱杆横向伸出，灯体为流线型翼面造型（上表面弧形隆起，下表面平坦），后端连接悬臂处有铰链调节结构，灯体末端收尖，整体轮廓如机翼截面，背景为动态蓝色光线特效"
+    product_name: "翼形悬臂路灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "路灯", "道路照明", "arm-mount"]
+    design_language:
+      silhouette: "机翼截面流线型灯体，上凸下平，前端收细收尖，后端通过铰链悬臂连接圆柱灯杆，侧视轮廓极像NACA机翼剖面"
+      light_opening: "下表面平坦为出光面，全截光（flat-lens full cutoff），光线向下均匀分布，无上射光，非对称配光可覆盖道路宽度"
+      thermal: "弧形上表面兼作大面积散热翅片区域，流线型外壳加速气流散热"
+      cmf:
+        color: "银灰（铝本色或浅银粉末涂层）"
+        material: "铝合金压铸或铝型材灯体 + 光学PC/钢化玻璃出光面"
+        finish: "银灰哑光，金属感强"
+      mounting: "悬臂侧装，铰链角度可调，适配各规格灯杆圆柱截面，侧入式安装"
+      signature_detail: "翼面上表面隆起弧度与气流方向一致——散热与减阻动态造型语言在静态产品上形成张力"
+    design_level:
+      score: 4
+      reason: "翼形截面应用于路灯灯体的手法在视觉上有力，但市场上已有翼形路灯先例（如飞利浦部分系列），减1分；铰链可调设计实用性加分"
+    design_tags: ["道路路灯", "翼形截面", "悬臂side-mount", "全截光", "非对称配光", "银灰", "H06仿生", "H11功能外显", "H01减法"]
+    hero_feature: "NACA翼形截面灯体——空气动力学形态天然成为散热、减阻、造型的三合一解答"
+    problem_solved: "传统路灯灯体矩形盒子感强，翼形截面赋予视觉轻盈感，同时上凸曲面增加散热表面积"
+    transferable_technique: "翼面截面形态（上凸下平）用于需要散热+轻盈感的户外悬臂照明灯体设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_路灯_005"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "3D渲染：铁灰绿色双臂路灯，圆柱杆顶部有机Y形分叉，两臂向两侧斜向伸展约45°，每条臂均为圆管截面，臂的上表面内嵌线性LED光条，颜色渐变（绿色→青色→黄绿色从根部到末梢），杆底有地插尖锥，展示两种配置（双臂对称 / 单臂）"
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/13.jpg"
+        image_role: "detail"
+        visual_anchor: "两侧臂与分叉节点特写 + 底部地插尖锥特写：Y形节点处管壁圆润融合无棱角，臂截面内可见LED光条与光学扩散条；地插锥为独立黑色螺旋固定件"
+    product_name: "Y分叉双臂线性LED路灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "路灯", "park street light", "arm-mount"]
+    design_language:
+      silhouette: "圆柱杆 + Y形有机分叉 + 双斜臂，正视轮廓如树杈/叉骨，臂末梢收细，整体比例轻盈，线条流畅"
+      light_opening: "线性LED嵌于臂管上表面，光从管顶缝隙漫射向上及侧向，不是传统下射，更近于氛围/标识照明而非功能性路面照明"
+      thermal: "臂管铝制，LED线条嵌入铝槽直接导热至臂管"
+      cmf:
+        color: "铁灰绿（主结构）+ 绿-青-黄绿渐变LED发光（装饰色彩）"
+        material: "铝合金杆身与臂管 + 线性LED模组 + 光学扩散PC条"
+        finish: "主体哑光粉末涂层（灰绿）；LED发光色彩动态可调"
+      mounting: "地插尖锥式，适合公园草地软地面快速安装，无需混凝土基础"
+      signature_detail: "臂管即光源——LED完全融入臂管截面，臂的结构线条与发光线条重合，消除了'灯头附加到杆子上'的设计逻辑"
+    design_level:
+      score: 4
+      reason: "臂管即光源的逻辑简洁有力，地插安装实用；但上射光照明方式用于路灯有光污染风险，配色渐变装饰性强但实用性存疑，功能角色更接近景观灯而非道路照明"
+    design_tags: ["公园路灯", "Y形分叉", "线性LED臂管", "地插式", "景观照明", "渐变色", "H04参数化", "H11功能外显", "H05模块化"]
+    hero_feature: "臂管本身就是光源——结构管道与线性LED完全重合，撤掉任何一个产品立刻失去定义"
+    problem_solved: "传统路灯灯头与灯杆是两件套，该设计将出光功能与支撑结构完全融合，白天是现代雕塑，夜晚是线条光源"
+    transferable_technique: "将线性LED嵌入结构管件截面槽道的手法，可迁移至各类需要结构与照明一体化的户外家具或景观产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_路灯_006"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "点亮效果：哑光黑色道路路灯头，大圆形碗状灯头（直径约为杆径5倍），碗口朝上（上射！），碗内密布白色LED矩阵阵列，三角形Y支架将碗托起连接于圆柱杆顶，支架三臂在中心杆顶汇聚，侧视支架呈清晰三角形"
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/15.jpg"
+        image_role: "variant"
+        visual_anchor: "关灯状态俯视角度：同一款灯，同样的圆碗+三角支架结构，背景全黑，清晰展示灯头碗口朝上的结构，碗底可见LED阵列密集排布，三臂支架在碗底汇聚处可见维修检查口"
+    product_name: "开口碗形上射LED道路灯头"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "路灯", "post-top", "park/plaza lighting"]
+    design_language:
+      silhouette: "圆形宽碗灯头 + 三角Y形支架 + 圆柱杆，正视如马提尼酒杯，碗口开阔，视觉重心在顶部，比例饱满"
+      light_opening: "碗口朝上，LED阵列面向天空，属于上射直射配光，配合光学扩散板可实现广角均匀分布；注意：此设计存在天空光污染，适用于广场/公园非严格截光场所"
+      thermal: "宽大碗形铝件为LED提供大面积散热底板，三臂支架导热至杆身"
+      cmf:
+        color: "全身哑光黑"
+        material: "铝合金压铸碗形灯头 + LED模组 + 钢化玻璃或光学PC防护面 + 铝制支架与杆身"
+        finish: "哑光黑粉末涂层，硬朗工业感"
+      mounting: "post-top，圆柱杆顶三臂支架托举，支架与杆顶通过螺栓连接，碗底有维修检查口"
+      signature_detail: "三角支架三臂从杆顶向外展开的张力造型——支架不隐藏而是外露作为设计语言，结构即装饰"
+    design_level:
+      score: 3
+      reason: "造型辨识度高（宽碗+三角架），制造工艺成熟；但上射配光不符合现代路灯全截光标准（IDA/IES TM-15推荐BUG评级），实际节能和防光污染性能存疑，扣2分"
+    design_tags: ["post-top", "碗形灯头", "三角支架", "LED阵列", "上射配光", "广场照明", "哑光黑", "H08对比强调", "H11功能外显"]
+    hero_feature: "宽碗+三角支架造型——碗形灯头比例饱满，三臂支架结构外露成为设计语言"
+    problem_solved: "在广场/公园等需要氛围感而非精准路面照明的场所，该设计提供宽角度大面积均匀照明，造型标志性强"
+    transferable_technique: "碗形灯头+放射状支架从杆顶展开的结构形态，可迁移至广场、公园等景观照明post-top设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_路灯_007"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "两款高度并排：深灰色圆柱杆，灯杆延伸穿过圆形扁碟形灯头（灯杆不在灯头中心，偏心穿过灯头约1/3处），灯头为扁平圆盘，上表面可见放射状分件纹路，点亮后碟形下表面LED均匀出光，颜色暖白"
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/17.jpg"
+        image_role: "variant"
+        visual_anchor: "同款关灯日间状态：同样两个高度，放射状分件纹路更清晰，灯杆偏心穿过灯头的结构关系清晰可见，灯头呈哑光深灰，上表面饼形分段"
+    product_name: "偏心穿杆圆碟形路灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "路灯", "post-top", "park street light"]
+    design_language:
+      silhouette: "圆柱杆延伸穿过扁平圆碟灯头（偏心位置），形成不对称视觉构图，灯头面积约为杆径10倍直径，整体轮廓像一把雨伞从侧面插过"
+      light_opening: "圆碟下表面全面下射，截光良好（flat lens full cutoff），LED阵列均匀覆盖碟形出光面，非对称照射区域由偏心安装角度控制"
+      thermal: "圆碟上表面放射状分件槽为散热翅片，面积大，自然对流散热"
+      cmf:
+        color: "深灰（anthracite）全系"
+        material: "铝合金压铸碟形灯头 + 光学PC或钢化玻璃出光面 + 铝制圆柱杆"
+        finish: "哑光粉末涂层，放射状分件线是模具成型结构线"
+      mounting: "灯杆穿过灯头偏心位置，上端杆身外露高于灯头，灯头通过夹紧件固定于杆身，角度可微调"
+      signature_detail: "灯杆偏心穿过灯头——打破'灯头盖在杆顶'的常规逻辑，杆身延伸穿出灯头后在空中收尾，形成强烈设计主张"
+    design_level:
+      score: 5
+      reason: "偏心穿杆是对post-top路灯品类假设（灯头必须在杆顶居中）的精准挑战，视觉构图独特，全截光配光实用，散热上表面分件纹路兼具功能与装饰，iF顶级奖项水准"
+    design_tags: ["post-top", "偏心穿杆", "圆碟形", "全截光", "非对称构图", "放射状分件", "H01减法", "H03分件线", "品类假设挑战"]
+    hero_feature: "灯杆偏心穿过圆碟灯头并向上延伸收尾——挑战了'灯头必须居中在杆顶'的品类惯例，造型张力极强"
+    problem_solved: "传统post-top路灯灯头居中安装单调，偏心穿杆创造出不对称动态平衡感，同时提供更灵活的照射方向调节"
+    transferable_technique: "支撑结构穿过（而非停止于）功能件的设计逻辑，可迁移至需要结构延伸感的各类户外灯柱或公共设施"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_路灯_008"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/18.jpg"
+        image_role: "hero"
+        visual_anchor: "效果图（素描渲染混合风格）：深灰色道路路灯头，梯形截面灯壳（前窄后宽），上表面平坦可见散热栅格，下表面为矩形出光面，后端连接L形悬臂侧入灯杆，灯杆为圆柱，连接处可见铰链调节件，灯壳体量较大"
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/19.jpg"
+        image_role: "lit"
+        visual_anchor: "同款点亮效果：暖白LED从矩形下表面出光，光色均匀，灯壳上表面横向散热栅格清晰，后端悬臂连接处铰链螺栓可见，整体造型敦实工业感"
+    product_name: "梯形LED道路路灯头"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "路灯", "道路照明", "arm-mount"]
+    design_language:
+      silhouette: "梯形截面灯壳（侧视前窄后宽，形如楔子），上平下平，L形悬臂侧入圆柱灯杆，整体构图厚实稳定"
+      light_opening: "矩形平面下出光，flat lens全截光，LED矩阵均匀布满出光面，非对称配光覆盖道路宽度"
+      thermal: "上表面横向平行散热栅格，面积大，气流顺栅格方向流通，散热效率高"
+      cmf:
+        color: "深灰（charcoal）"
+        material: "铝合金压铸灯壳 + 钢化玻璃或光学PC出光面 + 铝制悬臂"
+        finish: "哑光粉末涂层，散热栅格为模具出模纹理"
+      mounting: "L形悬臂侧入式，铰链角度可调±15°，适配标准圆柱灯杆"
+      signature_detail: "楔形截面从侧面看前端向下收细——减小前方迎风面积，提示气流流向，是功能性形态语言的直接表达"
+    design_level:
+      score: 3
+      reason: "设计扎实实用，楔形截面符合功能逻辑，但视觉辨识度中等，市场同类产品较多，没有突破性的Hero Feature，是优秀的工程导向设计而非突破性的形态创新"
+    design_tags: ["道路路灯", "梯形截面", "楔形灯壳", "悬臂side-mount", "全截光", "散热栅格", "H01减法", "H11功能外显"]
+    hero_feature: "楔形截面前端收细——减风阻与造型线条合一，是功能优先的诚实设计"
+    problem_solved: "道路路灯需在强风环境下稳定工作，楔形截面减小迎风面积，上表面平行散热栅格提升散热；形态直接服务工程需求"
+    transferable_technique: "楔形截面（前薄后厚）控制风阻与重心的形态策略，可迁移至各类需要在户外悬臂安装的照明或设备外壳"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_路灯_009"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图（傍晚滨海木栈道）：高约4m的园林路灯，杆身中下部有纵向竖棱纹饰（类似竹节/柱状建筑线脚），顶部V形叉开，两叉各向斜上方延伸，叉顶汇聚为玻璃/PC透明圆锥灯罩，内有LED光源，暖白光从透明锥顶漫射而出，背景远处同款灯列排"
+    product_name: "竹纹柱身V叉透明锥顶园林路灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "路灯", "园林路灯", "post-top"]
+    design_language:
+      silhouette: "纵向竹棱纹圆柱杆身 + 上部V形分叉 + 透明圆锥灯罩，侧视轮廓如蜡烛托，比例修长，装饰性强"
+      light_opening: "透明圆锥灯罩360°全向出光，顶端收尖，光从锥面漫射（非截光），适用于步行道氛围照明，存在一定上射光"
+      thermal: "竹棱纹柱身为铝制，纵向棱纹增加散热面积；V叉为铝制结构件"
+      cmf:
+        color: "深棕灰色杆身（类铸铁/阳极氧化铝色）+ 透明灯罩"
+        material: "铝合金或铸铝杆身 + 透明钢化玻璃或PC锥形灯罩 + LED光源"
+        finish: "竹棱纹表面哑光涂层；灯罩高透明"
+      mounting: "独立落地柱式，底部法兰固定，可集群排列于步行道"
+      signature_detail: "杆身竹节纵棱纹 + V形上叉的组合——东方竹形意象与现代分叉结构语言的混搭，地域文化性强"
+    design_level:
+      score: 3
+      reason: "竹纹柱身有地域文化特色，V叉比例优雅，场景感好；但出光方式（全向非截光）不符合现代路灯节能标准，装饰性大于功能性，造型辨识度中等"
+    design_tags: ["园林路灯", "竹节纹", "V形分叉", "透明锥形灯罩", "全向出光", "步行道", "H04参数化", "H10材料表达", "H06仿生"]
+    hero_feature: "竹棱纹杆身+V形上叉——东方竹的文化意象嫁接到现代路灯结构语言中"
+    problem_solved: "滨海/公园步行道路灯需要兼顾氛围感与标识性，竹纹柱身赋予文化地域特征，V叉+透明锥顶提供柔和全向光"
+    transferable_technique: "在金属杆身表面加入文化性纹饰（竹棱/波纹/编织纹）赋予地域性的设计手法，可迁移至公共设施杆件设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_路灯_010"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/23.jpg"
+        image_role: "hero"
+        visual_anchor: "产品海报（LUG品牌）：灰白色方管框架结构路灯，由两个竖向方管平行排列形成门框/拱门形态（U形朝下），内侧边缘嵌入线性LED光条，线性光沿框架内边缘延伸，框架截面为倒角方形，顶部为倒角方管横梁，整体如建筑框架门廊"
+    product_name: "LUG FRAME 方框架线性路灯系统"
+    brand_name: "LUG"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "路灯", "建筑路灯", "景观照明"]
+    design_language:
+      silhouette: "倒U形门框轮廓，两竖杆+顶横梁，整体如建筑门洞截面，高宽比约4:1，框架截面方形带倒角，视觉语言建筑化"
+      light_opening: "线性LED嵌于框架内侧边缘，光向框架内侧下方出光，两竖杆内侧同时出光，光线在框架内形成'光边框'效果"
+      thermal: "方管空心铝型材，内侧LED槽散热通过型材导至外壁，截面面积大散热好"
+      cmf:
+        color: "灰白（浅银灰）"
+        material: "铝型材框架 + 线性LED模组"
+        finish: "浅灰哑光粉末涂层，型材倒角细腻"
+      mounting: "底部双脚落地式（两竖杆独立落地），可单独使用或连续排列形成廊道，属于定制bespoke系统"
+      signature_detail: "框架即灯具——路灯不再是'杆+头'的二元结构，而是单一框架形态，光是框架的边缘"
+    design_level:
+      score: 5
+      reason: "对路灯品类形态的颠覆性挑战——从'柱+头'变为'框架'，概念清晰彻底，线性光边缘的视觉效果在夜晚形成强烈标志性，适合高端公共空间，iF顶级奖项水准"
+    design_tags: ["建筑路灯", "框架形态", "线性LED", "bespoke定制", "景观照明", "门廊形", "H07极简整合", "H11功能外显", "品类假设挑战"]
+    hero_feature: "倒U形框架本身就是路灯——撤掉框架路灯消失，框架即是全部"
+    problem_solved: "传统路灯在建筑性强的广场/廊道空间中存在感弱，FRAME将照明融入建筑语言，创造了可以界定空间的发光门廊"
+    transferable_technique: "将照明嵌入建筑框架结构内边缘的思路，可迁移至需要照明+空间界定双重功能的公共设施设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_户外灯_路灯_011"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/24.jpg"
+        image_role: "hero"
+        visual_anchor: "产品白底图：极细黑色圆杆（直径约8-10mm），约1.8m高，杆身中部有一个小型方形黑色固定节点件（约2cm正方形），杆身本身即为线性发光体（全杆发光），整体轮廓如一根发光的针"
+      - filename: "25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/25.jpg"
+        image_role: "lit"
+        visual_anchor: "三根同款灯点亮后场景（黑色背景）：直立针形全杆发光 + 一根斜向60°全杆发光 + 一根微倾发光，三根灯共同在黑色背景上投射出强烈V形光晕，发光色为纯白，视觉效果震撼，底部可见圆形铸铁底座"
+    product_name: "全杆发光针形路灯/景观灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "户外灯", "路灯", "景观路灯", "bollard"]
+    design_language:
+      silhouette: "极细圆杆（直径约10mm）全高约1.8m，无灯头，杆身本身发光，中部一个极小固定节点，底部圆形底座，轮廓极度极简——就是一根亮着的针"
+      light_opening: "全杆360°线性出光，均匀发光无热点，光向四周漫射，中部固定节点将发光分为上下两段，有强烈垂直方向感"
+      thermal: "极细杆身散热面积有限，推测为低功率LED线型嵌入铝杆或光纤/导光柱方案"
+      cmf:
+        color: "哑光黑（杆身+节点+底座）"
+        material: "超细铝杆或导光柱 + LED线型模组 + 铸铁/铸铝底座"
+        finish: "哑光黑全身，发光为纯白冷白光"
+      mounting: "圆形底座落地式，三根灯可组合不同角度排列（垂直/斜插）创造构图变化"
+      signature_detail: "杆径细到让人无法辨认发光原理——纯粹的光线从虚无中升起，最小化物质存在"
+    design_level:
+      score: 5
+      reason: "将路灯/bollard减法到极致——杆本身就是全部，没有灯头、没有灯罩、没有任何附件，但发光效果强烈；三根可组合不同角度的构图自由度极高；对品类假设（路灯需要灯头）的彻底挑战"
+    design_tags: ["景观路灯", "针形极简", "全杆发光", "线性光", "底座落地", "组合构图", "H01减法", "H07极简整合", "品类假设挑战"]
+    hero_feature: "直径10mm的细杆本身全长发光——去掉灯头的概念，杆即是灯，光来自结构本身"
+    problem_solved: "传统路灯在景观设计中体量感过重，针形全杆发光灯将物质感压缩到极限，夜晚只剩光线存在"
+    transferable_technique: "将发光功能融入最小截面支撑结构（全杆LED）而非集中于灯头的设计策略，可迁移至需要极简存在感的景观照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+# ============================================================
+# 误归类图片记录（共6张，不属于路灯品类）
+# ============================================================
+misfiles:
+  - filename: "05.jpg"
+    source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/05.jpg"
+    actual_category: "道路标识/地面艺术装置"
+    description: "黄色边框内的蓝色抽象图案地面标识带，非灯具产品"
+    suggested_move: "其他/装置艺术 或 删除"
+
+  - filename: "06.jpg"
+    source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/06.jpg"
+    actual_category: "便携灯具/手提灯"
+    description: "儿童手持的蛋形白色便携提灯，橙色提手，非路灯产品"
+    suggested_move: "户外灯/便携灯 或 其他户外灯"
+
+  - filename: "21.jpg"
+    source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/21.jpg"
+    actual_category: "便携灯具/提灯"
+    description: "网格编织笼形悬挂便携灯，户外庭院氛围灯，非路灯"
+    suggested_move: "户外灯/便携灯 或 庭院灯"
+
+  - filename: "22.jpg"
+    source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/22.jpg"
+    actual_category: "便携灯具/提灯"
+    description: "网格编织圆柱形桌面便携提灯（绿色配色），非路灯"
+    suggested_move: "户外灯/便携灯 或 庭院灯"
+
+  - filename: "26.jpg"
+    source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/26.jpg"
+    actual_category: "便携灯具/太阳能折叠灯"
+    description: "软体太阳能折叠充电灯，多形态便携设计，非路灯"
+    suggested_move: "户外灯/便携灯 或 应急灯"
+
+  - filename: "27.jpg"
+    source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/户外灯/路灯/27.jpg"
+    actual_category: "便携灯具/太阳能折叠灯"
+    description: "同上款产品展开/使用说明图（太阳能充电面板展开 vs 卷起发光形态），非路灯"
+    suggested_move: "户外灯/便携灯 或 应急灯"

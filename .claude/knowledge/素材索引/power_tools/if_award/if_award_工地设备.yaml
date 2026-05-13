@@ -1,0 +1,83 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "工地设备"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/工地设备/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_award_工地设备_001"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/工地设备/24.jpg"
+        image_role: "hero"
+        visual_anchor: "Hilti工地照明系列三件套family shot：左侧手持工作灯（红色机身+金属挂钩）、中间紧凑充电灯（红/黑双色+CPC标识）、右侧落地投光灯（大型方形灯头+黑色折叠支架）。整体配色为Hilti标志性火红+哑黑，系统感强。"
+    product_name: "iF Award获奖产品 — Hilti 工地照明系统（SL 2-A12系列）"
+    brand_name: "Hilti"
+    brand_confidence: "high"
+    category_path: ["电动工具", "工地设备", "照明设备"]
+    design_language:
+      silhouette: "三款灯呈现统一家族语言：方块状灯头+手枪握把轮廓；落地款体积最大，灯头方形厚重感，整体比例稳健专业"
+      light_opening: "手持款：横向LED阵列灯面；落地款：4颗大功率LED方阵，发光面积大，工地泛光效果强"
+      thermal: "落地款灯头顶部可见散热筋条；手持款机身较小，无明显散热结构"
+      cmf:
+        color: "Hilti火红（主色）+ 哑光深黑（辅色），CPC接口区域有银色金属质感"
+        material: "工程塑料壳体，橡胶防护包覆握把"
+        finish: "主体哑光，灯面透明保护罩"
+      mounting: "三款均为锂电池供电（Hilti CPC通用电池平台），底部电池扣插接"
+      signature_detail: "落地款黑色折叠支架可旋转锁定多角度，并设置红色锁扣操作键，视觉功能外显；手持款顶部金属S钩便于悬挂"
+    design_level:
+      score: 4
+      reason: "iF获奖设计，三款产品高度统一家族语言，CPC电池平台系统化设计，工地场景实用性与品牌识别兼顾"
+    design_tags: ["iF_Award获奖", "系列家族设计", "工地照明", "Hilti", "CPC电池平台", "折叠支架", "功能外显"]
+    hero_feature: "落地投光灯可旋转折叠支架+红色锁扣，一眼可读的姿态调节机构，是系列功能外显的设计核心"
+    problem_solved: "工地多场景照明需求（悬挂/手持/落地泛光），同一电池平台三款互通，降低工地备货负担"
+    transferable_technique: "系列家族语言统一（配色码+比例码一致）；功能外显设计（机构可见化）；电池平台模块化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: "品牌标识清晰可见（Hilti + SL 2-A12 + CPC），无需确认"
+
+  - product_id: "if_award_工地设备_002"
+    source_images:
+      - filename: "58.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/工地设备/58.jpg"
+        image_role: "hero"
+        visual_anchor: "Sorec品牌手持工作灯正面视角：青绿色（teal）手枪形握把+深灰色灯头模块，灯头可向前折叠约90度。顶部配红色金属登山扣挂钩，灯头正面有两颗LED（一主光源+一泛光）及四颗固定螺丝。底部为方形充电底座，设有USB-C充电口。红色方形触发按钮位于握把前侧。"
+      - filename: "59.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/工地设备/59.jpg"
+        image_role: "detail"
+        visual_anchor: "同款灯背面视角：灯头翻转后可见铝合金鱼骨散热片，登山扣收起后嵌入灯头顶部凹槽，握把背面有纵向防滑筋条，底座背面可见USB-C充电接口，Sorec品牌浮雕字样清晰"
+    product_name: "iF Award获奖产品 — Sorec 可折叠充电工作灯"
+    brand_name: "Sorec"
+    brand_confidence: "high"
+    category_path: ["电动工具", "工地设备", "照明设备"]
+    design_language:
+      silhouette: "手枪握把+方块灯头的经典工作灯轮廓，灯头可折叠形成L形或直筒形两种使用形态，轮廓简洁现代"
+      light_opening: "灯头正面：双LED配置（高光束主光+宽泛光），四角螺丝强调工业感"
+      thermal: "灯头背面铝合金鱼骨散热片，散热面积大，工业美感与功能并重"
+      cmf:
+        color: "青绿色（Teal）主色 + 深灰色次色 + 红色点缀（按键+挂钩）"
+        material: "工程塑料握把壳体+铝合金散热灯头+金属登山扣"
+        finish: "握把哑光橡胶质感，灯头磨砂深灰，挂钩高光红色烤漆"
+      mounting: "内置锂电池（底部USB-C充电），无需外部电池，充电底座可直立放置"
+      signature_detail: "顶部红色金属登山扣与灯头折叠机构一体化设计：挂钩收起嵌入灯头，展开即可悬挂。折叠轴旋钮兼做角度锁定，视觉功能高度融合"
+    design_level:
+      score: 5
+      reason: "iF获奖设计，青绿配色在工具品类中高辨识度，折叠+悬挂机构与整体造型高度融合，散热鱼骨片兼具功能与美学，系统设计成熟度高"
+    design_tags: ["iF_Award获奖", "可折叠灯头", "工作灯", "Sorec", "登山扣挂钩", "USB-C充电", "铝合金散热", "青绿配色"]
+    hero_feature: "灯头折叠机构与红色登山扣挂钩一体化集成：单一动作实现角度调节+悬挂两种功能，是本设计的灵魂特征"
+    problem_solved: "单手持握、多角度投光、可悬挂固定三种工况均可覆盖，USB-C充电免除换电池烦恼"
+    transferable_technique: "折叠机构视觉化（可见旋转轴+锁扣）；功能配件（挂钩）与主体结构一体化而非附件化；对比色点缀突出操作区域"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: "品牌名Sorec在握把上清晰可读，两张图确认为同一产品不同视角"

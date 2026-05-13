@@ -1,0 +1,519 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "路桩灯"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "bega_户外_路桩灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "两件套（高矮各一）深灰圆柱形路桩灯，顶部四条水平百叶环绕灯罩，白色乳白扩散体从百叶间透出"
+    product_name: "Cylindrical Bollard — Louvre Ring Diffuser"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "纯圆柱体，顶部略收口后加一扁圆顶盖；高款高宽比约7:1，矮款约4:1；顶部灯头区占整体高度约15%"
+      light_opening: "顶部水平百叶环形开口，四条铝制百叶片间距均匀围绕乳白圆柱扩散体，360°全向散射"
+      thermal: "铸铝一体柱身，顶盖与灯头分离式组合，内嵌LED模组"
+      cmf:
+        color: "深石墨灰（anthracite）"
+        material: "铸铝"
+        finish: "细砂质哑光粉末喷涂"
+      mounting: "底部圆柱直接落地，推测预埋式底座安装"
+      signature_detail: "百叶环绕乳白扩散体——灯亮时形成均匀光晕圆环，日间亦有强烈工业节奏感"
+    design_level:
+      score: 4
+      reason: "百叶与扩散体的比例关系精确，工业感与柔和光效对比强，两件套尺寸系列化完整"
+    design_tags:
+      - "louvre_ring"
+      - "cylindrical_bollard"
+      - "360_diffuse"
+      - "two_size_family"
+      - "industrial_rhythm"
+      - "H03_分件线"
+    hero_feature: "四条水平铝制百叶环绕乳白扩散圆柱，形成清晰光环节奏"
+    problem_solved: "在圆柱体上实现均匀360°出光，同时用百叶控制眩光和视觉层次"
+    transferable_technique: "百叶间距比例（叶片宽:间隙约1:1.5）可直接迁移至任何圆柱形灯具的散射控制设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "两件套深灰圆柱形路桩灯，顶部极窄水平透明缝隙出光，灯头几乎与柱身齐平融为一体"
+    product_name: "Cylindrical Bollard — Flush Horizontal Slit"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "纯圆柱体，顶部略大直径平盖；高款高宽比约7:1，矮款约4:1；与003系列同一柱身"
+      light_opening: "顶盖与柱身之间一条极细水平环形透明缝隙，出光极克制，近似360°腰带式出光"
+      thermal: "铸铝圆柱体，平盖遮雨，缝隙内藏LED光源"
+      cmf:
+        color: "深石墨灰（anthracite）"
+        material: "铸铝"
+        finish: "细砂质哑光粉末喷涂"
+      mounting: "底部圆柱直接落地，推测预埋式底座安装"
+      signature_detail: "几乎不可见的出光缝——白天看似纯雕塑，夜间腰部发出一圈细光线"
+    design_level:
+      score: 5
+      reason: "极度克制的H07极简整合手法，出光缝隐藏到极致，昼夜形态反差最大化，是BEGA路桩系列中设计语言最纯粹的一款"
+    design_tags:
+      - "hidden_slit"
+      - "minimalist_bollard"
+      - "flush_light_gap"
+      - "sculptural_daytime"
+      - "two_size_family"
+      - "H07_极简整合"
+      - "H09_隐藏工程"
+    hero_feature: "顶盖与柱身之间一条几乎隐形的水平出光环缝，夜间浮现细腰光带"
+    problem_solved: "白天完全隐藏功能性，保持雕塑感；夜间以最小出光开口实现路径标识照明"
+    transferable_technique: "盖板与筒身之间留极细等宽缝隙（约2-3mm）藏LED的手法，可迁移至任何需要隐形出光的圆柱形产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "两件套深灰圆柱形路桩灯，顶部透明玻璃圆柱头内可见锥形白色漫射体，顶盖向外展开"
+    product_name: "Cylindrical Bollard — Clear Glass Top with Conical Diffuser"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "纯圆柱体，顶部灯头区直径略大，安装透明玻璃圆柱罩，顶盖略外展；高款高宽比约7:1"
+      light_opening: "顶部透明玻璃圆柱罩360°全向透光，内部白色锥形漫射体将LED光向下及侧向分散，顶部及侧面均出光"
+      thermal: "铸铝柱身，玻璃灯罩内漫射体散热，LED嵌于锥底"
+      cmf:
+        color: "深石墨灰（anthracite）柱身 + 透明玻璃灯头"
+        material: "铸铝 + 硼硅玻璃"
+        finish: "细砂质哑光喷涂 + 清透玻璃"
+      mounting: "底部圆柱直接落地，推测预埋式底座安装"
+      signature_detail: "锥形白色漫射体悬浮于透明玻璃罩内，昼间可见内部精密结构，夜间发出柔和均匀圆形光"
+    design_level:
+      score: 4
+      reason: "透明罩+内部可见漫射结构是BEGA一贯的工程美学，展示制造精度，兼顾功能与视觉诚实"
+    design_tags:
+      - "clear_glass_top"
+      - "conical_diffuser"
+      - "360_omnidirectional"
+      - "visible_optics"
+      - "two_size_family"
+      - "H11_功能外显"
+    hero_feature: "透明玻璃罩内悬置锥形漫射体，将内部光学结构作为视觉焦点"
+    problem_solved: "在圆柱bollard顶部实现全向均匀散射，同时将光学元件转化为白天的设计细节"
+    transferable_technique: "透明外罩+内置漫射锥的组合方式，可迁移至需要展示内部工程逻辑的灯具产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "两件套深灰圆柱形路桩灯，顶部四向对称三角形切口开口，内部可见浅蓝色漫射体"
+    product_name: "Cylindrical Bollard — Four-Directional Angular Cut Openings"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "纯圆柱体，顶部灯头直径与柱身等宽，顶盖为扁平圆盖；高款高宽比约6.5:1"
+      light_opening: "顶部四向90°均匀分布的三角形/楔形切口，向外+向下各约45°方向出光，非全向设计，定向照射四个方位"
+      thermal: "铸铝一体成型顶部灯头，切口内嵌LED+漫射材料"
+      cmf:
+        color: "深石墨灰（anthracite）"
+        material: "铸铝"
+        finish: "细砂质哑光粉末喷涂"
+      mounting: "底部圆柱直接落地，推测预埋式底座安装"
+      signature_detail: "四个对称楔形切口在圆柱顶部形成十字星形光分布，强调方向感与几何精度"
+    design_level:
+      score: 4
+      reason: "四向定向出光在圆柱体上的实现方式干净利落，十字光型有强烈辨识度，与003-005系列形成完整的出光方式矩阵"
+    design_tags:
+      - "four_directional"
+      - "angular_cutout"
+      - "directional_beam"
+      - "cylindrical_bollard"
+      - "two_size_family"
+      - "H08_对比强调"
+    hero_feature: "四向对称楔形切口将圆柱顶部的出光从全向压缩为四射星形，白天形成强烈几何阴影"
+    problem_solved: "在路径两侧提供定向照明，避免全向散光造成的光污染，同时保持BEGA圆柱语系一致性"
+    transferable_technique: "在等径圆柱顶部切入四向楔口实现定向出光，切口角度决定照射角范围，可迁移至其他圆柱灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "单件高款深灰路桩灯，顶部宽大伞形帽盖向外大幅展开，帽盖下透明玻璃圆柱体内可见倒锥形白色漫射体"
+    product_name: "Mushroom Cap Bollard — Wide Brim with Inverted Cone Diffuser"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "圆柱柱身顶部安装大直径展开式伞形帽盖，帽盖直径约为柱身直径2.5倍，整体呈蘑菇形；高宽比（含帽）约4:1"
+      light_opening: "帽盖下方透明玻璃圆柱围合区域为360°侧向+向上出光区，倒锥形漫射体将光线向外推散，帽盖遮雨同时形成遮光檐"
+      thermal: "铸铝柱身+铸铝伞形帽盖，玻璃圆柱灯罩内LED+倒锥漫射体"
+      cmf:
+        color: "深石墨灰（anthracite）"
+        material: "铸铝 + 硼硅玻璃"
+        finish: "细砂质哑光喷涂 + 清透玻璃"
+      mounting: "底部圆柱直接落地，推测预埋式底座安装"
+      signature_detail: "宽伞形帽盖创造强烈的水平遮蔽感，倒锥漫射体夜间发出向外辐射的宽角度柔和光晕"
+    design_level:
+      score: 5
+      reason: "伞形帽盖比例极具雕塑感，在BEGA圆柱系列中独树一帜；帽盖尺寸、透明灯罩、倒锥漫射体三者比例关系精准，是典型的BEGA仿生+功能整合手法"
+    design_tags:
+      - "mushroom_cap"
+      - "wide_brim"
+      - "inverted_cone_diffuser"
+      - "clear_glass_cylinder"
+      - "sculptural"
+      - "H06_仿生"
+      - "H07_极简整合"
+    hero_feature: "大直径伞形帽盖悬挑于圆柱顶部，帽下透明玻璃罩内倒锥漫射体360°发光"
+    problem_solved: "宽帽盖提供顶部防雨防直射天光保护，同时创造独特的水平延伸轮廓，与普通圆柱bollard形成强烈差异"
+    transferable_technique: "柱身+悬挑宽帽盖的比例关系（帽盖直径=柱身直径×2.5）可迁移至需要强调水平感的户外立柱类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "两件套深灰圆柱形路桩灯熄灯状态，顶部平圆盖，柱身无任何开口，极简雕塑感"
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/09.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "单件高款圆柱路桩灯熄灯状态特写，顶盖略大于柱身直径，侧面有明显安装点（中心孔）"
+    product_name: "Cylindrical Bollard — Closed Cap Off-State (Base Unit)"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "纯圆柱体，顶部平盖直径略大于柱身（约10%），无任何开口或装饰元素；高款高宽比约7:1，矮款约4:1"
+      light_opening: "熄灯状态，出光形式不可见；顶盖中心有小安装孔，推测为顶部出光或检修孔"
+      thermal: "铸铝一体圆柱，顶盖与柱身连接处有明显分件线"
+      cmf:
+        color: "深石墨灰（anthracite）"
+        material: "铸铝"
+        finish: "细砂质哑光粉末喷涂"
+      mounting: "底部圆柱直接落地，推测预埋式底座安装"
+      signature_detail: "完全封闭的圆柱几何体，白天形态极简至接近功能性路桩，顶盖分件线是唯一视觉线索"
+    design_level:
+      score: 3
+      reason: "这是该系列的熄灯/基础状态展示图，用于展示产品日间形态极简性；单独评分较低，但作为系列形态参考价值高"
+    design_tags:
+      - "off_state_reference"
+      - "pure_cylinder"
+      - "minimal_bollard"
+      - "daytime_sculpture"
+      - "two_size_family"
+      - "H07_极简整合"
+    hero_feature: "白天完全封闭的圆柱形态，零出光结构外露，雕塑感最强"
+    problem_solved: "展示系列产品白天的极简纯净形态，说明BEGA路桩系列的昼夜双重人格设计逻辑"
+    transferable_technique: "分件线位置（顶盖与柱身交接）的精度控制是圆柱体日间美观的关键，间隙需均匀一致"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "两件套深灰+银灰方形截面路桩灯，顶部方形灯头带倒角楔形盖，四面乳白方形扩散板全向出光"
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/11.jpg"
+        image_role: "alt_variant"
+        visual_anchor: "同款方形路桩灯两件套，顶部切换为定向楔形侧开口版本，深灰+银灰双色组合，内部可见三角形漫射体"
+    product_name: "Square Bollard Family — Top Lantern with Opal Diffuser / Directional Cut"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "方形截面柱身，顶部灯头为等宽正方体灯笼形，楔形盖板向外展开覆盖四角；高款高宽比约8:1，矮款约4:1"
+      light_opening: "10.jpg为四面乳白方形扩散板全向出光；11.jpg为顶部单向楔形切口定向出光，内置三角漫射体向前下方投射"
+      thermal: "挤压铝型材方形柱身，铸铝灯头模块，LED内嵌"
+      cmf:
+        color: "深石墨灰（anthracite）柱身 + 银灰（silver-grey）灯头（双色版）"
+        material: "挤压铝 + 铸铝"
+        finish: "细砂质哑光粉末喷涂，双色版有明显色块对比"
+      mounting: "底部方形截面直接落地，底角有安装螺栓孔"
+      signature_detail: "方形灯笼式灯头模块可互换出光方式（全向乳白/定向楔切），与圆柱系列形成品类内的造型体系对立"
+    design_level:
+      score: 4
+      reason: "方形截面+楔形顶盖+双色配色是BEGA方形路桩的标志语言；灯头模块化可换使产品线灵活性强；双色处理强化了灯头与柱身的功能分区"
+    design_tags:
+      - "square_bollard"
+      - "lantern_head"
+      - "opal_diffuser"
+      - "directional_wedge"
+      - "two_tone"
+      - "modular_head"
+      - "two_size_family"
+      - "H05_模块化"
+      - "H08_对比强调"
+    hero_feature: "方形灯笼头模块可在全向乳白和定向楔切两种出光方式间互换，双色分区强化功能辨识"
+    problem_solved: "为需要方形截面路桩的项目提供与圆柱系列等级相同的出光方案矩阵，满足不同场景的光分布需求"
+    transferable_technique: "灯头模块化互换设计（同柱身适配不同灯头）+双色分区配色手法，可迁移至其他需要产品线延伸的户外灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_012"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "两件套深灰方形截面路桩灯，顶部方形开口框架内可见银色抛物面反射器和LED光源，灯头开放式结构"
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/13.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "同款方形路桩灯两件套熄灯状态，顶部方形平盖，细方形柱身与宽方形顶盖形成T形轮廓"
+    product_name: "Square Bollard — Open Top Frame with Exposed Reflector"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "方形截面细柱身，顶部安装一个明显更宽的方形灯头模块，形成T字形剪影；顶盖向四方展出，灯头高度约为总高15%；高款高宽比（含灯头）约8:1"
+      light_opening: "顶部开放式方形框架，四面无扩散板覆盖，LED+银色抛物面反射器完全暴露可见，向上+四侧方向出光"
+      thermal: "方形铝型材柱身，铸铝灯头外框，反射器+LED模组可见"
+      cmf:
+        color: "深石墨灰（anthracite）"
+        material: "挤压铝 + 铸铝"
+        finish: "细砂质哑光粉末喷涂，反射器为抛光银"
+      mounting: "底部方形截面落地，底角安装螺栓孔可见"
+      signature_detail: "完全开放的方形灯头框架，银色反射器+LED完全外露，将光学工程细节作为设计展示核心"
+    design_level:
+      score: 4
+      reason: "开放式反射器展示是BEGA工程美学的极致表达，与外壳隐藏式设计形成鲜明对比；T形轮廓在方形系列中具有强烈辨识度"
+    design_tags:
+      - "square_bollard"
+      - "open_frame_top"
+      - "exposed_reflector"
+      - "t_silhouette"
+      - "visible_optics"
+      - "two_size_family"
+      - "H11_功能外显"
+    hero_feature: "顶部开放式方形框架完全暴露银色抛物面反射器，光学性能即设计语言"
+    problem_solved: "向专业用户展示光学精度，将高性能反射器设计作为产品差异化视觉卖点"
+    transferable_technique: "开放式灯头框架+高精度反射器外露的手法，可迁移至需要强调光学专业性的工程照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_014"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "单件深灰圆柱形路桩灯，正面开有一条贯通全身高度的竖向弧形切槽，内部琥珀色暖光漫射面板"
+    product_name: "Cylindrical Bollard — Full-Height Vertical Arc Slit with Amber Diffuser"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "圆柱体，顶部与柱身等宽并加一薄圆盖；从顶部向下延伸至底部约2/3处有一条贯通的弧形竖向切槽；高宽比约5.5:1"
+      light_opening: "正面单向竖向全高弧形切槽，内嵌琥珀色/暖白色漫射面板，出光方向约90°前向，底部圆弧收口"
+      thermal: "铸铝圆柱体，竖槽两侧厚壁作为散热体，LED线性排列于槽内"
+      cmf:
+        color: "近黑深灰（graphite black）柱身 + 琥珀色漫射面板"
+        material: "铸铝 + 琥珀色聚合物或玻璃漫射板"
+        finish: "细砂哑光喷涂 + 暖色漫射材料"
+      mounting: "底部圆柱直接落地，推测预埋式底座安装"
+      signature_detail: "贯通全身的竖向弧形切槽+琥珀暖色漫射板，形成强烈的竖向线条记忆点，夜间呈现一道暖色光刀"
+    design_level:
+      score: 5
+      reason: "在圆柱体上切入单一贯通竖向切槽是极具张力的设计动作；琥珀色漫射板与深灰铝体的色彩对比在路桩产品中极为罕见；昼夜视觉反差巨大"
+    design_tags:
+      - "vertical_slit"
+      - "full_height_opening"
+      - "amber_diffuser"
+      - "warm_tone"
+      - "single_directional"
+      - "cylindrical_bollard"
+      - "H03_分件线"
+      - "H10_材料表达"
+    hero_feature: "从顶部到底部三分之二的单条贯通竖向弧形切槽，琥珀色漫射板夜间呈现完整光刀"
+    problem_solved: "在同质化的路桩市场中通过极强竖向线条记忆点创造差异，同时琥珀色提供更暖的夜间氛围"
+    transferable_technique: "圆柱体全高竖向切槽+内嵌有色漫射板手法，切槽宽度与圆柱直径比例（约1:5）是关键，可迁移至筒形户外标志产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_015"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "单件深灰方形截面路桩灯，整体向一侧倾斜的楔形截面，顶部短侧略厚，顶盖下方仅一条极细横向出光缝"
+    product_name: "Tapered Monolith Bollard — Angled Slab with Hairline Top Slit"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "矩形截面楔形体，正面视角下左右不对称，一侧边竖直另一侧向内倾斜；整体如一片斜切石板；顶盖平整方形；高宽比约4.5:1"
+      light_opening: "顶盖与楔形体之间一条极细水平出光缝，出光方向沿缝隙向前单侧投射，极度克制"
+      thermal: "铸铝或挤压铝楔形体，内部LED模组，顶盖散热"
+      cmf:
+        color: "深石墨灰（anthracite）"
+        material: "铸铝/挤压铝"
+        finish: "细砂质哑光粉末喷涂"
+      mounting: "底部方形截面落地，推测预埋式安装"
+      signature_detail: "非对称楔形体轮廓在路桩产品中极具雕塑独特性，顶部发丝级出光缝与整体体量对比形成强烈反差"
+    design_level:
+      score: 5
+      reason: "楔形非对称截面是BEGA路桩系列中造型语言最突破常规的设计；顶缝出光极简到极致；整体接近纯雕塑，功能完全隐藏"
+    design_tags:
+      - "tapered_monolith"
+      - "angled_slab"
+      - "hairline_slit"
+      - "asymmetric_silhouette"
+      - "sculptural"
+      - "H07_极简整合"
+      - "H09_隐藏工程"
+      - "H01_减法"
+    hero_feature: "整体楔形非对称截面+顶部一条发丝级出光缝，白天是纯雕塑，夜间仅顶部浮现一道细光线"
+    problem_solved: "在追求极简景观设计的高端项目中，将路桩照明彻底融入景观雕塑语言"
+    transferable_technique: "楔形非对称截面（一侧垂直一侧倾斜）手法可迁移至需要雕塑感强、功能极度隐藏的户外立柱产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_016"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "单件深灰圆柱形路桩灯，灯体大部分由四根纵向铝条构成开放框架，内嵌透明玻璃圆管，底座加粗为圆柱墩"
+    product_name: "Cylindrical Lantern Bollard — Open Vertical Bar Frame with Glass Tube"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "整体为高圆柱形，但主体结构由4根纵向铝条框架构成开放式灯笼体，顶部加圆盖，底部加粗圆柱底座；高宽比约6:1"
+      light_opening: "四面全开放360°出光，内部细圆柱玻璃管LED光源可见，无任何漫射遮挡，出光最直接"
+      thermal: "四根铝立柱+顶底铸铝盖，玻璃管内LED，开放结构自然对流散热"
+      cmf:
+        color: "深石墨灰（anthracite）"
+        material: "挤压铝立柱 + 铸铝顶底盖 + 透明玻璃管"
+        finish: "细砂质哑光喷涂 + 清透玻璃"
+      mounting: "加粗圆柱底座落地，推测预埋式底座安装"
+      signature_detail: "四根纵向铝条+玻璃内管的灯笼结构，将传统路灯笼头语言以现代工业极简方式重新诠释"
+    design_level:
+      score: 4
+      reason: "开放式竖向框架重新诠释了经典灯笼形态，底座与灯体直径的差异形成良好的比例节奏；透明玻璃管在四根铝条间的对比张力强"
+    design_tags:
+      - "open_frame"
+      - "lantern_reinterpretation"
+      - "vertical_bar"
+      - "glass_tube"
+      - "360_open"
+      - "thick_base"
+      - "H06_仿生"
+      - "H07_极简整合"
+    hero_feature: "四根纵向铝条构成的开放灯笼框架，中央透明玻璃管完全外露，将传统灯笼以工业极简语言重构"
+    problem_solved: "在需要参照传统灯笼形态的保护性历史街区，提供现代化工业语言的路桩选项"
+    transferable_technique: "纵向立柱框架+内置透明管的组合（立柱数量4/6/8均可），是将历史灯笼语言现代化的经典手法，可迁移至街道家具、围栏等产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

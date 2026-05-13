@@ -1,0 +1,278 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯具"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "foscarini_户外灯具_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/01.jpg"
+        image_role: "hero"
+        visual_anchor: "橄榄绿混凝土质感锥形灯罩，底部开口向下，顶部接黑色金属吊管"
+    product_name: "Aplomb Outdoor（混凝土版）"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "吊灯"]
+    design_language:
+      silhouette: "窄锥形（上窄下宽），轮廓干净利落，长宽比约1:1.2，整体重心偏下"
+      light_opening: "底部单圆口向下出光，纯下照直射型"
+      thermal: "混凝土材质自然散热，无可见散热结构"
+      cmf:
+        color: "橄榄绿/苔藓绿（哑光）"
+        material: "混凝土复合材料（表面有气孔质感）+ 顶部黑色金属管"
+        finish: "哑光砂面，混凝土颗粒感可见"
+      mounting: "吊线悬挂，黑色细线缆，顶部黑色圆柱形金属接头"
+      signature_detail: "混凝土质感与意大利精致造型的反差——工业材料+雕塑轮廓，接头处黑色金属圆柱为点睛细节"
+    design_level:
+      score: 5
+      reason: "Aplomb系列是Foscarini标志性设计，混凝土材质+锥形雕塑感，户外版保留了所有内室版的表达力，材料语言与形态逻辑完全一致，是design-outdoor融合的顶级案例"
+    design_tags: ["混凝土材质", "下照吊灯", "雕塑感", "H10材料表达", "H01减法", "工业美学", "户外悬挂"]
+    hero_feature: "混凝土锥形灯罩——去掉质感即刻变普通，混凝土是灵魂"
+    problem_solved: "户外悬挂灯兼顾防水耐候性与高设计感，拒绝功能主义的丑陋外壳"
+    transferable_technique: "将室内设计感灯具的核心造型语言直接迁移到户外版本，材料切换为耐候材质但形态100%保留"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_户外灯具_002"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/13.jpg"
+        image_role: "hero"
+        visual_anchor: "浅黄/象牙色金属锥形吊灯，底部开口可见白色LED光学扩散器，线缆与灯体同色"
+    product_name: "Aplomb Outdoor（金属版）"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "吊灯"]
+    design_language:
+      silhouette: "细长锥形，比混凝土版更修长（上窄下宽比例更极致），重心更低"
+      light_opening: "底部圆口向下出光，内置白色菲涅尔/光学扩散器可见，形成精致收口"
+      thermal: "金属薄壁锥体兼具导热功能，无外露散热鳍片"
+      cmf:
+        color: "浅黄/象牙白（与背景同色系，高度融合）"
+        material: "粉末涂层铝合金，同色吊线缆"
+        finish: "均匀哑光粉末涂层，无光泽"
+      mounting: "同色细线缆吊挂，线缆与灯体颜色完全统一"
+      signature_detail: "底部白色光学扩散器圆圈形成视觉焦点，灯体与线缆同色使整体如一根倒置的锥体浮在空中"
+    design_level:
+      score: 4
+      reason: "金属版Aplomb户外版造型与混凝土版同样克制优雅，同色线缆的处理是细节亮点，但材料语言的独特性弱于混凝土版"
+    design_tags: ["金属锥形", "下照吊灯", "同色系处理", "H01减法", "H09隐藏工程", "户外悬挂", "浅色系"]
+    hero_feature: "灯体与线缆完全同色——视觉上消除了支撑结构，锥体如悬浮"
+    problem_solved: "户外吊灯的安装结构通常破坏造型美感，同色线缆将结构变为造型的延伸"
+    transferable_technique: "同色线缆/吊绳策略：将悬挂结构纳入造型语言，消除视觉打断"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_户外灯具_003"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/02.jpg"
+        image_role: "hero"
+        visual_anchor: "红色+白色折叠式便携灯笼，左侧为展开状态（鼓形风箱体），右侧为折叠压扁状态，顶部有金属提环"
+    product_name: "Cri Cri Outdoor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "便携灯/野营灯"]
+    design_language:
+      silhouette: "折叠风箱鼓形——展开为圆柱体，折叠为超薄圆盘，两种状态都有独立美感"
+      light_opening: "360度环形侧面出光（通过半透明白色硅胶体漫射），折叠状态光线受限"
+      thermal: "硅胶材质柔性散热，无热管理结构可见"
+      cmf:
+        color: "红色顶盖+白色半透明硅胶体"
+        material: "硅胶折叠灯体 + 红色塑料/橡胶顶盖 + 银色金属提环"
+        finish: "硅胶哑面，顶盖半光泽"
+      mounting: "顶部金属提环，可挂可放置，便携手持"
+      signature_detail: "风箱式折叠硅胶结构——展开即亮，压扁即携，提环将灯具变成工具"
+    design_level:
+      score: 4
+      reason: "折叠便携灯概念清晰，两种形态都完整，红白对比色强烈，但户外设计感相比其他Foscarini产品略弱，更偏向产品功能创新"
+    design_tags: ["便携灯", "折叠结构", "硅胶材质", "H05模块化", "H11功能外显", "营地灯", "两态设计"]
+    hero_feature: "风箱折叠硅胶体——折叠态和展开态都有完整的造型逻辑，形态即功能说明书"
+    problem_solved: "户外便携灯体积与亮度的矛盾：折叠后几乎零体积，展开后成为完整灯笼"
+    transferable_technique: "两态造型设计：产品的收纳状态和使用状态都作为完整设计对象处理，而非将收纳视为妥协"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_户外灯具_004"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/03.jpg"
+        image_role: "hero"
+        visual_anchor: "白色蛋形壁灯，灯体饱满圆润，直接贴墙安装，背板极小近乎隐形"
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/04.jpg"
+        image_role: "variant"
+        visual_anchor: "白色蛋形吊灯版本，同一卵石形态，单根黑色细线悬挂"
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/05.jpg"
+        image_role: "variant"
+        visual_anchor: "白色蛋形落地灯版本，同一形态置于小圆底座上，黑色线缆从侧面引出"
+    product_name: "Gregg Outdoor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "壁灯/吊灯/落地灯"]
+    design_language:
+      silhouette: "有机卵石/鸡蛋形态——非对称圆润轮廓，无任何棱角，重心偏下，顶部略尖"
+      light_opening: "全向漫射出光（整体乳白色玻璃/塑料体为发光面），无定向光口"
+      thermal: "封闭一体式灯体，热量通过灯体表面漫散"
+      cmf:
+        color: "纯白/乳白色"
+        material: "户外级乳白色吹塑聚乙烯或钢化玻璃，耐UV"
+        finish: "均匀哑光乳白，表面无分件线可见"
+      mounting: "三种形式：壁装（极小背板）/ 吊线悬挂（黑色细线）/ 底座落地（白色小圆底座）"
+      signature_detail: "完全封闭的有机蛋形，拒绝任何结构外露，光源完全隐藏于乳白体内——灯具即雕塑"
+    design_level:
+      score: 5
+      reason: "Gregg是Foscarini最具代表性的有机形态设计之一，同一雕塑形态支撑三种安装方式，且每种都完整自洽，形态与材料的统一性极高，是户外设计灯具标杆"
+    design_tags: ["有机形态", "蛋形", "全向漫射", "H01减法", "H07极简整合", "多形态系列", "雕塑感", "户外壁灯", "户外吊灯", "户外落地灯"]
+    hero_feature: "有机卵石形态的完整性——任何一个安装版本都不破坏形态，灯具即雕塑"
+    problem_solved: "户外灯具通常为功能优先的方盒子或筒灯，Gregg证明户外灯可以是完整的艺术装置"
+    transferable_technique: "单一核心形态跨多安装方式策略：一个形态DNA同时支撑壁装/吊装/落地三种形态，系列感强且设计成本低"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_户外灯具_005"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/06.jpg"
+        image_role: "hero"
+        visual_anchor: "白色细长纺锤/鱼雷形吊灯，三段横向分件线将灯体分割为上中下三节，顶端收尖"
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/07.jpg"
+        image_role: "variant"
+        visual_anchor: "同一纺锤形灯体，安装于方形金属底座+不锈钢细杆上，形成落地灯版本"
+    product_name: "Havana Outdoor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "吊灯/落地灯"]
+    design_language:
+      silhouette: "极细长纺锤/鱼雷形——两端收尖，中部最宽，长宽比约5:1，垂直方向强烈"
+      light_opening: "全向漫射出光（半透明乳白聚乙烯体），上下两端收尖无开口"
+      thermal: "封闭一体灯体，自然散热"
+      cmf:
+        color: "纯白/乳白色"
+        material: "户外级乳白聚乙烯（吹塑），落地版底座为不锈钢+方形深色金属底板"
+        finish: "哑光乳白均匀漫射面"
+      mounting: "两种形式：吊线悬挂（细线从顶尖引出）/ 落地（不锈钢细杆+方形底座）"
+      signature_detail: "三段式横向分件线——将纺锤体分割为三节，既是结构接合线也是造型节奏，细微凹槽处灯光渗出形成光带"
+    design_level:
+      score: 4
+      reason: "极细长纺锤形在户外灯中罕见，垂直比例极度夸张，三段分件线赋予节奏感，落地版底座的厚重与灯体的纤细形成强对比"
+    design_tags: ["纺锤形", "垂直比例", "全向漫射", "H01减法", "分件线设计", "户外落地灯", "户外吊灯", "乳白聚乙烯"]
+    hero_feature: "极端细长纺锤比例——5:1长宽比在户外灯中是罕见突破，三段分件线是比例的视觉强化手段"
+    problem_solved: "户外落地灯通常圆鼓笨重，Havana的纺锤形提供了极度纤细的视觉替代方案"
+    transferable_technique: "极端比例策略：通过超出常规的长宽比建立强烈记忆点；分件线作为造型节奏工具而非单纯结构分割"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_户外灯具_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/08.jpg"
+        image_role: "hero"
+        visual_anchor: "白色椭圆碗形灯具，碗口斜向上45度，内部嵌氧化锈蚀钢圆盘，灯光从碗底边缘漏出，两条细腿支撑"
+    product_name: "Tress Outdoor（地面灯）"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "落地灯/地景灯"]
+    design_language:
+      silhouette: "倾斜椭圆碗形——碗口朝向斜上方约45度，整体像一颗被水平切割的蛋，低矮贴地姿态"
+      light_opening: "碗底边缘环形间接出光（向地面和侧面漫射），碗内锈钢盘遮挡光源，向外散射"
+      thermal: "白色乳白聚乙烯碗体 + 金属锈面盘，被动散热"
+      cmf:
+        color: "白色碗体 + 氧化锈红/深棕色钢盘（锈蚀质感）"
+        material: "乳白聚乙烯碗体 + Corten钢（耐候钢）内盘 + 细金属支腿"
+        finish: "碗体哑光乳白；内盘自然锈蚀面（Corten氧化层），两种截然对比的材料表面"
+      mounting: "两条细腿落地支撑，低矮地景姿态，黑色线缆从后侧引出"
+      signature_detail: "白色碗体 + 锈钢内盘的双材料对比——纯净与锈蚀、人造与自然的强烈反差，是设计语言核心"
+    design_level:
+      score: 5
+      reason: "Tress将耐候钢Corten与乳白聚乙烯的材料冲突变成设计语言，倾斜碗形的地景姿态极具原创性，光从碗底边缘渗出的间接出光方式优雅，是户外灯具设计创新标杆"
+    design_tags: ["耐候钢", "Corten钢", "双材料对比", "地景灯", "间接出光", "H10材料表达", "H08对比强调", "倾斜形态", "户外落地灯"]
+    hero_feature: "Corten锈钢内盘 + 乳白碗体的材料冲突——去掉锈钢即刻变成普通碗形灯，锈钢是灵魂"
+    problem_solved: "户外地景灯缺乏设计表达力，Tress通过材料冲突和非常规姿态将地景灯提升为景观艺术装置"
+    transferable_technique: "材料冲突策略：将两种在美学上完全对立的材料（纯净工业 vs 自然锈蚀）放在同一产品上形成张力；耐候材料的锈蚀作为设计资产而非缺陷"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "foscarini_户外灯具_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/09.jpg"
+        image_role: "hero"
+        visual_anchor: "灰色菱形网格鼓形灯罩，安装于细长灰色立杆+圆形底座，典型落地灯比例"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/10.jpg"
+        image_role: "variant"
+        visual_anchor: "酒红/深玫红菱形网格鼓形吊灯，同一灯罩形态，以两根细绳悬挂"
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/11.jpg"
+        image_role: "variant"
+        visual_anchor: "酒红色菱形网格鼓形台灯，同一灯罩+细圆盘底座，发光时网格内可见明亮光源"
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/foscarini/户外灯具/12.jpg"
+        image_role: "variant"
+        visual_anchor: "酒红色菱形网格鼓形灯罩，安装于大弧形落地杆，戏剧性弧臂伸出后悬挂灯头"
+    product_name: "Twiggy Grid Outdoor"
+    brand_name: "Foscarini"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯具", "落地灯/吊灯/台灯"]
+    design_language:
+      silhouette: "圆柱鼓形灯罩（上口略凸于灯罩边缘），菱形网格全面覆盖，内部光源可见透过网格"
+      light_opening: "网格侧面透光（直接穿透菱形金属网孔出光），顶部圆形扩散板可见（10号图），光从内向外透射形成网格光影"
+      thermal: "金属网格结构开放式，自然通风散热，IP44以上级别（户外金属网格结构）"
+      cmf:
+        color: "灰色（落地版）/ 酒红/深玫红（吊灯/台灯/弧灯版）"
+        material: "粉末涂层钢质菱形拉网 + 金属杆/底座，顶部金属圆盘收口"
+        finish: "哑光粉末涂层，金属网格带光泽感"
+      mounting: "四种形式：落地（细直杆+圆底座）/ 吊装（双吊绳）/ 台灯（圆盘底座+短杆）/ 弧形落地（大弧臂+圆盘底座）"
+      signature_detail: "菱形金属拉网灯罩——透光时形成菱形网格光影，关灯时材质本身即景观元素；弧形落地版的大弧臂是最强造型主张"
+    design_level:
+      score: 4
+      reason: "Twiggy Grid将金属拉网工业材料引入高端户外灯，菱形网格在透光和不透光时都有强烈表达，四种安装形态证明形态DNA的强适应性，弧形落地版尤为戏剧化"
+    design_tags: ["金属网格", "菱形拉网", "透光网格", "H10材料表达", "H04参数化", "多形态系列", "弧形落地灯", "户外吊灯", "户外台灯", "酒红色"]
+    hero_feature: "菱形金属拉网灯罩——透光时网格光影，关灯时工业雕塑，两种状态都有独立视觉价值"
+    problem_solved: "户外灯具白天不亮时通常缺乏审美价值，Twiggy Grid的网格结构在日间同样是景观装置"
+    transferable_technique: "双态审美设计：灯具的亮态（光影表达）和熄灯态（材质造型）都被设计为完整的视觉体验；金属拉网作为透光装饰材料的户外应用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

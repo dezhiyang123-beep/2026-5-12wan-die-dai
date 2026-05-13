@@ -1,0 +1,337 @@
+schema_version: product_dna_v1
+category:
+  primary: H05_模块化设计
+  secondary: 家具 / 灯具
+  tertiary: ''
+source:
+  source_type: technique_library
+  source_folder: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H05_模块化设计/
+  generated_at: '2026-05-09'
+products:
+- product_id: h05_furniture_001
+  source_images:
+  - filename: H05_furniture_001.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H05_模块化设计/H05_furniture_001.jpg
+    image_role: hero
+    visual_anchor: 竖向导轨 + 水平搁板单元 + 挂衣杆的自由组合
+  product_name: 模块化壁挂收纳系统
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H05_模块化设计
+  - 家具
+  design_language:
+    silhouette: 矩形网格骨架，竖轨为主结构，横向搁板按需插入
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 白色烤漆 + 铬钢导轨
+      material: 金属导轨 + 白色板材
+      finish: 哑光白 + 拉丝金属
+    mounting: 壁挂式，导轨固定于墙面
+    signature_detail: 标准化竖轨开孔，搁板挂钩任意高度插接
+  design_level:
+    score: 5
+    reason: 模块化系统的教科书示范：单一导轨模块 × N = 可无限横向扩展；搁板、挂衣杆、储物格均为独立功能单元，通过相同接口互换；组合清晰，扩展逻辑一目了然
+  design_tags:
+  - H05模块化设计
+  - 壁挂收纳
+  - 导轨插接
+  - 可扩展系统
+  - 标准化接口
+  hero_feature: 竖向导轨多孔开槽 → 任意高度挂接搁板，实现无工具重新配置
+  problem_solved: 固定收纳无法适应不断变化的储物需求
+  transferable_technique: 单一标准化接口（导轨槽）承载多种功能模块的接插逻辑，可迁移至工具收纳、展示架、零件盒等产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h05_furniture_002
+  source_images:
+  - filename: H05_furniture_002.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H05_模块化设计/H05_furniture_002.jpg
+    image_role: hero
+    visual_anchor: 嵌入式壁龛中导轨搁板 + 悬挂抽屉柜的组合
+  product_name: 模块化书架 + 抽屉柜组合系统
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H05_模块化设计
+  - 家具
+  design_language:
+    silhouette: 竖向细钢导轨支撑横向薄搁板，下部搭配悬空双抽屉柜
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 浅灰白 + 钢色
+      material: 金属导轨 + 白色层压板搁板 + 浅灰抽屉柜
+      finish: 哑光白 + 金属拉丝
+    mounting: 壁挂导轨嵌入壁龛，抽屉柜悬挂于导轨
+    signature_detail: 搁板与储物柜共用同一套导轨，混搭不同功能模块
+  design_level:
+    score: 4
+    reason: 清晰展示两种不同功能模块（开放搁板 + 闭合抽屉柜）接入同一导轨系统，模块异质但接口统一，扩展性强
+  design_tags:
+  - H05模块化设计
+  - 书架系统
+  - 混合功能模块
+  - 导轨挂接
+  - 壁挂储物
+  hero_feature: 导轨系统同时承载开放搁板与闭合抽屉柜两种异质模块
+  problem_solved: 单一收纳形式（全开放或全封闭）无法满足不同物品的陈列与隐藏需求
+  transferable_technique: 统一接口承载异质模块（不同功能 + 不同造型）而视觉仍保持整体性的设计策略
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h05_furniture_003
+  source_images:
+  - filename: H05_furniture_003.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H05_模块化设计/H05_furniture_003.jpg
+    image_role: context
+    visual_anchor: 黑色金属框架模块化开放书架，人物站在架前
+  product_name: 模块化开放式金属框架书架
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H05_模块化设计
+  - 家具
+  design_language:
+    silhouette: 纤细黑色金属方管构成格栅状框架，多层重复单元垂直叠加
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 哑光黑
+      material: 钢方管框架
+      finish: 哑光黑粉末涂层
+    mounting: 落地式，框架自支撑
+    signature_detail: 格栅模块反复叠加，单元间可见重复的连接节点
+  design_level:
+    score: 3
+    reason: 模块重复叠加清晰，但因黑白照片信息量有限，且人物为主体，产品细节难以充分评估；模块化逻辑可读，但示范深度一般
+  design_tags:
+  - H05模块化设计
+  - 金属框架书架
+  - 格栅重复单元
+  - 落地开放式
+  hero_feature: 统一尺寸的金属方管格栅单元垂直叠加，形成高度可变的书架系统
+  problem_solved: 固定高度书架无法适应不同空间层高与藏书量
+  transferable_technique: 相同尺寸框架单元垂直叠加的高度扩展逻辑
+  confidence:
+    visual_description: medium
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h05_furniture_008
+  source_images:
+  - filename: H05_furniture_008.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H05_模块化设计/H05_furniture_008.jpg
+    image_role: context
+    visual_anchor: 手持手机，屏幕显示AR场景中的模块化沙发配置
+  product_name: 模块化沙发 AR 配置器（数字工具）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H05_模块化设计
+  - 家具
+  design_language:
+    silhouette: AR屏幕内：低矮模块化沙发，由独立座垫模块 + 靠背模块拼接组成，L形或直线排布
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 浅蓝灰布艺
+      material: 软包布艺坐垫模块
+      finish: 哑光布面
+    mounting: 落地组合式，模块间无可见连接件
+    signature_detail: AR工具直观展示模块可重新排列、按需增减的特性
+  design_level:
+    score: 3
+    reason: 主体是AR配置器使用场景，沙发模块细节因屏幕内图像尺寸小而清晰度有限；模块化概念可读，但作为手法示范图深度不足
+  design_tags:
+  - H05模块化设计
+  - 模块化沙发
+  - AR配置器
+  - 数字可视化
+  - 自由组合
+  hero_feature: AR工具让用户在购买前直观看到不同模块组合效果，降低决策成本
+  problem_solved: 实体门店难以展示模块化家具的全部组合可能性
+  transferable_technique: 模块化产品 + 数字配置器的销售组合策略；图示模块化沙发各座椅单元等高、等深，统一底盘的设计逻辑
+  confidence:
+    visual_description: medium
+    category: high
+    brand: low
+    product_grouping: medium
+  needs_human_review: false
+  review_reason: ''
+- product_id: h05_furniture_009
+  source_images:
+  - filename: H05_furniture_009.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H05_模块化设计/H05_furniture_009.jpg
+    image_role: hero
+    visual_anchor: 笔记本屏幕显示Muuto Fiber Armchair在线配置器，右侧色板为60+种面料色
+  product_name: Muuto Fiber Armchair 数字配置器
+  brand_name: Muuto
+  brand_confidence: medium
+  category_path:
+  - H05_模块化设计
+  - 家具
+  design_language:
+    silhouette: 扶手椅：有机贝壳椅背 + 十字星形旋转底座
+    light_opening: N/A（非灯具）
+    thermal: N/A（非灯具）
+    cmf:
+      color: 芥末黄面料 + 白色壳体（配置器中所示）
+      material: 复合材料椅壳 + 软包面料 + 铝合金底座
+      finish: 哑光壳体 + 布艺面料
+    mounting: 旋转底座落地式
+    signature_detail: 面料/底座双维度模块化配置：60+色面料 × 多种底座选项
+  design_level:
+    score: 3
+    reason: 展示CMF模块化配置逻辑（颜色/材质可选）而非结构模块化；对H05手法的示范集中在定制化层面，而非物理单元组合；有参考价值但非最强示范
+  design_tags:
+  - H05模块化设计
+  - CMF模块化配置
+  - Muuto
+  - Fiber Armchair
+  - 在线定制器
+  hero_feature: 面料颜色与底座形式作为独立可替换模块，实现单一产品形态的大规模定制化
+  problem_solved: 标准化产品无法满足用户个性化需求
+  transferable_technique: 将CMF选项抽象为独立可替换模块，同一结构骨架承载极高色彩/材质变体数量
+  confidence:
+    visual_description: high
+    category: high
+    brand: medium
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h05_lighting_004
+  source_images:
+  - filename: H05_lighting_004.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H05_模块化设计/H05_lighting_004.jpg
+    image_role: hero
+    visual_anchor: 三段式LED吊灯：圆环 + 菱形 + 水平横杆三个几何模块组合悬挂
+  product_name: 模块化几何 LED 吊灯
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H05_模块化设计
+  - 灯具
+  design_language:
+    silhouette: 三个独立几何形态（圆环、菱形、水平线段）通过细线和连接点组合成非对称构成
+    light_opening: 线型LED贴合几何轮廓发光，圆环和菱形均匀出光
+    thermal: LED线性光源，热量低，散热需求低
+    cmf:
+      color: 哑光黑
+      material: 金属型材弯折成几何轮廓
+      finish: 哑光黑粉末涂层
+    mounting: 天花板吊线悬挂，多点平衡
+    signature_detail: 三种独立几何模块各自发光，拼装成一个视觉整体，但每段可独立替换
+  design_level:
+    score: 4
+    reason: 物理模块明确可辨，圆形/菱形/线段三段各自独立且形态差异大，但组合后形成强视觉记忆点；手法展示清晰
+  design_tags:
+  - H05模块化设计
+  - 几何模块吊灯
+  - 线型LED
+  - 非对称组合
+  - 形态拼接
+  hero_feature: 三种几何形轮廓模块（圆/菱/线）共用发光线型LED，自由拼接成独特构成
+  problem_solved: 定制造型灯具成本高，标准化几何单元拼接降低定制门槛
+  transferable_technique: 不同几何截面模块共用同一种连接件和光源形式，自由拼接成不同整体造型
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h05_lighting_005
+  source_images:
+  - filename: H05_lighting_005.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H05_模块化设计/H05_lighting_005.jpg
+    image_role: hero
+    visual_anchor: 黄铜竖杆 + 球形乳白玻璃灯头 + 方形底座框架，三件组合式落地灯
+  product_name: 模块化组合落地灯（球形头 + 直立杆 + 方形底座）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H05_模块化设计
+  - 灯具
+  design_language:
+    silhouette: 正方形金属底座 + 细长竖杆 + 球形灯头，比例极简，三段明确区分
+    light_opening: 乳白玻璃球形漫射出光，360°均匀散射
+    thermal: 球形玻璃封闭灯头，散热依靠球壁导热
+    cmf:
+      color: 哑光黄铜 + 乳白玻璃
+      material: 黄铜管 + 吹制乳白玻璃
+      finish: 拉丝黄铜 + 磨砂玻璃
+    mounting: 落地式，方形底盘配重
+    signature_detail: 竖杆顶端横向托臂将球形灯头侧置，形成悬臂结构
+  design_level:
+    score: 3
+    reason: 三段式结构（底座/杆/灯头）可识别为独立模块，但连接方式未突出展示，且图片为环境氛围照，细节清晰度有限；模块化程度中等
+  design_tags:
+  - H05模块化设计
+  - 球形落地灯
+  - 三段组合结构
+  - 黄铜 + 玻璃
+  - 悬臂灯头
+  hero_feature: 灯头/杆/底座三段可独立替换，不同高度杆或不同底座形状可组合出系列变体
+  problem_solved: 整体注塑落地灯损坏一处须整体报废
+  transferable_technique: 竖杆长度模块化 + 灯头类型替换的系列化策略
+  confidence:
+    visual_description: medium
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: h05_lighting_006
+  source_images:
+  - filename: H05_lighting_006.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/03_设计手法库/H05_模块化设计/H05_lighting_006.jpg
+    image_role: hero
+    visual_anchor: 同款蚕茧形台灯出现两种尺寸，大小比例约1:1.5，并列陈设
+  product_name: 可缩放模块台灯（同形态多尺寸系列）
+  brand_name: ''
+  brand_confidence: low
+  category_path:
+  - H05_模块化设计
+  - 灯具
+  design_language:
+    silhouette: 蚕茧/热气球状有机形态，上部圆润球冠 + 下部收口基座，同一形态缩放两种尺寸
+    light_opening: 丝绢/网状罩体整体透光，360°柔和漫射
+    thermal: 织物罩体透气，热量可向上散逸
+    cmf:
+      color: 米白/象牙白
+      material: 纤维丝网罩体 + 内部线圈骨架
+      finish: 哑光织物质感
+    mounting: 台灯，底部圆形基座落桌
+    signature_detail: 大小两只并列展示尺寸模块逻辑：形态100%一致，仅比例缩放
+  design_level:
+    score: 4
+    reason: 尺寸模块化（同形态缩放系列）示范非常清晰，两个尺寸并列完整传达了模块化尺寸扩展的概念；有机丝网形态本身也有较强记忆点
+  design_tags:
+  - H05模块化设计
+  - 尺寸模块化
+  - 蚕茧形台灯
+  - 织物透光罩
+  - 系列化缩放
+  hero_feature: 相同有机形态在两种尺寸中保持100%比例一致，形成可搭配摆放的系列家族
+  problem_solved: 单一尺寸灯具无法适应不同台面空间与光照需求
+  transferable_technique: 同一形态DNA通过纯比例缩放形成系列，无需重新设计；织物骨架结构的缩放兼容性
+  confidence:
+    visual_description: high
+    category: high
+    brand: low
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

@@ -1,0 +1,604 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "台灯"
+  tertiary: "充电台灯"
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_台灯_充电_b2_001"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：深森林绿色圆柱形底座上方叠接一个可360°旋转的圆柱灯头，灯头斜切顶端形成椭圆形出光口，内衬白色漫射面；底座右侧开有弧形缺口供灯头嵌套收纳；整体串联一根同色编织绳提手，形成壶形轮廓"
+    product_name: "双筒旋转充电台灯（收纳壶型）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "竖向双圆柱叠加，上部灯头可绕轴旋转调向，底座带弧形豁口作为灯头停放槽；编织绳穿孔形成侧提手，整体轮廓类似茶壶"
+      light_opening: "斜切椭圆平面出光，内衬白色漫射板，出光均匀，无眩光；旋转灯头可360°调向"
+      thermal: "铝合金或金属壳体自然散热，无可见散热结构"
+      cmf:
+        color: "深森林绿（墨绿哑光），内腔白色；编织绳与外壳同色"
+        material: "金属筒体（铝合金或钢）+ 白色漫射PC内衬 + 纺织编织绳"
+        finish: "哑光粉末涂层，触感磨砂；内腔亮白；编织绳织物手感"
+      mounting: "自立底座，圆柱形底部直接落桌；编织绳提手支持手提携带"
+      signature_detail: "底座上的弧形豁口：灯头自然嵌入收纳，旋转进入充电桩位，机械感与有机感并存"
+    design_level:
+      score: 5
+      reason: "双筒旋转结构将充电座与灯头收纳合二为一，绳提手赋予便携属性，造型识别度极高；颜色与材质选择高度统一，整体是设计概念与工程结构结合的典范"
+    design_tags: ["充电台灯", "旋转灯头", "双筒叠合", "壶形轮廓", "编织绳", "森林绿", "H05模块化", "H07极简整合", "H11功能外显"]
+    hero_feature: "底座豁口收纳槽 + 360°可旋转灯头——收纳即充电，造型即功能"
+    problem_solved: "充电台灯通常充电底座与灯头分离视觉凌乱，该设计将灯头嵌入底座槽位实现收纳充电一体，整洁优雅"
+    transferable_technique: "将底座设计为灯头的专属收纳槽位（豁口/凹坑），使充电桩与产品形态融合而非外加；可迁移至手持便携灯、麦克风支架等需要充电底座的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_002"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/21.jpg"
+        image_role: "variant"
+        visual_anchor: "使用状态图：同款深绿双筒灯，灯头从底座取出后单独侧卧，圆形出光口朝向镜头发出暖黄光晕；底座直立旁侧，展示底座豁口缺口结构；两件并列呈现，说明可分离使用"
+    product_name: "双筒旋转充电台灯（分离使用状态）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "与20.jpg为同一产品，展示灯头脱离底座后侧置状态；灯头为子弹头形（一端平切圆面出光，另端圆润收尖）"
+      light_opening: "圆形平面出光口，满铺暖白漫射面，侧置后转变为泛光台灯"
+      thermal: "金属壳体自然散热"
+      cmf:
+        color: "深森林绿哑光，出光面暖黄色光晕"
+        material: "金属筒体 + PC漫射面"
+        finish: "哑光粉末涂层"
+      mounting: "灯头脱离底座后可独立桌面摆放，侧卧稳定"
+      signature_detail: "子弹头灯头端部收尖设计使其侧卧时自然稳定，形成另一种使用模态"
+    design_level:
+      score: 4
+      reason: "此图补充了产品分离使用场景，印证双模态设计意图；作为变体展示图价值高"
+    design_tags: ["充电台灯", "分离式灯头", "双模态使用", "子弹头", "森林绿", "H05模块化"]
+    hero_feature: "灯头脱离底座后可独立侧置泛光——单品两用，一灯双态"
+    problem_solved: "充电台灯灯头固定无法灵活使用，该设计允许灯头完全脱离底座独立使用，扩展了使用场景"
+    transferable_technique: "灯头设计为可完全拆离的独立发光体，底座仅作充电底座；灯头端部收尖使侧卧稳定，无需额外支架"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_003"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/22.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：橄榄军绿色蘑菇形台灯，灯头为扁圆饼状（蘑菇帽），顶面平坦，底面出光，圆杆连接椭圆形底座；底座左侧有一枚圆形凸台（无线充电感应区）；整体造型有机圆润，比例紧凑"
+    product_name: "蘑菇形无线充电台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "蘑菇形——扁圆饼灯头（高度约为直径的30%）+ 圆柱中杆 + 椭圆形底座，整体高宽比约1.8:1；底座椭圆长轴上有圆形充电凸台，不对称构图"
+      light_opening: "灯头底面向下漫射出光，出光面约占灯头底面80%；上方平顶面无出光"
+      thermal: "哑光金属/塑料壳体，无外露散热结构"
+      cmf:
+        color: "橄榄军绿哑光，全身同色，黑色电源线"
+        material: "金属或工程塑料壳体 + 哑光粉末涂层"
+        finish: "全身哑光，触感柔和"
+      mounting: "椭圆底座自立，底座集成无线充电模块（圆形凸台区域）"
+      signature_detail: "底座上独立的圆形无线充电凸台——在不增加外轮廓的前提下，明确标注出充电区域的功能边界"
+    design_level:
+      score: 4
+      reason: "蘑菇形语言经典耐看，椭圆底座整合无线充电区功能布局清晰，颜色选择有设计感；造型无突破性但执行完整"
+    design_tags: ["充电台灯", "蘑菇形", "无线充电", "橄榄绿", "椭圆底座", "H07极简整合", "H10材料表达"]
+    hero_feature: "椭圆底座上独立凸台式无线充电区——功能分区通过形态高差而非图标传达"
+    problem_solved: "台灯底座集成无线充电时充电区域模糊，该设计用几何凸台明确标注充电位置，直觉易用"
+    transferable_technique: "底座功能区用几何高差（凸台/凹坑）而非印刷图标来标注——形态即信息，可迁移至任何多功能底座产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_004"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/24.jpg"
+        image_role: "context"
+        visual_anchor: "场景图：乳白色椭圆形蛋状台灯置于烤箱内，灯体正面有一道竖向分型线将左右两半微微分开，左右各有一个月牙形通透出光槽，内透暖黄光；台灯整体形态如一枚竖置的鹅卵石，放置于复古烤箱舱内强调便携耐用属性"
+    product_name: "卵石形双侧出光充电台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "竖置椭圆蛋形，正面中轴分型线将壳体一分为二；左右对称分布月牙形出光槽，整体无棱角，极度圆润"
+      light_opening: "左右对称月牙形槽透光，间接侧向出光；分型线处亦有光晕渗透，形成360°柔光环绕效果"
+      thermal: "蛋形封闭壳体，出光槽兼具通风功能"
+      cmf:
+        color: "乳白色半透明外壳，暖黄色内透光"
+        material: "半透明乳白PC或ABS外壳"
+        finish: "亚光乳白，内透暖黄LED"
+      mounting: "无底座，蛋形底部微平可自立于任意平面；可置于桌面、床头或如图所示其他场所"
+      signature_detail: "竖向分型线作为设计主线：既是造型分件线，也是暗示可开合/呼吸的视觉张力来源"
+    design_level:
+      score: 4
+      reason: "蛋形卵石语言高度统一，月牙出光槽在极简外形上制造光影戏剧感；场景选择（烤箱内）强调便携坚固属性，叙事完整"
+    design_tags: ["充电台灯", "卵石形", "蛋形", "月牙出光槽", "360°出光", "乳白PC", "H06仿生", "H09隐藏工程", "H10材料表达"]
+    hero_feature: "竖向分型线 + 左右月牙出光槽——分型线既是美学主线也是出光结构，一线双用"
+    problem_solved: "圆润造型台灯通常出光方向单一，该设计通过分型线两侧的月牙槽实现双侧出光，增强环境照明效果"
+    transferable_technique: "将产品分型线设计为出光/功能槽——结构线即功能线，避免出光口破坏整体造型感；可迁移至便携音箱、加湿器等需要出口的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_005"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/26.jpg"
+        image_role: "hero"
+        visual_anchor: "使用状态图：三只手分别从不同角度握持同款白色充电台灯，三只灯处于不同高度，蓝色背景衬托；灯体呈蘑菇形变体——宽扁圆顶灯头（倒置漏斗/牛角形轮廓）+ 圆柱底座，顶部有绿/蓝/灰色环形色带区分型号；手握底座圆筒，姿势自然"
+    product_name: "手持便携蘑菇形充电台灯（三色版）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "倒置漏斗形灯头（宽扁蘑菇帽，边缘微上翘）+ 圆柱形底座（直径约为灯头的50%），可手握底座提携，整体剪影饱满有力"
+      light_opening: "灯头顶面漫射出光（向上），灯头边缘内侧亦有漫射光溢出；顶部圆盘中央可见发光面"
+      thermal: "塑料一体壳体，无外露散热"
+      cmf:
+        color: "主体白色，灯头顶部圆环色带区分配色：绿色环/蓝色环/灰色环（三个SKU）"
+        material: "ABS/PC塑料壳体"
+        finish: "磨砂白亚光；色带区为高光涂层或彩色嵌件"
+      mounting: "圆柱底座底部自立；底座直径适合手握，兼作便携握把"
+      signature_detail: "顶部彩色圆环色带：在全白极简造型上用单一色环区分产品线/调光模式，极简有效"
+    design_level:
+      score: 4
+      reason: "手握底座的人机设计直觉清晰，倒置漏斗轮廓形成强识别剪影；彩色环带的SKU区分策略简洁高效；三色并排展示强化产品系列感"
+    design_tags: ["充电台灯", "手持便携", "倒置漏斗形", "圆环色带", "系列感", "白色", "H12人机界面强化", "H08对比强调"]
+    hero_feature: "底座即握把——圆柱底座人机尺寸精准，使台灯自然具备手持便携属性，无需额外手柄"
+    problem_solved: "台灯携带通常无固定握持点，该设计将底座尺寸精确设计为手握舒适区，直觉式便携"
+    transferable_technique: "将底座直径设计为人体工程握持直径（约35-45mm），使底座兼具充电基座与便携握把双重属性；可迁移至任何便携灯/工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_006"
+    source_images:
+      - filename: "27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/27.jpg"
+        image_role: "context"
+        visual_anchor: "场景图：白色蘑菇形充电台灯（同26.jpg产品，灰色环版）置于白色圆形餐桌上，餐具碗碟杯子陪衬，手从左侧伸入握住底座；台灯点亮后光晕覆盖桌面，暖白光，背景米色砖墙"
+    product_name: "手持便携蘑菇形充电台灯（餐桌场景）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "与26.jpg同款，展示餐桌使用场景；灯头出光面朝上，通过漫射光晕营造餐桌氛围感"
+      light_opening: "顶部向上漫射出光，桌面反射形成柔和环境光"
+      thermal: "同26.jpg"
+      cmf:
+        color: "主体白色 + 灰色顶环；桌面场景白色系协调"
+        material: "ABS/PC塑料"
+        finish: "磨砂白亚光"
+      mounting: "底座自立于桌面，手握底座可随时移位"
+      signature_detail: "灯头直径与餐盘直径视觉呼应，融入餐桌场景无违和感"
+    design_level:
+      score: 3
+      reason: "场景展示图，叙事价值高于产品信息价值；展示了餐桌/氛围灯使用场景，印证产品定位"
+    design_tags: ["充电台灯", "手持便携", "餐桌场景", "氛围照明", "白色", "蘑菇形"]
+    hero_feature: "蘑菇形顶部出光与餐桌氛围天然契合——无需调整灯头角度，直接置桌即是氛围灯"
+    problem_solved: "餐桌临时照明通常需要专用烛台或氛围灯，该充电台灯开箱即用，便携无线，替代蜡烛场景"
+    transferable_technique: "将台灯高度/比例设计为与餐盘同量级（直径接近），视觉上融入餐桌场景而非突兀突出"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_007"
+    source_images:
+      - filename: "29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/29.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：黑色矩形金属框架（两根竖杆 + 顶部横杆形成U形提手架），框架内悬挂一枚扁圆发光盘（向下出光的LED面板，直径约为框架宽度的70%），盘下方可见模糊白色出光；框架底部为圆形黑色金属基环，内嵌圆柱形粗砺石材（花岗岩质感，灰白色）作为配重底座；底座基环侧面可见充电按键"
+    product_name: "金属框架悬浮光盘充电台灯（石材底座）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "U形黑色金属框架 + 内嵌悬浮光盘 + 圆柱石材底座，三段式竖向构图；框架细线条与厚实石材形成强烈轻重对比"
+      light_opening: "圆形LED面板向下出光，出光面平坦均匀，直径约80mm，类似迷你舞台射灯效果"
+      thermal: "金属框架自然散热，LED面板可能有铝基板导热"
+      cmf:
+        color: "哑光黑金属框架 + 灰白花岗岩石材 + 乳白LED光盘"
+        material: "金属（铁/铝）框架 + 天然花岗岩（或仿石材）圆柱 + LED光盘组件"
+        finish: "框架哑光黑喷涂；石材粗砺自然面；光盘磨砂乳白"
+      mounting: "石材圆柱底座重量提供稳定性，圆形基环固定框架；底座可能内置电池组"
+      signature_detail: "天然石材圆柱作为底座配重：将自然材料引入现代灯具，石材纹理与黑色金属形成有机与工业的对话"
+    design_level:
+      score: 5
+      reason: "框架悬浮光盘概念极具创意——光源不依附于任何实体灯罩，'悬停在空中'；天然石材底座将材料对比做到极致；整体设计语言精准，iF顶级水准"
+    design_tags: ["充电台灯", "金属框架", "悬浮光盘", "石材底座", "提手架", "H08对比强调", "H10材料表达", "H11功能外显"]
+    hero_feature: "U形框架内悬浮的发光圆盘——光源完全'漂浮'在框架中，无灯罩无灯杆，重力美学"
+    problem_solved: "台灯光源通常需要灯罩/灯头包裹，该设计将圆形LED面板直接悬挂于框架，光源本身即是造型主体，无冗余结构"
+    transferable_technique: "框架+悬浮功能件的设计语言——用细线框架托举核心功能组件（光盘、扬声器、屏幕），制造漂浮感；可迁移至蓝牙音箱、显示器支架等产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_008"
+    source_images:
+      - filename: "31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/31.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：两只深炭灰色极细蜡烛形充电台灯并排，一只带圆形金属底座（较高），一只无底座直接竖立（较矮，磁吸充电）；灯体为细长铝合金圆管，顶端渐变至透明玻璃/亚克力子弹头，LED光点在透明端帽内发光，炭灰管身向上渐变为亮光区"
+    product_name: "蜡烛形细管充电台灯（磁吸底座款）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "超细竖直圆管（直径约15-20mm），高宽比约10:1；顶端为透明子弹头封帽，管身下部深炭灰，顶部渐变至透光区；带底座版本：圆形薄底盘"
+      light_opening: "顶端透明子弹头漫射出光，光点集中在顶部约20%长度内，形成蜡烛火焰般的光晕效果"
+      thermal: "细铝管全身导热，表面温感适宜"
+      cmf:
+        color: "深炭灰（近哑光黑）铝管身，顶部透明PC/玻璃子弹头，光晕暖白"
+        material: "铝合金细管 + 透明PC或玻璃端帽 + 金属底盘（带底座版）"
+        finish: "铝管哑光阳极氧化深炭灰；端帽高透明抛光"
+      mounting: "带底座版：圆形金属底盘，底盘内置充电线圈；无底座版：磁吸充电，可任意摆放或夹持"
+      signature_detail: "炭灰管身向透明子弹头的渐变过渡——材料过渡本身即是设计语言，无需额外装饰"
+    design_level:
+      score: 5
+      reason: "蜡烛形态极度简化，仅保留竖管+顶端发光点两个要素；透明端帽的发光效果高度还原蜡烛火焰视觉；磁吸底座方案赋予极大灵活性；材料渐变处理精彩"
+    design_tags: ["充电台灯", "蜡烛形", "极细管", "透明端帽", "磁吸充电", "炭灰色", "H01减法", "H07极简整合", "H10材料表达"]
+    hero_feature: "超细铝管 + 透明子弹头端帽——用最少的几何语言还原蜡烛意象，关灯是雕塑，开灯是蜡烛"
+    problem_solved: "蜡烛形台灯通常造型繁复仿古，该设计彻底抽象化，用极简几何呈现蜡烛意象，适应现代简约家居"
+    transferable_technique: "顶端透明端帽集中发光的蜡烛形态语言；铝管向透明材料的材质渐变处理；磁吸底座使同一灯体适配不同安装场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_009"
+    source_images:
+      - filename: "36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/36.jpg"
+        image_role: "context"
+        visual_anchor: "场景图：米白色飞碟形充电台灯置于深木色柜面上，灯头为宽大扁圆盘（类飞碟/蘑菇伞帽），下方连接粗圆柱体（粗砺石膏质感），旁边摆放三只小型圆柱蜡烛灯（黄/橙红/炭灰色，两色各一），形成大中小系列感；出光为暖黄色溢光从盘边缘漫出"
+    product_name: "飞碟盘形充电台灯（石膏质感系列）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "宽大飞碟盘灯头（直径约为柱体直径的2.5倍）+ 粗短圆柱体底座，比例为'宽顶细腰宽底'；旁侧小蜡烛灯为圆柱两件套（彩色上帽 + 白色底座）"
+      light_opening: "飞碟盘内侧LED环形出光，光从盘与柱连接处的缝隙向下漫射；小蜡烛灯顶部向上漫射出光"
+      thermal: "石膏质感外壳（可能为陶瓷或涂装塑料/铝）自然散热"
+      cmf:
+        color: "主灯：米白石膏色，盘面与柱体同色；小灯：黄色/橙红/炭灰色帽 + 白色底座"
+        material: "主灯可能为陶瓷或石膏涂装金属/塑料；小灯ABS/PC"
+        finish: "粗砺哑光石膏质感；小灯亮色磨砂"
+      mounting: "圆柱底座自立，底部可能有磁吸充电"
+      signature_detail: "大台灯 + 小蜡烛灯的尺寸系列——同一设计语言扩展为大中小SKU，桌面摆放形成家族感"
+    design_level:
+      score: 4
+      reason: "石膏质感与飞碟形态结合出乎意料，造型厚重有力；系列化小蜡烛灯配套设计完整；场景叙事强，暖调氛围出色"
+    design_tags: ["充电台灯", "飞碟形", "石膏质感", "系列化", "氛围照明", "米白", "H10材料表达", "H08对比强调"]
+    hero_feature: "宽盘飞碟 + 粗短石膏柱——超宽灯头与粗壮柱体形成稳重雕塑感，不同于任何传统台灯比例"
+    problem_solved: "充电台灯通常轻薄精致，该设计反其道以厚重雕塑感取胜，适合作为桌面视觉中心而非辅助照明"
+    transferable_technique: "石膏/陶瓷质感涂装应用于灯具外壳，提升家居融合度；大小SKU系列化（主灯+小蜡烛灯）的产品家族策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_010"
+    source_images:
+      - filename: "37.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/37.jpg"
+        image_role: "variant"
+        visual_anchor: "场景图：同款飞碟盘形台灯，深拉丝炭灰色版本，置于深木色柜面上，镜面反射出光晕；此版本柱体为拉丝金属质感，盘为深色，出光从盘下缘溢出暖黄光晕，背景深色木质画框"
+    product_name: "飞碟盘形充电台灯（拉丝金属深色版）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "与36.jpg同款飞碟形，深色拉丝金属版本；盘体边缘可见微翘，柱体拉丝肌理细腻"
+      light_opening: "盘体底面向下漫射，光从盘边缘内侧溢出，桌面投射出圆形光圈"
+      thermal: "金属拉丝壳体自然导热散热"
+      cmf:
+        color: "深炭灰/深棕拉丝金属，出光暖黄"
+        material: "拉丝金属（铝或钢）盘面 + 柱体"
+        finish: "拉丝哑光，带细密线纹理"
+      mounting: "圆柱底座自立，底部充电"
+      signature_detail: "拉丝金属在暖光映照下呈现暖棕色调，与石膏白版形成完全不同的材质语义——同一形态，两种材质，两种情绪"
+    design_level:
+      score: 4
+      reason: "CMF变体展示，印证形态的跨材质适应性；拉丝金属版更具奢华感，适合不同消费人群"
+    design_tags: ["充电台灯", "飞碟形", "拉丝金属", "深色版", "CMF变体", "H10材料表达"]
+    hero_feature: "拉丝金属飞碟盘在暖光下的色泽变化——金属纹理在光照下激活，静态与动态两种面貌"
+    problem_solved: "同形态台灯通过CMF变化覆盖不同风格家居场景，扩大市场覆盖"
+    transferable_technique: "同一形态用拉丝金属与石膏/哑光涂装两套CMF方案覆盖现代与北欧两种风格，最小化模具投入，最大化市场覆盖"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_011"
+    source_images:
+      - filename: "38.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/38.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：白色锥形户外充电提灯，锥体下宽上收，顶端有黑色硅胶D形提手；灯体由两层构成：外层为白色半透明锥形罩（磨砂PC），内层可见圆柱形LED光管；底部有微型USB充电口和开关；整体高约300mm，旁侧摆放USB充电线"
+    product_name: "锥形半透明充电提灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "圆锥形（下宽上窄），高宽比约2.5:1；顶部D形黑色提手；底部平切圆环作底座；内外双层结构，内层光管可透过外层磨砂罩隐约可见"
+      light_opening: "全身磨砂PC锥罩360°漫射出光，类纸灯笼效果；光线均匀柔和无阴影"
+      thermal: "内层光管为LED，热量通过顶部提手金属件散出"
+      cmf:
+        color: "主体纯白，提手黑色硅胶；出光暖白"
+        material: "磨砂半透明PC外罩 + 内层圆柱LED组件 + 硅胶提手 + 黑色ABS底环"
+        finish: "外罩磨砂半透明；提手软硅胶；底环亮黑"
+      mounting: "底部圆环自立；顶部D形提手可手提或悬挂"
+      signature_detail: "双层结构——外锥罩保护内部LED组件同时提供漫射效果，磨砂PC将内部LED管变成柔和光柱"
+    design_level:
+      score: 3
+      reason: "锥形提灯造型实用清晰，双层漫射结构光质优秀；但造型较为常规，无突破性Hero Feature"
+    design_tags: ["充电台灯", "锥形", "半透明", "磨砂PC", "提灯", "D形提手", "360°出光", "H10材料表达"]
+    hero_feature: "磨砂PC双层锥罩——内层LED管在磨砂外罩内形成均匀光柱，外观柔和无眩光"
+    problem_solved: "便携提灯通常直接裸露LED眩光刺眼，双层磨砂结构彻底消除眩光，适合儿童环境和氛围照明"
+    transferable_technique: "双层壳体漫射结构：内层承载功能件，外层磨砂PC漫射光线；外层可更换以改变光色/造型，适合模块化产品策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_012"
+    source_images:
+      - filename: "39.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/39.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：深海蓝哑光充电台灯，整体呈'高脚酒杯'倒置形——顶部为扁圆形小灯头（小碗状，开口朝下），细颈杆过渡，底部为圆柱形底座（充电座，较灯头宽）；灯头碗口边缘略有外翻，内壁白色；底座圆柱上有椭圆形缺口（便于拇指拿取）"
+    product_name: "高脚酒杯形充电台灯（椭圆缺口底座）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "倒置高脚酒杯形：小灯头（直径约底座60%）+ 细颈杆 + 圆柱底座；底座侧面椭圆缺口提供拿取便利；高宽比约3:1，视觉轻盈"
+      light_opening: "灯头碗口朝下出光，内壁白色反光，向下漫射；碗口边缘外翻形成遮光沿，限制出光角度"
+      thermal: "金属或塑料壳体，细颈杆自然散热"
+      cmf:
+        color: "深海蓝哑光，全身同色；灯头内壁白色"
+        material: "金属或ABS塑料壳体"
+        finish: "全身哑光粉末涂层深蓝"
+      mounting: "圆柱底座自立；底座内置充电电池，底部可能有充电口"
+      signature_detail: "底座侧面椭圆缺口：功能性（便于取放）与美学（打破圆柱单调）的精准平衡点"
+    design_level:
+      score: 4
+      reason: "高脚酒杯形态优雅，深蓝色选择罕见有辨识度；椭圆缺口细节处理精准；整体比例关系考究，执行质量高"
+    design_tags: ["充电台灯", "高脚酒杯形", "细颈", "椭圆缺口", "深蓝", "向下出光", "H01减法", "H12人机界面强化"]
+    hero_feature: "底座椭圆缺口——在圆柱底座上开椭圆孔，既是取放辅助，又打破圆柱平庸，一个细节两种价值"
+    problem_solved: "充电底座圆柱通常光滑无法拿取，该设计用椭圆缺口解决人机问题，同时成为造型亮点"
+    transferable_technique: "圆柱底座侧面开椭圆/矩形缺口，解决拿取摩擦力不足问题；缺口形状可成为产品识别特征；可迁移至水杯、音箱等圆柱产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_013"
+    source_images:
+      - filename: "41.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/41.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：深蓝色金属充电台灯，灯头为超宽超薄圆盘（帽沿直径约为底座直径的2.5倍，厚度极薄），盘下方为细颈圆锥底座（上细下宽的漏斗形），底部圆形底盘；灯头顶面平滑，底面出光；整体轮廓酷似蘑菇但比例极度拉伸：帽很宽很薄，茎很细很短"
+    product_name: "超宽薄盘充电台灯（深蓝漏斗底座）"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "超大超薄圆盘灯头（直径:厚度约10:1）+ 细颈漏斗形底座；灯头悬于底座之上，形成强烈的顶重感；高宽比约1:1.5（宽大于高）"
+      light_opening: "圆盘底面朝下出光，光线从边缘内侧均匀向下漫射；出光方向集中向下"
+      thermal: "铝合金盘体自然散热，盘面积大利于散热"
+      cmf:
+        color: "深海蓝哑光阳极氧化，全身同色"
+        material: "铝合金盘体 + 铝合金或钢底座"
+        finish: "哑光阳极氧化处理，深蓝金属质感"
+      mounting: "漏斗形底座底盘自立，稳定性好；底座内置充电电池，顶部触控开关（指尖轻触盘面）"
+      signature_detail: "超宽超薄圆盘与极细底座的极端比例——灯头直径约为底座高度的2倍，反常规比例制造强烈视觉张力"
+    design_level:
+      score: 5
+      reason: "比例极端化是最大亮点——超宽超薄盘头与细颈底座形成极度反常规的视觉张力；深蓝阳极氧化执行精准；Flos品牌水准典范作品"
+    design_tags: ["充电台灯", "超宽圆盘", "极薄灯头", "漏斗底座", "深蓝", "Flos", "H01减法", "H08对比强调", "H10材料表达"]
+    hero_feature: "超宽超薄铝盘灯头——直径:厚度约10:1的极端比例，关灯是飞碟雕塑，开灯是精准向下投光源"
+    problem_solved: "台灯灯头通常比例保守，该设计将灯头比例推向极端，制造强烈桌面存在感，同时精准控制向下出光"
+    transferable_technique: "将圆盘灯头直径拉伸至底座的2.5倍以上，同时将厚度压缩至极限；漏斗形底座提供稳定性同时使底座本身也成为造型亮点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_014"
+    source_images:
+      - filename: "42.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/42.jpg"
+        image_role: "variant"
+        visual_anchor: "使用交互图：同款深蓝超宽盘充电台灯，手指从上方接近灯头顶面（触控开关示意），强调触控交互方式；白色背景，突出灯具与手指的尺度关系"
+    product_name: "超宽薄盘充电台灯（触控交互展示）"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "与41.jpg同款，展示触控开关交互方式；手指接近盘面顶部，展示盘面即触控面的交互逻辑"
+      light_opening: "同41.jpg"
+      thermal: "同41.jpg"
+      cmf:
+        color: "深蓝同41.jpg"
+        material: "同41.jpg"
+        finish: "同41.jpg"
+      mounting: "同41.jpg"
+      signature_detail: "盘面顶部即为触控感应区——无按键无旋钮，手指悬停即控制，交互方式与形态融合"
+    design_level:
+      score: 4
+      reason: "交互展示图，揭示了超薄盘顶面作为触控面的设计意图；盘面功能扩展为触控界面使形态更纯粹（无按键破坏造型）"
+    design_tags: ["充电台灯", "触控开关", "无按键", "超宽圆盘", "Flos", "H12人机界面强化", "H09隐藏工程"]
+    hero_feature: "盘面即触控面——超薄盘顶面集成触控感应，消除所有物理按键，形态极度纯净"
+    problem_solved: "台灯开关通常为实体按键破坏造型，该设计将整个顶面作为触控区，无需寻找开关，交互直觉"
+    transferable_technique: "将整个顶面/表面设计为触控感应区（而非局部按键），彻底消除物理控制件对外观的干扰；可迁移至音箱、充电板等产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_015"
+    source_images:
+      - filename: "44.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/44.jpg"
+        image_role: "hero"
+        visual_anchor: "场景渲染图：深灰色台灯+蓝牙音箱组合系统，台灯为细杆+可旋转圆柱灯头（灯头侧面有橙色矩形按键和散热格栅），灯头可360°旋转调向；旁侧独立放置一只圆柱形蓝牙音箱（同色系，正面有橙色矩形按键和发光环），两者通过橙色UI元素形成视觉家族；背景深色，整体工业感强"
+    product_name: "台灯+蓝牙音箱组合充电系统"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "台灯：细杆 + 可旋转圆柱灯头；音箱：独立圆柱体；两件共用圆柱形语言和橙色UI元素形成系列"
+      light_opening: "圆柱灯头正面出光，内嵌LED模组，可见散热格栅；出光方向随灯头旋转改变"
+      thermal: "灯头侧面金属散热格栅明显，主动散热设计"
+      cmf:
+        color: "深灰/深炭色主体 + 橙色功能键/发光环 + 金属细杆"
+        material: "金属灯杆 + 金属圆柱灯头/音箱壳体 + 橙色硅胶/塑料按键"
+        finish: "主体哑光深灰喷涂；橙色橡胶按键；金属杆磨砂"
+      mounting: "台灯：底座自立，杆件细长；音箱：独立底座自立；两者无物理连接，通过蓝牙协同"
+      signature_detail: "橙色矩形按键：在深灰工业风中用饱和橙色标注所有交互点，功能可视化彻底"
+    design_level:
+      score: 4
+      reason: "台灯+音箱生态系统设计，用统一CMF语言连接两件独立产品；橙色UI色彩策略鲜明；散热格栅外显显示工业设计自信"
+    design_tags: ["充电台灯", "蓝牙音箱", "产品生态", "工业风", "深灰", "橙色UI", "旋转灯头", "H08对比强调", "H11功能外显"]
+    hero_feature: "橙色矩形功能键——在深灰工业壳体上，橙色标注出所有交互点，功能即UI，无需任何图标说明"
+    problem_solved: "台灯与音箱通常为独立产品，该设计建立统一视觉系统，用户可识别为同一生态，提升组合购买意愿"
+    transferable_technique: "用单一高饱和度功能色（橙/黄/红）标注所有交互控制点，在深色工业底色上形成极强对比；跨产品生态中保持该色彩策略形成家族识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_016"
+    source_images:
+      - filename: "45.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/45.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：充电台灯，白色半透明乳白圆柱形灯体（全身发光），顶端有深灰色斜切帽盖（帽盖斜面使顶端形成不对称收口，非平切）；白色底环收底；整体为圆柱发光柱，高宽比约4:1；背景浅灰渐变"
+    product_name: "斜顶帽盖圆柱发光充电台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "圆柱发光柱（乳白PC全身透光）+ 深灰色斜切帽盖（打破顶端对称性）+ 白色底环；斜切帽盖使轮廓产生方向感"
+      light_opening: "乳白PC圆柱全身360°漫射出光，顶端斜切帽盖遮挡部分出光，形成不均匀光晕；类蜡烛/灯塔效果"
+      thermal: "PC柱体与帽盖之间可能有内部LED和电路板散热"
+      cmf:
+        color: "乳白半透明PC柱身 + 深灰哑光帽盖 + 白色底环"
+        material: "半透明乳白PC外筒 + 深灰色ABS或铝帽盖 + 白色底环"
+        finish: "PC筒磨砂半透明；帽盖哑光深灰"
+      mounting: "底环圆形自立底座；底部可能有充电口"
+      signature_detail: "斜切深灰帽盖：在全身均匀圆柱上制造方向感和打破对称的唯一设计要素，以最小介入获得最大造型变化"
+    design_level:
+      score: 4
+      reason: "斜切帽盖是精准的设计决策——以极小改动（一个斜面）打破圆柱的对称平庸；乳白PC发光柱光质优秀；整体克制而有力"
+    design_tags: ["充电台灯", "圆柱发光体", "斜切帽盖", "乳白PC", "360°出光", "H01减法", "H08对比强调"]
+    hero_feature: "斜切深灰帽盖——圆柱顶端的一个斜面，赋予整体方向感和个性，以最少笔墨改变最多"
+    problem_solved: "圆柱发光台灯外形单调对称无个性，斜切帽盖以最小设计介入制造方向感和非对称美学"
+    transferable_technique: "在对称几何体（圆柱/球体）顶端施加斜切面处理，以单一非对称元素打破平庸；对比色帽盖强化斜切效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_充电_b2_017"
+    source_images:
+      - filename: "46.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/46.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：充电台灯，乳白半透明圆柱发光体（与45.jpg同款乳白PC柱）顶端搭载深灰色圆柱灯头（短粗圆柱，朝向侧方约45°斜下方），灯头从发光柱顶部以球形关节连接并旋转调向；灯头底面圆形出光口指向斜前方；整体为'发光柱+定向射灯头'的双功能造型"
+    product_name: "发光柱+旋转射灯头双功能充电台灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "乳白PC发光圆柱（氛围光）+ 顶部球节旋转深灰圆柱灯头（定向光）；两种出光模态共存于同一产品；灯头偏转后整体轮廓不对称，动态感强"
+      light_opening: "双模态：1) 乳白PC柱身360°漫射氛围光；2) 顶部灯头定向出光（类射灯/手电方向光）；两者可能独立控制"
+      thermal: "灯头壳体金属散热；球节关节金属导热"
+      cmf:
+        color: "乳白半透明PC柱身 + 深灰哑光金属灯头 + 银色球节关节"
+        material: "半透明乳白PC外筒 + 深灰铝合金灯头 + 金属球节"
+        finish: "PC筒磨砂半透明；灯头哑光深灰阳极氧化；球节金属抛光"
+      mounting: "底部圆环自立，底部充电；灯头球节可全向调节"
+      signature_detail: "发光柱顶部的球节旋转关节：将氛围灯与定向射灯融合于一体，球节是两种光模态的交接点也是视觉焦点"
+    design_level:
+      score: 5
+      reason: "双功能设计逻辑清晰——发光柱提供氛围背景光，旋转灯头提供定向任务光；两种光模态共存于一体，球节关节是工程与美学的结合点；与45.jpg构成同一产品家族的两个配置版本"
+    design_tags: ["充电台灯", "双功能", "发光柱", "旋转射灯头", "球节关节", "乳白PC", "H05模块化", "H11功能外显", "H12人机界面强化"]
+    hero_feature: "发光柱顶部球节旋转灯头——氛围光+定向光双模态，球节允许360°调向，单品替代两盏灯"
+    problem_solved: "台灯通常只提供单一光源模态，该设计将氛围泛光与定向任务光整合，一盏灯满足阅读与氛围两种需求"
+    transferable_technique: "发光柱（氛围光）+ 顶部旋转灯头（任务光）的双模态设计策略；球节关节使定向功能件可全向调节，同时成为造型亮点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

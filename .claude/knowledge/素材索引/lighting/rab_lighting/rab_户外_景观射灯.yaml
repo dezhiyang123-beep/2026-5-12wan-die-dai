@@ -1,0 +1,184 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "景观射灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/景观射灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_景观射灯_001"
+    source_images:
+      - filename: "10__from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/景观射灯/10__from泛光灯.jpg"
+        image_role: "hero"
+        visual_anchor: "方形灯头+可调节旋转支架+刻度盘调角机构"
+    product_name: "RAB 方形COB泛光景观射灯（可调角款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "景观射灯"]
+    design_language:
+      silhouette: "方形灯头+折角颈部+方形基座，整体呈折线型侧影，工程感强"
+      light_opening: "方形正面开口，内置单颗大功率COB LED，带遮光罩挡板"
+      thermal: "灯头壳体即为散热体，壁厚铸铝，无外露散热鳍片"
+      cmf:
+        color: "深青铜棕（Bronze）"
+        material: "压铸铝"
+        finish: "纹理粉末涂层"
+      mounting: "可调角度旋转支架，带刻度盘，接地桩固定"
+      signature_detail: "颈部大型刻度调角盘——视觉上将「精准瞄准」功能外显"
+    design_level:
+      score: 4
+      reason: "刻度盘调角机构将功能工程化细节转化为视觉亮点，遮光罩结构完整，工业感与专业感并重，细节密度高"
+    design_tags: ["可调角", "COB单点光源", "刻度调节", "功能外显", "工程风", "方形灯头"]
+    hero_feature: "外置刻度调角盘——调光方向角度可视化，一眼读出安装状态"
+    problem_solved: "景观射灯安装后难以目测瞄准角度，刻度盘使角度设定可量化"
+    transferable_technique: "将调节机构做成可读刻度盘，把「隐形操作」变成「可见功能点」，适用于任何需要角度调节的工业产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_景观射灯_002"
+    source_images:
+      - filename: "11__from壁挂灯_from泛光灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/景观射灯/11__from壁挂灯_from泛光灯.jpg"
+        image_role: "hero"
+        visual_anchor: "圆饼形灯头+粗纹路边框+螺纹插地杆"
+    product_name: "RAB 圆形插地景观射灯（低压插地款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "景观射灯"]
+    design_language:
+      silhouette: "扁圆饼灯头+短颈铰接点+螺纹插地杆，轮廓低矮紧凑"
+      light_opening: "圆形正面大开口，网格扩散板，多LED阵列均匀照射"
+      thermal: "灯头边框宽厚，铸铝一体，兼作散热"
+      cmf:
+        color: "深铜棕（Bronze）"
+        material: "铸铝+不锈钢螺纹杆"
+        finish: "消光粉末涂层"
+      mounting: "螺纹插地杆直接插入土壤，铰接调角"
+      signature_detail: "超宽圆形边框+粗齿纹理——视觉上强调「坚固防护」"
+    design_level:
+      score: 3
+      reason: "造型实用工整，圆形开口与宽边框比例协调，但整体语言较为通用，无突出记忆点"
+    design_tags: ["圆形开口", "插地安装", "低压景观灯", "铰接调角", "扁平灯头"]
+    hero_feature: "圆形宽边框+网格扩散板——低矮插地形态，融入草坪不突兀"
+    problem_solved: "景观灯需低调融入绿化，圆饼插地形态体积小、不破坏景观整体性"
+    transferable_technique: "扁圆灯头+插地杆的比例关系，可迁移至庭院路灯、景观指示灯等低位照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_景观射灯_003"
+    source_images:
+      - filename: "11__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/景观射灯/11__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "圆筒形灯体+密集横向散热鳍片+斜插地杆"
+    product_name: "RAB 圆筒插地景观射灯（鳍片散热款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "景观射灯"]
+    design_language:
+      silhouette: "细长圆筒灯体+锥形收口灯头，整体呈炮管状，指向性强"
+      light_opening: "圆形小口径前开口，平面玻璃镜片密封"
+      thermal: "密集横向环形鳍片覆盖灯体中段，散热结构外显"
+      cmf:
+        color: "哑光黑"
+        material: "铸铝"
+        finish: "消光粉末涂层"
+      mounting: "斜切底座+插地杆，固定角度向上投射"
+      signature_detail: "密集横向环形鳍片——将散热结构转化为强烈的视觉节奏感"
+    design_level:
+      score: 4
+      reason: "鳍片密度与间距高度一致，形成强烈的重复节奏，炮管造型轮廓记忆点突出，散热与美观高度统一"
+    design_tags: ["圆筒造型", "横向散热鳍片", "炮管轮廓", "插地安装", "节奏感", "功能外显"]
+    hero_feature: "密集等间距横向鳍片——散热即装饰，形成标志性横纹视觉节奏"
+    problem_solved: "小功率景观射灯散热面积不足，密集鳍片在紧凑体积内最大化散热面积"
+    transferable_technique: "等间距横向鳍片节奏可迁移至任何需要散热的圆柱形产品，形成强辨识度的工业纹理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_景观射灯_004"
+    source_images:
+      - filename: "15__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/景观射灯/15__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "斜切喇叭口灯头+多LED阵列+铰接底座+螺纹进线口"
+    product_name: "RAB 斜切喇叭口景观射灯（多LED款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "景观射灯"]
+    design_language:
+      silhouette: "锥形斜切喇叭口灯头+短颈铰接关节+螺纹基座，侧面呈不对称喇叭轮廓"
+      light_opening: "大口径斜切圆形开口，内置多颗LED集群阵列，带镀铬反射罩"
+      thermal: "灯体壁厚铸铝，无外露鳍片，依靠壳体整体导热"
+      cmf:
+        color: "哑光黑"
+        material: "铸铝"
+        finish: "消光粉末涂层"
+      mounting: "铰接节点+螺纹进线口插地，可调仰角"
+      signature_detail: "斜切喇叭大开口——正面视觉冲击力强，多LED阵列清晰可见"
+    design_level:
+      score: 3
+      reason: "喇叭口斜切设计有一定个性，但整体形态与同类产品区分度中等，LED阵列排布较常规"
+    design_tags: ["喇叭口", "斜切开口", "多LED阵列", "铰接调角", "插地安装"]
+    hero_feature: "斜切大喇叭口+多LED阵列——大开口形态强调高光输出，专业感强"
+    problem_solved: "需要大角度泛光照射的景观场景，斜切喇叭口扩大光照覆盖范围"
+    transferable_technique: "斜切喇叭口形态可迁移至需要宽角度照明的工矿灯、投光灯产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_景观射灯_005"
+    source_images:
+      - filename: "17__from雨棚灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/景观射灯/17__from雨棚灯.jpg"
+        image_role: "hero"
+        visual_anchor: "斜切锥形灯头+COB单点大光源+细颈铰接底座"
+    product_name: "RAB 斜切锥形景观射灯（COB大功率款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "景观射灯"]
+    design_language:
+      silhouette: "平滑锥形灯体+斜切大开口，轮廓干净利落，无多余分件线"
+      light_opening: "大口径斜切圆形开口，单颗COB大芯片，带精密纹理反射镜"
+      thermal: "平滑大锥体壳体即散热体，铸铝一体成型，外壁光滑"
+      cmf:
+        color: "哑光黑"
+        material: "铸铝"
+        finish: "消光粉末涂层"
+      mounting: "细颈铰接底座+螺纹进线口，可调仰角"
+      signature_detail: "大口径COB单光源+精密纹理反射镜——简洁锥体内藏高功率光学系统"
+    design_level:
+      score: 4
+      reason: "造型极简克制，锥体轮廓线流畅，斜切开口与COB大光源的视觉张力强，内外统一，有高端照明产品气质"
+    design_tags: ["锥形灯体", "极简造型", "COB单点光源", "精密反射镜", "铰接调角", "H07极简整合"]
+    hero_feature: "平滑锥体+斜切大开口——极简外壳包裹高功率COB，「少即是多」的工业美学"
+    problem_solved: "景观射灯既需高亮度又需低视觉干扰，平滑锥体在白天融入环境，夜间高效聚光"
+    transferable_technique: "平滑锥体+斜切大开口的减法造型语言，可迁移至需要专业感但不强调功能外显的高端照明或工业产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "空气炸锅"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/空气炸锅/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_airfryer_001"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/空气炸锅/12.jpg"
+        image_role: "hero"
+        visual_anchor: "Philips黑色空气炸锅厨房场景图，高光黑方形机身，正面触控LCD面板，前部抽拉式炸锅"
+    product_name: "Philips 空气炸锅 Essential XL"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "空气炸锅"]
+    design_language:
+      silhouette: "方形截面立方体，前低后高的梯形侧面轮廓；正面倾斜触控面板，底部前抽拉式炸锅"
+      light_opening: "无"
+      thermal: "背面或顶部出风（不可见）"
+      cmf:
+        color: "高光黑"
+        material: "ABS塑料 + 钢化玻璃触控面板"
+        finish: "高光黑机身 + 橙色LCD字符发光"
+      mounting: "台面"
+      signature_detail: "橙色LCD触控面板（显示180°温度+功能图标矩阵），在高光黑机身上形成强烈的暖色发光焦点"
+    design_level:
+      score: 3
+      reason: "橙色LCD在黑色机身上视觉对比强烈，符合Philips厨房品类DNA；整体造型为空炸锅成熟方案，无突破性形态创新"
+    design_tags: ["高光黑", "橙色LCD", "倾斜触控面板", "前抽式炸锅", "Philips厨电语言"]
+    hero_feature: "橙色发光LCD面板在高光黑机身上的强对比——用暖色发光界面赋予烹饪仪式感"
+    problem_solved: "空气炸锅控制界面通常是机械旋钮或小屏，操作精度低；LCD触控面板提升精确控温体验"
+    transferable_technique: "高光深色机身+对比色发光控制界面，用于厨房台面电器提升使用仪式感，可迁移至咖啡机、多功能锅、烤箱"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_airfryer_002"
+    source_images:
+      - filename: "72.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/空气炸锅/72.jpg"
+        image_role: "hero"
+        visual_anchor: "Midea品牌深绿色正方形空气炸锅，顶部金色拱形提手，正面黑色大面积触控屏，餐桌场景"
+    product_name: "Midea 多功能空气炸锅（深绿+金色版）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "空气炸锅"]
+    design_language:
+      silhouette: "正方形截面立方体，四角圆弧；顶部有拱桥形金色金属提手；底部金色基座圈"
+      light_opening: "无"
+      thermal: "背部或侧面出风（不可见）"
+      cmf:
+        color: "墨绿色（哑光） + 香槟金"
+        material: "ABS塑料机身 + 金属提手和基座"
+        finish: "哑光墨绿烤漆 + 香槟金金属件"
+      mounting: "台面"
+      signature_detail: "拱桥形金属提手是功能件与装饰件的融合——既可提携，又是顶部最显眼的视觉焦点；金色+墨绿的配色有复古厨房美学"
+    design_level:
+      score: 4
+      reason: "墨绿+香槟金配色在空炸锅品类非常罕见且高辨识度；拱桥提手将工具属性转化为装饰亮点；整体向精品厨房器物靠拢，有明显差异化"
+    design_tags: ["墨绿+金色", "拱桥提手", "复古厨电美学", "精品器物感", "功能装饰融合"]
+    hero_feature: "拱桥形香槟金金属提手——将空气炸锅从台面家电升格为可展示的厨房器物"
+    problem_solved: "空气炸锅普遍塑料感强、配色单调；墨绿+金配色+拱桥提手赋予产品精品厨具气质，提升桌面陈设价值"
+    transferable_technique: "以金属拱形提手+对比色配色（深色机身+金属件）将小家电向精品厨具靠拢，可迁移至电饭锅、料理机、咖啡机"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

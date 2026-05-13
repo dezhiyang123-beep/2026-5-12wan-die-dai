@@ -1,0 +1,239 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "圆锯"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bosch_圆锯_001"
+    source_images:
+      - filename: "电锯__圆锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__圆锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "有线圆锯CS10，深蓝色机身搭配黑色橡胶握把，大型圆形银色护罩印有BOSCH红色字样，铝合金底板，7-1/4英寸24T锯片，右侧视角"
+      - filename: "电锯__圆锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__圆锯__02.jpg"
+        image_role: "variant"
+        visual_anchor: "有线圆锯CS5，深蓝色机身，银灰色护罩，铸铝底板，左侧俯视角度，结构更紧凑"
+    product_name: "Bosch CS10/CS5 Corded Circular Saw"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "传统手持圆锯形态：机身在上，大圆盘锯片在右侧，铝合金矩形底板水平伸展，整体呈侧向L型轮廓"
+      light_opening: "N/A"
+      thermal: "机身顶部和侧面有规律排列的散热孔阵列"
+      cmf:
+        color: "深蓝色（Bosch Professional标志色）机身主导，银灰色金属护罩，黑色橡胶握把包覆"
+        material: "注塑工程塑料机身，铝合金/镁合金底板，铝合金护罩"
+        finish: "机身哑光蓝，护罩银色金属光泽，底板拉丝或喷漆铝"
+      mounting: "有线（电源线从尾部引出）"
+      signature_detail: "大面积圆形护罩上的BOSCH红色字体标识；底板前端的深度/斜切调节机构"
+    design_level:
+      score: 3
+      reason: "经典专业工具造型，功能导向设计，无突出设计创新，但品牌识别度高、工程细节扎实"
+    design_tags: ["有线", "圆锯", "专业级", "铝底板", "传统造型"]
+    hero_feature: "大圆形银色护罩+BOSCH红字标识，远距离品牌识别点"
+    problem_solved: "直线精准切割木材/板材，大锯片提供足够切深"
+    transferable_technique: "护罩的圆形主视觉元素与品牌字体结合的大面积标识手法（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_圆锯_002"
+    source_images:
+      - filename: "电锯__圆锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__圆锯__03.jpg"
+        image_role: "hero"
+        visual_anchor: "有线蜗轮驱动圆锯，深蓝色机身，镁合金底板印有MAGNESIUM字样，7-1/4英寸24T，握把后置偏高，红色扳机安全锁，侧面斜角调节刻度尺清晰可见"
+    product_name: "Bosch Worm Drive Circular Saw"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "蜗轮驱动圆锯特有轮廓：电机纵向排列，机身更长，握把后移，整体呈水平长条形+锯片侧置"
+      light_opening: "N/A"
+      thermal: "电机外壳散热槽"
+      cmf:
+        color: "深蓝色机身，银色镁合金底板，黑色橡胶握把，红色安全锁"
+        material: "注塑机身，镁合金底板（轻量化）"
+        finish: "哑光蓝，镁合金自然色"
+      mounting: "有线"
+      signature_detail: "蜗轮驱动结构使锯片轴线与电机垂直，侧视轮廓独特；镁合金底板MAGNESIUM标注"
+    design_level:
+      score: 3
+      reason: "蜗轮驱动结构造就独特轮廓，功能性强，轻量化镁底板是工程亮点"
+    design_tags: ["有线", "蜗轮驱动", "镁合金底板", "专业建筑", "侧置锯片"]
+    hero_feature: "蜗轮驱动形成的独特水平长条型轮廓，区别于常规圆锯"
+    problem_solved: "重型框架切割，蜗轮驱动扭矩更大，适合建筑现场粗切"
+    transferable_technique: "电机纵向布局带来的修长轮廓语言（H03分件线重构）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_圆锯_003"
+    source_images:
+      - filename: "电锯__圆锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__圆锯__04.jpg"
+        image_role: "hero"
+        visual_anchor: "导轨圆锯GKT13-325套装，附L-BOXX蓝色收纳箱（橙色卡扣）和集尘适配器，机身蓝色+银色导轨底板，型号标签清晰可见"
+    product_name: "Bosch GKT13-325 Track Saw (Plunge)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "沉入式导轨锯：机身扁平，护罩与底板贴合，配合导轨使用，整体低矮横向轮廓"
+      light_opening: "N/A"
+      thermal: "电机区散热孔"
+      cmf:
+        color: "深蓝色机身，银色铝合金导轨底板，L-BOXX蓝色收纳箱（橙色亮色卡扣）"
+        material: "注塑机身，铝合金底板导轨"
+        finish: "哑光蓝+银色铝"
+      mounting: "有线"
+      signature_detail: "沉入式切割机构（护罩可下压），L-BOXX系统收纳（橙色卡扣为系统标识色）"
+    design_level:
+      score: 4
+      reason: "L-BOXX系统配套设计体现系统化思维，导轨锯本身精度导向造型简洁，整体展现高级工具感"
+    design_tags: ["有线", "导轨锯", "沉入式", "L-BOXX系统", "精密切割"]
+    hero_feature: "L-BOXX蓝色收纳箱+橙色卡扣的系统化配套展示"
+    problem_solved: "需要导轨精准切割大幅面板材，减少撕裂，提升直线精度"
+    transferable_technique: "系统化配套展示手法——工具+收纳+配件整体呈现（H05模块化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_圆锯_004"
+    source_images:
+      - filename: "电锯__圆锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__圆锯__05.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线蜗轮驱动圆锯，深蓝色机身，BITURBO标识，7-1/4英寸，银灰色护罩，底部无电池（裸机），红色触发器安全锁，前部辅助握把"
+      - filename: "电锯__圆锯__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__圆锯__06.jpg"
+        image_role: "variant"
+        visual_anchor: "18V无线圆锯CCS180，深蓝色机身，6-1/2英寸锯片，银灰色护罩，铝底板，裸机展示，顶视角，电池槽在机身底部后方"
+    product_name: "Bosch 18V Cordless Circular Saw (BITURBO / CCS180)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "无线圆锯，机身后端有电池座槽，整体比有线款更方正，重心后移"
+      light_opening: "N/A"
+      thermal: "机身侧面散热孔"
+      cmf:
+        color: "深蓝色主导，银灰色护罩，黑色电池，红色安全触发锁"
+        material: "注塑机身，铝合金护罩/底板"
+        finish: "哑光蓝+银色"
+      mounting: "18V锂电池（CORE18V系统）"
+      signature_detail: "BITURBO字样标识（双马达技术）；裸机状态下电池槽接口外露，呈现模块化接驳感"
+    design_level:
+      score: 4
+      reason: "BITURBO双马达技术在机身设计上有体现，无线化设计克服了传统圆锯绳索干扰，蓝色+BITURBO标识辨识度高"
+    design_tags: ["无线", "18V", "BITURBO", "圆锯", "蜗轮驱动"]
+    hero_feature: "BITURBO标识+后置电池座的模块化视觉语言"
+    problem_solved: "无线自由移动的圆锯切割，BITURBO提供有线级动力"
+    transferable_technique: "技术标签（BITURBO）外显于机身的品牌信任传递（H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_圆锯_005"
+    source_images:
+      - filename: "电锯__圆锯__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__圆锯__07.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线圆锯套装，含工具包+CORE18V电池+充电器，蓝色帆布包，圆锯为深蓝机身6-1/2英寸，银色护罩，铝底板"
+      - filename: "电锯__圆锯__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__圆锯__08.jpg"
+        image_role: "variant"
+        visual_anchor: "18V金属切割圆锯，深蓝色机身搭配黑色金属专用护罩，5英寸切金属锯片，锯片防护设计更封闭，无粉尘收集口"
+    product_name: "Bosch 18V Circular Saw Kit / Metal Cutting Circular Saw"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "标准无线圆锯套装展示；金属切割款护罩更厚重封闭，整体更矮小紧凑"
+      light_opening: "N/A"
+      thermal: "机身侧散热孔"
+      cmf:
+        color: "深蓝色机身，金属切割款护罩为黑色（区别于木工款的银色），Bosch圆形H标志"
+        material: "注塑+铝护罩/底板"
+        finish: "哑光蓝+黑色护罩（金属款）"
+      mounting: "18V CORE电池"
+      signature_detail: "金属切割款通过黑色护罩与木工款形成视觉区分；套装包含蓝色品牌帆布包"
+    design_level:
+      score: 3
+      reason: "套装展示方式清晰，金属切割款通过护罩颜色实现亚款型区分，设计语言统一"
+    design_tags: ["无线", "18V", "圆锯", "金属切割", "套装"]
+    hero_feature: "黑色护罩作为金属切割款的视觉差异化标识"
+    problem_solved: "金属切割应用场景；套装降低用户进入门槛"
+    transferable_technique: "亚款型通过护罩颜色区分应用场景的设计语言（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_圆锯_006"
+    source_images:
+      - filename: "电锯__圆锯__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__圆锯__09.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线圆锯+CORE18V 8.0Ah大容量电池+充电器，深蓝机身，7-1/4英寸锯片，银色护罩，铝底板，前方辅助手柄；CORE18V电池体积明显大于普通电池"
+      - filename: "电锯__圆锯__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__圆锯__10.jpg"
+        image_role: "variant"
+        visual_anchor: "同款18V圆锯+2块CORE18V 4Ah电池套装+充电器+帆布包，强调双电池配置"
+      - filename: "电锯__圆锯__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__圆锯__11.jpg"
+        image_role: "variant"
+        visual_anchor: "同款18V圆锯（无刷）+2块CORE18V 4Ah电池+充电器+帆布包，与10号图高度相似，电池标识稍有差异"
+    product_name: "Bosch 18V Cordless Circular Saw with CORE18V Battery Kit"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "圆锯主体+配件铺陈展示，CORE18V大电池体积感强，套装阵列感"
+      light_opening: "N/A"
+      thermal: "机身散热孔"
+      cmf:
+        color: "深蓝色机身，CORE18V电池黑色+橙红色标识，充电器黑色"
+        material: "注塑机身，铝底板，电池为硬壳模块"
+        finish: "哑光蓝+黑色电池高光标识"
+      mounting: "CORE18V系统（大容量版）"
+      signature_detail: "CORE18V大电池的橙红色标识条纹，在套装展示中形成视觉焦点"
+    design_level:
+      score: 3
+      reason: "套装展示强调电池系统兼容性，CORE18V电池的设计有辨识度，整体设计语言延续品牌统一"
+    design_tags: ["无线", "18V", "CORE18V", "大容量电池", "套装展示"]
+    hero_feature: "CORE18V大电池的橙红色条纹标识——电量/功率信任传递"
+    problem_solved: "提供更长续航的无线圆锯切割，消除有线束缚"
+    transferable_technique: "电池作为视觉焦点的产品系统展示手法（H05模块化+H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

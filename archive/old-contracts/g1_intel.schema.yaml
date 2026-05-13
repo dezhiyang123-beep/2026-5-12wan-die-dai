@@ -1,0 +1,63 @@
+# g1_intel.schema.yaml — G1关卡情报包（scout深度输出，analyst和conceptor的输入）
+
+schema_version: "1.0"
+
+required:
+  project_id:
+    type: string
+  intel_date:
+    type: string
+
+  client_research:
+    type: object
+    fields:
+      confirmed_fields:
+        type: list
+        description: 从客户档案+联网取证确认的字段（字段名+值+置信度+来源）
+      unknown_fields:
+        type: list
+        description: 未能取证的字段，每条附最小验证动作
+
+  competitor_matrix:
+    type: list
+    description: 至少5个直接竞品
+    item_fields:
+      brand: string
+      model: string
+      price: string
+      key_specs: list       # 关键参数，缺失标UNKNOWN
+      differentiator: string # 该竞品的主要卖点
+      user_pain: string     # 用户评论中该竞品被抱怨的点，搜索失败标UNKNOWN
+      source: string        # 数据来源URL或描述
+
+  market_data:
+    type: object
+    fields:
+      price_distribution:
+        type: string
+        description: 市场价格分布描述，需基于≥5个SKU，否则标"有限观察(N=X)"
+      volume_signal:
+        type: string
+        description: 市场规模信号，标置信度[H/M/L]
+      trend_notes:
+        type: string
+        description: 近期技术或需求趋势，标来源
+
+  user_scenarios:
+    type: list
+    description: 目标用户使用场景，每条含场景描述+行为矛盾（做到A就损失B）
+    max_items: 5
+
+  unknown_summary:
+    type: list
+    description: 全部UNKNOWN字段汇总+验证动作，进入analyst风险输入
+
+optional:
+  tech_trends:
+    type: list
+    description: 相关技术趋势，标来源和置信度
+
+validation:
+  - competitor_matrix 最少5条
+  - 每个竞品条目必须有source字段
+  - user_scenarios 每条必须有行为矛盾字段

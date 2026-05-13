@@ -1,0 +1,676 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "智能音箱"
+  tertiary: ""
+source:
+  source_type: "award_collection"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_smart_spk_001"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/03.jpg"
+        image_role: "hero"
+        visual_anchor: "白色方形织物音箱，带弧形提手，书本堆场景"
+    product_name: "便携织物智能音箱（含提手）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "智能音箱", "便携智能音箱"]
+    design_language:
+      silhouette: "近方形箱体，顶部弧形一体化提手，整体轮廓圆润克制"
+      light_opening: "无可见发光件"
+      thermal: "织物覆盖正面，侧面白色塑料外壳，散热被动"
+      cmf:
+        color: "白色"
+        material: "织物+ABS塑料"
+        finish: "亚光织物+哑白塑料"
+      mounting: "桌面放置，提手便于移动"
+      signature_detail: "一体化弧形提手从顶部跨越，右侧面小圆形物理按键"
+    design_level:
+      score: 4
+      reason: "提手造型家居感强，织物材质温润，方圆结合比例协调，北欧风格辨识度高"
+    design_tags: ["织物覆面", "一体提手", "北欧风", "便携", "家居融合"]
+    hero_feature: "弧形一体提手将音箱从电器变为家居摆件"
+    problem_solved: "智能音箱融入家居空间而非显眼突兀"
+    transferable_technique: "提手结构将功能性与装饰性合并，可迁移至台灯/加湿器等桌面产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_002"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/10.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色超薄扁平音箱，顶面触控区，中央蓝色圆形LED指示灯，品牌logo为D字形"
+    product_name: "Bluesound Node 2i 超薄桌面智能音箱"
+    brand_name: "Bluesound"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱", "桌面流媒体音箱"]
+    design_language:
+      silhouette: "极扁平矩形，四角大圆角，高宽比约1:5，低重心设计"
+      light_opening: "顶面中央蓝色圆形LED（语音/状态指示）"
+      thermal: "全黑哑光外壳，无明显散热孔，被动散热"
+      cmf:
+        color: "哑黑+深灰双色分区（顶面左黑右灰）"
+        material: "工程塑料"
+        finish: "左区哑光黑，右区拉丝质感深灰（触控区域区分）"
+      mounting: "桌面平放，极低矮"
+      signature_detail: "顶面左右双材质/双色分区，右侧触控+-键，中置蓝色LED圆环"
+    design_level:
+      score: 3
+      reason: "扁平低矮比例独特，双材质分区功能明确，但整体造型克制保守，缺乏强记忆点"
+    design_tags: ["超扁平", "双色分区", "触控顶面", "流媒体", "Hi-Fi"]
+    hero_feature: "超薄扁平矩形轮廓，几乎贴地，视觉重心极低"
+    problem_solved: "Hi-Fi流媒体设备融入电视柜/书架而不抢眼"
+    transferable_technique: "顶面双材质分区明确划分控制区与状态区，可迁移至其他桌面设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_003"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/11.jpg"
+        image_role: "hero"
+        visual_anchor: "Bluesound同款黑色扁平音箱，3/4角度视图，顶面触控分区清晰"
+    product_name: "Bluesound Node 2i 超薄桌面智能音箱（3/4视角）"
+    brand_name: "Bluesound"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱", "桌面流媒体音箱"]
+    design_language:
+      silhouette: "极扁平矩形，四角大圆角，3/4视角呈现厚度约2cm的超薄形态"
+      light_opening: "顶面中央蓝色圆形LED"
+      thermal: "全黑哑光外壳，底部小脚垫支撑"
+      cmf:
+        color: "哑黑+深灰"
+        material: "工程塑料"
+        finish: "哑光黑+拉丝深灰"
+      mounting: "桌面平放"
+      signature_detail: "3/4视角更清晰呈现超薄厚度与顶面双区布局"
+    design_level:
+      score: 3
+      reason: "与10.jpg为同一产品不同角度，3/4视角更强调超薄比例，辅助理解造型"
+    design_tags: ["超扁平", "双色分区", "触控顶面", "流媒体", "Hi-Fi"]
+    hero_feature: "超薄扁平矩形，3/4视角清晰呈现约2cm的极限厚度"
+    problem_solved: "Hi-Fi流媒体设备融入桌面而不占垂直空间"
+    transferable_technique: "极限压薄思路：将所有控制移至顶面，解放四个侧面，实现超薄比例"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_004"
+    source_images:
+      - filename: "100.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/100.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向矩形便携音箱，深灰色，圆形菱格网罩，顶部黄色金属挂扣+黑色腕绳"
+    product_name: "便携户外蓝牙音箱（竖向矩形+菱格网罩）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "便携蓝牙音箱", "户外音箱"]
+    design_language:
+      silhouette: "竖向矩形，圆角，上半部圆形菱格网罩区，下半部圆形控制区，比例1:1.8"
+      light_opening: "无发光件"
+      thermal: "深灰色铝/塑料外壳，被动散热"
+      cmf:
+        color: "深灰色主体+黄色金属挂扣"
+        material: "铝合金或硬质塑料外壳+金属网罩"
+        finish: "亚光深灰+光泽金黄挂扣"
+      mounting: "手持/腕绳携带，可挂扣固定"
+      signature_detail: "顶部黄色T形金属挂扣搭配黑色皮质腕绳，菱格网罩圆形开口"
+    design_level:
+      score: 3
+      reason: "黄色挂扣点睛效果好，竖向比例适合单手握持，但整体造型较为功能导向，创新度一般"
+    design_tags: ["户外", "便携", "腕绳", "菱格网罩", "竖向", "点缀色"]
+    hero_feature: "黄色金属挂扣+皮质腕绳的户外装备感组合"
+    problem_solved: "户外使用时方便携带和固定，单手握持友好"
+    transferable_technique: "功能性挂扣作为点缀色应用，将工具感与设计感合并"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_005"
+    source_images:
+      - filename: "107.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/107.jpg"
+        image_role: "hero"
+        visual_anchor: "白色矮圆柱智能音箱，顶盖有仿生山峰浮雕起伏，品牌miinĺm，正面三键控制"
+    product_name: "miinĺm 仿生山峰造型智能音箱"
+    brand_name: "miinĺm"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱", "桌面智能音箱"]
+    design_language:
+      silhouette: "矮圆柱体，顶盖有2-3个山峰状有机浮雕隆起，整体比例宽>高"
+      light_opening: "无明显发光件"
+      thermal: "全白亚光，被动散热"
+      cmf:
+        color: "全白"
+        material: "ABS塑料或陶瓷感材质"
+        finish: "全面哑光白，顶盖浮雕面有微妙光影变化"
+      mounting: "桌面放置，底部略内缩"
+      signature_detail: "顶盖仿生山峰浮雕，多峰并列形成有机起伏的触觉/视觉质感"
+    design_level:
+      score: 5
+      reason: "仿生地形浮雕顶面极具辨识度，将音箱从电子产品转化为艺术摆件，全白纯粹强化雕塑感，创新度和记忆点均极高"
+    design_tags: ["仿生", "浮雕", "全白", "艺术感", "桌面雕塑", "山峰造型", "H06仿生"]
+    hero_feature: "顶盖仿山峰浮雕隆起，光影随角度变化，是音箱也是雕塑"
+    problem_solved: "智能音箱从功能设备升级为家居艺术品，陈列价值超越功能价值"
+    transferable_technique: "仿生地形浮雕顶面：将自然形态引入家电顶面，光线随角度创造动态感；可迁移至台灯/加湿器顶盖"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_006"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/22.jpg"
+        image_role: "hero"
+        visual_anchor: "大型黑色竖向PA党会音箱，顶部橙色提手，正面控制面板密集，BASS BOOST按键"
+    product_name: "大型便携派对音箱（PA扬声器）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "派对音箱", "便携PA音箱"]
+    design_language:
+      silhouette: "高竖向椭圆柱体，顶部宽底部窄，高宽比约2:1"
+      light_opening: "控制面板LED指示灯（绿/红），顶部橙色提手"
+      thermal: "黑色塑料外壳，网格散热"
+      cmf:
+        color: "全黑+橙色提手"
+        material: "ABS硬塑料+橡胶提手"
+        finish: "哑光黑+橙色橡胶"
+      mounting: "地面站立，顶部提手便于搬运"
+      signature_detail: "顶部宽橙色一体提手，正面密集控制面板（BASS/TREBLE/ECHO分区）"
+    design_level:
+      score: 2
+      reason: "功能导向设计，控制面板密集复杂，橙色提手为唯一设计亮点，整体缺乏精致感"
+    design_tags: ["PA音箱", "派对", "提手", "大功率", "户外活动"]
+    hero_feature: "顶部宽幅橙色提手兼顾搬运功能与视觉识别"
+    problem_solved: "户外/派对场景大功率扩音，需要方便搬运"
+    transferable_technique: "顶部宽幅搬运提手设计，适用于需要频繁移动的大型音频设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_007"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/23.jpg"
+        image_role: "hero"
+        visual_anchor: "Grundig黑色横卧矩形蓝牙音箱，两端红色X形护角框架，品牌名字母浮雕在织物网罩上"
+    product_name: "Grundig 横向矩形蓝牙便携音箱（X形护角）"
+    brand_name: "Grundig"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携蓝牙音箱", "家用便携音箱"]
+    design_language:
+      silhouette: "横向矩形柱体，四角略圆，两端暴露低音单元并以X形框架保护"
+      light_opening: "无发光件"
+      thermal: "织物网罩+两端金属/塑料端盖，被动散热"
+      cmf:
+        color: "深灰织物+黑色端盖+红色X护角"
+        material: "织物覆面+塑料端盖+红色塑料X形结构件"
+        finish: "哑光织物+哑黑端盖+亮红护角"
+      mounting: "桌面横卧放置"
+      signature_detail: "两端X形红色护角框架同时作为结构防护和视觉识别件，品牌名字母浮雕在织物上"
+    design_level:
+      score: 4
+      reason: "X形护角将结构防护转化为强设计语言，红黑配色对比鲜明，品牌字母浮雕在织物上创意独特，整体完成度高"
+    design_tags: ["X形护角", "织物覆面", "横向柱体", "点缀色", "品牌浮雕", "H08对比强调"]
+    hero_feature: "两端X形红色护角框架，防护即装饰，强视觉记忆点"
+    problem_solved: "便携音箱端部单元容易碰损，X护角在保护低音单元的同时成为最强设计特征"
+    transferable_technique: "将功能性防护结构（护角/护框）设计为品牌视觉符号，H08对比强调手法典型案例"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_008"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/24.jpg"
+        image_role: "hero"
+        visual_anchor: "Grundig同系列两款音箱，绿色横向+珊瑚红竖向，X形护角配色随机身色变化"
+    product_name: "Grundig 横向+竖向蓝牙音箱系列（多色版）"
+    brand_name: "Grundig"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携蓝牙音箱", "家用便携音箱"]
+    design_language:
+      silhouette: "双形态：横向矩形柱（与23.jpg同款绿色）+ 竖向矩形柱（珊瑚红高版），X形护角两款均有"
+      light_opening: "无发光件"
+      thermal: "织物覆面，被动散热"
+      cmf:
+        color: "墨绿色+同色X护角 / 珊瑚红+同色X护角"
+        material: "织物+塑料护角"
+        finish: "哑光织物+哑光护角，护角颜色与机身统一"
+      mounting: "桌面横卧或竖立放置，可切换形态"
+      signature_detail: "X护角颜色随机身色统一变化，系列感强；竖向版右侧面有物理按键列"
+    design_level:
+      score: 4
+      reason: "系列化展示强化品牌DNA一致性，同款设计语言适配两种形态，多色系扩展用户选择维度，展示了良好的设计系统思维"
+    design_tags: ["系列化", "X形护角", "多色系", "双形态", "织物覆面", "H05模块化"]
+    hero_feature: "同一X护角语言在横/竖双形态中复用，颜色与机身全面统一"
+    problem_solved: "系列产品保持家族感同时提供形态选择，满足不同使用场景"
+    transferable_technique: "设计语言跨形态/尺寸复用：核心特征（X护角）在所有SKU中保持一致，颜色跟随机身统一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_009"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/28.jpg"
+        image_role: "hero"
+        visual_anchor: "Google Home Max，白色全织物包覆横向矩形智能音箱，正面4个LED点，底部小脚垫"
+    product_name: "Google Home Max 智能音箱"
+    brand_name: "Google"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱", "桌面智能音箱"]
+    design_language:
+      silhouette: '横向大矩形，四角超大圆角，近似"超级圆角矩形"，高宽比约1:2.5'
+      light_opening: "正面中央4个白色LED点阵（状态指示）"
+      thermal: "全织物包覆，无明显散热孔，底部小脚垫散热"
+      cmf:
+        color: "浅灰白色"
+        material: "全织物覆面+底部硅胶脚垫"
+        finish: "哑光织物，手感柔软，完全隐藏电子感"
+      mounting: "桌面横向放置，脚垫防滑"
+      signature_detail: "几乎全织物覆面无任何硬件外露，仅4个LED点提示智能功能，家居融合极致"
+    design_level:
+      score: 4
+      reason: "全织物覆面彻底消除电子产品感，4个LED极度克制，大圆角矩形饱满亲和，Google家居融合设计哲学的典型标杆"
+    design_tags: ["全织物", "极简LED", "家居融合", "大圆角", "智能音箱标杆", "H07极简整合"]
+    hero_feature: "全织物覆面，彻底将智能音箱变为家居织物摆件，电子感归零"
+    problem_solved: "大尺寸智能音箱放在家中不显突兀，像家具一样自然融入"
+    transferable_technique: "全织物覆面将电子产品软化为家居物件；极少LED点阵作为唯一智能身份标识"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_010"
+    source_images:
+      - filename: "29.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/29.jpg"
+        image_role: "hero"
+        visual_anchor: "Google Home Max黑色版（炭灰织物）竖向放置一对，两侧对称摆放，中间黑胶唱盘"
+    product_name: "Google Home Max 智能音箱（炭灰色·立式·双联场景）"
+    brand_name: "Google"
+    brand_confidence: "high"
+    category_path: ["音箱", "智能音箱", "桌面智能音箱"]
+    design_language:
+      silhouette: "竖向放置时呈高矩形，四角超大圆角，立式比例约1:1.5高宽比"
+      light_opening: "正面4个白色LED点阵"
+      thermal: "全炭灰织物覆面，被动散热"
+      cmf:
+        color: "炭灰黑色"
+        material: "全织物覆面"
+        finish: "哑光深色织物，质感沉稳"
+      mounting: "桌面竖向放置（与横向放置二选一）"
+      signature_detail: "同一产品支持横/竖双向放置，LED点阵在竖向时位于正面下方区域"
+    design_level:
+      score: 4
+      reason: "横竖双向放置的设计灵活度高，黑色版在Hi-Fi场景更具音响感，场景化展示（黑胶唱盘）有效传达使用意图"
+    design_tags: ["全织物", "炭灰", "竖向放置", "双向摆放", "Hi-Fi场景", "H07极简整合"]
+    hero_feature: "横竖双向放置，同一产品两种形态，灵活适配不同桌面空间"
+    problem_solved: "不同桌面空间宽窄差异，横竖切换应对不同摆放需求"
+    transferable_technique: "双向摆放设计：通过对称四角圆角使产品横竖两向均具有良好比例"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_011"
+    source_images:
+      - filename: "38.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/38.jpg"
+        image_role: "hero"
+        visual_anchor: "Philips 5.1家庭影院系统，黑色版，4个细长竖向卫星音箱+1条形音箱+1低音炮+1小型主机"
+    product_name: "Philips TAB8405 家庭影院5.1音响系统（黑色版）"
+    brand_name: "Philips"
+    brand_confidence: "high"
+    category_path: ["音箱", "家庭影院系统", "5.1声道"]
+    design_language:
+      silhouette: "卫星柱：细高竖向柱体，顶端圆弧；低音炮：中型矩形箱；条形音箱：宽扁矩形；整体系列统一"
+      light_opening: "卫星柱顶端小型LED灯"
+      thermal: "黑色织物覆面卫星柱，塑料低音炮/条形音箱，被动散热"
+      cmf:
+        color: "全黑系"
+        material: "织物+塑料"
+        finish: "哑光黑织物卫星柱+哑黑塑料低音炮/条形音箱"
+      mounting: "落地/桌面混合摆放"
+      signature_detail: "卫星柱织物覆面统一系列感，顶部小LED是唯一装饰性发光元素"
+    design_level:
+      score: 2
+      reason: "系统感完整但各单体造型普通，缺乏强设计记忆点，黑色织物方案常规，LED过小不够有力"
+    design_tags: ["家庭影院", "5.1系统", "卫星柱", "织物覆面", "全黑"]
+    hero_feature: "4个细高卫星柱织物覆面统一系列视觉语言"
+    problem_solved: "多声道家庭影院系统视觉统一，不同尺寸单体保持家族感"
+    transferable_technique: "多件套系统设计：统一覆面材质+统一顶部造型圆弧作为系列识别锚点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_012"
+    source_images:
+      - filename: "39.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/39.jpg"
+        image_role: "hero"
+        visual_anchor: "Philips 5.1家庭影院系统，浅灰色版，竖向卫星柱顶端木色装饰盖，条形音箱两端木色收口"
+    product_name: "Philips TAB8405 家庭影院5.1音响系统（灰色+木色版）"
+    brand_name: "Philips"
+    brand_confidence: "high"
+    category_path: ["音箱", "家庭影院系统", "5.1声道"]
+    design_language:
+      silhouette: "与38.jpg同款系统，竖向卫星柱+条形音箱+低音炮+主机"
+      light_opening: "卫星柱顶端小型LED"
+      thermal: "浅灰织物覆面，被动散热"
+      cmf:
+        color: "浅灰色+木色（顶盖/端盖）"
+        material: "织物+塑料+木质/仿木端盖"
+        finish: "哑光浅灰织物+哑光木色端盖"
+      mounting: "落地/桌面混合摆放"
+      signature_detail: "卫星柱顶端木色方形盖片+条形音箱两端木色收口——北欧风CMF升级版"
+    design_level:
+      score: 3
+      reason: "灰色+木色CMF组合显著提升家居融合感，比黑色版更有温度，木质收口细节精致，整体调性更具设计感"
+    design_tags: ["家庭影院", "5.1系统", "木色搭配", "浅灰", "北欧风CMF", "H10材料表达"]
+    hero_feature: "卫星柱顶端木色方盖+条形音箱木色端盖，灰木搭配实现家居融合"
+    problem_solved: "家庭影院系统通常工业感强，木色收口将其温柔化融入北欧家居风格"
+    transferable_technique: "灰色织物主体+木色结构端盖的CMF公式，可广泛迁移至桌面音频/家居电器"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smart_spk_013"
+    source_images:
+      - filename: "40.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/40.jpg"
+        image_role: "hero"
+        visual_anchor: "白色椭圆形智能音箱，顶部圆形盖板悬浮状，腰部一圈蓝绿色金属网罩发光带，极简家居感"
+    product_name: "椭圆形悬浮顶盖智能音箱（蓝绿发光网圈）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "智能音箱", "桌面智能音箱"]
+    design_language:
+      silhouette: "横向大椭圆体，顶部圆形盖板略大于箱体截面呈悬浮感，整体像椭圆盒子"
+      light_opening: "腰部一整圈蓝绿色发光金属网罩带，发光均匀连续"
+      thermal: "白色主体+金属网罩腰带，发光网罩可能兼具散热"
+      cmf:
+        color: "全白+蓝绿色发光网罩"
+        material: "ABS塑料主体+金属网罩发光带"
+        finish: "哑白塑料+半透明/穿孔金属网"
+      mounting: "桌面放置，椭圆底面稳定"
+      signature_detail: "腰部一整圈蓝绿色发光金属网罩，将音箱分为上白盖+中发光圈+下白体三段"
+    design_level:
+      score: 4
+      reason: "腰部一整圈发光网罩分割比例优雅，蓝绿色与白色对比高级，悬浮感顶盖细节出色，整体有很强的艺术装置感"
+    design_tags: ["椭圆形", "发光腰带", "悬浮顶盖", "蓝绿色", "金属网罩", "三段分割", "H08对比强调"]
+    hero_feature: "腰部一整圈蓝绿发光金属网罩，将功能散热口升级为核心视觉特征"
+    problem_solved: "智能音箱状态/发声方向视觉化，发光腰带360度均匀环绕提示工作状态"
+    transferable_technique: "腰部环形发光分割带：将音箱分为上中下三段，中段发光网圈同时承担散热+状态指示+核心记忆点三重功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ── 以下6张为分类错误图片，需人工审核 ──────────────────────────────
+
+  - product_id: "if_smart_spk_014"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/04.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形TWS耳机充电盒（开盖），灰色，两颗入耳耳机，品牌logo为折线形"
+    product_name: "TWS真无线耳机套装（圆形充电盒）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["耳机", "TWS耳机"]
+    design_language:
+      silhouette: "正圆形充电盒，斜切开盖，两颗类球形耳机入座"
+      light_opening: "盒体正面4个LED电量指示点"
+      thermal: "全灰哑光塑料"
+      cmf:
+        color: "浅灰色"
+        material: "ABS塑料"
+        finish: "哑光灰"
+      mounting: "手持/口袋携带"
+      signature_detail: "充电盒斜切开口角度，耳机入座时面部朝上可见"
+    design_level:
+      score: 3
+      reason: "充电盒圆形设计简洁，斜切开口有设计感，但品类判断错误，不属于智能音箱"
+    design_tags: ["TWS耳机", "圆形充电盒", "分类错误"]
+    hero_feature: "圆形充电盒斜切开盖，耳机面部自然朝上"
+    problem_solved: "TWS耳机收纳与充电"
+    transferable_technique: "充电盒斜切开口：让产品在开盖状态下展示内容物正面，开盒即展示"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "分类错误：图片为TWS耳机+充电盒，非智能音箱，建议移至耳机品类素材库"
+
+  - product_id: "if_smart_spk_015"
+    source_images:
+      - filename: "105.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/105.jpg"
+        image_role: "hero"
+        visual_anchor: "MERRY品牌TWS耳机，白绿配色，椭圆形充电盒，耳机有微型方形显示屏"
+    product_name: "MERRY TWS耳机套装（白绿色·带小屏）"
+    brand_name: "MERRY"
+    brand_confidence: "high"
+    category_path: ["耳机", "TWS耳机"]
+    design_language:
+      silhouette: "椭圆形充电盒，耳机为入耳豆型，右侧耳机有微型方形LED/显示屏"
+      light_opening: "耳机小方形显示屏"
+      thermal: "白色+浅绿腰线"
+      cmf:
+        color: "白色主体+浅绿色腰线"
+        material: "环保材质（盒面有颗粒纹理）+塑料"
+        finish: "哑白磨砂+浅绿光面腰线"
+      mounting: "口袋/随身携带"
+      signature_detail: "耳机内侧有微型显示屏，充电盒腰部浅绿色分割线"
+    design_level:
+      score: 3
+      reason: "耳机内置微型显示屏是功能创新点，环保材质纹理有设计意识，但品类判断错误"
+    design_tags: ["TWS耳机", "微型显示屏", "环保材质", "分类错误"]
+    hero_feature: "耳机内置微型方形显示屏，可显示状态信息"
+    problem_solved: "TWS耳机状态可视化"
+    transferable_technique: "耳机/小型设备内置微型显示屏，将不可见状态变为可视"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "分类错误：图片为MERRY品牌TWS耳机，非智能音箱，建议移至耳机品类素材库"
+
+  - product_id: "if_smart_spk_016"
+    source_images:
+      - filename: "111.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/111.jpg"
+        image_role: "hero"
+        visual_anchor: "Astell&Kern IRIVER高端DAP播放器，钛灰色+碳纤维背板，多切面金属机身，大屏幕，两侧旋钮"
+    product_name: "Astell&Kern IRIVER 高端便携数字音乐播放器（DAP）"
+    brand_name: "Astell&Kern"
+    brand_confidence: "high"
+    category_path: ["数字音频", "便携播放器", "Hi-Fi DAP"]
+    design_language:
+      silhouette: "多切面不规则四边形，正面大触摸屏，两侧各一个金属旋钮，背面碳纤维纹路"
+      light_opening: "大尺寸显示屏"
+      thermal: "钛灰色铝合金多切面机身，背面碳纤维板"
+      cmf:
+        color: "钛灰色+碳纤维黑"
+        material: "铝合金+碳纤维复合材料"
+        finish: "金属多切面+碳纤维编织纹"
+      mounting: "手持便携"
+      signature_detail: "多切面斜边机身+碳纤维背板+两侧对称金属旋钮，高端Hi-Fi感十足"
+    design_level:
+      score: 4
+      reason: "多切面金属机身工艺精湛，碳纤维背板高端感强，旋钮+切面造型极具辨识度，但品类判断错误"
+    design_tags: ["DAP", "Hi-Fi", "多切面", "碳纤维", "金属旋钮", "分类错误"]
+    hero_feature: "多切面斜边铝合金机身+碳纤维背板，高端影音器材质感"
+    problem_solved: "Hi-Fi级便携音频播放，强调材质工艺传递声音品质信任感"
+    transferable_technique: "多切面金属机身：通过切面产生光影变化，提升金属感和高端感，可迁移至手持音频设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "分类错误：图片为Astell&Kern高端DAP播放器，非智能音箱，建议移至便携播放器品类"
+
+  - product_id: "if_smart_spk_017"
+    source_images:
+      - filename: "116.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/116.jpg"
+        image_role: "hero"
+        visual_anchor: "Realme Buds Q黑色TWS耳机，蛋形充电盒开盖，两颗圆头耳机，黄色内圈装饰"
+    product_name: "Realme Buds Q TWS耳机（黑色版）"
+    brand_name: "Realme"
+    brand_confidence: "high"
+    category_path: ["耳机", "TWS耳机"]
+    design_language:
+      silhouette: "蛋形充电盒，圆头豆式耳机，充电盒上盖弧度大于下盖"
+      light_opening: "无"
+      thermal: "全黑哑光塑料"
+      cmf:
+        color: "全黑+黄色内圈"
+        material: "ABS塑料"
+        finish: "哑光黑+黄色光面内圈"
+      mounting: "口袋携带"
+      signature_detail: "耳机内侧黄色圆环，品牌R字LOGO在耳机面板上"
+    design_level:
+      score: 2
+      reason: "常规蛋形充电盒设计，黄色内圈是唯一亮点，整体设计平淡，品类判断错误"
+    design_tags: ["TWS耳机", "蛋形充电盒", "黄色点缀", "分类错误"]
+    hero_feature: "黄色圆环内圈点缀，黑底黄框对比"
+    problem_solved: "TWS耳机日常携带收纳"
+    transferable_technique: "耳机面板内圈点缀色，成本极低的视觉差异化手段"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "分类错误：图片为Realme Buds Q TWS耳机，非智能音箱，建议移至耳机品类素材库"
+
+  - product_id: "if_smart_spk_018"
+    source_images:
+      - filename: "117.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/117.jpg"
+        image_role: "hero"
+        visual_anchor: "Realme Buds Q黑色TWS耳机，充电盒正面俯视，两颗耳机入座，黄色内圈清晰可见"
+    product_name: "Realme Buds Q TWS耳机（黑色版·俯视角）"
+    brand_name: "Realme"
+    brand_confidence: "high"
+    category_path: ["耳机", "TWS耳机"]
+    design_language:
+      silhouette: "与116.jpg同款，正面俯视视角，充电盒内两耳机对称入座"
+      light_opening: "无"
+      thermal: "全黑哑光塑料"
+      cmf:
+        color: "全黑+黄色内圈"
+        material: "ABS塑料"
+        finish: "哑光黑+黄色内圈"
+      mounting: "口袋携带"
+      signature_detail: "俯视角清晰展示双耳机入座对称布局和黄色内圈细节"
+    design_level:
+      score: 2
+      reason: "同116.jpg产品不同角度，俯视展示内部布局，品类判断错误"
+    design_tags: ["TWS耳机", "蛋形充电盒", "黄色点缀", "分类错误"]
+    hero_feature: "俯视角双耳机对称入座，黄色内圈细节"
+    problem_solved: "展示TWS耳机充电盒内部布局"
+    transferable_technique: "充电盒开盖俯视视角展示内部对称美感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "分类错误：图片为Realme Buds Q TWS耳机（俯视角），非智能音箱，建议移至耳机品类素材库；与116.jpg为同一产品"
+
+  - product_id: "if_smart_spk_019"
+    source_images:
+      - filename: "34.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/智能音箱/34.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色椭圆形TWS耳机充电盒（空盒开盖），充电针脚+按键可见，4个LED指示点"
+    product_name: "TWS耳机充电盒（空盒开盖视角·黑色）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["耳机", "TWS耳机", "充电盒"]
+    design_language:
+      silhouette: "椭圆形充电盒，上盖弧度大，开盖近180度展示内部充电槽"
+      light_opening: "盒底边缘4个LED电量指示白点"
+      thermal: "全黑哑光塑料"
+      cmf:
+        color: "全黑"
+        material: "ABS塑料"
+        finish: "哑光黑，内部细节铜色充电针"
+      mounting: "口袋携带"
+      signature_detail: "内部中央播放/暂停控制按键浮雕，铜色充电针脚，4个LED底边排列"
+    design_level:
+      score: 2
+      reason: "内部设计功能完整，铜色充电针是细节亮点，但品类判断错误且为空盒无耳机参考价值有限"
+    design_tags: ["TWS充电盒", "开盖视角", "铜色针脚", "分类错误"]
+    hero_feature: "充电盒内部铜色充电针+中央控制按键的精密感布局"
+    problem_solved: "TWS耳机充电与存储"
+    transferable_technique: "产品内部功能细节的精密化处理，铜色金属针脚提升内部工艺感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "分类错误：图片为TWS耳机充电盒空盒（无耳机），非智能音箱，建议移至耳机品类素材库"

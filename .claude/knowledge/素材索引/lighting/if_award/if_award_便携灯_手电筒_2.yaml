@@ -1,0 +1,511 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "便携灯"
+  tertiary: "手电筒"
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/"
+  generated_at: "2026-05-08"
+  batch: 2
+  file_range: "positions 25-48 (30.jpg – 56.jpg)"
+
+products:
+  - product_id: "if_便携灯_手电筒_b2_01"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/30.jpg"
+        image_role: "hero"
+        visual_anchor: "斜45°全身照：手枪形提灯，顶部矩形提手中央有两枚橙色方形按键，桶身满布菱形散热鳍片，前端大口径圆形灯头配橙色铝合金外圈，右侧品牌标签印'CYBER-LIGHT KM-9710 80W IPX8'"
+      - filename: "31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/31.jpg"
+        image_role: "rear"
+        visual_anchor: "尾端视角：可见侧面长条形白色COB泛光板（副光源）及LCD电量显示屏，尾盖带旋纹，整体桶身鳍片结构清晰"
+    product_name: "KamisaFe CYBER-LIGHT 手持强光提灯"
+    brand_name: "KamisaFe"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "手枪式提灯形态：顶部一体式矩形提手 + 圆柱形桶身 + 大口径聚光灯头，整体比例粗壮有力，宽高比约1:1.2，手提/手持两用"
+      light_opening: "前端大口径深抛物面反光碗（主光源，远射聚光）+ 侧面横向条形COB泛光板（副光源，近场泛光），双出光逻辑"
+      thermal: "桶身全周密集菱形鳍片纹理，既是散热结构也是握持防滑纹，功能与触感合一"
+      cmf:
+        color: "主体哑光深灰黑 + 橙色强调（灯头外圈、按键、品牌色）+ 白色COB面板，经典户外工具配色"
+        material: "ABS工程塑料桶身 + 铝合金灯头外圈 + 钢化玻璃镜片"
+        finish: "桶身纹理磨砂；灯头外圈阳极氧化橙色；按键橡胶橙色"
+      mounting: "顶部一体提手手提；尾部可推测有磁吸底座（通用手持提灯形态）"
+      signature_detail: "橙色阳极氧化铝合金灯头外圈 + 双出光（前聚光+侧泛光）设计，一灯两用无需换光源模式"
+    design_level:
+      score: 3
+      reason: "功能整合扎实（双光源+LCD电量显示），橙色外圈作为品牌色识别度高，但整体造型偏工具感，设计语言较常规"
+    design_tags: ["提灯", "双光源", "聚光+泛光", "橙色强调", "菱形鳍片", "户外工具", "H11功能外显", "H08对比强调"]
+    hero_feature: "大口径前聚光 + 侧面COB泛光板双光源一体整合，配合橙色铝圈视觉标识"
+    problem_solved: "户外强光搜索（远射）与营地泛光（近场照明）需要携带两款灯的问题"
+    transferable_technique: "侧面条形COB泛光板作为副光源嵌入圆柱桶身，可迁移至任何手持照明产品的多模式设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_02"
+    source_images:
+      - filename: "32.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/32.jpg"
+        image_role: "hero"
+        visual_anchor: "四视图并列展示：左起①银白色完整体；②尾盖旋开露出充电插头的拆解状态（内藏USB-A充电头）；③深灰色完整体点亮状态，顶端发出强光；④深灰色完整体侧面，可见中央圆形按键和'Designed by BEEBEST'刻字，整体为纯圆柱形极简造型"
+    product_name: "BEEBEST 极简圆柱手电筒"
+    brand_name: "BEEBEST"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "等径纯圆柱体，无灯头扩径，尾盖与桶身齐平，顶端仅微小LED出光面，整体如一根铝棒，比例约1:5（直径:长度）"
+      light_opening: "顶端极小圆形LED出光口，直径约为桶径的30%，无反光碗/无聚焦透镜结构，偏泛光"
+      thermal: "全铝一体加工，外表面光滑，无鳍片，依赖整体金属体导热散热"
+      cmf:
+        color: "双配色：香槟银白 / 深空灰，两色均无装饰性彩色元素"
+        material: "全铝合金CNC一体加工"
+        finish: "哑光阳极氧化，品牌名激光蚀刻，表面无凸起纹理"
+      mounting: "纯手持圆柱，无磁吸/无挂钩，尾盖藏USB-A充电插头（可为其他设备充电）"
+      signature_detail: "尾盖内藏USB-A充电头，旋开即可为手机充电，手电筒即移动电源，功能隐藏于极简外观之内"
+    design_level:
+      score: 4
+      reason: "极简主义执行彻底：等径圆柱+无装饰线+内藏充电头，设计语言高度克制，尾盖藏充电头是真正的H09隐藏工程"
+    design_tags: ["极简圆柱", "等径", "内藏充电头", "铝合金CNC", "双色", "H07极简整合", "H09隐藏工程", "H10材料表达"]
+    hero_feature: "尾盖旋开即露出USB-A充电插头，手电即充电宝，功能无缝隐藏于纯圆柱造型"
+    problem_solved: "户外携带多余充电宝的负担；同时解决手电筒外观工具感过重的问题"
+    transferable_technique: "将功能件（充电接口）完全隐藏于旋盖内，外观零妥协，可迁移至任何便携工具的'工具即充电宝'设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_03"
+    source_images:
+      - filename: "34.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/34.jpg"
+        image_role: "hero"
+        visual_anchor: "户外场景照：手电筒横躺在湿润苔藓岩石上，桶身为沙漠卡其色橡胶包覆，尾端为黑色旋纹铝合金，前端黑色铝合金带旋纹齿，中段有圆形黑色橡胶侧按键，水滴挂在橡胶表面，可见品牌'ELECOM'字样"
+    product_name: "ELECOM 户外防水橡胶包覆手电筒"
+    brand_name: "ELECOM"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "三段式圆柱：前端黑色铝合金灯头（有旋纹齿）+ 中段卡其色橡胶包覆主体 + 尾端黑色铝合金旋盖，整体等径，比例约1:4"
+      light_opening: "前端小口径LED出光口，配浅聚光透镜，出光面直径约为桶径的40%"
+      thermal: "前端铝合金灯头段负责散热，中段橡胶为隔热兼握持层"
+      cmf:
+        color: "沙漠卡其（中段橡胶）+ 哑光黑（两端铝合金），双色对比强调材质分区"
+        material: "铝合金（前后端）+ 橡胶包覆（中段主体），防水设计"
+        finish: "铝合金端部旋纹机加工；橡胶段哑光皮质感；IPX防水等级"
+      mounting: "纯手持，尾部推测有挂绳孔"
+      signature_detail: "沙漠卡其色橡胶包覆中段——色彩语言跳出工具黑，赋予户外手电时装感；橡胶包覆防滑防摔防水三合一"
+    design_level:
+      score: 3
+      reason: "卡其色橡胶包覆的配色策略有记忆点，跳出了手电筒全黑的惯例，但整体造型较为传统"
+    design_tags: ["橡胶包覆", "户外防水", "卡其色", "三段式", "H02包覆", "H10材料表达", "H08对比强调"]
+    hero_feature: "沙漠卡其色橡胶包覆中段，颠覆手电筒'全黑工具'的固有色彩语言"
+    problem_solved: "户外手电筒握持湿滑、外观单调问题；橡胶包覆同时解决防水、防摔、防滑三重需求"
+    transferable_technique: "以色彩鲜明的橡胶包覆替代传统铝合金握柄段，可迁移至任何手持工具的差异化配色+包覆策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_04"
+    source_images:
+      - filename: "36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/36.jpg"
+        image_role: "hero"
+        visual_anchor: "正面竖版：白色铝合金等径圆柱体，中央一枚圆角矩形按键（白色面板+蓝色发光环），下方印'OLIGHT'品牌字，底端可见小圆孔（充电口），尾端轻微扩径，整体极简"
+      - filename: "37.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/37.jpg"
+        image_role: "detail"
+        visual_anchor: "灯头正面特写：五边形（正五角形）铝合金灯头外框，内嵌大圆形黄色TIR光学透镜，中央小方形LED芯片清晰可见，灰色密封圈环绕，整体造型独特"
+    product_name: "Olight 五角形灯头白色手电筒"
+    brand_name: "Olight"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "白色等径圆柱桶身 + 五边形（正五角形）灯头，桶身与灯头形状对比强烈，圆柱遇五角形是核心视觉冲突"
+      light_opening: "五边形外框内的大圆形TIR黄色光学透镜，透镜直径约为灯头对角线的75%，LED芯片居中可见"
+      thermal: "铝合金全身，无外露鳍片，依靠整体金属散热"
+      cmf:
+        color: "珠光白主体 + 蓝色按键发光环（功能状态指示）+ 银色铝合金尾端，清新简洁"
+        material: "铝合金CNC加工，整体一体感强"
+        finish: "高光阳极氧化白色；按键圆角矩形凸起，蓝色LED环嵌于按键边缘"
+      mounting: "纯手持，尾端小圆孔为磁吸充电口（推测）"
+      signature_detail: "正五边形铝合金灯头框架——在圆柱形主体上突然出现五角形几何，形成强烈的形状对比记忆点"
+    design_level:
+      score: 4
+      reason: "圆柱体+五边形灯头的形状语言对比是真正原创的Hero Feature，白色配色强化了与传统黑色手电的品类差异感"
+    design_tags: ["五边形灯头", "形状对比", "白色铝合金", "TIR透镜", "Olight", "H08对比强调", "H01减法", "H10材料表达"]
+    hero_feature: "正五边形铝合金灯头框架嵌入圆柱体——几何形状的冲突即是记忆点"
+    problem_solved: "手电筒灯头千篇一律为圆形，五边形灯头在相同功能下创造了唯一性视觉识别"
+    transferable_technique: "在圆柱形主体末端使用非圆形几何收口（五边形/六边形/方形），以形状对比创造Hero Feature，可迁移至任何圆柱形手持工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_05"
+    source_images:
+      - filename: "38.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/38.jpg"
+        image_role: "hero"
+        visual_anchor: "竖版正面：极小黑色圆柱体（约拇指大小），全身斜纹滚花纹理，中段印白色'i1R 2 Pro'及Olight箭头logo，顶端小出光口，顶部金属钥匙环扣，可见序列号L000000001"
+      - filename: "39.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/39.jpg"
+        image_role: "context"
+        visual_anchor: "斜45°视角：同款黑色钥匙扣手电筒横躺，可见前端小出光口、斜纹滚花全身覆盖，钥匙环在尾端，整体约4cm长"
+    product_name: "Olight i1R 2 Pro 钥匙扣迷你手电筒"
+    brand_name: "Olight"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "超小圆柱体（约Φ14mm×40mm），全身等径，比例约1:3，尾端整合金属钥匙环，整体如一颗子弹"
+      light_opening: "顶端最小化LED出光口，无透镜/无反光碗，泛光照射，出光面直径约5mm"
+      thermal: "全铝一体CNC，尺寸极小，热量通过铝合金外壳直接散发"
+      cmf:
+        color: "哑光黑，单色，无装饰彩色"
+        material: "航空铝合金CNC精密加工"
+        finish: "全身斜纹滚花（45°方向），增加握持摩擦力，也是唯一装饰元素；白色激光蚀刻产品名"
+      mounting: "尾端一体金属钥匙环，随钥匙串携带"
+      signature_detail: "全身45°斜纹滚花作为唯一装饰语言，在极小尺寸下提供精密工具感；钥匙环一体成型无任何附加件"
+    design_level:
+      score: 4
+      reason: "极致小型化执行完整，全身斜纹滚花在1cm直径上保持精密工具质感，钥匙环一体无妥协，序列号L000000001暗示限量纪念意义"
+    design_tags: ["钥匙扣手电", "迷你", "斜纹滚花", "极小圆柱", "铝合金CNC", "Olight", "H01减法", "H10材料表达", "H07极简整合"]
+    hero_feature: "全身45°斜纹滚花——在极小尺寸上用单一纹理语言实现精密工具质感，无需任何色彩装饰"
+    problem_solved: "日常钥匙串缺少可靠照明工具；传统手电太大不便随身携带"
+    transferable_technique: "在小尺寸圆柱体上用全覆盖斜纹滚花替代色彩装饰，既防滑又提升工具感，可迁移至任何小型手持设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_06"
+    source_images:
+      - filename: "40.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/40.jpg"
+        image_role: "hero"
+        visual_anchor: "斜45°：纯白色方形截面手电筒，前端圆角方形灯头内嵌大圆形深抛物面银色反光碗，顶面有两个小圆点（指示灯/按键），可见Yeelight几何logo，整体如白色方块加圆口"
+      - filename: "41.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/41.jpg"
+        image_role: "context"
+        visual_anchor: "三视图展示可转向灯头：左起①灯头收起与桶身同轴；②灯头向上折转约45°；③灯头向上折转约90°，底部可见六边形尾端，灯头转动轴为铰链结构"
+      - filename: "44.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/44.jpg"
+        image_role: "detail"
+        visual_anchor: "灯头正面极近特写：圆角方形铝合金收边框 + 内圈拉丝香槟金环 + 大圆形高透明玻璃镜片，镜片后可见TIR光学结构，单独侧面圆形小按键"
+    product_name: "Yeelight 方形截面可转向头手电筒"
+    brand_name: "Yeelight"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "方形截面棱柱桶身（非圆柱）+ 可绕铰链旋转的圆角方形灯头，灯头可0°-90°转动，手持时可改变出光方向，截面为方形是最大形态突破"
+      light_opening: "圆角方形框架内的大圆形TIR镜片，拉丝金色内圈装饰环，镜片直径约为灯头宽度的75%"
+      thermal: "纯白色铝合金/ABS外壳，整体散热依赖表面积"
+      cmf:
+        color: "纯白主体 + 香槟拉丝金灯头内圈（唯一装饰色）"
+        material: "白色ABS/铝合金桶身 + 铝合金灯头框 + 高透明玻璃镜片"
+        finish: "全身高光白色；灯头内圈拉丝阳极氧化香槟金；顶面哑光"
+      mounting: "纯手持，方形截面防止桌面滚动，铰链转向头可调角度立于桌面当台灯"
+      signature_detail: "方形截面桶身 + 铰链可旋转灯头：方形截面在手电筒品类中极为罕见，铰链头使其兼具台灯功能"
+    design_level:
+      score: 4
+      reason: "方形截面是对手电筒'必须圆柱'假设的直接挑战，铰链转向头使产品功能从单一手电延伸至台灯/工作灯，香槟金内圈精致"
+    design_tags: ["方形截面", "铰链转向头", "白色", "香槟金", "Yeelight", "多功能", "H05模块化", "H08对比强调", "品类假设挑战"]
+    hero_feature: "方形截面桶身打破圆柱惯例 + 铰链可旋转灯头（0-90°）——一款产品同时是手电筒和台灯"
+    problem_solved: "圆柱手电放在桌面会滚动；单一出光方向限制了使用场景"
+    transferable_technique: "将手持工具的圆柱截面改为方形，防滚动且提供不同握感；铰链转向出光头可迁移至任何需要方向可调照明的便携产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_07"
+    source_images:
+      - filename: "45.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/45.jpg"
+        image_role: "context"
+        visual_anchor: "场景图：白色圆柱手电筒横置桌面，尾端USB-C口连接白色线缆，上方一部黑色智能手机也连接同一充电器——展示手电筒为手机充电的移动电源功能，手电筒前端为拉丝香槟色铝合金灯头"
+    product_name: "Yeelight 白色圆柱手电/移动电源二合一"
+    brand_name: "Yeelight"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "标准等径圆柱体，灯头端微微扩径，拉丝金属灯头 + 白色ABS桶身，比例约1:4.5"
+      light_opening: "圆柱顶端小口径LED出光口，灯头为拉丝香槟色铝合金材质"
+      thermal: "金属灯头段散热，白色ABS桶身段为电池舱"
+      cmf:
+        color: "珠光白桶身 + 拉丝香槟金灯头，双材质双色温和过渡"
+        material: "ABS注塑桶身 + 铝合金灯头"
+        finish: "桶身哑光白色；灯头拉丝阳极氧化香槟金；尾端USB-C接口"
+      mounting: "纯手持；尾端USB-C口双向充电（可充入也可输出给手机）"
+      signature_detail: "USB-C双向充电——手电即移动电源，纯白外观与手机/数码产品同语境，降低EDC(日常携带)心理门槛"
+    design_level:
+      score: 3
+      reason: "白色+香槟金配色语言融入消费电子生态，USB-C充电宝功能实用，但造型本身较为常规"
+    design_tags: ["移动电源二合一", "白色圆柱", "香槟金灯头", "USB-C双向", "Yeelight", "H09隐藏工程", "H07极简整合"]
+    hero_feature: "USB-C双向充电，手电筒即移动电源，白色外观融入消费电子语境"
+    problem_solved: "户外/旅行中携带手电+充电宝双重负担"
+    transferable_technique: "将移动电源功能整合入手电筒，以白色消费电子色彩语言替代传统黑色工具语言，扩大EDC用户群"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_08"
+    source_images:
+      - filename: "42.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/42.jpg"
+        image_role: "hero"
+        visual_anchor: "斜45°仰视：军绿色扁平矩形灯体，顶部安装一枚大圆形LED模组，模组外圈为金属圆环，内圈密布彩色LED（RGB多色），中央主LED，右侧可见小圆形侧按键，正面印'WURKKOS'白色logo，背景浅蓝渐变"
+    product_name: "Wurkkos 军绿RGB环形多色手电筒"
+    brand_name: "Wurkkos"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "扁平竖向矩形灯体（如手机形态）+ 顶端横置大圆形RGB LED模组，两者垂直组合，整体形态与传统手电完全不同，更接近专业摄影补光灯"
+      light_opening: "顶端圆形模组：外圈RGB彩色LED环（多彩装饰/信号灯功能）+ 中央主白光LED（照明功能），双层出光"
+      thermal: "金属圆形模组框架散热，矩形灯体内含电池"
+      cmf:
+        color: "军绿色哑光铝合金灯体（OD Green）+ 银色金属模组环，户外装备配色"
+        material: "铝合金灯体 + 金属LED模组框"
+        finish: "军绿色阳极氧化哑光；模组框金属拉丝"
+      mounting: "矩形灯体下端推测有夹扣/磁吸底座（矩形灯体形态暗示）"
+      signature_detail: "圆形RGB多色LED环作为主视觉焦点，既是功能（彩色信号/氛围）又是装饰，军绿机身+彩色灯环形成强烈对比"
+    design_level:
+      score: 3
+      reason: "RGB彩环+军绿机身的视觉对比有记忆点，但矩形灯体的造型细节设计普通，整体更像功能堆砌"
+    design_tags: ["RGB环形", "军绿色", "矩形灯体", "多色LED", "Wurkkos", "H08对比强调", "H11功能外显"]
+    hero_feature: "圆形RGB多色LED环嵌于军绿色矩形灯体顶端，彩色与哑光军绿的视觉反差"
+    problem_solved: "户外信号识别（RGB彩色可用于SOS/方向指示）兼照明功能合一"
+    transferable_technique: "将RGB彩色LED环作为功能状态可视化语言，嵌于主体顶端，可迁移至任何需要状态指示的便携设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_09"
+    source_images:
+      - filename: "46.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/46.jpg"
+        image_role: "hero"
+        visual_anchor: "斜45°：KamisaFe头灯，深灰色方形灯体，正面左右各一枚矩形蜂窝纹COB泛光灯，中央突出一枚橙色外圈圆柱形聚光LED头（带旋纹齿），顶面四颗蓝色LED指示灯+小圆按键，右侧金属卡扣头带连接件，整体方正硬朗"
+      - filename: "47.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/47.jpg"
+        image_role: "detail"
+        visual_anchor: "正上方俯视：头灯正面中央橙色圈圆柱聚光头朝上，左右两侧蜂窝纹COB灯板，底部橙色面板上三枚橙色橡胶方形按键（各有功能图标），中央充电图标按键居中，整体呈T形布局"
+    product_name: "KamisaFe 三光源户外头灯"
+    brand_name: "KamisaFe"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "方形灯体正面：左右两枚矩形COB面板对称排列，中央凸出橙圈圆柱聚光头，整体呈T形视觉布局；灯体厚度适中，重心集中，头戴稳定"
+      light_opening: "三光源：①中央圆柱聚光LED（远射，橙色外圈强调）②左侧矩形COB泛光（近场）③右侧矩形COB泛光（近场），三灯可独立控制"
+      thermal: "铝合金/工程塑料外壳，COB灯板直接接触外壳散热"
+      cmf:
+        color: "深灰黑主体 + 橙色强调（聚光头外圈、按键面板、品牌色）+ 蓝色LED指示灯"
+        material: "工程塑料灯体 + 铝合金聚光头 + 橡胶按键"
+        finish: "灯体磨砂深灰；聚光头旋纹铝合金橙色；COB面板蜂窝纹透明保护罩"
+      mounting: "背面头带卡扣，标准头灯佩戴方式"
+      signature_detail: "三光源T形布局 + 橙色聚光头中央突出，视觉上形成'眼睛'意象，功能布局直接外显于正面"
+    design_level:
+      score: 3
+      reason: "三光源功能整合完整，橙色外圈视觉标识延续品牌语言，但整体造型语言与KamisaFe手电相似度高，缺乏独立记忆点"
+    design_tags: ["头灯", "三光源", "聚光+泛光", "橙色外圈", "蜂窝纹COB", "KamisaFe", "H11功能外显", "H08对比强调"]
+    hero_feature: "三光源T形布局：中央聚光+双侧COB泛光，橙色聚光头在灰色方形灯体中央突出，形成'独眼'视觉标识"
+    problem_solved: "户外头灯在近场泛光与远场聚光之间需要切换，三灯设计可同时开启"
+    transferable_technique: "将多光源功能在正面可视化布局，以橙色外圈突出主光源，可迁移至任何多功能照明工具的正面视觉层级设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_10"
+    source_images:
+      - filename: "48.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/48.jpg"
+        image_role: "hero"
+        visual_anchor: "斜45°：超大口径头灯，深灰色方形灯体背后，前方伸出一枚巨大喇叭形铝合金反光碗，外圈双橙色条纹环绕，灯体右侧印'HEAD LAMP'，球形铰链连接灯体与反光碗，底部橙色按键条可见"
+      - filename: "49.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/49.jpg"
+        image_role: "context"
+        visual_anchor: "斜45°另一角度：大喇叭反光碗朝向观察者，可见其内部深抛光银色反光面，外圈双橙色线条，球形铰链关节清晰可见（允许多角度调节），灯体侧面橙色小按键"
+      - filename: "50.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/50.jpg"
+        image_role: "detail"
+        visual_anchor: "正面平视：大圆形深抛物面反光碗居中，外框为双橙色细线圆环，底部橙色面板上三枚橙色橡胶按键，中央充电图标，灯体深灰色方形，整体对称"
+      - filename: "51.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/51.jpg"
+        image_role: "rear"
+        visual_anchor: "侧视图：大喇叭反光碗侧面轮廓，中部收腰成球形铰链关节，后方连接方形灯体，整体侧面轮廓如沙漏形，橙色按键条在灯体侧下方，头带夹扣在灯体背面"
+    product_name: "KamisaFe 大口径球形铰链头灯"
+    brand_name: "KamisaFe"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "超大口径喇叭形抛物面反光碗（直径占正面约80%）+ 球形铰链关节（任意角度调节）+ 方形电池/控制灯体，侧面呈沙漏形轮廓，造型极具视觉张力"
+      light_opening: "超大口径深抛物面铝合金反光碗，提供极强聚光远射能力，LED位于碗底中央"
+      thermal: "铝合金反光碗兼散热体，方形灯体工程塑料"
+      cmf:
+        color: "深灰黑整体 + 橙色双线圆环（反光碗外缘）+ 橙色按键条，橙色语言与KamisaFe品牌系统一致"
+        material: "铝合金反光碗 + 工程塑料灯体 + 橡胶按键 + 金属球形铰链"
+        finish: "反光碗内部高抛光镜面；外圈哑光铝合金；灯体磨砂塑料"
+      mounting: "背面头带卡扣，球形铰链允许反光碗全向角度调节（而非仅上下倾斜）"
+      signature_detail: "球形铰链关节使反光碗可全向调节 + 超大口径反光碗的强烈视觉存在感——双橙线圆环如同'眼睛'轮廓"
+    design_level:
+      score: 4
+      reason: "超大口径反光碗赋予头灯视觉震撼力，球形铰链全向调节是功能升级，双橙线外圈精准传递品牌语言，整体设计语言有强记忆点"
+    design_tags: ["头灯", "大口径反光碗", "球形铰链", "橙色外圈", "全向调节", "KamisaFe", "H11功能外显", "H08对比强调"]
+    hero_feature: "超大口径深抛物面反光碗 + 球形铰链全向调节关节，双橙线圆环如猛禽之眼"
+    problem_solved: "传统头灯只能上下倾斜调节出光角度，球形铰链实现全向任意角度调节"
+    transferable_technique: "用球形铰链取代单轴铰链实现全向出光调节，可迁移至任何需要方向可调的头戴/固定照明产品；超大口径反光碗可迁移至需要超强远射的便携灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_11"
+    source_images:
+      - filename: "52.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/52.jpg"
+        image_role: "hero"
+        visual_anchor: "斜45°：哑光黑色圆柱手电筒横躺，中段有一块凹陷的圆角矩形功能面板，内有一枚圆形按键+五颗横排白点（电量指示灯），前端圆形出光面透出白光照在地面，整体极为简洁，无任何纹理装饰"
+    product_name: "哑光黑圆柱手电/移动电源（品牌未知）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "光滑等径圆柱，尾端与灯头端均平收，无扩径，比例约1:5，整体如一根哑光黑铝棒"
+      light_opening: "前端全截面圆形出光面（灯头直径与桶身等径），出光面无透镜凸起，与桶身齐平"
+      thermal: "全金属CNC加工，整体导热散热，无外露散热结构"
+      cmf:
+        color: "全身单色深空灰/哑光黑，无任何彩色装饰"
+        material: "铝合金CNC一体加工（推测）"
+        finish: "全身哑光阳极氧化，功能面板区域略微凹陷，形成触觉分区"
+      mounting: "纯手持，无挂扣，充电宝功能通过尾端USB口实现"
+      signature_detail: "凹陷的圆角矩形功能面板 + 五点横排电量指示灯——在极简外观上以凹凸分件线界定功能区，无任何色彩干扰"
+    design_level:
+      score: 3
+      reason: "极简执行到位，凹陷功能面板是唯一设计亮点，但整体与BEEBEST（b2_02）策略高度相似，缺乏差异化记忆点"
+    design_tags: ["极简圆柱", "哑光黑", "电量指示", "移动电源二合一", "等径", "H01减法", "H07极简整合"]
+    hero_feature: "凹陷圆角矩形功能面板 + 五点电量指示灯，在极简铝棒外观上以凹凸差异界定功能区"
+    problem_solved: "同BEEBEST策略：手电+充电宝整合，减少携带件数"
+    transferable_technique: "在等径圆柱上通过局部凹陷（而非颜色）划分功能区域，保持视觉一致性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_12"
+    source_images:
+      - filename: "53.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/53.jpg"
+        image_role: "hero"
+        visual_anchor: "双视角场景图：前方主体为深灰色竖向矩形平板灯，正面左侧嵌大圆形黄色COB光源（有黑色圆环边框），右侧竖向排列三点电量指示灯+USB充电口，底部圆形磁吸底座；后方展示背面：深色竖纹肌理面板，底部同款圆形磁吸底座可拆卸"
+      - filename: "54.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/54.jpg"
+        image_role: "context"
+        visual_anchor: "多视角展开：正面大图+三个背面变体展示磁吸底座形态（①磁吸标志②磁吸底座收起③磁吸底座分离），清晰展示可拆卸磁吸底座系统"
+    product_name: "竖向矩形COB工作灯（磁吸底座可拆）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "竖向矩形平板体（约手机长宽比），正面非对称布局：左侧大圆形COB为视觉焦点，右侧细条功能区（电量指示+USB口），底端圆形磁吸底座突出，整体如一块竖置的扑克牌+圆形底座"
+      light_opening: "正面大圆形COB面光源，黄光，直径约为灯体宽度的60%，侧面泛光无遮挡"
+      thermal: "铝合金/ABS外壳，COB直接接触外壳散热"
+      cmf:
+        color: "深空灰主体（正面哑光）+ 黑色COB边框，背面竖向条纹肌理，低调统一"
+        material: "铝合金/ABS注塑灯体 + 磁吸底座模块"
+        finish: "正面哑光灰；背面竖向条纹纹理（防滑+视觉层次）；底座磁吸哑光黑"
+      mounting: "底部圆形磁吸底座可吸附铁质表面（车身/工具箱）；底座可拆卸，裸灯体可手持"
+      signature_detail: "可拆卸圆形磁吸底座——底座分离后灯体变成标准手持灯，安装后自立于铁质表面，一灯两用"
+    design_level:
+      score: 3
+      reason: "磁吸可拆底座是实用亮点，COB面光源适合工作照明，但造型语言较平，非对称正面布局略显随意"
+    design_tags: ["COB工作灯", "磁吸底座", "矩形平板", "可拆底座", "H05模块化", "H11功能外显"]
+    hero_feature: "可拆卸圆形磁吸底座——拆下手持，装上吸附铁质表面，一体两用"
+    problem_solved: "工作灯需要在手持与固定两种模式间切换的需求"
+    transferable_technique: "将磁吸底座设计为可拆卸模块，使便携灯在手持模式和固定模式间自由切换，可迁移至任何需要'手持+固定'双模的工具灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_便携灯_手电筒_b2_13"
+    source_images:
+      - filename: "55.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/55.jpg"
+        image_role: "hero"
+        visual_anchor: "两件展示：上方蓝黑色颈挂弧形带（展开状态）+ 下方组合图：颈挂带套在颈部+右端拆下的手电筒模块（蓝黑色圆柱+小出光口+侧按键+USB口），手电模块通过旋扭接头连接颈带，两件颜色形态统一"
+      - filename: "56.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/56.jpg"
+        image_role: "context"
+        visual_anchor: "另一角度双视图：上方颈带平铺展开俯视，弧形弯曲，蓝色内衬+黑色两侧，两端各有方形灯模块；下方颈带悬挂状态，右端手电模块分离露出旋接口，左端固定，整体形态如蓝黑色'C'形颈挂"
+    product_name: "蓝黑色颈挂式可拆分手电筒"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "颈挂弧形带（C形弧）+ 两端方形手电筒模块，整体形态借鉴无线耳机颈带产品形态，完全颠覆传统手电筒形态"
+      light_opening: "两端圆柱形手电模块各有小圆形出光口，双向照明，可拆卸后单独手持使用"
+      thermal: "小型铝合金圆柱手电模块散热，颈带为软性材质"
+      cmf:
+        color: "宝蓝色 + 哑光黑（双色对比，蓝色为内侧/主视觉面，黑色为两侧边缘）"
+        material: "颈带：弹性橡胶/硅胶软质材料；手电模块：铝合金+工程塑料"
+        finish: "颈带亚光蓝色橡胶；手电模块哑光蓝+黑双色"
+      mounting: "颈挂佩戴（双手解放），手电模块可旋转拆卸单独手持，两用设计"
+      signature_detail: "颈挂带形态 + 可拆手电模块：完全借用无线耳机颈挂的人机工学形态，将手电带到颈部，双手解放，可用于修车/露营等需要长时间照明的场景"
+    design_level:
+      score: 5
+      reason: "品类假设挑战的极致案例：将'手持手电'的根本使用形态改为'颈挂双手解放'，借用颈挂耳机的熟悉形态，用户秒懂，同时保留可拆手持功能作为安全网，符合6项安全阀"
+    design_tags: ["颈挂式", "可拆手电", "双手解放", "颈带形态", "蓝黑双色", "品类假设挑战", "H05模块化", "H12人机界面强化", "H09隐藏工程"]
+    hero_feature: "颈挂带形态彻底颠覆手持手电范式——将手电变为像耳机一样挂在脖子上，双手自由，可拆模块保留手持安全网"
+    problem_solved: "长时间作业（修车/徒步/修理）中手持手电占用双手的痛点"
+    transferable_technique: "将无线耳机的颈挂人机工学形态迁移至照明品类，可拆式手电模块策略可迁移至任何需要'免持+备用手持'双模的工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,136 @@
+schema_version: product_dna_v1
+category:
+  primary: 家电
+  secondary: 电熨斗
+  tertiary: ''
+source:
+  source_type: award_collection
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/电熨斗
+  generated_at: '2026-05-08'
+products:
+- product_id: if_iron_001
+  source_images:
+  - filename: 20.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/电熨斗/19.jpg
+    image_role: hero
+    visual_anchor: 6款Philips PerfectCare蒸汽站系列色卡展示，三行两列，上排浅灰/深蓝/紫色+蓝绿透明水箱，下排深蓝/深绿/黑色+金铜透明水箱
+  product_name: Philips PerfectCare 蒸汽站熨斗系列（色卡）
+  brand_name: Philips
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 电熨斗
+  design_language:
+    silhouette: 楔形蒸汽站造型，前低后高，大面积斜切透明水箱覆盖机身侧面三分之二
+    light_opening: 无
+    thermal: 透明水箱可见内部水位刻度（MAX标注）
+    cmf:
+      color: 深蓝+金铜透明 / 深绿+金铜透明 / 浅灰+蓝绿透明 / 紫色+蓝绿透明
+      material: ABS机身+透明PC水箱
+      finish: 哑光主色+半透明撞色水箱
+    mounting: 台面放置，底部蒸汽底板
+    signature_detail: 大面积斜切透明水箱与机身形成双色对比，侧面竖向纹理分件线贯穿全系
+  design_level:
+    score: 4
+    reason: 系列色彩策略完整，双色CMF语言统一且差异化鲜明，透明水箱兼顾功能与装饰，6色呈现品牌色彩掌控力
+  design_tags:
+  - 蒸汽站
+  - 系列色卡
+  - 撞色CMF
+  - 透明水箱
+  - Philips
+  - PerfectCare
+  hero_feature: 大面积斜切透明水箱与哑光主色机身的双材质撞色分件，全系列统一语言
+  problem_solved: 蒸汽站造型笨重单调，通过色彩系列化和透明水箱装饰化提升产品吸引力
+  transferable_technique: 以透明斜切面作为品牌视觉语言贯穿全系列，撞色比例固定（H08对比强调+H10材料表达）
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_iron_002
+  source_images:
+  - filename: 43.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/电熨斗/43.jpg
+    image_role: hero
+    visual_anchor: Flexwarm 手持挂烫机，白色矩形机身，顶部玫瑰金三角形盖板，左侧伸出灰色波纹蒸汽软管，镂空D形把手
+  product_name: Flexwarm 手持挂烫机
+  brand_name: Flexwarm
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 电熨斗
+  design_language:
+    silhouette: 矩形正面轮廓，中央镂空D形把手，顶部斜切玫瑰金三角盖板，左侧波纹软管延伸
+    light_opening: 无
+    thermal: 左侧波纹金属软管导出蒸汽，前端喷头
+    cmf:
+      color: 白色+玫瑰金
+      material: ABS机身+金属玫瑰金盖板+金属波纹软管
+      finish: 哑光白+拉丝玫瑰金
+    mounting: 手持操作，无底座
+    signature_detail: 顶部玫瑰金斜三角盖板与纯白机身的色彩切割，镂空把手增加设计层次
+  design_level:
+    score: 4
+    reason: 白+玫瑰金CMF处理精致，镂空把手处理提升握持感知，软管波纹与机身直线形成节奏对比
+  design_tags:
+  - 手持挂烫机
+  - 玫瑰金
+  - 镂空把手
+  - 波纹软管
+  - Flexwarm
+  - 白色简约
+  hero_feature: 顶部玫瑰金斜切三角盖板打破白色机身的单调，形成明确的品牌记忆点
+  problem_solved: 挂烫机通常造型单调，玫瑰金斜切面提升高端感知，镂空把手减少视觉重量
+  transferable_technique: 单一撞色斜切盖板作为Hero Feature，其余面积保持纯白统一（H08对比强调+H07极简整合）
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_iron_003
+  source_images:
+  - filename: 58.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/电熨斗/58.jpg
+    image_role: hero
+    visual_anchor: Bosch Sensixx DA70 电熨斗，白色+天蓝色，D形把手内嵌圆形温控旋钮，银色弧形底板，后部白色竖立架
+  product_name: Bosch Sensixx DA70 SensorSecure 电熨斗
+  brand_name: Bosch
+  brand_confidence: high
+  category_path:
+  - 家电
+  - 电熨斗
+  design_language:
+    silhouette: 传统电熨斗楔形轮廓，尾部收窄，把手D形镂空，底板前尖后宽弧形
+    light_opening: 无
+    thermal: 底板大面积蒸汽孔分布均匀，后部直立冷却架
+    cmf:
+      color: 白色+天蓝色
+      material: ABS机身+镀铬底板+透明蒸汽旋钮
+      finish: 哑光白+亮铬底板+天蓝色软胶装饰
+    mounting: 竖立后座自立，平置熨烫
+    signature_detail: 把手环内嵌大型圆形温控旋钮，功能件作为视觉中心，天蓝色装饰带环绕机身
+  design_level:
+    score: 3
+    reason: 功能布局清晰，温控旋钮置于把手环内的设计有趣，但整体风格偏常规，蓝白配色较平淡
+  design_tags:
+  - 电熨斗
+  - Bosch
+  - 蓝白配色
+  - 温控旋钮
+  - 传统楔形
+  - SensorSecure
+  hero_feature: 把手D形环内嵌大型圆形温控旋钮，操作时拇指自然触达
+  problem_solved: 传统电熨斗温控旋钮位置分散，该设计将旋钮嵌入把手内圈，握持与调节动作合一
+  transferable_technique: 操控件嵌入握持区提升操作效率（H12人机界面强化）
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

@@ -1,0 +1,25 @@
+# RAB Lighting 客户偏好
+# 创建日期: 2026-05-11
+
+project_type: "ODM提案（设计→打样→大货）"
+target_market: "北美"
+category: "户外壁灯 Outdoor Wall Pack"
+
+color_preferences:
+  base: "黑色"
+  palette: ["黑", "棕", "白", "金属"]
+  note: "具体颜色由客户确认"
+
+design_tolerance:
+  form_innovation: "中等——可微调方盒子但不能太激进"
+  organic_forms: "可适度尝试"
+  minimalism: "可适度尝试"
+
+key_requirements:
+  - "DLC认证必备"
+  - "Field adjustable（功率/色温可调）"
+  - "5年+保修支持"
+  - "ADA friendly（凸出≤4\"）"
+
+skeleton_overrides:
+  - "壁挂+向下配光降为强约束（允许侧向出光变体）"

@@ -1,0 +1,444 @@
+schema_version: product_dna_v1
+category:
+  primary: 消费电子
+  secondary: 充电设备
+  tertiary: ''
+source:
+  source_type: brand_official
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备
+  generated_at: '2026-05-08'
+products:
+- product_id: if_charger_012
+  source_images:
+  - filename: 49.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/49.jpg
+    image_role: hero
+    visual_anchor: 极简白色方形主体，底部圆柱形插头突出
+  product_name: Nokia 壁装充电模块
+  brand_name: Nokia
+  brand_confidence: confirmed
+  category_path:
+  - 消费电子
+  - 充电设备
+  design_language:
+    silhouette: 近正方形薄板，四角圆润，整体极度克制
+    light_opening: 顶部单点微型LED指示灯（淡绿色）
+    thermal: 平滑封闭面，无散热孔
+    cmf:
+      color: 纯白
+      material: ABS塑料
+      finish: 哑光喷漆
+    mounting: 壁挂式，底部圆柱插头直插墙面插座
+    signature_detail: Nokia品牌字体居中靠下，极简无装饰
+  design_level:
+    score: 3
+    reason: 极简方向做得彻底，但整体造型无突出记忆点，属于及格线上的工业简约风
+  design_tags:
+  - 极简主义
+  - 壁挂式
+  - 全白
+  - H07极简整合
+  - 商务风
+  hero_feature: 完全无装饰的纯白方形面板——工业设备的消费品化
+  problem_solved: 将电力设备的工业感降到最低，使其融入家居/办公环境
+  transferable_technique: 电源设备面板极简化处理：去除一切非必要开口与纹理，用单色面板统一视觉
+  confidence:
+    visual_description: high
+    category: high
+    brand: confirmed
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_charger_013
+  source_images:
+  - filename: 53.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/53.jpg
+    image_role: hero
+    visual_anchor: 上半彩色面板+下半深灰功能区双色分件，容量数字大字印刷
+  product_name: 移动电源系列（5000 / 3000）
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 消费电子
+  - 充电设备
+  - 移动电源
+  design_language:
+    silhouette: 竖长方形（5000款）和横扁方形（3000款），四角大圆角
+    light_opening: 侧面四点LED电量指示
+    thermal: 封闭式，无散热开口
+    cmf:
+      color: 黄绿/薄荷绿/玫红/黑（上半）+ 深灰（下半）
+      material: ABS塑料
+      finish: 哑光
+    mounting: 手持/口袋携带
+    signature_detail: 容量数字（5/3）作为大面积装饰性typography印于主面板
+  design_level:
+    score: 3
+    reason: 双色分件清晰，色彩策略有年轻化意图，typography处理有创意，但整体略显平庸
+  design_tags:
+  - 双色分件
+  - typography装饰
+  - 多色系列
+  - 移动电源
+  - H08对比强调
+  - 年轻化
+  hero_feature: 容量数字作为主视觉元素——功能参数视觉化
+  problem_solved: 移动电源外观千篇一律，用容量数字强化产品身份识别和规格沟通
+  transferable_technique: 将功能参数（容量/型号）转化为面板主视觉装饰，兼顾信息传达与个性化
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_charger_014
+  source_images:
+  - filename: 61.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/61.jpg
+    image_role: hero
+    visual_anchor: 三角形侧剖面，大面积倾斜充电面，USB-C口橙色点缀
+  product_name: Xiaomi 立式无线充电座
+  brand_name: Xiaomi
+  brand_confidence: confirmed
+  category_path:
+  - 消费电子
+  - 充电设备
+  - 无线充电
+  design_language:
+    silhouette: 直角三角形侧视轮廓，前倾斜面为充电区，底座水平贴地
+    light_opening: 底部横向细长LED状态灯条
+    thermal: 封闭全白面板，无可见散热孔
+    cmf:
+      color: 全白，USB-C口橙色强调
+      material: ABS塑料
+      finish: 高光+哑光组合
+    mounting: 桌面立式，底座重心稳定
+    signature_detail: USB-C接口采用橙色内衬点缀，唯一色彩跳点
+  design_level:
+    score: 4
+    reason: 三角形几何造型识别度强，全白语言彻底，橙色小细节功能外显做得克制精准，整体完成度高
+  design_tags:
+  - 三角形轮廓
+  - 立式充电
+  - 无线充电
+  - H07极简整合
+  - H08对比强调
+  - Xiaomi风格
+  - 桌面设备
+  hero_feature: 三角形几何体——充电座脱离圆盘/长方体惯例，创造强轮廓记忆点
+  problem_solved: 无线充电盘平放不方便查看手机，立式三角架角度恰好兼顾充电与屏幕可视
+  transferable_technique: 立式充电座三角几何化：底面稳定性+前倾面充电效率+侧视轮廓记忆点三合一
+  confidence:
+    visual_description: high
+    category: high
+    brand: confirmed
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_charger_015
+  source_images:
+  - filename: 69.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/69.jpg
+    image_role: hero
+    visual_anchor: 圆形铝合金面板同心圆车削纹，黑色主体+银色边框
+  product_name: PISEN 无线充电盘
+  brand_name: PISEN
+  brand_confidence: confirmed
+  category_path:
+  - 消费电子
+  - 充电设备
+  - 无线充电
+  design_language:
+    silhouette: 正圆形薄盘，极薄厚度，边缘镀铬收边
+    light_opening: 无可见状态指示灯（隐藏式或无）
+    thermal: 铝合金面板本身兼作散热体
+    cmf:
+      color: 黑色主面板+银色金属边框
+      material: 铝合金面板+金属边框
+      finish: 车削拉丝纹（同心圆）
+    mounting: 桌面平放，底部防滑
+    signature_detail: 同心圆放射车削纹理从中心向外扩散，光学CD盘感
+  design_level:
+    score: 4
+    reason: 铝合金车削纹理工艺精良，同心圆图案与无线充电的「感应圆心」概念一致，材料语言提升产品段位
+  design_tags:
+  - 圆形
+  - 铝合金
+  - 车削纹
+  - 无线充电
+  - H10材料表达
+  - 金属质感
+  - 桌面
+  hero_feature: 铝合金同心圆车削纹——充电盘面板从塑料平庸升级到工艺精品感
+  problem_solved: 无线充电盘普遍廉价感，铝合金面板+精密纹理将设备提升至桌面精品配件级别
+  transferable_technique: 充电盘面板金属化+车削同心圆纹：低成本感知价值跃升，适合中高端产品线
+  confidence:
+    visual_description: high
+    category: high
+    brand: confirmed
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_charger_016
+  source_images:
+  - filename: 70.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/70.jpg
+    image_role: hero
+    visual_anchor: 三种面板材质变体悬浮展示：铝合金车削/布艺/棕色皮革+金边框
+  product_name: PISEN 无线充电盘系列（材质版）
+  brand_name: PISEN
+  brand_confidence: confirmed
+  category_path:
+  - 消费电子
+  - 充电设备
+  - 无线充电
+  design_language:
+    silhouette: 椭圆形薄盘（与69圆形略有差异，呈横向椭圆）
+    light_opening: 无
+    thermal: 多材质面板，皮革款底层推测铝合金散热
+    cmf:
+      color: 黑铝/灰布/棕皮三色系，边框对应银/银/金
+      material: 铝合金车削 / 布艺 / 皮革，搭配金属边框
+      finish: 车削纹 / 编织纹 / 皮革压纹
+    mounting: 桌面平放
+    signature_detail: 同一结构框架下的材质模块化替换——金属边框为统一锚点
+  design_level:
+    score: 4
+    reason: 材质模块化策略成熟，同一轮廓三种材质语言覆盖不同用户品味，皮革+金边框组合尤为高级
+  design_tags:
+  - 材质模块化
+  - 皮革
+  - 布艺
+  - 铝合金
+  - 无线充电
+  - H10材料表达
+  - H05模块化
+  - 系列策略
+  hero_feature: 面板材质可变——同一产品三种材质触感与视觉身份，覆盖科技/居家/奢感三类用户
+  problem_solved: 单一材质无法满足不同室内风格，材质模块化让充电盘成为桌面装饰品
+  transferable_technique: 充电设备面板材质系列化：保持结构/尺寸一致，仅替换面板材质，SKU扩展成本低
+  confidence:
+    visual_description: high
+    category: high
+    brand: confirmed
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_charger_017
+  source_images:
+  - filename: 74.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/74.jpg
+    image_role: hero
+    visual_anchor: 黑色主体+彩色边框条分件，四款叠放展示，折叠式内置线缆
+  product_name: EnerPlex 移动电源系列
+  brand_name: EnerPlex
+  brand_confidence: confirmed
+  category_path:
+  - 消费电子
+  - 充电设备
+  - 移动电源
+  design_language:
+    silhouette: 横向长方形，四角圆润，厚度适中
+    light_opening: 侧面四点LED电量指示
+    thermal: 封闭式塑料外壳
+    cmf:
+      color: 黑色主体 + 彩色边框（蓝/绿/紫/黑），白色顶盖
+      material: ABS塑料
+      finish: 哑光
+    mounting: 手持/口袋携带
+    signature_detail: 彩色边框作为唯一色彩区分，内置折叠式Micro-USB连接头
+  design_level:
+    score: 2
+    reason: 色彩策略简单，黑体+彩边框是移动电源常见套路，内置线缆概念有用但造型整体缺乏差异化
+  design_tags:
+  - 彩色边框
+  - 内置线缆
+  - 移动电源
+  - H08对比强调
+  - 功能外显
+  - 多色系列
+  hero_feature: 折叠式内置线缆——无需随身携带额外线缆
+  problem_solved: 移动电源必须随身带线，内置折叠接头解决忘带线的痛点
+  transferable_technique: 将附件（线缆/插头）收纳整合进产品本体，减少配件丢失风险
+  confidence:
+    visual_description: high
+    category: high
+    brand: confirmed
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_charger_018
+  source_images:
+  - filename: 75.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/75.jpg
+    image_role: hero
+    visual_anchor: 黑白双色拼接面板，彩色侧边条，内置线缆弹出式设计
+  product_name: Nexion 移动电源系列
+  brand_name: Nexion
+  brand_confidence: confirmed
+  category_path:
+  - 消费电子
+  - 充电设备
+  - 移动电源
+  design_language:
+    silhouette: 横向长方形，与EnerPlex极为相似的外形比例
+    light_opening: 侧面三点LED指示灯
+    thermal: 封闭式塑料外壳
+    cmf:
+      color: 白色上盖 + 黑色底座 + 绿/紫/蓝/黑侧边条
+      material: ABS塑料
+      finish: 哑光
+    mounting: 手持/口袋携带
+    signature_detail: 可弹出的内置双接口线缆（同时支持两部设备）
+  design_level:
+    score: 2
+    reason: 与EnerPlex高度相似，同期产品雷同度高，无突出造型记忆点，内置线缆功能虽实用但呈现方式粗糙
+  design_tags:
+  - 双色拼接
+  - 内置线缆
+  - 移动电源
+  - 彩色侧边
+  - H05模块化
+  - 功能外显
+  hero_feature: 内置可弹出双端线缆——单设备同时为两台设备供电无需额外配件
+  problem_solved: 外出充电需要携带多条不同接口线缆，内置双接口线缆一体化解决多设备充电
+  transferable_technique: 线缆收纳弹出机构：弹簧式或卷轴式内置线缆，减少用户携带负担
+  confidence:
+    visual_description: high
+    category: high
+    brand: confirmed
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_charger_020
+  source_images:
+  - filename: 86.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/86.jpg
+    image_role: hero
+    visual_anchor: 浅蓝硅胶折叠夹设计，配白色延长线和银色金属转接头
+  product_name: Chargigo 充电线缆收纳套件
+  brand_name: Chargigo
+  brand_confidence: confirmed
+  category_path:
+  - 消费电子
+  - 充电设备
+  - 充电配件
+  design_language:
+    silhouette: 主体为扁平夹形，折叠后紧凑，展开可挂接设备
+    light_opening: 无
+    thermal: 无
+    cmf:
+      color: 浅蓝（粉蓝/天蓝）硅胶 + 白色线缆 + 银色金属转接头
+      material: 硅胶主体 + 铝合金转接头 + 织物线缆
+      finish: 哑光硅胶 + 金属镀铬
+    mounting: 可挂包边/桌面摆放
+    signature_detail: 硅胶折叠夹可同时固定线缆并充当线缆整理器，一物多用
+  design_level:
+    score: 4
+    reason: 北欧极简配色精准，硅胶折叠形态新颖，金属+硅胶材质对比高级，整套解决线缆管理痛点，系统感强
+  design_tags:
+  - 硅胶
+  - 折叠设计
+  - 线缆管理
+  - 北欧配色
+  - H09隐藏工程
+  - H05模块化
+  - 便携配件
+  hero_feature: 折叠式硅胶夹——将凌乱的多接口线缆收纳成一件整洁的携带物件
+  problem_solved: 充电线缆和转接头散乱，折叠夹将全套配件组织成单一整洁物品，包袋友好
+  transferable_technique: 硅胶折叠夹收纳机构：廉价材料+简单结构实现线缆整理，CMF配色决定产品气质
+  confidence:
+    visual_description: high
+    category: high
+    brand: confirmed
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_charger_021
+  source_images:
+  - filename: 89.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/89.jpg
+    image_role: hero
+    visual_anchor: 黑色圆盘+红色线缆强对比，底部8点橡胶防滑凸粒阵列
+  product_name: UGREEN 无线充电盘
+  brand_name: UGREEN
+  brand_confidence: confirmed
+  category_path:
+  - 消费电子
+  - 充电设备
+  - 无线充电
+  design_language:
+    silhouette: 正圆形薄盘，边缘镀铬，正面哑光黑
+    light_opening: 无可见指示灯（可能隐藏于底部或边缘）
+    thermal: 铝合金或塑料面板，底部橡胶防滑垫兼隔热
+    cmf:
+      color: 哑光黑主体 + 银色镀铬边框 + 红色线缆
+      material: 面板PC/铝合金 + 镀铬边框 + 橡胶防滑底
+      finish: 哑光黑 + 镜面铬
+    mounting: 桌面平放，底部8点凸粒橡胶防滑
+    signature_detail: 底部8点规律橡胶凸粒——反向（背面）设计细节体现制造用心
+  design_level:
+    score: 4
+    reason: 红黑配色对比鲜明，底面防滑凸粒设计体现产品完整性，镀铬边框提升精致感，整体设计语言统一
+  design_tags:
+  - 红黑配色
+  - 圆形
+  - 无线充电
+  - 防滑设计
+  - H08对比强调
+  - H10材料表达
+  - 桌面
+  hero_feature: 红色编织线缆——在全黑设备上制造强烈视觉冲击，线缆从附件变成设计语言的一部分
+  problem_solved: 无线充电盘普遍黑色平庸，红色线缆作为signature色彩创造立即识别的视觉个性
+  transferable_technique: 线缆色彩作为产品设计语言延伸：将配件色彩纳入整体CMF规划，而非事后配件
+  confidence:
+    visual_description: high
+    category: high
+    brand: confirmed
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_charger_022
+  source_images:
+  - filename: 90.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/充电设备/90.jpg
+    image_role: lifestyle
+    visual_anchor: 无线充电盘底部环形金属支架弹出，手机竖立充电使用场景
+  product_name: UGREEN 无线充电盘（支架使用场景）
+  brand_name: UGREEN
+  brand_confidence: confirmed
+  category_path:
+  - 消费电子
+  - 充电设备
+  - 无线充电
+  design_language:
+    silhouette: 同89，圆盘底部弹出D型金属环支架
+    light_opening: 无
+    thermal: 同89
+    cmf:
+      color: 哑光黑 + 银色金属支架环 + 红色线缆
+      material: 金属支架环 + 主体同89
+      finish: 哑光黑 + 银色金属
+    mounting: 支架弹出后支撑手机竖立，充电盘作为底座
+    signature_detail: D型金属环支架从底部弹出，充电盘即时转变为手机立架
+  design_level:
+    score: 3
+    reason: 支架功能创意好，但此图为使用场景图，产品本身设计已在89中评分；支架扩展功能是亮点
+  design_tags:
+  - 支架功能
+  - 二合一
+  - 无线充电
+  - 使用场景
+  - H11功能外显
+  - H05模块化
+  hero_feature: 底部弹出D型环支架——充电盘即变手机立架，一物两用
+  problem_solved: 无线充电时手机平躺无法查看屏幕，弹出支架让手机竖立充电同时保持可视角度
+  transferable_technique: 隐藏式弹出支架结构：不使用时收纳于底部，展开即为稳定立架，功能扩展零额外体积
+  confidence:
+    visual_description: high
+    category: high
+    brand: confirmed
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

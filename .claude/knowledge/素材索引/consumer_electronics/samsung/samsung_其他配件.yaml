@@ -1,0 +1,44 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "其他配件"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/其他配件/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "samsung_accessory_001"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/其他配件/14.jpg"
+        image_role: "hero"
+        visual_anchor: "翻盖折叠手机配件展示，黑白两色配对呈现，正面+背面双视角"
+    product_name: "Galaxy Z Flip 保护壳（Flipsuit Case）"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "其他配件"]
+    design_language:
+      silhouette: "方形折叠形态，与Z Flip手机形态完全贴合；上下两段比例约4:3，折叠线居中"
+      light_opening: "无"
+      thermal: "无散热开口，外壳全包覆设计"
+      cmf:
+        color: "哑光黑 / 珍珠白，双色方案均无明显装饰"
+        material: "硬质塑料外壳，内侧软衬"
+        finish: "哑光磨砂表面，外框金属质感边条"
+      mounting: "卡扣包覆式，与手机四角精确适配"
+      signature_detail: "外屏区域精准镂空，摄像头区域双孔并排裸露"
+    design_level:
+      score: 3
+      reason: "配件设计服从手机本体形态，造型无独立创新；颜色克制、工艺规整，属品牌标准配件水准"
+    design_tags: ["折叠手机配件", "全包覆", "哑光", "双色方案", "精准镂空"]
+    hero_feature: "与Z Flip折叠形态完美贴合的分段式双壳结构，外屏+摄像头精准镂空"
+    problem_solved: "折叠手机铰链区域的防护与外屏可用性的平衡"
+    transferable_technique: "分段保护壳结构——针对折叠/铰链产品的配件分件逻辑可迁移至其他折叠设备配件设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

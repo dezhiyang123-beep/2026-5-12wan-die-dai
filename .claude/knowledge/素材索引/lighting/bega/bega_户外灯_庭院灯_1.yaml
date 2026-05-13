@@ -1,0 +1,748 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "庭院灯"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "bega_户外_庭院灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "矮胖圆柱形bollard，中段白色乳白亚克力发光带夹在上下深灰铝壳之间，底部扁圆凸缘底座，黑色线缆从底侧引出"
+    product_name: "Cylindrical Bollard with Opal Band"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "短粗圆柱形bollard，高宽比约2.5:1，圆柱顶帽+中段发光筒+底座凸缘三段式构成"
+      light_opening: "360°环形侧向发光，乳白色PC/亚克力漫射筒，均匀柔和散射"
+      thermal: "铸铝外壳，深石墨色粉末涂层"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "铸铝 + 乳白漫射亚克力"
+        finish: "粉末涂层哑光"
+      mounting: "底部扁圆凸缘底座，线缆穿底，适合地面螺栓固定"
+      signature_detail: "金属顶帽与底座颜色一致，中段发光带形成强烈的明暗对比分层"
+    design_level:
+      score: 3
+      reason: "经典圆柱bollard形态，乳白发光带分层设计简洁有力，比例协调，属BEGA标准工程款，无突破性创新"
+    design_tags:
+      - "bollard"
+      - "cylindrical"
+      - "opal-diffuser"
+      - "360-degree-light"
+      - "graphite"
+      - "low-bollard"
+      - "three-section"
+    hero_feature: "金属封顶+发光环带+金属底座三段分层，昼夜均有清晰视觉节奏"
+    problem_solved: "低矮路径照明，360°均匀散光，无眩光，耐候室外"
+    transferable_technique: "金属端帽与漫射体的三段分层结构，可迁移至手电筒/便携灯/地埋灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "两只纯白乳白玻璃球体落地灯，大小两个尺寸并列展示，底部各有小型深色圆底座，大球带黑色线缆"
+    product_name: "Spherical Ground Globe Light (Two Sizes)"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "完整球体形态，球径与底座比约8:1，极简雕塑感，两种尺寸（大/小）"
+      light_opening: "360°全向漫射发光，乳白玻璃球体整体发光，无方向性，极柔和均匀"
+      thermal: "乳白玻璃球体，深色小圆底座（铸铝）"
+      cmf:
+        color: "纯白乳白（opal white）+ 深灰底座"
+        material: "乳白玻璃（opal glass）+ 铸铝底座"
+        finish: "玻璃光面，底座粉末涂层"
+      mounting: "底部小圆凸缘底座直接落地，线缆从底座穿出"
+      signature_detail: "球体与底座的尺寸极度反差，底座几乎消失，球体像悬浮于地面"
+    design_level:
+      score: 4
+      reason: "纯粹几何形态的极致表达，球体与底座比例经过精密控制，视觉上接近完美的雕塑感，BEGA标志性产品之一"
+    design_tags:
+      - "globe"
+      - "spherical"
+      - "opal-glass"
+      - "360-degree-light"
+      - "ground-level"
+      - "sculptural"
+      - "minimalist"
+      - "two-sizes"
+    hero_feature: "纯粹球体造型，底座极度缩小至几乎消失，玻璃球悬浮感"
+    problem_solved: "庭院景观点光源，全向柔和散射，白天作为雕塑装饰，夜间作为发光地标"
+    transferable_technique: "底座极度缩小以强调主体漂浮感的比例策略，可迁移至台灯/装饰灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "两只高低不同的细杆庭院灯，灯头为圆柱形透明竖纹玻璃罩内含金色LED灯芯柱，深灰圆形顶帽，细长不锈钢杆，底部小黑色地脚"
+    product_name: "Fluted Glass Cylinder Head Stake Light (Two Heights)"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "细杆+圆柱灯头形态，灯头直径约为杆径5倍，灯头高宽比约1:1，两种高度（高/矮）"
+      light_opening: "360°侧向透射，透明竖纹（fluted）玻璃筒，金色LED灯芯可见，光线有竖向条纹折射效果"
+      thermal: "灯头深灰铸铝顶帽+透明玻璃筒，细杆不锈钢/铝"
+      cmf:
+        color: "深石墨灰顶帽 + 透明玻璃 + 金色LED + 银灰细杆"
+        material: "铸铝顶帽 + 竖纹透明玻璃 + 不锈钢杆"
+        finish: "顶帽粉末涂层哑光，玻璃光面，杆拉丝/本色"
+      mounting: "细杆底部小圆底座落地，线缆穿底座"
+      signature_detail: "金色LED灯芯在透明竖纹玻璃内形成火焰状/烛光状视觉效果，极具装饰性"
+    design_level:
+      score: 5
+      reason: "灯头内可见的金色LED灯芯+竖纹玻璃产生类烛光视觉效果，既有工程精度又有装饰美感；细杆与灯头的比例张力突出；设计语言独特且辨识度极高"
+    design_tags:
+      - "stake-light"
+      - "fluted-glass"
+      - "visible-LED-filament"
+      - "candlelight-effect"
+      - "slender-stem"
+      - "decorative"
+      - "two-heights"
+      - "graphite"
+      - "premium"
+    hero_feature: "竖纹玻璃筒内可见金色LED灯芯，点亮后产生类烛焰的装饰光效"
+    problem_solved: "高端庭院路径照明，兼顾功能照明与装饰性，白天造型优雅，夜间光效独特"
+    transferable_technique: "竖纹玻璃+内置可见光源的装饰性透光结构，可迁移至台灯/吊灯/手提灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "极细高杆，中部横向悬臂夹持一个扁圆盘形灯头（类似放大的硬币形），灯头朝下，深黑色，线缆沿杆外露"
+    product_name: "Disc-Head Directional Arm Stake Light"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "超细垂直杆+中段横向悬臂+扁圆盘灯头，T字或L字侧向悬挑构图"
+      light_opening: "向下定向照射，扁圆盘灯头内嵌LED，窄光束聚光或宽光束泛光（不可见具体出光口）"
+      thermal: "杆与灯头均为铝制，深黑色"
+      cmf:
+        color: "哑光黑"
+        material: "铝合金杆 + 压铸铝灯头"
+        finish: "粉末涂层哑光黑"
+      mounting: "杆底部圆形凸缘底座落地固定，线缆外挂沿杆走线"
+      signature_detail: "悬臂横向出挑使灯头偏离杆轴线，创造非对称构图；灯头扁圆盘形极度压扁"
+    design_level:
+      score: 4
+      reason: "非对称悬臂结构使庭院灯从常规垂直中轴布光跳出，构图张力强；超细杆与宽扁灯头的比例对比鲜明；工程美学突出"
+    design_tags:
+      - "stake-light"
+      - "disc-head"
+      - "directional"
+      - "cantilever-arm"
+      - "asymmetric"
+      - "matte-black"
+      - "slender-stem"
+    hero_feature: "横向悬臂使扁圆盘灯头偏离轴线，形成雕塑式非对称构图"
+    problem_solved: "精准路径/地面定向照明，灯头可偏移控制照射区域，适合重点照明"
+    transferable_technique: "悬臂偏置灯头策略打破垂直中轴对称，可迁移至路灯/聚光台灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "蘑菇伞形庭院灯，极细圆杆顶部承托一个宽平的半球形/蘑菇形伞盖（哑光黑），伞盖向下出光，底部小型圆凸缘底座"
+    product_name: "Mushroom Cap Bollard Stake Light"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "蘑菇形：宽扁半球伞盖置于极细长直杆顶部，伞盖直径约为杆径10倍以上，高宽比约4:1"
+      light_opening: "向下漫射，伞盖内侧为出光面，光线向下方地面照射，减少眩光和光污染"
+      thermal: "伞盖铸铝，细杆铝合金"
+      cmf:
+        color: "哑光黑"
+        material: "铸铝伞盖 + 铝合金细杆"
+        finish: "粉末涂层哑光黑"
+      mounting: "杆底圆形小底座落地，线缆从底座穿出"
+      signature_detail: "超细杆与宽大伞盖形成极端比例反差，仿生蘑菇意象，造型记忆点极强"
+    design_level:
+      score: 4
+      reason: "蘑菇形是庭院灯经典形态之一，BEGA版本通过极细杆+大伞比例推到极致，造型干净有力；向下出光满足低光污染要求"
+    design_tags:
+      - "mushroom-form"
+      - "downlight"
+      - "slender-stem"
+      - "wide-cap"
+      - "matte-black"
+      - "biomorphic"
+      - "anti-glare"
+    hero_feature: "超细杆与宽扁伞盖的极端比例反差，仿生蘑菇识别度极高"
+    problem_solved: "路径向下照明，防止眩光和天空光污染，细杆减少视觉干扰"
+    transferable_technique: "超细支撑+宽大出光面的极端比例对比，可迁移至落地灯/工作灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "极细长直杆顶部承托喇叭/漏斗形灯头，顶盖为薄圆片深黑，灯头主体为白色乳白漫射锥形，向外展开，底部圆凸缘底座"
+    product_name: "Funnel Diffuser Bollard Stake Light"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "喇叭/漏斗形灯头于细长直杆顶部，灯头上窄下宽展开，顶盖压扁薄圆片，整体高宽比约5:1"
+      light_opening: "侧向+向下漫射，乳白锥形漫射体，光线向四周及下方扩散，半球状配光"
+      thermal: "顶盖铸铝深黑，漫射体乳白PC或玻璃，细杆铝合金"
+      cmf:
+        color: "深黑顶盖 + 乳白漫射体 + 银灰细杆"
+        material: "铸铝顶盖 + 乳白PC漫射体 + 铝合金杆"
+        finish: "顶盖哑光黑，漫射体哑光白"
+      mounting: "杆底小圆底座落地，线缆穿底"
+      signature_detail: "喇叭展开的漫射锥与极细杆的比例；深色薄顶盖压住白色锥体，明暗层次分明"
+    design_level:
+      score: 4
+      reason: "漏斗/喇叭形漫射体是BEGA庭院灯中独特形态，兼顾美观与配光效率；黑白双材质对比使造型层次丰富；细杆比例优雅"
+    design_tags:
+      - "funnel-form"
+      - "diffuser"
+      - "opal"
+      - "slender-stem"
+      - "omnidirectional"
+      - "two-tone"
+      - "sculptural"
+    hero_feature: "喇叭/漏斗形乳白漫射体，黑色薄顶盖压顶，形成强烈材质与明暗对比"
+    problem_solved: "庭院路径照明，宽角度漫射出光，减少眩光，白天造型优雅"
+    transferable_technique: "锥形漫射体+薄压盖的双材质对比构成，可迁移至台灯/落地灯灯头设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "矮胖锥台形方形bollard（四棱柱但略带锥度，上窄下宽），顶部有一个薄扁方帽偏向一侧悬挑出光，深石墨灰哑光铝，无明显底座"
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/10.jpg"
+        image_role: "size_variant"
+        visual_anchor: "同款产品高低两个尺寸并列，高款为细长方柱，矮款为短粗版，顶帽悬挑结构相同"
+    product_name: "Tapered Square Bollard with Offset Cap (Two Heights)"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "方形截面锥台bollard，09为矮胖锥台体，10为两种高度（高瘦方柱+矮方柱），顶部薄方帽单侧悬挑"
+      light_opening: "顶帽悬挑缝隙向下侧向出光，窄缝LED直射，定向单侧配光"
+      thermal: "铸铝整体构造，深石墨灰"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "铸铝"
+        finish: "粉末涂层哑光，细砂面质感"
+      mounting: "bollard底部直接落地，无外露底座，嵌入地面"
+      signature_detail: "顶帽单侧悬挑形成强烈的不对称性，方形截面+哑光砂感表面呈现建筑感极强的几何块体"
+    design_level:
+      score: 4
+      reason: "方形截面bollard通过顶帽单侧悬挑打破纯几何对称，极强建筑雕塑感；砂面铸铝质感高级；两种高度提供系统化布局灵活性"
+    design_tags:
+      - "bollard"
+      - "square-section"
+      - "tapered"
+      - "offset-cap"
+      - "asymmetric"
+      - "graphite"
+      - "architectural"
+      - "two-heights"
+    hero_feature: "顶帽单侧悬挑在方柱体上制造不对称光缝，几何块体感强烈"
+    problem_solved: "路径/边界照明，建筑感强的环境中与硬景观协调，顶帽悬挑提供定向路面照射"
+    transferable_technique: "方形截面+偏置顶帽悬挑的建筑化设计语言，可迁移至室外柱灯/墙灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_011"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "两只高低不同的细圆柱杆bollard，灯头为圆柱形竖纹透明玻璃罩（与05款灯头相同），深灰圆顶帽，粗圆柱杆（非细杆），底部直接落地"
+    product_name: "Fluted Glass Cylinder Head Round Bollard (Two Heights)"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "较粗圆柱形bollard+竖纹玻璃灯头，灯头直径约等于杆径，头体比约1:1，两种高度（高/矮）"
+      light_opening: "360°侧向透射，竖纹透明玻璃筒，金色LED灯芯可见，竖向条纹折射光效"
+      thermal: "灯头深灰铸铝顶帽+透明竖纹玻璃，粗圆柱杆深灰铝"
+      cmf:
+        color: "深石墨灰 + 透明玻璃 + 金色LED"
+        material: "铸铝 + 竖纹透明玻璃"
+        finish: "哑光粉末涂层，玻璃光面"
+      mounting: "底部直接落地，无外露底座"
+      signature_detail: "灯头与杆体等径设计，头身比例均匀，与05款细杆版形成系列对比；竖纹玻璃+金色灯芯共用"
+    design_level:
+      score: 4
+      reason: "与05款共享竖纹玻璃灯头，bollard版杆体更粗，头身比更协调；金色LED灯芯装饰效果同样出色；系列化设计逻辑清晰"
+    design_tags:
+      - "bollard"
+      - "fluted-glass"
+      - "visible-LED-filament"
+      - "candlelight-effect"
+      - "cylindrical"
+      - "two-heights"
+      - "graphite"
+      - "series"
+    hero_feature: "竖纹玻璃+可见金色LED灯芯的装饰光效，bollard版头身等径比例"
+    problem_solved: "路径照明兼顾装饰性，bollard形态稳定感强于细杆版，适合更正式的庭院环境"
+    transferable_technique: "系列化设计：同一灯头适配不同杆型（细杆/粗杆），扩展产品矩阵"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_012"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "高瘦方形截面bollard，顶部有一个薄方帽单侧悬挑（与09/10系列相似但更高更细长），截面为纯正方形，深石墨灰"
+    product_name: "Tall Square Bollard with Offset Cap"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "高瘦方形截面柱体bollard，高宽比约7:1，顶部薄方帽单侧悬挑，整体呈L形剪影"
+      light_opening: "顶帽缝隙向下侧向出光，定向单侧配光"
+      thermal: "铸铝，深石墨灰"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "铸铝"
+        finish: "粉末涂层哑光细砂"
+      mounting: "底部直接落地"
+      signature_detail: "极高宽比的方柱（接近建筑柱廊比例）+顶帽悬挑，L形轮廓在庭院中如微型建筑柱"
+    design_level:
+      score: 4
+      reason: "比09/10款更高更细，建筑感更强烈，L形轮廓在庭院中辨识度高；属同一系列的高款变体，设计逻辑一致"
+    design_tags:
+      - "bollard"
+      - "square-section"
+      - "tall"
+      - "offset-cap"
+      - "asymmetric"
+      - "graphite"
+      - "architectural"
+      - "L-silhouette"
+    hero_feature: "超高宽比方柱+顶帽悬挑形成强烈L形轮廓，类建筑柱廊尺度感"
+    problem_solved: "路径边界标记，高款bollard提升空间引导性，L形悬挑定向照射路面"
+    transferable_technique: "极高宽比方柱的建筑化处理，可迁移至公共空间立柱灯/路灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_013"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "高瘦方形截面bollard，顶部为圆形扁平碟形帽（非方帽），圆碟中心轴与方柱体中轴对齐，深石墨灰"
+    product_name: "Square Bollard with Centred Round Disc Cap"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "方形截面高柱+顶部圆形薄碟帽，圆碟与方柱中轴对齐，高宽比约6:1，圆帽直径约为柱宽1.5倍"
+      light_opening: "圆碟帽下方缝隙出光，向下/侧向漫射，可能为360°向下配光"
+      thermal: "铸铝，深石墨灰"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "铸铝"
+        finish: "粉末涂层哑光"
+      mounting: "底部直接落地"
+      signature_detail: "方柱+圆帽的异形截面组合，方与圆的转换在顶部发生，几何对话感强"
+    design_level:
+      score: 4
+      reason: "方柱体顶部接圆碟帽的几何混搭打破同系列方帽版本，圆方对话有趣；整体比例与同系列协调，增加了系列内的多样性"
+    design_tags:
+      - "bollard"
+      - "square-section"
+      - "round-cap"
+      - "geometric-contrast"
+      - "graphite"
+      - "architectural"
+      - "centered"
+    hero_feature: "方形截面柱体顶部接圆碟帽，方圆几何转换形成视觉张力"
+    problem_solved: "路径照明，圆帽版相比方帽版视觉更柔和，适合混合风格庭院"
+    transferable_technique: "方截面柱体+圆形端帽的几何混搭语言，可迁移至建筑柱灯/门柱灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_014"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "高瘦方形截面bollard，顶部有一个小型方形灯头旋转/偏置约45°斜向一角，灯头整体呈立方体微缩形态，深石墨灰"
+    product_name: "Square Bollard with Rotated Cubic Head"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "方形截面高柱+顶部小立方体灯头偏置/旋转，高宽比约6:1，头体同截面但头略宽且偏角"
+      light_opening: "小立方体灯头侧面单向出光，定向水平或斜下方配光"
+      thermal: "铸铝，深石墨灰"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "铸铝"
+        finish: "粉末涂层哑光"
+      mounting: "底部直接落地"
+      signature_detail: "顶部小立方灯头与主柱体轴线偏转，产生微妙的不对称动感；同系列中最具动态感的版本"
+    design_level:
+      score: 4
+      reason: "方柱+旋转小方头的组合在同系列中最有动势；头部旋转角度制造了方向感，暗示光线方向；设计细节精巧"
+    design_tags:
+      - "bollard"
+      - "square-section"
+      - "rotated-head"
+      - "asymmetric"
+      - "directional"
+      - "graphite"
+      - "dynamic"
+    hero_feature: "顶部立方灯头偏转旋转，在静态方柱上制造方向感和动态暗示"
+    problem_solved: "路径定向照明，灯头旋转可控制光线投射方向"
+    transferable_technique: "灯头旋转偏置表达方向性的设计语言，可迁移至可调角度壁灯/聚光灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_015"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "高瘦方形截面bollard，顶部有一个梯形截面遮光罩（上宽下窄的小棚屋形），侧面开口向外出光，深石墨灰"
+    product_name: "Square Bollard with Trapezoidal Hood Head"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "方形截面高柱+顶部梯形小遮光罩（上宽下窄楔形），高宽比约6:1，遮光罩形成明显的遮蔽式出光口"
+      light_opening: "单侧前向定向出光，梯形罩控制光束角，遮光罩防止眩光，窄束定向路面照射"
+      thermal: "铸铝，深石墨灰"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "铸铝"
+        finish: "粉末涂层哑光"
+      mounting: "底部直接落地"
+      signature_detail: "梯形遮光罩在方柱顶部形成有棚屋感的小檐口，既是功能遮光也是造型特征"
+    design_level:
+      score: 4
+      reason: "梯形遮光罩头部是同系列中功能整合最显性的设计，遮光结构外露即造型；与同系列其他头型形成完整的光型矩阵"
+    design_tags:
+      - "bollard"
+      - "square-section"
+      - "hooded"
+      - "directional"
+      - "anti-glare"
+      - "graphite"
+      - "functional-form"
+    hero_feature: "梯形遮光罩头部，功能遮光结构即造型语言，防眩光定向出光"
+    problem_solved: "严格防眩光的定向路径照明，梯形罩控制溢光范围"
+    transferable_technique: "遮光罩作为设计语言主角（功能即形态），可迁移至户外聚光灯/路灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_016"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱形较粗杆bollard，杆顶侧面延伸出一个短横臂，臂端承托一个扁平圆碟形灯头（碟面朝上/朝下），整体成T形或不对称Y形"
+    product_name: "Cylindrical Bollard with Side-Offset Disc Head"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "圆柱粗杆+顶侧短横臂+扁圆碟灯头，不对称T形或悬臂剪影，杆径较大，碟头直径约为杆径2倍"
+      light_opening: "碟头向下出光，定向向下配光，防眩光"
+      thermal: "圆柱铝杆，铸铝碟头，深石墨灰"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "铝合金杆 + 铸铝碟头"
+        finish: "粉末涂层哑光"
+      mounting: "底部直接落地，无外露底座"
+      signature_detail: "圆杆+侧向悬挑碟头的不对称组合，横臂极短使碟头紧贴杆身，形成紧凑的悬臂构图"
+    design_level:
+      score: 4
+      reason: "圆柱杆+侧向悬挑碟头的构图与06款细杆版对应，粗圆柱版更稳重；不对称悬挑在bollard家族中辨识度高"
+    design_tags:
+      - "bollard"
+      - "cylindrical"
+      - "disc-head"
+      - "cantilever"
+      - "asymmetric"
+      - "downlight"
+      - "graphite"
+    hero_feature: "圆柱粗杆侧向悬挑扁碟灯头，不对称构图，紧凑有力"
+    problem_solved: "路径定向向下照明，圆柱bollard版稳重感强于细杆版，适合主路径"
+    transferable_technique: "粗杆+侧向悬挑灯头构图，与细杆版形成系列矩阵，可迁移至街灯/庭院柱灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_017"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱形较粗杆bollard，杆顶中心轴正上方承托一个大直径扁平圆碟形帽，碟帽直径约为杆径3倍，整体成T形，深石墨灰"
+    product_name: "Cylindrical Bollard with Centred Large Disc Cap"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "圆柱粗杆+顶部正中大圆碟帽，对称T形剪影，碟帽直径约为杆径3倍，高宽比约3:1"
+      light_opening: "碟帽下方向下出光，向下漫射或定向配光，可能有360°向下散光"
+      thermal: "铝合金圆柱杆，铸铝碟帽，深石墨灰"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "铝合金 + 铸铝"
+        finish: "粉末涂层哑光"
+      mounting: "底部直接落地"
+      signature_detail: "宽大圆碟帽居中压顶，与圆柱杆形成蘑菇状对称T形；碟帽尺寸比例控制形成有力视觉重心"
+    design_level:
+      score: 3
+      reason: "经典对称T形蘑菇bollard，圆柱杆版本，造型稳重，属BEGA系列中较常规的变体，无强烈突破"
+    design_tags:
+      - "bollard"
+      - "cylindrical"
+      - "disc-cap"
+      - "symmetric"
+      - "T-silhouette"
+      - "graphite"
+      - "downlight"
+    hero_feature: "宽大圆碟帽居中压顶，强烈的对称T形蘑菇剪影"
+    problem_solved: "路径向下照明，360°向下防眩光，圆柱bollard稳定感强"
+    transferable_technique: "圆柱杆+大直径圆碟帽的对称T形比例，可作为bollard经典形态参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_018"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/18.jpg"
+        image_role: "hero"
+        visual_anchor: "方形截面bollard，杆身主体为温暖实木（柚木色纵向木纹），顶部和底部各有深石墨灰铸铝矩形环箍，顶帽方形单侧悬挑出光"
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/19.jpg"
+        image_role: "variant"
+        visual_anchor: "同款木身bollard，但顶帽为圆弧形（非方帽），圆弧灰铝顶帽+木身+灰铝底箍，顶帽单侧悬挑"
+    product_name: "Wood-Clad Square Bollard with Metal Cap (Square & Round Cap Variants)"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "方形截面bollard，三段构成：灰铝顶帽（悬挑）+实木杆身+灰铝底箍，18为方帽，19为圆弧帽，高宽比约4:1"
+      light_opening: "顶帽悬挑缝隙单侧向下出光，定向窄缝配光"
+      thermal: "铸铝顶帽和底箍，实木（柚木）杆身"
+      cmf:
+        color: "深石墨灰铝 + 温暖柚木棕（纵向木纹）"
+        material: "铸铝 + 实木（柚木/硬木）"
+        finish: "铝粉末涂层哑光，木材自然面/清漆"
+      mounting: "底部铝箍落地，无外露底座"
+      signature_detail: "铸铝金属端箍夹持实木杆身的构造外显，金属与木材的材质对话；BEGA系列中唯一使用天然木材的款式"
+    design_level:
+      score: 5
+      reason: "铝+实木的材料混搭在庭院灯中高度稀缺，温暖木纹与工业铸铝的质感对比强烈；金属端箍夹木的构造逻辑清晰外显；两种帽型提供形态选择；整体溢价感极强"
+    design_tags:
+      - "bollard"
+      - "wood-clad"
+      - "metal-wood-contrast"
+      - "premium"
+      - "natural-material"
+      - "teak"
+      - "square-section"
+      - "two-variants"
+      - "H10-material-expression"
+    hero_feature: "实木杆身+铸铝金属端箍的材质混搭，温暖自然与精密工业的强烈对比"
+    problem_solved: "高端庭院路径照明，木材引入自然温暖感，适合有木质景观的庭院设计"
+    transferable_technique: "金属端箍夹持木材的构造外显手法（H10材料表达），可迁移至家具灯/庭院家具配件设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_庭院灯_020"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "球杆式bollard：细圆柱黑杆顶端托起一只白色乳白玻璃球，球体悬于杆顶，整体如一根火柴或棒棒糖"
+    product_name: "Ball-on-Stick Globe Bollard"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "极简球杆形：圆柱黑杆+顶端白色玻璃球，球径约为杆径5倍，高宽比约5:1，棒棒糖/火柴造型"
+      light_opening: "360°全向漫射，乳白玻璃球整体发光，与04款地面球灯相同球体但置于高杆之上"
+      thermal: "乳白玻璃球，铝合金圆柱杆"
+      cmf:
+        color: "哑光黑杆 + 乳白白（opal white）球"
+        material: "铝合金杆 + 乳白玻璃球"
+        finish: "杆粉末涂层哑光黑，球玻璃光面"
+      mounting: "底部直接落地，无外露底座"
+      signature_detail: "黑色细杆与白色乳白球的强烈色彩对比；球体与杆的接合点极简，几乎无过渡件"
+    design_level:
+      score: 4
+      reason: "将04款地球灯抬升至bollard高度，黑白对比强烈，造型极简有力；球杆比例关系精确，棒棒糖式轮廓辨识度极高"
+    design_tags:
+      - "bollard"
+      - "globe"
+      - "ball-on-stick"
+      - "opal-glass"
+      - "360-degree-light"
+      - "black-white-contrast"
+      - "minimalist"
+      - "iconic-silhouette"
+    hero_feature: "黑色细圆杆+白色乳白玻璃球，强烈黑白色彩对比，棒棒糖式极简轮廓"
+    problem_solved: "路径照明兼景观标记，球体全向散光，高杆版提升可视范围"
+    transferable_technique: "极简球杆构图+黑白强对比的材质色彩搭配，可迁移至台灯/吊灯/壁灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

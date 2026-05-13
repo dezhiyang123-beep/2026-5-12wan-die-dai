@@ -1,0 +1,53 @@
+# 11_pitch_deck.schema.yaml — PPT交付包
+
+schema_version: "2.0"
+
+required:
+  deck_title:
+    type: string
+    description: "PPT标题"
+
+  target_audience:
+    type: string
+    description: "主要受众"
+
+  pages:
+    type: object
+    description: "8页固定结构"
+    fields:
+      cover:
+        type: object
+        fields:
+          product_name: string
+          project_id: string
+          client_brand: string
+          date: string
+      market: object
+      user: object
+      product: object
+      differentiation: object
+      design: object
+      manufacturing: object
+      recommendation: object
+
+  pptx_path:
+    type: string
+    description: "生成的.pptx文件路径，必填"
+
+  decision_maker_versions:
+    type: object
+    description: "针对不同决策者的版本"
+    fields:
+      technical:
+        type: string
+        description: "技术版路径（给Head Grower）"
+      roi:
+        type: string
+        description: "ROI版路径（给Owner）"
+      interface:
+        type: string
+        description: "接口版路径（给品牌方技术）"
+
+validation:
+  - pptx_path必须指向真实存在的.pptx文件
+  - 8页结构不可省略任何一页

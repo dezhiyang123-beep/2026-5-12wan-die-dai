@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "个人护理"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/个人护理/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "shark_personal_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/个人护理/01.jpg"
+        image_role: "hero"
+        visual_anchor: "全脸覆盖LED面罩+遥控器组合，蓝紫光透出椭圆开孔"
+    product_name: "Shark CryoGlow LED面罩"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "个人护理"]
+    design_language:
+      silhouette: "人脸轮廓仿生壳体，正面三开孔（眼×2+嘴），背面竖条纹肋骨结构，遥控器为圆角矩形手持棒"
+      light_opening: "有——眼孔/嘴孔透出蓝紫LED光，是核心视觉锚点"
+      thermal: "遥控器顶部散热网格；面罩背侧留散热间隙"
+      cmf:
+        color: "浅蓝灰（面罩主体）+ 白（遥控器）+ 银灰（边框分件线）"
+        material: "ABS硬壳面罩 + 软硅胶边衬 + 透明PC遥控器屏窗"
+        finish: "磨砂哑光主体 + 高光边框 + 渐变蓝紫遥控器面板"
+      mounting: "头戴束带（白色弹性织带，后部卡扣）"
+      signature_detail: "遥控器黑色OLED屏显示'Shark CryoGlow'品牌字样，金属滚轮旋钮居中"
+    design_level:
+      score: 4
+      reason: "人脸仿生造型识别度极强，LED光效可视化差异化突出；遥控器与面罩CMF高度统一；整体设计系统感好"
+    design_tags: ["LED光疗", "仿生面罩", "美容设备", "人机配对设计", "蓝紫配色"]
+    hero_feature: "全脸LED光疗面罩，蓝紫双波长光从眼孔/嘴孔外透，视觉即功能"
+    problem_solved: "替代诊所级LED光疗护肤，家用便捷且可量化（遥控器参数控制）"
+    transferable_technique: "功能光效外显——将内部发光元件通过形态开孔直接呈现，光即UI，色即功能提示"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "shark_personal_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/shark/个人护理/02.jpg"
+        image_role: "hero"
+        visual_anchor: "银灰色冷热面部设备+配套护肤液瓶组，金属导头为视觉焦点"
+    product_name: "Shark SmoothSense 冷热导入仪套装"
+    brand_name: "Shark"
+    brand_confidence: "high"
+    category_path: ["家电", "个人护理"]
+    design_language:
+      silhouette: "手持蛋形机身（宽约6cm），顶部双凸金属导头；配套机座为方圆混合箱体，背侧斜插透明水瓶"
+      light_opening: "有——机身侧面蓝色LED状态环"
+      thermal: "机身顶部蜂窝打孔散热区（约20×5孔阵）"
+      cmf:
+        color: "银灰（主机）+ 白（机座）+ 薄荷绿（水瓶盖）+ 蓝色LED"
+        material: "铝合金导头 + ABS机身 + 透明PC水瓶"
+        finish: "拉丝银金属导头 + 磨砂灰机身 + 光面白机座"
+      mounting: "无线手持；机座桌面独立摆放"
+      signature_detail: "双凸金属导头——同时呈现冷热两极，视觉上明确传达双模功能"
+    design_level:
+      score: 3
+      reason: "设备+瓶组系统感强，银灰CMF有科技感；但整体形态较为保守，与同类美容仪无显著差异化"
+    design_tags: ["冷热导入", "美容仪", "系统套装设计", "金属导头", "银灰科技风"]
+    hero_feature: "双金属导头实现冷热切换，外观即功能说明，无需阅读说明书"
+    problem_solved: "冷热交替促进护肤品导入吸收，结合配套精华液实现全套护肤流程"
+    transferable_technique: "双头形态语义——两个导头物理分离但同体，形态直接传达双功能，可迁移至其他冷热/双模设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

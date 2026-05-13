@@ -1,0 +1,219 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "场地灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/场地灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_场地灯_001"
+    source_images:
+      - filename: "01__from壁挂灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/场地灯/01__from壁挂灯.jpg"
+        image_role: "hero"
+        visual_anchor: "船形扁平全黑机身，内凹散热栅格，顶部圆形传感器座"
+    product_name: "RAB 场地灯（船形扁体款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "场地灯"]
+    design_language:
+      silhouette: "船型扁平体，两端圆弧收尾，整体低矮横向延伸"
+      light_opening: "底部内凹开口朝下，开口处可见平行散热鳍片"
+      thermal: "顶面内嵌平行散热栅格，与机身一体化融合"
+      cmf:
+        color: "哑光全黑"
+        material: "压铸铝合金"
+        finish: "粉末喷涂，无光泽"
+      mounting: "顶部圆形传感器/安装座，壁挂式延伸臂"
+      signature_detail: "顶部独立圆形传感器凸台与流线机身形成比例对比"
+    design_level:
+      score: 4
+      reason: "极简船形轮廓高度整合，散热栅格与造型语言统一，整体感强，设计辨识度高"
+    design_tags: ["极简整合", "H07", "船形轮廓", "功能外显", "H11", "全黑配色"]
+    hero_feature: "低矮船形扁体+顶部圆形传感器凸台的比例对比"
+    problem_solved: "场地灯体量感大、散热结构破坏整体美感的问题"
+    transferable_technique: "将散热栅格内嵌于机身内凹区域，保留外轮廓完整性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_场地灯_002"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/场地灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "大面积矩形LED阵列面板，侧边密集散热鳍片，壁挂L型支架"
+    product_name: "RAB 场地灯（大功率矩形面板款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "场地灯"]
+    design_language:
+      silhouette: "宽扁矩形，长宽比约2:1，侧边阶梯状散热鳍片向外延伸"
+      light_opening: "正面满铺LED阵列，透过平板光学罩，出光面极大化"
+      thermal: "两侧密集平行铝鳍片，散热结构直接外露为造型语言"
+      cmf:
+        color: "深青铜色/深灰棕"
+        material: "压铸铝合金"
+        finish: "粉末喷涂，轻微质感纹理"
+      mounting: "L型壁挂臂，顶部小型传感器座，可调节俯仰角"
+      signature_detail: "侧向阶梯散热鳍片与大面积LED阵列形成功能外显视觉语言"
+    design_level:
+      score: 3
+      reason: "功能导向设计，散热结构直接外露，实用性强但设计语言较工程化，缺乏差异化细节"
+    design_tags: ["功能外显", "H11", "矩形面板", "大功率", "散热外露"]
+    hero_feature: "满铺LED阵列面板与侧边阶梯散热鳍片的功能外显组合"
+    problem_solved: "大功率场地照明散热与高光通量需求的平衡"
+    transferable_technique: "侧边阶梯散热鳍片作为视觉分件线，赋予工程构件设计感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_场地灯_003"
+    source_images:
+      - filename: "07__from壁挂灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/场地灯/07__from壁挂灯.jpg"
+        image_role: "hero"
+        visual_anchor: "长条流线型机身，前端圆弧收尾，底部LED阵列外露，壁挂长臂"
+    product_name: "RAB 场地灯（流线长臂款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "场地灯"]
+    design_language:
+      silhouette: "细长流线型，前端圆润收尾，后端接壁挂臂，整体呈水平延伸姿态"
+      light_opening: "下方斜向开口，可见LED模组阵列，光学元件半外露"
+      thermal: "顶部机身为封闭铝壳，散热依靠整体铝材导热"
+      cmf:
+        color: "深灰黑色"
+        material: "压铸铝合金"
+        finish: "粉末喷涂，哑光"
+      mounting: "长臂壁挂式，支臂与灯体一体化延伸，螺栓固定"
+      signature_detail: "细长流线体+前端圆弧收尾，赋予场地灯动感比例"
+    design_level:
+      score: 4
+      reason: "流线型轮廓在场地灯品类中辨识度突出，长臂与灯体比例协调，整体感好"
+    design_tags: ["流线造型", "H07极简整合", "长臂延伸", "动感比例", "深灰配色"]
+    hero_feature: "超长流线体与圆弧收尾端的剪影识别性"
+    problem_solved: "场地灯悬挑距离与外观笨重感的矛盾"
+    transferable_technique: "将安装臂与灯体做成连续轮廓，消除结构分件的割裂感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_场地灯_004"
+    source_images:
+      - filename: "08__from路桩灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/场地灯/08__from路桩灯.jpg"
+        image_role: "hero"
+        visual_anchor: "梯形截面灯体，顶部密集横向散热鳍片，底部网格状LED透镜阵列，L型臂"
+    product_name: "RAB 场地灯（梯形散热鳍片款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "场地灯"]
+    design_language:
+      silhouette: "梯形截面，顶宽底窄，侧面线条利落，水平延伸感强"
+      light_opening: "底面倾斜向下，网格状LED透镜矩阵大面积外露"
+      thermal: "顶部密集横向散热鳍片，鳍片高度均匀，形成强烈纹理感"
+      cmf:
+        color: "深黑色"
+        material: "压铸铝合金"
+        finish: "粉末喷涂，哑光"
+      mounting: "L型壁挂臂，顶部传感器座可选装"
+      signature_detail: "顶部密集横向散热鳍片形成强烈纹理带，与光滑侧面形成对比"
+    design_level:
+      score: 3
+      reason: "散热鳍片纹理处理有设计感，但整体比例偏厚重，造型语言较常规"
+    design_tags: ["散热外露", "H11功能外显", "梯形截面", "纹理对比", "网格透镜"]
+    hero_feature: "顶部密集横向散热鳍片形成的纹理带视觉锚点"
+    problem_solved: "大功率LED散热需求与外观整洁性的平衡"
+    transferable_technique: "将散热鳍片集中于顶部形成纹理带，与光面壳体形成H08对比强调"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_场地灯_005"
+    source_images:
+      - filename: "09__from路桩灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/场地灯/09__from路桩灯.jpg"
+        image_role: "hero"
+        visual_anchor: "圆角矩形扁体，顶部细密散热鳍片，底部双LED模组，L型垂直臂"
+    product_name: "RAB 场地灯（圆角扁体双模组款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "场地灯"]
+    design_language:
+      silhouette: "圆角矩形扁体，四角圆润，整体比例均衡，视觉重量适中"
+      light_opening: "底面双LED模组并排布置，透镜清晰可见，出光均匀"
+      thermal: "顶部细密平行散热鳍片，间距均匀，纹理细腻"
+      cmf:
+        color: "深灰黑色"
+        material: "压铸铝合金"
+        finish: "粉末喷涂，哑光细纹"
+      mounting: "L型垂直臂，臂与灯体连接处有加强筋，整体刚性感强"
+      signature_detail: "圆角矩形轮廓与细密散热鳍片的纹理结合，细节精致"
+    design_level:
+      score: 4
+      reason: "圆角处理使整体更现代，双模组出光设计清晰，细密鳍片精致感强，整体完成度高"
+    design_tags: ["圆角矩形", "细密鳍片", "双模组", "H07极简整合", "现代工业"]
+    hero_feature: "圆角扁体轮廓+细密平行散热鳍片的精致组合"
+    problem_solved: "场地灯外观生硬、工程感过强的问题"
+    transferable_technique: "圆角矩形壳体搭配细密鳍片，提升商业级产品精致度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_场地灯_006"
+    source_images:
+      - filename: "10__from路桩灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/场地灯/10__from路桩灯.jpg"
+        image_role: "hero"
+        visual_anchor: "与009高度相似的圆角扁体，顶部散热鳍片，双LED模组，外观更圆润饱满"
+    product_name: "RAB 场地灯（圆角扁体双模组款B）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "场地灯"]
+    design_language:
+      silhouette: "圆角矩形扁体，与005相近但四角圆弧半径更大，整体更饱满圆润"
+      light_opening: "底面双LED模组并排，出光面布局与005一致"
+      thermal: "顶部平行散热鳍片，鳍片数量略少于005，间距稍大"
+      cmf:
+        color: "深灰黑色"
+        material: "压铸铝合金"
+        finish: "粉末喷涂，哑光"
+      mounting: "L型垂直臂，与005同款安装结构"
+      signature_detail: "更大圆弧角赋予更柔和的整体气质，与005构成同系列不同尺寸/功率规格"
+    design_level:
+      score: 3
+      reason: "与005高度相似，设计语言一致，差异主要在尺寸和圆角半径，独立设计贡献度有限"
+    design_tags: ["圆角矩形", "双模组", "系列化", "H07极简整合", "深灰配色"]
+    hero_feature: "大圆弧角扁体的柔和工业感轮廓"
+    problem_solved: "同系列产品功率覆盖，统一视觉语言"
+    transferable_technique: "同一设计语言通过圆角半径变化实现系列产品差异化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

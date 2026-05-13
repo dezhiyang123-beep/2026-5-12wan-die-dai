@@ -1,0 +1,62 @@
+# g1_directions.schema.yaml — G1关卡方向包（analyst输出，G1用户决策输入，conceptor的输入）
+
+schema_version: "1.0"
+
+required:
+  project_id:
+    type: string
+  directions:
+    type: list
+    description: 2-3条设计方向候选，不多不少
+    item_fields:
+      direction_id:
+        type: string
+        description: 方向编号，如 D-A / D-B / D-C
+      title:
+        type: string
+        description: 方向标题（10字以内）
+      core_claim:
+        type: string
+        description: 这个方向的核心主张（1句话，说清楚解决什么矛盾/抓住什么机会）
+      behavioral_contradiction:
+        type: string
+        description: 从g1_intel.user_scenarios中提取的行为矛盾，格式"要[A]就损失[B]"
+      supporting_evidence:
+        type: list
+        description: 支撑这个方向的证据，每条标来源和置信度[H/M/L]
+      counter_evidence:
+        type: list
+        description: 反对这个方向的证据/风险，至少1条，不得为空
+      assumptions:
+        type: object
+        fields:
+          verified:
+            type: list
+            description: 已验证假设（有证据的）
+          unverified:
+            type: list
+            description: 待验证假设（需要用户或后续搜索确认的）
+      boss_7d_preview:
+        type: object
+        description: 老板7维度初评，没数据填UNKNOWN
+        fields:
+          use_scenario: string
+          target_user: string
+          differentiation: string
+          manufacturability: string
+          cost_structure: string
+          market_size: string
+          client_buyin: string
+      analyst_pick:
+        type: string
+        description: analyst推荐哪个方向及原因（必须同时说清可能错在哪）
+
+  analyst_risk_note:
+    type: string
+    description: 基于unknown_summary的整体风险提示
+
+validation:
+  - directions 数量必须在2-3之间
+  - 每个方向的counter_evidence不得为空列表
+  - analyst_pick必须包含"可能错在"字样的自我质疑
+  - 每个方向的结构必须与其他方向在core_claim层面不同

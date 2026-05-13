@@ -1,0 +1,270 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "便携音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "marshall_portable_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/01.jpg"
+        image_role: "hero"
+        visual_anchor: "正面全貌，深灰背景，顶部控制面板+菱格纹网格+金色Logo"
+    product_name: "Marshall Stackton Mini"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "竖向矩形，圆角小，高宽比约1.4:1，整体厚实方正"
+      light_opening: "无独立散热开口，顶部控制条与箱体一体"
+      thermal: "被动散热，无外露出风口"
+      cmf:
+        color: "全黑，金色Logo字体，红色电源指示灯点缀"
+        material: "仿皮覆面箱体，金属网格面板，金属旋钮"
+        finish: "哑光皮革纹理 + 亮金属旋钮对比"
+      mounting: "无提手，底部平置"
+      signature_detail: "顶部横排多旋钮控制面板（复古吉他音箱仿生），菱格纹金属网格，草书Marshall Logo"
+    design_level:
+      score: 4
+      reason: "完整复刻Marshall吉他音箱DNA，顶部多旋钮面板是强品牌记忆点，细节密度高，品牌辨识度极强"
+    design_tags: ["复古仿生", "吉他音箱复刻", "顶部控制面板", "菱格纹网格", "多旋钮", "黑金配色"]
+    hero_feature: "顶部横排多旋钮控制面板——直接移植自Marshall吉他音箱造型"
+    problem_solved: "让蓝牙音箱承载摇滚/乐手文化认同感，而不仅是播放设备"
+    transferable_technique: "功能控件外显为装饰性面板，用旋钮密度传达专业感；仿生参照物（吉他音箱）驱动整体比例"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/02.jpg"
+        image_role: "hero"
+        visual_anchor: "正面全貌，顶部伸缩提手收起状态，高宽比约1.6:1"
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/03.jpg"
+        image_role: "context"
+        visual_anchor: "大小两款Stackton同框对比，明确尺寸层级关系"
+      - filename: "03_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/03_dup1.jpg"
+        image_role: "context"
+        visual_anchor: "同03.jpg，同款同场景重复拍摄"
+    product_name: "Marshall Stackton 大款"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "竖向高矩形，高宽比约1.6:1，顶部集成可收缩提手"
+      light_opening: "无散热开口"
+      thermal: "被动散热"
+      cmf:
+        color: "全黑，金色草书Logo，红色电源指示灯"
+        material: "仿皮覆面，金属菱格纹网格，金属旋钮"
+        finish: "哑光皮革纹理 + 亮面金属旋钮"
+      mounting: "顶部伸缩提手，便携提携"
+      signature_detail: "顶部横排旋钮控制面板 + 伸缩提手，菱格纹大面积金属网格，草书Logo居中"
+    design_level:
+      score: 4
+      reason: "在Stackton Mini基础上增加伸缩提手，提升便携性同时保持完整吉他音箱仿生语言，尺寸更大视觉冲击力更强"
+    design_tags: ["复古仿生", "吉他音箱复刻", "伸缩提手", "顶部控制面板", "菱格纹网格", "尺寸系列化"]
+    hero_feature: "伸缩金属提手 + 顶部多旋钮面板的组合——搬运感与专业感同时传达"
+    problem_solved: "提供更大音量的便携选项，提手解决大尺寸设备的移动痛点"
+    transferable_technique: "伸缩提手与箱体顶部无缝整合，收起时不破坏整体轮廓；尺寸系列化时保持100%设计语言一致性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/04.jpg"
+        image_role: "hero"
+        visual_anchor: "正面全貌，米白/奶油色配色，大圆角正方形轮廓"
+    product_name: "Marshall Willen 奶油白"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "正方形，圆角半径大（约体积15%），极紧凑，高宽比接近1:1"
+      light_opening: "无独立散热口"
+      thermal: "被动散热"
+      cmf:
+        color: "奶油白/米色主体，金色Logo与金属按钮，红色LED指示灯"
+        material: "织物覆面（菱格纹），金属网格，金属旋钮"
+        finish: "温暖哑光织物 + 亮金属点缀"
+      mounting: "无提手，紧凑体型便于手持"
+      signature_detail: "大圆角正方形轮廓，织物菱格纹，单金属圆形按钮（右上角），草书Logo"
+    design_level:
+      score: 3
+      reason: "尺寸极致压缩，保留核心品牌符号（菱格纹+草书Logo），但功能控件简化为单按钮，品牌密度略低于Stackton系列"
+    design_tags: ["超紧凑", "大圆角", "单按钮极简控制", "菱格纹织物", "奶油白", "金黑点缀"]
+    hero_feature: "口袋级尺寸 + Marshall完整品牌符号压缩进正方形轮廓"
+    problem_solved: "极致便携场景（随身携带、户外徒步），不牺牲品牌辨识度"
+    transferable_technique: "大圆角正方形轮廓使小体积显得饱满而非廉价；单控件设计聚焦核心操作"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_004"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/05.jpg"
+        image_role: "hero"
+        visual_anchor: "正面3/4俯视角，黑色配色，横卧矩形，顶部控件可见"
+    product_name: "Marshall Emberton III 黑色"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向卧式矩形，宽高比约2.5:1，圆角适中，扁平厚实感"
+      light_opening: "无独立散热口"
+      thermal: "被动散热"
+      cmf:
+        color: "全黑主体，金色Logo，金色圆形旋钮，红色指示灯"
+        material: "仿皮/织物覆面，金属菱格纹网格，金属旋钮"
+        finish: "黑色哑光覆面 + 金色金属旋钮高对比"
+      mounting: "无提手，卧式平置"
+      signature_detail: "顶部单金色圆形旋钮居左（多功能控制），横向菱格纹金属网格面板占主体，草书Logo居中"
+    design_level:
+      score: 4
+      reason: "经典横卧形态，顶部单旋钮既保留Marshall专业感又极简化操作，菱格纹网格大面积展示是最强视觉记忆点，黑金配色成熟"
+    design_tags: ["横卧卧式", "单旋钮顶控", "菱格纹网格", "黑金配色", "扁平厚实", "经典款"]
+    hero_feature: "顶部单个大尺寸金色旋钮——保留Marshall旋钮DNA同时极简化到一个控件"
+    problem_solved: "家庭桌面/户外平放场景，横卧形态稳定性更好，单旋钮降低操作门槛"
+    transferable_technique: "单旋钮承担多功能（音量+模式）减少控件数量而不失专业感；横卧比例使网格面板面积最大化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/07.jpg"
+        image_role: "hero"
+        visual_anchor: "正面纯色背景，奶油白配色，正面完整细节清晰"
+      - filename: "07_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/07_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "同07.jpg，同款同场景重复拍摄"
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/06.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "用户手持提绳携带，城市街头场景，展示便携使用方式"
+    product_name: "Marshall Emberton III 奶油白"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向卧式矩形，宽高比约2.5:1，与黑色款完全一致"
+      light_opening: "无独立散热口"
+      thermal: "被动散热"
+      cmf:
+        color: "奶油白/米色主体，金色Logo，金色旋钮，红色指示灯"
+        material: "仿皮/织物覆面，金色调菱格纹金属网格，金属旋钮"
+        finish: "温暖奶油色哑光覆面 + 金色系网格，整体暖色调统一"
+      mounting: "配套细绳挂绳（lifestyle图可见），可手提携带"
+      signature_detail: "奶油白+金色网格暖色调组合，挂绳配件增加随身携带方式"
+    design_level:
+      score: 4
+      reason: "配色切换有效拓展用户群（奶油白吸引时尚/女性用户），暖色调金属网格与白色覆面协调性优秀，挂绳配件强化便携定位"
+    design_tags: ["横卧卧式", "奶油白", "暖金色网格", "挂绳携带", "时尚配色", "生活场景"]
+    hero_feature: "奶油白 + 金色调网格的暖色系组合——同一产品形态通过配色实现完全不同的用户情绪"
+    problem_solved: "吸引不偏好全黑摇滚风格的用户群，时尚/日常场景适配性更强"
+    transferable_technique: "配色系列化时保持金属件（旋钮/网格）色温与主体色调一致（冷色搭冷金属，暖色搭暖金属）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/08.jpg"
+        image_role: "hero"
+        visual_anchor: "正面俯视，黑色正方形，无网格，仅草书Logo+EST.1962副文字可见，极简背面"
+    product_name: "Marshall Willen II 黑色"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "正方形，大圆角，与Willen一代轮廓一致"
+      light_opening: "无散热开口"
+      thermal: "被动散热"
+      cmf:
+        color: "全黑，金色草书Logo，金色EST.1962副文字"
+        material: "织物/仿皮覆面（细纹理），无金属网格（疑似背面视角或新款去除网格）"
+        finish: "哑光黑色细纹理覆面，极度克制"
+      mounting: "无提手"
+      signature_detail: "去除菱格纹网格，仅保留草书Logo+年份副文字；覆面纹理细腻均匀；右上角单按钮"
+    design_level:
+      score: 3
+      reason: "极简化处理去除了标志性菱格纹网格，品牌视觉密度降低，但覆面纹理精细，Logo表达更聚焦；疑为背面或新款设计方向"
+    design_tags: ["超紧凑", "大圆角", "极简无网格", "全黑", "Logo极简", "EST.1962"]
+    hero_feature: "去除菱格纹后仅以草书Logo+年份定义品牌——最低限度的品牌符号测试"
+    problem_solved: "更低调的便携音箱，避免强烈摇滚视觉语言的场合适配"
+    transferable_technique: "当移除主体装饰元素时，Logo排版和副文字（品牌历史年份）可承担品牌锚定责任"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "图片仅展示背面或简化面，无法确认是否为正面主视角或新款设计；需确认是否为Willen II全新设计方向"
+
+  - product_id: "marshall_portable_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/09.jpg"
+        image_role: "hero"
+        visual_anchor: "正面纯色背景，军绿色配色，正面完整"
+    product_name: "Marshall Emberton III 军绿色"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向卧式矩形，与黑色/奶油白款完全一致"
+      light_opening: "无独立散热口"
+      thermal: "被动散热"
+      cmf:
+        color: "军绿/橄榄绿主体，金色Logo，金色旋钮，红色指示灯"
+        material: "仿皮/织物覆面，金色调菱格纹金属网格，金属旋钮"
+        finish: "哑光军绿覆面 + 金色系网格，复古军事色调"
+      mounting: "无提手，卧式平置"
+      signature_detail: "军绿+金色组合呈现复古军事美学，与摇滚文化形成差异化情绪"
+    design_level:
+      score: 3
+      reason: "配色有效扩展产品线覆盖面，军绿+金色有独特复古军事气质，但相比黑色/奶油白在视觉层级上属跟随款"
+    design_tags: ["横卧卧式", "军绿色", "复古军事", "暖金色网格", "配色系列化", "Emberton系列"]
+    hero_feature: "军绿色覆面 + 金色网格——调用复古军事美学与摇滚文化形成视觉呼应"
+    problem_solved: "覆盖偏好户外/军事美学的用户，扩大Emberton III的配色矩阵"
+    transferable_technique: "配色系列化第三色选择策略：黑（经典）→奶油白（时尚）→军绿（户外/个性），三色覆盖三类人群"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,50 @@
+# 09_roi_pricing.schema.yaml — 成本ROI定价
+
+schema_version: "2.0"
+
+required:
+  bom_estimate:
+    type: string
+    description: "BOM成本估算，$X.XX [H/M/L]，必须有来源"
+
+  factory_price:
+    type: string
+    description: "出厂价（BOM×1.3-1.5倍估算）"
+
+  channel_price:
+    type: string
+    description: "渠道价（出厂价+渠道扣点）"
+
+  end_price:
+    type: string
+    description: "建议零售价"
+
+  roi_months:
+    type: integer
+    description: "投资回收期（月）"
+
+  roi_assumptions:
+    type: list
+    description: "ROI计算假设列表（每条假设标置信度）"
+
+  value_to_buyer:
+    type: string
+    description: "对买家的价值陈述（相比替代方案节省多少成本/时间）"
+
+  margin_check:
+    type: object
+    fields:
+      gross_margin_pct:
+        type: string
+        description: "毛利率估算（从出厂价反推）"
+      bom_to_retail_ratio:
+        type: string
+        description: "BOM占零售价比例（通常应在25-40%范围内）"
+      verdict:
+        type: enum
+        values: ["acceptable", "tight", "unviable"]
+
+validation:
+  - bom_estimate超出目标价格带25%必须标"激进备选"
+  - roi_assumptions不得为空
+  - margin_check.verdict=unviable时触发回流G3检查cost_tier

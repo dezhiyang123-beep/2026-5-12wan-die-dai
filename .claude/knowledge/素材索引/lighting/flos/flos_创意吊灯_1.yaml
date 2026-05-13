@@ -1,0 +1,722 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "创意吊灯"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "flos_创意吊灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "细长水平杆由7节哑光铬色圆柱体节节相扣组成，两端以细透明线悬吊，极简线性轮廓"
+    product_name: "Arrangements (tube module variant)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "线型吊灯"
+    design_language:
+      silhouette: "超薄水平线段，多节铬色圆柱串联，长宽比约10:1，近似于一根工业管道"
+      light_opening: "360度漫射，光从各节玻璃/铬筒缝隙向四周发散，无明确单向开口"
+      thermal: "金属铝/铬铸体兼作散热，节间缝隙利于通风"
+      cmf:
+        color: "铬银色"
+        material: "金属（铬/铝）"
+        finish: "高抛光镜面"
+      mounting: "wire（双透明悬线，直接吊顶）"
+      signature_detail: "多节铬筒节节串联如脊椎骨，接头处可见细密螺纹环，模块化组合感"
+    design_level:
+      score: 4
+      reason: "高度克制的模块美学，以工业脊椎感实现线型照明，比例与材质处理精到"
+    design_tags:
+      - "线型"
+      - "模块化"
+      - "铬色"
+      - "极简"
+      - "H05模块化"
+      - "H07极简整合"
+    hero_feature: "多节铬圆柱体串联成「工业脊椎」轮廓，无多余装饰"
+    problem_solved: "在长桌/岛台上方提供均匀线型照明，同时以雕塑感替代普通灯管的平庸视觉"
+    transferable_technique: "模块节段化线型灯体——每节独立散热/发光，整体形成视觉节奏；可迁移至工具杆、洗手台横梁等线型产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "同一水平铬色横杆上串8颗透明/半透明玻璃球，球球紧密排列如算盘珠，双细线悬吊"
+    product_name: "Arrangements (globe module variant)"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "线型吊灯"
+    design_language:
+      silhouette: "水平线串8球，侧视为一条有节奏感的珠链，正视为均匀球阵"
+      light_opening: "全向球形漫射，每颗玻璃球360度出光，无定向开口"
+      thermal: "金属横杆兼散热主干，玻璃球为被动散热体"
+      cmf:
+        color: "铬银色杆 + 透明/烟灰玻璃球"
+        material: "金属（铬）+ 吹制玻璃"
+        finish: "镜面铬 + 透明光洁玻璃"
+      mounting: "wire（双透明悬线，直接吊顶）"
+      signature_detail: "8颗玻璃球等距穿于铬横杆，球间夹紧件极细，整体呈「珠帘横陈」意象"
+    design_level:
+      score: 4
+      reason: "玻璃球与铬金属的古典与现代张力，节奏感强，单一手法执行到位"
+    design_tags:
+      - "线型"
+      - "多灯头"
+      - "玻璃球"
+      - "铬色"
+      - "H05模块化"
+      - "H10材料表达"
+    hero_feature: "8颗等距透明玻璃球串联于铬横杆，亮灯后呈珍珠项链式光晕"
+    problem_solved: "长桌均匀照明 + 装饰性陈列感，以多点光源替代单一光源的生硬感"
+    transferable_technique: "球型漫射体串联线型排布——单个模块造型克制，重复排列产生仪式感；可迁移至多头吊灯阵列设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "深橙棕色圆柱形横杆，底部纵向开一道窄缝透出温暖黄光，单黑色线悬吊，两端各有小固定扣"
+    product_name: "Coordinates S (suspected)"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "线型吊灯"
+    design_language:
+      silhouette: "简洁圆柱体横向悬浮，底部一条贯穿全长的细缝是唯一光出口，极度克制"
+      light_opening: "底部纵向线缝漫射，光线向下方一字型投射"
+      thermal: "圆柱体外壳（皮革或涂层金属）包裹内部光源，底缝兼作通风槽"
+      cmf:
+        color: "焦橙棕/赭石色"
+        material: "皮革包覆或皮质感涂层金属"
+        finish: "亚光皮革纹理"
+      mounting: "wire（单黑色悬线，直接吊顶）"
+      signature_detail: "皮革质感圆柱体底部的一道贯穿缝——光从「伤口」中透出，材质与出光逻辑高度统一"
+    design_level:
+      score: 4
+      reason: "皮革感圆柱 + 底部线缝出光，材质语言与出光方式高度匹配，是一个完整的设计意图表达"
+    design_tags:
+      - "线型"
+      - "皮革"
+      - "暖色"
+      - "缝隙出光"
+      - "H10材料表达"
+      - "H09隐藏工程"
+    hero_feature: "皮革质感圆柱底部的一道贯穿光缝——隐藏光源，仅以缝隙出光"
+    problem_solved: "在餐厅/吧台提供定向柔和下照，同时以皮革材质引入温暖手工质感"
+    transferable_technique: "圆柱体底部线缝出光——将「隐藏工程」与「材料表达」合并为一个动作；可迁移至家具/扶手/把手的氛围照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "具体型号待确认（疑似Coordinates系列），品牌信心medium因未见明确标识"
+
+  - product_id: "flos_创意吊灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "饱满白色磨砂半球形灯罩，顶部接一节深棕/黑色圆柱连接件，底部圆口微微内收，单黑线悬吊"
+    product_name: "Bellhop Pendant (suspected)"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "半球罩吊灯"
+    design_language:
+      silhouette: "圆润饱满的倒扣碗形，顶部有短圆柱帽，整体比例接近1:1（高宽相近），无棱角"
+      light_opening: "底部圆形开口向下投射，内有暗色环形收口圈，形成聚焦感"
+      thermal: "磨砂玻璃罩向外散热，顶部金属帽作热传导件"
+      cmf:
+        color: "白色罩体 + 深棕/近黑色金属帽"
+        material: "吹制磨砂玻璃 + 金属"
+        finish: "磨砂（罩）+ 亚光深色（帽）"
+      mounting: "wire（单黑色线 + 黑色顶盖，直接吊顶）"
+      signature_detail: "白色磨砂玻璃球罩底部内嵌深色金属环收口——形成「碗中有眼」的双层视觉，出光口有光晕边框感"
+    design_level:
+      score: 3
+      reason: "白玻璃球形罩是经典Flos语言，双色对比处理干净，设计完整但无颠覆性创新"
+    design_tags:
+      - "半球罩"
+      - "磨砂玻璃"
+      - "双色"
+      - "圆润"
+      - "H07极简整合"
+    hero_feature: "白色磨砂玻璃半球底部的深色金属收口环——制造「漂浮碗」视觉，亮灯后底部形成光晕框"
+    problem_solved: "提供柔和全向+定向下照混合光，磨砂玻璃消除眩光"
+    transferable_technique: "球形漫射罩 + 底部金属收口环——用收口改变出光焦点感；可迁移至灯笼/台灯/浴室镜灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "型号待确认，疑似Bellhop或Glo-Ball系列变体"
+
+  - product_id: "flos_创意吊灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "3根六边形截面透明玻璃柱垂直集群排列，内含多根金色/黄色LED细管，顶部铬色六角夹具连接，单细线悬吊"
+    product_name: "IC Tubes Cluster (suspected)"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "集群吊灯"
+    design_language:
+      silhouette: "3根竖直玻璃柱构成非对称集群，高低不一，俯视呈三角形布局，像城市建筑群轮廓"
+      light_opening: "全向漫射，LED细管在透明玻璃柱内全方向发光，无定向遮挡"
+      thermal: "铬色金属顶帽散热，玻璃柱底端开放辅助通风"
+      cmf:
+        color: "透明玻璃 + 铬银色金属件 + 暖白/黄色光源"
+        material: "透明棱柱玻璃 + 金属（铬）"
+        finish: "光洁透明（玻璃）+ 抛光铬（金属）"
+      mounting: "wire（单透明细线，直接吊顶）"
+      signature_detail: "六边形截面玻璃柱内密排多根竖向LED细管——透过棱面发生折射，点光源变成线阵，几何感强烈"
+    design_level:
+      score: 4
+      reason: "棱柱折射将LED细管几何化，集群高低错落制造建筑感，是技术与造型的精准统一"
+    design_tags:
+      - "集群"
+      - "棱柱玻璃"
+      - "LED细管"
+      - "铬色"
+      - "H04参数化"
+      - "H10材料表达"
+    hero_feature: "六边形透明棱柱内多根LED细管——棱面折射将点状光源变为竖向光帘"
+    problem_solved: "以几何棱柱集群替代传统枝形吊灯，提供仪式感同时保持现代感"
+    transferable_technique: "棱柱内置线型光源——利用棱面折射效果放大光源视觉体量；可迁移至展示柜灯、建筑立面照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "型号待确认，疑似IC Tubes或定制集群版本"
+
+  - product_id: "flos_创意吊灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "橙色天花底座接细钢丝垂直拉伸，中段橙色弯折短管夹持一颗朝向侧方的乳白玻璃球泡，黑色电线自由垂落，底部橙色圆形配重"
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/12.jpg"
+        image_role: "variant"
+        visual_anchor: "红色版本，结构与橙色版本相同——红色底座/弯管/配重，乳白球泡朝侧方"
+    product_name: "Parentesi"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "悬索吊灯"
+    design_language:
+      silhouette: "极细垂直钢丝从天花拉至地面配重，灯头以夹具锚定于线上，可沿线上下滑动，整体是一根「竖向光标」"
+      light_opening: "侧向球形漫射，乳白玻璃球泡向周围均匀出光，灯头方向可通过夹具旋转调整"
+      thermal: "金属夹具散热，球泡玻璃自然散热"
+      cmf:
+        color: "橙色（06.jpg）/ 红色（12.jpg）金属件 + 乳白玻璃球泡"
+        material: "金属（涂色铝）+ 吹制乳白玻璃 + 钢丝"
+        finish: "哑光色漆（金属件）+ 磨砂（玻璃）"
+      mounting: "wire（顶部固定钢丝 + 底部配重锚，灯头位置可沿线滑动调节高度）"
+      signature_detail: "从天花到地面的垂直钢索 + 夹式灯头可无级调节高度——将灯变成「垂直轨道」上的活动元素"
+    design_level:
+      score: 5
+      reason: "Achille Castiglioni 1971年设计，张力钢丝悬挂系统是空间装置级的工程诗意，Flos经典图腾之一"
+    design_tags:
+      - "悬索"
+      - "高度可调"
+      - "极简"
+      - "彩色"
+      - "经典"
+      - "H11功能外显"
+      - "H07极简整合"
+    hero_feature: "从天花延伸至地面的垂直张力钢索，灯头夹具可沿线无级滑动——高度随意、结构即造型"
+    problem_solved: "在无需固定安装高度的场景提供可调位置的聚焦照明，同时钢丝系统作为空间装置存在"
+    transferable_technique: "张力线 + 滑动夹具位置调节——将「不确定性」设计进产品；可迁移至展陈系统、帷幕固定、可调高度挂钩"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色高光半球形灯罩，底部开口向下，内壁是精细白色石膏浮雕植物纹样，外表面纯黑光滑，单透明线悬吊"
+    product_name: "Skygarden"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "半球罩吊灯"
+    design_language:
+      silhouette: "饱满半球，外壁光洁无装饰，底部全开口；仰望可见内壁丰富浮雕，形成「内藏秘境」感"
+      light_opening: "底部全开口向下漫射，内壁浮雕作为反射面将光柔化并向下方均匀投射"
+      thermal: "金属/树脂外壳被动散热，内部石膏浮雕层有一定隔热作用"
+      cmf:
+        color: "外壁黑色（亦有白色版）+ 内壁白色石膏"
+        material: "金属外壳 + 石膏浮雕内壁"
+        finish: "高光（外壁）+ 亚光石膏纹理（内壁）"
+      mounting: "wire（单透明悬线，直接吊顶）"
+      signature_detail: "半球内壁满布白色石膏植物浮雕——外观极度克制，内部却是一座微型洛可可花园，形成震撼的内外反差"
+    design_level:
+      score: 5
+      reason: "Marcel Wanders设计，外黑内白+石膏浮雕的内外反差是Flos最被广泛引用的标志性设计手法之一"
+    design_tags:
+      - "半球罩"
+      - "浮雕"
+      - "内外反差"
+      - "经典"
+      - "H06仿生"
+      - "H08对比强调"
+    hero_feature: "光洁黑色半球外壳内藏白色石膏植物浮雕——「黑盒子里的花园」，亮灯时浮雕形成光影层次"
+    problem_solved: "为现代空间引入古典装饰张力，以极简外观包裹繁复内饰，满足仪式感需求"
+    transferable_technique: "「外极简内繁复」的双面设计语言——正面/外表克制，翻转/内部藏彩蛋；可迁移至容器、音箱外壳、珠宝盒内衬"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "哑光黑色截锥体灯头斜向倾斜，开口朝向侧前方，双黑线V形悬吊，顶部有小型旋转关节"
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/11.jpg"
+        image_role: "variant"
+        visual_anchor: "与08.jpg相同产品，差异：线缆末端接地面插头（插线板版本），悬吊方式相同"
+    product_name: "Aim"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "定向点吊灯"
+    design_language:
+      silhouette: "圆柱截面灯头，一端开口，整体像一个被双线悬挂的迷你探照灯头，因重力自然向下倾斜"
+      light_opening: "正面圆形开口定向照射，内有白色漫射板，开口呈圆形，可通过旋转关节调整方向"
+      thermal: "金属灯体被动散热，顶部旋转关节为热点"
+      cmf:
+        color: "哑光黑色（亦有白色版）"
+        material: "金属（铝）"
+        finish: "亚光磨砂喷涂"
+      mounting: "wire（双线V形悬吊，顶部小型旋转锁紧关节控制倾斜角度）"
+      signature_detail: "双悬线V形汇聚于灯体顶部旋转关节——悬线本身构成几何，灯头因重力和关节角度形成精准指向"
+    design_level:
+      score: 4
+      reason: "Ronan & Erwan Bouroullec设计，双线V形悬挂与可调旋转关节将「悬挂力学」变为设计语言，简洁且高效"
+    design_tags:
+      - "定向"
+      - "可调角度"
+      - "哑光黑"
+      - "双线悬吊"
+      - "H11功能外显"
+      - "H07极简整合"
+    hero_feature: "双线V形悬挂 + 顶部旋转关节——力学悬挂即是造型，灯头重力自然成角"
+    problem_solved: "在无轨道系统的空间实现精准定向照明，外观比射灯更优雅"
+    transferable_technique: "双线V形悬挂旋转关节——以物理力学替代复杂调节机构；可迁移至可调角度悬挂托架、展示架旋转节点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "超薄白色大圆盘水平悬浮，中心上方悬一颗铬色小半球，两侧伸出细拉线斜向上连接顶部黑色垂线，盘面通体乳白磨砂"
+    product_name: "Frisbi"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "飞碟盘形吊灯"
+    design_language:
+      silhouette: "极薄大圆盘水平漂浮，直径远大于厚度（约20:1），边缘轻薄如飞碟，中心有铬色小半球点缀"
+      light_opening: "盘面向下全面漫射，磨砂白亚克力/玻璃盘面作为整体发光面，向下均匀投射大面积柔光"
+      thermal: "盘面大面积被动散热，中心铬球内部为热源集中点"
+      cmf:
+        color: "乳白色盘面 + 铬色中心半球 + 黑色悬线"
+        material: "乳白磨砂亚克力或玻璃盘 + 铬金属"
+        finish: "磨砂漫射（盘）+ 镜面铬（半球）"
+      mounting: "wire（顶部单黑线 + 两侧对称细拉线斜撑，三点稳定系统）"
+      signature_detail: "超薄圆盘 + 顶部铬色半球 + 斜向拉线——三者共同构成「飞碟被线栓住」的视觉张力，悬挂系统高度可见"
+    design_level:
+      score: 5
+      reason: "Achille & Pier Giacomo Castiglioni 1978年设计，Flos经典之一，飞碟漂浮感与可见悬挂系统的诗意张力无可超越"
+    design_tags:
+      - "圆盘"
+      - "飞碟"
+      - "超薄"
+      - "经典"
+      - "拉线稳定"
+      - "H07极简整合"
+      - "H09隐藏工程"
+    hero_feature: "超薄白色大圆盘 + 斜向拉线稳定系统——「飞碟被缆绳拴住」的视觉悬念"
+    problem_solved: "在高挑空间提供大面积柔和下照，同时以飞碟形态取代传统圆形吊灯的平庸"
+    transferable_technique: "超薄盘体 + 斜向拉线稳定——将结构拉线设计进视觉语言；可迁移至薄型显示屏壁挂、悬浮货架支撑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "宽扁圆鼓形灯罩，高光猎人绿色，底部开口处可见白色漫射内圈，单透明线悬吊，无可见顶盖"
+    product_name: "Smithfield"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "鼓形罩吊灯"
+    design_language:
+      silhouette: "扁宽圆鼓形，宽高比约2:1，边缘圆润，侧面轮廓如一只翻转的浅碗，比例低矮厚重"
+      light_opening: "底部全开口圆形漫射，白色内圈漫射板均匀向下投射"
+      thermal: "金属外壳被动散热，底部开口辅助通风"
+      cmf:
+        color: "猎人绿（亦有黑/白版本）"
+        material: "金属（钢/铝）"
+        finish: "高光喷漆"
+      mounting: "wire（单透明悬线，直接吊顶，无可见顶盖）"
+      signature_detail: "宽扁鼓形外壳高光色彩 + 底部白色漫射内圈——外部色彩雕塑感强，底部出光口形成色彩与白色的框边对比"
+    design_level:
+      score: 4
+      reason: "Jasper Morrison设计，扁圆鼓比例与高光彩色工业涂装的结合，是功能主义与色彩张力的平衡典范"
+    design_tags:
+      - "鼓形罩"
+      - "彩色"
+      - "高光"
+      - "工业感"
+      - "H08对比强调"
+      - "H07极简整合"
+    hero_feature: "高光彩色宽扁鼓形罩——比例扁宽、色彩强烈，造型即主张"
+    problem_solved: "餐厅/吧台上方提供高亮度集中下照，同时以彩色鼓形成为视觉焦点装饰件"
+    transferable_technique: "宽扁鼓形比例 + 高光单色——以克制形体和强色彩制造视觉冲击；可迁移至容器盖、扁平储物罐、音箱顶盖"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_011"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色中心垂直主杆，两层横臂各约9-10根向外辐射，每根臂末端夹持一颗小型裸露钨丝灯泡，电线沿臂体自然垂落，整体呈枝形吊灯剪影"
+    product_name: "2097"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "枝形吊灯"
+    design_language:
+      silhouette: "中心垂直杆 + 多层辐射臂，结构裸露无任何装饰罩，18-30颗小灯泡分布于臂端，像一棵枝叶稀疏的金属树"
+      light_opening: "多向裸露灯泡，360度全方向发光，无遮挡，高眩光，高氛围感"
+      thermal: "全开放结构，自然对流散热，无任何热积聚风险"
+      cmf:
+        color: "哑光黑色（亦有金色/铬色版本）"
+        material: "金属（钢）"
+        finish: "亚光喷漆"
+      mounting: "wire（单细线 + 顶部中心杆，直接吊顶）"
+      signature_detail: "裸露结构臂 + 裸灯泡 + 自然垂落的黑色电线——所有工程元素完全可见，「骨架即装饰」"
+    design_level:
+      score: 5
+      reason: "Gino Sarfatti 1958年设计，Flos最具代表性的图腾之一，裸露工程美学定义了整个意大利现代灯具设计语言"
+    design_tags:
+      - "枝形"
+      - "裸灯泡"
+      - "工程美学"
+      - "经典"
+      - "多灯头"
+      - "H11功能外显"
+    hero_feature: "多层辐射臂端裸露灯泡 + 自然垂落电线——结构即装饰，工程细节全部外显"
+    problem_solved: "在大空间中提供多点柔和环境光，同时以枝形轮廓替代传统吊灯的封闭感"
+    transferable_technique: "裸露结构臂阵列——将电气/机械连接件作为视觉主角；可迁移至多臂机械臂展示架、工业风搁架支撑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_012"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "深烟熏黑色透明锥形罩，外层为横纹肌理半透明锥壳，内嵌乳白球形内罩，三根透明细线悬吊，整体呈锥形"
+    product_name: "KTribe S"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "锥形罩吊灯"
+    design_language:
+      silhouette: "标准锥形（上窄下宽），外罩半透明烟熏色带细密横纹，内置乳白球形扩散体，整体轮廓清晰锥形"
+      light_opening: "底部圆形开口向下出光，外锥罩通透漫射侧向补光，内球向下定向投射"
+      thermal: "双层结构（外锥 + 内球）形成空气间层，被动散热"
+      cmf:
+        color: "烟熏黑/透明（外罩）+ 乳白色（内球）"
+        material: "注塑PMMA（横纹外锥）+ 吹制玻璃或PMMA（内球）"
+        finish: "半透明横纹肌理（外）+ 磨砂乳白（内）"
+      mounting: "wire（三透明细线等距悬吊，稳定性好）"
+      signature_detail: "横纹肌理半透明外锥罩内嵌乳白球——双层叠套，发光时外锥透出朦胧光晕，内球清晰可见，层次感强"
+    design_level:
+      score: 4
+      reason: "Philippe Starck设计，双层嵌套发光体构造，外层肌理光学处理精到，是Starck在Flos最成熟的产品线之一"
+    design_tags:
+      - "锥形"
+      - "双层"
+      - "烟熏色"
+      - "横纹肌理"
+      - "H10材料表达"
+      - "H08对比强调"
+    hero_feature: "横纹半透明外锥 + 内嵌乳白球——双层光学结构，外层肌理漫射光晕，内层球形聚焦投射"
+    problem_solved: "在餐厅/起居室提供定向+漫射混合光，同时烟熏色半透明外罩降低亮灯时的视觉刺激"
+    transferable_technique: "双层嵌套漫射体——外层肌理过滤光线，内层形体聚焦；可迁移至灯罩设计、双层水杯、香薰瓶"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_013"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "三节透明玻璃体垂直堆叠：顶部小圆柱、中部大圆柱、底部扩口锥体，各节间有细黑金属环连接，单细线悬吊"
+    product_name: "Noctambule"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "模块堆叠吊灯"
+    design_language:
+      silhouette: "竖向三节堆叠，透明玻璃体逐渐向下扩展（圆柱-圆柱-锥），如三节火箭或望远镜，清晰的体量递进逻辑"
+      light_opening: "底部锥形开口向下出光，各节玻璃体全向漫射侧向补光，LED光源在各节环形金属件内"
+      thermal: "细金属环连接件内置LED，开放玻璃体自然散热"
+      cmf:
+        color: "全透明无色玻璃 + 哑光黑色金属环"
+        material: "吹制透明玻璃 + 金属"
+        finish: "光洁透明（玻璃）+ 亚光黑（金属环）"
+      mounting: "wire（单细线，直接吊顶）"
+      signature_detail: "透明玻璃节节叠加，内部LED藏于细黑金属环中——玻璃体积随堆叠增大，光源节点处形成细黑「关节」，有机械感"
+    design_level:
+      score: 4
+      reason: "Konstantin Grcic设计，透明玻璃模块堆叠的体量递进逻辑严格，结构诚实，是Flos近年最具分量的新品"
+    design_tags:
+      - "模块堆叠"
+      - "透明玻璃"
+      - "体量递进"
+      - "竖向"
+      - "H05模块化"
+      - "H10材料表达"
+    hero_feature: "三节透明玻璃体逐渐扩大垂直堆叠——体量递进逻辑清晰，亮灯后每节玻璃均匀发光似悬浮光柱"
+    problem_solved: "在高挑空间提供多层次立体照明，以透明模块堆叠取代传统单体灯罩的平面感"
+    transferable_technique: "透明体积渐变堆叠——通过体量差异制造视觉节奏；可迁移至花瓶叠罐、展示台阶、包装层叠设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_014"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "圆顶半球形灯罩，外壁密布水平环形肋条凹槽，深棕色/近黑高光，底部开口，单细线悬吊"
+    product_name: "Spunlight / Tatou S (suspected)"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "半球罩吊灯"
+    design_language:
+      silhouette: "饱满半球形，宽高比约1.2:1，外壁水平密肋分割成连续环形截面，底部开口，轮廓圆润厚重"
+      light_opening: "底部圆形开口向下出光，内壁光洁反射光向下集中"
+      thermal: "厚壁半球被动散热，水平肋条增大散热面积"
+      cmf:
+        color: "深棕/咖啡黑"
+        material: "金属（铝或钢）"
+        finish: "高光喷漆，水平密肋形成明暗交替反射"
+      mounting: "wire（单细线，直接吊顶）"
+      signature_detail: "半球外壁密布水平环形肋条——高光面下肋条形成明暗交替的横纹视觉，赋予厚重半球以纹理层次"
+    design_level:
+      score: 3
+      reason: "经典半球罩形态，水平肋条增加了表面处理细节，但整体在Flos产品线中属中规中矩"
+    design_tags:
+      - "半球罩"
+      - "横纹肋条"
+      - "深色"
+      - "高光"
+      - "H04参数化"
+    hero_feature: "高光深色半球外壁的密集水平环形肋条——光影在肋间交替，赋予圆顶以纹理节奏"
+    problem_solved: "餐厅/酒吧下照照明，深色高光外壁降低杂光干扰，肋条增加空间质感"
+    transferable_technique: "曲面密肋分割——在单色曲面上以参数化肋条增加纹理而不改变轮廓；可迁移至音箱外壳、头盔表面、容器罐身"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "型号待确认，疑似Spunlight或Tatou系列，品牌信心medium"
+
+  - product_id: "flos_创意吊灯_015"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "纯黑色完美锥体，顶部细尖接单黑色线悬吊，底部圆口开口朝下，无任何其他元素"
+    product_name: "String Light Cone"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "锥形罩吊灯"
+    design_language:
+      silhouette: "完美等腰锥形，顶角约60°，轮廓无任何弧度偏差，几何纯粹感极强"
+      light_opening: "底部圆形开口向下出光，内有白色漫射板"
+      thermal: "金属锥体被动散热"
+      cmf:
+        color: "哑光黑色"
+        material: "金属（铝）"
+        finish: "亚光磨砂喷涂"
+      mounting: "wire（单黑色线，直接吊顶，线极细）"
+      signature_detail: "完美几何锥体 + 极细悬线——锥体本身即是几何雕塑，悬线轻盈到近乎消失，制造「锥体漂浮空中」感"
+    design_level:
+      score: 4
+      reason: "Michael Anastassiades设计的String Light系列，以几何纯粹感著称，黑色锥体是该系列最具辨识度的形态"
+    design_tags:
+      - "锥形"
+      - "几何纯粹"
+      - "哑光黑"
+      - "极简"
+      - "H07极简整合"
+    hero_feature: "完美等腰锥形 + 极细悬线——形态纯粹到极点，几何即设计"
+    problem_solved: "提供精准下照点光，同时以几何锥形替代传统灯罩的曲线柔化，适合极简/工业空间"
+    transferable_technique: "完美几何基础形体 + 极细悬挂——以数学精确性取代装饰；可迁移至极简香薰座、展示底托、指向性标识"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_创意吊灯_016"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/创意吊灯/18.jpg"
+        image_role: "hero"
+        visual_anchor: "完整球体，上半球为哑光黑色金属帽，下半球为乳白磨砂玻璃，黑色单线悬吊，无可见接缝"
+    product_name: "String Light Sphere"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "创意吊灯"
+      - "球形吊灯"
+    design_language:
+      silhouette: "完整正球体，上下两半材质不同但轮廓无断层，球体比例完美，无冗余细节"
+      light_opening: "下半球乳白玻璃全向漫射出光，上半球金属帽不透光，形成上遮下透的光分布"
+      thermal: "金属上帽导热，玻璃下球散热"
+      cmf:
+        color: "哑光黑色（上半）+ 乳白磨砂（下半）"
+        material: "金属（铝）上帽 + 吹制磨砂玻璃下球"
+        finish: "亚光磨砂喷涂（金属）+ 磨砂乳白（玻璃）"
+      mounting: "wire（单黑色线，直接接金属上帽顶部）"
+      signature_detail: "黑色金属帽 + 乳白玻璃球的二分切割——同一球体由两种截然不同材质对半分割，形成阴阳对比，亮灯后下半球浮光"
+    design_level:
+      score: 4
+      reason: "Michael Anastassiades设计，与String Light Cone同系列，球体二分材质切割是该系列的标志性手法"
+    design_tags:
+      - "球形"
+      - "二分切割"
+      - "哑光黑"
+      - "乳白玻璃"
+      - "H08对比强调"
+      - "H10材料表达"
+    hero_feature: "黑色金属上帽与乳白玻璃球下半对半切割——单一球体两种语言，阴阳对比强烈"
+    problem_solved: "提供柔和下向漫射光同时抑制上方眩光，双材质切割使灯体关灯时仍有雕塑感"
+    transferable_technique: "同一几何体双材质对半分割——用材质边界代替形体分件线；可迁移至双材质手柄、双色容器、音箱上下壳体"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

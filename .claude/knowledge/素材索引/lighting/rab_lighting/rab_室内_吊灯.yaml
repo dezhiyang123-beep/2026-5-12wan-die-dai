@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内灯"
+  tertiary: "吊灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/吊灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_室内吊灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/吊灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色矩形线条型灯体+钢丝绳悬挂+一字出光缝"
+    product_name: "RAB 线条型悬挂吊灯（黑色款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "吊灯"]
+    design_language:
+      silhouette: "矩形截面长条体，四角正方，纵向一字出光缝居中"
+      light_opening: "顶部一条贯通漫射条，乳白色，嵌于黑色铝槽中"
+      thermal: "铝制型材本体兼作散热"
+      cmf:
+        color: "全黑，漫射条乳白，悬挂件银色"
+        material: "挤出铝型材，PC漫射条，钢丝绳+不锈钢调节件"
+        finish: "黑色粉末喷涂，漫射条乳白"
+      mounting: "双钢丝绳悬挂，端部不锈钢调节旋钮"
+      signature_detail: "黑色铝槽内嵌一线乳白漫射，黑白比约10:1，极度克制的光缝设计"
+    design_level:
+      score: 4
+      reason: "线条比例精准，黑色型材工业感强，悬挂件精致，整体设计语言克制有力"
+    design_tags: ["线条型", "黑色铝型材", "钢丝绳悬挂", "一字光缝", "工业简约"]
+    hero_feature: "黑色铝槽内嵌极细乳白漫射条，出光克制而有力"
+    problem_solved: "办公或商业空间需要水平线性照明且视觉轻盈"
+    transferable_technique: "铝型材截面正方+光缝比例压缩，实现线条型灯具的工业极简感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_室内吊灯_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/吊灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆柱形灯头+细长悬线+方形吸顶座"
+    product_name: "RAB 圆柱形悬挂吊灯（白色款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "吊灯"]
+    design_language:
+      silhouette: "细长圆柱形灯头，高径比约3:1，底部开口朝下，极细悬线连接方形吸顶座"
+      light_opening: "圆柱底部开口，内置LED，有可见透明玻璃防护"
+      thermal: "内置，圆柱铝体兼散热"
+      cmf:
+        color: "全白，悬线白色，吸顶座白色"
+        material: "铝制圆柱体，白色喷涂，细白线缆"
+        finish: "哑光白"
+      mounting: "单线悬挂，方形白色吸顶座"
+      signature_detail: "全白极细线+细长圆柱，比例修长，视觉重量极轻"
+    design_level:
+      score: 3
+      reason: "比例修长，全白处理简洁，但整体设计语言较为通用，缺乏RAB特有识别度"
+    design_tags: ["圆柱形", "细长比例", "全白", "悬线吊装", "精品零售向"]
+    hero_feature: "极细白色悬线+修长圆柱灯头，视觉重量趋近于零"
+    problem_solved: "精品零售或住宅餐厅需要精致轻盈的点聚光吊灯"
+    transferable_technique: "悬线与灯体同色同细，强调竖向比例的视觉延伸"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

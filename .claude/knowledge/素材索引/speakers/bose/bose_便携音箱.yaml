@@ -1,0 +1,50 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "便携音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/便携音箱/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bose_portable_001"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/便携音箱/08.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑PA风格便携音箱，斜置展示，侧面控制面板清晰可见"
+    product_name: "Bose S1 Pro+"
+    brand_name: "Bose"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "竖向矩形体，四角大圆角，前脸满版金属网孔格栅，整体轮廓厚重扎实；底部设可调角度金属踢脚架，支持倾斜摆放"
+      light_opening: "无可见状态指示灯"
+      thermal: "无明显散热开口，前格栅兼具散热与出声功能"
+      cmf:
+        color: "全黑（哑光黑）"
+        material: "ABS壳体 + 金属冲孔网格前格栅 + 橡胶踢脚底座"
+        finish: "哑光质感为主，格栅有轻微金属光泽"
+      mounting: "独立落地/桌面放置；踢脚架可调角度"
+      signature_detail: "左侧面板集成多个黑色旋钮与按键，形成功能密集的竖向控制条；Bose金属银字标志居中嵌于格栅"
+    design_level:
+      score: 3
+      reason: "专业PA外观语言清晰，功能导向设计，整体克制但缺乏视觉亮点；全黑哑光配色稳健但不突出"
+    design_tags:
+      - "全黑配色"
+      - "金属格栅"
+      - "PA风格"
+      - "可调角度底座"
+      - "侧面控制面板"
+      - "专业音频"
+    hero_feature: "可调角度踢脚架 + 侧面竖向控制条，强调专业PA场景适用性"
+    problem_solved: "户外/小型演出场景需要可以自由调整扬声角度的便携PA音箱"
+    transferable_technique: "侧面竖向控制条的控件集成布局方式，可迁移到需要密集控制的手持/便携设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

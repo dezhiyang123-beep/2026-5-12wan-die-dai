@@ -1,0 +1,289 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "多功能工具"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_多功能工具_001"
+    source_images:
+      - filename: "多功能工具__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/多功能工具__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR无绳石膏板开孔机裸机，黄黑机身前端伸出黑色圆形圆规导向件，无电池"
+      - filename: "多功能工具__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/多功能工具__04.jpg"
+        image_role: "scene"
+        visual_anchor: "同款开孔机套装：2块20V MAX电池+充电器+黄黑帆布收纳包散放展示"
+    product_name: "DeWalt 20V MAX XR Brushless Cordless Drywall Cut-Out Tool"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "多功能工具"
+      - "石膏板开孔机"
+    design_language:
+      silhouette: "细长圆柱形机身从后握把向前渐细，前端黑色圆形导向件如圆规圆心向外辐射，整体呈锥形矛状"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身腰部两侧纵向散热缝，黄色壳体上线性排列"
+      cmf:
+        color: "黄色（机身主体）+ 黑色（前端导向件/握把区/触发器）"
+        material: "工程塑料机身，金属导向件"
+        finish: "哑光黄注塑，黑色橡胶软包握把"
+      mounting: "20V MAX XR滑入式电池接口位于后部握把底端"
+      signature_detail: "前端伸出的黑色圆形金属导向件（圆规式），用于沿电线精确切圆孔，功能即造型"
+    design_level:
+      score: 3
+      reason: "细长矛状造型适合穿墙操作，圆规导向件功能外显强，但整体造型语言较普通"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "XR系列"
+      - "石膏板"
+      - "开孔机"
+      - "H11_功能外显"
+    hero_feature: "前端黑色圆形导向件从黄色锥形机身伸出，一眼可见的精准开孔工具语义"
+    problem_solved: "无绳自由移动在石膏板上精确开圆孔，圆规导向件沿预埋线定位，免画线免量尺"
+    transferable_technique: "功能导向件作为产品正面主视觉元素，使用方式即外观（H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_多功能工具_002"
+    source_images:
+      - filename: "多功能工具__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/多功能工具__10.jpg"
+        image_role: "hero"
+        visual_anchor: "有绳石膏板开孔机，全黄圆柱机身，前端黑色圆规导向件，电源线从后部引出，无黑色对比面板"
+    product_name: "DeWalt Corded Drywall Cut-Out Tool"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "多功能工具"
+      - "石膏板开孔机"
+    design_language:
+      silhouette: "圆柱形机身前粗后细，比无绳款更圆润无棱角，单色黄体量感更强"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身后段两侧纵向条形散热槽，与前段圆润机身形成功能区分"
+      cmf:
+        color: "黄色（机身全体）+ 黑色（前端导向件/触发器）"
+        material: "工程塑料机身，金属导向件"
+        finish: "哑光黄注塑，单色为主"
+      mounting: "有绳供电，电源线从握把后端引出"
+      signature_detail: "相较无绳款，全黄机身无黑色对比面板，更早期的品牌视觉风格，圆润感更强"
+    design_level:
+      score: 2
+      reason: "早期有绳版设计，全黄单色显得较朴素，缺乏无绳款的视觉层次"
+    design_tags:
+      - "有绳"
+      - "石膏板"
+      - "开孔机"
+      - "早期设计语言"
+    hero_feature: "全黄圆柱机身与黑色圆规导向件的简洁对比"
+    problem_solved: "持续供电长时间石膏板开孔作业，不用担心电量"
+    transferable_technique: "早期单色黄设计与现代双色黄黑对比的品牌演进对比参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_多功能工具_003"
+    source_images:
+      - filename: "多功能工具__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/多功能工具__02.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX XR无绳振荡多功能机套装，配件散落周围：多片锯片/砂纸/配件盒"
+      - filename: "多功能工具__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/多功能工具__07.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR Brushless振荡多功能机裸机，黄黑双色，大XR角标，前端金属振荡头+锯片，无电池"
+    product_name: "DeWalt 20V MAX XR Brushless Oscillating Multi-Tool"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "多功能工具"
+      - "振荡多功能机"
+    design_language:
+      silhouette: "楔形机身从握把向前低头形成鸭嘴形，前端振荡头水平伸出，黄黑双色大块面分区，XR大角标突出"
+      light_opening: "N/A（电动工具）"
+      thermal: "电机仓侧面竖向散热缝组，黑色壳体内嵌"
+      cmf:
+        color: "黄色（机身主体）+ 黑色（电机仓/握把/前端振荡锁定块）"
+        material: "工程塑料机身，金属振荡头/夹紧机构"
+        finish: "哑光黄注塑，橡胶覆盖握把"
+      mounting: "20V MAX XR标准滑入式电池接口，后部插入"
+      signature_detail: "楔形鸭嘴低头形态+大面积黑色电机仓，形成独特的'头部低伏'视觉动势"
+    design_level:
+      score: 3
+      reason: "楔形鸭嘴动势有辨识度，黄黑分区清晰，XR系列视觉层次丰富，功能导向"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "XR系列"
+      - "振荡多功能"
+      - "鸭嘴造型"
+      - "H03_分件线设计"
+    hero_feature: "机身向前低头的楔形鸭嘴动势，强调振荡头的切入方向感"
+    problem_solved: "无绳多功能切割/打磨/铲除，头部低伏便于贴近工作面操作"
+    transferable_technique: "机身主体向工作端倾斜的楔形动势，在视觉上强化工作方向语义"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_多功能工具_004"
+    source_images:
+      - filename: "多功能工具__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/多功能工具__03.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX Brushless振荡多功能机裸机，ATC自动换头系统，机身更圆润，无XR角标，无电池"
+      - filename: "多功能工具__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/多功能工具__08.jpg"
+        image_role: "scene"
+        visual_anchor: "同款配2Ah电池+充电器套装展示，侧视角"
+      - filename: "多功能工具__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/多功能工具__09.jpg"
+        image_role: "hero"
+        visual_anchor: "同款配4Ah大电池，侧视角，整体更重"
+    product_name: "DeWalt 20V MAX Brushless Oscillating Multi-Tool (ATC)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "多功能工具"
+      - "振荡多功能机"
+    design_language:
+      silhouette: "相比XR款机身更圆润饱满，前端振荡头比例更紧凑，无XR大角标，视觉更简洁统一"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身侧面竖向散热缝组，嵌入黄色壳体"
+      cmf:
+        color: "黄色（机身）+ 黑色（电机区/握把/前端锁定系统）"
+        material: "工程塑料，金属ATC自动换头机构"
+        finish: "哑光黄注塑，黑色橡胶握把"
+      mounting: "20V MAX标准滑入式电池接口，无XR超大电池，可配2Ah/4Ah"
+      signature_detail: "ATC（Auto-Tool-Change）自动锁定机构使换头无需工具，橙色标识ATC锁扣醒目"
+    design_level:
+      score: 3
+      reason: "ATC无工具换头是功能亮点，机身比XR款更圆润紧凑，整体造型干净"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "ATC自动换头"
+      - "振荡多功能"
+      - "H07_极简整合"
+    hero_feature: "ATC自动换头机构消除换附件工具，锁扣设计即产品差异点"
+    problem_solved: "现场频繁换附件时免工具操作，提升效率"
+    transferable_technique: "关键操作节点的简化设计（无工具化），将高频操作变为直觉动作"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_多功能工具_005"
+    source_images:
+      - filename: "多功能工具__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/多功能工具__05.jpg"
+        image_role: "scene"
+        visual_anchor: "12V MAX无绳振荡多功能机套装，配件+小型充电器散放，整机比20V款小一圈"
+      - filename: "多功能工具__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/多功能工具__06.jpg"
+        image_role: "hero"
+        visual_anchor: "12V MAX振荡多功能机裸机，侧视角，更紧凑短小，黄黑双色，无电池"
+    product_name: "DeWalt 12V MAX Brushless Oscillating Multi-Tool"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "多功能工具"
+      - "振荡多功能机"
+    design_language:
+      silhouette: "与20V款相同楔形鸭嘴动势但整体缩小约20%，12V电池更薄更窄，整机更纤细"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身侧面纵向散热缝，与20V款同系统但尺寸更小"
+      cmf:
+        color: "黄色（机身）+ 黑色（电机区/握把）"
+        material: "工程塑料，金属振荡头"
+        finish: "哑光黄注塑，黑色橡胶"
+      mounting: "12V MAX滑入式电池接口，更小更轻电池"
+      signature_detail: "整体体量明显小于20V款，12V电池更薄，适合精细作业和女性用户"
+    design_level:
+      score: 3
+      reason: "与20V款设计语言完全统一，规格向下延伸，小体量有精致感"
+    design_tags:
+      - "无绳"
+      - "12V MAX"
+      - "振荡多功能"
+      - "紧凑型"
+      - "H07_极简整合"
+    hero_feature: "12V超紧凑体量，适合单手精确操作的尺度感"
+    problem_solved: "精细区域作业，空间受限位置，单手操作，轻量化需求"
+    transferable_technique: "同设计语言跨规格缩放，保持品牌统一性的同时覆盖不同用户需求"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_多功能工具_006"
+    source_images:
+      - filename: "多功能工具__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/多功能工具/多功能工具__11.jpg"
+        image_role: "scene"
+        visual_anchor: "有绳振荡多功能机套装，黄黑机身配多附件+砂纸+黄黑帆布袋+黄色透明附件盒"
+    product_name: "DeWalt Corded Oscillating Multi-Tool Kit"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "多功能工具"
+      - "振荡多功能机"
+    design_language:
+      silhouette: "有绳款机身比无绳款更粗短，前端振荡头居中，无电池插座显得更整洁，电源线从后部引出"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身腰部纵向散热孔阵列"
+      cmf:
+        color: "黄色（机身）+ 黑色（前端/握把区）"
+        material: "工程塑料，金属振荡头"
+        finish: "哑光黄注塑"
+      mounting: "有绳供电，电源线直接从后端引出；套装包含黄/透明附件收纳盒"
+      signature_detail: "套装黄黑帆布收纳包与工具本体采用相同配色，品牌延伸至收纳配件"
+    design_level:
+      score: 2
+      reason: "有绳设计较传统，套装收纳配色延伸有品牌一致性，但工具本体设计无亮点"
+    design_tags:
+      - "有绳"
+      - "振荡多功能"
+      - "套装"
+      - "黄黑收纳包"
+    hero_feature: "黄黑配色收纳包将品牌语言延伸至整个套装生态"
+    problem_solved: "连续长时间作业不受电量限制，套装覆盖切割/打磨/铲除多场景"
+    transferable_technique: "工具+收纳配件品牌配色一致性策略，强化套装整体识别度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

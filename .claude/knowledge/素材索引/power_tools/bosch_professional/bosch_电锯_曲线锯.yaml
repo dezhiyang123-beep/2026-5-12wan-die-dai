@@ -1,0 +1,309 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "曲线锯"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bosch_曲线锯_001"
+    source_images:
+      - filename: "电锯__曲线锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "有线顶部手柄曲线锯JS470E，深蓝色大圆弧顶部握把（Top Handle），黑色橡胶Overmold穿孔软包，红色变速滑钮，银白色铝底板，锯片前向伸出，电线侧出"
+      - filename: "电锯__曲线锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__03.jpg"
+        image_role: "variant"
+        visual_anchor: "同款有线顶部手柄曲线锯JS470EB，换了一个视角，黑色橡胶顶部握把穿孔更清晰，蓝色机身主体，白色铝底板"
+    product_name: "Bosch JS470E/EB Corded Top-Handle Jigsaw"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "顶部手柄（Top Handle）形态：大圆弧握把在机身顶部拱起，底板水平，整体呈倒U字拱形轮廓，视觉重心在握把拱弧"
+      light_opening: "N/A"
+      thermal: "顶部握把穿孔（兼具散热和手感功能）"
+      cmf:
+        color: "深蓝色机身主体，黑色橡胶Overmold顶部握把，银白色铝底板，红色变速钮"
+        material: "注塑机身，橡胶Overmold握把，铝底板"
+        finish: "哑光蓝+哑黑橡胶+银铝底板"
+      mounting: "有线"
+      signature_detail: "顶部大拱形握把的穿孔橡胶软包设计，兼具视觉减重和握持舒适；红色变速滑钮"
+    design_level:
+      score: 3
+      reason: "经典有线曲线锯顶部手柄造型，蓝黑配色统一，铝底板专业感强，功能导向设计扎实"
+    design_tags: ["有线", "曲线锯", "顶部手柄", "穿孔握把", "铝底板"]
+    hero_feature: "大圆弧顶部握把+穿孔橡胶Overmold，远距离品类辨识度"
+    problem_solved: "木材、薄金属、塑料板的曲线和直线切割，顶把手提供更好的视野"
+    transferable_technique: "穿孔软包覆握把的视觉减重+触觉舒适双效（H02包覆+H04参数化穿孔）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_曲线锯_002"
+    source_images:
+      - filename: "电锯__曲线锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__04.jpg"
+        image_role: "hero"
+        visual_anchor: "有线枪形手柄曲线锯JS260，深蓝色一体机身，枪形握把在机身后方，红色扳机/变速锁，铝底板，无橡胶包覆（全硬壳），机身腰部有Bosch H标志"
+    product_name: "Bosch JS260 Corded Barrel-Grip Jigsaw"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "枪形手柄（Barrel-Grip / D-Handle）形态：握把在机身后下方，机身呈水平延伸，整体轮廓扁平横向"
+      light_opening: "N/A"
+      thermal: "机身两侧散热槽"
+      cmf:
+        color: "全深蓝色硬壳，红色扳机和变速控制"
+        material: "注塑工程塑料（全硬壳，无橡胶Overmold）"
+        finish: "哑光蓝+红色点缀"
+      mounting: "有线"
+      signature_detail: "枪形握把设计，使用方式类似手枪抓握，允许锯头靠近工件边缘；无Overmold全蓝单色机身"
+    design_level:
+      score: 3
+      reason: "入门级有线曲线锯，枪形握把是重要形态区别点，全蓝色硬壳设计简洁，品牌识别靠H标志维持"
+    design_tags: ["有线", "曲线锯", "枪形握把", "入门级", "全蓝硬壳"]
+    hero_feature: "枪形握把形态——区别于顶把手款的最关键轮廓差异"
+    problem_solved: "使用枪形握法进行曲线切割，允许手部靠近锯片区域获得更精准控制"
+    transferable_technique: "握把形态作为产品形态的首要分类识别符（H03分件线造型逻辑）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_曲线锯_003"
+    source_images:
+      - filename: "电锯__曲线锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__05.jpg"
+        image_role: "hero"
+        visual_anchor: "有线顶部手柄曲线锯JS365，深蓝色+黑色两段式机身，顶部圆弧握把黑色软包（非穿孔），红色触发锁，铝底板银白色，电线侧出，机身腰部Bosch H标志"
+    product_name: "Bosch JS365 Corded Top-Handle Jigsaw"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "顶部手柄形态，拱形握把，黑色软包顶部+蓝色机身主体，比JS470E更流线"
+      light_opening: "N/A"
+      thermal: "顶把区软包通孔"
+      cmf:
+        color: "深蓝色机身+黑色顶部握把区，红色变速/触发锁，银色铝底板"
+        material: "注塑机身+橡胶Overmold顶把"
+        finish: "哑光蓝+黑色橡胶"
+      mounting: "有线"
+      signature_detail: "黑蓝双色分区比JS470E更清晰，顶把黑色包覆更大面积；机身前方有基准线对齐窗"
+    design_level:
+      score: 3
+      reason: "中端有线曲线锯，黑蓝分区设计提升视觉层次，铝底板保持专业感"
+    design_tags: ["有线", "曲线锯", "顶部手柄", "黑蓝分区", "中端"]
+    hero_feature: "黑色顶把区与蓝色机身的明确分件——功能区划分视觉逻辑清晰"
+    problem_solved: "木材/层板的中型曲线切割，顶把手提供稳定推力"
+    transferable_technique: "顶部握持区与机身的双色分件强化功能区视觉逻辑（H03分件线）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_曲线锯_004"
+    source_images:
+      - filename: "电锯__曲线锯__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__06.jpg"
+        image_role: "hero"
+        visual_anchor: "有线顶部手柄曲线锯JS572EB套装，含蓝色硬壳收纳箱（橙色卡扣），机身蓝色+黑色顶把，银色底板，SELECT-O功能切换盘可见"
+      - filename: "电锯__曲线锯__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__07.jpg"
+        image_role: "variant"
+        visual_anchor: "有线曲线锯JS572E套装，另一款硬壳收纳箱（同款橙色卡扣，侧面标签不同），机身与JS572EB相似，蓝色机身+铝底板"
+    product_name: "Bosch JS572E/EB Corded Jigsaw with L-BOXX"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "顶部手柄曲线锯套装展示，L-BOXX收纳箱系统化配套"
+      light_opening: "N/A"
+      thermal: "顶把散热孔"
+      cmf:
+        color: "工具本体蓝黑，L-BOXX收纳箱深蓝色+橙色卡扣（系统色）"
+        material: "ABS L-BOXX硬壳箱"
+        finish: "哑光蓝L-BOXX+橙色功能卡扣"
+      mounting: "有线"
+      signature_detail: "L-BOXX系统橙色卡扣——Bosch Professional系统工具标志性视觉元素；SELECT-O切换盘"
+    design_level:
+      score: 4
+      reason: "L-BOXX系统整合展示提升整体产品档次感，SELECT-O切换功能在外观上有对应旋钮设计"
+    design_tags: ["有线", "曲线锯", "L-BOXX系统", "SELECT-O", "套装"]
+    hero_feature: "L-BOXX蓝色收纳箱+橙色卡扣——系统化专业工具的标志性视觉"
+    problem_solved: "专业施工现场的系统化工具管理，L-BOXX可叠放运输"
+    transferable_technique: "橙色卡扣作为系统识别符的视觉一致性设计（H05模块化系统）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_曲线锯_005"
+    source_images:
+      - filename: "电锯__曲线锯__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__08.jpg"
+        image_role: "hero"
+        visual_anchor: "12V曲线锯JS120 HD，深蓝色机身，黑色大圆顶部（橡胶穿孔软包帽状），机身底部集成电池，铝底板，红色电源开关在机身中部侧面"
+    product_name: "Bosch 12V Max Jigsaw JS120"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "12V超紧凑曲线锯：机身短小，顶部橡胶帽状握把，电池直接集成于机身底部，整体呈矮胖子形态"
+      light_opening: "N/A"
+      thermal: "顶部穿孔帽"
+      cmf:
+        color: "深蓝色机身+黑色顶部帽状握把，铝底板，红色功能按键"
+        material: "注塑+橡胶Overmold顶帽"
+        finish: "哑光蓝+黑橡胶穿孔帽"
+      mounting: "12V锂电池（底部一体集成）"
+      signature_detail: "顶部黑色圆帽形橡胶握把+穿孔设计，12V一体电池底部集成，整机极短"
+    design_level:
+      score: 4
+      reason: "12V紧凑型曲线锯，顶部圆帽橡胶握把是独特形态识别点，整体比例关系新颖"
+    design_tags: ["无线", "12V", "紧凑型", "曲线锯", "圆帽握把", "一体电池"]
+    hero_feature: "黑色圆帽穿孔橡胶握把——独特的顶部形态，远距离识别度高"
+    problem_solved: "轻量精细曲线切割，12V系统适合轻型应用"
+    transferable_technique: "圆帽形握把在曲线锯顶部的独特形态语言（H07极简整合+H04参数化穿孔）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_曲线锯_006"
+    source_images:
+      - filename: "电锯__曲线锯__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__09.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线曲线锯GST18V-60C，深蓝色+黑色顶部圆帽Overmold，BRUSHLESS标识，红色功能锁，铝底板，GST18V-60C型号标签，裸机展示"
+      - filename: "电锯__曲线锯__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__11.jpg"
+        image_role: "variant"
+        visual_anchor: "同款GST18V-60BC另一角度，完全相同机身，仅角度不同，顶部黑色圆帽更立体，铝底板展示更完整"
+    product_name: "Bosch 18V Brushless Jigsaw GST18V-60C"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "18V顶部手柄曲线锯，圆帽状顶部握把（类似12V款放大版），机身无线设计，后端电池接口清晰"
+      light_opening: "N/A"
+      thermal: "机身侧散热槽"
+      cmf:
+        color: "深蓝色机身+黑色大圆帽顶把，铝底板银色，BRUSHLESS标识"
+        material: "注塑+橡胶Overmold"
+        finish: "哑光蓝+黑橡胶帽"
+      mounting: "18V CORE系统"
+      signature_detail: "圆帽状顶部握把沿用12V款的设计语言但更大；BRUSHLESS无刷标识；铝底板刻度线"
+    design_level:
+      score: 4
+      reason: "圆帽握把在18V款上的延续体现了Bosch曲线锯跨电压平台的设计语言一致性，BRUSHLESS标识传递技术价值"
+    design_tags: ["无线", "18V", "曲线锯", "无刷电机", "圆帽握把", "顶部手柄"]
+    hero_feature: "圆帽形橡胶顶部握把——Bosch中高端曲线锯的跨代设计标志"
+    problem_solved: "无线自由移动的曲线精细切割，无刷电机延长机器寿命"
+    transferable_technique: "跨电压平台设计语言一致性（圆帽顶把）的产品线视觉统一（H05模块化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_曲线锯_007"
+    source_images:
+      - filename: "电锯__曲线锯__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__10.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线曲线锯GST18V-50，深蓝色机身，枪形把手（D形），橙红色BRUSHLESS标识，红色触发变速按键，铝底板银色，GST18V-50型号可见"
+    product_name: "Bosch 18V Brushless Barrel-Grip Jigsaw GST18V-50"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "18V枪形手柄曲线锯，握把在机身后下方，机身呈水平延伸矮轮廓，与顶把手款形成明显轮廓区分"
+      light_opening: "N/A"
+      thermal: "机身散热槽"
+      cmf:
+        color: "深蓝色机身，BRUSHLESS橙红色标识，铝底板，红色触发键"
+        material: "注塑机身+铝底板"
+        finish: "哑光蓝+橙色标识"
+      mounting: "18V CORE系统"
+      signature_detail: "无线枪形把曲线锯较少见，BRUSHLESS橙色标识区分技术档次"
+    design_level:
+      score: 3
+      reason: "无线枪形把曲线锯在外观上相对传统，设计语言成熟但创新性不突出"
+    design_tags: ["无线", "18V", "曲线锯", "枪形握把", "无刷电机"]
+    hero_feature: "BRUSHLESS橙色标识——技术等级的视觉外显"
+    problem_solved: "使用枪形抓握进行精细曲线切割，允许锯头靠近材料边缘"
+    transferable_technique: "技术等级标识（BRUSHLESS/TURBO）用橙色/金色对比色外显（H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_曲线锯_008"
+    source_images:
+      - filename: "电锯__曲线锯__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__12.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线顶部手柄曲线锯，深蓝色机身+黑色大穿孔顶部软包，LITHIUM-ION标识，铝底板，Bosch H标志在机身侧面，无电池状态"
+      - filename: "电锯__曲线锯__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__13.jpg"
+        image_role: "variant"
+        visual_anchor: "18V无线曲线锯GST18V-47，深蓝色机身，穿孔顶部圆弧握把，BRUSHLESS标识，红色功能键，铝底板有BOSCH刻字，侧角度展示"
+      - filename: "电锯__曲线锯__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__曲线锯__14.jpg"
+        image_role: "variant"
+        visual_anchor: "18V无线曲线锯GST18V-60C装上CORE18V 4Ah电池后的完整产品图，机身蓝黑+黑色电池，圆帽顶把清晰，铝底板"
+    product_name: "Bosch 18V Jigsaw GST18V-47 / GST18V-60C with Battery"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "曲线锯"]
+    design_language:
+      silhouette: "18V顶部手柄曲线锯完整产品状态（含电池），后端电池使机身尾部加重，整体比裸机更方正"
+      light_opening: "N/A"
+      thermal: "顶把穿孔+机身散热槽"
+      cmf:
+        color: "深蓝机身+黑色顶把+黑色电池，铝底板银色，BRUSHLESS标识"
+        material: "注塑+橡胶Overmold+CORE18V锂电池模块"
+        finish: "哑光蓝+黑色哑光"
+      mounting: "18V CORE18V系统（装电池完整展示）"
+      signature_detail: "穿孔圆弧顶部握把+CORE18V电池装配完整视图；铝底板BOSCH刻字"
+    design_level:
+      score: 4
+      reason: "装上电池后的完整产品视觉更完整，穿孔顶把+CORE18V电池黑色模块形成成熟的产品整体感"
+    design_tags: ["无线", "18V", "曲线锯", "顶部手柄", "CORE18V电池", "完整套装"]
+    hero_feature: "穿孔圆弧顶把与CORE18V电池模块的整体比例——体现专业级无线曲线锯的完整形态"
+    problem_solved: "无线精细曲线切割，CORE18V电池确保续航"
+    transferable_technique: "圆弧穿孔顶把与电池模块的比例协调——模块化产品的整体视觉平衡（H05模块化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

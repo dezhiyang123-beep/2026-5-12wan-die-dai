@@ -1,0 +1,788 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_电锯_001"
+    source_images:
+      - filename: "电锯__圆锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX 4.5\"紧凑型圆锯套装：黄色机身+黑色上护罩+银色铝合金下护罩+黑色底板，2Ah电池+DCB112充电器"
+      - filename: "电锯__圆锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__04.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX Brushless 6.5\"圆锯裸机：银色铝合金护罩，黄色18T金色框架锯片，黑色底板"
+      - filename: "电锯__圆锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__05.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX 4.5\"圆锯裸机侧视：银色下护罩，黄色机身，底板与护罩的比例关系清晰"
+      - filename: "电锯__圆锯__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__09.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX 6.5\"圆锯老款裸机：银色护罩，黄色DEWALT CONSTRUCTION品牌锯片（18V标识），较老一代设计"
+      - filename: "电锯__圆锯__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__14.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX Brushless 6.5\"圆锯套装：5Ah标准电池+基础充电器，银色护罩，黄色机身"
+      - filename: "电锯__圆锯__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__17.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX 6-1/2\"圆锯套装：5Ah+DCB107标准充电器，黄色CROSS CUTTING 40T锯片（银色护罩+黄色中心盘）"
+    product_name: "DeWalt 20V MAX Compact Circular Saw (4.5\"/6.5\")"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "圆锯"
+    design_language:
+      silhouette: "后置电机+顶部枪握把+大圆形护罩在左侧凸出，侧视呈矩形机身+圆弧护罩+平底板三段式，标准侧驱圆锯形态"
+      light_opening: "N/A（电动工具）；锯片切口为功能开口"
+      thermal: "机身侧面散热槽（约3-5条竖向排列）"
+      cmf:
+        color: "黄色（机身主体）+ 黑色（护罩上半+把手）+ 银色（铝合金下护罩+底板）"
+        material: "工程塑料机身，铝合金下护罩，钢质底板，合金锯片"
+        finish: "哑光黄，哑光黑，铝合金本色"
+      mounting: "20V MAX标准电池底部滑入式"
+      signature_detail: "银色铝合金下护罩与黄色机身的双色分界线，标准DeWalt圆锯品类识别符"
+    design_level:
+      score: 3
+      reason: "标准DeWalt圆锯形态，黄黑银三色执行到位，品类惯例无结构创新"
+    design_tags:
+      - "20V MAX"
+      - "圆锯"
+      - "侧驱"
+      - "银色护罩"
+    hero_feature: "银色铝合金下护罩与黄色机身的材质分件，将功能保护区域视觉化"
+    problem_solved: "木工现场无绳圆锯切割，4.5\"-6.5\"覆盖轻量级到中型框架锯切需求"
+    transferable_technique: "护罩材质与机身材质形成自然分件线，功能区域（保护/切割）即CMF区域"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_002"
+    source_images:
+      - filename: "电锯__圆锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR 7-1/4\"无刷圆锯套装：黄色机身+深灰色护罩+BRAKE徽章（可见），5Ah XR电池+6A充电器"
+      - filename: "电锯__圆锯__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__06.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR 7-1/4\"圆锯不同套装配置，同款机身，另角度展示护罩细节"
+      - filename: "电锯__圆锯__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__12.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR 7-1/4\"圆锯裸机：黄色机身，深灰护罩，BRAKE徽章，XR电池接口"
+    product_name: "DeWalt 20V MAX XR 7-1/4\" Brushless Circular Saw"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "圆锯"
+    design_language:
+      silhouette: "7-1/4\"大尺寸护罩显著扩大了左侧圆形体量，机身加长以容纳XR电机，整体侧视比标准款更宽厚"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身侧面增强散热槽区（XR大电机散热需求更高）"
+      cmf:
+        color: "黄色（机身）+ 黑色（把手+XR标签区）+ 深灰色（护罩）"
+        material: "工程塑料机身，工程塑料护罩（深灰色较标准款更硬朗），钢质底板"
+        finish: "哑光黄，哑光黑，深灰哑光"
+      mounting: "20V MAX XR电池底部滑入"
+      signature_detail: "深灰色护罩（区别于标准款银色铝合金）+ BRAKE电子刹车徽章——两个细节共同标识XR升级"
+    design_level:
+      score: 3
+      reason: "XR层级标准执行，深灰护罩+BRAKE徽章区分标准款，设计到位但无结构突破"
+    design_tags:
+      - "20V MAX XR"
+      - "7-1/4\""
+      - "无刷"
+      - "BRAKE"
+      - "H11_功能外显"
+    hero_feature: "BRAKE电子刹车徽章直接标注在护罩上，安全功能即视觉标识"
+    problem_solved: "专业框架木工大尺寸无绳切割，XR高性能无刷延长每充电锯切圈数"
+    transferable_technique: "功能升级（刹车系统）以专属徽章外显，比文字规格更直观的层级传达"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_003"
+    source_images:
+      - filename: "电锯__圆锯__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__10.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR轨道/精密圆锯裸机：深灰色大护罩带大面积六边形蜂巢网状散热面板（护罩面积约60%为蜂巢孔），XR标签，黑色底板带导轨槽"
+      - filename: "电锯__圆锯__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__11.jpg"
+        image_role: "scene"
+        visual_anchor: "同款XR轨道锯套装：XR 5Ah+6A充电器，蜂巢护罩清晰可见"
+    product_name: "DeWalt 20V MAX XR Track/Precision Circular Saw"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "圆锯"
+    design_language:
+      silhouette: "标准侧驱圆锯轮廓，但护罩面积占比远大于标准款（精密切割型护罩更大），蜂巢面板使护罩视觉重量感强"
+      light_opening: "N/A（电动工具）"
+      thermal: "护罩大面积六边形蜂巢通孔——既是散热结构也是主视觉特征，护罩轻量化同时保持刚性"
+      cmf:
+        color: "深灰色（大护罩+蜂巢面板）+ 黄色（机身）+ 黑色（把手+底板）"
+        material: "工程塑料机身，工程塑料护罩（厚壁蜂巢结构），钢质导轨底板"
+        finish: "深灰哑光，哑光黄，哑光黑"
+      mounting: "20V MAX XR电池；底板带导轨兼容槽用于精密平行切割"
+      signature_detail: "护罩上大面积六边形蜂巢网格——该品类中极少见的护罩表面处理，既轻量化又形成强视觉识别点"
+    design_level:
+      score: 4
+      reason: "六边形蜂巢网格护罩在圆锯品类中形态独特，将散热功能结构转化为视觉亮点，品类内稀缺性高"
+    design_tags:
+      - "20V MAX XR"
+      - "精密圆锯"
+      - "蜂巢护罩"
+      - "导轨兼容"
+      - "H09_隐藏工程"
+      - "H10_材料表达"
+    hero_feature: "深灰色护罩上大面积六边形蜂巢孔——将工程散热结构转化为产品最强记忆点"
+    problem_solved: "需要精密导轨切割的木工操作，蜂巢护罩轻量化便于单手控制精度"
+    transferable_technique: "结构必要性的功能孔洞（散热/减重）进行几何图案化处理，将工程件变成设计特征（H09）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_004"
+    source_images:
+      - filename: "电锯__圆锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__03.jpg"
+        image_role: "scene"
+        visual_anchor: "60V FLEXVOLT 7-1/4\"圆锯套装：FLEXVOLT 9Ah+6A充电器+黄色大包，深灰护罩，黄色机身，FLEXVOLT标签"
+      - filename: "电锯__圆锯__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__08.jpg"
+        image_role: "scene"
+        visual_anchor: "60V FLEXVOLT 7-1/4\"圆锯双电池套装：2块FLEXVOLT电池+8A快充，同款机身"
+      - filename: "电锯__圆锯__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__13.jpg"
+        image_role: "hero"
+        visual_anchor: "60V FLEXVOLT 7-1/4\"圆锯裸机正面：深灰护罩（BRAKE徽章居中突出），黄色机身，FLEXVOLT标签位于机身中部"
+    product_name: "DeWalt 60V MAX FLEXVOLT Brushless 7-1/4\" Circular Saw"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "圆锯"
+    design_language:
+      silhouette: "标准7-1/4\"侧驱圆锯轮廓，机身更厚（容纳60V大电机），FLEXVOLT电池接口位于底部"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身散热槽，FLEXVOLT 60V大电流散热"
+      cmf:
+        color: "黄色（机身）+ 深灰色（护罩）+ 黑色（把手+底板）"
+        material: "工程塑料机身+护罩，钢质底板，FLEXVOLT合金锯片"
+        finish: "哑光黄，深灰哑光"
+      mounting: "FLEXVOLT 60V/20V双电压电池底部滑入，灰色面板FLEXVOLT标识"
+      signature_detail: "BRAKE徽章在护罩正面居中大面积展示——60V版BRAKE徽章比20V款更显眼，传达更高刹车需求"
+    design_level:
+      score: 3
+      reason: "FLEXVOLT平台标准延伸，深灰护罩+BRAKE徽章与XR款形态相似，品台执行到位无形态创新"
+    design_tags:
+      - "FLEXVOLT"
+      - "60V"
+      - "7-1/4\""
+      - "无刷"
+      - "BRAKE"
+    hero_feature: "BRAKE徽章在深灰护罩正面居中展示，刹车安全功能直接成为产品正面视觉焦点"
+    problem_solved: "重型框架切割无绳作业，60V高扭矩处理硬木/厚材，FLEXVOLT兼容20V平台"
+    transferable_technique: "高电压平台（FLEXVOLT标签灰色面板）作为视觉标识层，与20V标准款在不改变整体形态下形成层级区分"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_005"
+    source_images:
+      - filename: "电锯__圆锯__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__07.jpg"
+        image_role: "hero"
+        visual_anchor: "60V FLEXVOLT蜗轮圆锯裸机侧视：L形侧视轮廓（后方大体积蜗轮驱动盒+前方大圆形黑色护罩），黄色蜗轮机身，整体形态区别于标准侧驱圆锯"
+      - filename: "电锯__圆锯__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__16.jpg"
+        image_role: "scene"
+        visual_anchor: "同款60V FLEXVOLT蜗轮圆锯套装：快充+黄色大包，蜗轮L形轮廓，黄色机身，深灰护罩"
+    product_name: "DeWalt 60V MAX FLEXVOLT Brushless Worm Drive Circular Saw 7-1/4\""
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "圆锯"
+    design_language:
+      silhouette: "蜗轮传动使电机轴与锯片轴垂直，形成品类独特L形侧视轮廓：后方高体积蜗轮驱动盒（约占机身40%体积）+ 左侧大圆护罩，区别于一切标准侧驱圆锯"
+      light_opening: "N/A（电动工具）"
+      thermal: "蜗轮驱动盒两侧散热格栅"
+      cmf:
+        color: "黄色（蜗轮机身+驱动盒）+ 深灰色（大圆形护罩）+ 黑色（把手+底板）"
+        material: "工程塑料机身，铸铝蜗轮驱动盒，钢质底板，合金锯片"
+        finish: "哑光黄，铸铝本色/哑光深灰"
+      mounting: "FLEXVOLT 60V/20V双电压电池从后端插入（蜗轮驱动决定电池位置在后）"
+      signature_detail: "L形侧视轮廓：后方高耸的蜗轮驱动盒体量与前方大圆护罩形成独特两段式造型，品类识别度极高"
+    design_level:
+      score: 4
+      reason: "蜗轮传动机制直接外显为L形轮廓，技术优势=形态特征，品类内形态差异化最强的圆锯变体"
+    design_tags:
+      - "FLEXVOLT"
+      - "60V"
+      - "蜗轮圆锯"
+      - "L形轮廓"
+      - "H11_功能外显"
+    hero_feature: "L形侧视轮廓——蜗轮驱动盒高耸于机身后方，将高扭矩传动机制直白外显为独特形态"
+    problem_solved: "重型木工框架切割，蜗轮传动提供更高扭矩，适合厚硬木，FLEXVOLT无绳解放现场"
+    transferable_technique: "不同驱动机制（蜗轮vs侧驱）直接导致产品轮廓差异——让技术选择成为外观识别符（H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_006"
+    source_images:
+      - filename: "电锯__圆锯__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__15.jpg"
+        image_role: "hero"
+        visual_anchor: "12V MAX Brushless 5-3/8\"圆锯裸机：白色/银色铝合金护罩（最小护罩），黄色小体积机身，16T专用小锯片，整体比20V款小一圈"
+    product_name: "DeWalt 12V MAX Brushless 5-3/8\" Compact Circular Saw"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "圆锯"
+    design_language:
+      silhouette: "最小圆锯形态：机身体积仅约20V款60%，5-3/8\"锯片对应更小护罩半径，整体比例更方正紧凑"
+      light_opening: "N/A（电动工具）"
+      thermal: "小型散热槽"
+      cmf:
+        color: "黄色（机身）+ 白色/浅银色（护罩——与20V款深灰/银色不同）+ 黑色（把手）"
+        material: "工程塑料机身，铝合金护罩，合金锯片"
+        finish: "哑光黄，铝合金本色（较亮白）"
+      mounting: "12V MAX电池底部滑入"
+      signature_detail: "白/浅银色护罩区别于20V款的银色或深灰色，形成12V系列视觉轻量化标识"
+    design_level:
+      score: 3
+      reason: "12V平台标准延伸，尺寸缩减即设计策略，无形态创新但轻量化目标达成"
+    design_tags:
+      - "12V MAX"
+      - "紧凑圆锯"
+      - "无刷"
+      - "5-3/8\""
+    hero_feature: "整体尺寸紧凑感——比20V款缩小约40%，单手可控，轻量化是核心Hero"
+    problem_solved: "单手操作/狭小空间圆锯切割，12V轻量平台适合精装修/电工现场"
+    transferable_technique: "同形态缩比策略——保持品类标准形态，整体缩小到极限，尺寸本身成为产品差异点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_007"
+    source_images:
+      - filename: "电锯__圆锯__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__圆锯__18.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX 5-1/4\"金属切割圆锯裸机：银色铸铝合金护罩（区别于木工锯的塑料护罩），透明有机玻璃小护盖（可见切割区域），金属切割薄片（无锯齿），银色铸铝底板（重量级）"
+    product_name: "DeWalt 20V MAX 5-1/4\" Metal Cutting Circular Saw"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "圆锯"
+    design_language:
+      silhouette: "标准侧驱圆锯形态，但护罩体量更厚实（铸铝重量），底板更宽更厚（金属切割需要稳定性），侧视整体重量感明显高于木工圆锯"
+      light_opening: "N/A（电动工具）；透明有机玻璃小护盖是功能可视窗口"
+      thermal: "护罩散热孔较少（金属切割产生金属屑，需防屑进入）"
+      cmf:
+        color: "银色（铸铝合金护罩+底板）+ 黄色（机身）+ 黑色（把手）+ 透明（小护盖）"
+        material: "铸铝合金护罩（木工款为工程塑料），铸铝合金底板，透明聚碳酸酯护盖，金属切割薄片"
+        finish: "铝合金本色银，哑光黄，哑光黑"
+      mounting: "20V MAX标准电池底部滑入"
+      signature_detail: "铸铝合金护罩+透明小护盖——材质本身宣告切割对象（金属），与木工圆锯的塑料护罩形成材质语义对比"
+    design_level:
+      score: 3
+      reason: "材质选择精准传达产品功能（铸铝=重型/金属），透明护盖增加操作可视性，设计目的清晰"
+    design_tags:
+      - "20V MAX"
+      - "金属切割"
+      - "铸铝护罩"
+      - "H10_材料表达"
+    hero_feature: "全铸铝合金护罩+底板——材质本身是产品定位（金属切割专用）的视觉宣言"
+    problem_solved: "钢材/铝型材现场无绳切割，铸铝护罩提供强度并防金属屑，无需角磨机+切割片"
+    transferable_technique: "材质升级（工程塑料→铸铝）作为品类专用化的视觉信号，材料即功能定位（H10）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_008"
+    source_images:
+      - filename: "电锯__型材切割锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__型材切割锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "14\"有绳型材切割锯（老款）：大圆形黄色护罩（DEWALT黑体字+黑色横幅），护罩侧面可见齿状圆形研磨砂轮（磨粒轮），黑色铸铁底座，银色导槽+弹簧臂+虎钳夹具，有线"
+      - filename: "电锯__型材切割锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__型材切割锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "14\"有绳型材切割锯（中款）：黄色电机壳（黑色电机可见）+黄色弧形护罩（更窄），黑色磨粒轮，灰色铸铁臂，螺杆虎钳在右侧，黑色底座"
+      - filename: "电锯__型材切割锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__型材切割锯__03.jpg"
+        image_role: "hero"
+        visual_anchor: "14\"有绳型材切割锯（新款）：全黄色蛤壳式护罩（最大覆盖面积），KEYLESS BLADE CHANGE SYSTEM徽章，灰色铸铝底座（区别于前款黑色底座），黑色螺杆虎钳"
+    product_name: "DeWalt 14\" Corded Metal Cut-Off Saw (型材切割锯)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "型材切割锯"
+    design_language:
+      silhouette: "铰链下压式：圆形大护罩通过铸铁臂铰接于底座，下压切割，弹簧复位，底座带导槽虎钳定位工件，侧视呈\"几\"字形（护罩+臂+底座）"
+      light_opening: "N/A（工业设备）；砂轮切口为功能开口"
+      thermal: "电机端部散热格栅（03款电机罩侧面可见），砂轮切割产生火花需要护罩引导方向"
+      cmf:
+        color: "黄色（护罩+部分电机壳）+ 黑色/深灰色（底座+磨粒轮）+ 银色/灰色（铸铁臂+虎钳机构）"
+        material: "工程塑料/金属护罩，铸铁机身臂，氧化铝磨粒砂轮，铸铁/铸铝底座"
+        finish: "黄色注塑，铸铁本色，哑光黑底座"
+      mounting: "台面固定（底座有螺栓孔），虎钳夹紧工件后下压切割"
+      signature_detail: "03款全黄蛤壳护罩+KEYLESS BLADE CHANGE徽章——最新款将免工具换片功能以徽章方式标注于护罩正面"
+    design_level:
+      score: 3
+      reason: "标准型材切割锯架构，从01到03款护罩覆盖面积逐步增大，KEYLESS换片是可见功能升级，整体设计遵循品类惯例"
+    design_tags:
+      - "有绳"
+      - "型材切割"
+      - "14英寸"
+      - "磨粒砂轮"
+      - "KEYLESS换片"
+      - "H11_功能外显"
+    hero_feature: "03款KEYLESS BLADE CHANGE徽章直接标注于护罩正面，免工具换片功能外显为品类升级标识"
+    problem_solved: "金属型材/钢管固定台面切割，下压式提供稳定垂直切割力，虎钳固定工件确保精度"
+    transferable_technique: "功能升级徽章（KEYLESS换片）放于产品正面最显眼位置，比规格表更直接的功能差异化传达"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_009"
+    source_images:
+      - filename: "电锯__往复锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX往复锯套装：黄色直线机身（枪形握把+前端黑色鞋形支撑），DEWALT 20V MAX标签，2Ah+DCB112充电器，标准直线形态"
+      - filename: "电锯__往复锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__04.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX Brushless往复锯POWERSTACK套装：黑色大包背景，POWERSTACK 5Ah+6A充电器，机身黑色占比较高（较现代造型）"
+      - filename: "电锯__往复锯__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__11.jpg"
+        image_role: "scene"
+        visual_anchor: "同款20V MAX往复锯套装（5Ah+4A充电器），同01一致的黄色直线机身，不同kit配置"
+      - filename: "电锯__往复锯__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__17.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX往复锯裸机侧视：全黄机身，DEWALT 20V MAX标签，黑色鞋形前支撑，干净无多余修饰"
+    product_name: "DeWalt 20V MAX Compact Reciprocating Saw"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "往复锯"
+    design_language:
+      silhouette: "直线枪形往复锯标准形态：电机+齿轮箱呈水平直筒，枪形把手从中段向下延伸，前端鞋形支撑垂直伸出，侧视呈F形"
+      light_opening: "N/A（电动工具）；锯片前端伸出为功能开口"
+      thermal: "机身中段两侧散热槽"
+      cmf:
+        color: "黄色（机身主体）+ 黑色（把手+前鞋+电池接口区）"
+        material: "工程塑料机身，橡胶防滑把手，钢质鞋形支撑，锯片"
+        finish: "哑光黄，哑光黑橡胶"
+      mounting: "20V MAX电池底部滑入枪形把手下方"
+      signature_detail: "黄色水平直筒+垂直枪形把手，F形侧视轮廓是往复锯最直觉的品类造型"
+    design_level:
+      score: 3
+      reason: "标准20V MAX往复锯标准执行，F形轮廓为品类惯例，设计目标明确但无差异化特征"
+    design_tags:
+      - "20V MAX"
+      - "往复锯"
+      - "直线枪形"
+      - "标准平台"
+    hero_feature: "水平直筒+垂直把手F形侧视——往复锯品类最直觉形态，品类骨架清晰"
+    problem_solved: "现场无绳往复锯切割（管道/框架/拆除），20V轻量平台覆盖日常施工需求"
+    transferable_technique: "F形往复锯轮廓的电池位置设计——底部滑入式电池使F形重心居中，单手平衡操作"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_010"
+    source_images:
+      - filename: "电锯__往复锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "12V MAX Brushless单手往复锯裸机：机身黑色为主（约65%黑色）+黄色面板区域（菱形/几何分区），极紧凑短体机身，BRUSHLESS标签，12V BRUSHLESS标签，前端小型黑色锯鞋"
+    product_name: "DeWalt 12V MAX Brushless One-Handed Reciprocating Saw"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "往复锯"
+    design_language:
+      silhouette: "最小往复锯形态：机身长度约为标准款40%，锯鞋极小，把手与机身一体化（无明显分离式把手），更接近手枪形态"
+      light_opening: "N/A（电动工具）"
+      thermal: "机顶散热槽（竖向三条）"
+      cmf:
+        color: "黑色（机身主体，约65%）+ 黄色（菱形功能面板区域）+ 黑色（把手纹理）"
+        material: "工程塑料机身，TPR防滑把手纹理"
+        finish: "哑光黑为主，哑光黄面板"
+      mounting: "12V MAX电池从把手底部插入"
+      signature_detail: "黑色主导机身+黄色几何面板的配色倒置——区别于20V款黄色主导，12V单手款黑色主导暗示紧凑/专业感"
+    design_level:
+      score: 3
+      reason: "12V单手往复锯通过黑色主导CMF与20V标准款视觉区分，形态紧凑目标明确，但无结构创新"
+    design_tags:
+      - "12V MAX"
+      - "单手往复锯"
+      - "黑色主导"
+      - "紧凑"
+    hero_feature: "极小体积——机身长度约标准款40%，单手握持+操作完全可行"
+    problem_solved: "狭小空间/管道穿孔/单手操作场景往复锯切割，12V轻量平台最大化灵活性"
+    transferable_technique: "同品类中降规格变体的CMF倒置策略——黑色主导代替黄色主导，用颜色比例传达产品层级差异"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_011"
+    source_images:
+      - filename: "电锯__往复锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__03.jpg"
+        image_role: "scene"
+        visual_anchor: "20V Brushless单手往复锯套装：紧凑单手机身（黑色主导+黄色面板），5Ah+4A充电器+黄色大包，DEWALT 20V BRUSHLESS标签"
+      - filename: "电锯__往复锯__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__12.jpg"
+        image_role: "scene"
+        visual_anchor: "同款20V Brushless单手往复锯+POWERSTACK套装：POWERSTACK电池+DCB112充电器+6英寸黄色DeWalt锯片，机身同03款"
+      - filename: "电锯__往复锯__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__13.jpg"
+        image_role: "hero"
+        visual_anchor: "同款20V Brushless单手往复锯裸机侧视：黑色主体+黄色菱形面板，底部可见银色DeWalt金属皮带夹，锯鞋小巧"
+    product_name: "DeWalt 20V Brushless One-Handed Reciprocating Saw"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "往复锯"
+    design_language:
+      silhouette: "单手往复锯：机身短小（比12V款稍大），把手与机身一体化，前端小锯鞋，侧视接近矩形紧凑块"
+      light_opening: "N/A（电动工具）"
+      thermal: "机顶散热槽（同12V款形式）"
+      cmf:
+        color: "黑色（机身主导）+ 黄色（面板区域）+ 银色（皮带夹金属件）"
+        material: "工程塑料机身，金属皮带夹"
+        finish: "哑光黑，哑光黄，银色金属"
+      mounting: "20V MAX电池底部插入（20V版整体略大于12V款）"
+      signature_detail: "银色金属DeWalt皮带夹（腰挂设计）——直接标注于机身底部，单手工具的腰挂使用场景被设计内化"
+    design_level:
+      score: 3
+      reason: "20V升级版单手往复锯，皮带夹内置是实用亮点，黑色主导CMF与12V款形成系列视觉一致性"
+    design_tags:
+      - "20V"
+      - "单手往复锯"
+      - "皮带夹"
+      - "黑色主导"
+      - "POWERSTACK兼容"
+    hero_feature: "银色金属腰夹内建于机身——单手往复锯的使用场景（高处/单手操作）直接反映在工具携带设计中"
+    problem_solved: "单手狭小空间往复锯切割，皮带夹允许工具随身携带，20V升级续航"
+    transferable_technique: "使用场景前置为产品设计特征——单手工具加内建腰夹，场景即设计（H12人机界面）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_012"
+    source_images:
+      - filename: "电锯__往复锯__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__06.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX往复锯套装：黑色TOUGHSYSTEM硬壳收纳箱，5Ah+DCB115充电器，机身黄色主导+灰色橡胶前鞋区"
+      - filename: "电锯__往复锯__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__09.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX Brushless往复锯裸机：黄色机身，前半段（齿轮箱+前把握区）覆盖大面积深灰色橡胶减震防护套，黄色后机身与深灰前套形成明显分界，黑色鞋形支撑"
+    product_name: "DeWalt 20V MAX Brushless Full-Size Reciprocating Saw (Anti-Vibration)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "往复锯"
+    design_language:
+      silhouette: "全尺寸往复锯标准F形，但前半段体量因橡胶防护套明显增厚，侧视后半段（黄色）和前半段（深灰橡胶套）形成明显两段式对比"
+      light_opening: "N/A（电动工具）"
+      thermal: "橡胶套内部散热槽（槽被橡胶部分遮盖）"
+      cmf:
+        color: "黄色（后机身）+ 深灰色（大面积前橡胶减震套）+ 黑色（把手+鞋）"
+        material: "工程塑料机身，厚壁橡胶减震前套（TPR），钢质鞋形支撑"
+        finish: "哑光黄，深灰哑光橡胶，哑光黑"
+      mounting: "20V MAX电池底部滑入"
+      signature_detail: "深灰色大面积橡胶套包覆前半段——减震功能直接外显为两段式色块对比，功能区域即视觉分区"
+    design_level:
+      score: 3
+      reason: "橡胶减震套功能外显形成两段色块是设计亮点，但整体形态遵循品类惯例，功能可读性强"
+    design_tags:
+      - "20V MAX"
+      - "全尺寸往复锯"
+      - "减震橡胶套"
+      - "H11_功能外显"
+      - "H02_包覆设计"
+    hero_feature: "深灰色大面积橡胶减震套包覆前半段机身——减震功能区域以材质+颜色差异外显"
+    problem_solved: "长时间往复锯作业减少手臂疲劳，橡胶套隔离振动，全尺寸覆盖重型拆除需求"
+    transferable_technique: "功能区域（减震/抗冲击）的包覆材质差异化——包覆材质区别于机身材质，功能=颜色区（H02+H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_013"
+    source_images:
+      - filename: "电锯__往复锯__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__18.jpg"
+        image_role: "hero"
+        visual_anchor: "20V Brushless往复锯裸机（新款）：前段齿轮箱区域包裹大体量黑色/深灰橡胶套（约占机身前60%，几乎球形凸起），可见锯片夹持机构从橡胶套开口露出（功能外显），黄色后机身+黑色把手，整体前重后轻造型"
+    product_name: "DeWalt 20V Brushless Reciprocating Saw (Exposed-Clamp Overmold Design)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "往复锯"
+    design_language:
+      silhouette: "前段大体量黑色橡胶球状凸起（齿轮箱+减震套合一），锯片夹持机构从凸起端口外露，后段黄色机身明显更细，整体前粗后细的独特比例"
+      light_opening: "N/A（电动工具）；锯片夹持机构开口是功能开口"
+      thermal: "橡胶套内散热（外部不可见）"
+      cmf:
+        color: "黑色/深灰（大体量前橡胶球形套，主视觉）+ 黄色（后机身）+ 黑色（把手）"
+        material: "工程塑料机身，厚壁大体量TPR橡胶套（前段），金属锯片夹持机构"
+        finish: "深灰哑光橡胶，哑光黄，哑光黑"
+      mounting: "20V MAX电池底部后端插入"
+      signature_detail: "锯片夹持机构从大黑色橡胶套前端开口露出——内部工程机构（换片机构）刻意外显，形成独特「透视感」"
+    design_level:
+      score: 4
+      reason: "前段大体量橡胶球形包覆+换片机构外露的设计组合在往复锯品类中形态独特，前粗后细比例有机，功能透视感是稀缺设计语言"
+    design_tags:
+      - "20V"
+      - "全尺寸往复锯"
+      - "球形橡胶包覆"
+      - "机构外显"
+      - "H02_包覆设计"
+      - "H11_功能外显"
+    hero_feature: "锯片夹持机构从大黑色橡胶球形套端口外露——内部换片机构成为正面视觉焦点，机械美感+功能透明"
+    problem_solved: "重型往复锯作业（拆除/重材切割），大体量橡胶套提供最强减震防护，换片机构外露方便单手无工具换片"
+    transferable_technique: "内部功能机构（换片夹具）在包覆设计中刻意露出开口——「刻意不包覆」创造透视感，比全遮盖更有设计张力（H02+H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_014"
+    source_images:
+      - filename: "电锯__往复锯__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__05.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR Brushless往复锯裸机：黄色主导机身，左侧大面积XR黑色徽章区（XR白色字体），DEWALT 20V MAX/XR标签，USA徽章x2，BRUSHLESS标签，黑色前把握区，标准全尺寸F形"
+      - filename: "电锯__往复锯__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__07.jpg"
+        image_role: "scene"
+        visual_anchor: "同款20V MAX XR Brushless往复锯套装：5Ah XR电池+充电器+黑色布包，布包印有「MADE IN THE USA」，机身清晰展示XR徽章"
+    product_name: "DeWalt 20V MAX XR Brushless Reciprocating Saw (Standard)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "往复锯"
+    design_language:
+      silhouette: "全尺寸F形往复锯，与标准20V款相同基础形态，黄色主导，XR识别在侧面大面积徽章区"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身散热槽，XR无刷电机散热需求"
+      cmf:
+        color: "黄色（机身主体）+ 黑色（XR徽章区+把手+前端）"
+        material: "工程塑料机身，TPR把手"
+        finish: "哑光黄，哑光黑"
+      mounting: "20V MAX XR电池底部滑入"
+      signature_detail: "侧面大面积黑色XR徽章区（含白色XR字体）——XR层级以专属大徽章占据机身侧面最显眼区域"
+    design_level:
+      score: 3
+      reason: "XR平台标准延伸，形态与20V基础款相同，靠XR大徽章做层级区分，设计执行到位"
+    design_tags:
+      - "20V MAX XR"
+      - "无刷"
+      - "全尺寸往复锯"
+      - "XR徽章"
+      - "美国制造"
+    hero_feature: "侧面大面积黑色XR徽章区——以专属面积传达层级，比标签更强的身份宣言"
+    problem_solved: "专业级现场往复锯切割，XR无刷延长连续工作时间，20V MAX平台兼容"
+    transferable_technique: "平台层级（XR）的徽章面积传达——徽章越大=层级越高，用设计语言建立平台等级视觉秩序"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_015"
+    source_images:
+      - filename: "电锯__往复锯__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__14.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR Brushless往复锯（黑色主导款）：机身黑色主导（约70%黑色），前段黑色大体量，黄色环状色带在中部把手区域，大白色XR字体印于黑色机身前段，8Ah XR POWERPACK电池（黑色+金色/黄色标识）+6A充电器"
+      - filename: "电锯__往复锯__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__15.jpg"
+        image_role: "hero"
+        visual_anchor: "同款XR黑色主导往复锯裸机：黑色前段机身大面积XR白字，黄色把手区色带，黑色后段，无电池状态清晰展示机身CMF比例"
+    product_name: "DeWalt 20V MAX XR Brushless Reciprocating Saw (Black-Dominant, High-Capacity)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "往复锯"
+    design_language:
+      silhouette: "全尺寸往复锯F形，但CMF完全倒置——黑色占主导（约70%），黄色仅作为中段把手区色带，大白色XR字体在黑色机身上形成强对比"
+      light_opening: "N/A（电动工具）"
+      thermal: "黑色机身侧面散热肋纹（纹理与颜色融合，低调）"
+      cmf:
+        color: "黑色（机身前后主体，约70%）+ 黄色（中段把手色带，约20%）+ 白色（XR大字体印刷）"
+        material: "工程塑料机身，TPR把手，8Ah XR POWERPACK超大电池"
+        finish: "哑光黑为主，哑光黄色带，白色丝印字体"
+      mounting: "20V MAX 8Ah XR POWERPACK大容量电池，体积明显大于标准XR电池"
+    signature_detail: "黑色主导机身+大白色XR字体——CMF完全倒置于标准20V款，高端层级用「反转」而非「添加」来传达"
+    design_level:
+      score: 4
+      reason: "黑色主导CMF倒置+大白字XR在全尺寸往复锯中形态强烈，与FLEXVOLT的黑色主导语法一致，高端层级视觉差异化有力"
+    design_tags:
+      - "20V MAX XR"
+      - "黑色主导"
+      - "高容量"
+      - "CMF倒置"
+      - "H08_对比强调"
+    hero_feature: "黑色主导机身上大白色XR字体——黑底白字对比，最小改动实现最强层级跃升感"
+    problem_solved: "超长续航专业往复锯作业，8Ah大容量适合全天高强度拆除工程"
+    transferable_technique: "高端层级的CMF倒置策略——黑色取代黄色作为主色，在同平台内用颜色比例传达产品等级（比徽章更系统化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电锯_016"
+    source_images:
+      - filename: "电锯__往复锯__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__08.jpg"
+        image_role: "scene"
+        visual_anchor: "60V MAX FLEXVOLT Brushless往复锯双电池套装：黑色主导机身（DEWALT BRUSHLESS 60V MAX标签），2x9Ah FLEXVOLT电池+快充（黄色快充器）+黄色大包"
+      - filename: "电锯__往复锯__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__10.jpg"
+        image_role: "scene"
+        visual_anchor: "同款60V FLEXVOLT往复锯单电池套装：9Ah FLEXVOLT+6A充电器+黄色大包，机身黑色主导，FLEXVOLT电池接口明显"
+      - filename: "电锯__往复锯__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电锯/电锯__往复锯__16.jpg"
+        image_role: "hero"
+        visual_anchor: "60V MAX FLEXVOLT Brushless往复锯裸机：黄色机身+黑色前段，FLEXVOLT接口（底部黄色FLEXVOLT字标），BRUSHLESS 60V MAX标签，电池接口槽清晰可见"
+    product_name: "DeWalt 60V MAX FLEXVOLT Brushless Reciprocating Saw"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "往复锯"
+    design_language:
+      silhouette: "全尺寸往复锯F形，但机身更厚（60V大电机需要更大机壳），FLEXVOLT电池从底部向下伸出体积更大，整体重量感强"
+      light_opening: "N/A（电动工具）"
+      thermal: "机身散热槽，60V大功率散热需求高"
+      cmf:
+        color: "黄色（机身为主）+ 黑色（把手+前端+60V标签区）"
+        material: "工程塑料机身，FLEXVOLT 9Ah电池（灰色面板）"
+        finish: "哑光黄，哑光黑"
+      mounting: "FLEXVOLT 60V/20V双电压电池底部滑入，电池体积显著大于20V电池"
+      signature_detail: "FLEXVOLT电池灰色面板从底部外挂——灰色电池面板在黄色机身下方的视觉突出，FLEXVOLT平台识别清晰"
+    design_level:
+      score: 3
+      reason: "FLEXVOLT往复锯标准形态延伸，60V大功率适配重型需求，形态无突破但平台价值清晰"
+    design_tags:
+      - "FLEXVOLT"
+      - "60V"
+      - "全尺寸往复锯"
+      - "无刷"
+    hero_feature: "FLEXVOLT 9Ah大体积电池从底部伸出——电池体量视觉化传达60V高能量密度"
+    problem_solved: "重型拆除/大截面管道切割，60V最大功率覆盖最高强度往复锯需求"
+    transferable_technique: "电池体量作为功率传达媒介——更大的电池物理体积直接传达更高的能量储备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

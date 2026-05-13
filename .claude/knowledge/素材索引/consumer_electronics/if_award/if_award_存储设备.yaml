@@ -1,0 +1,161 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "存储设备"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/存储设备/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_storage_001"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/存储设备/08.jpg"
+        image_role: "hero"
+        visual_anchor: "Lexar读卡器+SSD生态：白色大型读卡器翻盖展开+黑色小型读卡器悬浮，斜线构图"
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/存储设备/09.jpg"
+        image_role: "detail"
+        visual_anchor: "手持Lexar Professional USB-C读卡器，银色铝合金机身，白色标签区，USB-C插头朝上"
+    product_name: "Lexar Professional USB-C Card Reader"
+    brand_name: "Lexar"
+    brand_confidence: "high"
+    category_path: ["消费电子", "存储设备"]
+    design_language:
+      silhouette: "矩形扁平小体，USB-C插头直接从顶部伸出，整体无线缆设计"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "银色铝合金主体+白色标签面板"
+        material: "铝合金外壳"
+        finish: "磨砂拉丝铝合金+哑白标签区"
+      mounting: "USB-C直插，无线缆，直连手机/电脑"
+      signature_detail: "整机仅拇指大小，直插USB-C无线缆，标签区为品牌信息载体"
+    design_level:
+      score: 4
+      reason: "极简形态将功能压缩到最小，铝合金质感与专业品牌定位一致，无线缆直插体验优雅"
+    design_tags: ["极简", "USB-C直插", "铝合金", "无线缆", "专业级", "读卡器"]
+    hero_feature: "拇指大小+铝合金直插USB-C，零线缆极简使用体验"
+    problem_solved: "传统读卡器需要线缆连接，直插式消除线缆管理困扰"
+    transferable_technique: "将连接接口直接整合进产品本体，消除线缆，形成一体感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_storage_002"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/存储设备/22.jpg"
+        image_role: "hero"
+        visual_anchor: "j5create存储配件收纳包：全黑EVA硬壳+拉链，右侧打开展示内置小型SSD+接口模块卡槽"
+    product_name: "j5create Storage Accessories Travel Case"
+    brand_name: "j5create"
+    brand_confidence: "high"
+    category_path: ["消费电子", "存储设备"]
+    design_language:
+      silhouette: "A5大小扁平矩形硬壳包，四角圆润，单侧拉链开合"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全哑黑"
+        material: "EVA硬壳外皮+内部泡棉网布"
+        finish: "哑光磨砂外皮，内部黑色尼龙网布"
+      mounting: "独立便携，可放入包中"
+      signature_detail: "内部预制卡槽与存储设备形态精确匹配，开合后内部有结构感"
+    design_level:
+      score: 2
+      reason: "功能性收纳包，设计平淡，无视觉亮点，属于品类标配设计"
+    design_tags: ["收纳包", "EVA硬壳", "配件系统", "便携", "旅行"]
+    hero_feature: "预制卡槽与配件精确匹配，打开即可使用"
+    problem_solved: "存储配件散乱携带，专用收纳包系统化整理"
+    transferable_technique: "配件系统化收纳设计，预制卡槽形态与产品匹配"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_storage_003"
+    source_images:
+      - filename: "32.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/存储设备/32.jpg"
+        image_role: "hero"
+        visual_anchor: "Mosdan金属U盘斜置漂浮，子弹形打磨金属体+圆端星形镂空，镜面台面反射"
+      - filename: "33.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/存储设备/33.jpg"
+        image_role: "detail"
+        visual_anchor: "Mosdan U盘端面特写：圆弧顶部星形镂空孔，金属镜面光泽"
+    product_name: "Mosdan Metal USB Flash Drive"
+    brand_name: "Mosdan"
+    brand_confidence: "high"
+    category_path: ["消费电子", "存储设备"]
+    design_language:
+      silhouette: "子弹形：一端方形插头，另一端圆弧顶，整体长条扁平，无盖设计"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "银色金属"
+        material: "不锈钢/铝合金整体成型"
+        finish: "拉丝+镜面混合，顶端圆弧高光"
+      mounting: "直插USB-A"
+      signature_detail: "圆弧顶端星形镂空，兼做挂绳孔与装饰元素，金属冲压工艺精细"
+    design_level:
+      score: 4
+      reason: "整体金属成型U盘，子弹形轮廓+星形镂空细节精准，工艺感和礼品感强，高于品类平均水平"
+    design_tags: ["金属整体", "子弹形", "星形镂空", "拉丝", "礼品感", "无盖"]
+    hero_feature: "圆弧端星形镂空：装饰+挂绳孔+品牌标志三合一"
+    problem_solved: "普通U盘塑料感强，金属整体成型提升质感，无盖设计减少盖子丢失问题"
+    transferable_technique: "功能孔（挂绳孔）造型化为品牌图形，功能与装饰合并"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_storage_004"
+    source_images:
+      - filename: "56.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/存储设备/56.jpg"
+        image_role: "hero"
+        visual_anchor: "Fujifilm Instax方形照片打印机双色正面：白色+深灰绿色，全身水波纹理，中央椭圆instax徽章"
+      - filename: "58.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/存储设备/58.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "薄荷绿配色Instax打印机使用场景：出纸口弹出即拍即得照片，书桌摆放"
+    product_name: "Fujifilm Instax Square Link Smartphone Printer"
+    brand_name: "Fujifilm"
+    brand_confidence: "high"
+    category_path: ["消费电子", "存储设备"]
+    design_language:
+      silhouette: "膨胀感正方形圆角体，四面微微鼓出，类枕头形态，比例接近1:1正方"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "白色版/深灰绿版，另有生活场景中薄荷绿版"
+        material: "工程塑料"
+        finish: "全机身细密水波纹压花，中央椭圆instax徽章浮雕"
+      mounting: "桌面放置，顶部出纸口"
+      signature_detail: "膨胀圆润轮廓+全身水波纹理+中央椭圆浮雕徽章，整体柔软可爱语义"
+    design_level:
+      score: 5
+      reason: "膨胀枕头形态在打印机品类极为稀有，水波纹理+椭圆徽章+圆润轮廓三重设计语言高度一致，情感化设计标杆"
+    design_tags: ["膨胀形态", "水波纹理", "枕头感", "情感化设计", "即时打印", "instax"]
+    hero_feature: "全机身膨胀圆润轮廓+细密水波纹压花，触觉与视觉都传达柔软感"
+    problem_solved: "手机照片停留在数字世界，即时打印实现照片实体化，圆润设计降低使用门槛感"
+    transferable_technique: "膨胀/鼓出轮廓赋予产品柔软情感语义，可迁移到消费情感型产品造型"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "Instax Link归类为存储设备存疑，功能上属于照片打印机，但作为数字内容实体化输出设备放入存储品类可接受，建议人工确认分类"

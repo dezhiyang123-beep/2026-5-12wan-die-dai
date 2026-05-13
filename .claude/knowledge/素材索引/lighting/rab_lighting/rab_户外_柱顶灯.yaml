@@ -1,0 +1,114 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "柱顶灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/柱顶灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_柱顶灯_001"
+    source_images:
+      - filename: "04__from场地灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/柱顶灯/04__from场地灯.jpg"
+        image_role: "hero"
+        visual_anchor: "圆顶灯笼造型，尖顶装饰，透明玻璃灯罩，竖向分格条，深灰色"
+    product_name: "RAB 柱顶灯（传统灯笼款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "柱顶灯"]
+    design_language:
+      silhouette: "圆顶灯笼型，顶部尖形装饰收尾，灯罩为锥台形，底部细颈连接安装座"
+      light_opening: "360°全周透明玻璃灯罩透光，竖向分格条将灯罩分为多个弧形面板"
+      thermal: "顶部铝制圆顶兼作散热体，内部LED向下出光"
+      cmf:
+        color: "深灰色/炭灰"
+        material: "压铸铝合金 + 透明钢化玻璃"
+        finish: "粉末喷涂哑光，玻璃透明无镀层"
+      mounting: "底部圆柱颈安装座，适配标准灯柱顶部"
+      signature_detail: "传统灯笼造型融合LED内核，顶部装饰尖与现代LED模组的古今混搭"
+    design_level:
+      score: 2
+      reason: "传统灯笼造型直接移用，设计创新度低，仅做LED技术替换，无明显现代化演绎"
+    design_tags: ["传统灯笼", "仿古", "H06仿生", "透明玻璃罩", "360度出光"]
+    hero_feature: "圆顶灯笼剪影+尖顶装饰的历史传承感"
+    problem_solved: "历史街区/景观区域对传统外观灯具的需求，同时获得LED节能效果"
+    transferable_technique: "传统形态灯笼造型作为视觉外壳，内部完全LED化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_柱顶灯_002"
+    source_images:
+      - filename: "12__from场地灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/柱顶灯/12__from场地灯.jpg"
+        image_role: "hero"
+        visual_anchor: "伞形散热顶盖，四根弧形支柱，下方六边形格栅底盘，全白色，柱顶安装"
+    product_name: "RAB 柱顶灯（伞形结构款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "柱顶灯"]
+    design_language:
+      silhouette: "伞形顶盖+四根弧形外张支柱+六边形格栅底盘，整体呈开放骨架结构"
+      light_opening: "底部六边形格栅面板向下出光，LED模组置于格栅内侧"
+      thermal: "顶部方形格栅散热顶盖兼作散热体，开放骨架结构增强空气流通"
+      cmf:
+        color: "全白色"
+        material: "压铸铝合金"
+        finish: "粉末喷涂，白色哑光"
+      mounting: "底部圆柱套管，适配标准灯柱顶部"
+      signature_detail: "四根弧形外张支柱形成有机骨架感，与伞形顶盖构成独特结构美学"
+    design_level:
+      score: 4
+      reason: "开放骨架结构在柱顶灯品类中辨识度高，弧形支柱造型具设计语言独特性，白色配色清新"
+    design_tags: ["开放骨架", "H09隐藏工程", "结构美学", "伞形", "白色配色", "H03分件线"]
+    hero_feature: "四根弧形外张支柱形成的开放骨架剪影"
+    problem_solved: "柱顶灯体量感重、视觉沉闷的问题，骨架结构使灯具显得轻盈"
+    transferable_technique: "用外露骨架结构代替封闭壳体，兼顾散热与视觉轻盈感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_柱顶灯_003"
+    source_images:
+      - filename: "13__from场地灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/户外灯/柱顶灯/13__from场地灯.jpg"
+        image_role: "hero"
+        visual_anchor: "宽扁弧形顶盖，大面积透明底面，中央柱顶安装座，深灰色，俯仰视角"
+    product_name: "RAB 柱顶灯（宽扁弧形顶盖款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外灯", "柱顶灯"]
+    design_language:
+      silhouette: "宽扁飞碟形，顶盖弧线从中心向四周舒展下压，整体横向延展感强"
+      light_opening: "底部大面积透明玻璃/亚克力罩，LED模组置于内部向下出光"
+      thermal: "顶部铝制弧形顶盖兼作散热体，边缘略微上翘"
+      cmf:
+        color: "深灰色/深青铜"
+        material: "压铸铝合金 + 透明光学罩"
+        finish: "粉末喷涂，哑光"
+      mounting: "底部中央六角形安装座，套接灯柱顶部"
+      signature_detail: "宽扁飞碟形轮廓与大面积底部出光面的现代简约语言"
+    design_level:
+      score: 3
+      reason: "飞碟形比例清晰，现代感较强，但整体造型语言较通用，缺乏品牌专属细节"
+    design_tags: ["飞碟形", "H07极简整合", "宽扁比例", "大面积出光", "现代简约"]
+    hero_feature: "宽扁飞碟形轮廓在柱顶的横向延展剪影"
+    problem_solved: "柱顶灯下方照度不足、出光面积小的问题"
+    transferable_technique: "飞碟形宽扁比例最大化底部出光面，提升照度均匀性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

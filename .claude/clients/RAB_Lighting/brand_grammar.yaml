@@ -1,0 +1,70 @@
+# RAB Lighting 品牌语法 — V1.0
+# 提取日期: 2026-05-11
+# 数据来源: RAB官网产品图 + 品牌资料 + 市场定位分析
+
+brand_grammar:
+  surface_codes:
+    color_logic:
+      claim: "黑/棕/白/金属为标准色板。本次以黑色为基础设计，具体颜色由客户确认"
+      evidence_level: A
+      note: "Bronze是RAB传统主色，但黑色在现代建筑中更主流"
+    material_zones:
+      claim: "全压铸铝壳体，粉末喷涂。透光区域聚碳酸酯/钢化玻璃。无软质包胶"
+      evidence_level: A
+    finish:
+      claim: "哑光粉末喷涂，均匀质感。无高光/镀铬/拉丝装饰"
+      evidence_level: A
+
+  proportion_codes:
+    volume_distribution:
+      claim: "功能体量为主，壳体紧包内部组件，不留空腔做造型"
+      evidence_level: B
+    visual_weight_center:
+      claim: "视觉重心偏上/偏后（贴墙侧），出光面轻盈"
+      evidence_level: B
+    line_tension:
+      claim: "直线+大弧度圆角，无锐角、无复杂曲面，干净利落"
+      evidence_level: B
+
+  structure_codes:
+    parting_style:
+      claim: "上下分件或前后分件，分件线尽量隐藏或水平走向"
+      evidence_level: B
+    overmold_style:
+      claim: "无包胶，全金属+密封垫圈"
+      evidence_level: A
+    opening_style:
+      claim: "散热开孔极简或隐藏，SLIM系列靠壳体导热"
+      evidence_level: B
+    fastener_visibility:
+      claim: "螺丝外露但低调，小十字或内六角"
+      evidence_level: B
+
+  semantic_codes:
+    brand_personality:
+      claim: "可靠专业工具——不张扬、不花哨、干活利索"
+      evidence_level: A
+      note: "1946年创立，定位'让分销商好卖、电工好装、用户好省电'"
+    user_expectation:
+      claim: "装上就忘、十年不操心"
+      evidence_level: B
+    power_source:
+      claim: "专业感来自精准适度——不过度设计，体量紧凑、做工扎实"
+      evidence_level: B
+
+  forbidden_codes:
+    forbidden_forms:
+      - "过度装饰性曲面（但可适度尝试简洁弧面）"
+      - "多层复杂壳体"
+      - "亮面/镀铬等装饰处理"
+    forbidden_competitors:
+      - "低价白牌的粗糙廉价感"
+    forbidden_semantics:
+      - "奢华/时尚/潮流"
+      - "廉价/临时/凑合"
+    note: "用户确认可适度尝试有机/极简造型，但不能失去RAB专业感"
+
+  design_direction:
+    selected: "A（极致快装）+ B（建筑融合）"
+    core_proposition: "融入建筑立面的壁灯，电工一个人就能装好"
+    color_base: "黑色"

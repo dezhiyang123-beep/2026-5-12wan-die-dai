@@ -1,0 +1,751 @@
+# iF Design Award — 台灯（智能台灯 + 氛围台灯）
+# source_folder_1: 01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/ (22 images)
+# source_folder_2: 01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/ (23 images)
+# total: 45 entries
+
+products:
+
+  # ── 智能台灯 ──────────────────────────────────────────────
+
+  - product_id: "if_台灯_智能_01"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/01.jpeg"
+    description: >
+      机械臂式RGB智能台灯。圆柱形灯头端面布满同心圆排列的RGB LED阵列，发出品红色渐变光晕；
+      黑色多关节铰链臂结构，红色内衬点缀关节处，具强烈科技感与gaming氛围。
+    design_features:
+      - "多关节铰链臂，可全方位调节"
+      - "圆柱灯头端面RGB LED阵列，呈同心圆放射状"
+      - "黑色金属臂 + 红色关节内衬，gaming配色"
+      - "灯头可360°旋转，光源朝向任意面"
+    smart_features:
+      - "全彩RGB调色，可实现品红/青/蓝等色"
+      - "app或语音控制（推测）"
+    use_scenario: "电竞桌、创作工作台、夜间氛围"
+    tags: ["RGB", "机械臂", "铰链", "gaming", "多关节", "全彩", "台灯"]
+
+  - product_id: "if_台灯_智能_02"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/02.jpg"
+    description: >
+      竖立圆柱形智能台灯，黑色磨砂外壳，顶部收窄，正面有两条竖向光带从上至下渐变发光；
+      底部有小型椭圆形触控按键，整体极简、科技感强，适合现代办公桌。
+    design_features:
+      - "圆柱形外壳，上窄下宽的微弧度收腰"
+      - "正面双竖条发光槽，渐变光效"
+      - "黑色磨砂塑料/金属外壳"
+      - "底部椭圆形触控按键"
+    smart_features:
+      - "触控调光调色"
+      - "app控制（推测）"
+    use_scenario: "桌面办公、卧室床头"
+    tags: ["圆柱", "竖条光带", "渐变", "触控", "极简", "黑色", "台灯"]
+
+  - product_id: "if_台灯_智能_03"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/03.jpg"
+    description: >
+      WiZ品牌智能氛围夜灯。低矮圆筒形，顶面发乳白/粉紫色光，底部透出青色下照光；
+      米白色磨砂外壳，双色区分上/下出光，外形圆润如鹅卵石，适合卧室床头夜灯场景。
+    design_features:
+      - "低矮圆筒形，高宽比约1:1"
+      - "顶面上照 + 底部腰线下照双出光区"
+      - "米白色哑光外壳，品牌LOGO压印"
+      - "极圆润无棱角轮廓"
+    smart_features:
+      - "全彩调色（顶/底独立双区）"
+      - "WiZ app控制，支持语音"
+      - "可调色温"
+    use_scenario: "卧室床头、儿童房夜灯"
+    tags: ["WiZ", "圆筒", "双区出光", "上下出光", "夜灯", "柔光", "台灯"]
+
+  - product_id: "if_台灯_智能_04"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/04.jpg"
+    description: >
+      Philips Connected智能台灯。斜切椭圆球形灯体，顶部斜面开口出光，底部腰线处透出辅助光；
+      纯白哑光外壳，整体造型如不倒翁略倾斜，轮廓极简有雕塑感。
+    design_features:
+      - "椭圆球形斜切灯头，顶部斜面为出光面"
+      - "腰线处底部透光条"
+      - "纯白哑光一体成型外壳"
+      - "极简无操控面板外观"
+    smart_features:
+      - "Philips Connected全彩app控制"
+      - "可调色温与亮度"
+    use_scenario: "卧室床头、客厅边几"
+    tags: ["Philips", "斜切球形", "白色", "一体成型", "极简", "台灯"]
+
+  - product_id: "if_台灯_智能_05"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/05.jpg"
+    description: >
+      Philips品牌机器人造型智能台灯。上部球形头 + 下部圆柱形灯体，灯头嵌入像素点阵屏显示表情；
+      纯白哑光配色，整体如人形机器人，灯体本身通体漫射发光，情感化设计极具辨识度。
+    design_features:
+      - "上球下柱人形造型，高宽比约2:1"
+      - "球形灯头内嵌圆形像素点阵屏（表情显示）"
+      - "灯体圆柱全漫射发光"
+      - "纯白哑光一体配色"
+    smart_features:
+      - "像素屏表情显示，可随光色变化"
+      - "全彩调色，可调亮度"
+      - "Philips app控制"
+    use_scenario: "儿童房、卧室、桌面陪伴"
+    tags: ["Philips", "机器人", "像素屏", "表情", "情感化", "圆柱", "台灯"]
+
+  - product_id: "if_台灯_智能_06"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/06.jpg"
+    description: >
+      Philips机器人台灯的RGB发光状态展示。同05，灯体通体发红色漫射光，像素屏显示爱心表情；
+      展示该灯的情绪/氛围切换能力，红色饱和发光，极具视觉冲击力。
+    design_features:
+      - "同05造型，灯体全漫射发红光"
+      - "像素屏显示爱心图案"
+      - "球形头 + 圆柱身，深色/暗色版本"
+    smart_features:
+      - "全彩RGB + 像素屏联动"
+      - "情绪灯光模式"
+    use_scenario: "卧室情绪氛围、节日布置"
+    tags: ["Philips", "机器人", "RGB红光", "爱心", "情绪", "台灯"]
+
+  - product_id: "if_台灯_智能_07"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/07.jpg"
+    description: >
+      黑色模块化智能光效条/台灯，横向长方体主灯体，正面分割为多个像素显示区（彩色点阵）
+      和一个彩色渐变方块区，端部内嵌镜头/传感器；支持磁力拼接模块扩展。
+    design_features:
+      - "横卧长方体造型，多模块分区面板"
+      - "彩色LED点阵显示区 + 渐变色块区"
+      - "端部圆形镜头/传感器"
+      - "磁力拼接扩展（Magnetic Splicing）"
+      - "哑光黑色铝合金壳体"
+    smart_features:
+      - "全彩像素显示（时钟、天气、通知等）"
+      - "磁力模块拼接，灵活组合"
+      - "app控制"
+    use_scenario: "桌面科技装饰、电竞桌、办公桌"
+    tags: ["像素", "模块化", "磁吸", "点阵", "长方体", "黑色", "台灯", "桌面"]
+
+  - product_id: "if_台灯_智能_08"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/08.jpg"
+    description: >
+      同07产品的磁力拼接展示图，展示单独扩展模块与主灯体的分离/组合状态；
+      主体彩色像素点阵发光，强调模块化可扩展的核心卖点。
+    design_features:
+      - "磁力拼接扩展模块展示"
+      - "单模块可独立使用"
+      - "彩色LED点阵"
+    smart_features:
+      - "磁吸扩展，模块间数据/电力传输"
+    use_scenario: "桌面科技装饰"
+    tags: ["模块化", "磁吸", "拼接", "点阵", "台灯"]
+
+  - product_id: "if_台灯_智能_09"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/09.jpg"
+    description: >
+      Philips Hue智能台灯（Mira系列）。纯白色蘑菇形台灯，弯曲灯颈连接倾斜锥形灯罩，
+      底座为圆锥形，底部饰以浅木色圆环；整体轮廓柔和有机，出光区域朝侧下方。
+    design_features:
+      - "蘑菇形整体轮廓，灯颈微弯"
+      - "倾斜锥形灯罩，侧向出光"
+      - "锥形底座 + 浅木色圆环底部装饰"
+      - "纯白哑光一体配色"
+    smart_features:
+      - "Philips Hue生态，app控制"
+      - "可调色温（暖白至冷白）"
+    use_scenario: "卧室床头、客厅边几"
+    tags: ["Philips Hue", "蘑菇形", "弯颈", "倾斜灯罩", "木色底座", "白色", "台灯"]
+
+  - product_id: "if_台灯_智能_10"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/10.jpg"
+    description: >
+      Philips Hue Mira台灯的场景氛围照，黑色版本置于床头柜，发出暖橙色光，
+      营造卧室暖光氛围；展示弯颈灯罩斜向下打光的实际效果与空间氛围感。
+    design_features:
+      - "黑色版本，与白色版形成对比"
+      - "弯颈灯罩斜向下出光"
+      - "木色底座圆环"
+    smart_features:
+      - "可调暖光色温，营造卧室氛围"
+    use_scenario: "卧室床头暖光场景"
+    tags: ["Philips Hue", "黑色", "暖光", "卧室", "场景", "台灯"]
+
+  - product_id: "if_台灯_智能_11"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/11.jpg"
+    description: >
+      WiZ品牌斜臂圆盘头智能台灯。纯白色，圆形薄盘状灯头，斜臂支撑连接圆形底座；
+      顶部圆盘内嵌细圆环LED光源，整体比例轻盈，极简北欧风格。
+    design_features:
+      - "圆形薄盘灯头 + 斜向细臂 + 圆形底座"
+      - "灯头顶部嵌细圆环LED"
+      - "纯白色，线条极简"
+      - "底座有触控调光按键"
+    smart_features:
+      - "WiZ app控制"
+      - "可调亮度与色温"
+    use_scenario: "办公桌、床头、极简居家"
+    tags: ["WiZ", "圆盘灯头", "斜臂", "细臂", "白色", "极简", "台灯"]
+
+  - product_id: "if_台灯_智能_12"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/12.jpg"
+    description: >
+      同11 WiZ斜臂圆盘台灯，圆盘灯头内嵌细圆环LED发光的近景/点亮状态图，
+      展示圆盘出光效果与触控底座细节。
+    design_features:
+      - "圆盘灯头内嵌细圆环LED，环形均匀出光"
+      - "底座触控按键细节"
+    smart_features:
+      - "触控调光"
+    use_scenario: "桌面"
+    tags: ["WiZ", "圆盘", "环形LED", "触控", "台灯"]
+
+  - product_id: "if_台灯_智能_13"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/13.jpeg"
+    description: >
+      同01机械臂RGB台灯的局部特写，展示灯头端面白光模式；
+      圆柱灯头，端面内圈密布同心圆LED阵列，外圈环形发白光，机械铰链臂细节清晰。
+    design_features:
+      - "圆柱灯头端面LED阵列特写，白光模式"
+      - "外圈RGB环 + 内圈白光"
+      - "机械关节铰链细节"
+    smart_features:
+      - "白光与RGB可切换"
+    use_scenario: "工作台照明"
+    tags: ["机械臂", "铰链", "圆柱灯头", "LED阵列", "白光", "台灯"]
+
+  - product_id: "if_台灯_智能_14"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/14.jpg"
+    description: >
+      极简金属斜臂智能台灯，黑色细金属臂呈折线形（Z字折叠），顶端为超薄圆环形灯头（枪铁色），
+      圆盘底座；造型极度几何抽象，如雕塑，无传统灯罩结构。
+    design_features:
+      - "Z字形细金属折臂，极简几何"
+      - "超薄圆环形灯头，枪铁色镀层"
+      - "圆盘底座，整体低调优雅"
+      - "两种高度/角度可选"
+    smart_features:
+      - "触控或旋转调光（推测）"
+    use_scenario: "高端办公桌、书房"
+    tags: ["Z臂", "折线臂", "圆环灯头", "枪铁色", "极简", "金属", "雕塑感", "台灯"]
+
+  - product_id: "if_台灯_智能_15"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/15.jpg"
+    description: >
+      同14 Z臂台灯的实景使用照，枪铁色圆环灯头点亮，放置于木质书桌，窗外自然光背景；
+      展示高端书房场景，圆环灯头出光柔和均匀，极具设计感。
+    design_features:
+      - "圆环灯头点亮状态，光线向下均匀漫射"
+      - "Z字臂书桌使用场景"
+      - "枪铁色金属质感"
+    smart_features:
+      - "可调亮度"
+    use_scenario: "书房高端办公桌"
+    tags: ["Z臂", "圆环灯头", "书房", "实景", "枪铁色", "台灯"]
+
+  - product_id: "if_台灯_智能_16"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/16.jpg"
+    description: >
+      多功能笔筒+台灯一体设计。圆柱形灯体顶部开放作笔筒，中段为全漫射发光区，
+      灯体腰部稍收窄，底部有圆形触控键；白/灰配色，实用与美观兼顾。
+    design_features:
+      - "圆柱形灯体，顶部开口兼作笔筒"
+      - "中段全透明/漫射发光区，均匀出光"
+      - "腰部微收窄，底部触控按键"
+      - "白灰双色"
+    smart_features:
+      - "触控开关/调光"
+    use_scenario: "书桌、学生桌面"
+    tags: ["笔筒", "一体化", "多功能", "圆柱", "漫射", "白灰", "台灯"]
+
+  - product_id: "if_台灯_智能_17"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/17.jpg"
+    description: >
+      方形织物面板+圆形灯头复合智能台灯（两视角展示）。主体为方形织物包覆板，
+      圆形灯头嵌于正面；背面为铝合金散热格栅；顶部有圆形提环，灰色系配色，工业与温暖并存。
+    design_features:
+      - "方形织物面板 + 圆形灯头嵌入"
+      - "背面铝合金竖纹格栅散热"
+      - "顶部圆形提环（可携带）"
+      - "灰色织物 + 铝色金属对比"
+    smart_features:
+      - "触控调光（面板按键）"
+      - "可能支持app"
+    use_scenario: "卧室床头、居家书桌"
+    tags: ["织物", "方形面板", "圆形灯头", "提环", "铝合金格栅", "灰色", "台灯"]
+
+  - product_id: "if_台灯_智能_18"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/18.jpg"
+    description: >
+      同17织物面板台灯的床头场景使用照，蓝色织物版本，圆形灯头发暖黄光；
+      展示床头实际使用氛围，方形板体与圆形光面形成强烈几何对比。
+    design_features:
+      - "蓝色织物面板版本"
+      - "圆形灯头暖黄发光"
+      - "床头场景"
+    smart_features:
+      - "可调暖光"
+    use_scenario: "卧室床头夜灯"
+    tags: ["织物", "蓝色", "方形", "床头", "暖光", "台灯"]
+
+  - product_id: "if_台灯_智能_19"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/19.jpg"
+    description: >
+      无线充电集成台灯。椭圆形底座内嵌Qi无线充电区，底座上竖立圆柱灯臂 + 椭圆乳白玻璃球灯头；
+      提供红、白、黑三色版本，底座为镜面/哑光处理，球形灯头柔和发光，功能极为集成。
+    design_features:
+      - "椭圆跑道形底座，集成Qi无线充电"
+      - "圆柱灯臂 + 椭圆乳白玻璃球灯头"
+      - "底座镜面或哑光处理"
+      - "红/白/黑三色版本"
+    smart_features:
+      - "Qi无线充电（底座）"
+      - "可调亮度与色温（推测）"
+    use_scenario: "床头、书桌（手机充电+照明一体）"
+    tags: ["无线充电", "Qi", "椭圆底座", "球形灯头", "多色", "一体化", "台灯"]
+
+  - product_id: "if_台灯_智能_20"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/20.jpg"
+    description: >
+      同19无线充电台灯的功能使用特写，黑色版本，iPhone放置底座无线充电区；
+      球形乳白灯头发暖白光，展示充电+照明同步使用场景。
+    design_features:
+      - "黑色版本，镜面底座"
+      - "手机无线充电使用展示"
+      - "球形灯头暖白出光"
+    smart_features:
+      - "Qi无线充电"
+    use_scenario: "床头手机充电+照明"
+    tags: ["无线充电", "黑色", "球形灯头", "功能展示", "台灯"]
+
+  - product_id: "if_台灯_智能_21"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/21.jpg"
+    description: >
+      白色拱门形智能台灯（正面）。整体为圆角长方形拱门轮廓，中间开孔，
+      顶部圆弧；孔内圆形发光圆环作为主光源，底部圆形底座；品牌LOGO极小，整体如现代艺术装置。
+    design_features:
+      - "圆角拱门形一体板体，中间圆形开孔"
+      - "开孔内嵌圆形圆环LED光源"
+      - "底部圆形底座"
+      - "纯白哑光，极简无多余细节"
+    smart_features:
+      - "推测触控调光"
+    use_scenario: "书桌装饰、极简居家"
+    tags: ["拱门形", "圆孔", "圆环", "极简", "白色", "艺术感", "台灯"]
+
+  - product_id: "if_台灯_智能_22"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/智能台灯/22.jpg"
+    description: >
+      同21拱门形台灯的点亮状态展示。圆形开孔内可见乳白球形光源发暖白光，
+      光线穿透拱门框架，造型更接近雕塑装置，具极强记忆点。
+    design_features:
+      - "拱门框内球形光源发光"
+      - "拱门框体形成光影层次"
+      - "白色哑光外壳"
+    smart_features:
+      - "触控调光"
+    use_scenario: "桌面艺术装置 + 夜灯"
+    tags: ["拱门形", "球形光源", "雕塑感", "白色", "台灯"]
+
+  # ── 氛围台灯 ──────────────────────────────────────────────
+
+  - product_id: "if_台灯_氛围_01"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/01.jpg"
+    description: >
+      细长黑色圆管蜡烛氛围灯（两支）。极细圆筒形，高宽比约10:1，
+      正面竖向开细长椭圆发光槽，暖黄色光如烛焰；底部小圆形底座，置于石块上，
+      极具禅意与自然氛围感。
+    design_features:
+      - "极细长圆管形，高宽比约10:1"
+      - "正面竖向细长椭圆发光窗，烛焰光效"
+      - "黑色磨砂外壳"
+      - "小圆形底座，造型极简"
+    mood_features:
+      - "烛焰光效，暖黄色"
+      - "禅意、极简东方美学"
+      - "两支不同高度组合陈列"
+    use_scenario: "餐桌、茶几、禅意空间"
+    tags: ["蜡烛", "细管", "烛焰", "黑色", "禅意", "竖条光", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_02"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/02.jpg"
+    description: >
+      同01细长圆管蜡烛氛围灯单支特写场景图，置于不规则黑色石板上，旁置翻开的书；
+      展示单支使用场景，细长比例与石板横向形成强烈对比，体现极简生活美学。
+    design_features:
+      - "单支展示，黑色石板底"
+      - "竖向细长椭圆发光窗，暖黄"
+    mood_features:
+      - "生活美学场景"
+    use_scenario: "书桌、卧室床头"
+    tags: ["蜡烛", "细管", "石板", "单支", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_03"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/03.jpg"
+    description: >
+      黑色金属方块穿孔氛围灯。正方体造型，六面全覆盖均匀圆形穿孔阵列，
+      内藏LED光源，光线透过密集圆孔向四面漫射，形成点阵光晕；
+      放置在白色底座上，极具工业与艺术双重气质。
+    design_features:
+      - "正方体形，六面密集圆形穿孔阵列"
+      - "穿孔光线由内向外漫射，形成点阵光效"
+      - "黑色金属（铝/钢）外壳"
+      - "无可见开关，表面极简"
+    mood_features:
+      - "点阵光晕，暖橙色"
+      - "工业艺术感"
+    use_scenario: "艺术陈设、卧室氛围"
+    tags: ["正方体", "穿孔", "点阵", "工业", "黑色", "金属", "漫射", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_04"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/04.jpg"
+    description: >
+      同03穿孔方块氛围灯的暗室使用照，手持触摸场景，深红/品红色光透过圆孔阵列；
+      展示彩色模式与互动感，全包覆穿孔结构使各面均匀出光。
+    design_features:
+      - "暗室红色光氛围"
+      - "手持触摸互动"
+      - "全面穿孔均匀出光"
+    mood_features:
+      - "全彩可调，暗室氛围"
+    use_scenario: "卧室、派对、冥想空间"
+    tags: ["穿孔", "方块", "红光", "互动", "触摸", "全彩", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_05"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/05.jpg"
+    description: >
+      "Astral Mate"行星系主题氛围台灯（俯视45°）。椭圆形底盘如土星环，
+      底盘上立一粗糙球形体（模拟星球表面肌理）和一光滑小圆球（卫星）；
+      整体哑黑色，肌理与形态高度仿星体，极具雕塑感，无发光仅作为艺术装置也成立。
+    design_features:
+      - "椭圆形底盘（土星环造型）"
+      - "大球体：粗糙月球/星球表面肌理"
+      - "小球体：光滑抛光卫星"
+      - "全哑黑色，统一沉稳"
+    mood_features:
+      - "宇宙星体意象"
+      - "雕塑艺术装置感"
+    use_scenario: "书桌、客厅陈设、礼品"
+    tags: ["行星", "星球", "土星环", "椭圆底盘", "哑黑", "雕塑", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_06"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/06.jpg"
+    description: >
+      "Astral Mate"行星台灯俯视图。椭圆底盘+大星体球+小卫星球的组合，
+      椭圆盘面有细弧形轨道线刻蚀，品牌名称压印；整体俯视时构图更接近真实天体轨道系统。
+    design_features:
+      - "俯视构图，显现轨道刻线细节"
+      - "品牌名压印在椭圆盘面"
+    mood_features:
+      - "天体系统构图"
+    use_scenario: "书桌陈设"
+    tags: ["行星", "俯视", "椭圆底盘", "轨道", "哑黑", "台灯"]
+
+  - product_id: "if_台灯_氛围_07"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/07.jpg"
+    description: >
+      便携式蘑菇形氛围台灯，手触控演示。深灰色圆柱底座 + 乳白色半球形灯罩，
+      球罩顶部为透明玻璃半球 + 乳白漫射内胆，手掌轻触球罩触控调光；
+      发暖黄色柔和漫射光，极具质感。
+    design_features:
+      - "深灰圆柱底座 + 乳白半球漫射灯罩"
+      - "顶部透明玻璃外罩包覆乳白内胆"
+      - "手触球罩触控调光"
+      - "玻璃与乳白双层质感"
+    mood_features:
+      - "暖黄漫射光，柔和温暖"
+    use_scenario: "餐桌、夜灯、户外聚会"
+    tags: ["蘑菇形", "触控", "玻璃罩", "乳白漫射", "便携", "圆柱底座", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_08"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/08.jpg"
+    description: >
+      同07蘑菇形台灯的单独展示图，深灰底座，乳白半球上浮，两件分层清晰；
+      扁平宽口的蘑菇形灯罩横向延展，稳重感强，比例宽扁。
+    design_features:
+      - "扁平宽口蘑菇形灯罩，横向宽扁"
+      - "深灰色底座与白色灯罩强对比"
+    mood_features:
+      - "现代极简北欧风"
+    use_scenario: "餐桌、吧台"
+    tags: ["蘑菇形", "扁平", "宽口", "深灰", "乳白", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_12"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/12.jpg"
+    description: >
+      双球蘑菇氛围台灯（乳白色），上下两个圆弧形球体叠合，中间腰部夹缝出光；
+      整体造型如叠放的两只圆饼，表面光泽白色，腰部细缝均匀发暖光；小型指示灯点缀。
+    design_features:
+      - "上下两球叠合，腰部夹缝出光"
+      - "光泽白色外壳"
+      - "极紧凑低矮形态"
+    mood_features:
+      - "腰线缝隙出光，柔和漫射"
+    use_scenario: "床头夜灯、陈设"
+    tags: ["双球叠合", "腰线出光", "白色", "圆润", "极简", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_13"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/13.jpg"
+    description: >
+      同12双球叠合台灯，展示底部控制按键面板细节：4个圆形带图标的物理按键（+/-亮度、场景切换等）；
+      表面光泽白色，按键与壳体色彩一致，整合度高。
+    design_features:
+      - "底部4颗圆形物理按键，功能图标"
+      - "光泽白色一体配色"
+    mood_features:
+      - "物理按键控制，无需app"
+    use_scenario: "床头、简便使用"
+    tags: ["双球叠合", "物理按键", "白色", "控制面板", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_14"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/14.jpg"
+    description: >
+      木球头机器人造型氛围台灯（三色版本）。木质球形头 + 彩色圆柱底座，
+      球头两侧各嵌一枚圆形金属LED眼镜片；米白/灰蓝/珊瑚红三色，
+      造型童趣拟人化，如戴墨镜的小人，强情感化设计。
+    design_features:
+      - "木质球形头 + 彩色圆柱底座"
+      - "球头两侧圆形金属LED灯眼"
+      - "三色底座：米白、灰蓝、珊瑚红"
+      - "拟人化机器人造型"
+    mood_features:
+      - "童趣、情感化、拟人"
+      - "柔和漫射光，暖白"
+    use_scenario: "儿童房、书桌、礼品"
+    tags: ["木球", "拟人", "机器人", "童趣", "三色", "情感化", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_16"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/16.jpg"
+    description: >
+      多款黑色圆柱底座+球形/扁盘形灯头氛围台灯组合场景。球形乳白玻璃灯头 + 黑色圆柱底座，
+      以及扁帽形（纤维质感圆盘）变体；暖黄光，展示同一设计语言下的家族产品线。
+    design_features:
+      - "黑色圆柱底座为统一元素"
+      - "球形乳白灯头变体 + 扁圆盘形变体"
+      - "暖黄漫射光"
+      - "纤维质感帽状灯罩变体"
+    mood_features:
+      - "家族化产品线，暖黄氛围"
+    use_scenario: "客厅、餐桌、卧室"
+    tags: ["圆柱底座", "球形灯头", "家族化", "黑色", "暖黄", "多变体", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_17"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/17.jpg"
+    description: >
+      倒梯形灯罩台灯三色版本（白/深灰/金色）。圆柱形底座上部收腰，衔接倒梯形大灯罩；
+      白色/深灰/金色三种配色；灯罩内反射暖黄光向上散射，整体复古与现代并存。
+    design_features:
+      - "倒梯形大灯罩 + 圆柱收腰底座"
+      - "白/深灰/金三色版本"
+      - "暖黄内反射向上出光"
+      - "灯体与灯罩同色系统一"
+    mood_features:
+      - "复古台灯造型现代演绎"
+      - "暖黄漫射"
+    use_scenario: "客厅、卧室床头、餐桌"
+    tags: ["倒梯形", "灯罩", "复古", "三色", "白色", "金色", "深灰", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_18"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/18.jpg"
+    description: >
+      Panasonic白色圆环形氛围台灯广告图（中国水墨山水背景）。圆环形灯头立于短圆柱底座上，
+      圆环内背面发乳白漫射光，整体纯白，简洁东方意味，与中国水墨意境相呼应。
+    design_features:
+      - "圆形环状灯头，内面漫射出光"
+      - "短圆柱底座，底部有旋钮"
+      - "纯白色外壳"
+      - "Panasonic品牌"
+    mood_features:
+      - "东方意境、水墨美学"
+      - "乳白漫射光"
+    use_scenario: "中式/日式居家、冥想空间"
+    tags: ["Panasonic", "圆环", "东方", "白色", "漫射", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_19"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/19.jpg"
+    description: >
+      Panasonic圆环形台灯产品实物照，放置于圆形展示台，旁有白色球体装饰；
+      圆环灯头发乳白暖黄光，背面开口出光，底座有旋钮控制，现代简约风。
+    design_features:
+      - "圆形环状灯头，内面出光"
+      - "旋钮控制亮度"
+      - "短圆柱底座"
+      - "纯白色"
+    mood_features:
+      - "柔和漫射，暖白"
+    use_scenario: "书桌、卧室"
+    tags: ["Panasonic", "圆环", "旋钮", "白色", "漫射", "台灯"]
+
+  - product_id: "if_台灯_氛围_20"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/20.jpg"
+    description: >
+      海绵/泡棉材质圆柱形氛围台灯，两款：蓝色圆柱横倒 + 黄色正立。
+      外壳为彩色泡棉颗粒状肌理（像海绵），内置球形LED光源；
+      强调材料创新与触感，颜色鲜艳，极具玩味。
+    design_features:
+      - "泡棉颗粒肌理圆柱外壳"
+      - "蓝色横倒圆柱 + 黄色正立圆柱"
+      - "球形LED内置光源透过肌理透光"
+      - "可多姿态放置（站立/横倒）"
+    mood_features:
+      - "材料创新，触感独特"
+      - "鲜艳配色，趣味性"
+    use_scenario: "儿童房、创意空间、展陈"
+    tags: ["泡棉", "海绵", "肌理", "圆柱", "蓝色", "黄色", "材料创新", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_21"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/21.jpg"
+    description: >
+      同20泡棉系列多形态展示，红/灰/蓝/黄四色，正方形、圆柱、横卧等不同形态；
+      展示同一材料语言下的形态多样化，各形态通过不同方向放置创造变化。
+    design_features:
+      - "四色四形态：正方/圆柱/大圆柱/横卧"
+      - "泡棉颗粒肌理统一材料语言"
+      - "红/灰/蓝/黄配色"
+    mood_features:
+      - "玩味、个性化"
+    use_scenario: "儿童房、创意空间"
+    tags: ["泡棉", "四色", "多形态", "材料创新", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_22"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/22.jpg"
+    description: >
+      折叠几何体氛围台灯，绿色+白色两款。长方体底座上叠加一个斜切倾斜的长方体灯罩，
+      两者之间夹角处形成狭缝出光，光线向侧下方漫射；整体造型如折叠字母或箭头，
+      强烈几何感，颜色鲜艳饱满。
+    design_features:
+      - "长方体底座 + 斜切倾斜长方体灯罩"
+      - "夹角缝隙出光"
+      - "绿色（高饱和） + 白色两款"
+      - "强烈几何折叠感，如箭头形"
+    mood_features:
+      - "几何艺术感，Bold颜色"
+    use_scenario: "创意工作室、书架、展陈"
+    tags: ["折叠几何", "长方体", "斜切", "缝隙出光", "绿色", "白色", "大胆配色", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_23"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/23.jpg"
+    description: >
+      同22折叠几何台灯，橙色版本单品特写，斜切倾斜体更大比例，展示高饱和橙色整体配色；
+      底座与灯罩同色，夹角处出暖白光，强烈对比感。
+    design_features:
+      - "橙色高饱和单色整体配色"
+      - "斜切灯罩大比例展示"
+      - "夹角处暖白出光"
+    mood_features:
+      - "Bold橙色，能量感"
+    use_scenario: "艺术陈设"
+    tags: ["折叠几何", "橙色", "斜切", "大胆配色", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_24"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/24.jpg"
+    description: >
+      锥形透明玻璃罩+皮革提环氛围台灯（产品图）。宽口圆锥形大玻璃罩朝下，
+      顶部金色金属圆锥体作为光源，橙色皮革提环绕顶部作为提手；
+      玻璃罩极薄透明，光线漫射至地面形成大面积柔光，可手提携带。
+    design_features:
+      - "宽口圆锥形透明玻璃罩，朝下放置"
+      - "顶部金色金属锥体光源"
+      - "橙色皮革提环，可手提"
+      - "黑色电源线"
+    mood_features:
+      - "大面积圆锥光晕投射地面"
+      - "精致材料组合：玻璃+金属+皮革"
+    use_scenario: "地面/桌面氛围照明、便携移动"
+    tags: ["圆锥形", "玻璃罩", "皮革提环", "金色", "便携", "地面光晕", "氛围灯", "台灯"]
+
+  - product_id: "if_台灯_氛围_25"
+    source_type: "if_design_award"
+    brand_confidence: "medium"
+    file_path: "01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/25.jpg"
+    description: >
+      同24锥形玻璃罩台灯实景使用照，放置于地面/沙发旁毯子上，橙色皮革提环清晰；
+      玻璃圆锥罩发暖黄光，向下投射大面积圆形光晕于地毯，极具生活感与温暖氛围。
+    design_features:
+      - "地面使用场景，暖黄大面积光晕"
+      - "橙色皮革提环细节"
+      - "沙发旁氛围"
+    mood_features:
+      - "生活温暖氛围"
+      - "大面积柔光地面投射"
+    use_scenario: "沙发旁地面、卧室地面"
+    tags: ["圆锥形", "玻璃罩", "皮革", "地面氛围", "暖黄", "实景", "台灯"]

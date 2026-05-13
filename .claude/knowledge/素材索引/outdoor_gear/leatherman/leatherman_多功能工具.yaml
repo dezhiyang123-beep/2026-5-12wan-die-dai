@@ -1,0 +1,651 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "户外装备"
+  secondary: "多功能工具"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "leatherman_multi_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/01.jpg"
+        image_role: "hero"
+        visual_anchor: "不锈钢+MagnaCut黑刃对比展开，钳头采用大型圆形枢轴节点，手柄内侧工具呈扇形散开"
+    product_name: "Leatherman ARC"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "标准Leatherman双柄V形展开，钳头宽扁，手柄修长，展开后呈大等边三角形"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "镜面不锈钢手柄 + MagnaCut哑光黑刀身（双色对比）"
+        material: "不锈钢框架 + MagnaCut不锈钢刀片"
+        finish: "手柄拉丝银色，刀片DLC哑光黑涂层"
+      mounting: "无"
+      signature_detail: "黑色MagnaCut刀片与银色不锈钢工具形成强烈黑白对比；大型圆形枢轴铆钉标志性节点"
+    design_level:
+      score: 5
+      reason: "MagnaCut刀片的黑银双色对比赋予视觉层次，钳头结构轻盈精密，是Leatherman高端旗舰线的设计标杆"
+    design_tags: ["多功能钳", "MagnaCut", "黑银对比", "旗舰款", "外开工具", "EDC"]
+    hero_feature: "MagnaCut黑色刀片与银色不锈钢工具的双色对比，强化高端感同时提升单个工具辨识度"
+    problem_solved: "追求顶级刀材性能（MagnaCut）与精密工程美学的专业EDC用户"
+    transferable_technique: "单一功能件使用差异化涂层（黑）与其余工具（银）形成主次对比的手法，可迁移至多工具产品的视觉层级设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/02.jpg"
+        image_role: "hero"
+        visual_anchor: "珊瑚红铝合金骨架手柄配不锈钢钳头，下端集成金属登山扣，整体轻量骨架语言强烈"
+    product_name: "Leatherman Skeletool CX"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "不对称V形展开：一侧手柄末端为登山扣，另侧为平底，钳头修长纤细"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "珊瑚红（铝合金手柄）+ 镜面不锈钢（钳头+工具）"
+        material: "6061铝合金手柄 + 154CM不锈钢工具"
+        finish: "铝合金阳极氧化红色，不锈钢镜面抛光"
+      mounting: "内置登山扣（手柄尾端集成）"
+      signature_detail: "骨架镂空铝合金手柄 + 手柄末端集成登山扣，实现挂载与极致减重双目标"
+    design_level:
+      score: 4
+      reason: "鲜艳红色铝柄打破工具品类灰黑惯例，骨架减重结构与登山扣集成体现功能外显设计思维，辨识度高"
+    design_tags: ["多功能钳", "骨架镂空", "铝合金柄", "登山扣集成", "轻量化", "EDC", "彩色版"]
+    hero_feature: "手柄末端集成登山扣，骨架铝合金手柄，无需任何附件即可挂载于背包/腰带"
+    problem_solved: "户外轻量化用户需要一款可直接挂载、功能够用、颜值在线的轻型多功能工具"
+    transferable_technique: "功能件（登山扣）与结构件（手柄）一体化集成手法；铝合金阳极氧化彩色化作为工具品类差异化策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/04.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝色+橄榄绿双色铝柄展开，一侧手柄末端为镂空求生锤，橙色内衬点缀强化野外识别"
+    product_name: "Leatherman Signal"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "双柄V形展开，手柄末端一侧集成求生锤/哨子，整体比标准款略宽厚"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "蓝色（左柄）+ 橄榄绿（右柄）+ 橙色点缀（内衬）"
+        material: "铝合金手柄 + 不锈钢工具"
+        finish: "铝合金阳极氧化双色，橙色内嵌塑料点缀"
+      mounting: "无"
+      signature_detail: "双色铝柄（蓝+绿）+ 手柄尾端集成求生锤/打火石槽，橙色点缀提升野外可视性"
+    design_level:
+      score: 4
+      reason: "双色铝柄配色大胆，求生工具集成于手柄结构内部是功能外显的典型案例，野外识别性强"
+    design_tags: ["多功能钳", "求生工具", "双色铝柄", "求生锤", "打火石", "野外", "功能外显"]
+    hero_feature: "手柄末端集成求生锤与打火石槽，将求生功能融入工具主体结构，无需额外附件"
+    problem_solved: "野外露营/求生场景用户需要将多种应急功能集于一体的多功能工具"
+    transferable_technique: "将低频但关键功能（求生锤）集成于结构末端而非单独配件的设计策略；双色铝柄在工具品类中建立鲜明视觉识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_004"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/05.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色橡胶大孔手柄急救剪，剪刀式开合，钢制剪刃配量尺，钳头位置集成多工具"
+      - filename: "21.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/21.jpg"
+        image_role: "variant"
+        visual_anchor: "同款Raptor急救剪红色版本，手柄换为鲜红色工程塑料，其余结构一致"
+    product_name: "Leatherman Raptor Rescue"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "剪刀形态，非传统钳式；左柄大椭圆孔（手指环），右柄圆形孔，钳头区域集成折叠刀+量尺"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "黑色（05.jpg）/ 红色（21.jpg）工程塑料手柄 + 银色不锈钢剪刃"
+        material: "工程塑料手柄 + 不锈钢剪刃和工具"
+        finish: "手柄亚光工程塑料，剪刃拉丝不锈钢"
+      mounting: "无"
+      signature_detail: "医疗急救剪刀形态 + 剪头位置集成折叠刀片、量尺等多工具；大开孔手柄保证戴手套可操作"
+    design_level:
+      score: 3
+      reason: "品类形态完全颠覆（从钳到剪），专为急救场景功能优先设计，大孔手柄人机工学明确，但审美层面偏功能导向"
+    design_tags: ["急救剪", "医疗工具", "多功能剪", "大孔手柄", "戴手套操作", "EMT", "功能外显"]
+    hero_feature: "医疗急救剪刀形态颠覆传统多功能钳，大开孔手柄确保戴手套快速抓握操作"
+    problem_solved: "急救/EMT场景需要快速剪切衣物、同时携带测量和切割工具的专业人员"
+    transferable_technique: "根据使用场景彻底重构工具形态（不被既有品类约束）的设计思维；大开孔手柄的人机工学手法可迁移至工作手套兼容设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_005"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/06.jpg"
+        image_role: "hero"
+        visual_anchor: "沙色+米色双色铝合金细长手柄，顶端剪刀开合，手柄两侧折叠出6+工具，底端挂环"
+    product_name: "Leatherman Style CS"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "剪刀形态小型多工具，手柄细长平直，展开后呈蝴蝶翼状"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "沙色+米色（铝合金双色阳极氧化）"
+        material: "铝合金手柄 + 不锈钢工具"
+        finish: "铝合金阳极氧化哑光，工具件拉丝不锈钢"
+      mounting: "底端钥匙圈挂环"
+      signature_detail: "剪刀形态顶端开合 + 沙米双色中性铝柄，面向日常轻量携带，底端钥匙圈挂环"
+    design_level:
+      score: 3
+      reason: "配色中性优雅，形态小巧适合日常钥匙圈使用，但功能密度相对较低，设计语言常规"
+    design_tags: ["小型多工具", "剪刀顶开", "钥匙圈", "铝合金柄", "日常EDC", "轻量化", "双色"]
+    hero_feature: "剪刀作为主功能件的顶端开合形态，配合钥匙圈挂载，实现最小化日常携带"
+    problem_solved: "不想携带钳型多工具、只需剪刀+基础工具的轻量日常用户"
+    transferable_technique: "以剪刀为主功能颠覆钳形惯例的品类入门款策略；沙米色中性双色阳极氧化适合追求低调的用户群"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_006"
+    source_images:
+      - filename: "06_dup1.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/06_dup1.jpg"
+        image_role: "hero"
+        visual_anchor: "银灰色刀形多工具，大型combo刀片展开居主位，其余工具呈扇形散开，手柄带点阵纹理"
+    product_name: "Leatherman Free T2"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "折叠刀形态（非钳形），刀片为主要工具，手柄单侧，其余工具从手柄末端扇形展开"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "银灰色（铝合金/不锈钢混合）"
+        material: "铝合金手柄 + 不锈钢工具"
+        finish: "手柄面板点阵纹理哑光处理，工具拉丝不锈钢"
+      mounting: "手柄端部磁吸开合按钮（Free系列标志）"
+      signature_detail: "磁吸单手开合系统（Free系列核心）+ 点阵纹理手柄面板 + 刀型非钳型结构"
+    design_level:
+      score: 4
+      reason: "Free系列磁吸开合是Leatherman的重要创新，刀形结构更贴近普通用户使用习惯，点阵纹理提升手柄精致感"
+    design_tags: ["多功能刀", "磁吸开合", "Free系列", "点阵纹理", "刀形工具", "EDC", "单手操作"]
+    hero_feature: "磁吸单手开合系统，无需双手展开工具，大幅提升操作便捷性"
+    problem_solved: "习惯使用折叠刀、但需要基础工具功能的日常EDC用户，尤其重视单手快速取用"
+    transferable_technique: "磁吸辅助单手展开机制可迁移至需要频繁单手操作的工具产品；刀形代替钳形降低入门门槛的品类策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/07.jpg"
+        image_role: "hero"
+        visual_anchor: "橙色G10纤维手柄V形展开，铜色枢轴螺栓点缀，内侧黑色MagnaCut刀片在橙色柄内高度显眼"
+    product_name: "Leatherman Charge TTi (橙色G10版)"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "标准双柄V形展开，G10手柄略厚，钳头中等宽度"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "橙色（G10手柄）+ 哑光黑（MagnaCut刀片）+ 铜金色（枢轴螺栓）"
+        material: "G10纤维手柄 + MagnaCut不锈钢刀片 + 钛合金工具"
+        finish: "G10哑光橙色，MagnaCut哑光黑，枢轴螺栓铜色阳极氧化"
+      mounting: "无"
+      signature_detail: "G10纤维橙色手柄 + 铜色枢轴螺栓三色点缀，是Leatherman Charge线的视觉高光配色"
+    design_level:
+      score: 5
+      reason: "橙色G10+铜色枢轴+黑色刀片三色组合层次丰富，G10提供高端感质感，在工具品类中视觉稀缺度高"
+    design_tags: ["多功能钳", "G10手柄", "MagnaCut", "铜色枢轴", "三色配色", "Charge系列", "高端EDC"]
+    hero_feature: "G10纤维橙色手柄+铜色枢轴三色层次搭配，在多功能钳品类中建立高端工艺辨识度"
+    problem_solved: "追求顶级工具材料（MagnaCut+钛合金）与高端手柄材质（G10）的发烧级EDC用户"
+    transferable_technique: "三色点缀策略（主色+功能色+金属点缀色）打破工具灰黑单调；G10纤维在工具手柄的应用带来轻量+高强度+质感三合一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/08.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰+铜棕双色铝柄V形展开，手柄表面带规律刻度线纹理，工具数量丰富"
+    product_name: "Leatherman Rebar (双色版)"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "标准双柄V形展开，手柄中等宽度，末端略外扩方便握持"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "深灰色（左柄）+ 铜棕色（右柄）不锈钢/铝合金"
+        material: "铝合金手柄 + 不锈钢工具"
+        finish: "手柄阳极氧化双色，表面刻度线纹理增加防滑"
+      mounting: "无"
+      signature_detail: "双色非对称手柄（灰+棕）+ 手柄表面刻度线纹理，功能性纹理与装饰性纹理统一"
+    design_level:
+      score: 3
+      reason: "双色铝柄配色克制，刻度纹理增加细节层次，整体偏实用主义设计风格，但缺乏显著Hero Feature"
+    design_tags: ["多功能钳", "双色铝柄", "刻度纹理", "Rebar系列", "实用主义", "中端EDC"]
+    hero_feature: "双色非对称铝合金手柄配合刻度线纹理，在视觉上区分左右手柄同时增加防滑性"
+    problem_solved: "需要全功能多工具、注重实用性但也关注外观差异化的中端用户"
+    transferable_technique: "刻度线纹理将功能性（测量参考）与装饰性（防滑纹理）合并为一种视觉语言；非对称双色手柄辅助快速识别左右侧"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/09.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑DLC涂层V形展开，钳头内嵌滚花调节轮，所有工具统一黑色涂层视觉整体感极强"
+    product_name: "Leatherman Surge (黑色版)"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "宽厚双柄V形展开，Surge系列手柄最宽，钳头宽大，整体体积感强"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全黑（DLC涂层统一）"
+        material: "不锈钢工具全体DLC涂层"
+        finish: "哑光黑DLC，所有金属部件统一涂装"
+      mounting: "无"
+      signature_detail: "全体DLC黑色统一涂层 + 宽厚手柄体量感，是Leatherman最大型号多功能钳的战术版"
+    design_level:
+      score: 4
+      reason: "全黑统一涂层是高辨识度视觉策略，宽厚体量传递专业重型工具感，与橙色G10版形成强烈风格对比"
+    design_tags: ["多功能钳", "全黑DLC", "战术版", "Surge系列", "重型工具", "专业EDC"]
+    hero_feature: "全体DLC黑色统一涂层，消除多工具材质拼接感，建立高度统一的战术黑视觉语言"
+    problem_solved: "需要大型重型多功能钳、偏好低调战术风格的专业/军警用户"
+    transferable_technique: "全体统一深色涂层消除多材质拼接感的手法；大体量传递专业重型感的比例策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/10.jpg"
+        image_role: "hero"
+        visual_anchor: "全银不锈钢V形展开，剪刀工具在内侧展开，钳头纤细，整体比例优雅"
+    product_name: "Leatherman Wingman"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "中等宽度双柄V形展开，手柄有内凹线槽作为分件线，钳头中等"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全银（镜面+拉丝不锈钢）"
+        material: "不锈钢手柄与工具"
+        finish: "手柄拉丝+局部镜面，工具件拉丝不锈钢"
+      mounting: "无"
+      signature_detail: "手柄中段内凹分件线 + 弹簧剪刀工具，是Leatherman入门畅销款的标准语言"
+    design_level:
+      score: 3
+      reason: "全银不锈钢标准配色，手柄分件线是简单的视觉节奏划分，整体为Leatherman大众款基础设计语言，无突出创新点"
+    design_tags: ["多功能钳", "全银不锈钢", "入门款", "Wingman系列", "弹簧剪刀", "日常EDC"]
+    hero_feature: "弹簧驱动剪刀工具内置，外出剪切无需双手辅助展开"
+    problem_solved: "需要日常基础多功能工具、预算有限的用户的首选入门款"
+    transferable_technique: "手柄内凹分件线划分视觉节奏的极简手法；弹簧辅助工具在多功能钳中的人机工学应用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_011"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/11.jpg"
+        image_role: "hero"
+        visual_anchor: "银色手柄带蜿蜒S型装饰槽线，整体V形展开，装饰槽线打破手柄平面单调感"
+    product_name: "Leatherman Rev"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "标准双柄V形展开，手柄宽度适中，末端微外扩"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "银色（拉丝不锈钢）"
+        material: "不锈钢手柄与工具"
+        finish: "手柄拉丝银色，装饰槽线冲压成形"
+      mounting: "无"
+      signature_detail: "手柄表面S型弯曲装饰槽线，是Rev系列在标准Leatherman语言上增加的视觉差异化元素"
+    design_level:
+      score: 3
+      reason: "S型装饰槽线在全银手柄上提供视觉节奏，但差异化程度较弱，整体仍属基础款设计语言"
+    design_tags: ["多功能钳", "装饰槽线", "Rev系列", "入门款", "拉丝不锈钢", "日常EDC"]
+    hero_feature: "手柄S型装饰槽线，在纯银不锈钢上提供视觉层次"
+    problem_solved: "需要入门级多功能工具、希望外观比Wingman略有差异的用户"
+    transferable_technique: "冲压槽线在平面金属手柄上增加视觉节奏而无需增加额外材料的低成本装饰手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_012"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/12.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑Super Tool 300，工具数量极多，手柄两侧刻度尺，钳头带电线剥皮槽"
+      - filename: "16.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/16.jpg"
+        image_role: "variant"
+        visual_anchor: "Super Tool 300另一黑色版，工具完整展开，内侧工具更多细节可见"
+      - filename: "23.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/23.jpg"
+        image_role: "variant"
+        visual_anchor: "Super Tool 300黑色变体，钳头更清晰显示电线剥皮刀口，所有工具完全展开"
+    product_name: "Leatherman Super Tool 300 (黑色版)"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "宽厚双柄V形展开，手柄宽度仅次于Surge，钳头带明显功能分区刻槽"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全黑（黑色氧化/DLC涂层）"
+        material: "不锈钢工具全体黑色涂层"
+        finish: "哑光黑色氧化处理，手柄侧面刻度尺可见"
+      mounting: "无"
+      signature_detail: "手柄侧面集成刻度尺 + 钳头专业电线剥皮功能槽，是Leatherman工作型最强工具"
+    design_level:
+      score: 3
+      reason: "全黑涂层统一视觉，刻度尺与专业钳头功能外显，体量感传递专业工作工具可信度，功能密度行业最高"
+    design_tags: ["多功能钳", "全黑", "Super Tool系列", "专业工作", "刻度尺", "电工工具", "重型"]
+    hero_feature: "钳头集成电线剥皮专用功能槽，手柄侧面集成刻度尺，针对专业工作场景的功能最大化设计"
+    problem_solved: "专业工种（电工、管道工、建筑）需要一体化携带大量专业工具的工作场景"
+    transferable_technique: "刻度尺集成于手柄侧面的隐藏工程手法；专业功能槽（剥皮刀口）可见化以传递专业级定位"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_013"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/13.jpg"
+        image_role: "hero"
+        visual_anchor: "酒红+铜棕双色铝柄V形展开，两色形成暖色系搭配，手柄无纹理平滑面板"
+    product_name: "Leatherman Bond"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "中等宽度双柄V形展开，手柄平滑无纹理，比例修长"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "酒红色（左柄）+ 铜棕色（右柄）铝合金阳极氧化"
+        material: "铝合金手柄 + 不锈钢工具"
+        finish: "铝合金阳极氧化暖色双色，表面光滑无压纹"
+      mounting: "底端钥匙圈挂环"
+      signature_detail: "酒红+铜棕暖色双色铝柄，区别于品牌常见的冷色蓝绿和战术黑，营造精致暖调气质"
+    design_level:
+      score: 3
+      reason: "暖色双色配色组合在工具品类中稀缺，光滑铝柄配色精致，底端挂环增加携带便利，整体有设计师感"
+    design_tags: ["多功能钳", "双色铝柄", "暖色配色", "Bond系列", "钥匙圈", "精致风格", "日常EDC"]
+    hero_feature: "酒红+铜棕暖色系双色铝柄，打破工具品类蓝绿战术冷色惯例，面向生活方式用户"
+    problem_solved: "注重生活方式美学、不想使用典型工具配色的用户，寻找兼顾美观与实用的多功能工具"
+    transferable_technique: "暖色系（酒红+铜棕）在工具品类中的稀缺配色策略；光滑铝柄面向生活方式用户的质感差异化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_014"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/17.jpg"
+        image_role: "hero"
+        visual_anchor: "全银不锈钢展开，左侧末端集成小弹簧剪刀，手柄内藏工具数量多，钳头宽扁"
+    product_name: "Leatherman Curl"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "标准双柄V形展开，手柄宽度适中，末端弹簧剪刀外伸"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全银（镜面/拉丝不锈钢）"
+        material: "不锈钢手柄与工具"
+        finish: "手柄拉丝银色，工具拉丝不锈钢"
+      mounting: "无"
+      signature_detail: "手柄末端外置弹簧剪刀单独成形（区别于内折式），剪刀无需展开手柄即可使用"
+    design_level:
+      score: 3
+      reason: "外置弹簧剪刀是实用功能优化点，解决多工具中剪刀难以单手取用的问题，但整体视觉语言与Wingman接近"
+    design_tags: ["多功能钳", "外置弹簧剪刀", "全银不锈钢", "Curl系列", "中端EDC"]
+    hero_feature: "手柄末端外置弹簧剪刀无需打开手柄即可直接使用，频繁剪切场景效率大幅提升"
+    problem_solved: "频繁使用剪刀功能、不想每次打开多功能钳的用户"
+    transferable_technique: "高频功能外置化（不内藏于手柄）以提升操作效率的设计策略，可迁移至其他工具的快速取用设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_015"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/18.jpg"
+        image_role: "hero"
+        visual_anchor: "鲜红色骨架镂空铝合金手柄V形展开，与Skeletool同骨架语言，末端登山扣，刀片带半锯齿"
+    product_name: "Leatherman Skeletool RX"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "与Skeletool CX相同骨架轮廓，V形展开，末端登山扣，手柄骨架镂空"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "鲜红色（铝合金阳极氧化）+ 银色（钳头和工具）"
+        material: "6061铝合金骨架手柄 + 154CM不锈钢工具"
+        finish: "铝合金阳极氧化鲜红色，不锈钢镜面+拉丝"
+      mounting: "内置登山扣（手柄尾端集成）"
+      signature_detail: "与CX同骨架但换为急救红配色，刀片采用半锯齿刃，面向急救/医疗场景的特定配色识别"
+    design_level:
+      score: 3
+      reason: "急救红配色与同骨架CX形成场景化差异，骨架+登山扣设计语言一致，半锯齿刃强化急救切割定位"
+    design_tags: ["多功能钳", "骨架镂空", "急救红", "登山扣集成", "Skeletool系列", "医疗EDC", "半锯齿刃"]
+    hero_feature: "急救标准红色铝合金骨架手柄，快速场景识别，配合半锯齿刃满足急救切割需求"
+    problem_solved: "急救/医疗场景需要快速视觉识别、一键挂载、具备切割能力的轻量多功能工具"
+    transferable_technique: "通过配色（急救红）在同平台上实现场景化细分，无需重新开发结构的SKU差异化策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_016"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/19.jpg"
+        image_role: "hero"
+        visual_anchor: "全银不锈钢Rebar展开，左侧弹簧剪刀外置，手柄两侧清晰刻度线，工具多而整齐"
+    product_name: "Leatherman Rebar (银色标准版)"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "标准双柄V形展开，手柄宽度适中，末端外置弹簧剪刀"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全银（拉丝不锈钢）"
+        material: "不锈钢手柄与工具"
+        finish: "手柄拉丝不锈钢，刻度线冲压成形"
+      mounting: "底端钥匙圈挂环"
+      signature_detail: "手柄侧面刻度尺 + 外置弹簧剪刀，两项功能改善合二为一"
+    design_level:
+      score: 3
+      reason: "全银标准款，刻度尺和弹簧剪刀提供实用价值，整体设计语言常规，无突出视觉亮点"
+    design_tags: ["多功能钳", "全银不锈钢", "外置弹簧剪刀", "刻度尺", "Rebar系列", "标准款"]
+    hero_feature: "刻度尺与外置弹簧剪刀双实用功能，无需展开手柄的快速取用剪刀"
+    problem_solved: "需要日常全功能工具、注重实用功能密度的标准用户"
+    transferable_technique: "外置弹簧剪刀+刻度尺的双功能简化手法；全银不锈钢标准语言在入门中端市场的品类锚点价值"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_017"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/20.jpg"
+        image_role: "hero"
+        visual_anchor: "黑灰铝合金刀型多工具展开，点阵纹理手柄面板，磁吸开合按钮可见，刀片为主要工具"
+    product_name: "Leatherman Free T2 (黑色版)"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "折叠刀形态，单侧手柄，工具从一端扇形散开"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "哑光黑色（铝合金主体）+ 银色（不锈钢工具）"
+        material: "铝合金手柄 + 不锈钢工具"
+        finish: "铝合金阳极氧化黑色，点阵纹理冲压，工具拉丝银色"
+      mounting: "磁吸单手开合按钮"
+      signature_detail: "磁吸单手开合 + 点阵纹理铝合金手柄面板，黑色版视觉更沉稳"
+    design_level:
+      score: 3
+      reason: "黑色版点阵纹理与磁吸机构组合层次丰富，与06_dup1银色版构成同款配色系列，黑色版整体质感更成熟"
+    design_tags: ["多功能刀", "磁吸开合", "Free系列", "点阵纹理", "黑色版", "EDC", "单手操作"]
+    hero_feature: "磁吸单手开合系统+黑色点阵纹理铝合金面板，兼顾操作便捷性与沉稳美学"
+    problem_solved: "偏好低调黑色配色的EDC用户，需要单手快速操作多功能刀"
+    transferable_technique: "同款平台黑色+银色双配色策略扩大受众；点阵纹理在铝合金表面的工艺与视觉双重价值"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_multi_018"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/多功能工具/22.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑军用多功能钳，钳头带火焰切割器，一侧手柄集成弹夹刷，铜色金属刀柄环点缀"
+    product_name: "Leatherman MUT"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "多功能工具"]
+    design_language:
+      silhouette: "宽厚双柄V形展开，钳头带明显功能切口，手柄宽度适中，末端有挂扣"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全黑（黑氧化/DLC）+ 铜金色枢轴节点点缀"
+        material: "不锈钢工具黑色涂层 + 铜合金枢轴"
+        finish: "哑光黑色氧化，铜色枢轴形成金属对比点缀"
+      mounting: "底端弹夹挂扣"
+      signature_detail: "钳头集成枪械火焰切割器功能 + 手柄内弹夹刷工具，是Leatherman唯一面向射击/军用场景的专用型号"
+    design_level:
+      score: 4
+      reason: "黑色+铜色枢轴的双色点缀在全黑体系中精准增加高端感，弹夹刷等军用专属功能强化专业定位，辨识度高"
+    design_tags: ["多功能钳", "军用", "MUT系列", "全黑", "铜色枢轴", "弹夹刷", "射击场景", "专业工具"]
+    hero_feature: "弹夹刷与火焰切割器等军用专属功能集成，是Leatherman产品线中唯一针对射击/军用场景的专业型号"
+    problem_solved: "军事/执法/射击爱好者需要携带专用武器维护工具与通用多功能工具的场景"
+    transferable_technique: "铜色金属枢轴在全黑体系中的精准点缀策略；专属场景功能集成（弹夹刷）建立细分市场护城河"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

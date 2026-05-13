@@ -1,0 +1,111 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "台灯"
+  tertiary: "学习台灯"
+
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/"
+  generated_at: "2026-05-09"
+
+# 补充batch：学习台灯/55-57.jpg（已有文件覆盖其余编号，本文件补55-57）
+
+products:
+  - product_id: "if_台灯_学习_b3_001"
+    source_images:
+      - filename: "55.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/55.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色布艺绒面灯罩+发光玻璃柱底座台灯：上部为黑色羊毛/绒面布艺圆柱形灯罩（哑黑无光），下部为透明矩形玻璃柱底座从内部发光（暖黄色背光），两段对比强烈——哑黑软质罩体vs发光透明硬质底座，白底产品图"
+    product_name: ""
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+
+    design_language:
+      silhouette: "圆柱形灯罩（径约20cm，高约18cm）直接坐于矩形玻璃底座（约12×8×8cm）之上，无独立立杆；整体比例如正方体+圆柱叠加，底座发光使底部成为第二个'光源面'"
+      light_opening: "灯罩上开口向上漫射（泛光）+ 玻璃底座全向发光（氛围背光）双光源系统"
+      thermal: "顶部LED集成于灯罩内，底座LED提供背光，分离双光源，热量分散"
+      cmf:
+        color: "黑色绒面（灯罩）+ 透明暖黄发光玻璃（底座）强对比"
+        material: "羊毛/布艺绒面圆柱灯罩 + 透明玻璃/亚克力矩形底座"
+        finish: "绒面哑黑（灯罩）+ 透明发光（底座）"
+      mounting: "底座直接桌面放置，无线充电版本"
+      signature_detail: "哑黑绒面罩体与发光透明底座的材质对比：软硬/哑亮/黑暖光的三重对比集中在同一产品，底座发光如浮光托举灯罩，形成强烈的视觉分层"
+    design_level:
+      score: 4
+      reason: "黑色绒面与发光玻璃底座的三重对比（软硬/哑光亮/黑暖光）是核心设计语言；无立杆直坐结构让底座发光效果最大化；绒面材质在台灯中极少见，差异化感官体验强；双光源满足照明+氛围双需求"
+    design_tags:
+      - "布艺绒面灯罩"
+      - "发光玻璃底座"
+      - "哑黑与透明对比"
+      - "双光源系统"
+      - "无立杆直坐"
+      - "H10材料表达"
+      - "H08对比强调"
+    hero_feature: "哑黑绒面罩体+发光玻璃底座：两种完全对立的材质在同一产品形成软硬/哑亮/黑暖光三重对比，底座发光托举效果创造强烈的视觉浮光感"
+    problem_solved: "学习台灯通常只关注照明均匀性，缺乏装饰价值；双光源设计让同一产品在学习场景提供功能光、在氛围场景只开底座背光提供情绪光，场景适应性强"
+    transferable_technique: "绒面/布艺软质灯罩与硬质透明发光底座的对比搭配可迁移到床头灯/氛围灯；底座发光托举策略在任何需要轻盈感的桌面灯具中均可应用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_台灯_学习_b3_002"
+    source_images:
+      - filename: "56.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/56.jpg"
+        image_role: "scene"
+        visual_anchor: "切割水晶纹无线充电台灯场景图：日式居酒屋场景，圆柱形玻璃灯体表面布满规则菱形/钻石切割纹理，暖黄发光从内透出折射切割面，顶端可拆卸金属镜面圆柱帽作为充电模块，放在木纹桌面上，背景为木格屏风"
+      - filename: "57.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/57.jpg"
+        image_role: "scene"
+        visual_anchor: "同款切割水晶纹台灯第二场景：室内台阶/陈列场景，多支同款灯排列，部分有顶部金属帽，部分无（裸露玻璃柱顶），可见金属帽为可独立摘取的圆柱体，摘下后作为充电底座使用"
+    product_name: ""
+    brand_name: "unknown"
+    brand_confidence: "unknown"
+
+    category_path:
+      - "灯具"
+      - "台灯"
+      - "学习台灯"
+
+    design_language:
+      silhouette: "圆柱形玻璃灯体（高约25cm，径约8cm），表面全覆盖菱形/钻石切割浮雕纹理，顶端可拆卸金属镜面圆柱帽（高约4cm）作为充电模块，整体如切割水晶酒瓶"
+      light_opening: "圆柱漫射体360°发光，切割纹理折射内部光源形成多面体折射光效，每个切割面都成为折射光点"
+      thermal: "LED集成于圆柱体内部，玻璃/亚克力导热有限，低功率设计"
+      cmf:
+        color: "透明切割玻璃/亚克力（灯体）+ 银色镜面（可拆顶帽）"
+        material: "切割纹理玻璃/亚克力圆柱体 + 金属镜面圆柱帽"
+        finish: "切割面抛光透明（灯体）+ 镜面抛光（顶帽）"
+      mounting: "顶部金属帽可拆卸，帽本身含无线充电模块；摘帽状态下灯体可独立使用，顶帽变为独立充电座"
+      signature_detail: "可拆充电帽的双态设计：顶部圆柱金属帽戴上时完成灯体造型，摘下时变为独立充电器，两种状态灯体都可正常使用，充电行为不打断使用"
+    design_level:
+      score: 5
+      reason: "切割水晶纹理+内透光的视觉效果极强：每个切割面都形成折射光点，关灯时是装饰雕塑，点亮后是光效装置；可拆充电帽设计巧妙——摘帽不破坏使用，帽变为充电座；透明切割柱在日式/东方氛围场景中语义极准确；形态、材料、光效、充电方案四重统一"
+    design_tags:
+      - "切割水晶纹理"
+      - "内透折射光效"
+      - "可拆充电顶帽"
+      - "圆柱无线充电"
+      - "透明玻璃柱"
+      - "H04参数化"
+      - "H09隐藏工程"
+    hero_feature: "菱形切割纹理圆柱体：全面切割浮雕使圆柱玻璃体成为多面折射器，内部暖光透过每个切割面形成漫天光点效果；可拆顶帽=充电模块，充电不中断使用"
+    problem_solved: "无线充电台灯通常充电时需要将灯放在充电垫上，充电期间无法使用；可拆顶帽充电模块让灯体独立使用的同时，顶帽单独充电，解决充电与使用互斥的矛盾"
+    transferable_technique: "切割浮雕纹理+内透光的光学设计手法可迁移到任何透明/半透明灯具；可拆卸功能帽（充电/调光模块）作为独立附件的设计策略适用于任何需要充电的便携灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

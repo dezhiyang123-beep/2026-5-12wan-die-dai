@@ -1,0 +1,289 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "手电筒"
+  tertiary: "充电搜索手电"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/充电搜索手电/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_搜索_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/充电搜索手电/01.jpg"
+        image_role: "hero"
+        visual_anchor: "超长筒身+大灯头+多层散热鳍片+细长握把"
+    product_name: "Nitecore MH40 Pro 充电搜索手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "充电搜索手电"]
+    design_language:
+      silhouette: "长枪型，灯头大、筒身细长，头尾比例约1:3，典型搜索手电廓形"
+      light_opening: "单大LED深抛物面反射杯，开口直径约60mm，聚光型"
+      thermal: "灯头颈部宽厚多层平行散热鳍片，鳍片间距均匀"
+      cmf:
+        color: "全哑光黑"
+        material: "航空铝合金，阳极氧化哑光黑"
+        finish: "握把段深直纹防滑，灯头及颈部光滑，侧面小圆按钮"
+      mounting: "筒尾有挂绳孔，纯握持型，适合双手操作"
+      signature_detail: "超细长握把段与大灯头的极端比例对比，多层鳍片颈部"
+    design_level:
+      score: 3
+      reason: "标准搜索手电廓形，做工精良，比例协调，但无明显设计创新点，功能性主导外观"
+    design_tags: ["长枪型", "大灯头", "深反射杯", "多层散热鳍", "搜索远射", "哑光黑", "充电"]
+    hero_feature: "超长细筒身与大直径灯头形成强烈比例张力，多层散热鳍片强化专业感"
+    problem_solved: "远距离搜索照明需要高度聚光，深抛物面大反射杯配合长筒身实现远射聚束"
+    transferable_technique: "长细握把+大功能头部的极端比例对比手法，可用于强调功能端的手持设备设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_搜索_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/充电搜索手电/02.jpg"
+        image_role: "hero"
+        visual_anchor: "方形充电模块侧板+LED电量指示灯条+菱形纹握把"
+    product_name: "Nitecore MH25 Pro 充电搜索手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "充电搜索手电"]
+    design_language:
+      silhouette: "中等长度圆柱型，灯头略宽于握把，比例适中"
+      light_opening: "单LED聚光灯头，深杯，直径约35mm"
+      thermal: "灯头颈部有浅平行槽，散热隐含"
+      cmf:
+        color: "全哑光黑"
+        material: "航空铝合金，阳极氧化哑光黑"
+        finish: "握把段菱形网纹，侧面方形充电模块突出于筒身"
+      mounting: "筒尾有挂绳孔及挂环，侧面充电接口可见"
+      signature_detail: "侧面突出方形充电控制模块，含蓝色LED电量指示灯条和Output标识"
+    design_level:
+      score: 4
+      reason: "侧面充电模块的方形突出设计功能外显，蓝色LED电量指示带来科技感，在同类产品中辨识度高"
+    design_tags: ["侧面充电模块", "电量指示灯", "功能外显", "方形突出块", "充电搜索", "科技蓝点缀"]
+    hero_feature: "筒身侧面突出的方形充电控制模块，内嵌蓝色LED电量指示灯条，将充电功能视觉化"
+    problem_solved: "搜索手电需要在户外快速确认电量状态，侧面模块化充电接口+LED指示实现不开盖即知电量"
+    transferable_technique: "在圆柱筒身局部增加方形功能模块突出件的分件手法，用于强调核心功能区别于竞品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_搜索_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/充电搜索手电/03.jpg"
+        image_role: "hero"
+        visual_anchor: "修长圆柱型+侧面小方块充电模块+深直纹握把"
+    product_name: "Nitecore MH12 Pro 充电搜索手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "充电搜索手电"]
+    design_language:
+      silhouette: "细长圆柱型，头尾直径接近，比例修长均匀"
+      light_opening: "单LED聚光灯头，直径约28mm，有齿状防护边"
+      thermal: "灯头颈部有浅平行散热槽"
+      cmf:
+        color: "全哑光黑"
+        material: "航空铝合金，阳极氧化哑光黑"
+        finish: "握把段深竖直纹，灯头区光滑，侧面小方形充电块"
+      mounting: "筒尾挂绳孔，侧面充电接口"
+      signature_detail: "侧面小方形充电控制模块（较02更小更扁），蓝色Output充电指示"
+    design_level:
+      score: 3
+      reason: "与02款同系列语言，侧面充电模块体积更小更克制，整体比例更修长，但差异化不足"
+    design_tags: ["侧面充电模块", "修长圆柱", "竖直纹握把", "单LED聚光", "充电搜索", "哑光黑"]
+    hero_feature: "修长均匀圆柱廓形，侧面充电模块小而精准地嵌入，不破坏整体线条感"
+    problem_solved: "日常EDC与搜索兼顾场景，修长比例易于携带，充电功能集成减少配件依赖"
+    transferable_technique: "在修长圆柱产品上嵌入最小化功能模块的设计克制手法，保持主廓形纯净"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_搜索_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/充电搜索手电/04.jpg"
+        image_role: "hero"
+        visual_anchor: "哑光黑筒身+白色横纹装饰带+侧面小圆按钮"
+    product_name: "Nitecore MH25 V2 充电搜索手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "充电搜索手电"]
+    design_language:
+      silhouette: "中等长度圆柱型，灯头略宽，筒身有环状分件线"
+      light_opening: "单LED聚光灯头，直径约32mm，多LED簇射设计"
+      thermal: "灯头颈部有平行散热槽，散热区明显"
+      cmf:
+        color: "全哑光黑底色，灯头颈部白色横纹装饰带"
+        material: "航空铝合金，阳极氧化"
+        finish: "握把段菱形网纹，灯头颈部白色阳极氧化装饰环"
+      mounting: "筒尾挂绳环，侧面小按钮"
+      signature_detail: "灯头颈部白色横纹装饰环带，在黑色筒身上形成显著腰线标识"
+    design_level:
+      score: 4
+      reason: "白色横纹装饰带是强辨识设计元素，在全黑系手电市场中形成记忆点，腰线分隔灯头与筒身逻辑清晰"
+    design_tags: ["白色装饰环带", "黑白对比腰线", "多LED灯头", "散热槽颈部", "充电搜索", "腰线分区"]
+    hero_feature: "灯头颈部白色阳极氧化横纹装饰环带，在哑光黑筒身上制造强对比腰线记忆点"
+    problem_solved: "在竞争激烈的全黑手电市场中建立视觉辨识度，装饰腰线兼具品牌标识功能"
+    transferable_technique: "在深色主体产品的功能分区界面处增加白色/亮色装饰环带的分件对比手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_搜索_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/充电搜索手电/05.jpg"
+        image_role: "hero"
+        visual_anchor: "极细短型圆柱+菱形网纹+无明显分件"
+    product_name: "Nitecore MH11 充电搜索手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "充电搜索手电"]
+    design_language:
+      silhouette: "短粗圆柱型，头尾直径基本一致，比例紧凑"
+      light_opening: "单LED灯头，直径约22mm，有防护边环"
+      thermal: "灯头颈部有细浅散热槽"
+      cmf:
+        color: "全哑光黑"
+        material: "航空铝合金，阳极氧化哑光黑"
+        finish: "全身菱形网纹防滑，筒身有分件腰环"
+      mounting: "筒尾有挂绳孔"
+      signature_detail: "极紧凑短粗比例，全身菱形网纹统一覆盖，无多余装饰"
+    design_level:
+      score: 2
+      reason: "设计语言高度标准化，无明显差异化特征，外观与众多同类产品难以区分，缺乏记忆点"
+    design_tags: ["短粗圆柱", "菱形网纹", "紧凑EDC", "全哑光黑", "标准型", "充电搜索"]
+    hero_feature: "极短紧凑筒身，全身菱形网纹统一覆盖，强调握持手感"
+    problem_solved: "需要最小体积充电搜索手电的口袋携带场景"
+    transferable_technique: "全面覆盖网纹防滑处理使短粗产品在握持时拥有安全感的表面手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_搜索_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/充电搜索手电/06.jpg"
+        image_role: "hero"
+        visual_anchor: "侧卧式皮卡汀尼导轨底座+圆筒主体+战术环分件"
+    product_name: "Nitecore MH10 V2 充电搜索手电（导轨版）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "充电搜索手电"]
+    design_language:
+      silhouette: "圆柱主体配侧挂皮卡汀尼导轨底座，底座为扁平矩形件，整体呈T形侧视轮廓"
+      light_opening: "单LED聚光灯头，直径约28mm"
+      thermal: "灯头颈部浅散热槽"
+      cmf:
+        color: "全哑光黑"
+        material: "航空铝合金，阳极氧化哑光黑"
+        finish: "筒身菱形网纹，导轨底座哑光黑平整面"
+      mounting: "皮卡汀尼导轨侧挂底座，可快拆安装于枪械或战术装备"
+      signature_detail: "侧面皮卡汀尼导轨底座作为永久性结构件，同时作为手持握持辅助面"
+    design_level:
+      score: 3
+      reason: "导轨底座与圆筒的组合满足战术安装需求，功能明确，但设计美感让位于功能性"
+    design_tags: ["皮卡汀尼导轨", "战术安装", "侧挂底座", "T形轮廓", "充电搜索", "快拆"]
+    hero_feature: "侧面皮卡汀尼导轨底座将战术安装功能结构化，形成独特T形侧视廓形"
+    problem_solved: "需要将手电筒固定于枪械/战术装备导轨上的战术使用场景"
+    transferable_technique: "在圆柱主体侧面集成矩形功能安装底座的结构组合手法，创造新的产品安装生态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_搜索_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/充电搜索手电/07.jpg"
+        image_role: "hero"
+        visual_anchor: "细长圆柱+笔夹+三节分件腰环+小灯头"
+    product_name: "Nitecore MH2A 充电搜索手电（笔夹型）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "充电搜索手电"]
+    design_language:
+      silhouette: "极细长圆柱型，比例接近钢笔，头尾直径几乎相同"
+      light_opening: "单LED小灯头，直径约18mm，有防护边"
+      thermal: "几乎无明显散热结构，依靠铝合金筒体导热"
+      cmf:
+        color: "全哑光黑"
+        material: "航空铝合金，阳极氧化哑光黑"
+        finish: "筒身局部菱形网纹，三处分件腰环清晰"
+      mounting: "侧面弹簧笔夹，可夹于口袋/背包带"
+      signature_detail: "弹簧金属笔夹 + 三节腰环将筒身视觉三等分"
+    design_level:
+      score: 3
+      reason: "笔夹设计实用性强，极细比例差异化明显，但整体设计语言与众多笔型手电类似，品牌辨识度中等"
+    design_tags: ["笔夹型", "极细比例", "三分腰环", "口袋携带", "EDC", "充电搜索"]
+    hero_feature: "弹簧金属笔夹与三节腰环将钢笔般细长筒身进行功能与视觉双重分节"
+    problem_solved: "需要像钢笔一样夹在口袋中随身携带的轻量搜索照明场景"
+    transferable_technique: "借鉴钢笔夹设计将圆柱形产品快速固定于薄型织物的笔夹安装手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_搜索_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/充电搜索手电/08.jpg"
+        image_role: "hero"
+        visual_anchor: "大灯头+锯齿防打击边+战术环+菱形纹握把+大侧按钮"
+    product_name: "Nitecore MH27 UV 充电搜索手电（战术型）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "充电搜索手电"]
+    design_language:
+      silhouette: "中粗短型，灯头直径明显大于握把，整体重心靠前"
+      light_opening: "多LED灯头（含UV灯），直径约40mm，有锯齿防打击保护边"
+      thermal: "灯头颈部有宽散热槽区，鳍片厚实"
+      cmf:
+        color: "全哑光黑，局部有银色金属环点缀"
+        material: "航空铝合金，阳极氧化哑光黑"
+        finish: "握把段菱形网纹，灯头区光滑，锯齿边抛光"
+      mounting: "筒尾有战术环挂绳孔，侧面大圆形侧按钮"
+      signature_detail: "灯头锯齿防打击边 + 大直径圆形侧按钮 + 银色金属腰环"
+    design_level:
+      score: 4
+      reason: "锯齿防打击边强化战术视觉语言，银色腰环与哑光黑形成精准对比，大侧按钮功能外显，整体战术感强且有设计层次"
+    design_tags: ["锯齿防打击边", "战术型", "UV功能", "大侧按钮", "银色腰环", "充电搜索", "多功能灯头"]
+    hero_feature: "灯头锯齿防打击保护边在功能保护的同时创造强烈的战术视觉语言"
+    problem_solved: "战术搜索场景需要坚固灯头保护和快速操作按钮，同时集成UV鉴别功能"
+    transferable_technique: "在圆形开口外围增加锯齿防护边结构，将保护功能转化为强烈的视觉辨识元素"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

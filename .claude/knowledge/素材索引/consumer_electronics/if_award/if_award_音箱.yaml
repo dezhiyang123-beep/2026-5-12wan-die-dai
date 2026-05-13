@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/音箱/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_spk_ce_001"
+    source_images:
+      - filename: "95.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/音箱/95.jpg"
+        image_role: "hero"
+        visual_anchor: "黄色正方体音箱放于书本上，顶部黑色花瓣形散热格栅，家居场景"
+    product_name: "Cornices 5G CPE"
+    brand_name: "Cornices"
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "音箱"]
+    design_language:
+      silhouette: "近正方体，四侧面平整无缝，顶部花瓣曲线造型散热盖"
+      light_opening: "正面单个黑色圆形状态灯/按键"
+      thermal: "顶部外凸花瓣形格栅，兼顾散热与装饰"
+      cmf:
+        color: "明黄色主体，黑色顶盖，底部深红色内嵌"
+        material: "金属外壳，ABS顶盖"
+        finish: "哑光黄色喷涂，哑光黑格栅"
+      mounting: "桌面放置，底面四点支撑"
+      signature_detail: "顶部花瓣曲线格栅造型：将散热结构转化为中国传统建筑檐角语义，强烈文化符号"
+    design_level:
+      score: 4
+      reason: "顶部花瓣格栅造型是极强的Hero Feature，将功能性散热结构与文化语义融合，记忆点突出；明黄色使产品在家居环境中成为视觉焦点；单圆形按钮的极简前面板与顶部装饰形成主次张力"
+    design_tags: ["5G CPE", "方体", "文化符号", "H06仿生", "H11功能外显", "明黄色", "花瓣格栅", "家居融合"]
+    hero_feature: "顶部花瓣曲线散热格栅——将必须存在的散热结构转化为具有文化识别度的装饰性标志"
+    problem_solved: "5G路由设备的家居融合问题：让工业感强的网络设备变成家居陈设品"
+    transferable_technique: "将功能性开孔/格栅转化为装饰性造型元素的手法（H06+H11）；顶部异型盖与方体主体的组合语言"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "产品标牌写Cornices 5G CPE，实为5G路由器/CPE设备，非音箱；品类归属需确认，设计参考价值高但品类标签待校正"
+
+  - product_id: "if_spk_ce_002"
+    source_images:
+      - filename: "97.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/音箱/97.jpg"
+        image_role: "hero"
+        visual_anchor: "同款Cornices 5G CPE黄色+白色两色版本并列，工作室白色背景"
+    product_name: "Cornices 5G CPE (Two Colorways)"
+    brand_name: "Cornices"
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "音箱"]
+    design_language:
+      silhouette: "同95号，正方体+花瓣顶盖；两机并排展示色彩方案"
+      light_opening: "正面单圆形状态灯"
+      thermal: "顶部花瓣曲线格栅"
+      cmf:
+        color: "明黄色版本（左）+ 纯白色版本（右），顶盖均为深灰/黑色"
+        material: "金属外壳，ABS顶盖"
+        finish: "哑光喷涂"
+      mounting: "桌面放置"
+      signature_detail: "两色版本并陈，验证花瓣格栅造型在不同主色下均成立；白色版本更融入中性家居环境"
+    design_level:
+      score: 4
+      reason: "双色版本展示验证了造型语言的色彩适应性；白色版本进一步证明产品设计骨架足够强，不依赖颜色制造视觉冲击；与95号图互为补充参考"
+    design_tags: ["5G CPE", "方体", "双色方案", "H06仿生", "明黄色", "纯白色", "花瓣格栅", "色彩验证"]
+    hero_feature: "双色并列验证：花瓣格栅造型在黄色（个性）和白色（融合）两种策略下均保持设计完整性"
+    problem_solved: "色彩选择策略：个性版（黄）vs 融合版（白），满足不同家居风格用户"
+    transferable_technique: "同一造型骨架的强色vs中性色双版本验证方法，确认Hero Feature不依赖颜色；可迁移至需要多色方案规划的家电产品"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "同95号，产品为5G CPE路由器非音箱，品类归属需确认"

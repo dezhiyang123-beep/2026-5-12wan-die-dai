@@ -1,0 +1,72 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "笔记本电脑"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/笔记本电脑/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "samsung_laptop_001"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/笔记本电脑/06.jpg"
+        image_role: "hero"
+        visual_anchor: "Galaxy Book6 Pro斜侧俯视图，屏盖半开，底部透视图展示内部散热结构"
+    product_name: "Samsung Galaxy Book6 Pro"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑"]
+    design_language:
+      silhouette: "超薄楔形机身，屏盖与底座等厚；深蓝色配色，整体轮廓简洁无多余装饰线"
+      light_opening: "无"
+      thermal: "底部透视渲染突出大面积涡轮散热扇+导热管结构，散热系统作为设计卖点外显"
+      cmf:
+        color: "Sapphire Blue（宝石蓝）铝合金机身，键盘区深灰色"
+        material: "铝合金A/C面，玻璃触控板"
+        finish: "A面拉丝铝合金哑光，C面微砂哑光"
+      mounting: "铰链360度开合（标准翻转），单段式铰链"
+      signature_detail: "底盖透视X光渲染展示内部精密散热结构，将工程美学作为品牌叙事核心"
+    design_level:
+      score: 3
+      reason: "外观设计克制精准，宝石蓝配色有品牌辨识度；透视展示内部结构是营销亮点但非外观创新；整体属高端商务本标准水准"
+    design_tags: ["超薄", "铝合金", "宝石蓝", "工程美学", "商务旗舰", "透视内构"]
+    hero_feature: "X光透视图外显精密散热系统，将内部工程结构转化为品牌视觉语言"
+    problem_solved: "高性能笔记本散热与轻薄机身的矛盾，通过大涡轮扇设计解决热密度问题"
+    transferable_technique: "内部工程结构透视外显——将功能结构作为设计语言的「功能外显」手法（H11），可迁移至其他高性能便携设备"
+
+  - product_id: "samsung_laptop_002"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/samsung/笔记本电脑/10.jpg"
+        image_role: "hero"
+        visual_anchor: "与06.jpg为同款Galaxy Book6 Pro，相同角度相同内容，图片重复"
+    product_name: "Samsung Galaxy Book6 Pro（重复素材）"
+    brand_name: "Samsung"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑"]
+    design_language:
+      silhouette: "与samsung_laptop_001完全相同"
+      light_opening: "无"
+      thermal: "与samsung_laptop_001完全相同"
+      cmf:
+        color: "Sapphire Blue（宝石蓝）"
+        material: "铝合金机身"
+        finish: "拉丝铝合金哑光"
+      mounting: "标准翻转铰链"
+      signature_detail: "与samsung_laptop_001相同"
+    design_level:
+      score: 2
+      reason: "与samsung_laptop_001为同一张图片，作为独立素材无增量信息价值；建议人工核查是否有其他角度/型号图片替换"
+    design_tags: ["重复素材", "需替换"]
+    hero_feature: "同samsung_laptop_001"
+    problem_solved: "同samsung_laptop_001"
+    transferable_technique: "同samsung_laptop_001"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "06.jpg与10.jpg为同一张图片，建议确认10.jpg是否应为其他型号/角度素材"

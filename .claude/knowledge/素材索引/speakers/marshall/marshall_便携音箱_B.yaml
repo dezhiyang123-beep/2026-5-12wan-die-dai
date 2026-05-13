@@ -1,0 +1,394 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "便携音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "marshall_portable_012"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/10.jpg"
+        image_role: "hero"
+        visual_anchor: "抽象涂鸦艺术印花机身 + 深蓝色菱形网格前面板 + 蓝色LED渐变logo"
+    product_name: "Emberton III 限定艺术版（Art Edition）"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向长方体，圆角处理，比例约2:1，小尺寸掌上级"
+      light_opening: "无开孔式发光；LED Marshall字母logo内透蓝光"
+      thermal: "无明显散热开孔"
+      cmf:
+        color: "奶油白机身+多色抽象涂鸦印花（粉/黄/橙/黑色块）+ 深蓝色前面板"
+        material: "磨砂软胶机身涂层，菱形金属网格前面板"
+        finish: "哑光涂装+艺术印刷图案"
+      mounting: "无提带/提手，独立放置"
+      signature_detail: "全机身包覆艺术印花图案；蓝色LED背光Marshall字母徽标；菱形网格纹路"
+    design_level:
+      score: 5
+      reason: "限定艺术联名款，通体印花+LED蓝光logo突破Marshall常规黑金语言，视觉冲击力极强，具备极高收藏价值与话题性"
+    design_tags: ["限定款", "艺术联名", "印花涂鸦", "LED发光logo", "菱形网格", "Emberton", "掌上便携"]
+    hero_feature: "全机身涂鸦艺术印花 + 蓝色LED背光Marshall字母logo"
+    problem_solved: "用户希望音箱不只是工具，而是个性表达载体；限定印花满足收藏与展示需求"
+    transferable_technique: "将品牌logo做成可发光/变色元素；机身全包覆艺术印花作为差异化配色策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_013"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/11.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑机身+银色菱形网格前面板+银色手写体logo+顶部圆形旋钮"
+    product_name: "Emberton II（黑色版）"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向长方体，圆角处理，比例约2.2:1，掌上级小尺寸"
+      light_opening: "顶部红色LED指示灯（电源/蓝牙状态）"
+      thermal: "无明显散热开孔"
+      cmf:
+        color: "全黑机身 + 银灰色金属网格前面板"
+        material: "黑色磨砂软胶机身；菱形编织金属网格；顶部单圆形橡胶旋钮"
+        finish: "哑光黑涂装 + 拉丝金属网格"
+      mounting: "无提带，独立放置"
+      signature_detail: "顶部单枚圆形多功能旋钮；红色LED指示灯；银色草书Marshall logo"
+    design_level:
+      score: 3
+      reason: "经典黑色标准配色，造型语言完整规范，但无差异化特征，属Marshall基础款表达"
+    design_tags: ["全黑配色", "银色网格", "圆形旋钮", "Emberton", "掌上便携", "简洁"]
+    hero_feature: "顶部单枚多功能圆形旋钮 + 红色LED状态指示灯"
+    problem_solved: "需要极简易用的一键控制体验，同时保持Marshall复古外观"
+    transferable_technique: "单旋钮多功能整合控制区，简化操作层级；红色LED点缀黑色机身形成视觉焦点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_014"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/12.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色机身+菱形网格+黄铜色旋钮+金色logo+腕带"
+    product_name: "Emberton II（黑铜版 Black & Brass）"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向长方体，圆角处理，比例约2.2:1，掌上级小尺寸"
+      light_opening: "顶部红色LED指示灯"
+      thermal: "无明显散热开孔"
+      cmf:
+        color: "黑色机身 + 黑色菱形网格前面板 + 黄铜色金属细节"
+        material: "黑色磨砂软胶机身；黑色菱形编织金属网格；黄铜色圆形旋钮；黑色腕带"
+        finish: "哑光黑 + 黄铜镀层旋钮 + 金色草书logo"
+      mounting: "腕带（侧面固定，可拆卸携带）"
+      signature_detail: "黄铜色旋钮与金色logo形成黑金配色体系；腕带扣件做黄铜金属色处理"
+    design_level:
+      score: 4
+      reason: "黑铜配色是Marshall最具品牌辨识度的组合，腕带设计增强便携性，整体语言高度统一且有温度感"
+    design_tags: ["黑铜配色", "腕带", "黄铜旋钮", "金色logo", "菱形网格", "Emberton", "掌上便携"]
+    hero_feature: "黑色机身配黄铜旋钮+金色logo的黑金配色体系；侧挂腕带"
+    problem_solved: "需要既有复古摇滚质感又便于随身携带的紧凑音箱"
+    transferable_technique: "黄铜色五金件（旋钮、logo、腕带扣）作为统一视觉语言锚点；腕带与机身色系匹配的一体化设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_015"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/13.jpg"
+        image_role: "hero"
+        visual_anchor: "奶油白机身+菱形网格+金色logo+米色腕带"
+    product_name: "Emberton II（奶油白版 Cream）"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向长方体，圆角处理，比例约2.2:1，掌上级小尺寸"
+      light_opening: "顶部红色LED指示灯"
+      thermal: "无明显散热开孔"
+      cmf:
+        color: "奶油白/米白色机身 + 金色菱形网格前面板 + 米色腕带"
+        material: "磨砂软胶奶油白涂层机身；菱形编织金属网格（金属本色偏暖）；米色织带腕带"
+        finish: "哑光奶油白 + 暖金属网格 + 金色草书logo"
+      mounting: "腕带（侧面固定）"
+      signature_detail: "全机身暖白配色，腕带与机身同色系，整体高度协调；红色LED与奶白机身形成轻微对比点"
+    design_level:
+      score: 3
+      reason: "奶油白配色清新，是黑铜版的温和替代，调性偏生活家居风，整体规范但无突破"
+    design_tags: ["奶油白", "暖色调", "腕带", "金色网格", "Emberton", "掌上便携", "家居风"]
+    hero_feature: "全机身奶油白+同色腕带的高协调配色方案"
+    problem_solved: "希望音箱融入家居环境或暖调生活场景，不需要摇滚黑金的强烈对比"
+    transferable_technique: "同色系腕带+机身+网格的全身配色统一策略；奶白+金色金属件的暖调配色公式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_016"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/14.jpg"
+        image_role: "hero"
+        visual_anchor: "近正方形轮廓+皮革弧形提手+顶部3颗黄铜旋钮+全黑菱形网格"
+    product_name: "Stockwell II（黑铜版）"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "近正方形，轮廓比Emberton更厚实，提手弧形拱起超出机身顶部，整体高度约为宽度的75%"
+      light_opening: "无明显LED指示灯（图中不可见）"
+      thermal: "无明显散热开孔"
+      cmf:
+        color: "全黑机身 + 黑色菱形网格 + 黄铜色旋钮 + 深色仿皮革提手"
+        material: "黑色硬壳机身；黑色菱形金属网格；3颗黄铜色金属旋钮；仿皮革弧形提手（棕褐豹纹皮革感）"
+        finish: "哑光黑硬壳 + 黄铜镀层 + 皮革纹提手"
+      mounting: "顶部固定式弧形皮革提手（拱形，可手提）"
+      signature_detail: "顶部3颗黄铜旋钮（音量+EQ）；弧形皮革提手拱起造型；近正方形紧凑轮廓"
+    design_level:
+      score: 4
+      reason: "Stockwell的近方形轮廓与弧形提手是Marshall中型便携产品的标志性视觉，黑铜配色成熟，旋钮布局有老式音响质感"
+    design_tags: ["近方形", "弧形提手", "皮革提手", "3旋钮", "黄铜色", "Stockwell", "中型便携"]
+    hero_feature: "顶部弧形皮革提手拱起 + 3颗黄铜旋钮的老式音响面板布局"
+    problem_solved: "需要比Emberton更好声音表现同时保持手提便携性；旋钮提供直觉化EQ调节"
+    transferable_technique: "弧形提手与机身顶部一体化衔接设计；3旋钮功能区集中布局在顶部窄面板的结构语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_017"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/15.jpg"
+        image_role: "hero"
+        visual_anchor: "横向宽矩形+酒红绒面提手+顶部多旋钮+竖滑杆+黑色菱形网格+金色logo"
+    product_name: "Kilburn II（黑色版）"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向宽矩形，比例约2.5:1，高度较Emberton更高，提手弧形拱起，整体像缩小版吉他音箱"
+      light_opening: "顶部面板有红色LED指示灯"
+      thermal: "无明显散热开孔"
+      cmf:
+        color: "黑色机身 + 黑色菱形网格 + 黄铜色旋钮 + 酒红/勃艮第色绒面弧形提手"
+        material: "黑色硬壳机身；黑色菱形金属网格；4颗黄铜旋钮+1根竖向推拉杆；酒红天鹅绒弧形提手"
+        finish: "哑光黑硬壳 + 黄铜镀层五金 + 绒面提手"
+      mounting: "顶部固定式弧形绒面提手（可手提，宽弧造型）"
+      signature_detail: "酒红绒面提手（Marshall标志性配件）；顶部4旋钮+1竖向推拉杆的吉他音箱式控制面板；金色草书logo"
+    design_level:
+      score: 5
+      reason: "Kilburn是Marshall便携线最具吉他音箱还原度的产品，酒红绒面提手+金色logo+旋钮推拉杆组合具有强烈的乐器周边质感，设计完成度极高"
+    design_tags: ["酒红绒面提手", "4旋钮", "竖推拉杆", "吉他音箱感", "Kilburn", "中大型便携", "黑金"]
+    hero_feature: "酒红天鹅绒弧形提手 + 顶部吉他音箱式旋钮+推拉杆控制面板"
+    problem_solved: "音乐发烧友希望便携音箱具备真实吉他音箱的视觉和操控仪式感"
+    transferable_technique: "绒面/织物材质提手与黑色硬壳机身的材质反差；竖向推拉杆与圆形旋钮混排的控制区设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_018"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/16.jpg"
+        image_role: "hero"
+        visual_anchor: "奶油白机身+金色菱形网格+金色旋钮+米色皮革提手"
+    product_name: "Kilburn II（奶油白版 Cream）"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向宽矩形，比例约2.5:1，弧形提手拱起"
+      light_opening: "顶部面板有红色LED指示灯"
+      thermal: "无明显散热开孔"
+      cmf:
+        color: "奶油白/象牙白机身 + 金色菱形网格 + 金色旋钮 + 米色/驼色皮革提手"
+        material: "奶油白硬壳机身；金色调菱形金属网格；黄铜色旋钮；米色皮革弧形提手"
+        finish: "哑光奶白机身 + 金属本色网格 + 皮革感提手"
+      mounting: "顶部固定式弧形皮革提手"
+      signature_detail: "全机身暖白+金色五金件的奢华暖调配色；奶白色机身与皮革提手的材质温度统一"
+    design_level:
+      score: 4
+      reason: "奶油白Kilburn色调高贵，金色网格与白色机身搭配接近轻奢家居品格调，是Marshall少见的暖高端配色"
+    design_tags: ["奶油白", "金色网格", "皮革提手", "暖调配色", "Kilburn", "中大型便携", "轻奢感"]
+    hero_feature: "奶白机身+全金色五金件（网格/旋钮/logo/提手扣）的暖色奢华配色体系"
+    problem_solved: "目标用户偏好轻奢家居风格，需要音箱融入米白/奶油色调的室内陈设"
+    transferable_technique: "暖白+金色金属件的轻奢配色公式；皮革提手颜色与机身高度匹配的一体化设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_019"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/17.jpg"
+        image_role: "hero"
+        visual_anchor: "棕色皮革包覆机身+银色菱形网格+灰色缝线弧形提手+银色logo"
+    product_name: "Kilburn II（棕色皮革版 Brown）"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向宽矩形，比例约2.5:1，弧形提手拱起"
+      light_opening: "顶部面板有状态指示灯（图中光线下不明显）"
+      thermal: "无明显散热开孔"
+      cmf:
+        color: "棕色皮革机身 + 银色菱形网格 + 灰/棕色缝线弧形提手 + 银色logo"
+        material: "棕色皮革/仿皮革包覆机身；银色拉丝菱形金属网格；灰棕色布/皮革弧形提手（可见缝线）；银色旋钮"
+        finish: "皮革质感机身 + 拉丝银色金属网格 + 明缝线提手"
+      mounting: "顶部固定式弧形提手（布料或皮革，有明缝线细节）"
+      signature_detail: "棕色皮革包覆机身（Marshall线中最具复古手工感）；可见缝线提手；银色金属体系（区别于其他版本的黄铜色）"
+    design_level:
+      score: 5
+      reason: "棕皮+银色网格是Marshall Kilburn系列最具手工复古乐器质感的配色，皮革包覆整面机身工艺精良，缝线细节体现高端工艺，辨识度极高"
+    design_tags: ["皮革包覆", "棕色皮革", "银色网格", "缝线细节", "复古手工感", "Kilburn", "中大型便携", "乐器质感"]
+    hero_feature: "全机身棕色皮革包覆 + 可见缝线弧形提手的手工乐器级工艺表达"
+    problem_solved: "高端用户需要音箱具备真实乐器配件级别的材质质感与手工感"
+    transferable_technique: "皮革包覆硬壳音箱外壳的包覆工艺；明缝线作为高工艺感设计细节；皮革+银色金属（非黄铜）的冷暖中性搭配"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_020"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/18.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色机身+黑色菱形网格+豹纹绒面弧形提手+黄铜旋钮"
+    product_name: "Kilburn II（黑铜+豹纹提手限定版）"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向宽矩形，比例约2.5:1，弧形提手拱起"
+      light_opening: "无明显LED指示灯"
+      thermal: "无明显散热开孔"
+      cmf:
+        color: "全黑机身 + 黑色菱形网格 + 黄铜色旋钮 + 豹纹绒面提手（棕/黑豹纹）"
+        material: "黑色硬壳机身；黑色菱形金属网格；3颗黄铜色金属旋钮；豹纹印花绒面/天鹅绒弧形提手"
+        finish: "哑光黑 + 黄铜镀层 + 豹纹绒面提手"
+      mounting: "顶部固定式弧形提手（豹纹绒面，宽弧造型）"
+      signature_detail: "豹纹绒面提手是本版本唯一差异化要素；底部有角撑保护件；整体黑金配色"
+    design_level:
+      score: 4
+      reason: "以提手作为唯一差异化元素的限定配色策略，豹纹绒面与黑金机身形成野性与精致的张力，是低成本高辨识度的限定款方案"
+    design_tags: ["豹纹提手", "绒面提手", "限定配色", "黑铜", "Kilburn", "中大型便携", "野性风格"]
+    hero_feature: "豹纹印花天鹅绒弧形提手作为唯一差异化设计点"
+    problem_solved: "用户希望限定款有个性标识但不改变整体造型，提手替换是低成本高效的差异化手段"
+    transferable_technique: "以提手/把手的材质和图案作为限定版差异化点（不改主体造型）；绒面材质与硬壳机身的触感对比"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_021"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/19.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑机身+黑色细菱格网+酒红绒面提手+白色草书logo"
+    product_name: "Kilburn II（全黑+红提手版）"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "横向宽矩形，比例约2.5:1，弧形提手拱起"
+      light_opening: "无明显指示灯（图中未见）"
+      thermal: "无明显散热开孔"
+      cmf:
+        color: "全黑机身 + 黑色细菱格网 + 酒红绒面弧形提手 + 白色草书logo"
+        material: "黑色硬壳机身；黑色细格菱形金属网格；黑色金属旋钮（非黄铜）；酒红天鹅绒弧形提手"
+        finish: "哑光黑全身 + 黑色金属网格 + 绒面提手 + 白色印刷logo"
+      mounting: "顶部固定式弧形绒面提手"
+      signature_detail: "白色草书Marshall logo（区别于金色logo版本）；黑色旋钮（去除黄铜色）；红提手为唯一彩色点"
+    design_level:
+      score: 3
+      reason: "全黑配色较为克制，红提手是唯一彩色，但白色logo替换黄铜色logo使整体感觉偏年轻/街头，与经典版有明显差异"
+    design_tags: ["全黑配色", "白色logo", "酒红提手", "克制风格", "Kilburn", "中大型便携", "年轻化"]
+    hero_feature: "全黑克制机身 + 酒红绒面提手 + 白色草书logo的三色极简体系"
+    problem_solved: "偏好低调黑色但需要一个彩色点缀的用户；白色logo区别于经典金色，指向更年轻/时尚受众"
+    transferable_technique: "全黑机身中提手作为单一彩色焦点；logo颜色替换（金→白）作为调性切换手段"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "marshall_portable_022"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/marshall/便携音箱/20.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向高矩形+弧形皮革提手+3颗黄铜旋钮+人字纹网格+金色logo"
+    product_name: "Tufton（黑铜版）"
+    brand_name: "Marshall"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱"]
+    design_language:
+      silhouette: "竖向高矩形（portrait），比例约1:1.3，是Marshall便携线中最高最宽大的机型，弧形提手拱起"
+      light_opening: "无明显LED指示灯"
+      thermal: "无明显散热开孔"
+      cmf:
+        color: "全黑机身 + 人字纹/竖向条纹网格 + 黄铜色旋钮 + 金色草书logo + 棕色绒面弧形提手"
+        material: "黑色硬壳机身；人字纹编织金属网格（有别于其他型号的菱形网格）；3颗黄铜金属旋钮；棕色绒面/麂皮感弧形提手"
+        finish: "哑光黑硬壳 + 编织金属网格 + 黄铜镀层 + 绒面提手"
+      mounting: "顶部固定式弧形提手（绒面/麂皮感，宽弧）"
+      signature_detail: "竖向portrait轮廓（Marshall便携线唯一竖版）；人字纹金属网格（区别于其他款菱形）；棕绒面提手+黄铜五金组合"
+    design_level:
+      score: 5
+      reason: "Tufton以竖向轮廓和人字纹网格在Marshall便携线中形成绝对差异化，是旗舰尺寸担当，配色、网格、轮廓三要素均为该线唯一，设计语言完整且强烈"
+    design_tags: ["竖向轮廓", "人字纹网格", "旗舰尺寸", "弧形提手", "黄铜旋钮", "Tufton", "大型便携", "黑金"]
+    hero_feature: "竖向portrait矩形轮廓 + 人字纹编织金属网格（Marshall便携线唯一）"
+    problem_solved: "需要最强便携音量与最大音场的用户；竖版设计最大化内部腔体体积同时保持手提便携性"
+    transferable_technique: "竖向portrait轮廓作为产品线内差异化手段；人字纹网格vs菱形网格作为档次/型号区分的视觉语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

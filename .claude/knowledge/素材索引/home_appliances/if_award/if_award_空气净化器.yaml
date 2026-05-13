@@ -1,0 +1,149 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "空气净化器"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/空气净化器/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_purifier_001"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/空气净化器/26.jpg"
+        image_role: "hero"
+        visual_anchor: "全白方形紧凑机身，底部前沿有弹出式滤芯托盘和黑色椭圆状态指示窗，侧面有出风格栅"
+    product_name: "白色紧凑型空气净化器（底部弹出滤芯）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "空气净化器"]
+    design_language:
+      silhouette: "正方形截面立方体，高宽比约2:1；底部前沿有一倾斜弹出托盘，右侧有小型椭圆状态指示窗"
+      light_opening: "侧面有垂直细缝出风格栅"
+      thermal: "侧面出风格栅"
+      cmf:
+        color: "全白哑光"
+        material: "ABS工程塑料"
+        finish: "亚光白 + 黑色椭圆状态窗"
+      mounting: "落地/桌面"
+      signature_detail: "底部前沿斜向弹出式滤芯托盘，更换滤芯不需要打开机身顶部或拆卸侧板"
+    design_level:
+      score: 4
+      reason: "底部弹出式滤芯更换机构在空净品类是创新性交互方案；全白方形体量与极简面板组合呈现高档家居融合感；椭圆状态窗是辨识度细节"
+    design_tags: ["底部弹出滤芯", "交互创新", "极简方形体量", "全白哑光", "家居融合"]
+    hero_feature: "底部前沿斜向弹出式滤芯托盘——将维护操作从顶/侧改为底部，重新定义换滤芯的仪式感"
+    problem_solved: "传统空净换滤需要搬动整机或打开顶盖；底部弹出设计使滤芯更换如同抽屉操作，无需移机"
+    transferable_technique: "将维护/耗材更换入口从顶部/侧面转移至底部前沿弹出机构，可迁移至加湿器、咖啡机、打印机等耗材型家电"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_purifier_002"
+    source_images:
+      - filename: "34.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/空气净化器/34.jpg"
+        image_role: "hero"
+        visual_anchor: "Smartmi品牌纯白圆柱体净化器，顶部中央有凹形出风漏斗，底部有一圈进风缝，单按钮"
+    product_name: "Smartmi 圆柱型空气净化器/加湿器"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "空气净化器"]
+    design_language:
+      silhouette: "完美圆柱体，顶部内凹漏斗形出风口；上下体量感均等，底部有一圈细缝进风带"
+      light_opening: "顶部出风漏斗区域可能为导光/氛围区"
+      thermal: "底部环形进风缝隙"
+      cmf:
+        color: "全白（暖白调）"
+        material: "ABS塑料"
+        finish: "哑光白 + 亮光灰底座圈"
+      mounting: "落地/桌面"
+      signature_detail: "顶部内凹漏斗形出风造型，将出风口转化为雕塑性视觉焦点；底部单点按钮极简"
+    design_level:
+      score: 4
+      reason: "完美圆柱+顶部漏斗出风的造型在净化器品类辨识度极高；Smartmi极简美学执行精准；白色哑光表面无任何多余细节"
+    design_tags: ["圆柱造型", "顶部漏斗出风", "极简美学", "雕塑感", "全白哑光"]
+    hero_feature: "顶部内凹漏斗形出风口——将功能开口转化为产品最重要的雕塑性特征"
+    problem_solved: "净化器顶部出风通常是格栅或孔洞，缺乏美感；漏斗造型赋予出风方向性视觉引导，同时消除格栅视觉噪声"
+    transferable_technique: "将顶部功能开口（出风/出水/出气）设计为内凹漏斗或曲面收口，转化为产品主视觉焦点，可迁移至加湿器、香薰机、台式风扇"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_purifier_003"
+    source_images:
+      - filename: "63.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/空气净化器/63.jpg"
+        image_role: "hero"
+        visual_anchor: "Toshiba品牌白色圆润方形净化器，顶部黑色控制面板内嵌，整体像放大的碗形"
+    product_name: "Toshiba Plasion 空气净化器"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "空气净化器"]
+    design_language:
+      silhouette: "宽扁圆润方形体，四角圆弧大曲率；顶部略内凹嵌入深色控制面板；底部环形进风缝（推测）"
+      light_opening: "顶部控制面板有状态指示灯"
+      thermal: "全方向进风（侧面或底部）"
+      cmf:
+        color: "白色（高光/半光）"
+        material: "ABS塑料"
+        finish: "半光白 + 哑光黑控制面板"
+      mounting: "落地"
+      signature_detail: "四角超大圆弧与扁宽比例形成膨胀感圆润体量，有别于竖向圆柱净化器主流造型"
+    design_level:
+      score: 3
+      reason: "宽扁圆润体量具有独特识别性，区别于竖向净化器主流造型；但控制面板与机身融合度一般，整体设计语言平稳"
+    design_tags: ["圆润方形", "宽扁比例", "膨胀感体量", "白色家居感", "顶部控制面板"]
+    hero_feature: "四角超大圆弧+宽扁比例形成的膨胀圆润体量——用非竖向造型打破净化器品类惯例"
+    problem_solved: "净化器主流为竖向圆柱，占地大且竖向突出；宽扁设计降低视觉高度，更适合置于角落不突兀"
+    transferable_technique: "以宽扁+超大圆角体量替代竖向圆柱，适合需要降低视觉高度的桌面/角落型家电，可迁移至加湿器、小型音箱"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_purifier_004"
+    source_images:
+      - filename: "78.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/空气净化器/78.jpg"
+        image_role: "hero"
+        visual_anchor: "Winia品牌白色圆角方形立式净化器，顶部黑色旋转控制盖，底部有一圈矮底座，整体高宽比约3:2"
+    product_name: "Winia 空气净化器"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "空气净化器"]
+    design_language:
+      silhouette: "圆角方形截面立柱，高宽比约3:2；顶部有黑色斜切控制面板（可能可旋转），底部有独立底座圈"
+      light_opening: "顶部控制面板有触控操作区"
+      thermal: "全周侧面进风（无可见格栅，推测为细缝）"
+      cmf:
+        color: "全白 + 顶部哑光黑"
+        material: "ABS塑料"
+        finish: "亚光白机身 + 哑光黑控制顶盖"
+      mounting: "落地"
+      signature_detail: "顶部独立黑色斜切控制面板形成帽状结构，白色机身+黑色顶帽的二段式配色形成强视觉分层"
+    design_level:
+      score: 3
+      reason: "白色+黑色顶帽的二段式配色是成熟的品类方案；整体造型稳重但创新点有限；底座圈增加稳定感"
+    design_tags: ["二段式配色", "黑白对比", "顶帽控制面板", "圆角方形", "底座圈"]
+    hero_feature: "白色机身+黑色斜切顶帽的二段式视觉分层——明确区分功能控制区与空气处理体量"
+    problem_solved: "净化器控制区与机身一体化导致视觉杂乱；顶帽分离设计明确视觉层级，使用时目光自然聚焦顶部"
+    transferable_technique: "功能控制区以深色顶帽独立出来形成二段式配色，可迁移至加湿器、台式风扇、小家电控制界面设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

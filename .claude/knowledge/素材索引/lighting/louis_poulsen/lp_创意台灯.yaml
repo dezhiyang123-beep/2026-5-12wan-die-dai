@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "创意台灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意台灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "lp_台灯_001"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意台灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "多关节铰接臂+圆锥形灯头+桌面夹式底座，全白哑光"
+    product_name: "NJP Table Lamp (Clamp)"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯"]
+    design_language:
+      silhouette: "多段折叠关节臂，直线条骨架结构，锥形灯头朝下，整体呈折叠悬臂轮廓"
+      light_opening: "锥形遮罩开口朝下，定向直射式出光，开口约45°锥角"
+      thermal: "铝合金臂杆天然散热，无独立散热结构"
+      cmf:
+        color: "全白（RAL 9016）"
+        material: "铝合金臂杆，钢制铰接节点"
+        finish: "粉末涂层哑光"
+      mounting: "桌面夹式底座（clamp mount），可快速安装在桌板边缘"
+      signature_detail: "三段可调关节铰接机构，铰接节点处可见齿纹锁紧细节；灯头与臂杆连接处有球形转节"
+    design_level:
+      score: 4
+      reason: "NJP系列为Louis Poulsen与Nendo合作经典款，铰接结构精密美观，全白哑光克制而精致，桌面夹安装解法功能外显、逻辑清晰；同类中少见的工程美学与北欧克制感融合"
+    design_tags: ["关节臂", "可调角度", "铰接机构", "桌面夹", "工业风", "定向照明", "H11功能外显", "H07极简整合"]
+    hero_feature: "三段铰接关节臂——每个节点可独立调角，且铰接美学外显为视觉亮点"
+    problem_solved: "桌面夹安装无需打孔，多关节调节覆盖大范围使用角度，既满足工位照明灵活性又保持视觉简洁"
+    transferable_technique: "铰接关节节点美学外显手法：功能件本身即装饰，避免遮盖；可迁移至需要多轴调节的产品（摄影灯、医疗设备支架、工业臂）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_台灯_002"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/创意台灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "锥形黑色遮罩+黄铜细杆+圆形白色底座，置于实木书桌，北欧室内场景"
+    product_name: "Yuh Table Lamp"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯"]
+    design_language:
+      silhouette: "细直杆支撑锥形灯头，底部平圆底座，整体纤细直立轮廓；灯头锥角约60°，轮廓简洁"
+      light_opening: "锥形遮罩大开口朝下，漫反射+直射混合出光"
+      thermal: "细杆结构，灯头内腔有限，依赖LED低热量被动散热"
+      cmf:
+        color: "灯头黑色+杆体黄铜色，底座白色"
+        material: "金属灯罩，黄铜杆，金属底座"
+        finish: "灯头亚光黑喷涂，杆体拉丝黄铜，底座亚光白"
+      mounting: "落地底座（table base），稳定圆形压重底座"
+      signature_detail: "黄铜细杆与黑色锥形灯头的材质色彩对比；底座与灯头比例极度克制，灯杆纤细如线"
+    design_level:
+      score: 3
+      reason: "经典北欧台灯语言，锥形罩+细杆+圆底座的组合成熟稳定；黄铜+黑的配色有温度感，但创新度有限，属品牌内典型安全款"
+    design_tags: ["锥形遮罩", "黄铜杆", "北欧极简", "书桌照明", "细线感", "H07极简整合", "H10材料表达"]
+    hero_feature: "黄铜纤细杆体与黑锥形罩的比例克制——极细的线性杆使灯头悬浮感强，视觉重量集中在黑色锥罩"
+    problem_solved: "书桌环境台灯兼顾氛围感与功能照明，克制体量不抢视觉中心，黄铜材质提升空间温度"
+    transferable_technique: "细杆悬浮灯头手法：杆径极细化使产品视觉重量集中在功能端；黄铜+黑哑光的冷暖材质对比公式可迁移至其他桌面小件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "扩展坞·集线器"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/扩展坞·集线器/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_hub_001"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/扩展坞·集线器/21.jpg"
+        image_role: "hero"
+        visual_anchor: "模块化集线器主体+5个可替换功能模块展开陈列"
+    product_name: "Modular USB-C Hub"
+    brand_name: "j5create"
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "扩展坞·集线器"]
+    design_language:
+      silhouette: "主体细长条形，模块为正方形小块；整体呈L形散开陈列"
+      light_opening: "无主动发光；接口开孔暴露功能"
+      thermal: "无散热结构，被动散热"
+      cmf:
+        color: "主体深灰色，模块上盖白色+底座银灰色"
+        material: "铝合金主体，ABS模块外壳"
+        finish: "主体磨砂金属，模块亚光塑料"
+      mounting: "USB-C直插笔记本侧面，模块插入主体底部"
+      signature_detail: "模块采用统一接口热插拔，每个模块对应一种视频/数据接口（HDMI/VGA/miniDP/SD/RJ45）"
+    design_level:
+      score: 4
+      reason: "模块化概念有效解决多接口需求且造型语言统一；主次关系清晰，模块小方块与主体长条形成视觉对话；但整体陈列略显堆砌"
+    design_tags: ["模块化", "热插拔", "H05模块化", "H11功能外显", "铝合金", "USB-C", "多接口"]
+    hero_feature: "可按需插拔的独立功能模块，每个模块对应一种专属接口"
+    problem_solved: "解决USB-C笔记本接口单一问题，用模块化替代固定多口设计，只携带需要的接口"
+    transferable_technique: "小方块模块+统一底座接口的模块化拓展语言，可迁移至桌面配件、工具系统"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_hub_002"
+    source_images:
+      - filename: "32.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/扩展坞·集线器/32.jpg"
+        image_role: "hero"
+        visual_anchor: "白色竖立条形USB dongle，正反两面展示，底部折叠USB插头"
+    product_name: "MiWiFi Amplifier"
+    brand_name: "Xiaomi"
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "扩展坞·集线器"]
+    design_language:
+      silhouette: "竖立细长矩形板，圆角，比例约1:4"
+      light_opening: "正面单点LED指示灯"
+      thermal: "无散热结构"
+      cmf:
+        color: "全白"
+        material: "ABS塑料"
+        finish: "亚光白"
+      mounting: "底部折叠USB-A插头直接插墙插/USB口"
+      signature_detail: "底部折叠式USB插头可旋转收纳，减少插拔磨损"
+    design_level:
+      score: 2
+      reason: "极简白色造型整洁但缺乏设计亮点；功能形态高度通用化，与普通U盘造型差异不大；属于品类通识设计"
+    design_tags: ["极简", "全白", "折叠插头", "H07极简整合", "USB-A", "WiFi信号放大"]
+    hero_feature: "折叠式USB插头，插入USB口即可放大WiFi信号"
+    problem_solved: "家庭WiFi弱信号区覆盖，通过USB供电的WiFi信号放大器解决"
+    transferable_technique: "折叠插头收纳方式简洁可靠，可迁移至旅行充电器、数据采集棒等需要插头收纳的场景"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "该产品为WiFi信号放大器而非典型扩展坞/集线器，品类归属需确认"

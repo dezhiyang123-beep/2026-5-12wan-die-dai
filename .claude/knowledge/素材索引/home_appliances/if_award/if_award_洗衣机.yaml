@@ -1,0 +1,536 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "洗衣机"
+  tertiary: ""
+source:
+  source_type: "award_collection"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_washer_001"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/07.jpg"
+        image_role: "hero"
+        visual_anchor: "侧角45度，白色机身+黑色控制面板+大尺寸LCD显示屏"
+    product_name: "Siemens iQ700 洗衣机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "前开门滚筒，矩形机身，顶部控制面板略向前倾，右侧竖向散热栏栅"
+      light_opening: "无"
+      thermal: "右侧竖向散热栏栅"
+      cmf:
+        color: "白色机身 + 黑色控制面板 + 深蓝/黑色门圈"
+        material: "ABS喷漆机身，钢化玻璃门，铬色门框"
+        finish: "哑光白 + 高光黑控制面板"
+      mounting: "落地式"
+      signature_detail: "超大LCD显示屏（控制面板右侧），可读性强；竖向栅格侧板增加视觉层次"
+    design_level:
+      score: 3
+      reason: "经典欧式前开门布局，LCD屏信息密度高，整体工整但无突破性造型亮点"
+    design_tags: ["前开门", "欧式经典", "大尺寸显示屏", "黑白配色", "竖向散热栅"]
+    hero_feature: "超大LCD信息屏，程序参数一目了然"
+    problem_solved: "复杂洗涤程序的可读性与操作确定感"
+    transferable_technique: "控制面板集成宽幅LCD显示区，将信息密度转化为专业感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_002"
+    source_images:
+      - filename: "102.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/102.jpg"
+        image_role: "hero"
+        visual_anchor: "正面，洗衣机+烘干机组合，白色机身，黑色超大圆形门"
+      - filename: "103.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/103.jpg"
+        image_role: "angle"
+        visual_anchor: "侧角45度，展示侧面同心圆浮雕装饰"
+    product_name: "Siemens iQ700 洗烘套装"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "前开门滚筒，超大黑色圆形门占据机身约70%宽度，方形机身，黑色顶部面板"
+      light_opening: "无"
+      thermal: "侧板同心圆浮雕"
+      cmf:
+        color: "纯白机身 + 全黑门圈+玻璃 + 黑色顶部控制面板"
+        material: "ABS机身，钢化玻璃门，黑色哑光门圈"
+        finish: "哑光白机身 + 哑光黑门圈"
+      mounting: "落地式，可并排组合"
+      signature_detail: "超大黑色圆形门（门径接近机身宽度），侧板同心圆浮雕装饰，黑白强对比"
+    design_level:
+      score: 4
+      reason: "黑色大圆门极具视觉冲击力，黑白对比克制而有力，侧面同心圆细节精致，套装视觉语言高度统一"
+    design_tags: ["前开门", "黑白强对比", "超大圆形门", "同心圆浮雕", "套装配对", "极简高端"]
+    hero_feature: "超大黑色圆形玻璃门，几乎填满机身正面，门即产品"
+    problem_solved: "高端洗衣机缺乏视觉辨识度，与中低端产品难以区分"
+    transferable_technique: "用单一超大圆形元素主导正面构图，黑白强对比制造高端感；侧面同心圆浮雕将功能散热口转化为设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_003"
+    source_images:
+      - filename: "109.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/109.jpg"
+        image_role: "hero"
+        visual_anchor: "正面，深灰蓝色机身，银色门圈，圆形机门"
+      - filename: "110.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/110.jpg"
+        image_role: "angle"
+        visual_anchor: "侧角45度，同心圆浮雕侧板清晰可见"
+    product_name: "Siemens iSensoric WD1500 洗烘一体机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "前开门滚筒，矩形机身，深色全面色处理，侧板同心圆浮雕，黑色顶部控制面板"
+      light_opening: "无"
+      thermal: "侧板同心圆浮雕"
+      cmf:
+        color: "深灰蓝（slate blue）机身 + 铬银色门圈 + 黑色顶部面板"
+        material: "ABS喷漆机身，不锈钢质感门圈，钢化玻璃门"
+        finish: "哑光深灰蓝 + 拉丝银门圈"
+      mounting: "落地式"
+      signature_detail: "wash & dry 白字印在门圈弧线上，右下角圆形装饰盖；整机深色调在品类中辨识度高"
+    design_level:
+      score: 4
+      reason: "深灰蓝色在白色为主的洗衣机品类中高度差异化，银色门圈与深色机身形成精准对比，门圈文字细节有品质感"
+    design_tags: ["前开门", "深灰蓝", "非白色机身", "银色门圈", "洗烘一体", "同心圆浮雕", "色彩差异化"]
+    hero_feature: "深灰蓝整机色调配银色门圈，在白色主导的品类中制造强烈差异感"
+    problem_solved: "洗衣机同质化严重，用户在浴室/洗衣房难以形成品牌记忆"
+    transferable_technique: "非白色整机色彩策略（深色系）+ 金属色门圈对比；色彩即品牌记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_004"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/30.jpg"
+        image_role: "hero"
+        visual_anchor: "正面，深灰色顶开式洗衣机，顶部弧形彩色触控显示屏"
+    product_name: "Haier 顶开式智能洗衣机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "顶开式，高柱形机身（接近正方柱），极简正面无任何按键，仅顶部有控制单元"
+      light_opening: "无"
+      thermal: "无可见散热口"
+      cmf:
+        color: "深钛灰机身 + 顶部黑色面板 + 彩色触控显示屏"
+        material: "ABS机身，钢化玻璃顶盖，触摸屏控制"
+        finish: "拉丝质感深灰 + 触控黑面板"
+      mounting: "落地式"
+      signature_detail: "弧形彩色图标触控屏置于顶部中央，机身正面完全无任何元素，极度洁净"
+    design_level:
+      score: 4
+      reason: "顶开式极简正面设计极为罕见，彩色触控屏与深灰机身形成现代感，整机轮廓纯净，在品类中辨识度极高"
+    design_tags: ["顶开式", "极简正面", "深灰色", "彩色触控屏", "柱形机身", "无实体按键"]
+    hero_feature: "完全无任何前面板元素，全部操控集中于顶部弧形触控屏"
+    problem_solved: "传统顶开式外观陈旧，前面板按键繁杂；此设计将洗衣机变为家居雕塑件"
+    transferable_technique: "将所有操控上移至顶面，前面板归零处理，制造雕塑感轮廓"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_005"
+    source_images:
+      - filename: "33.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/33.jpg"
+        image_role: "hero"
+        visual_anchor: "壁挂安装，白色正方形机身，超大黑色圆形门，单电源按钮"
+    product_name: "Midea 壁挂式滚筒洗衣机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "壁挂式前开门，近正方形机身，圆形大门占据正面绝大部分，极简控制"
+      light_opening: "无"
+      thermal: "无可见散热口"
+      cmf:
+        color: "纯白机身 + 黑色钢化玻璃圆门 + 银色铬门圈"
+        material: "ABS机身，钢化玻璃门"
+        finish: "哑光白 + 高光黑玻璃"
+      mounting: "壁挂式"
+      signature_detail: "仅一个圆形电源按钮置于正面右下角；圆形门径与机身比例接近1:1，极度减法"
+    design_level:
+      score: 5
+      reason: "壁挂设计节省地面空间，正面设计极度克制（仅1个按键），圆形门与方形机身比例精准，黑白对比干净，是品类内极少数真正的减法设计成功案例"
+    design_tags: ["壁挂式", "极简减法", "超大圆形门", "单按键", "黑白对比", "节省空间", "雕塑感"]
+    hero_feature: "壁挂 + 仅一个物理按钮，机身如挂画，重新定义洗衣机与空间的关系"
+    problem_solved: "小户型空间不足，传统洗衣机占地大且视觉噪音多"
+    transferable_technique: "壁挂安装形态 + 极度减法控制界面（单按钮）；圆形门作为唯一视觉焦点，方圆组合比例控制"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_006"
+    source_images:
+      - filename: "36.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/36.jpg"
+        image_role: "detail"
+        visual_anchor: "控制面板特写，Casarte品牌，居中嵌入式宽屏显示多洗涤程序卡片"
+    product_name: "Casarte 洗衣机（布料识别屏控制面板）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "前开门，白色机身，控制面板为居中嵌入式宽幅触控屏，面板区域完全平整"
+      light_opening: "无"
+      thermal: "未可见"
+      cmf:
+        color: "白色机身 + 黑色嵌入式触控屏 + 铬银色门圈"
+        material: "ABS机身，触控玻璃显示屏"
+        finish: "哑光白机身 + 高光黑触控屏"
+      mounting: "落地式"
+      signature_detail: "触控屏以布料材质图片为卡片背景（合成纤维/羽绒/羊毛），程序可视化直觉化，UI即设计亮点"
+    design_level:
+      score: 4
+      reason: "用布料实物图片作为洗涤程序图标，将抽象功能转化为直觉感知，控制面板本身即设计亮点；信息架构清晰"
+    design_tags: ["触控屏UI", "布料可视化", "卡片式程序选择", "宽幅显示屏", "直觉交互", "高端定位"]
+    hero_feature: "以布料材质实物图片作为洗涤程序卡片，用户凭视觉直觉选程序"
+    problem_solved: "洗涤程序名称抽象，用户不知该选哪个程序；凭布料图片秒懂"
+    transferable_technique: "将抽象功能选项替换为直觉性视觉图像（实物照片卡片）；UI设计语言可迁移至其他需要程序选择的家电"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_007"
+    source_images:
+      - filename: "47.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/47.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "生活场景，两台Haier洗烘机叠放嵌入木质收纳柜旁，暖色调家居环境"
+      - filename: "48.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/48.jpg"
+        image_role: "hero"
+        visual_anchor: "正面，Haier洗衣机，白色机身，顶部灰黑面板，三叶草形内滚筒"
+    product_name: "Haier 叠放洗烘套装"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "前开门滚筒，矩形机身，顶部黑色控制面板，门圈银灰色，底部无踢脚"
+      light_opening: "无"
+      thermal: "未可见"
+      cmf:
+        color: "白色机身 + 深灰/黑控制面板 + 深色门圈"
+        material: "ABS机身，不锈钢内筒，钢化玻璃门"
+        finish: "哑光白机身 + 哑光黑控制面板"
+      mounting: "落地式，可叠放"
+      signature_detail: "内滚筒三叶草/三翼形设计可透过玻璃门看到；套装叠放无需附件，接缝处理整洁"
+    design_level:
+      score: 3
+      reason: "标准欧式前开门设计，整体工整；三翼内滚筒细节有识别度；套装叠放设计实用，整体无明显突破"
+    design_tags: ["前开门", "叠放套装", "三翼内滚筒", "白色主调", "家居融合", "嵌入式安装"]
+    hero_feature: "套装无缝叠放，视觉上如一体机，节省空间同时保持整洁"
+    problem_solved: "洗烘套装各自独立外观不统一，叠放后视觉凌乱"
+    transferable_technique: "套装叠放时接缝线精准对齐，作为一体产品设计；生活场景图嵌入木质柜体的场景化展示手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_008"
+    source_images:
+      - filename: "53.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/53.jpg"
+        image_role: "hero"
+        visual_anchor: "侧角45度，白色前开门烘干机，门圈发蓝色LED光环，深色背景"
+    product_name: "Siemens avantgarde 烘干机（蓝光门环版）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "前开门滚筒，矩形机身，侧板同心圆浮雕，黑色顶部控制面板，底部凸出散热单元"
+      light_opening: "蓝色LED灯环（门圈内侧）"
+      thermal: "底部独立散热单元，右下角网格散热口"
+      cmf:
+        color: "白色机身 + 黑色门圈 + 蓝色LED灯环 + 黑色控制面板"
+        material: "ABS机身，钢化玻璃门，铬色门框"
+        finish: "高光白机身 + 哑光黑门圈"
+      mounting: "落地式"
+      signature_detail: "蓝色LED环绕门圈一圈，运行时发光，将状态反馈转化为视觉仪式感；同心圆浮雕侧板"
+    design_level:
+      score: 5
+      reason: "蓝色LED门环是品类内罕见的情感化设计，将运行状态变成可视化光效仪式；黑白机身克制，蓝光点睛。侧面同心圆浮雕精细，整体设计语言高度统一"
+    design_tags: ["LED门环", "蓝光状态反馈", "情感化设计", "同心圆浮雕", "白色高端", "烘干机", "光效仪式感"]
+    hero_feature: "蓝色LED环绕门圈，机器运行中如蓝色光晕，将家电运作变成空间氛围"
+    problem_solved: "家电运行状态反馈单调（仅指示灯），缺乏情感连接"
+    transferable_technique: "门圈内嵌LED环光，用光效传达运行状态；光效色彩与品牌色绑定（蓝色=科技/洁净）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_009"
+    source_images:
+      - filename: "62.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/62.jpg"
+        image_role: "detail"
+        visual_anchor: "控制面板+门圈特写，Vestel IntelliCare，银灰色，彩虹渐变光弧"
+      - filename: "74.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/74.jpg"
+        image_role: "hero"
+        visual_anchor: "侧角45度整机，Vestel IntelliCare，银灰色，竖向金属散热栅"
+    product_name: "Vestel IntelliCare 洗衣机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "前开门滚筒，矩形机身，侧板竖向金属散热栅条，顶部控制模块可拆卸感，方正边角"
+      light_opening: "彩虹渐变LED弧（门圈与控制面板之间的分件线处）"
+      thermal: "侧板竖向金属散热栅条"
+      cmf:
+        color: "银灰色机身 + 深灰门圈 + 彩虹渐变光弧 + 黑色触控屏"
+        material: "金属质感ABS机身，拉丝铝感侧板，钢化玻璃门"
+        finish: "拉丝银灰 + 哑光深灰门圈"
+      mounting: "落地式"
+      signature_detail: "门圈顶部彩虹渐变光弧（紫→蓝→粉），配合触控屏显示'analysing'，AI感知功能可视化"
+    design_level:
+      score: 4
+      reason: "彩虹光弧将AI衣物分析功能直观外显，银灰金属感机身区别于白色主流，竖向散热栅增加工业精致感；整体科技感与设计语言一致"
+    design_tags: ["彩虹LED光弧", "AI功能外显", "银灰金属感", "触控屏", "竖向散热栅", "科技感", "IntelliCare"]
+    hero_feature: "彩虹渐变光弧横跨门圈顶部，AI分析衣物时光弧亮起，功能即视觉语言"
+    problem_solved: "智能洗涤功能不可见，用户无法感知AI在发挥作用"
+    transferable_technique: "用彩色光弧将不可见的智能算法过程视觉化；光弧位置选在门圈与面板交界处，结构即光效载体"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_010"
+    source_images:
+      - filename: "67.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/67.jpg"
+        image_role: "hero"
+        visual_anchor: "正面，Beko洗烘套装，深灰色，圆形门，黑白照片风格"
+    product_name: "Beko 洗烘套装（深灰色）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "前开门滚筒，矩形机身，圆形门占比适中，顶部通长控制面板，底部右侧网格散热口"
+      light_opening: "无"
+      thermal: "底部右侧网格散热口"
+      cmf:
+        color: "深灰色（近炭黑）机身 + 银色门圈 + 深灰控制面板"
+        material: "ABS机身，钢化玻璃门，铬色门圈"
+        finish: "哑光深灰整机"
+      mounting: "落地式，可并排"
+      signature_detail: "整机深灰哑光统一色调，控制面板字符信息在深色背景上以白色/银色呈现，低调高级感"
+    design_level:
+      score: 3
+      reason: "深灰色在品类内有差异化，套装配色统一，但整体造型无突出亮点，属于工整的品类内竞争方案"
+    design_tags: ["前开门", "深灰色", "哑光配色", "套装配对", "低调高级"]
+    hero_feature: "全机深灰哑光统一处理，在白色品类中形成稳重高级的差异化定位"
+    problem_solved: "洗衣机白色泛滥，深色系满足追求低调质感用户"
+    transferable_technique: "整机单色哑光策略（深灰），控制面板与机身同色系，降低视觉噪音"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_011"
+    source_images:
+      - filename: "72.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/72.jpg"
+        image_role: "hero"
+        visual_anchor: "侧角45度，Siemens avantgarde 烘干机，白色，无LED门环版"
+      - filename: "73.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/73.jpg"
+        image_role: "angle"
+        visual_anchor: "侧角，整机配底座抽屉，展示完整使用高度方案"
+    product_name: "Siemens avantgarde 烘干机（白色标准版+底座抽屉）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "前开门滚筒，矩形机身，侧板同心圆浮雕，底部可加装独立底座抽屉（同款白色）"
+      light_opening: "无（此款无LED环）"
+      thermal: "底部右侧网格散热口"
+      cmf:
+        color: "白色机身 + 黑色门圈 + 黑色控制面板 + 白色底座抽屉"
+        material: "ABS机身，钢化玻璃门"
+        finish: "高光白机身 + 哑光黑门圈"
+      mounting: "落地式，可配专属底座抽屉"
+      signature_detail: "底座抽屉与主机同款色系，形成视觉一体；侧板同心圆浮雕延伸至底座，语言统一"
+    design_level:
+      score: 3
+      reason: "标准前开门形态，同心圆侧板是系列识别点，底座抽屉配件设计整合度高，整体属于家族系列延伸"
+    design_tags: ["前开门", "白色高端", "同心圆浮雕", "底座抽屉", "系列延伸", "烘干机"]
+    hero_feature: "底座抽屉与主机一体化设计，增加储物高度同时保持完整造型"
+    problem_solved: "烘干机离地过低，弯腰取衣不便；底座同时解决储物和人机问题"
+    transferable_technique: "底座/基座配件与主机同色同语言，配件即产品延伸；侧面浮雕装饰统一贯穿主机和底座"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_012"
+    source_images:
+      - filename: "75.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/75.jpg"
+        image_role: "hero"
+        visual_anchor: "侧角45度，Casarte双滚筒一体机，白色高柱形，上下两个透明圆形门"
+      - filename: "76.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/76.jpg"
+        image_role: "front"
+        visual_anchor: "正面，双圆门竖向排列，右上角触控屏，极简白色"
+    product_name: "Casarte 双滚筒一体洗烘机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "高柱形机身（约2:1高宽比），上下两个等径圆形透明门竖向排列，右上角嵌入触控屏，无多余元素"
+      light_opening: "无"
+      thermal: "无可见散热口"
+      cmf:
+        color: "纯白机身 + 银色圆形门圈 + 高透明玻璃门"
+        material: "ABS机身，高透钢化玻璃门，铬银门圈"
+        finish: "哑光白机身 + 镜面铬银门圈"
+      mounting: "落地式"
+      signature_detail: "上洗下烘（或反之）两腔共机，双圆门竖向等距排列如音符，整机比例颠覆品类常规"
+    design_level:
+      score: 5
+      reason: "双滚筒竖排是品类颠覆性形态创新，高柱形轮廓在品类内极为罕见，双圆门比例精准美观，触控屏克制内嵌，整体像一件现代雕塑"
+    design_tags: ["双滚筒", "竖向排列", "高柱形", "一体洗烘", "极简白", "形态颠覆", "雕塑感", "透明玻璃门"]
+    hero_feature: "双圆门竖向排列于高柱形机身，上洗下烘一体，同时两腔独立运行"
+    problem_solved: "洗烘叠放需两台独立机器，占空间且外观不统一；此机一体解决且形态独特"
+    transferable_technique: "双腔竖排形态，将功能分区垂直化；高柱比例颠覆品类水平宽机身惯例，形成强辨识轮廓"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_013"
+    source_images:
+      - filename: "88.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/88.jpg"
+        image_role: "hero"
+        visual_anchor: "侧角45度，Bosch Serie 6，白色，大圆形门，顶部独立旋钮+LCD"
+    product_name: "Bosch Serie 6 前开门洗衣机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "前开门滚筒，矩形机身，大圆形门径约占机身宽度65%，顶部左侧洗涤剂盒+旋钮+LCD屏"
+      light_opening: "无"
+      thermal: "侧板同心圆浮雕"
+      cmf:
+        color: "白色机身 + 深灰/银色门圈 + 白色旋钮"
+        material: "ABS机身，钢化玻璃门，铬色门圈"
+        finish: "高光白机身"
+      mounting: "落地式"
+      signature_detail: "旋钮置于控制面板中央偏左，物理旋钮在触控盛行时保留实体操控手感；门圈内嵌式把手"
+    design_level:
+      score: 3
+      reason: "经典Bosch欧式设计，白色高光机身质感扎实，保留物理旋钮增加操控确定感，但造型上属于品类标准解，无突破"
+    design_tags: ["前开门", "物理旋钮", "白色高光", "欧式经典", "大圆形门", "LCD显示"]
+    hero_feature: "保留物理旋钮，在触控化趋势中提供有手感的操控反馈"
+    problem_solved: "全触控界面误触率高，物理旋钮提供精准、有确认感的操控"
+    transferable_technique: "物理旋钮作为主操控件，配合LCD副屏；实体+数字混合界面降低学习成本"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_washer_014"
+    source_images:
+      - filename: "98.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/98.jpg"
+        image_role: "hero"
+        visual_anchor: "两台Winix小型洗衣机并排，米色+墨绿色，大圆形黑色门，极简顶部控制条"
+      - filename: "99.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/洗衣机/99.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "生活场景，米色款被人抱起，展示小体量与便携感"
+    product_name: "Winix 小型便携滚筒洗衣机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "洗衣机"]
+    design_language:
+      silhouette: "近正方形小体量机身，超大圆形黑色玻璃门（门径约占正面85%），顶部极窄控制条，底部细矮脚"
+      light_opening: "无"
+      thermal: "无可见散热口"
+      cmf:
+        color: "米白色/墨绿色机身（多色可选） + 全黑圆形玻璃门 + 黑色控制条"
+        material: "ABS机身（多色），钢化玻璃门"
+        finish: "哑光纯色机身（家居友好色调）"
+      mounting: "落地式，小体量可移动"
+    design_language:
+      silhouette: "近正方形小体量机身，超大圆形黑色玻璃门，顶部极窄触控控制条"
+      light_opening: "无"
+      thermal: "无可见散热口"
+      cmf:
+        color: "米白色/墨绿色（多色可选） + 全黑圆门 + 黑色控制条"
+        material: "ABS机身，钢化玻璃圆门"
+        finish: "哑光纯色机身"
+      mounting: "落地式小体量"
+      signature_detail: "机身色彩为家居友好色（非工业白），超大圆门与小机身比例强烈，整机可被一人单臂抱起移动"
+    design_level:
+      score: 5
+      reason: "家居色彩体系（非工业白）+超小体量+超大圆门比例，三点同时做到极致；多色配色策略让洗衣机成为家居软装；小到可以被抱走，颠覆品类使用场景"
+    design_tags: ["小型便携", "家居色彩", "超大圆门", "多色可选", "场景颠覆", "极简控制", "墨绿/米白"]
+    hero_feature: "小体量可移动 + 家居友好配色（墨绿/米白），洗衣机变成家居装饰品"
+    problem_solved: "传统洗衣机体积大、工业白外观与家居风格冲突，无法放进生活空间"
+    transferable_technique: "家居色彩策略（非家电白/黑）应用于家电；小体量与超大门比例的反差设计；多色版本SKU策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

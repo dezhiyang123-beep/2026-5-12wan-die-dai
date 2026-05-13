@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "创意吊灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意吊灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "pl_吊灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意吊灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑色铝合金超长线性灯体，底部发出品红色Hue彩光，双钢缆吊挂"
+    product_name: "Philips Hue Ensis 线性吊灯（黑色款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯"]
+    design_language:
+      silhouette: "极细长条矩形截面，长宽比约20:1，水平悬挂，轮廓极简"
+      light_opening: "底面全长线槽出光，RGB彩光可调色，视觉重量集中于光缝"
+      thermal: "铝合金型材自然散热，无外露散热鳍片"
+      cmf:
+        color: "哑黑色（Matte Black）"
+        material: "铝合金型材主体，钢缆悬挂"
+        finish: "粉末涂层哑面"
+      mounting: "天花双钢缆吊挂，含双孔天花座"
+      signature_detail: "底部通长彩光光缝，无遮罩直接出光，色彩过渡清晰"
+    design_level:
+      score: 4
+      reason: "形态极度克制，线性比例和Hue彩光光缝形成强烈对比，品牌识别度高；黑色款视觉张力更强"
+    design_tags: ["线性", "极简", "智能彩光", "Hue", "H07极简整合", "H08对比强调"]
+    hero_feature: "通体哑黑中一道可变色光缝——形态克制，彩光抢眼"
+    problem_solved: "餐桌/岛台上方需要兼具氛围调节与功能照明的吊灯，传统碗形灯罩造型过时"
+    transferable_technique: "线性灯体底部单边窄缝出光 + 哑色外壳隐藏发光结构，可迁移至台灯、壁灯侧面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吊灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意吊灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "全白色版本同款线性吊灯，底部同为品红Hue彩光缝"
+    product_name: "Philips Hue Ensis 线性吊灯（白色款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意吊灯"]
+    design_language:
+      silhouette: "与001完全相同的线性矩形截面，全白色使灯体与出光融为一体感更柔和"
+      light_opening: "底面全长线槽出光，白色灯体时彩光缝与外壳对比度较黑色款低"
+      thermal: "铝合金型材自然散热"
+      cmf:
+        color: "哑白色（Matte White）"
+        material: "铝合金型材主体，钢缆悬挂"
+        finish: "粉末涂层哑面"
+      mounting: "天花双钢缆吊挂，含双孔天花座"
+      signature_detail: "白色灯体使整体感更轻盈，彩光缝在白色背景下颜色更纯净"
+    design_level:
+      score: 3
+      reason: "与黑色款形态相同，白色版本视觉张力略弱，适配北欧风/简约白色空间，实用性更广但设计突破感稍低"
+    design_tags: ["线性", "极简", "智能彩光", "Hue", "H07极简整合", "北欧风"]
+    hero_feature: "全白线性灯体+底部彩光缝，轻盈感强，适合浅色室内"
+    problem_solved: "白色调室内需要融合度高的线性吊灯，同时保留Hue智能彩光功能"
+    transferable_technique: "同色系灯体+彩光缝的低对比搭配策略，适用于需要视觉低调但功能智能的场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

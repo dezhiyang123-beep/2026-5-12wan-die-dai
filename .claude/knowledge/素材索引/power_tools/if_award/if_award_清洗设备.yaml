@@ -1,0 +1,87 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "清洗设备"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/清洗设备/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_award_清洗设备_001"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/清洗设备/28.jpg"
+        image_role: "hero"
+        visual_anchor: "Kärcher自主清洗机器人在室内暗光环境使用场景：圆形扁平机身，深灰+黑双色配色，顶部边缘一圈亮黄色LED光环（状态指示灯），中央有小型激光雷达传感器及LCD状态屏。右侧可见黄色功能按键。左前方伸出黑色边刷。黄色光环投射到墙面，营造科技感氛围。地面为浅色瓷砖，背景为绿色沙发角落。"
+      - filename: "29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/清洗设备/29.jpg"
+        image_role: "context"
+        visual_anchor: "同款Kärcher机器人俯视场景：在地毯边缘与玻璃幕墙间行走，顶部蓝色LED光环清晰，激光雷达传感器和LCD屏可见，右侧地面上投射出蓝色圆形光圈（LiDAR扫描可视化）。背景为大型现代办公/商业建筑玻璃中庭，展现商用清洁场景。"
+    product_name: "iF Award获奖产品 — Kärcher 自主导航清洗机器人"
+    brand_name: "Kärcher"
+    brand_confidence: "high"
+    category_path: ["电动工具", "清洗设备", "机器人清洗机"]
+    design_language:
+      silhouette: "圆形扁平盘状机身，标准扫地机器人轮廓。体积大于家用机型，侧面有明显分件线区分上盖与底盘"
+      light_opening: "顶部一圈完整LED光环（照片28为亮黄色，照片29为蓝色，推测可切换颜色表示工作状态）；中央LCD状态屏"
+      thermal: "侧面底部可见黑色格栅散热孔"
+      cmf:
+        color: "深灰色主体 + 黑色底盘 + 黄色功能点缀（按键+光环）；商用配色偏专业低调"
+        material: "工程塑料壳体，顶部盖板哑光深灰"
+        finish: "哑光为主，LED光环透明导光条"
+      mounting: "自主充电，内置电池，无线自主行驶"
+      signature_detail: "顶部连续LED光环：兼作状态指示灯（颜色区分工作/告警/充电状态）和视觉身份标识，使机器人在商用大空间中远距离可识别"
+    design_level:
+      score: 4
+      reason: "iF获奖设计，LED光环状态可视化是创新设计语言，激光雷达外露为功能外显设计，整体商用定位清晰，Kärcher黄色延伸到产品配色体系"
+    design_tags: ["iF_Award获奖", "清洗机器人", "Kärcher", "LED光环", "激光雷达", "商用清洁", "状态可视化", "H11功能外显"]
+    hero_feature: "顶部连续LED光环：颜色可变，兼作工作状态指示+品牌识别标志，是区别于普通扫地机的核心视觉记忆点"
+    problem_solved: "商用大面积地面自主清洁，配合LiDAR导航规避障碍，LED光环让操作员远距离判断机器状态"
+    transferable_technique: "状态可视化设计（LED光环颜色编码）；品牌色延伸至产品细节（Kärcher黄）；功能外露增强专业感（LiDAR传感器不隐藏）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: "机身清晰印有Kärcher品牌标志，两张图为同一产品不同场景"
+
+  - product_id: "if_award_清洗设备_002"
+    source_images:
+      - filename: "49.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/清洗设备/49.jpg"
+        image_role: "hero"
+        visual_anchor: "Nilfisk MH 3M热水高压清洗机正面3/4视角：鲜蓝色大型外壳包覆机身，黑色底盘+4个大型橡胶轮（前轮小后轮大），蓝色轮毂带品牌纹样。顶部红色矩形提手/门盖。右侧枪架固定清洗枪，红色工业三相电源插头，高压水管卷盘集成在右侧。机身左侧大字'Nilfisk MH 3M'白色品牌标识。整体体量大，工业级印象强烈。"
+      - filename: "50.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/if_award/清洗设备/50.jpg"
+        image_role: "detail"
+        visual_anchor: "同款Nilfisk MH 3M背面/后3/4视角：顶盖打开状态，可见内部操作面板（3个蓝色旋钮+仪表盘+控制屏）；背面收纳腔内有高压水管缠绕、进水接口（黄铜接头）；右侧挂有红色加热液补充瓶；白色化学药剂桶固定在底部前方。细节丰富，功能密度高。"
+    product_name: "iF Award获奖产品 — Nilfisk MH 3M 热水高压清洗机"
+    brand_name: "Nilfisk"
+    brand_confidence: "high"
+    category_path: ["电动工具", "清洗设备", "高压清洗机"]
+    design_language:
+      silhouette: "大型四轮推车形态，整体为梯形/A形截面（正视看），顶宽底宽中间略收，重心低稳定性好。蓝色大型外壳形成强烈视觉整体感"
+      light_opening: "不适用（清洗设备无照明功能）"
+      thermal: "右侧底盘可见大面积圆形散热格栅（黑色），热水加热需要强散热"
+      cmf:
+        color: "鲜蓝色（Nilfisk品牌蓝）主色 + 黑色底盘 + 红色点缀（提手/电源线/药剂瓶）+ 蓝色轮毂"
+        material: "工程塑料外壳，橡胶轮胎，金属框架底盘"
+        finish: "外壳高光蓝色，底盘哑黑，轮毂哑蓝"
+      mounting: "有线（三相工业电源，红色CEE插头），大型内置水箱+化学药剂桶"
+      signature_detail: "顶盖双功能设计：关闭时是提手（红色矩形框），打开后露出操作控制面板（旋钮+仪表）；后背收纳腔集成水管、药剂、工具，零散件全内化"
+    design_level:
+      score: 4
+      reason: "iF获奖设计，大型工业清洗机外壳整合度高，蓝色家族色一致，顶盖兼提手+控制面板盖的双功能设计聪明，所有附件内藏化体现专业收纳设计"
+    design_tags: ["iF_Award获奖", "高压清洗机", "Nilfisk", "热水清洗", "工业级", "收纳整合", "H09隐藏工程", "H07极简整合", "顶盖双功能"]
+    hero_feature: "顶盖兼提手+控制面板防护盖：单一结构件同时解决搬运手柄、控制面板防护和操作入口三个需求"
+    problem_solved: "工业现场热水高压清洗，附件多（水管/枪/药剂/电源线）易散乱；内藏式收纳设计解决现场整洁和运输安全问题"
+    transferable_technique: "多功能部件设计（顶盖=提手+面板盖）；附件内藏化而非外挂（H09隐藏工程）；品牌色系统化（蓝色从外壳延伸到轮毂细节）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: "机身印有'Nilfisk MH 3M'品牌型号，两张图确认为同一产品正背面视角"

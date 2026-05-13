@@ -1,0 +1,550 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内吊灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/"
+  generated_at: "2026-05-09"
+products:
+  - product_id: "bega_室内吊灯_b2_001"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "白色哑光细长圆筒体，腰部两侧对称小横销，底部开口朝下"
+      - filename: "46.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/46.jpg"
+        image_role: "context"
+        visual_anchor: "多只白色圆筒吊灯在大厅空间成组悬挂，展示空间尺度感"
+    product_name: "白色细长圆筒吊灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "圆筒形"]
+    design_language:
+      silhouette: "细长圆柱体，高径比约4:1，顶部圆润收口，整体轮廓笔直"
+      light_opening: "底部圆形开口朝下，直射/漫射向下配光"
+      thermal: "铝合金筒体一体成型，散热面均匀分布于筒壁"
+      cmf:
+        color: "纯白色"
+        material: "压铸铝"
+        finish: "哑光粉末涂层"
+      mounting: "单根白色细线/电缆悬挂，腰部两侧小横销为结构节点"
+      signature_detail: "腰部对称小横销——唯一可见的装配节点，形成精准的横向韵律"
+    design_level:
+      score: 4
+      reason: "极度克制的圆筒形态，腰部小横销是唯一装饰性结构细节，整体比例精准，体现德国极简精工美学"
+    design_tags: ["极简圆筒", "白色系", "单点悬挂", "向下配光", "压铸铝", "精工细节", "H07极简整合"]
+    hero_feature: "腰部对称横销节点——在极简圆筒上唯一可见的精工锚点"
+    problem_solved: "在高净空空间中提供精准向下照明，同时圆筒轮廓在空间中形成雕塑感阵列"
+    transferable_technique: "圆筒体腰部横销节点：将结构锚点暴露并精工化，使安装细节成为设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_002"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "白色扭转螺旋圆柱体，上窄下宽，顶部有小托盘固定件，底部开口"
+    product_name: "白色扭转螺旋圆筒吊灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "异形圆筒"]
+    design_language:
+      silhouette: "细长圆柱体经轴向扭转形成螺旋曲面，顶部有小平台固定件，底部圆口向下，整体流畅"
+      light_opening: "底部圆形开口朝下，向下配光"
+      thermal: "铝合金筒体，曲面形态增大散热面积"
+      cmf:
+        color: "纯白色"
+        material: "压铸铝"
+        finish: "哑光粉末涂层"
+      mounting: "顶部小托盘固定件连接白色细线悬挂"
+      signature_detail: "整体扭转螺旋曲面——让功能性圆筒获得雕塑感，光影随扭转角度变化"
+    design_level:
+      score: 4
+      reason: "在BEGA惯用圆筒语言基础上引入扭转参数化形态，制造难度高，光影效果独特"
+    design_tags: ["扭转形态", "参数化", "白色系", "雕塑感", "向下配光", "H04参数化", "H07极简整合"]
+    hero_feature: "轴向扭转圆柱体——静态形体产生动态视觉，光影随角度流动"
+    problem_solved: "在保持向下精准配光功能的同时，赋予灯具强烈的装饰雕塑感"
+    transferable_technique: "圆柱体轴向扭转：以最小的形态变化（单一扭转操作）获得最大的视觉差异化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_003"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/18.jpg"
+        image_role: "hero"
+        visual_anchor: "白色球形灯体，表面密布均匀水平凹槽肋纹，顶部小白色圆盖，细白线悬挂"
+    product_name: "白色肋纹球形吊灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "球形"]
+    design_language:
+      silhouette: "标准球形，直径约35-40cm，轮廓饱满圆润，顶部有小半球盖"
+      light_opening: "球体通体漫射发光，360度全周配光"
+      thermal: "铝合金球体，肋纹增大表面积辅助散热"
+      cmf:
+        color: "纯白色"
+        material: "压铸铝"
+        finish: "哑光粉末涂层，肋纹内侧与顶面形成细微光影差"
+      mounting: "顶部小圆盖连接白色细线悬挂"
+      signature_detail: "全球面密集水平肋纹——将球体表面纹理化，形成规律光影，并暗示散热功能"
+    design_level:
+      score: 4
+      reason: "球形体量与水平肋纹的结合形成强烈的雕塑质感，肋纹兼顾装饰与散热，设计逻辑自洽"
+    design_tags: ["球形", "肋纹纹理", "白色系", "全周配光", "漫射", "H04参数化", "H10材料表达"]
+    hero_feature: "球面水平密肋——均匀密布的肋纹赋予标准球体独特的视觉纹理和光影层次"
+    problem_solved: "在球形漫射照明中解决散热与美观的矛盾，肋纹同时承担两个功能"
+    transferable_technique: "球体表面水平肋纹：以单一方向的规律肋纹激活平淡球体表面，兼顾散热与装饰"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_004"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/19.jpg"
+        image_role: "hero"
+        visual_anchor: "白色光滑椭圆/扁球体，近似苹果形，顶部小圆柱接头连接细白线"
+    product_name: "白色光滑椭圆球形吊灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "球形"]
+    design_language:
+      silhouette: "略扁的椭球体（苹果形），宽径大于高径，表面完全光滑，顶部小圆柱接头"
+      light_opening: "球体通体漫射，360度全周配光，光线柔和均匀"
+      thermal: "铝合金或玻璃漫射体，表面光滑"
+      cmf:
+        color: "纯白色/乳白色"
+        material: "乳白玻璃或哑光涂层铝"
+        finish: "光滑无纹理，表面反光柔和"
+      mounting: "顶部小圆柱接头连接白色细线"
+      signature_detail: "完全光滑的扁球体轮廓——极致简洁，球体本身即是唯一的形态语言"
+    design_level:
+      score: 3
+      reason: "形态极简，无多余装饰，但相比肋纹球形设计语言密度稍低，更接近通用球形吊灯"
+    design_tags: ["球形", "光滑", "白色系", "漫射", "全周配光", "极简", "H07极简整合"]
+    hero_feature: "完全光滑的扁椭球体——以最纯粹的几何形态实现最柔和的漫射光效"
+    problem_solved: "提供柔和全向漫射照明，形态极简不干扰空间视觉"
+    transferable_technique: "扁椭球体比正球体更具亲和感，顶部微小圆柱接头最小化悬挂结构存在感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_005"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "大直径白色密肋球形，赤道处一圈黑色+镜面铬带状分件，顶部细铬色金属杆悬挂"
+    product_name: "白色密肋大球形双色分件吊灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "球形"]
+    design_language:
+      silhouette: "大直径标准球形（约50cm+），全球面密集水平肋纹，赤道处明显腰带式分件"
+      light_opening: "球体通体漫射，赤道分件将球分为上下两个半球"
+      thermal: "铝合金，密集肋纹强化散热"
+      cmf:
+        color: "主体白色，赤道腰带黑色+镜面铬色"
+        material: "压铸铝"
+        finish: "白色哑光粉末涂层（主体）+ 黑色涂层+镜面铬（腰带）"
+      mounting: "顶部细铬色金属杆（非绳索）刚性悬挂"
+      signature_detail: "赤道腰带双色分件——黑色与铬色腰带横贯球体赤道，制造强烈视觉切割，铬色金属杆形成精密感悬挂结构"
+    design_level:
+      score: 5
+      reason: "大体量球形+密肋纹理+赤道腰带切割+铬杆悬挂，多种设计手法叠加形成高辨识度视觉张力，是BEGA最具标志性的产品之一"
+    design_tags: ["球形", "肋纹纹理", "双色对比", "腰带分件线", "铬色", "黑白对比", "刚性悬挂", "H03分件线", "H08对比强调"]
+    hero_feature: "黑色+铬色赤道腰带——在密肋白球体上制造精准的横向切割，双材质对比成为视觉焦点"
+    problem_solved: "大空间主照明需要强存在感灯具，密肋纹理+赤道分件在视觉上放大体积感，铬杆悬挂强调工程精密性"
+    transferable_technique: "赤道腰带分件线：在球体最宽处引入对比色/对比材质分件，以最小改动创造最大视觉冲击；铬色金属杆替代绳索提升品质感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_006"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "超大圆环形LED吊灯，黑色铝制圆环，内圈白色LED发光条，顶部单点黑色圆柱节点悬挂"
+    product_name: "大圆环LED吊灯（Halo）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "环形"]
+    design_language:
+      silhouette: "大直径圆环（约80-100cm），圆环截面为扁矩形，内圈嵌入LED发光面，外圈哑光黑"
+      light_opening: "内圈全周向内/向下发光，LED发光条产生连续光晕"
+      thermal: "铝合金圆环体，截面内部集成散热通道"
+      cmf:
+        color: "外圈哑光黑，内圈发光白"
+        material: "压铸/挤压铝"
+        finish: "哑光黑粉末涂层"
+      mounting: "顶部单圆柱节点，双线悬挂（线穿过节点两侧），结构简洁"
+      signature_detail: "单顶点圆柱节点——圆环仅通过顶部一个精工小圆柱体悬挂，结构的最小化与体量的最大化形成张力"
+    design_level:
+      score: 5
+      reason: "圆环形态本身即是极强的空间雕塑，顶部单节点悬挂极度克制，黑白内外对比强烈，是BEGA少有的大尺度装置感产品"
+    design_tags: ["环形", "Halo", "大尺度", "LED条光", "黑白对比", "空间雕塑", "单点悬挂", "H07极简整合", "H08对比强调"]
+    hero_feature: "顶部单圆柱节点悬挂——用最小的结构支点承托大圆环，结构张力即是设计语言"
+    problem_solved: "大空间（餐厅/会议室/酒店大堂）需要强视觉焦点照明，圆环形态兼顾装饰性与功能性配光"
+    transferable_technique: "圆环顶点单悬挂节点：将结构件精工化、最小化，让大体量形体'漂浮'感更强"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_007"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/22.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色截锥形灯罩（上宽下窄倒梯形），内腔铜色，黑色细杆悬挂"
+    product_name: "黑色截锥形铜内腔吊灯（宽）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "锥形灯罩"]
+    design_language:
+      silhouette: "倒截锥（梯形剖面），上口宽下口窄，轮廓线为直斜线，无曲线"
+      light_opening: "底部圆形开口向下，铜色内腔将光反射并温化为暖调"
+      thermal: "铝合金灯罩，铜色内表面为铝材铜色涂层处理"
+      cmf:
+        color: "外黑内铜"
+        material: "压铸铝"
+        finish: "外哑光黑粉末涂层，内铜色拉丝/哑光处理"
+    mounting: "顶部黑色细杆刚性接头连接黑色电缆悬挂"
+    signature_detail: "外黑内铜双色腔体——黑色严肃外形包裹温暖铜色内腔，开口处形成黑与铜的精准边缘对比"
+    design_level:
+      score: 4
+      reason: "简洁截锥形态配合外黑内铜CMF，视觉对比强烈，铜色内腔功能性（温化配光）与装饰性统一"
+    design_tags: ["截锥形", "黑铜配色", "双色内外", "向下配光", "铜色内腔", "H08对比强调", "H10材料表达"]
+    hero_feature: "外黑内铜双色腔——仰望时铜色内腔完全可见，产生强烈的内外色彩冲击"
+    problem_solved: "餐桌/工作台精准向下照明，铜色内腔将LED冷光转化为温暖氛围光"
+    transferable_technique: "双色内外腔体：外表面使用沉稳色（黑），内腔使用温暖材质色（铜），利用内腔的可见性创造视觉惊喜"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_008"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/23.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色饱满钟形灯罩，顶部圆润收口，内腔铜色，黑色细线悬挂"
+      - filename: "36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/36.jpg"
+        image_role: "context"
+        visual_anchor: "同款黑色钟形吊灯成组在商业室内空间使用，展示多灯阵列效果"
+    product_name: "黑色钟形铜内腔吊灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "钟形灯罩"]
+    design_language:
+      silhouette: "钟形（底部圆弧向上收紧，顶部圆润），整体轮廓圆润无棱角，比截锥形更柔和"
+      light_opening: "底部圆形开口向下，铜色内腔暖调配光"
+      thermal: "铝合金，铜色内腔为涂层处理"
+      cmf:
+        color: "外哑光黑，内铜色"
+        material: "压铸铝"
+        finish: "外哑光黑，内铜色拉丝"
+      mounting: "顶部黑色细线悬挂，接头极细"
+      signature_detail: "饱满钟形轮廓——圆润钟形比截锥形更具有经典灯具感，底部开口铜色内腔发光时视觉冲击强"
+    design_level:
+      score: 4
+      reason: "钟形比截锥形更具设计张力，圆润轮廓与精工铜色内腔结合，室内空间应用效果出色"
+    design_tags: ["钟形", "黑铜配色", "双色内外", "向下配光", "铜色内腔", "成组阵列", "H08对比强调", "H10材料表达"]
+    hero_feature: "饱满钟形+铜色内腔——俯仰视角均有强烈视觉效果，圆润外形配合温暖铜色内腔"
+    problem_solved: "餐厅/酒吧氛围照明，多只成组悬挂形成节奏感，铜色内腔创造温暖用餐氛围"
+    transferable_technique: "钟形灯罩的比例控制：高径比约1:1.2时圆润感最强；多灯阵列时通过不同悬挂高度形成动态韵律"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_009"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/24.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色细长圆筒体下接加宽短圆筒底座，底部铜色内腔，黑色细线悬挂"
+    product_name: "黑色双段圆筒铜内腔吊灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "圆筒形"]
+    design_language:
+      silhouette: "上部细长圆筒（约3/4高度）+ 下部加宽短圆筒（约1/4高度），两段圆筒直径突变形成台阶，整体呈T字底部形态"
+      light_opening: "底部宽圆筒开口向下，铜色内腔配光"
+      thermal: "压铸铝双段筒体"
+      cmf:
+        color: "外哑光黑，内铜色"
+        material: "压铸铝"
+        finish: "外哑光黑，内铜色拉丝"
+      mounting: "顶部黑色细线悬挂"
+      signature_detail: "双段圆筒直径突变——上细下粗的台阶式分件创造强烈的体量对比，下端宽口强调向下配光的聚焦感"
+    design_level:
+      score: 4
+      reason: "双段圆筒的直径突变是精准的设计决策，上细下粗形成视觉重心下移，与铜色内腔共同强化向下配光的功能表达"
+    design_tags: ["双段圆筒", "黑铜配色", "台阶分件", "向下配光", "铜色内腔", "H03分件线", "H08对比强调"]
+    hero_feature: "上细下粗双段圆筒——台阶式直径突变将灯具体量重心集中于发光口，功能与形态高度统一"
+    problem_solved: "展示/重点照明场景，细长筒体减少压迫感，宽底口强调精准配光范围"
+    transferable_technique: "双段圆筒台阶分件：通过筒体直径突变在竖向形体上制造体量节奏，上细下粗比例约3:1时视觉最佳"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_010"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/25.jpg"
+        image_role: "hero"
+        visual_anchor: "铜色喇叭形上盖+黑色宽钟形灯罩，内腔铜色，黑色细线悬挂"
+      - filename: "26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/26.jpg"
+        image_role: "variant"
+        visual_anchor: "铜色锥形上盖+黑色细长截锥灯罩（更高更窄），内腔铜色，黑色细线悬挂"
+    product_name: "黑铜双材质分件吊灯系列（宽版+高版）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "复合形态灯罩"]
+    design_language:
+      silhouette: "两件式：上部铜色锥/喇叭形顶盖（约1/3高度）+ 下部黑色灯罩体（约2/3高度）；25.jpg为宽钟形底罩，26.jpg为高截锥底罩"
+      light_opening: "底部圆形开口向下，铜色内腔暖调配光"
+      thermal: "压铸铝两件式拼合，铜色部分为铝材铜色涂层"
+      cmf:
+        color: "上铜下黑，内腔铜色"
+        material: "压铸铝"
+        finish: "上部铜色拉丝/哑光，下部哑光黑，内腔铜色"
+      mounting: "顶部黑色细线悬挂，穿过铜色上盖顶部"
+      signature_detail: "铜-黑水平分件——上铜下黑的水平切割在腰部形成精准色彩边界，铜色喇叭形上盖是可见的装配结构件"
+    design_level:
+      score: 5
+      reason: "铜-黑双色分件在保留功能性灯罩形态的同时创造极强的视觉层次；上铜下黑的比例约1:2是BEGA少见的高装饰性产品，铜色上盖将安装结构件转化为设计亮点"
+    design_tags: ["铜黑双色", "双材质分件", "喇叭形顶盖", "宽钟形", "截锥形", "向下配光", "H03分件线", "H08对比强调", "H10材料表达"]
+    hero_feature: "铜色喇叭形上盖+黑色灯罩的水平分件——铜色结构件暴露并主导上半部分视觉，形成贵金属质感对比"
+    problem_solved: "高端餐饮/精品酒店需要强装饰感照明，铜黑双色在暖光照明环境中视觉效果卓越"
+    transferable_technique: "将安装接头件扩展为装饰性上盖：铜色喇叭顶盖既是结构件又是最显眼的装饰语言，1:2的铜黑比例在视觉上平衡而不失重点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_011"
+    source_images:
+      - filename: "27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/27.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色宽半球碗形灯罩（外径远大于高度），内腔铜色，黑色细线悬挂"
+    product_name: "黑色宽半球铜内腔吊灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "半球碗形"]
+    design_language:
+      silhouette: "宽扁半球碗形，宽径与高度比约2.5:1，轮廓线为大半径弧线，体量感强"
+      light_opening: "底部大圆形开口向下，宽口径使配光范围宽广"
+      thermal: "压铸铝，宽大碗形增加散热表面积"
+      cmf:
+        color: "外哑光黑，内铜色拉丝"
+        material: "压铸铝"
+        finish: "外哑光黑，内铜色拉丝处理"
+      mounting: "顶部黑色细线悬挂，线入口极细"
+      signature_detail: "宽扁半球比例——宽径远大于高度，形成强烈的横向扩展感；铜色内腔在大口径碗形中更充分展露"
+    design_level:
+      score: 4
+      reason: "宽扁半球比例在室内吊灯中较为罕见，大体量配合铜色内腔产生强视觉张力，适合大桌面或宽空间照明"
+    design_tags: ["半球碗形", "宽扁比例", "黑铜配色", "大口径", "向下配光", "H08对比强调", "H10材料表达"]
+    hero_feature: "宽扁半球碗形——2.5:1的宽高比使灯具轮廓极具横向张力，与铜色内腔的大面积暴露共同形成强存在感"
+    problem_solved: "大型餐桌/岛台大范围均匀向下照明，宽口径保证宽配光角，铜色内腔提升氛围感"
+    transferable_technique: "碗形灯罩的宽高比控制：2.5:1以上的宽高比产生强横向扩展感，大口径铜色内腔在使用时成为第二视觉焦点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_012"
+    source_images:
+      - filename: "28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/28.jpg"
+        image_role: "hero"
+        visual_anchor: "白色扁圆盘形灯体，中心细白色金属杆刚性悬挂，底部半透明漫射板"
+      - filename: "29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/29.jpg"
+        image_role: "variant"
+        visual_anchor: "同款白色扁圆盘，略厚，白色细线悬挂（非刚性杆），底部漫射板"
+    product_name: "白色扁圆盘形LED吊灯（杆挂+线挂双版本）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "圆盘形"]
+    design_language:
+      silhouette: "极扁圆盘形，直径与厚度比约5:1，轮廓线硬朗，顶面平整，底部漫射面微凹"
+      light_opening: "底部整面漫射板均匀向下发光，LED面光源"
+      thermal: "铝合金盘体，LED热量通过铝盘传导散热"
+      cmf:
+        color: "全白色"
+        material: "压铸铝+乳白漫射板"
+        finish: "哑光白粉末涂层"
+      mounting: "28.jpg为中心细金属杆刚性悬挂；29.jpg为顶部白色细线悬挂"
+      signature_detail: "极扁圆盘比例——5:1宽高比使灯具几乎'消失'在视觉中，中心单杆悬挂进一步减少结构存在感"
+    design_level:
+      score: 4
+      reason: "圆盘形LED面光源以最简几何形实现均匀漫射，中心单杆悬挂方式独特，整体设计克制精准"
+    design_tags: ["圆盘形", "极扁比例", "LED面光", "漫射", "白色系", "中心杆悬挂", "H07极简整合", "H09隐藏工程"]
+    hero_feature: "中心单杆刚性悬挂圆盘——中心悬挂点使圆盘轮廓360度完全对称，结构件隐藏于盘体中心"
+    problem_solved: "办公/展览空间需要均匀漫射照明同时减少灯具存在感，极扁圆盘接近天花板面，视觉干扰最小"
+    transferable_technique: "中心杆悬挂圆盘：将悬挂结构件穿过形体中心，保持形体的轮廓完整性；极扁比例（5:1以上）使形体趋于'面'而非'体'"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_013"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/30.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色扁圆盘形灯体，内腔铜色（底部可见），黑色细金属杆中心悬挂"
+    product_name: "黑色扁圆盘铜内腔LED吊灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "圆盘形"]
+    design_language:
+      silhouette: "扁圆盘形（比28/29略厚，宽高比约4:1），顶面平整，底部内腔铜色可见"
+      light_opening: "底部铜色内腔向下配光，漫射板嵌入内腔"
+      thermal: "压铸铝盘体，中心金属杆兼顾悬挂与散热通道"
+      cmf:
+        color: "外哑光黑，内铜色"
+        material: "压铸铝"
+        finish: "外哑光黑，内铜色拉丝"
+      mounting: "中心黑色细金属杆刚性悬挂"
+      signature_detail: "圆盘形态的黑铜CMF应用——将外黑内铜的品牌语言延伸至圆盘形，底面铜色内腔在仰视时充分可见"
+    design_level:
+      score: 4
+      reason: "圆盘形态+外黑内铜是BEGA多款产品的语言延伸，证明该CMF体系的产品族一致性"
+    design_tags: ["圆盘形", "黑铜配色", "双色内外", "LED面光", "中心杆悬挂", "H03分件线", "H08对比强调"]
+    hero_feature: "圆盘底面铜色内腔——扁盘形态下铜色内腔完整可见，黑色盘沿形成精准边界线"
+    problem_solved: "餐桌精准向下照明，圆盘形减少压迫感，铜色内腔暖化配光色温"
+    transferable_technique: "扁盘形外黑内铜：将外黑内铜CMF应用于圆盘形，验证该色彩体系跨越不同形态的可迁移性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_室内吊灯_b2_014"
+    source_images:
+      - filename: "45.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/45.jpg"
+        image_role: "context"
+        visual_anchor: "多只透明/乳白截锥形吊灯成组在高大展览空间悬挂，人物剪影对比尺度"
+    product_name: "透明/乳白截锥形吊灯（展览空间应用）"
+    brand_name: "BEGA"
+    brand_confidence: "medium"
+    category_path: ["灯具", "室内吊灯", "锥形灯罩"]
+    design_language:
+      silhouette: "截锥形（倒梯形轮廓），顶部收口，底部宽口，灯罩材质为透明或乳白漫射材料"
+      light_opening: "底部开口向下，同时灯罩体漫射发光"
+      thermal: "透明/乳白材质灯罩，金属结构框架"
+      cmf:
+        color: "透明/乳白白色"
+        material: "玻璃或乳白塑料漫射罩+金属接头"
+        finish: "光滑透明/漫射"
+      mounting: "细线悬挂，多只成组不同高度排列"
+      signature_detail: "透明截锥形多灯成组——透明或漫射罩在点亮时形成均匀光体，高大空间中多只不同高度成组形成光的矩阵"
+    design_level:
+      score: 3
+      reason: "本图为应用场景渲染，灯具细节辨识度有限；截锥形漫射体本身形态较为通用"
+    design_tags: ["截锥形", "漫射罩", "透明材质", "成组阵列", "展览空间", "高空间"]
+    hero_feature: "多只成组不同高度阵列——单只普通，多只错落成矩阵后形成沉浸式光环境"
+    problem_solved: "高大展览/公共空间需要大量均匀漫射照明，多只成组覆盖大面积配光需求"
+    transferable_technique: "截锥形漫射罩阵列：通过不同悬挂高度的多灯组合在高大空间制造光的层次感"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "场景渲染图，灯具细节不清晰，灯罩材质（玻璃/塑料）和品牌归属需核实"
+
+  - product_id: "bega_室内吊灯_b2_015"
+    source_images:
+      - filename: "88.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/吊灯/88.jpg"
+        image_role: "hero"
+        visual_anchor: "大型白色圆环形吊灯装置，环上均匀分布多个向下圆筒射灯头，通过细线从天花板玫瑰形装饰盘悬挂，真实室内场景"
+    product_name: "大圆环多射灯头吊装装置"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内吊灯", "环形装置"]
+    design_language:
+      silhouette: "大圆环（约150-200cm），环截面为圆管，环体上等距分布8-10个向下圆筒射灯头，整体通过多根细线从天花板悬挂"
+      light_opening: "各射灯头底部向下定向配光，多点组合形成环形照明分布"
+      thermal: "铝合金圆管环体，各射灯头独立散热"
+      cmf:
+        color: "全白色/浅灰色"
+        material: "铝合金圆管+压铸铝射灯头"
+        finish: "哑光白粉末涂层"
+      mounting: "多根细线从天花板装饰玫瑰盘悬挂，形成稳定悬挂结构"
+      signature_detail: "圆环体+多射灯头均匀分布——将射灯功能性与圆环装饰性结合，玫瑰形装饰天花盘呼应古典建筑语境"
+    design_level:
+      score: 5
+      reason: "大尺度圆环装置在古典建筑室内使用，精准融合功能性（多方向射灯配光）与装饰性（圆环雕塑感），是BEGA高端定制级产品的典型"
+    design_tags: ["圆环装置", "多射灯头", "大尺度", "古典空间适配", "定向配光", "装置感", "H05模块化", "H11功能外显"]
+    hero_feature: "圆环均匀分布多射灯头——将多个射灯功能单元整合进大圆环形态，形成统一的圆形装置感"
+    problem_solved: "高净空古典室内（礼堂/宫殿改造）需要功能性多方向照明同时保持装饰品位，圆环吊装装置融合两者"
+    transferable_technique: "功能单元均匀分布于环形主骨架：圆环提供装饰性轮廓，射灯头提供功能性配光，两者结合优于单独使用任何一种"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

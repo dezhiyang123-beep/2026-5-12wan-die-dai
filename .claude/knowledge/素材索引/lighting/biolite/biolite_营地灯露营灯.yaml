@@ -1,0 +1,270 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "营地灯·露营灯"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "biolite_营地灯露营灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "半球白色磨砂扩散罩 + 蓝绿色电池底座腰带 + 顶部圆形按键帽"
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/02.jpg"
+        image_role: "colorway"
+        visual_anchor: "同款深炭黑色配色版本，顶部按键帽为黑色，底座腰带为哑光黑"
+    product_name: "BioLite Alpenglow Mini"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "营地灯·露营灯"
+      - "迷你营地灯"
+    design_language:
+      silhouette: "扁圆半球形，高宽比约1:1.3，上半部为大圆弧扩散罩，下半部为扁平圆柱腰带底座，整体低重心、稳定感强"
+      light_opening: "360°球面漫射扩散——半球磨砂罩向全方向发光，无明显方向性，坐在桌面可全向照亮营地"
+      thermal: "无外露散热结构；低功率LED内置于底座，热量通过底座塑料件被动散发"
+      cmf:
+        color: "主色：蓝绿色（Teal）腰带 + 纯白磨砂扩散罩；副色：深炭黑色腰带版本"
+        material: "扩散罩：乳白磨砂PP/PC；腰带底座：哑光ABS；顶部按键：软质橡胶"
+        finish: "扩散罩：磨砂半透；底座：哑光纹理；按键：哑光橡胶质感"
+      mounting: "平放桌面；底座四个LED电量指示灯朝前，无提挂结构"
+      signature_detail: "蓝绿色或黑色圆形顶部橡胶按键帽（印有光线图标）+ 底座腰带上的四颗LED电量指示灯点阵"
+    design_level:
+      score: 4
+      reason: "Alpenglow Mini的半球造型极度克制，底座腰带双色分件干净利落，顶部按键帽与腰带同色形成视觉呼应；体积小巧但比例感十足，是营地灯品类中少见的高完成度miniature设计"
+    design_tags:
+      - "半球形"
+      - "双色分件"
+      - "360度漫射"
+      - "电量指示灯"
+      - "充电宝一体"
+      - "极简按键"
+      - "低重心"
+      - "H07极简整合"
+      - "H10材料表达"
+    hero_feature: "扁半球磨砂扩散罩与彩色腰带底座的双色分件构成独特轮廓，充电宝功能隐藏于腰带内"
+    problem_solved: "营地桌面需要360°环境照明，同时手机随时需要充电；Mini将灯+充电宝合二为一，无需多带设备"
+    transferable_technique: "腰带分件法：通过环形腰带将电池模块与发光模块视觉分离，既划分功能区又形成强烈品牌识别；可迁移至其他需要分离电源与发光体的手持/桌面灯具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "biolite_营地灯露营灯_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向胶囊形白色扩散罩 + 蓝绿色竖向侧脊/提手 + 灰色底部电量指示底座"
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/05.jpg"
+        image_role: "detail"
+        visual_anchor: "正面角度，蓝绿色侧脊从顶部圆弧延伸至底座，与底座合围形成完整框架结构"
+    product_name: "BioLite Alpenglow 250"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "营地灯·露营灯"
+      - "中型营地灯"
+    design_language:
+      silhouette: "竖向胶囊/椭圆柱形，上部大圆弧顶，下部截平底座，高宽比约1.7:1，侧面有竖向彩色提手脊贯穿全高"
+      light_opening: "全向360°侧面漫射扩散——乳白磨砂圆柱扩散罩包覆全周，顶部圆弧亦透光，实现全方位软光输出"
+      thermal: "无明显散热结构；底部灰色底座承载LED驱动板，低发热量被动散热"
+      cmf:
+        color: "主色：乳白磨砂扩散罩 + 蓝绿色（Teal）侧脊提手；底座：中性灰色"
+        material: "扩散罩：乳白磨砂PC；侧脊：半透明蓝绿色ABS/硅胶；底座：哑光灰色ABS"
+        finish: "扩散罩：软光磨砂；侧脊：轻微透明感光泽；底座：哑光"
+      mounting: "平放底座；侧脊顶部形成手提握把，可单手提携；底座有电量指示灯点阵"
+      signature_detail: "蓝绿色竖向侧脊从顶部弧面沿侧面贯穿至底座，形成视觉锚点同时充当提手"
+    design_level:
+      score: 4
+      reason: "侧脊提手将功能性（握持/提携）与品牌视觉识别（蓝绿色）合一，是典型的BioLite「功能即装饰」策略；胶囊造型在营地灯中具有辨识度，整体设计逻辑严密"
+    design_tags:
+      - "胶囊形"
+      - "竖向侧脊"
+      - "提手一体化"
+      - "360度漫射"
+      - "三色分件"
+      - "电量指示灯"
+      - "充电宝一体"
+      - "H08对比强调"
+      - "H11功能外显"
+    hero_feature: "竖向蓝绿色侧脊从顶部贯穿至底座，既是品牌色彩锚点又是实用提手，形成整个灯的视觉脊柱"
+    problem_solved: "需要可手提的营地环境灯，同时具备USB充电功能；侧脊提手解决了圆柱形灯提携困难的痛点"
+    transferable_technique: "竖向彩色脊条分件法：在圆柱或胶囊形体表面叠加一条竖向彩色功能脊，同时实现品牌色彩注入、分件线设计和握持功能；适用于台灯、手电筒、水瓶等圆柱形产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "biolite_营地灯露营灯_003"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "深炭黑色长方形充电收纳盒（带太阳能板面板）+ 绿色细竹签竿身的蘑菇形小吊灯×3"
+    product_name: "BioLite SiteLight Solar Kit"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "营地灯·露营灯"
+      - "太阳能营地套灯"
+    design_language:
+      silhouette: "套装系统：主体为圆角长方形收纳充电盒 + 细长竹签形竿身灯×3；单灯为竿顶蘑菇形小球扩散灯头，整体纤细轻盈"
+      light_opening: "小球漫射——蘑菇形乳白小球灯头实现360°全向漫射，模拟烛光/星光氛围感"
+      thermal: "超低功率LED，无散热需求；竿身细长导热路径极短"
+      cmf:
+        color: "主系统：深炭黑色 + 蓝绿色充电指示点缀；竿身：高饱和薄荷绿/翡翠绿；灯头：乳白色"
+        material: "收纳盒：深色ABS硬壳，正面太阳能板；竿身：绿色塑料（仿竹节纹理）；灯头：乳白磨砂PC"
+        finish: "收纳盒：哑光纹理；竿身：轻微光泽塑料；灯头：磨砂半透"
+      mounting: "竿身插地固定；灯头可调角度（竿头活动关节）；收纳盒兼作充电基站"
+      signature_detail: "翡翠绿竿身与黑色收纳盒的强对比色搭配；灯头与竿身连接处的活动关节"
+    design_level:
+      score: 3
+      reason: "系统整合逻辑清晰（收纳即充电），翡翠绿竿身有记忆点；但整体造型较为工程化，缺乏强烈设计语言，竿身塑料质感略显廉价"
+    design_tags:
+      - "套装系统"
+      - "太阳能充电"
+      - "插地竿灯"
+      - "收纳即充电"
+      - "蘑菇形灯头"
+      - "星光氛围"
+      - "H05模块化"
+      - "H09隐藏工程"
+    hero_feature: "太阳能收纳盒白天充电，夜晚直接拔出竿灯插地使用，整套系统无需外部电源"
+    problem_solved: "营地周边路径/区域标识照明需求，无市电环境下的太阳能自给自足方案"
+    transferable_technique: "收纳即充电底座策略：将产品收纳盒设计为充电基站，实现「存放即充电」用户行为；适用于多件套户外灯具、无人机配件、相机滤镜等需要多件同步充电的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "biolite_营地灯露营灯_004"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿色圆角方形主控盒（带FM收音机面板+扬声器格栅）+ 充气式乳白悬挂球灯×3 + 独立太阳能板"
+    product_name: "BioLite SolarHome 620"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "营地灯·露营灯"
+      - "太阳能家用套灯系统"
+    design_language:
+      silhouette: "系统套装：主控盒为圆角正方形扁平体（类似便携音箱），挂灯为充气椭圆球形；主控盒配操作面板和格栅，整体尺寸偏大，定位家用/社区级"
+      light_opening: "充气球形全向漫射——乳白半透PVC充气球均匀散射360°光线，模拟柔和球形灯笼效果；主控盒自身也有内置照明"
+      thermal: "低功率LED系统，无主动散热；主控盒外壳被动散热"
+      cmf:
+        color: "主色调：蓝绿色（Teal）主控盒 + 乳白充气灯球 + 灰银太阳能板"
+        material: "主控盒：ABS工程塑料；充气灯球：半透明乳白PVC；太阳能板：铝框单晶硅"
+        finish: "主控盒：轻哑光带纹理；球灯：柔光半透明"
+      mounting: "主控盒壁挂/桌面放置；球灯通过细线悬挂，有小夹子固定头；太阳能板单独铺设"
+      signature_detail: "主控盒正面操作面板集成FM收音机+光线控制按键，蓝绿色面板与银灰扬声器格栅形成功能区分件"
+    design_level:
+      score: 3
+      reason: "产品定位明确（发展中市场离网家用）且系统集成逻辑完整，但设计语言更偏向功能性/工程性，蓝绿色面板品牌识别清晰；球灯造型通用化，无明显差异化设计"
+    design_tags:
+      - "太阳能系统"
+      - "充气球灯"
+      - "FM收音机集成"
+      - "离网家用"
+      - "套装系统"
+      - "悬挂灯"
+      - "H05模块化"
+      - "H11功能外显"
+    hero_feature: "太阳能驱动的一体化家用照明+收音机系统，单套装提供3房间照明+FM娱乐，无需任何市电基础设施"
+    problem_solved: "无电网地区的家庭基础照明和娱乐需求，太阳能全自给自足"
+    transferable_technique: "多功能主控盒策略：将电源管理+控制界面+次级功能（收音机）集成到单一控制节点，降低用户操作复杂度；适用于户外基地营系统化装备设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "biolite_营地灯露营灯_005"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱形透明/磨砂充气灯体 + 蓝绿色圆形顶盖（内嵌太阳能板+触控按键）+ 顶部透明提环"
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/15.jpg"
+        image_role: "detail"
+        visual_anchor: "未充气折叠状态展示产品结构：蓝绿色顶盖清晰可见太阳能板、双触控按键、中央提环和四角固定扣"
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/17.jpg"
+        image_role: "colorway"
+        visual_anchor: "橙色顶盖配色版本，充气后乳白磨砂灯体发暖白光，顶盖与光色形成暖调统一"
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/19.jpg"
+        image_role: "colorway"
+        visual_anchor: "红色顶盖配色版本，灯体发玫红/粉红色光，顶盖颜色与发光色调匹配"
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/营地灯·露营灯/21.jpg"
+        image_role: "colorway_group"
+        visual_anchor: "三色配色对比展示：蓝绿色（透明灯体）、橙色（乳白灯体暖光）、紫色（乳白灯体紫光）三款并排"
+    product_name: "BioLite SunLight 100 (Inflatable Solar Lantern)"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "营地灯·露营灯"
+      - "充气太阳能灯"
+    design_language:
+      silhouette: "圆柱形充气灯体，充气后为标准圆柱（高宽比约1:1），顶部平盖圆形，整体极简几何形；未充气时可折叠至扁平碟形，体积极小"
+      light_opening: "360°侧面全向漫射 + 底面漏光——充气PVC/TPU灯体本身即为扩散介质，LED从内部照亮整个透明灯体，实现360°+底面柔和漫射"
+      thermal: "LED贴附于顶盖内侧向下照射，热量由顶盖ABS/PC件传导至外部，充气体隔热效果好，整体近乎无热感"
+      cmf:
+        color: "顶盖颜色区分型号/系列：蓝绿色（Teal）/ 橙色（Sunrise）/ 红色（Red）/ 紫色（Dusk）；灯体：透明版（蓝绿）或乳白磨砂版（橙/红/紫）"
+        material: "顶盖：彩色ABS/PC复合件；灯体：透明或磨砂TPU充气袋；提环：透明PC"
+        finish: "顶盖：高光光泽感（类似彩色糖果色）；灯体：透明或磨砂柔光"
+      mounting: "顶盖中央提环可悬挂；底面平放稳定；顶盖四角有固定扣可穿绳"
+      signature_detail: "彩色圆形顶盖嵌入太阳能板的「彩色盖+透明柱」两件分体设计；顶盖颜色即为产品色彩代号，无需额外标识"
+    design_level:
+      score: 4
+      reason: "充气+太阳能+可折叠三合一解决方案在营地灯品类中极具创新性，彩色顶盖作为唯一的硬件件承载所有功能（太阳能、控制、品牌）同时成为颜色SKU标识，设计逻辑极其简练高效；打包体积碟形折叠是真正的工程美学"
+    design_tags:
+      - "充气灯"
+      - "可折叠"
+      - "太阳能顶盖"
+      - "360度漫射"
+      - "彩色顶盖SKU"
+      - "透明灯体"
+      - "超轻量"
+      - "顶部悬挂"
+      - "H07极简整合"
+      - "H10材料表达"
+      - "H09隐藏工程"
+    hero_feature: "充气PVC灯体折叠后与一枚大硬币厚度相当，充气后成为360°发光的圆柱灯，整个灯除顶盖外全部由气体撑起"
+    problem_solved: "超轻量背包客需要极小打包体积的营地灯；充气设计将灯的运输体积压缩至极限，同时太阳能顶盖消除换电池需求"
+    transferable_technique: "功能顶盖策略：将所有硬件功能（电源、控制、充电、连接）集中于单一刚性顶盖件，其余灯体采用软性/可折叠材料，实现体积极小化；可迁移至折叠水壶灯、帐篷内顶灯等空间敏感场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

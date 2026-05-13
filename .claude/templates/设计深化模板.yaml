@@ -1,0 +1,62 @@
+concept_id: "C-XX"
+name: ""
+
+step1_constraints:
+  immovable_constraints: []
+  min_envelope: ""
+  constraint_conflicts: []
+
+step2_block_relationship:
+  functional_blocks: []
+  arrangement: ""
+  connections: ""
+  form_direction: ""
+
+step3_proportion:
+  overall_silhouette: ""
+  hwt_ratio: ""
+  key_visual_feature: ""
+  key_section: ""
+
+step4_parting:
+  part_count:
+  parting_lines: ""
+  each_part_process: []
+  assembly_direction: ""
+  assembly_sequence: ""
+
+step5_details:
+  interfaces: ""
+  cable_routing: ""
+  thermal_path: ""
+  sealing: ""
+  maintenance_access: ""
+  mounting_structure: ""
+
+step6_cmf:
+  color_direction: ""
+  material_feel: ""
+  finish: ""
+
+step7_design_language:
+  three_keywords: []
+  first_impression: ""
+  vs_competitors_visual: ""
+
+step8_integrity_check:
+  hero_preserved: true/false
+  hero_change_detail: ""
+  visual_test_pass: true/false
+  visual_test_issue: ""
+  pain_point_visible: true/false
+  pain_point_issue: ""
+  purchase_sentence_valid: true/false
+  purchase_sentence_issue: ""
+
+step9_render_prep:
+  reference_image: ""
+  delta_description: ""
+  top_3_prohibitions:
+    - ""
+    - ""
+    - ""

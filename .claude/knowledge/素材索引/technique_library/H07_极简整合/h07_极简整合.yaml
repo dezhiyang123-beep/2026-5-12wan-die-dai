@@ -1,0 +1,697 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "H07_极简整合"
+  secondary: "混合（家电/音频/家具）"
+  tertiary: ""
+
+source:
+  source_type: "technique_library"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "h07_appliance_007"
+    source_images:
+      - filename: "H07_appliance_007.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_appliance_007.jpg"
+        image_role: "hero"
+        visual_anchor: "纯黑钢化玻璃门面板，铜色线条收边，触控区内嵌"
+    product_name: "嵌入式烤箱"
+    brand_name: "Smeg"
+    brand_confidence: "high"
+
+    category_path:
+      - "H07_极简整合"
+      - "家电"
+
+    design_language:
+      silhouette: "正方形嵌入式箱体，门面占满正面，极度平整"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "哑光黑+玫瑰铜金"
+        material: "钢化玻璃门面 + 金属框边"
+        finish: "高光玻璃 + 拉丝铜"
+      mounting: "嵌入式"
+      signature_detail: "单根铜色横线将控制区与门体分界，所有按键以触屏图标集中于顶部窄条，门面零操控"
+
+    design_level:
+      score: 5
+      reason: "控制区被极度压缩进顶部约1/8面积的触控条，门面整体空无一物；铜色线条既是装饰也是功能分区线，做到了最少视觉元素数量"
+
+    design_tags:
+      - "H07极简整合"
+      - "触控面板隐藏"
+      - "功能整合到顶部窄条"
+      - "玻璃一体门面"
+      - "对比色收边"
+
+    hero_feature: "整扇门面无任何物理按键，铜色分界线是唯一装饰元素"
+    problem_solved: "烤箱正面通常被旋钮/按键打断，整合后门面还原为一整块视觉平面"
+    transferable_technique: "将所有操控集中到顶部/底部窄条，主面板保持零打断；色彩线条兼做功能分界"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_appliance_008"
+    source_images:
+      - filename: "H07_appliance_008.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_appliance_008.jpg"
+        image_role: "hero"
+        visual_anchor: "奶油色圆润机身，银色压力表居中，研磨杯+蒸汽棒对称布局"
+    product_name: "意式浓缩咖啡机（含磨豆机）"
+    brand_name: "Smeg"
+    brand_confidence: "high"
+
+    category_path:
+      - "H07_极简整合"
+      - "家电"
+
+    design_language:
+      silhouette: "近正方形圆角机身，正面左右对称"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "奶油白"
+        material: "烤漆钣金机身 + 不锈钢功能件"
+        finish: "哑光烤漆 + 镜面不锈钢"
+      mounting: "台面放置"
+      signature_detail: "所有功能件（磨豆仓、压力表、萃取头、蒸汽棒）被整合进同一个圆弧机身轮廓内，机身顶部镶嵌磨豆机而非独立外挂"
+
+    design_level:
+      score: 4
+      reason: "磨豆机与咖啡机的整合使轮廓保持完整；功能件密度高但通过轴对称和统一奶油色漆面保持视觉秩序；但蒸汽棒等外露机械件打断了极简感"
+
+    design_tags:
+      - "H07极简整合"
+      - "多功能一体化"
+      - "圆弧机身包容功能件"
+      - "统一色漆整合"
+      - "轴对称秩序"
+
+    hero_feature: "磨豆机内置于机身顶部，整机呈现为一个轮廓而非两台机器"
+    problem_solved: "磨豆机通常是独立设备，整合后桌面只占一个脚印，视觉上消除了拼凑感"
+    transferable_technique: "将配件/附属功能嵌入主机身轮廓内而非外挂；统一色漆掩盖功能边界"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_audio_001"
+    source_images:
+      - filename: "H07_audio_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_audio_001.jpg"
+        image_role: "hero"
+        visual_anchor: "编织网布包裹圆柱体，拉丝不锈钢顶盖+底环，皮革提带"
+    product_name: "便携蓝牙音箱（Beosound A5或同系列）"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H07_极简整合"
+      - "音频"
+
+    design_language:
+      silhouette: "竖置圆柱体，上下金属环收口，中段全面积布料覆盖"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "自然米棕编织 + 拉丝银"
+        material: "编织藤/织物面料 + 铝合金 + 皮革"
+        finish: "哑光编织纹 + 拉丝金属 + 皮革磨砂"
+      mounting: "便携手提"
+      signature_detail: "喇叭网罩即外观造型，无单独格栅件；皮革提带用铆钉直接固定于金属顶盖；整个圆柱侧面无按键、无接口外露"
+
+    design_level:
+      score: 5
+      reason: "音箱的发声面（喇叭区）与产品外壳完全合一，编织面料同时充当格栅、装饰、触感层；所有控件被集成到金属顶盖或隐藏，侧面零打断"
+
+    design_tags:
+      - "H07极简整合"
+      - "格栅即外观"
+      - "功能面隐藏于顶盖"
+      - "材质统一覆盖"
+      - "皮革提带功能装饰合一"
+
+    hero_feature: "编织面覆盖360°，喇叭不需要单独格栅，整个侧面是一个统一的材质平面"
+    problem_solved: "传统音箱格栅作为独立件打断外观；整合后无格栅边框，轮廓更纯粹"
+    transferable_technique: "用单一面料或网孔材质整包功能区，消除独立格栅的视觉分割"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_audio_002"
+    source_images:
+      - filename: "H07_audio_002.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_audio_002.jpg"
+        image_role: "hero"
+        visual_anchor: "扁平椭圆形正面视图，编织面全覆盖，顶部B&O logo居中，皮革提带侧挂"
+    product_name: "便携蓝牙音箱 Beosound A5"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+
+    category_path:
+      - "H07_极简整合"
+      - "音频"
+
+    design_language:
+      silhouette: "横置椭圆扁柱，前后面完全平整，侧面圆弧收口"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "自然米棕编织 + 拉丝银"
+        material: "编织织物 + 铝合金框 + 皮革"
+        finish: "哑光编织 + 拉丝金属"
+      mounting: "桌面放置 / 手提"
+      signature_detail: "正面完全被编织面料平铺，B&O logo是唯一非编织元素；铝合金上下包边极薄，视觉几乎消失；皮革提带作为唯一手持接口"
+
+    design_level:
+      score: 5
+      reason: "正面零分件，金属框极薄趋近于无；编织面覆盖全部功能区，logo是唯一打断点且尺寸极小；完美示范H07手法"
+
+    design_tags:
+      - "H07极简整合"
+      - "单一材质全覆盖正面"
+      - "金属框最小化"
+      - "logo作为唯一焦点"
+      - "零分件线正面"
+
+    hero_feature: "正面是一整块编织平面，无格栅框、无按键、无接口，极简到极致"
+    problem_solved: "消除一切视觉噪点，使音箱像家具摆件而非电子产品"
+    transferable_technique: "全面覆盖策略：用一种材质平铺整个功能面，将所有接口/控件移至背面或顶面"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_audio_003"
+    source_images:
+      - filename: "H07_audio_003.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_audio_003.jpg"
+        image_role: "hero"
+        visual_anchor: "椭圆形木条竖纹机身，深蓝顶盖，弧形提手，Bang & Olufsen字样"
+    product_name: "便携蓝牙音箱（Beosound A5 木纹版）"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+
+    category_path:
+      - "H07_极简整合"
+      - "音频"
+
+    design_language:
+      silhouette: "横置椭圆扁柱，木条拼贴侧面，深色顶盖"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "天然木色竖纹 + 深海军蓝"
+        material: "薄木条贴面 + 工程塑料/铝合金顶盖 + 弧形提手"
+        finish: "哑光木纹 + 哑光深蓝涂层"
+      mounting: "桌面放置 / 手提"
+      signature_detail: "木条竖纹覆盖整个椭圆侧面，喇叭隐藏于木条间隙中，无独立格栅；深蓝盖板与木纹形成材质界面，控件集成于顶盖"
+
+    design_level:
+      score: 4
+      reason: "木条间隙即格栅，结构与装饰合一；提手整合进顶盖轮廓；但可见的顶盖接缝和品牌文字稍微增加了视觉元素数量"
+
+    design_tags:
+      - "H07极简整合"
+      - "木条格栅合一"
+      - "结构即装饰"
+      - "材质转换界面"
+      - "控件顶盖集成"
+
+    hero_feature: "木条竖纹直接充当喇叭格栅，无需额外格栅件，材质即功能"
+    problem_solved: "消除格栅与外壳之间的额外层次，用天然材质实现声学与美观的双重功能"
+    transferable_technique: "利用结构材质的间隙（木条缝/编织孔）替代独立格栅，实现声学穿透同时保持外观统一"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_audio_004"
+    source_images:
+      - filename: "H07_audio_004.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_audio_004.jpg"
+        image_role: "context"
+        visual_anchor: "同audio_001，竖置圆柱形态，编织面+金属圆环，场景照"
+    product_name: "便携蓝牙音箱（Beosound A5 或同系列，竖置版）"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H07_极简整合"
+      - "音频"
+
+    design_language:
+      silhouette: "竖置圆柱体，顶盖+底环金属，侧面编织布全覆盖"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "自然米棕编织 + 拉丝银 + 深棕皮革"
+        material: "编织藤/织物 + 铝合金 + 皮革"
+        finish: "哑光编织 + 拉丝金属 + 皮革磨砂"
+      mounting: "便携手提"
+      signature_detail: "与audio_001为同款产品不同角度（场景照），展示家居场景中的融入感；产品在书本上呈现时像装饰器皿而非电子产品"
+
+    design_level:
+      score: 4
+      reason: "场景照视角，体现H07整合手法的最终效果：产品可以被误认为是家居摆件；极简整合成功使产品获得非品类属性"
+
+    design_tags:
+      - "H07极简整合"
+      - "格栅即外观"
+      - "功能件顶盖集成"
+      - "家居融合感"
+      - "非品类化外观"
+
+    hero_feature: "编织外衣使音箱在家居场景中以摆件身份存在，消除电子产品感"
+    problem_solved: "音箱通常视觉上宣告自己是电子设备；整合后产品获得家居融合能力"
+    transferable_technique: "天然材质整包电子产品，将功能面最小化，实现品类跨界感知"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_audio_005"
+    source_images:
+      - filename: "H07_audio_005.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_audio_005.jpg"
+        image_role: "hero"
+        visual_anchor: "同audio_002，扁平椭圆正面，白底产品照"
+    product_name: "便携蓝牙音箱 Beosound A5"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+
+    category_path:
+      - "H07_极简整合"
+      - "音频"
+
+    design_language:
+      silhouette: "横置椭圆扁柱，正面全编织覆盖"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "自然米棕编织 + 拉丝银"
+        material: "编织织物 + 铝合金框"
+        finish: "哑光编织 + 拉丝金属"
+      mounting: "桌面放置 / 手提"
+      signature_detail: "与audio_002同款产品的白底正面产品照，突出编织面的纹理质感；金属框极薄，正面仅编织面料和B&O logo两种视觉元素"
+
+    design_level:
+      score: 5
+      reason: "正面视角最清晰展示H07手法：整个功能面被单一材质无缝覆盖，无任何附加件"
+
+    design_tags:
+      - "H07极简整合"
+      - "单一材质全覆盖"
+      - "零分件线正面"
+      - "产品照参考"
+      - "编织格栅合一"
+
+    hero_feature: "白底正面图：整个正面是一块无接缝的编织平面，适合作为渲染参考"
+    problem_solved: "提供清晰的手法示例图，适用于Step 08渲染参考图"
+    transferable_technique: "全面覆盖 + 极薄框的组合是H07最高效执行方式"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_audio_006"
+    source_images:
+      - filename: "H07_audio_006.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_audio_006.jpg"
+        image_role: "context"
+        visual_anchor: "同audio_003，木纹版场景照（泳池边）"
+    product_name: "便携蓝牙音箱（Beosound A5 木纹版）"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+
+    category_path:
+      - "H07_极简整合"
+      - "音频"
+
+    design_language:
+      silhouette: "横置椭圆扁柱，木条竖纹侧面，深色顶盖"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "天然木色 + 深海军蓝"
+        material: "薄木条贴面 + 深色盖板"
+        finish: "哑光木纹 + 哑光深色"
+      mounting: "桌面放置 / 手提"
+      signature_detail: "户外泳池场景，展示木纹音箱如何在非室内环境融入自然材质背景；与audio_003相比强调户外使用场景下的材质融合"
+
+    design_level:
+      score: 4
+      reason: "场景照，产品在白色铺面上与泳池环境融合，木纹材质跨越室内外场景；主要价值是展示H07手法的场景适应性"
+
+    design_tags:
+      - "H07极简整合"
+      - "木条格栅合一"
+      - "场景照参考"
+      - "户外融合感"
+      - "天然材质跨场景"
+
+    hero_feature: "木纹整合使音箱在户外场景同样融合，材质跨越室内外边界"
+    problem_solved: "电子产品在户外通常显得突兀；天然材质整合使产品获得环境适应性"
+    transferable_technique: "天然材质（木/藤/编织）整合可扩展产品使用场景，使电子产品跨越室内外边界"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_furniture_009"
+    source_images:
+      - filename: "H07_furniture_009.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_furniture_009.jpg"
+        image_role: "hero"
+        visual_anchor: "白色模块化壳体包裹蓝色软垫扶手椅，侧面集成小桌，底部万向轮"
+    product_name: "模块化扶手椅（620 Chair Program或同类）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H07_极简整合"
+      - "家具"
+
+    design_language:
+      silhouette: "方形外壳+圆角，白色硬壳包住蓝色软垫，侧桌从扶手延伸"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "哑光白 + 牛仔蓝"
+        material: "注塑/钢板壳体 + 织物软垫"
+        finish: "哑光烤漆 + 织物"
+      mounting: "落地万向轮"
+      signature_detail: "扶手、侧板、底框整合为连续白色壳体，软垫嵌入壳体内；右侧小桌从壳体延伸出来，不增加新的结构件；壳体将所有结构件整合进同一轮廓"
+
+    design_level:
+      score: 4
+      reason: "壳体整合策略非常清晰：多个功能件（座、背、扶手、侧桌、底座）统一在一套壳体语言下；软硬材质的对比强化了整合感"
+
+    design_tags:
+      - "H07极简整合"
+      - "壳体整合多功能件"
+      - "侧桌从扶手延伸"
+      - "软硬材质整合"
+      - "万向轮整合进底部"
+
+    hero_feature: "侧桌从扶手壳体自然延伸，无单独支撑腿，整合进椅体轮廓内"
+    problem_solved: "独立茶几需要占用额外空间；壳体延伸侧桌使功能集成在单一脚印内"
+    transferable_technique: "壳体延伸策略：将附属功能件的结构合并进主体壳体，消除独立支撑件"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_furniture_010"
+    source_images:
+      - filename: "H07_furniture_010.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_furniture_010.jpg"
+        image_role: "hero"
+        visual_anchor: "白色模块化双人沙发，棕色皮革软垫，两侧延伸小桌"
+    product_name: "模块化双人沙发（620 Chair Program双座版）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H07_极简整合"
+      - "家具"
+
+    design_language:
+      silhouette: "横向矩形，白色壳体收边，棕色皮革填充，两端侧桌对称"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "哑光白 + 棕色皮革"
+        material: "注塑/钢板壳体 + 皮革软垫"
+        finish: "哑光烤漆 + 皮革"
+      mounting: "落地万向轮"
+      signature_detail: "两侧小桌与沙发壳体连为一体，无需单独家具；底部壳体将四个轮子整合为视觉上的单一底座；整体像一件带功能的雕塑"
+
+    design_level:
+      score: 4
+      reason: "双人版展示了壳体整合策略的可扩展性；侧桌+轮子+扶手全部被统一壳体吞并；棕色皮革与白色壳体的冷暖材质对比是辅助手法"
+
+    design_tags:
+      - "H07极简整合"
+      - "对称壳体延伸"
+      - "沙发+侧桌一体化"
+      - "底部轮子壳体整合"
+      - "模块扩展"
+
+    hero_feature: "沙发两端侧桌与主体连为一件，整体脚印最小化，功能密度最大化"
+    problem_solved: "沙发+两个边桌通常需要三件家具；整合后一件解决，空间利用率显著提升"
+    transferable_technique: "对称延伸策略：两端功能件从主体对称延伸，统一材质/壳体语言覆盖全部"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_furniture_011"
+    source_images:
+      - filename: "H07_furniture_011.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_furniture_011.jpg"
+        image_role: "hero"
+        visual_anchor: "深色系两把扶手椅+脚凳，黑色金属底座，棕色织物软垫，经典壁炉场景"
+    product_name: "扶手椅含脚凳（RZ 62或同类）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H07_极简整合"
+      - "家具"
+
+    design_language:
+      silhouette: "方形椅壳，扶手与侧板连为一体，脚凳独立但同语言"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "黑色框架 + 棕色织物"
+        material: "金属/黑色漆板 + 织物软垫"
+        finish: "哑光黑 + 织物"
+      mounting: "落地轮/脚"
+      signature_detail: "黑色壳体将座框、侧板、扶手整合为L型轮廓；软垫嵌入壳体凹槽内；脚凳与主椅采用相同壳体语言，成套感强"
+
+    design_level:
+      score: 3
+      reason: "壳体整合策略清晰，但深色材质在场景中视觉冲击力偏弱；脚凳是独立件而非从主椅延伸，整合程度相对低于009/010"
+
+    design_tags:
+      - "H07极简整合"
+      - "壳体整合座框"
+      - "软垫嵌入式"
+      - "成套壳体语言"
+      - "L型轮廓"
+
+    hero_feature: "L型黑色壳体将座位侧面和底部整合为单一轮廓，软垫悬浮感"
+    problem_solved: "传统椅腿+扶手是多根独立件；壳体方案将其合并为连续的板件结构"
+    transferable_technique: "L型壳体策略：用单块连续板件替代多根独立腿/扶手，创造整合感"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_furniture_012"
+    source_images:
+      - filename: "H07_furniture_012.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_furniture_012.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝灰色系餐桌椅组合，金属腿细腿，椅背镂空网格，极简餐厅场景"
+    product_name: "餐桌椅组合（Kartell或同类极简设计）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H07_极简整合"
+      - "家具"
+
+    design_language:
+      silhouette: "方形桌面 + 细长金属腿；椅子背面镂空矩形网格，座面平整"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "蓝灰色（桌椅统一色）"
+        material: "金属腿 + 铝/塑料桌面 + 网格椅背"
+        finish: "哑光涂层统一色"
+      mounting: "落地独立"
+      signature_detail: "桌椅采用统一蓝灰涂层，消除材质差异；椅子背部网格充当结构支撑和通风，无独立背板；细腿最大化视觉减重；整体通过色彩统一实现视觉整合"
+
+    design_level:
+      score: 3
+      reason: "色彩统一整合是有效手法，但产品本身结构整合创新性一般；主要价值在展示通过色彩统一消除多件家具视觉割裂感"
+
+    design_tags:
+      - "H07极简整合"
+      - "色彩统一整合"
+      - "网格背板结构装饰合一"
+      - "细腿减重"
+      - "餐桌椅成套感"
+
+    hero_feature: "桌椅统一蓝灰色使多件家具在视觉上融合为一个整体场景"
+    problem_solved: "多件家具颜色不统一会造成视觉杂乱；色彩统一是低成本整合手法"
+    transferable_technique: "色彩统一策略：用统一色漆覆盖同系列产品，将多件变为视觉上的一件"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_furniture_013"
+    source_images:
+      - filename: "H07_furniture_013.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_furniture_013.jpg"
+        image_role: "hero"
+        visual_anchor: "KD27台灯系列，橙/红/绿/黄/白色系，圆柱底座+鹅卵石形灯罩，S型整合镂空"
+    product_name: "KD27台灯（Joe Colombo设计）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H07_极简整合"
+      - "家具"
+
+    design_language:
+      silhouette: "圆柱底座+圆形灯头一体成型，S型镂空贯通底座与灯头"
+      light_opening: "灯头上方半球形乳白漫射罩"
+      thermal: "镂空侧面自然散热"
+      cmf:
+        color: "单色系（橙/红/深绿/黄/白各版本）"
+        material: "注塑ABS一体成型"
+        finish: "高光注塑"
+      mounting: "台面放置"
+      signature_detail: "底座和灯头通过S型镂空结构合为一体成型件，无独立连接管；内嵌灯泡被乳白罩整合，不外露；整件灯是单一注塑件概念"
+
+    design_level:
+      score: 5
+      reason: "教科书级别的整合：底座+结构管+灯头整合为一个注塑件，S型镂空同时解决散热、减重、造型三个问题；灯罩无单独固定件，嵌入壳体"
+
+    design_tags:
+      - "H07极简整合"
+      - "底座灯头一体成型"
+      - "S型镂空整合结构散热造型"
+      - "注塑单件化"
+      - "灯罩嵌入式"
+
+    hero_feature: "底座到灯头是单件注塑，S型镂空是结构+散热+造型三合一的整合方案"
+    problem_solved: "传统台灯底座、灯管、灯头是三个独立件；一体成型消除所有连接件和接缝"
+    transferable_technique: "一体成型策略：将多个功能件用单一成型工艺合并，镂空解决散热和减重"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h07_furniture_014"
+    source_images:
+      - filename: "H07_furniture_014.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H07_极简整合/H07_furniture_014.jpg"
+        image_role: "hero"
+        visual_anchor: "白色boucle沙发+灰色boucle异形椅+大理石面圆桌，工业混凝土背景"
+    product_name: "现代客厅家具组合（沙发+休闲椅+咖啡桌）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H07_极简整合"
+      - "家具"
+
+    design_language:
+      silhouette: "有机圆弧形沙发和异形椅，桌面圆形，整体无棱角"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "米白 + 中灰 + 大理石米色"
+        material: "boucle织物 + 木/金属桌腿 + 大理石桌面"
+        finish: "绒面boucle + 天然石材"
+      mounting: "落地"
+      signature_detail: "各家具件通过有机曲线轮廓统一，没有棱角；色彩在同一暖灰色系内协调；桌腿极细，桌面悬浮感强；整组家具视觉上整合为柔软有机的场景氛围"
+
+    design_level:
+      score: 3
+      reason: "通过轮廓语言统一和色彩协调实现跨件整合，但单件本身的整合设计创新性较弱；主要价值在展示H07在场景层面的应用"
+
+    design_tags:
+      - "H07极简整合"
+      - "有机轮廓统一"
+      - "色调协调整合"
+      - "桌腿极细悬浮感"
+      - "boucle材质统一"
+
+    hero_feature: "整组家具通过有机圆弧轮廓+同色系boucle材质整合为视觉单一场景"
+    problem_solved: "多件家具容易形成视觉杂乱；轮廓语言统一是场景层整合的有效方式"
+    transferable_technique: "轮廓语言统一策略：同系列产品共用有机曲线设计动词，使多件成为一个和谐整体"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""

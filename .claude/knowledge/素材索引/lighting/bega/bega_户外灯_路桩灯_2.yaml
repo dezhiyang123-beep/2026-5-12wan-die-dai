@@ -1,0 +1,426 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "路桩灯"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "bega_户外_路桩灯_b2_001"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "暗灰色细圆柱体路桩灯全身视图，上半段竖向条形乳白发光带"
+      - filename: "129.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/129.jpg"
+        image_role: "detail"
+        visual_anchor: "圆柱路桩灯顶部近景，乳白半透明上段散光效果，深灰金属圆帽"
+    product_name: "圆柱竖向条形发光路桩灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "细高圆柱体，比例约1:7（直径:高），顶部平圆帽，底部圆形法兰底座"
+      light_opening: "竖向全高条形开口，嵌入圆柱侧面，乳白亚克力漫射板，360°均匀出光"
+      thermal: "铝合金圆柱体整体作为散热器，无外露散热鳍片"
+      cmf:
+        color: "石墨深灰（graphite）"
+        material: "压铸铝 + 乳白亚克力漫射罩"
+        finish: "细砂纹粉末喷涂"
+      mounting: "底部圆形法兰地面固定，暗线穿管"
+      signature_detail: "竖向条形发光带嵌入圆柱侧面，日间呈隐藏式细缝，夜间通体发光"
+    design_level:
+      score: 4
+      reason: "圆柱与竖向光带的比例控制极精准，光带宽度与柱径形成强烈视觉张力，整体语言简洁有力，是BEGA标志性圆柱路桩系列"
+    design_tags:
+      - "圆柱造型"
+      - "竖向条形发光"
+      - "隐藏光源"
+      - "漫射出光"
+      - "极简主义"
+      - "H07极简整合"
+      - "H09隐藏工程"
+    hero_feature: "竖向条形光带嵌入圆柱侧面——日间几乎隐形，夜间形成贯穿全身的发光线条"
+    problem_solved: "路桩灯日间显眼笨重、夜间出光不均匀的问题；此设计白天轮廓干净，夜间出光柔和均匀"
+    transferable_technique: "将发光面整合进结构主体的侧面凹槽，避免独立灯头，实现造型与光效合一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_b2_002"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/18.jpg"
+        image_role: "hero"
+        visual_anchor: "方柱路桩灯全身，深色金属框架+银灰色主体，双竖向通透槽贯穿全高"
+      - filename: "122.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/122.jpg"
+        image_role: "detail"
+        visual_anchor: "方柱路桩灯上半段近景，深灰砂纹质感，中央单竖槽通透发光细节"
+    product_name: "方柱双竖槽透光路桩灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "高细方柱体，比例约1:8（截面宽:高），顶部平盖，底部方形底座"
+      light_opening: "双竖向全高通透槽，位于方柱两侧面，无漫射板，直接透光形成线性光效"
+      thermal: "铝合金方柱体，无独立散热结构"
+      cmf:
+        color: "双色：深黑色竖向边框 + 银灰色主体面板"
+        material: "压铸铝（框架） + 铝板（主体面板）"
+        finish: "框架黑色粉末喷涂，主体面板银灰细砂纹"
+      mounting: "底部方形法兰地面固定"
+      signature_detail: "双色对比框架与主体，全高通透竖槽形成建筑感光栅效果"
+    design_level:
+      score: 4
+      reason: "双色框架构成鲜明的结构表达，全高通透槽在夜间形成连续光线，建筑语言强，材质层次清晰"
+    design_tags:
+      - "方柱造型"
+      - "双竖向通透槽"
+      - "双色材质对比"
+      - "建筑感"
+      - "线性出光"
+      - "H08对比强调"
+      - "H03分件线"
+    hero_feature: "贯穿全高的双竖向通透槽——白天是材质对比的结构线，夜间是双线发光轨道"
+    problem_solved: "方柱路桩单调平面无视觉焦点；通透槽赋予结构深度和光效层次"
+    transferable_technique: "双竖槽通透设计结合双色框架，强化方柱造型的建筑感和光效辨识度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_b2_003"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/19.jpg"
+        image_role: "hero"
+        visual_anchor: "方柱路桩灯全身，深石墨色，上段宽大扁平透光面板，下段实体方柱"
+    product_name: "方柱单面宽幅发光路桩灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "方柱体分两段：上段灯头部分约占1/3高，内嵌宽扁矩形透光面；下段实体方柱约占2/3高"
+      light_opening: "单面宽幅矩形透光面板，位于上段正面，乳白漫射板，单侧定向出光"
+      thermal: "铝合金整体结构，无外露散热鳍片"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "压铸铝 + 乳白亚克力漫射板"
+        finish: "细砂纹粉末喷涂"
+      mounting: "底部方形底座地面固定，侧面可见小螺钉固定点"
+      signature_detail: "灯头与柱身截面一致，形成一体化视觉；透光面板内嵌无凸出，与框架齐平"
+    design_level:
+      score: 4
+      reason: "上下两段比例关系精确，灯头整合进方柱截面不破坏整体轮廓，单面定向出光适合路径标识，是BEGA方柱系列的典型语言"
+    design_tags:
+      - "方柱造型"
+      - "单面定向出光"
+      - "宽幅矩形透光面"
+      - "上下分段"
+      - "极简方块感"
+      - "H07极简整合"
+    hero_feature: "灯头宽幅透光面与方柱截面等宽，日间外观如整体方柱，无灯头凸出感"
+    problem_solved: "路桩灯灯头与柱身截面不一致导致视觉割裂；此设计保持截面统一，轮廓纯粹"
+    transferable_technique: "将光源面整合进柱截面边界内，保持柱体轮廓不被打破"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_b2_004"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "高细方柱路桩灯，顶部斜切角设计，顶面嵌入小方形格栅透光窗"
+    product_name: "方柱斜顶格栅发光路桩灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "高细方柱体，顶部一角斜切形成45°斜面，斜面上嵌入小方形透光窗，柱体延续至底座"
+      light_opening: "顶部斜切面上的小方形格栅透光窗，向斜上方定向出光，可见精细内部格栅结构"
+      thermal: "铝合金方柱一体化，斜顶设计引导雨水自然排出"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "压铸铝"
+        finish: "细砂纹粉末喷涂"
+      mounting: "底部方柱底座地面固定，两段拼接可见细分件线"
+      signature_detail: "斜切顶面打破方柱的几何单调性，顶部格栅光窗功能性强，防眩光效果好"
+    design_level:
+      score: 4
+      reason: "斜切顶作为功能性设计（防眩光+排水）同时增加造型识别度，格栅窗设计精细，整体比例修长，是BEGA斜顶方柱系列的经典款"
+    design_tags:
+      - "方柱造型"
+      - "斜切顶"
+      - "顶部格栅出光"
+      - "防眩光"
+      - "功能外显"
+      - "H11功能外显"
+      - "H07极简整合"
+    hero_feature: "45°斜切顶面——将功能需求（防眩光、防积水）转化为标志性造型细节"
+    problem_solved: "方柱顶部积水和炫光问题；斜切顶同时解决防水和防眩光，并形成造型特色"
+    transferable_technique: "斜切顶面整合防水坡度与出光角度，一个几何动作解决两个功能问题"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_b2_005"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "薄板状路桩灯两件套（高款+矮款），深石墨色，顶部嵌入斜面方形透光窗"
+    product_name: "薄板斜面透光路桩灯（双尺寸系列）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "超薄矩形平板形体，宽与厚比例约4:1（极扁），顶部嵌入方形斜面透光模块，系列含高款和矮款"
+      light_opening: "顶部方形斜面格栅透光窗，内嵌深凹，带防眩光格栅，向斜前方定向出光"
+      thermal: "铝合金薄板体，扁平大面积散热"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "铝合金"
+        finish: "细砂纹粉末喷涂"
+      mounting: "底部方柱底座或侧边固定，图示含两种尺寸并排展示"
+      signature_detail: "极扁薄板造型打破常规方柱形态，是系列中造型最特殊的款型，薄板主面几乎无细节，光窗成为唯一焦点"
+    design_level:
+      score: 4
+      reason: "超薄平板造型在路桩灯品类中罕见，极端比例形成强烈辨识度，光窗嵌入顶部的设计使平面主体保持整洁"
+    design_tags:
+      - "薄板造型"
+      - "超扁比例"
+      - "顶部斜面出光"
+      - "防眩光格栅"
+      - "双尺寸系列"
+      - "H07极简整合"
+      - "H04参数化"
+    hero_feature: "极端扁薄的平板体量——在路桩灯品类中形成唯一性的造型语言"
+    problem_solved: "路桩灯体量笨重占地面积大；超薄平板最大化减少视觉体量，融入环境"
+    transferable_technique: "通过极端压缩厚度比例颠覆品类惯例，形成辨识度，同时保持功能完整"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_b2_006"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/22.jpg"
+        image_role: "hero"
+        visual_anchor: "薄板路桩灯两件套，深石墨色，顶部横向宽幅百叶/条纹漫射透光带"
+      - filename: "23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/23.jpg"
+        image_role: "structural"
+        visual_anchor: "同款薄板路桩灯结构透视图（无光源），展示双尺寸开放矩形框架骨架"
+    product_name: "薄板横向条纹透光路桩灯（双尺寸系列）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "超薄矩形平板体，与b2_005相同外廓，顶部嵌入横向全宽条纹漫射透光带，系列含高款和矮款"
+      light_opening: "顶部横向全宽条纹漫射透光带，细密平行线纹理漫射板，向上及前方漫射出光"
+      thermal: "铝合金薄板体，与b2_005同结构"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "铝合金 + 条纹漫射亚克力或玻璃"
+        finish: "细砂纹粉末喷涂"
+      mounting: "底部固定，结构图可见方形截面内腔布线空间"
+      signature_detail: "条纹纹理漫射板赋予透光区视觉质感，与光滑平板主体形成材质对比；结构图揭示开放式矩形框架骨架"
+    design_level:
+      score: 4
+      reason: "与b2_005同体量但换用横向条纹透光方式，形成系列内的光效差异化；结构透视图显示内部骨架工程精简"
+    design_tags:
+      - "薄板造型"
+      - "横向条纹漫射透光"
+      - "条纹纹理面板"
+      - "双尺寸系列"
+      - "结构透视"
+      - "H10材料表达"
+      - "H07极简整合"
+    hero_feature: "横向全宽条纹漫射带——在超薄板体上形成宽幅柔光效果，纹理本身成为装饰语言"
+    problem_solved: "薄板体量出光面小导致光通量不足；横向全宽漫射带最大化出光面积同时保持整洁外观"
+    transferable_technique: "条纹纹理漫射板在提升光效柔和度的同时赋予透光区材质细节，日间也有观赏性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_b2_007"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/24.jpg"
+        image_role: "hero"
+        visual_anchor: "不锈钢圆柱路桩灯，亮银色，顶部透明圆罩内含白色锥形反射器"
+    product_name: "不锈钢圆柱透明顶罩路桩灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "圆柱体，比例约1:5（直径:高），顶部透明玻璃/亚克力圆罩内置锥形反射器，底部宽圆形法兰底座"
+      light_opening: "顶部透明半球罩，360°透明出光，内置白色锥形反射器向四周散射，形成灯塔效果"
+      thermal: "不锈钢圆柱体导热，无独立散热结构"
+      cmf:
+        color: "亮银（brushed stainless steel）"
+        material: "不锈钢圆柱 + 透明强化玻璃顶罩 + 白色铝合金锥形反射器"
+        finish: "拉丝不锈钢"
+      mounting: "底部宽圆形法兰地面固定，适合户外公共场所"
+      signature_detail: "透明顶罩内置锥形反射器，白天可见内部光学结构，夜间发光如灯塔；不锈钢材质与其他石墨色系列形成材质差异"
+    design_level:
+      score: 4
+      reason: "不锈钢材质与透明顶罩的组合营造精密仪器感，锥形反射器可见于透明罩内形成有趣的内部光学展示，是系列中材质最高档的款型"
+    design_tags:
+      - "圆柱造型"
+      - "不锈钢材质"
+      - "透明顶罩"
+      - "锥形反射器可见"
+      - "360°出光"
+      - "灯塔效果"
+      - "H10材料表达"
+      - "H11功能外显"
+    hero_feature: "透明顶罩内可见白色锥形反射器——将光学结构外露为设计语言，功能即装饰"
+    problem_solved: "室外路桩灯耐腐蚀性与美观性的平衡；不锈钢材质兼顾耐久性与高档感"
+    transferable_technique: "将内部光学件（反射器）通过透明罩外露，使功能结构成为视觉焦点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_路桩灯_b2_008"
+    source_images:
+      - filename: "64.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/64.jpg"
+        image_role: "hero"
+        visual_anchor: "极薄方柱路桩灯近景，深灰砂纹，中央单条竖向通透槽发光，顶部厚平帽"
+    product_name: "方柱单竖槽通透发光路桩灯（近景）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "方柱体，上段居中单竖向通透槽，顶部厚平盖，整体比例高挺"
+      light_opening: "单竖向通透槽，位于方柱正面中央，槽内可见发光源，无漫射板，直接透光"
+      thermal: "铝合金方柱体"
+      cmf:
+        color: "深石墨灰（graphite）"
+        material: "压铸铝"
+        finish: "细砂纹粉末喷涂，质感可见"
+    design_level:
+      score: 4
+      reason: "近景拍摄充分展示铝合金砂纹质感，单竖槽在厚实方柱中形成精准的线性光缝，比例和做工细节在此视角下表现突出"
+    design_tags:
+      - "方柱造型"
+      - "单竖向光缝"
+      - "通透出光"
+      - "砂纹金属质感"
+      - "细节近景"
+      - "H09隐藏工程"
+    hero_feature: "单条精准竖向光缝嵌入厚实方柱——光缝与柱体质感形成强烈对比，线条感极强"
+    problem_solved: "方柱路桩出光面过宽导致眩光；单竖缝精准控光，防眩效果好"
+    transferable_technique: "单线光缝控制出光宽度，在厚实实体中形成高亮度线状发光效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "64.jpg为近景裁切图，无法确认是否与19.jpg同款或独立新款，需与完整视图对比确认product_grouping"
+
+  - product_id: "bega_户外_路桩灯_b2_009"
+    source_images:
+      - filename: "91.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/91.jpg"
+        image_role: "hero"
+        visual_anchor: "三根高挑路桩/灯柱材质变体并排：纯铝合金细杆、方柱铝合金顶+木纹下身、细杆铝合金顶+深色木下身"
+    product_name: "高挑细杆路桩灯（金属+木材多材质变体系列）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "极细高挑圆杆或方杆，比例约1:15以上（径:高），顶部有灯头模块，下段有材质分区"
+      light_opening: "顶部灯头模块（方柱款可见竖向细槽），其余款式灯头细节在此视角不清晰"
+      thermal: "铝合金或木质复合结构"
+      cmf:
+        color: "银灰铝合金 / 铝合金顶+浅色木纹（橡木色） / 铝合金顶+深色木纹（胡桃色）"
+        material: "铝合金圆杆或方杆 + 木质贴面（热带硬木或硬质竹材）"
+        finish: "铝合金本色 / 木质天然纹理"
+      mounting: "底部地面固定（底座细节不清晰）"
+      signature_detail: "金属与木材的材质分段——铝合金承担结构和灯头，木材覆盖中下段主体，形成自然与工业的对比；木材外观在传统金属路桩品类中罕见"
+    design_level:
+      score: 5
+      reason: "将木材引入路桩灯品类是BEGA的罕见尝试，三种变体对比展示材质系统的宽度，金属顶+木质身的分段逻辑清晰且有原创性；此图是该材质系列的核心参考"
+    design_tags:
+      - "极细圆杆"
+      - "金属+木材复合"
+      - "材质分段"
+      - "自然材质"
+      - "品类突破"
+      - "多变体系列"
+      - "H10材料表达"
+      - "H08对比强调"
+    hero_feature: "铝合金顶部灯头+木质下段主体——金属精密感与自然温暖感的材质二元对立"
+    problem_solved: "路桩灯金属材质缺乏温度感与自然场景适配性；木材下段使其融入花园、庭院等自然环境"
+    transferable_technique: "将功能性金属（灯头+结构连接）与装饰性木材（主视觉区）分段，实现功能不妥协+材质表达最大化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

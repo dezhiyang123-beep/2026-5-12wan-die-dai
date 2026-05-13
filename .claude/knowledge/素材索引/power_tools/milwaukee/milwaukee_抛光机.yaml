@@ -1,0 +1,93 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "抛光机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/抛光机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_抛光机_001"
+    source_images:
+      - filename: "砂光机__综合__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/抛光机/砂光机__综合__13.jpg"
+        image_role: "hero"
+        visual_anchor: "M12无线迷你抛光机3/4侧视，枪形握持，银灰色压铸头部（含偏心旋转轴+金属固定螺丝）+亮红色机身+黑色握把，前端白色羊毛球抛光盘，顶部黑色旋转辅助旋钮，右侧速度调节按钮（+/-），机身紧凑"
+    product_name: "Milwaukee M12 无线随机轨道抛光机"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "抛光机", "无线迷你抛光机"]
+    design_language:
+      silhouette: "枪形单手握持，头部宽扁（抛光盘+机构）+竖向握把，整体紧凑，适合单手作业"
+      light_opening: "N/A"
+      thermal: "机身侧面红色区域内嵌黑色散热格栅"
+      cmf:
+        color: "银灰色压铸头部 + 亮红色机身 + 黑色握把区"
+        material: "压铸铝合金头部 + 工程塑料机身 + TPR橡胶握把 + 羊毛抛光盘"
+        finish: "压铸件机加工高光，机身哑光红色，握把纹理防滑"
+      mounting: "M12底部滑轨式电池"
+      signature_detail: "银灰色大体积压铸头（展示精密机构）与红色机身形成强烈对比，顶部旋转辅助旋钮（单手调节），速度+/-按钮外置于机身侧面"
+    design_level:
+      score: 4
+      reason: "M12迷你抛光机将Milwaukee工业设计语法成功移植至汽车护理/精细抛光品类，压铸头与注塑机身的材质+色彩双重对比鲜明，紧凑枪形单手操作设计符合抛光作业姿态，造型有品类创新"
+    design_tags:
+      - "H08_对比强调"
+      - "H03_分件线"
+      - "H10_材料表达"
+      - "H12_人机界面强化"
+    hero_feature: "银灰色压铸头部外露精密机构 + 枪形单手握持构型（品类差异化）"
+    problem_solved: "传统大型有线抛光机操作笨重，M12迷你无线版解决单手精细抛光区域（镜面/边角）的操控性"
+    transferable_technique: "压铸件暴露精密机构的设计语言（诚实展示工程复杂度作为品质感）；枪形单手握持在圆盘旋转工具上的应用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_抛光机_002"
+    source_images:
+      - filename: "砂光机__综合__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/抛光机/砂光机__综合__14.jpg"
+        image_role: "hero"
+        visual_anchor: "有线大型Milwaukee抛光机3/4侧视，银灰色为主，圆柱机身（大直径电机）+尾端红色Milwaukee品牌区，右侧黑色辅助手柄，前端银色锁紧头+光滑平面抛光盘，电线从尾部引出，整体粗壮工业感"
+      - filename: "砂光机__综合__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/抛光机/砂光机__综合__15.jpg"
+        image_role: "alt"
+        visual_anchor: "同款有线大型Milwaukee抛光机另一角度，银灰机身比例更清晰，右侧黑色辅助手柄角度不同，前端锁紧机构的金属光泽更突出，整体偏银灰色调"
+      - filename: "砂光机__综合__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/抛光机/砂光机__综合__18.jpg"
+        image_role: "alt"
+        visual_anchor: "另一款Milwaukee有线大型抛光机，红色机身比例更高（红色占主导），银灰头部+红色机身主体+黑色辅助手柄，前端安装羊毛球抛光盘，造型比14/15更新款，Milwaukee品牌贴纸可见"
+    product_name: "Milwaukee 有线大型抛光机（专业级）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "抛光机", "有线大型抛光机"]
+    design_language:
+      silhouette: "大直径圆柱横置构型，电机体横向+尾端握把+前端工作头，双手握持（主握把+辅助手柄），整体粗短圆柱形"
+      light_opening: "N/A"
+      thermal: "圆柱电机外壳均匀散热，无明显散热格栅"
+      cmf:
+        color: "老款：银灰主导+红色点缀（尾端/品牌区）; 新款：红色主导+银灰头部+黑色辅助手柄"
+        material: "压铸铝合金电机外壳 + 工程塑料辅助手柄 + TPR握把"
+        finish: "压铸件哑光银灰，塑料件哑光，Milwaukee品牌标签印刷"
+      mounting: "有线（电源线从尾部引出）"
+      signature_detail: "大直径压铸铝合金圆柱电机体（工业感强），侧置可拆卸辅助手柄，老款银灰主导/新款红色主导的演进体现Milwaukee品牌色比重增加趋势"
+    design_level:
+      score: 2
+      reason: "老款银灰为主的大型抛光机（14/15号图）品牌辨识度较低，Milwaukee红色比重过少；18号图新款红色比重增加，品牌识别改善但造型无突破，整体属标准工业执行"
+    design_tags:
+      - "H10_材料表达"
+      - "H08_对比强调"
+    hero_feature: "大直径压铸铝合金圆柱电机外壳（工业级质感），侧置可拆卸辅助手柄"
+    problem_solved: "大面积平面（车身/地板/台面）的重度抛光打磨，需要大功率+双手稳定控制"
+    transferable_technique: "Milwaukee品牌色比重在产品迭代中逐步增加的演进策略（从银灰主导到红色主导），作为品牌化程度的迁移参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

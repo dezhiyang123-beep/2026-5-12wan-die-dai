@@ -1,0 +1,97 @@
+schema_version: product_dna_v1
+category:
+  primary: 音箱
+  secondary: 入耳式耳机
+  tertiary: ''
+source:
+  source_type: brand_official
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/入耳式耳机/
+  generated_at: '2026-05-08'
+products:
+- product_id: bose_iem_001
+  source_images:
+  - filename: 02.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/入耳式耳机/02.jpg
+    image_role: hero
+    visual_anchor: 银灰色开放式耳挂耳机对，C型弧形夹耳结构，无耳塞，正面展示
+  product_name: Bose Ultra Open Earbuds
+  brand_name: Bose
+  brand_confidence: high
+  category_path:
+  - 音箱
+  - 入耳式耳机
+  design_language:
+    silhouette: C型弧形夹耳结构，完全开放不入耳；主体分为上弧臂（夹耳固定）和下圆形驱动单元两段，整体轮廓类似倒钩；无耳塞
+    light_opening: 无可见状态指示灯
+    thermal: 无散热开口
+    cmf:
+      color: 银白/浅灰（Silver/Moonstone）
+      material: 哑光塑料弧臂 + 镜面抛光不锈钢圆形驱动单元面板
+      finish: 哑光与镜面双质感对比；弧臂软质包覆
+    mounting: 夹挂耳廓外侧，不入耳道
+    signature_detail: 圆形镜面驱动单元面板悬浮于耳前，形成高辨识度的'金属圆饼'视觉锚点；弧臂与驱动单元之间有细黑分件线
+  design_level:
+    score: 5
+    reason: 开放式夹耳形态突破传统入耳范式，C型结构具有极高识别度；哑光+镜面CMF对比精致，是近年TWS品类最具创新性的造型方案之一
+  design_tags:
+  - 开放式佩戴
+  - C型夹耳
+  - 无耳塞
+  - 镜面圆形单元
+  - 双质感CMF
+  - 形态创新
+  hero_feature: C型弧形夹耳结构+镜面圆形驱动单元面板，完全开放不堵耳，外观极具辨识度
+  problem_solved: 长时间佩戴传统入耳耳机的耳道不适，以及需要保持环境音感知的使用场景
+  transferable_technique: 哑光结构件+镜面功能面板的CMF双质感对比手法，可迁移到穿戴设备、医疗器械等品类
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: bose_iem_002
+  source_images:
+  - filename: 03.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/入耳式耳机/03.jpg
+    image_role: hero
+    visual_anchor: 深红/梅子色TWS耳机对，标准入耳式硅胶耳帽，产品图白底展示
+  - filename: 05_dup1.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/入耳式耳机/05_dup1.jpg
+    image_role: lifestyle
+    visual_anchor: 同款梅子色耳机佩戴于模特耳中的侧面情境图
+  product_name: Bose QuietComfort Earbuds
+  brand_name: Bose
+  brand_confidence: high
+  category_path:
+  - 音箱
+  - 入耳式耳机
+  design_language:
+    silhouette: 标准TWS入耳式形态；主体为大圆角矩形机身，下方连接圆柱形入耳导管+硅胶耳帽；机身外侧有微弧面；整体饱满圆润
+    light_opening: 机身顶部有细小麦克风孔阵列，无状态指示灯
+    thermal: 无散热开口
+    cmf:
+      color: 梅子红/深紫红（Plum/Berry）
+      material: 光滑ABS塑料机身 + 硅胶耳帽 + 硅胶翼钩
+      finish: 高光与亚光混合；机身主面为微光泽亚光，Bose字样凹印
+    mounting: 入耳式，硅胶耳帽密封耳道
+    signature_detail: 机身外侧大面积平滑曲面作为触控区，Bose品牌字样凹印其上；机身上下分件线将导管与主体清晰区分
+  design_level:
+    score: 3
+    reason: 标准TWS造型语言，配色大胆（梅子红为差异化亮点），整体设计成熟但无形态突破
+  design_tags:
+  - 标准TWS
+  - 梅子红配色
+  - 触控外壳
+  - 硅胶耳帽
+  - 品牌凹印
+  hero_feature: 大面积平滑触控外壳+大胆梅子红配色，在同品类中形成颜色记忆点
+  problem_solved: 主动降噪+长时间佩戴舒适性，适用于通勤/工作场景
+  transferable_technique: 单一高饱和度产品色（梅子红/橙/绿）作为SKU差异化手段，可迁移到消费电子配件品类
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

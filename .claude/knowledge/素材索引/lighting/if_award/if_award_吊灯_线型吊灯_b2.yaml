@@ -1,0 +1,59 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "吊灯"
+  tertiary: "线型吊灯"
+
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/线型吊灯/"
+  generated_at: "2026-05-09"
+
+# 补充：线型吊灯/12.jpg（被if_award_吊灯_枝形线型_1.yaml覆盖01-25时跳过了12）
+
+products:
+  - product_id: "if_吊灯_线型吊灯_012"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/线型吊灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "品牌TWILUX四种模块配置并排展示：同一深灰色圆柱顶帽+白色磨砂圆柱漫射体基础结构，分别展示正面双控制按钮版、裸顶帽版、侧面圆形投影镜头版、超大漫射管版，白底产品图"
+    product_name: ""
+    brand_name: "TWILUX"
+    brand_confidence: "medium"
+
+    category_path:
+      - "灯具"
+      - "吊灯"
+      - "线型吊灯"
+
+    design_language:
+      silhouette: "竖向圆柱形模块化吊灯：上部深灰色实心圆柱帽（含电源/控制），下部白色磨砂漫射圆柱体，两段对接，高径比约4:1至8:1（取决于漫射体长度）"
+      light_opening: "白色磨砂圆柱漫射体360°全向发光；投影模块版本：侧面圆形开口可定向投射"
+      thermal: "LED集成于顶帽内，顶帽深灰色铝合金体兼散热"
+      cmf:
+        color: "顶帽深灰/碳黑 + 漫射体纯白（双色分段）"
+        material: "铝合金顶帽 + 磨砂聚碳酸酯/玻璃漫射管"
+        finish: "深灰哑光（顶帽）+ 磨砂均匀白（漫射管）"
+      mounting: "顶帽直接连接悬吊线缆，可单吊或阵列部署"
+      signature_detail: "深灰顶帽+白漫射管的模块化分段：功能模块（控制/投影/漫射）通过更换顶帽实现，同一外观语法覆盖不同用途，系统性极强"
+    design_level:
+      score: 4
+      reason: "模块化设计逻辑清晰：同一漫射管体通过不同功能顶帽扩展为控制型/投影型/纯漫射型，深灰+白的双色分段在保持视觉一致性的同时明确区分功能区；产品族系统性强，执行克制"
+    design_tags:
+      - "模块化圆柱吊灯"
+      - "深灰白双色分段"
+      - "功能顶帽可换"
+      - "系统化产品族"
+      - "H05模块化"
+      - "H07极简整合"
+    hero_feature: "功能顶帽模块：深灰圆柱顶帽可换装不同功能（控制/投影/纯帽），使同一漫射管体覆盖控制型、投影型、纯漫射型三种用途，形态统一，功能多元"
+    problem_solved: "空间照明需要不同位置的灯具承担不同功能（漫射环境光/定向投影/可控调光），传统做法需要购买不同产品；模块顶帽让同一外观体系满足所有需求"
+    transferable_technique: "功能模块化顶帽/底座的系统化设计策略可迁移到任何需要多功能扩展的灯具；深灰功能模块+白色发光体的双色分段是清晰区分'功能区'与'发光区'的通用语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

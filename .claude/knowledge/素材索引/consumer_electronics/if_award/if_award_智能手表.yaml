@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "智能手表"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手表/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_smartwatch_001"
+    source_images:
+      - filename: "78.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手表/78.jpg"
+        image_role: "hero"
+        visual_anchor: "5色运动手环横向排列，黑色主体+彩色表带，点阵显示屏"
+    product_name: "Smart Fitness Band"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "智能手表"]
+    design_language:
+      silhouette: "细长椭圆形手环，表体与表带一体化弧形"
+      light_opening: "点阵LED显示屏，正面全宽；表带侧面3颗彩色状态LED"
+      thermal: "无散热需求"
+      cmf:
+        color: "黑色主体+5色表带：玫红/红/黑/青绿/黄绿"
+        material: "黑色硬塑料表体，软硅胶表带"
+        finish: "表体哑光黑，表带哑光硅胶"
+      mounting: "表带扣合佩戴，表带侧有3个长圆形调节孔"
+      signature_detail: "表带内侧3个长圆形按键/孔槽，点阵屏显示数字时间与活动数据"
+    design_level:
+      score: 3
+      reason: "多色策略执行统一，黑色主体+彩色表带组合规则清晰；但整体造型平庸，点阵屏与表带集成缺乏记忆点，属于品类标准设计"
+    design_tags: ["运动手环", "多色系", "点阵屏", "H08对比强调", "硅胶表带", "健康追踪"]
+    hero_feature: "黑色主体搭配高饱和度彩色表带，强化个性化标识"
+    problem_solved: "日常运动数据记录（步数/心率），同时作为可更换配色的个人配饰"
+    transferable_technique: "固定深色主体+高饱和撞色配件的配色策略，可迁移至其他穿戴设备或工具手柄"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_smartwatch_002"
+    source_images:
+      - filename: "79.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手表/79.jpg"
+        image_role: "detail"
+        visual_anchor: "同款手环5色叠合成螺旋形展示图，彩色内圈同心排列"
+    product_name: "Smart Fitness Band (Color Stack)"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "智能手表"]
+    design_language:
+      silhouette: "多个手环同心嵌套形成螺旋圆形轮廓，陈列视角而非使用视角"
+      light_opening: "无显示状态"
+      thermal: "无散热需求"
+      cmf:
+        color: "5色同心层：黄绿/玫红/青绿/红/藏蓝，内外层明度渐变"
+        material: "软硅胶表带"
+        finish: "哑光硅胶"
+      mounting: "陈列展示，非佩戴状态"
+      signature_detail: "多色表带嵌套陈列形成视觉整体，强化产品线色彩矩阵叙事"
+    design_level:
+      score: 3
+      reason: "陈列创意有趣，螺旋嵌套展示色彩矩阵的方式有记忆点；但此为产品展示图而非产品设计本身，作为手环设计参考价值有限"
+    design_tags: ["色彩矩阵", "陈列创意", "多色表带", "螺旋形", "产品线展示"]
+    hero_feature: "螺旋同心嵌套陈列，将色彩多样性转化为视觉奇观"
+    problem_solved: "产品线色彩多样性的视觉传达，激发消费者颜色选择欲望"
+    transferable_technique: "同心嵌套陈列法可迁移至多色产品线的宣传图构图策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

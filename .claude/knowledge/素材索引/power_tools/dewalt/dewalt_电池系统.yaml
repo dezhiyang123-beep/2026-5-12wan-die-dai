@@ -1,0 +1,788 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电池系统"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_电池系统_001"
+    source_images:
+      - filename: "电池系统__充电器__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__02.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX 5Ah 2块装，标准黄黑砖形，黑色下半体+黄色上盖（顶面横向散热肋），正面黑色面板：DEWALT + 5AH + 20V MAX"
+      - filename: "电池系统__充电器__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__09.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX 5Ah单块大角度侧视，黄色上盖比例更大，DEWALT大字+20V MAX+5AH在黑色面板"
+      - filename: "电池系统__充电器__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__10.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX 6Ah 2块装，黄色上体面积进一步扩大（6Ah比5Ah更厚），DEWALT+6AH+20V MAX，黑色角落防撞块"
+      - filename: "电池系统__充电器__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__12.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX 4Ah 2块装，与5Ah外形相同，DEWALT+4AH+20V MAX，标准砖形"
+      - filename: "电池系统__充电器__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__18.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX 10Ah单块，最厚的20V砖形（约为5Ah高度的1.8倍），黑色面板更宽，DEWALT+20V+10AH"
+    product_name: "DeWalt 20V MAX Standard Battery Pack (4Ah / 5Ah / 6Ah / 10Ah)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "20V MAX电池"
+    design_language:
+      silhouette: "横卧砖形：黄色顶盖（圆角四边形，含弹出按钮凹槽）+ 黑色下半体（接口侧），容量越大整体越厚，顶面散热肋横向等距排列"
+      light_opening: "N/A（电池）；充电状态指示LED在侧面（按钮触发显示）"
+      thermal: "顶盖横向散热肋（浮雕纹），底部接触面金属触片散热"
+      cmf:
+        color: "黄色（顶盖）+ 黑色（下半体+接口区）"
+        material: "工程塑料壳体，锂离子电芯"
+        finish: "哑光黄注塑，哑光黑注塑"
+      mounting: "20V MAX滑轨接口，从工具尾端滑入锁定；顶部弹出按钮释放"
+      signature_detail: "正面黑色面板的DEWALT大字+容量数字（4/5/6/10AH）直接标注，信息层级清晰，容量变化体现在厚度而非面积"
+    design_level:
+      score: 3
+      reason: "20V MAX黄黑双色砖形是品类标准形态，信息层级清晰，执行到位，但无设计突破"
+    design_tags:
+      - "20V MAX"
+      - "砖形电池"
+      - "H11_功能外显"
+    hero_feature: "黄上黑下的垂直分色线，以颜色分区区分功能区（黑=接口，黄=能量体），比例随容量变化"
+    problem_solved: "标准20V平台通用电池，覆盖4-10Ah满足轻型到重型工具需求"
+    transferable_technique: "以厚度变化而非面积变化体现容量差异——同一外轮廓，垂直生长传达能量感知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_002"
+    source_images:
+      - filename: "电池系统__充电器__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__07.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR 5Ah单块，黑色主体为主（黄色仅左上角弹出键区），正面黑色圆角矩形大标签：DEWALT+XR大字（黄色）+20V+5AH+盾牌图标，灰色XR品牌带"
+      - filename: "电池系统__充电器__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__08.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR 8Ah 2块装，黄色上体+灰色腰带面板（XR+8AH+DEWALT+20V），8Ah是XR中最大，侧面黑色防撞角，散热肋黄色顶面浮雕"
+      - filename: "电池系统__充电器__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__14.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR紧凑型（1.5Ah或2Ah），极扁平低矮轮廓，黄色顶+灰色下体，DEWALT+XR+20V，无黑色下体，整体双色调（黄+灰）"
+    product_name: "DeWalt 20V MAX XR Battery Pack (Compact / 3.5Ah / 5Ah / 8Ah)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "20V MAX XR电池"
+    design_language:
+      silhouette: "同标准20V MAX砖形，但面板改为黑色圆角矩形大面板（5Ah款）或黄色+灰色腰带（8Ah款），紧凑款则极扁平（高度约为标准款60%）"
+      light_opening: "N/A（电池）；侧面LED充电显示"
+      thermal: "顶盖横向散热肋，黑色面板侧面通风槽"
+      cmf:
+        color: "黑色主体（5Ah款）或黄+灰腰带（8Ah款）+ 黄色XR大字 + 盾牌图标"
+        material: "工程塑料，XR（Extended Runtime）高密度锂芯"
+        finish: "哑光黑/黄，灰色腰带注塑"
+      mounting: "20V MAX标准滑轨接口"
+      signature_detail: "XR大字以黄色印在黑色或灰色面板上，是品牌内部子平台最显眼的视觉区分；盾牌图标暗示防护等级提升"
+    design_level:
+      score: 4
+      reason: "XR平台的灰色腰带或黑色主体使电池在视觉上明显区别于标准20V MAX，在货架上形成子品牌差异；紧凑款的扁平剪影是品类中独特形态"
+    design_tags:
+      - "20V MAX XR"
+      - "扩展续航"
+      - "子平台区分"
+      - "H08_对比强调"
+    hero_feature: "黄色XR大字在黑色面板上的高对比显示，将高性能子平台以文字尺寸外显为品牌信号"
+    problem_solved: "高需求工具的扩展续航电池，XR平台保证更高密度和更大放电能力"
+    transferable_technique: "子平台用颜色比例反转（黑主/黄字）区别于标准平台（黄主/黑字）——同形态不同配色即形成品牌内层级感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_003"
+    source_images:
+      - filename: "电池系统__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__综合__02.jpg"
+        image_role: "hero"
+        visual_anchor: "POWERSTACK 20V紧凑电池裸机，极扁平低矮砖形（高度约为标准5Ah的55%），全黄色壳体（无黑色下体），灰色面板带：DEWALT+POWERSTACK标志（三层叠加图标）+20V，正面无弹出按钮凸起"
+    product_name: "DeWalt 20V MAX POWERSTACK Compact Battery"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "POWERSTACK电池"
+    design_language:
+      silhouette: "极扁平砖形，高度约为标准20V MAX电池的55%，无黑色下体（全黄色壳），底部接口区略高出底面，整体呈薄板感"
+      light_opening: "N/A（电池）"
+      thermal: "顶面散热孔（比标准款更小/少，因采用不同散热路径）"
+      cmf:
+        color: "全黄色（壳体）+ 灰色（面板腰带）"
+        material: "工程塑料，内部采用叠层袋形电芯（非圆柱形电芯）"
+        finish: "哑光黄注塑，灰色面板腰带"
+      mounting: "20V MAX标准滑轨接口（底部），与所有20V MAX工具兼容"
+      signature_detail: "POWERSTACK三层叠加图标（三条横线堆叠）是电池内部叠层袋形电芯结构的图形外显；全黄色无黑体的形态与标准款形成鲜明家族内差异"
+    design_level:
+      score: 5
+      reason: "POWERSTACK是DeWalt第一款叠层袋形电芯电池——内部技术突破直接外显为极扁平形态，全黄无黑体打破了20V MAX的固有CMF，在品类内具有真正的形态创新意义"
+    design_tags:
+      - "POWERSTACK"
+      - "叠层电芯"
+      - "极扁平"
+      - "H11_功能外显"
+      - "H07_极简整合"
+    hero_feature: "极扁平全黄色轮廓——去掉黑色下体，用厚度颠覆砖形电池形态惯例，技术突破即形态突破"
+    problem_solved: "为工具提供更紧凑/更轻巧的电池方案，POWERSTACK同容量更薄、更轻、充电更快"
+    transferable_technique: "内部技术变革（叠层电芯）外显为形态变革（极扁平+全黄），技术品牌语言对应视觉语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_004"
+    source_images:
+      - filename: "电池系统__充电器__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__06.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX POWERCONNECT 5Ah，黑色主体为主（黄色仅左上角弹出按钮凸块），正面黄色横向标签带：DEWALT+盾牌图标（含油/水滴图），侧面突出防撞护角比标准款更厚"
+    product_name: "DeWalt 20V MAX POWERCONNECT Battery (Weather/Oil Resistant)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "POWERCONNECT防护电池"
+    design_language:
+      silhouette: "标准20V MAX砖形，但黑色比例远大于黄色（黑色约占80%体积），侧面防撞护角更厚实，整体防护感更强"
+      light_opening: "N/A（电池）"
+      thermal: "同标准款散热路径，但密封性更强"
+      cmf:
+        color: "黑色（主体）+ 黄色（弹出按钮+POWERCONNECT标签带）"
+        material: "工程塑料（额外密封处理），锂离子电芯"
+        finish: "哑光黑主体，哑光黄局部"
+      mounting: "20V MAX标准滑轨接口（兼容所有20V工具）"
+      signature_detail: "盾牌图标内含油/水滴符号——防护属性直接图形化，黑色主体与标准黄主体形成子平台色系对比（黑=防护，黄=标准）"
+    design_level:
+      score: 3
+      reason: "以颜色主次反转区分防护子平台的策略清晰，但形态与标准款相同，无结构创新"
+    design_tags:
+      - "POWERCONNECT"
+      - "防护"
+      - "H08_对比强调"
+    hero_feature: "黑色主体+盾牌图标将防护属性外显为视觉语言，一眼识别防护版本"
+    problem_solved: "油液/水分环境下的工具供电，适合管道/机械维修等接触液体场合"
+    transferable_technique: "防护属性用颜色主次反转（黑主）+图形符号（盾牌+液滴）双重编码，不改变形态即实现品牌内子平台区分"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_005"
+    source_images:
+      - filename: "电池系统__充电器__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__11.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX 5Ah电池+TOOL CONNECT安全系绳：电池侧面夹轨固定的黑色DEWALT编织尼龙系绳（DEWALT黄字），末端银色HMS快扣登山扣，电池面板含蓝色WiFi/蓝牙图标（TOOL CONNECT版本）"
+    product_name: "DeWalt 20V MAX Battery with TOOL CONNECT + Work Tether"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "安全配件"
+    design_language:
+      silhouette: "标准20V砖形主体+侧挂系绳配件（夹轨插入电池侧滑轨槽），系绳从侧面横出约200mm，末端登山扣可挂安全带"
+      light_opening: "N/A（电池）；蓝色TOOL CONNECT蓝牙图标在正面"
+      thermal: "同标准款"
+      cmf:
+        color: "黄黑电池+黑色编织系绳（黄字）+银色HMS快扣"
+        material: "工程塑料电池，尼龙编织系绳，不锈钢登山扣"
+        finish: "哑光黄黑，编织织物，抛光不锈钢"
+      mounting: "系绳通过夹轨附件插入电池侧面导槽，无需工具安装"
+      signature_detail: "蓝色TOOL CONNECT蓝牙图标+银色HMS快扣——将工具追踪（IoT）与人身安全（防坠落）整合于一个电池单元，功能密度高"
+    design_level:
+      score: 4
+      reason: "工具跟踪（蓝牙）+防坠落安全系绳+工具电池三合一整合设计，在高空作业场景中有明确功能创新价值；系绳侧挂方式保持电池正常装卸不受影响"
+    design_tags:
+      - "TOOL CONNECT"
+      - "蓝牙追踪"
+      - "防坠落"
+      - "H05_模块化设计"
+      - "H11_功能外显"
+    hero_feature: "HMS快扣系绳从电池侧面延伸——将电池变为安全系留点，保命功能与供电功能合一"
+    problem_solved: "高空作业（脚手架/电塔）防止电池跌落伤人，同时蓝牙追踪防止遗失"
+    transferable_technique: "安全配件以侧轨插入方式附加于现有产品，不改变核心功能接口，模块化安全升级（H05）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_006"
+    source_images:
+      - filename: "电池系统__充电器__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__04.jpg"
+        image_role: "hero"
+        visual_anchor: "FLEXVOLT 9Ah 20V/60V，圆筒砖形（比20V MAX更圆润），黑色/灰色主体，黄色水平标签带（DEWALT+9AH+FLEXVOLT+20V/60V双电压徽章）居中，底部盾牌图标"
+      - filename: "电池系统__充电器__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__13.jpg"
+        image_role: "hero"
+        visual_anchor: "FLEXVOLT 12Ah，最大FLEXVOLT，黑/灰主体+黄色顶盖，灰色大面板：DEWALT+12AH大字+FLEXVOLT大字+20V/60V，侧面双LED充电指示"
+      - filename: "电池系统__充电器__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__15.jpg"
+        image_role: "hero"
+        visual_anchor: "FLEXVOLT 6Ah 2块装，黄色上盖+黑色护角+灰色面板（DEWALT+6AH+FLEXVOLT+20V/60V）"
+    product_name: "DeWalt FLEXVOLT 20V/60V Battery Pack (6Ah / 9Ah / 12Ah)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "FLEXVOLT 60V电池"
+    design_language:
+      silhouette: "比20V MAX更大更圆润的砖形（6Ah接近相同，9Ah/12Ah明显更高/更宽），接口区宽度更大以容纳60V电压输出"
+      light_opening: "N/A（电池）；侧面2-LED充电指示条（充电/充满两格）"
+      thermal: "底部侧面散热格栅，灰色面板下方散热孔"
+      cmf:
+        color: "黑/灰色主体+黄色顶盖/标签带，与20V MAX黄主/黑辅形成反转"
+        material: "工程塑料，高能量密度锂离子电芯（支持20V/60V双电压自动切换）"
+        finish: "哑光黑灰，哑光黄，灰色面板注塑"
+      mounting: "FLEXVOLT专用接口（兼容20V MAX工具降压运行，60V FLEXVOLT工具全压运行）"
+      signature_detail: "20V/60V双电压徽章在灰色面板底部以黄底黑字显示，清晰传达双平台兼容性；FLEXVOLT大字体与9AH/12AH数字并排，能量感知强烈"
+    design_level:
+      score: 4
+      reason: "FLEXVOLT双电压自动切换是电池平台的技术顶点，灰色面板颜色码将其区别于20V MAX家族，20V/60V双电压徽章是品类中独特的产品信息设计"
+    design_tags:
+      - "FLEXVOLT"
+      - "60V MAX"
+      - "双电压"
+      - "H11_功能外显"
+      - "H08_对比强调"
+    hero_feature: "灰色大面板+20V/60V双电压黄色徽章——技术顶点以颜色码和双数字同时声明，一眼识别高端平台"
+    problem_solved: "一块电池同时为20V和60V工具供电，60V输出为需要高功率的混凝土/伐木工具提供强力"
+    transferable_technique: "以颜色码（黄主→黑灰主+黄标签）区分不同功率平台，在产品家族内建立性能层级的视觉层级"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_007"
+    source_images:
+      - filename: "电池系统__充电器__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__05.jpg"
+        image_role: "hero"
+        visual_anchor: "12V MAX 3Ah 2块装，极紧凑（约为20V一半大小），黄色为主（无大面积黑色），DEWALT+12V+3AH在黄色面板，接口区宽度更窄"
+      - filename: "电池系统__充电器__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__16.jpg"
+        image_role: "hero"
+        visual_anchor: "12V MAX 5Ah POWERCONNECT版本，黑色主体（POWERCONNECT黑色码），黄色弹出键+DEWALT大字，12V+5AH+盾牌图标在正面黄色标签，侧面3+LED充电显示"
+      - filename: "电池系统__充电器__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__17.jpg"
+        image_role: "hero"
+        visual_anchor: "12V MAX 5Ah标准版，黄色主体（比POWERCONNECT版亮，无大面积黑），DEWALT+12V MAX+5AH，侧面3+LED，整体比POWERCONNECT款更黄"
+    product_name: "DeWalt 12V MAX Battery Pack (3Ah / 5Ah)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "12V MAX电池"
+    design_language:
+      silhouette: "比20V MAX更小/更扁（约为20V MAX体积的60%），整体比例更接近正方体（不同于20V款的横卧砖形），12V专用接口宽度比20V窄约25%"
+      light_opening: "N/A（电池）；侧面3格LED充电显示（5Ah款）"
+      thermal: "顶盖散热肋，体积小热量少"
+      cmf:
+        color: "标准款黄色为主（无大面积黑体）；POWERCONNECT款黑色主体+黄色局部"
+        material: "工程塑料，12V锂离子电芯"
+        finish: "哑光黄/哑光黑，规格对应不同CMF策略"
+      mounting: "12V MAX专用接口（比20V MAX窄，不兼容20V工具）"
+      signature_detail: "整机尺寸比20V MAX明显更小，在货架上形成清晰的轻量化视觉信号"
+    design_level:
+      score: 3
+      reason: "12V MAX紧凑电池的小体量是品类定位信号，CMF策略与20V MAX保持一致（标准=黄主，防护=黑主），设计执行到位，无突破"
+    design_tags:
+      - "12V MAX"
+      - "紧凑电池"
+      - "轻量化"
+    hero_feature: "比20V MAX显著更小的体量，以尺寸差异传达轻量紧凑定位"
+    problem_solved: "为轻量电动工具（螺丝刀/检测工具）提供更轻/更紧凑的电源，降低长时间使用的手腕疲劳"
+    transferable_technique: "同CMF语言，以尺寸分层区分不同能量平台，产品家族视觉层级清晰"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_008"
+    source_images:
+      - filename: "电池系统__充电器__23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__23.jpg"
+        image_role: "hero"
+        visual_anchor: "4A充电器，全黑色主体（无大面积黄），顶面黄色DEWALT小标签+充电状态LEDs（4格红色指示），右侧电池插槽，4AMP CHARGER文字在正面"
+      - filename: "电池系统__充电器__21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__21.jpg"
+        image_role: "hero"
+        visual_anchor: "6A充电器（DCB1106），12V/20V双兼容，黑色主体，黄色DEWALT/DCB1106/12V/20V标签面板居中，右侧电池插槽，6AMP CHARGER在正面下方"
+    product_name: "DeWalt Standard Tool Charger (4 Amp / 6 Amp)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "标准充电器"
+    design_language:
+      silhouette: "低矮横卧矩形（充电器品类标准形态），右侧电池插槽向上开口，顶面倾斜面板，左侧腰部可见散热肋，整体黑色为主"
+      light_opening: "N/A（充电器）；LED指示灯阵列在顶面/标签区（4状态：Stage 1/Stage 2/Pack Charged/Hot-Cold Delay）"
+      thermal: "机体两侧竖向散热肋，被动散热"
+      cmf:
+        color: "黑色（主体）+ 黄色（DEWALT标签面板）"
+        material: "工程塑料，标准充电电路"
+        finish: "哑光黑注塑，黄色标签面板"
+      mounting: "台面放置；电池从右侧插槽向下滑入固定"
+      signature_detail: "黑色主体+黄色DEWALT标签面板的组合——与POWERCONNECT电池CMF一致，充电器用黑色主色传达专业/低调基础设施感"
+    design_level:
+      score: 3
+      reason: "标准充电器设计，黑主黄标的CMF语言清晰，4状态LED信息层级完整，设计执行到位无亮点"
+    design_tags:
+      - "标准充电器"
+      - "4A/6A"
+      - "H11_功能外显"
+    hero_feature: "顶面4格LED阵列将充电状态外显为可读信息（Stage 1/Stage 2/Charged/Delay）"
+    problem_solved: "工地日常电池充电，12V/20V双平台兼容，4-6A慢充保护电芯寿命"
+    transferable_technique: "充电状态以4格彩色LED阵列外显，不同阶段不同颜色，无需查看显示屏即可远距读取"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_009"
+    source_images:
+      - filename: "电池系统__充电器__20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__20.jpg"
+        image_role: "hero"
+        visual_anchor: "8A快充（DCB118），黄色主体（与标准4/6A黑主形成对比），顶面倾斜+右侧电池插槽，标签区：DEWALT+DCB118+20V+4状态LED，8 AMP FAST CHARGER黑字在正面"
+      - filename: "电池系统__充电器__22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__22.jpg"
+        image_role: "hero"
+        visual_anchor: "12A快充（DCB1112），更宽更扁的黄色主体（比8A更大），DEWALT大字在顶面，标签+LED在中部，12 AMP FAST CHARGER"
+    product_name: "DeWalt Fast Charger (8 Amp / 12 Amp)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "快速充电器"
+    design_language:
+      silhouette: "与标准4/6A充电器相同的横卧矩形，但尺寸更大（更宽更扁），电池插槽尺寸更大；关键区别：黄色主体（标准款为黑色）"
+      light_opening: "N/A；4格状态LED阵列"
+      thermal: "底部橡胶脚垫增大气流间隙，机体侧散热槽密度更高（快充发热更多）"
+      cmf:
+        color: "黄色（主体）+ 黑色（标签/散热区）——与标准款黑主黄标形成CMF反转"
+        material: "工程塑料，高电流充电电路"
+        finish: "哑光黄，哑光黑散热区"
+      mounting: "台面放置，电池从右侧插槽滑入"
+      signature_detail: "黄色主体与标准款黑色主体的颜色对调——无需看文字，颜色即传达快充级别；12A款体量显著更大，体量即能力感知"
+    design_level:
+      score: 3
+      reason: "用主色反转（黄主vs黑主）区分快充/标准充电器的策略聪明，无需文字识别即可区分产品级别，但形态相同无创新"
+    design_tags:
+      - "快充"
+      - "8A/12A"
+      - "H08_对比强调"
+    hero_feature: "黄色主体与标准款黑色主体形成品牌内颜色对调，充电速度以颜色外显"
+    problem_solved: "高频使用场景快速恢复电量，8A充大容量5Ah约需40分钟（vs标准4A约90分钟）"
+    transferable_technique: "同形态产品线内，用主色反转区分性能级别——比文字标注更直觉化的产品层级信号"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_010"
+    source_images:
+      - filename: "电池系统__充电器__19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__19.jpg"
+        image_role: "hero"
+        visual_anchor: "550W双端口重型充电器，黑色盒形主体，顶部D形大提手（黑色橡胶），两侧各有一个电池插槽（侧向安装），中间黄色区域含2个透明LED窗+550W标注+4状态指示标签，DEWALT浮雕在黑色正面"
+    product_name: "DeWalt 550W Dual-Port Heavy-Duty Charger"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "重型充电器"
+    design_language:
+      silhouette: "方盒形主体，顶部D形圆弧提手（内嵌型），两侧各伸出一个电池插槽（左右对称），整体呈哑铃/拎包形态"
+      light_opening: "N/A；中部2个透明LED观察窗（充电状态可视化）"
+      thermal: "主体散热格栅，550W高功率被动+主动散热"
+      cmf:
+        color: "黑色（主体）+ 黄色（中部功能区面板）"
+        material: "工程塑料，高功率充电电路"
+        finish: "哑光黑，哑光黄局部"
+      mounting: "台面放置，两侧电池侧向插入；D形提手便于现场携带"
+      signature_detail: "两侧对称电池插槽+顶部D形提手——双口同时充电+可拎携带的设计使其像充电背包一样随现场移动"
+    design_level:
+      score: 4
+      reason: "左右对称侧向双插槽+D形提手组合是充电器品类中独特的人机解决方案，550W高功率满足FLEXVOLT大容量电池快充需求，形态清晰传达专业级定位"
+    design_tags:
+      - "双口充电"
+      - "550W"
+      - "D形提手"
+      - "H12_人机界面强化"
+    hero_feature: "两侧对称电池插槽形成哑铃剪影，D形提手将高功率充电站变为可携带设备"
+    problem_solved: "FLEXVOLT大容量电池（9Ah/12Ah）的双口快速充电，适合工地车间内固定或移动使用"
+    transferable_technique: "D形提手将固定设备转为可携带设备，不增加体积，仅改变把手形态即改变使用场景（H12）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_011"
+    source_images:
+      - filename: "电池系统__充电器__26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__26.jpg"
+        image_role: "hero"
+        visual_anchor: "4口同步充电站，超大黄色横向扁平主体，顶面4个电池插槽并排（每槽独立LED指示点），左侧黑色侧面提手（竖向圆柱握把），右侧黑色AC插座，顶面散热肋密集"
+    product_name: "DeWalt 4-Port Simultaneous Battery Charger"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "多口充电站"
+    design_language:
+      silhouette: "超宽横向扁平形态（约为4块电池并排宽度），顶面4个等距电池插槽（均朝上），左侧小圆柱提手，整体如一排充电坞"
+      light_opening: "N/A；每槽独立LED阵列（4状态）"
+      thermal: "顶面密集横向散热肋（4口同步散热需求大）"
+      cmf:
+        color: "黄色（主体）+ 黑色（侧提手+AC区）"
+        material: "工程塑料，多通道充电电路"
+        finish: "哑光黄，哑光黑"
+      mounting: "台面固定放置，可能壁挂；左侧提手便于搬运"
+      signature_detail: "4个并排电池插槽的阵列感——工业级管理感知，单个充电器服务整个施工班组的电池，规模效应在形态上直接体现"
+    design_level:
+      score: 4
+      reason: "4口同步充电的阵列形态在充电器品类中视觉独特，黄色超宽扁平机身有工业设备的仪式感；面向专业工地班组的产品规模感设计合理"
+    design_tags:
+      - "4口充电"
+      - "工地充电站"
+      - "H05_模块化设计"
+    hero_feature: "4个等距并排电池插槽的阵列——以复数形态传达班组级充电能力"
+    problem_solved: "工地施工班组4块电池同步快充，减少等待停机时间，适合工具库管理"
+    transferable_technique: "以插槽数量直接外显容量——4槽阵列即产品定位，无需文字即可传达产品级别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_012"
+    source_images:
+      - filename: "电池系统__充电器__25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__25.jpg"
+        image_role: "hero"
+        visual_anchor: "DCB102工地充电站，黑色主体，顶面2个朝上电池插槽（12V/20V），中间黑色散热格栅，底部前面板：黄色USB图标+DCB102 DUAL USB PORTS，正面底部2个USB-A口，顶面DEWALT黄色标签"
+      - filename: "电池系统__充电器__24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__24.jpg"
+        image_role: "scene"
+        visual_anchor: "TOUGHSYSTEM 2.0 20V充电器，外形为TOUGHSYSTEM工具箱格式（黑色方箱+黄色TOUGHSYSTEM提手扣+两侧金属搭扣），正面DEWALT TOUGHSYSTEM 2.0 20V CHARGER黄色标签，充电器内嵌于工具箱壳内"
+    product_name: "DeWalt Jobsite Charging Station (DCB102 + TOUGHSYSTEM 2.0 Charger)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "工地充电站"
+    design_language:
+      silhouette: "DCB102：低矮宽体黑色盒（2个朝上电池插槽+前置USB口）；TOUGHSYSTEM 2.0款：外形即TOUGHSYSTEM工具箱（方盒+提手+金属搭扣），充电器功能内嵌于收纳箱壳中"
+      light_opening: "N/A；LED充电状态，TOUGHSYSTEM款内可视"
+      thermal: "DCB102顶部中间散热格栅"
+      cmf:
+        color: "DCB102：黑色主体+黄色标签；TOUGHSYSTEM款：黑色工具箱+黄色TOUGHSYSTEM提手+金属搭扣"
+        material: "工程塑料，TOUGHSYSTEM款壳体与标准TOUGHSYSTEM 2.0工具箱相同材质"
+        finish: "哑光黑，哑光黄"
+      mounting: "DCB102台面放置；TOUGHSYSTEM款可与其他TOUGHSYSTEM 2.0模块堆叠"
+      signature_detail: "TOUGHSYSTEM 2.0充电器将充电功能内嵌于工具箱壳中，可与其他存储模块堆叠——充电基础设施变为模块化系统组件"
+    design_level:
+      score: 4
+      reason: "TOUGHSYSTEM 2.0充电器的模块化整合设计将充电功能纳入工具收纳系统，是生态系统设计思维的典型体现；DCB102的双USB+双充电槽整合也有一定价值"
+    design_tags:
+      - "TOUGHSYSTEM 2.0"
+      - "模块化生态"
+      - "USB整合"
+      - "H05_模块化设计"
+    hero_feature: "充电器外形即TOUGHSYSTEM工具箱——功能基础设施成为存储系统的一个模块，可叠放于箱塔中"
+    problem_solved: "工地电池充电+设备收纳一体化，TOUGHSYSTEM充电器可随工具箱一起搬运堆叠"
+    transferable_technique: "将功能设备（充电器）外形模块化为存储系统单元（工具箱），生态系统内的功能单元共享形态语言（H05）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_013"
+    source_images:
+      - filename: "电池系统__充电器__31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__31.jpg"
+        image_role: "hero"
+        visual_anchor: "汽车电池充电/启动器推车，黄色大面板正面（DEWALT大字+LCD 70.0显示+按钮阵列+红黑启动夹电缆），黑色后框架+两个大橡胶轮+伸缩黑色推把，右侧电源线卷绕"
+    product_name: "DeWalt Wheeled Automotive Battery Charger / Jump Starter"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "汽车充电/启动器"
+    design_language:
+      silhouette: "两轮手推车形态：大黄色前面板（正方形比例）+黑色金属管框架（后支架+两个大轮+底脚架）+伸缩推把，整体呈L形侧视"
+      light_opening: "N/A；LCD显示屏显示电流/电压数值"
+      thermal: "大体积空气对流，无主动散热"
+      cmf:
+        color: "黄色（前面板）+ 黑色（框架+推把+轮子）"
+        material: "工程塑料前面板，钢管框架，橡胶充气轮"
+        finish: "哑光黄，黑色粉末涂层框架"
+      mounting: "地面推车，红黑启动夹直接夹车辆电池极柱"
+      signature_detail: "LCD大数字显示+红黑启动夹从顶部伸出——大液晶+彩色线缆的组合将专业汽修设备感知外显于DeWalt黄黑框架之上"
+    design_level:
+      score: 3
+      reason: "标准汽车充电器推车形态，DeWalt黄黑CMF延伸到位，LCD显示屏提供充电数据，设计执行标准无创新"
+    design_tags:
+      - "汽车充电器"
+      - "推车"
+      - "LCD显示"
+    hero_feature: "大黄色面板上LCD大数字显示+红黑启动夹，专业汽修设备感知清晰"
+    problem_solved: "车辆铅酸电池充电和紧急启动，70A+大电流满足重型卡车需求"
+    transferable_technique: "将品牌CMF（黄黑）应用于汽修设备，通过颜色保持跨品类一致性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_014"
+    source_images:
+      - filename: "电池系统__充电器__28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__28.jpg"
+        image_role: "hero"
+        visual_anchor: "30A壁挂EV充电桩，竖向矩形壁挂盒（黄色主体+灰色边缘），顶部DEWALT大字，中间LCD屏幕（显示30A/READY），屏幕两侧黑色线缆管理挂钩，下方J1772黄色充电手柄，长黑色充电线圈绕桩体，左下角30A美标插头"
+      - filename: "电池系统__充电器__30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__30.jpg"
+        image_role: "hero"
+        visual_anchor: "48A版本，与30A相同形态，LCD显示48A/READY，更高功率版本"
+      - filename: "电池系统__充电器__29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__29.jpg"
+        image_role: "hero"
+        visual_anchor: "16A便携式EV充电器，黄色控制盒中段（DEWALT+16A EV CHARGER+LED状态灯+IP-66），两端各有黑色插头（110V美标）和J1772黄色充电手柄，长黑色充电线盘绕"
+    product_name: "DeWalt EV Charger (Level 2 Wall Mount 30A/48A + Portable 16A)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "电动车充电桩"
+    design_language:
+      silhouette: "壁挂款：竖向矩形盒（比例约2:3宽高），两侧有线缆管理挂钩形成框架感；便携款：黄色控制盒居中+两端线缆延伸（哑铃形）"
+      light_opening: "N/A；LCD屏显示充电电流和状态"
+      thermal: "壁挂款边缘散热槽，IP-55/IP-66级防护"
+      cmf:
+        color: "黄色（主体/控制盒）+ 灰色（边缘/背板）+ 黑色（线缆+线缆挂钩）"
+        material: "工程塑料壳体（IP-55/66防护），铜芯充电线缆，J1772接头"
+        finish: "哑光黄，灰色注塑，黑色橡胶绝缘线"
+      mounting: "壁挂款：240V NEMA 14-50壁装+两个安装孔；便携款：110V墙插即用"
+      signature_detail: "J1772充电手柄以黄色装饰+DEWALT字样——DeWalt将品牌色延伸至EV充电手柄的抓握件，在全黑EV充电器市场中高度差异化"
+    design_level:
+      score: 4
+      reason: "DeWalt进入EV充电桩市场是品类扩展创举，黄色J1772手柄+黄色主体在全黑色EV充电器竞争环境中具有强烈视觉差异化；LCD信息界面+线缆管理挂钩体现专业安装思维"
+    design_tags:
+      - "EV充电"
+      - "Level 2"
+      - "J1772"
+      - "品类扩展"
+      - "H08_对比强调"
+    hero_feature: "黄色J1772充电手柄+黄色壁挂体——DeWalt黄黑CMF进入全黑EV充电器品类，在货架/墙面上立刻形成视觉差异"
+    problem_solved: "家庭/工地的电动车Level 2快速充电，30A/48A壁挂款支持主流EV过夜充满，便携16A供旅行/临时使用"
+    transferable_technique: "将品牌标志色（黄色）应用于充电手柄抓握件，在竞品全黑格局中以颜色实现品牌占位"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_015"
+    source_images:
+      - filename: "电池系统__充电器__27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__27.jpg"
+        image_role: "hero"
+        visual_anchor: "USB-C充电器套装：黄色紧凑USB充电适配器（金属夹顶+20V电池轨道接口，可独立壁插）+黑色65W USB-C墙插（DEWALT黄字，折叠插片）+黑黄编织USB-C线缆（5A 100W，黄色DEWALT连接器）"
+      - filename: "电池系统__充电器__32.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__32.jpg"
+        image_role: "hero"
+        visual_anchor: "100W USB-C GaN墙插适配器，黑色主体（竖向方盒），黄色正面板（DEWALT+100W，两个USB-C口），侧面竖向散热肋，折叠三角插片"
+    product_name: "DeWalt USB-C Charging Accessories (Adapters + Cable)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "USB充电配件"
+    design_language:
+      silhouette: "充电适配器：立方体形（竖向约50×50×30mm），黄色正面+黑色散热侧；USB-C线缆：编织扁平线+黄色成型连接器"
+      light_opening: "N/A"
+      thermal: "GaN材质本身高效散热，侧面细密散热肋"
+      cmf:
+        color: "黑色（墙插主体/线缆）+ 黄色（正面面板/连接器）+ 黑黄编织（线缆外皮）"
+        material: "GaN充电芯片，工程塑料壳体，编织尼龙线缆"
+        finish: "哑光黑，哑光黄，黑黄交织编织"
+      mounting: "三角折叠插片（美标），通用墙插"
+      signature_detail: "黑黄编织USB-C线缆——将DeWalt的工业黑黄配色延伸至消费电子配件，线缆本身成为品牌载体"
+    design_level:
+      score: 3
+      reason: "将DeWalt CMF延伸到USB-C消费电子配件是品牌延伸的合理尝试，黑黄编织线缆视觉识别度高；但形态遵循消费电子惯例，无设计突破"
+    design_tags:
+      - "USB-C"
+      - "GaN充电"
+      - "品牌延伸"
+      - "H10_材料表达"
+    hero_feature: "黑黄菱形编织USB-C线缆——工业工具的CMF语言在消费电子线材上的精确翻译"
+    problem_solved: "工地现场或家用为笔记本/手机等设备快速充电，65W/100W GaN满足高功率设备需求"
+    transferable_technique: "以编织线缆的经纬色彩实现品牌色彩植入——无需任何额外材料，仅改变纺织颜色即完成品牌识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_016"
+    source_images:
+      - filename: "电池系统__充电器__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__充电器__01.jpg"
+        image_role: "hero"
+        visual_anchor: "6口便携电源分配器，黄色主体+黑色登山扣形框架，正面黄色面板：6个黑色方形插座孔（2×3阵列）+ACTIVE/WAITING LED指示灯，顶部D形登山扣提手，左侧内置电源线，右侧接地线"
+    product_name: "DeWalt 6-Outlet Portable Power Hub (Carabiner Frame)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "便携电源分配"
+    design_language:
+      silhouette: "方盒主体（约200×150×80mm）+黑色椭圆登山扣形框架（顶部D形提手兼外框），从正面看呈方形面板嵌在椭圆框内"
+      light_opening: "N/A；6个插座孔+ACTIVE/WAITING LED状态指示"
+      thermal: "被动散热，低发热量"
+      cmf:
+        color: "黄色（主体面板）+ 黑色（外框/登山扣提手/插座孔）"
+        material: "工程塑料，内置6口电源分配电路"
+        finish: "哑光黄，哑光黑"
+      mounting: "登山扣提手可挂于脚手架横杆/背包D扣/工具袋"
+      signature_detail: "登山扣形外框是户外/高空作业场景的直接回应——电源分配器可像安全装备一样挂于结构件上，功能悬挂设计"
+    design_level:
+      score: 5
+      reason: "登山扣框架将电源分配器转变为可悬挂的工地基础设施，形态创新直接服务于高空作业场景；6口阵列在紧凑体量中高密度整合；是DeWalt电池生态中最具原创性的形态之一"
+    design_tags:
+      - "6口电源"
+      - "登山扣框架"
+      - "悬挂安装"
+      - "H12_人机界面强化"
+      - "H07_极简整合"
+    hero_feature: "黑色登山扣形框架+D形提手——将电源分配器变为可挂于脚手架的工地悬挂设备，功能即形态"
+    problem_solved: "高空作业（脚手架/梯子）时将单个电源点分配为6路输出，免去带延长线上高处"
+    transferable_technique: "为需要悬挂安装的设备设计登山扣形外框，将固定设备变为悬挂设备——一个形态改变解决一整个场景痛点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_电池系统_017"
+    source_images:
+      - filename: "电池系统__移动电站__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电池系统/电池系统__移动电站__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX便携电站（1800W连续/3600W峰值），宽体横向扁平黄色主体，顶面4个20V MAX电池插槽（各含LED状态指示），左右两端黑色弧形防撞侧翼（兼提手），正面：DEWALT+20V MAX+FOUR 20V MAX BATTERIES IN, 15 AMPS OUT，两端侧翼标注1800 CONTINUOUS WATTS / 3600 PEAK WATTS"
+    product_name: "DeWalt 20V MAX Portable Power Station (1800W / 3600W)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电池系统"
+      - "便携电站"
+    design_language:
+      silhouette: "超宽横向扁平（约为4块电池并排宽度），顶面4个电池槽并列，左右两端大弧形黑色侧翼（像汽车保险杠），整体低矮有力，重心极低"
+      light_opening: "N/A；每个电池槽独立LED充电/输出状态显示"
+      thermal: "底部通风间隙，侧翼内散热通道"
+      cmf:
+        color: "黄色（主体）+ 黑色（两端弧形侧翼）"
+        material: "工程塑料，DC/AC逆变器，4路20V电池接口"
+        finish: "哑光黄，哑光黑橡胶侧翼"
+      mounting: "台面或地面放置；侧翼兼作提手搬运"
+      signature_detail: "左右弧形黑色侧翼（防撞+提手双功能）+顶面4槽阵列——与4口充电站类似但更宽，侧翼的弧形包覆将工业感与可搬运性整合"
+    design_level:
+      score: 4
+      reason: "4块工具电池→AC电力的转换是电池生态系统的扩展顶点，1800W连续输出可驱动大型工具甚至家用电器；4槽阵列+弧形侧翼的形态兼顾视觉冲击力与实用性"
+    design_tags:
+      - "便携电站"
+      - "1800W"
+      - "电池转AC"
+      - "H05_模块化设计"
+      - "H11_功能外显"
+    hero_feature: "顶面4个并联电池插槽——将现有工具电池变为AC电源的适配中枢，生态系统闭环"
+    problem_solved: "无电网场所（工地/野外/停电）提供AC交流电，利用现有工具电池资产，免购额外发电机"
+    transferable_technique: "电池生态的跨设备整合——以电池接口作为能量标准，同一电池同时服务工具+照明+电站，生态锁定效应"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

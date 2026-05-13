@@ -1,0 +1,855 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "壁灯"
+  tertiary: "户外壁灯"
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_壁灯_户外_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/01.jpg"
+        image_role: "context"
+        visual_anchor: "木栅栏上安装两款黑色户外壁灯：近处方形盒状紧贴式，远处小臂挑出带遮光帽款，绿植背景"
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰哑黑方形户外壁灯，厚实正方体壳体贴墙，顶部横向金属遮光板挑出，底部PIR传感器圆眼，光从遮光板下方白色漫射板向下射出"
+    product_name: "方形传感器户外壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "厚实正方形盒体直接贴墙，顶部悬挑横向薄板遮光盖，整体比例方正，无多余装饰曲线"
+      light_opening: "顶部遮光板与灯体间隙向下出光，白色漫射板形成均匀面光源，向下照射"
+      thermal: "铝合金压铸壳体被动散热，体积感本身承担散热功能，无独立散热鳍片"
+      cmf:
+        color: "消光深灰黑（anthracite）"
+        material: "铝合金压铸 + 防紫外线漫射PC板"
+        finish: "户外级粉末涂层，哑光无反光，耐UV耐腐蚀"
+      mounting: "背板直接螺丝固定贴墙，线缆从壳体内走暗线，背面与墙面零间隙"
+      signature_detail: "顶部横向悬挑遮光板与方形盒体组成T形剖面，顶板既是雨水遮蔽也是防眩构件；底部PIR传感器圆眼点缀，功能可读"
+    design_level:
+      score: 4
+      reason: "形态语言克制，遮光板兼顾雨水防护与防眩光双功能，PIR传感器整合干净，工业感与实用性统一，iF获奖水准"
+    design_tags: ["户外照明", "传感器", "方形", "防眩光", "PIR", "哑黑", "铝合金", "iF获奖"]
+    hero_feature: "顶部悬挑横板同时解决防雨、防眩、遮光三个问题，一个构件多重功能"
+    problem_solved: "户外壁灯面临雨水侵入、直射眩光、传感器外露丑陋三重问题；此设计用单一遮光板结构同时化解"
+    transferable_technique: "顶部悬挑薄板防雨防眩一体化；传感器圆眼整合进灯体底部不外露"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/03.jpg"
+        image_role: "context"
+        visual_anchor: "现代砖墙立面上两个圆形黑色户外壁灯，上下双向出光打亮墙面形成蝴蝶形光晕，暮色氛围"
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/13.jpg"
+        image_role: "context"
+        visual_anchor: "砖墙建筑立面夜景，多个圆形壁灯上下双向投光，光束打亮建筑表面，景观照明效果强"
+    product_name: "圆形双向投光户外壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "圆形饼状灯体，扁平圆盘轮廓紧贴墙面，侧面极薄，正面为哑黑实体，出光口隐于上下边缘缝隙"
+      light_opening: "上下双向出光缝：圆盘上下边缘各有一条横向发光缝，光束分别向上向下投射，形成对称蝴蝶形光晕"
+      thermal: "铝合金圆盘体被动散热，表面积与体积比适中，户外自然对流散热"
+      cmf:
+        color: "哑黑（消光黑）"
+        material: "铝合金压铸"
+        finish: "户外耐候粉末涂层，哑光质感"
+      mounting: "圆盘背面直接贴墙固定，无可见支架，圆形轮廓从正面看无背板露出"
+      signature_detail: "双向出光缝隐于圆盘上下边缘，灯体本身像一枚贴墙的黑色徽章，灯光形成对称蝴蝶光晕，装饰性极强"
+    design_level:
+      score: 5
+      reason: "圆盘造型与双向光效高度统一，光束图案可预期可设计，建筑立面装饰价值突出，iF顶级水准"
+    design_tags: ["双向出光", "圆形", "户外照明", "景观壁灯", "蝴蝶光晕", "哑黑", "建筑立面", "iF获奖"]
+    hero_feature: "圆形黑色徽章轮廓 + 上下对称光缝，形成对称蝴蝶形光晕，光效即装饰图案"
+    problem_solved: "户外壁灯白天是功能件晚上才有存在感；此设计白天是建筑装饰圆盘，夜晚是光效雕塑，全天候有价值"
+    transferable_technique: "双向出光缝整合进形态轮廓边缘（无需额外灯头）；圆形徽章轮廓在任何建筑风格立面均适配"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "白色户外壁灯，方形壁座+可旋转倾斜矩形灯头，灯头顶面为圆弧过渡，底部PIR传感器，品牌'zhiuu'，浅灰背景"
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/05.jpg"
+        image_role: "alt_angle"
+        visual_anchor: "同款白色zhiuu壁灯，灯头朝上旋转展示，正方形漫射面朝上，整体三段式：座-臂-头结构，风格展示"
+    product_name: "Zhiuu可调向传感器户外壁灯"
+    brand_name: "zhiuu"
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "三段式纵向结构：方形背座（贴墙）+ 矩形主体竖管（内藏线缆走线）+ 矩形可旋转灯头（顶部圆弧收口），整体竖向挺立"
+      light_opening: "灯头顶面大面积正方形磨砂漫射面，可旋转调向（45度倾斜至90度水平），照射方向灵活"
+      thermal: "白色PP/ABS外壳 + 内部铝基板，被动散热，灯头圆弧顶部有小散热开口"
+      cmf:
+        color: "全白（暖白/米白）"
+        material: "工程塑料外壳 + 铝基板内芯"
+        finish: "细腻哑光，无光泽，家用感与户外感平衡"
+      mounting: "方形背座固定贴墙，底部螺丝安装，线缆从背座内走线"
+      signature_detail: "灯头可绕水平轴旋转调向，倾斜角度可调；底部PIR传感器小圆眼整合在主体正面，整合度高"
+    design_level:
+      score: 4
+      reason: "可调向设计解决户外照射方向多样化需求，三段式比例干净，白色方案在户外中性且百搭，iF获奖水准"
+    design_tags: ["可调向", "传感器", "三段式", "白色", "户外泛光", "zhiuu", "iF获奖"]
+    hero_feature: "灯头可绕水平轴自由旋转调向，一灯适应入口/走道/车库多种照射需求"
+    problem_solved: "固定灯头户外壁灯安装后无法调整照射角度，适用场景受限；此设计可旋转灯头解决灵活性"
+    transferable_technique: "灯头可调角旋转轴整合进竖型主体结构；PIR传感器圆眼嵌入正面不突兀"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_004"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色金属框架+圆柱形玻璃灯笼户外壁灯，外框方形笼架，内置圆柱透明玻璃罩保护白炽灯泡，复古工业感，白底"
+    product_name: "金属笼架玻璃筒灯笼壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "矩形金属框架外笼（方形截面四立柱+横梁），内部圆柱玻璃罩居中，框与圆柱形成方圆对话，纵向竖长比例"
+      light_opening: "四周全透明玻璃筒出光，360度环绕发光；顶部封闭防雨，底部金属底板支撑灯座"
+      thermal: "玻璃筒自然通风，顶部封闭构件周边留有缝隙，白炽灯泡热气自然对流散热"
+      cmf:
+        color: "消光黑（框架） + 透明玻璃"
+        material: "黑色粉末涂层钢管框架 + 耐热硼硅酸盐圆柱玻璃罩"
+        finish: "黑色哑光金属框 + 清透玻璃，对比鲜明"
+      mounting: "左侧背板贴墙螺丝固定，框架从背板横向悬挑，框底面水平"
+      signature_detail: "方形外框与圆柱玻璃内罩的几何对话是核心造型语言；可见白炽灯丝作为光源美学亮点，复古爱迪生灯泡既是光源也是装饰"
+    design_level:
+      score: 4
+      reason: "方框+圆柱几何对话造型典雅，材料透明度让光源本身成为装饰，复古与现代并存，iF获奖水准"
+    design_tags: ["灯笼形", "金属框架", "玻璃罩", "复古工业", "爱迪生灯泡", "360度出光", "iF获奖"]
+    hero_feature: "黑色方形金属框笼内置圆柱透明玻璃罩，方圆几何对话 + 灯丝可见，光源即装饰品"
+    problem_solved: "户外灯笼要么过于传统装饰性强但制造复杂，要么过于现代失去温暖感；此设计以简单几何框架还原灯笼本质"
+    transferable_technique: "方框内置圆形元素制造几何对话；透明玻璃让内部光源成为视觉主体"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "灰色场景内两件套：墙面小型半月形黑色壁灯（仿生花萼造型，上出光），地面配套圆柱形落地灯，设计语言统一，渲染图"
+    product_name: "仿生花萼形户外壁灯（系列配套款）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "半月形花萼/贝壳截面轮廓，两侧叶片向前弯卷形成收口，中央开口朝上，整体有机曲面，仿生语言"
+      light_opening: "顶部中央开口向上出光（uplight），光从两侧弯卷叶片之间的缝隙和顶部开口漫射而出"
+      thermal: "小型壳体铸铝或锌铝合金，体积小散热需求低，被动散热"
+      cmf:
+        color: "消光深灰黑"
+        material: "铝合金压铸，有机曲面造型需精密压铸"
+        finish: "哑光户外涂层"
+      mounting: "平板背面贴墙固定，壁灯整体紧凑不突出"
+      signature_detail: "两侧弯卷叶片形成有机包裹感，像花萼保护光源；与同系列圆柱落地灯共享有机几何语言，构成庭院家族"
+    design_level:
+      score: 4
+      reason: "仿生叶片语言与户外自然场景高度契合，系列感强，小体量但视觉记忆点明确，iF获奖水准"
+    design_tags: ["仿生", "花萼形", "系列家族", "上出光", "庭院", "有机曲面", "哑黑", "iF获奖"]
+    hero_feature: "花萼双叶片弯卷包裹出光口，上出光打亮建筑表面，有机语言与自然庭院环境融合"
+    problem_solved: "户外壁灯多为几何硬朗造型与花园软景割裂；此仿生花萼造型在几何壁灯中引入自然有机感"
+    transferable_technique: "双叶片有机包裹遮光手法；系列家族化部署（壁灯+落地灯）统一语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "白色嵌墙方形步道壁灯产品图+场景图：正方形平板嵌入墙面，下半部分水平横纹漫射板，向下射出扇形光束照亮地面"
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/09.jpg"
+        image_role: "color_variant"
+        visual_anchor: "同款嵌墙方形步道灯黑色版本：深黑色正方形嵌板，下半水平横纹漫射板，夜景场景图显示扇形地面投光效果"
+    product_name: "嵌墙方形步道引导壁灯（双色版）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "正方形薄板嵌墙，上半哑光实体面板，下半水平横纹PC漫射板，两段式分割，极简方正，与墙面近乎齐平"
+      light_opening: "下半水平横纹漫射板向下出光，光束经横纹光栅折射形成扇形照射图案，照亮脚下地面和步道"
+      thermal: "薄型嵌墙结构，LED光源直接在面板背后，墙体本身帮助散热"
+      cmf:
+        color: "白色版（纯白哑光）/ 黑色版（消光深黑）双版本"
+        material: "铝合金面板框 + 横纹PC漫射板"
+        finish: "粉末涂层，哑光，嵌墙后与墙面融为一体"
+      mounting: "嵌墙安装（recessed），面板与墙面齐平，背部接线盒预留"
+      signature_detail: "上下两段式面板：实体上半（遮光）+ 横纹下半（出光），分割线清晰；横纹漫射板产生有规律的线条光效"
+    design_level:
+      score: 4
+      reason: "嵌墙齐平设计白天几乎不可见，夜间横纹漫射光效精致，双色版本适配不同建筑风格，实用与美学平衡，iF获奖水准"
+    design_tags: ["嵌墙", "步道灯", "横纹漫射", "方形", "引导照明", "双色版", "极简", "iF获奖"]
+    hero_feature: "嵌墙齐平 + 横纹漫射板，白天隐形融入墙面，夜间射出规律横纹光束引导步道"
+    problem_solved: "普通步道灯外露突出破坏建筑立面美感；此设计嵌入墙体，白天如建筑细节，夜晚才显现功能"
+    transferable_technique: "嵌墙齐平安装消除突出感；横纹光栅板制造规律线条光效而非均匀平光"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_007"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/10.jpg"
+        image_role: "context"
+        visual_anchor: "暖黄色石灰墙立面，中央装饰性竖排多管簇壁灯（unonovesette品牌），两侧纵向线形灯嵌入石柱缝隙，营造入口仪式感"
+    product_name: "Unonovesette多管簇装饰户外壁灯"
+    brand_name: "unonovesette"
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "竖向排列多根细管（约8-10根）平行簇聚，每管顶部为圆形发光面，整体形成宽扁矩形簇状组合体，像一把竖置的刷毛"
+      light_opening: "每根细管顶部圆形漫射面向上出光（uplight），多管出光形成排列节奏，向上大面积泛光打亮上方墙面"
+      thermal: "细管内LED模块，铝合金管体被动散热，多管分散热源"
+      cmf:
+        color: "黑色金属管 + 乳白漫射头"
+        material: "铝合金圆管 + 乳白PC漫射球/面"
+        finish: "金属管哑黑涂层，漫射头磨砂乳白"
+      mounting: "横向底板贴墙固定，多管从底板竖直生长，阵列排布"
+      signature_detail: "多管竖排阵列 + 顶部发光圆头，近看是有规律的模块化阵列，远看是整体宽扁光带；两侧配套纵向线形灯嵌缝，形成丰富的空间照明层次"
+    design_level:
+      score: 5
+      reason: "多管阵列形态独特，模块化重复产生强烈视觉节奏，与石材建筑立面形成材质对比，装饰性与功能性兼具，iF顶级"
+    design_tags: ["多管阵列", "装饰性", "上出光", "unonovesette", "入口照明", "仪式感", "模块化", "iF获奖"]
+    hero_feature: "竖排多管簇阵列，每管顶部发光，形成可数的光点节奏，照明装置即建筑装饰雕塑"
+    problem_solved: "高端建筑入口需要兼具照明功能和艺术装饰效果的壁灯；此多管簇设计将照明器本身变为艺术装置"
+    transferable_technique: "多管阵列模块化设计（数量可变适应不同尺寸）；顶部发光点阵产生可数光点节奏感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_008"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/11.jpg"
+        image_role: "context"
+        visual_anchor: "暖黄色粗糙墙面，两款竖向扁平多槽条形黑色户外壁灯：左款三槽宽体各自向下射出三道平行光线，右款单槽双向出光形成纵向光柱"
+    product_name: "多槽条形平行光束户外壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "竖向扁平矩形条体，表面分割为多个平行纵向槽（三槽款或单槽款），槽内LED光源，整体宽扁竖向条形"
+      light_opening: "每个槽底部向下出光（downlight），多槽形成等间距平行光束照射到墙面，形成精确重复的光束图案"
+      thermal: "铝合金条形壳体被动散热，槽间隔壁具有散热分隔作用"
+      cmf:
+        color: "消光深黑"
+        material: "铝合金挤出型材 + 小型LED模块"
+        finish: "户外粉末涂层，哑光，耐UV"
+      mounting: "背板贴墙竖向安装，可灵活单用或多支组合阵列"
+      signature_detail: "多槽平行结构产生重复光束，三槽款形成三道光线扫射墙面，光束间距精确均匀，光效即装饰图案；两款体量可根据场景尺寸选用"
+    design_level:
+      score: 4
+      reason: "多槽结构将功能照明转化为光束装饰图案，槽数可变适应不同场景，光效预期明确，iF获奖水准"
+    design_tags: ["多槽", "平行光束", "条形", "光效装饰", "竖向", "下照", "哑黑", "iF获奖"]
+    hero_feature: "多槽各自向下射出独立平行光束，光束数量与槽数对应，形成可控重复光线图案"
+    problem_solved: "户外壁灯光效单一无层次，多槽设计将单灯变为多光束装置，以一个灯体产生丰富光效"
+    transferable_technique: "多槽分割结构产生复数光束（槽数=光束数）；槽体深度控制光束扩散角"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_009"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "12款不同颜色的方形下出光户外壁灯产品矩阵：外壳颜色含白、森林绿、锈棕、深灰，内衬颜色含铜金色、玫瑰铜、橄榄金、湖水绿，形成丰富色彩系列"
+    product_name: "多色双层方形下出光户外壁灯系列"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "方形扁盒体（横宽版或竖方版），整体方正无多余装饰，底面完全开放出光，仰视可见内衬颜色"
+      light_opening: "底面完全开放下出光，内衬色彩在光照下被映射增强，下方形成带色调的照明区域"
+      thermal: "铝合金薄壳被动散热，无独立散热结构"
+      cmf:
+        color: "外壳：白/森林绿/锈棕/深灰四色；内衬：铜金/玫瑰铜/橄榄金/湖水绿多色，形成外壳×内衬组合色彩矩阵"
+        material: "铝合金压铸外壳 + 彩色阳极氧化/粉末涂层内衬"
+        finish: "外壳哑光户外涂层，内衬光滑反光（增强色彩反射）"
+      mounting: "背板贴墙固定，灯体从墙面水平悬挑"
+      signature_detail: "双层色彩系统：外壳色（外观主色）+ 内衬色（出光时发光色），形成12+种组合，同一形态语言通过色彩变化覆盖多种风格场景"
+    design_level:
+      score: 4
+      reason: "双层色彩矩阵策略为单一形态创造极大SKU价值，内衬色在出光时产生独特氛围色调，设计思维成熟，iF获奖水准"
+    design_tags: ["多色系列", "双层色彩", "下出光", "方形", "系列化", "色彩矩阵", "iF获奖"]
+    hero_feature: "外壳色×内衬色双层色彩矩阵：外壳决定白天外观，内衬色决定夜间出光氛围色调"
+    problem_solved: "户外壁灯颜色单一，难以匹配多样建筑风格；双层色彩矩阵策略以一种形态覆盖多种风格配色"
+    transferable_technique: "外壳色+内衬色分层定义产品色彩；内衬反光面增强出光色彩饱和度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_010"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "正方形大面积黑色壁灯，上半哑黑实体，下半白色折叠漫射槽（U形截面向下），透明亚克力端盖，白色冷光LED从下方槽口射出，场景为深色墙面"
+    product_name: "方形折叠漫射槽壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "正方形大面积方板，上2/3为哑黑实体，下1/3为内嵌白色U形漫射槽，整体正方形轮廓统一，侧面薄"
+      light_opening: "底部U形漫射槽向下出光，槽内白色反射，透明亚克力端盖形成光效封闭，冷白LED光线向下均匀投射"
+      thermal: "铝合金薄板壳体 + 白色反射内腔，被动散热"
+      cmf:
+        color: "哑黑（外壳） + 纯白（内漫射槽）强对比"
+        material: "铝合金外框 + 白色涂层内反射腔 + 透明亚克力端盖"
+        finish: "外壳户外哑光黑，内腔光滑白色增反射率"
+      mounting: "大面积背板贴墙，四周螺丝暗藏，灯体紧贴墙面"
+      signature_detail: "黑与白的强对比分割：黑色大面积实体对比白色小面积发光槽，发光区域被压缩到底部窄条，光效集中精确"
+    design_level:
+      score: 4
+      reason: "黑白强对比创造强烈光影戏剧效果，发光区面积占比小但视觉冲击力强，正方形大轮廓在建筑立面有存在感，iF获奖水准"
+    design_tags: ["黑白对比", "漫射槽", "下出光", "方形大板", "冷白LED", "强对比", "iF获奖"]
+    hero_feature: "大面积哑黑板面 + 底部压缩小漫射槽：黑色实体衬托白色光槽，反差创造极强视觉张力"
+    problem_solved: "大尺寸壁灯容易显得笨重；此设计以大面积哑黑实体反衬小面积光槽，化体量为视觉戏剧性"
+    transferable_technique: "发光区面积压缩 + 反射腔增强亮度（小面积强光）；黑板白槽强对比手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_011"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/15.jpg"
+        image_role: "context"
+        visual_anchor: "暗红粗糙墙面，两款黑色金属水滴形框架植物种植灯：吊挂版（链条+水滴环框+LED竖管+混凝土碗盆+植物）和靠墙版，植物与照明结合"
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "同款黑色水滴框架，壁挂版：圆形背板贴墙固定，水滴框架从背板悬垂，框内LED竖管，下方植物垂挂，暗红墙壁背景夜景"
+    product_name: "水滴框架植物照明壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "水滴/泪滴形金属细框，顶部收尖下部圆弧，框内中央为竖向线形LED管，下部开放空间容纳植物/花盆；壁挂版顶部圆形背板固定"
+      light_opening: "框内竖向线形LED管向四周出光，光穿透植物叶片形成植物剪影光效，植物作为光的漫射媒介"
+      thermal: "细线形LED低功率，自然散热，无需额外散热结构"
+      cmf:
+        color: "哑黑金属框 + 混凝土灰白花盆 + 绿植"
+        material: "黑色钢管弯曲焊接框架 + 混凝土碗形种植盆 + LED线形管"
+        finish: "框架哑黑涂层，混凝土自然肌理，植物有机质感"
+      mounting: "壁挂版：圆形背板贴墙螺丝固定，框架悬垂；吊挂版：链条天花固定"
+      signature_detail: "照明+种植一体化设计：灯是植物的架子，植物是灯的装饰；水滴形框既是功能骨架也是装饰轮廓"
+    design_level:
+      score: 5
+      reason: "照明与园艺无缝融合，水滴框架造型优雅，植物与光的互动创造独特氛围，概念创新性强，iF顶级水准"
+    design_tags: ["植物照明", "一体化", "水滴形", "艺术装置", "框架", "线形LED", "创新概念", "iF获奖"]
+    hero_feature: "照明器即植物架：水滴金属框架同时支撑LED光管和植物花盆，灯光穿透植物形成绿色剪影"
+    problem_solved: "户外壁灯与园艺是两个独立装置，占用多余空间且缺乏整合美感；此设计将两者合并为单一装置"
+    transferable_technique: "功能一体化（照明+种植）减少装置数量；植物叶片作为光漫射媒介产生有机光效"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_012"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "灰色背景渲染，黑色+金色圆盘形壁灯：圆形背板贴墙，U形臂弯曲悬挑，末端扁圆飞碟形灯体（上层大金色圆盘+下层小黑圆筒+透明漫射底），设计感强"
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/18.jpg"
+        image_role: "context"
+        visual_anchor: "暖白墙面装饰场景，同款黑色全哑黑版圆盘壁灯安装效果，傍晚暖光氛围，圆盘悬浮感强，下方照亮植物"
+    product_name: "飞碟圆盘悬臂户外壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "圆形背板 + 弯曲U形悬臂 + 末端飞碟/UFO形灯体（大直径薄圆盘上盖 + 小直径圆筒下照灯体），悬浮感强"
+      light_opening: "圆筒下部漫射底向下出光，光束经漫射板均匀扩散，圆盘上盖起到遮光防雨作用"
+      thermal: "金属圆盘面积大，被动散热面积充足；圆筒内LED模块靠圆盘散热"
+      cmf:
+        color: "渲染版：哑黑壳体+金色圆盘（双色对比）；实物版：全哑黑"
+        material: "铝合金压铸圆盘 + 圆管臂 + 漫射PC底"
+        finish: "哑黑粉末涂层，金色版阳极氧化或金粉涂层"
+      mounting: "圆形背板贴墙螺丝固定，U形臂从背板弯曲悬挑，灯体悬浮于墙面前方"
+      signature_detail: "大直径圆盘遮光盖产生极强悬浮感；U形弯曲臂比直臂更有动势；黑+金双色版本将工业感与奢华感结合"
+    design_level:
+      score: 5
+      reason: "飞碟形态独特，大圆盘遮光盖产生强烈悬浮感，弯曲臂增加动势，黑金配色奢华，概念完整度高，iF顶级水准"
+    design_tags: ["飞碟形", "圆盘", "悬臂", "黑金配色", "悬浮感", "下照", "奢华户外", "iF获奖"]
+    hero_feature: "大直径圆盘遮光盖悬于弯曲臂末端，形成UFO悬浮视觉，黑金配色强化奢华感"
+    problem_solved: "户外壁灯形态通常平庸缺乏设计感；飞碟圆盘形态将壁灯变为建筑雕塑装置"
+    transferable_technique: "大面积遮光盖产生悬浮感（遮光盖直径远大于灯体）；弯曲U形悬臂比直臂增加形态动势"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_013"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/19.jpg"
+        image_role: "context"
+        visual_anchor: "砖墙立面，圆形太阳能户外壁灯：扁平圆盘形，表面为太阳能电池板纹理，正面嵌PIR传感器，顶部两片太阳能翼板斜向展开，暮色安装效果"
+    product_name: "圆盘太阳能PIR户外壁灯（带翼板）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "扁平圆盘形主体，顶部两片斜向展开太阳能翼板构成V形，整体像展翅鸟形/导弹翼形，轮廓动感"
+      light_opening: "圆盘正面白色漫射环形出光，PIR传感器圆眼居中，触发后环绕出光"
+      thermal: "太阳能充电内置电池，低功耗LED，无线安装，散热需求低"
+      cmf:
+        color: "深灰/炭黑"
+        material: "ABS/PC外壳 + 单晶硅太阳能电池板 + 玻璃盖板"
+        finish: "哑光塑料外壳，太阳能板深色纹理"
+      mounting: "圆盘背面螺丝贴墙，无需走线（太阳能独立供电）"
+      signature_detail: "顶部V形展翅太阳能板是最强视觉记忆点，既是功能组件（充电）也是造型语言（仿生展翅）；无线太阳能方案解除安装约束"
+    design_level:
+      score: 4
+      reason: "太阳能翼板功能与造型高度统一，展翅形态记忆点强，无线安装极大降低安装复杂度，iF获奖水准"
+    design_tags: ["太阳能", "PIR传感器", "展翅形态", "圆盘", "无线安装", "仿生", "iF获奖"]
+    hero_feature: "V形展翅太阳能板：既是充电功能件也是最强形态记忆点，功能即造型"
+    problem_solved: "有线户外壁灯安装需布线，成本高；太阳能展翅设计实现零布线安装，任意墙面即装即用"
+    transferable_technique: "功能件（太阳能板）造型化处理使其成为设计亮点而非工程附件；展翅V形构成强轮廓记忆"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_014"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "白色墙面，圆形太阳能户外壁灯发光夜景：正面太阳能板圆盘（深色纹理），上下各一道弧形光缝发光，形成对称蝴蝶光晕，暖黄光"
+    product_name: "圆盘太阳能双向出光户外壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "扁平圆盘，正面为太阳能电池板，圆盘上下边缘各有弧形出光缝，侧面极薄，轮廓为纯正圆形"
+      light_opening: "上下双向弧形缝出光，暖黄光束向上下投射形成对称蝴蝶形光晕，光效与圆盘形态呼应"
+      thermal: "太阳能内置电池，低功耗LED，小功率散热需求低"
+      cmf:
+        color: "哑黑（圆盘主体，太阳能板深色）"
+        material: "ABS/PC外壳 + 单晶硅太阳能电池板"
+        finish: "哑黑塑料，太阳能板深色半光泽"
+      mounting: "圆盘背面螺丝贴墙，无需布线"
+      signature_detail: "太阳能板即正面主视觉，圆盘边缘上下出光缝将功能与装饰合一；太阳能方案与双向蝴蝶光晕形成自给自足的完整解决方案"
+    design_level:
+      score: 4
+      reason: "太阳能+双向蝴蝶光晕组合完整，圆盘正面太阳能板纹理具有科技感，无线安装灵活，iF获奖水准"
+    design_tags: ["太阳能", "双向出光", "圆盘", "蝴蝶光晕", "无线安装", "暖黄光", "iF获奖"]
+    hero_feature: "太阳能板即正面视觉 + 圆盘上下双缝出光：白天吸能圆盘，夜间蝴蝶光晕，自给自足"
+    problem_solved: "太阳能板通常作为独立附件破坏美观；此设计将太阳能板作为正面主视觉，化工程件为设计元素"
+    transferable_technique: "太阳能板正面化（不隐藏，变为设计特征）；圆形边缘出光缝手法（形态边缘即出光位置）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_015"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色折叠板式太阳能户外壁灯：正方形主体，上半为折叠翻起的太阳能板（X形支撑结构），下半为横纹漫射板，右侧两个小视图展示折叠状态"
+      - filename: "22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/22.jpg"
+        image_role: "context"
+        visual_anchor: "白色墙面实装夜景，同款折叠板太阳能壁灯，太阳能板翻起朝天充电，底部缝隙上下出光，暖黄光打亮墙面"
+    product_name: "折叠翻转太阳能板户外壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "方形底座（贴墙），上部折叠翻转太阳能板以角度斜展，整体呈L形或楔形剖面，折叠状态为扁平方形"
+      light_opening: "灯体顶部和底部各有一道出光缝（折叠板打开后），上出光打亮上方墙面，下出光照地，双向出光"
+      thermal: "太阳能低功耗系统，被动散热，无需额外散热"
+      cmf:
+        color: "深灰（消光深灰，接近炭灰）"
+        material: "铝合金/工程塑料壳体 + 单晶硅太阳能电池板"
+        finish: "哑光深灰涂层，太阳能板深色反光"
+      mounting: "方形背板贴墙螺丝固定，太阳能板可折叠调角度朝向最优采光方向"
+      signature_detail: "折叠翻转太阳能板是核心机构创新：折叠时产品紧凑方形便于运输/储存，展开时板面朝向可调以最优化采光；横纹漫射板延续步道灯设计语言"
+    design_level:
+      score: 4
+      reason: "折叠可调太阳能板解决固定式太阳能无法优化朝向的痛点，结构创新+功能完整，iF获奖水准"
+    design_tags: ["太阳能", "折叠机构", "可调角度", "方形", "双向出光", "深灰", "iF获奖"]
+    hero_feature: "可折叠调角度太阳能板：可收纳运输，展开可调朝向，解决固定式太阳能板朝向受限问题"
+    problem_solved: "固定太阳能板朝向固定，非最优朝向建筑无法获得最大充电效率；折叠可调结构让任意朝向建筑都可优化"
+    transferable_technique: "折叠机构实现功能件（太阳能板）角度调节；紧凑折叠状态方便物流同时增加储存便利"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_016"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/23.jpg"
+        image_role: "hero"
+        visual_anchor: "粗糙水泥墙面，深灰色双管并排户外壁灯夜景：两个圆形截面竖管并排贴墙，底部各有一个圆形LED出光口向下聚光投射，产生两道光束"
+    product_name: "双管并排下照户外壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "两根圆形截面竖管并排紧靠（共享背板），管顶封闭，管底开放出光，整体宽扁双管轮廓"
+      light_opening: "每管底部圆形聚光开口（内缩设计），各形成独立点状光源向下聚光投射，两道独立光束"
+      thermal: "铝合金圆管被动散热，管体表面积对应散热需求"
+      cmf:
+        color: "深灰（anthracite）"
+        material: "铝合金挤出或压铸圆管"
+        finish: "户外粉末涂层，哑光深灰"
+      mounting: "共享平板背座贴墙固定，两管从背座向前悬挑"
+      signature_detail: "双管并排产生视觉节奏：两个圆管像两支大蜡烛并排，底部双点光源向下形成两道独立聚光束"
+    design_level:
+      score: 4
+      reason: "双管结构简洁，双聚光束光效有节奏感，水泥墙面背景衬托工业美感，材质与场景高度统一，iF获奖水准"
+    design_tags: ["双管", "圆管", "下照聚光", "工业感", "水泥墙", "深灰", "iF获奖"]
+    hero_feature: "双圆管并排 + 底部各自聚光口，产生两道独立平行聚光束，双管即双光束"
+    problem_solved: "单管壁灯照明面积有限；双管设计在不增加体量宽度太多的前提下倍增光束覆盖"
+    transferable_technique: "双管并排共享背板（节省安装空间同时倍增光束）；内缩圆形出光口产生聚光效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_017"
+    source_images:
+      - filename: "24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/24.jpg"
+        image_role: "hero"
+        visual_anchor: "白色背景，深藏蓝圆形户外壁灯：圆形背板贴墙，短轴枢纽连接圆筒灯头，灯头正面大面积圆形漫射板，可旋转调向"
+    product_name: "圆形万向调节户外聚光壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "圆形背板（贴墙）+ 短圆轴枢纽 + 圆筒灯头（大直径扁圆柱），三段圆形语言一致，整体厚实圆润"
+      light_opening: "灯头正面大面积圆形漫射板出光（柔光面光源），可调节角度指向不同方向"
+      thermal: "铝合金压铸圆盘体，被动散热，体积感承担热容"
+      cmf:
+        color: "深藏蓝（navy/midnight blue），不同于常见哑黑或深灰"
+        material: "铝合金压铸"
+        finish: "哑光粉末涂层，颜色深沉典雅"
+      mounting: "圆形背板螺丝贴墙，枢纽允许灯头调节角度"
+      signature_detail: "全圆形语言统一（背板+枢纽+灯头均为圆形），深藏蓝配色稀缺；灯头可调角度实现灵活照射方向"
+    design_level:
+      score: 4
+      reason: "圆形语言彻底统一，深藏蓝配色与黑色系户外灯形成差异化，可调向功能增加实用价值，iF获奖水准"
+    design_tags: ["圆形语言", "可调向", "深藏蓝", "聚光", "扁圆柱", "iF获奖"]
+    hero_feature: "背板+枢纽+灯头三重圆形语言统一，深藏蓝稀缺配色，可调向灯头"
+    problem_solved: "户外聚光壁灯多为黑或灰缺乏色彩个性；深藏蓝方案提供奢华低调的颜色选择"
+    transferable_technique: "单一几何语言（圆）贯穿全灯各部件；稀缺配色（深藏蓝）在常见配色中制造差异化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_018"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/25.jpg"
+        image_role: "hero"
+        visual_anchor: "水泥质感墙面，白色竖向圆管户外壁灯：单根竖直圆管，顶部封闭，底部内缩圆形出光口向下聚光，白色哑光，形成锥形光束"
+    product_name: "竖管单头下照户外壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "单根圆形截面竖管，顶部弧形封口，底部内缩圆形出光口，背部平板贴墙，侧面圆润竖长"
+      light_opening: "底部内缩圆形出光口向下聚光，光束呈锥形集中投射，脚下照明清晰集中"
+      thermal: "铝合金单管被动散热，管体截面积适中"
+      cmf:
+        color: "纯白（暖白/米白）"
+        material: "铝合金压铸或挤出"
+        finish: "户外哑光白色涂层"
+      mounting: "背平板螺丝贴墙，单管从背板向前悬挑"
+      signature_detail: "白色圆管极简纯净，顶部弧封底部内缩的两端处理形成完整闭合感；底部出光口内缩防眩，光束集中"
+    design_level:
+      score: 3
+      reason: "极简白色圆管，造型干净但无强记忆点，功能实用，属于优良设计水准"
+    design_tags: ["圆管", "下照聚光", "白色", "极简", "单管", "竖向", "iF获奖"]
+    hero_feature: "白色圆管极简语言，顶弧封底内缩出光，形态完整闭合"
+    problem_solved: "户外壁灯常见黑色系与白色建筑立面不和谐；白色版本与现代白墙建筑无缝融合"
+    transferable_technique: "顶部弧形封口 + 底部内缩出光口，两端处理形成完整形态语言；白色哑光与浅色建筑融合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_019"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/26.jpg"
+        image_role: "hero"
+        visual_anchor: "白色背景，深灰户外长臂可调向壁灯：圆形小背板 + 超长水平横臂（约500-600mm） + 末端圆形万向调节灯头，灯头正面为大圆形漫射面"
+    product_name: "长臂万向调节户外壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "圆形小背板（贴墙）+ 超长细圆横臂（水平悬挑，长径比约10:1）+ 末端圆形扁鼓灯头，水平延伸感极强"
+      light_opening: "灯头正面大圆形漫射面出光，灯头可万向调节（俯仰+旋转），出光方向高度灵活"
+      thermal: "金属长臂具有额外散热功能，灯头圆形壳体被动散热"
+      cmf:
+        color: "深灰（anthracite）"
+        material: "铝合金圆管臂 + 压铸灯头"
+        finish: "哑光粉末涂层，深灰户外级"
+      mounting: "圆形小背板螺丝贴墙，长臂从背板向外水平悬挑"
+      signature_detail: "超长悬臂产生强烈水平延伸张力，将照明点远离墙面延伸到空间中；末端万向灯头实现精确定向照射（适合建筑泛光/招牌照明）"
+    design_level:
+      score: 4
+      reason: "超长悬臂在视觉上延伸照明范围，万向调节灯头功能专业，适合高端住宅/酒店建筑照明，iF获奖水准"
+    design_tags: ["长臂", "万向调节", "圆形灯头", "水平悬挑", "建筑泛光", "深灰", "iF获奖"]
+    hero_feature: "超长细圆悬臂将圆形灯头推离墙面，远投照明 + 万向调节，覆盖宽幅建筑立面"
+    problem_solved: "普通壁灯灯头紧贴墙面，只能照射近处；长臂设计将照明点推远，实现建筑立面/招牌远距离照明"
+    transferable_technique: "长悬臂扩大照明覆盖半径；臂端万向枢纽实现精确方向控制（俯仰+旋转双轴）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_020"
+    source_images:
+      - filename: "27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/27.jpg"
+        image_role: "context"
+        visual_anchor: "木条拼接墙面夜景，入口两侧对称安装紧凑方形户外壁灯，上下双向出光扇形打亮木墙，暖黄光营造入口仪式"
+      - filename: "28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/28.jpg"
+        image_role: "detail"
+        visual_anchor: "水泥墙面特写，同款方形户外壁灯：极紧凑正方体，顶部和底部各有窄缝出光，双向对称出光，暖黄光上下扩散"
+    product_name: "紧凑方形双向出光户外壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "极紧凑正方体（约80x80x60mm），贴墙安装，顶面和底面各有一道横向窄缝，整体方正小体量"
+      light_opening: "顶缝和底缝各自上下出光（双向），光束呈扇形向上和向下分别打亮墙面，形成对称蝴蝶光晕"
+      thermal: "小体量铝合金壳体被动散热，LED功率小"
+      cmf:
+        color: "深灰（anthracite）"
+        material: "铝合金压铸"
+        finish: "哑光户外粉末涂层"
+      mounting: "背面螺丝贴墙，极薄背板，正视面积约等于一只手掌"
+    design_language:
+      silhouette: "极紧凑正方体（约80x80x60mm），贴墙安装，顶底各一道横向窄缝"
+      light_opening: "顶缝+底缝双向出光，对称蝴蝶光晕，暖黄光"
+      thermal: "小体量铝合金被动散热，低功率LED"
+      cmf:
+        color: "深灰（anthracite）"
+        material: "铝合金压铸"
+        finish: "哑光户外粉末涂层"
+      mounting: "背面螺丝贴墙，正视面积约一只手掌"
+      signature_detail: "极小体量形成强烈反差：灯体本身几乎不可见，但双向光晕将整片墙面点亮，以最小存在感产生最大光效"
+    design_level:
+      score: 5
+      reason: "体量极小但光效极大，双向出光覆盖墙面上下，小体量与大光效的强烈反差是核心设计逻辑，iF顶级水准"
+    design_tags: ["双向出光", "紧凑方形", "小体量大光效", "蝴蝶光晕", "入口照明", "深灰", "iF获奖"]
+    hero_feature: "手掌大小的正方体产生上下对称蝴蝶光晕，覆盖大面积墙面，以最小存在感实现最大光效"
+    problem_solved: "户外壁灯体积大破坏建筑美感；极紧凑设计让灯体消失，光效成为主角"
+    transferable_technique: "顶底双缝双向出光（最简单的双向出光结构）；体量极小化 + 光效极大化的设计哲学"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_021"
+    source_images:
+      - filename: "29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/29.jpg"
+        image_role: "hero"
+        visual_anchor: "浅灰背景，四款深灰户外壁灯家族产品图：正方体/横矩形/竖圆柱/横圆柱，底部均有光缝，下照出光，设计语言统一"
+    product_name: "方+圆四形态户外壁灯家族"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "四种形体：正方体/横矩形/竖圆柱/横圆柱，底面各有一道出光缝，体量相近，系列感强"
+      light_opening: "底部光缝（横向）向下出光，四款均为底部出光，光效统一"
+      thermal: "铝合金各形体被动散热，体量相近散热能力相当"
+      cmf:
+        color: "统一深灰（anthracite）"
+        material: "铝合金压铸"
+        finish: "哑光户外涂层，同色系统一"
+      mounting: "各款背面贴墙固定，安装方式统一"
+      signature_detail: "方与圆双几何家族：方形款（正方体+横矩形）与圆形款（竖圆柱+横圆柱）形成方-圆双系列；同一颜色+同一出光逻辑保证家族感，形态多样化提供场景适配灵活性"
+    design_level:
+      score: 4
+      reason: "四形态家族化设计思维完整，方+圆双几何系列共享颜色出光逻辑，采购者可混搭使用保持整体感，iF获奖水准"
+    design_tags: ["家族化", "方圆系列", "四形态", "下出光", "深灰", "系列化", "iF获奖"]
+    hero_feature: "方+圆四形态共享哑灰色+底部出光语言，形态混搭仍有家族感"
+    problem_solved: "单一形态壁灯无法适配不同建筑元素尺寸；四形态家族让同一风格灯具适配不同场景和装饰节奏"
+    transferable_technique: "多形态单色系家族化（方/圆形态变化，色彩/出光方向统一）；底部光缝统一出光逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_022"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/30.jpg"
+        image_role: "hero"
+        visual_anchor: "浅灰渐变背景，Trilux品牌正方体户外壁灯：深灰消光，正面两侧对称内折形成V形脊线（origami折纸面），底部透明漫射方块出光，冷白LED"
+    product_name: "Trilux折纸面正方体户外壁灯"
+    brand_name: "Trilux"
+    brand_confidence: "high"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "正方体形态，正面从中央向两侧内折形成V形或山脊形折痕，产生origami折纸面感，底部方形透明漫射块凸出"
+      light_opening: "底部方形漫射块向下出光，LED点阵透过透明漫射块均匀投射，底部光口独立可见"
+      thermal: "铝合金压铸壳体，折面增加表面积提升散热效率"
+      cmf:
+        color: "消光深灰（Trilux品牌色系）"
+        material: "铝合金压铸折面壳体 + 透明PC漫射块"
+        finish: "哑光户外粉末涂层，折面产生明暗变化增加层次"
+      mounting: "右侧小挂钩/背板固定，正方体贴墙"
+      signature_detail: "正面折纸面V形脊线是核心造型记忆：同一平面折叠后产生光影明暗变化，使简单正方体产生雕塑感；Trilux工业照明品牌在户外消费灯领域的设计升级"
+    design_level:
+      score: 4
+      reason: "折纸面处理让正方体从平凡变为有细节的雕塑体，Trilux品牌设计语言清晰，材质工艺精良，iF获奖水准"
+    design_tags: ["折纸面", "origami", "正方体", "Trilux", "工业感", "雕塑感", "深灰", "iF获奖"]
+    hero_feature: "正面V形折纸脊线：同面折叠产生光影层次，简单正方体变为具有方向感的雕塑体"
+    problem_solved: "正方体壁灯过于平庸缺乏设计感；折纸面处理在不改变基本形态的前提下增加视觉细节"
+    transferable_technique: "平面折叠产生明暗层次（无需额外材料，只靠面的方向变化）；透明漫射块底部出光点缀"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_壁灯_户外_023"
+    source_images:
+      - filename: "31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/壁灯/户外壁灯/31.jpg"
+        image_role: "context"
+        visual_anchor: "米白色建筑外墙入口，圆形同心环双层壁灯：大圆背板+小圆灯头居中，上下出光打亮墙面形成V形光晕，铜棕/深灰双色材质，暖黄氛围"
+    product_name: "同心双圆双向出光户外壁灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "壁灯", "户外壁灯"]
+    design_language:
+      silhouette: "大圆形背盘（贴墙）+ 小圆形灯头居中凸出，同心圆双层结构，正视面呈靶心形，侧面厚实"
+      light_opening: "大圆盘上下边缘出光（双向），暖黄光束向上向下分别扩散，形成V字形/蝴蝶形光晕于建筑墙面"
+      thermal: "铝合金双层圆盘，散热面积充足，被动散热"
+      cmf:
+        color: "铜棕色外圆盘 + 深灰内圆灯头（双色双材质），暖铜质感"
+        material: "铝合金压铸 + 可能含铜或铜色阳极氧化处理"
+        finish: "外盘铜棕暖色，内头哑黑或深灰，冷暖对比"
+      mounting: "大圆背盘螺丝贴墙，圆盘与墙面有间隙出光"
+      signature_detail: "同心圆结构：大圆盘（遮光+出光）+小圆头（光源中心），靶心构图有强烈聚焦感；铜棕+深灰双色在入口处有仪式感"
+    design_level:
+      score: 5
+      reason: "同心圆靶心构图典雅，双色配色高端，双向出光光效优美，入口仪式感强，iF顶级水准"
+    design_tags: ["同心圆", "靶心构图", "双向出光", "铜棕配色", "双色双材质", "入口仪式", "iF获奖"]
+    hero_feature: "大圆盘+小圆头同心靶心构图，铜棕外圈+深灰内心双色，上下蝴蝶光晕，三重记忆点叠加"
+    problem_solved: "户外入口壁灯需要白天有存在感夜间有光效；同心双圆白天是建筑装饰徽章，夜间产生上下光晕"
+    transferable_technique: "同心圆双层结构（外圈遮光出光+内圆光源）；冷暖双材质双色对比（铜棕+深灰）增加层次"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,85 @@
+# 01_business_gate.schema.yaml — G1商务前提闸门
+
+schema_version: "2.0"
+
+required:
+  client_org_status:
+    type: string
+    description: "客户组织状态描述，如现有合作关系/新客户开发"
+
+  oem_openness:
+    type: enum
+    values: ["open", "closed", "unknown"]
+    required_hard: true
+    description: "OEM对新品类的开放程度。UNKNOWN→HOLD"
+
+  oem_openness_evidence:
+    type: string
+    description: "支持oem_openness判断的证据来源"
+
+  decision_chain:
+    type: object
+    fields:
+      technical_user:
+        type: string
+        description: "技术决策参与者（姓名/职位）"
+      decision_maker:
+        type: string
+        required_hard: true
+        description: "有拍板权的人（姓名/职位/联系方式）。UNKNOWN→HOLD"
+      budget_approver:
+        type: string
+        description: "预算审批者"
+
+  target_price_range:
+    type: string
+    required_hard: true
+    description: "目标采购价格带，如$15-20。UNKNOWN→HOLD"
+
+  target_price_evidence:
+    type: string
+    description: "价格带的来源（客户档案/历史订单/竞品反推）"
+
+  certification_required:
+    type: list
+    description: "必须认证列表，如FCC/UL/CE"
+
+  certification_path:
+    type: enum
+    values: ["clear", "unclear", "unknown"]
+    required_hard: true
+    description: "认证路径是否清晰。UNKNOWN→HOLD"
+
+  competition_landscape:
+    type: string
+    description: "竞争格局简述"
+
+  competitor_quick_scan:
+    type: list
+    description: "竞品快速扫描，每条含品牌/型号/价格/核心卖点"
+
+  unknown_register:
+    type: list
+    description: "本关卡中所有UNKNOWN字段清单+验证动作"
+
+  counter_evidence:
+    type: string
+    description: "可能让当前判断错误的反向证据，必填"
+
+  verdict:
+    type: enum
+    values: ["go", "hold", "stop"]
+    description: "G1关卡判定结果"
+
+  verdict_reason:
+    type: string
+    description: "判定理由，1-2句话"
+
+  hold_action:
+    type: string
+    description: "HOLD时的最小验证动作（动作+预计耗时+负责人）"
+
+validation:
+  - required_hard字段任一为UNKNOWN→verdict必须是hold
+  - verdict为go时counter_evidence不得为空
+  - competitor_quick_scan建议≥5条，不足时在unknown_register中标注

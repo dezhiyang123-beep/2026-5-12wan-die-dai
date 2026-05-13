@@ -1,0 +1,44 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "家电"
+  secondary: "风扇"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/风扇/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_fan_001"
+    source_images:
+      - filename: "86.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/风扇/86.jpg"
+        image_role: "hero"
+        visual_anchor: "Midea落地风扇双视角：黑色大扇叶+圆形网罩，银白纤细立柱，底部半月形底座，蓝色LED温度显示"
+    product_name: "Midea 落地循环扇"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["家电", "风扇"]
+    design_language:
+      silhouette: "圆形扇头+极细锥形立柱+小型半月底座；整体重心上移，扇头大、立柱极细，形成倒锤形视觉张力"
+      light_opening: "无"
+      thermal: "扇叶为散热体本身"
+      cmf:
+        color: "哑光黑扇头 + 拉丝银立柱 + 蓝色LED显示"
+        material: "ABS塑料扇头/网罩 + 金属立柱"
+        finish: "哑光黑 + 拉丝银 + 蓝色LED点阵"
+      mounting: "落地，底座固定"
+      signature_detail: "极细金属锥形立柱（直径约2cm）支撑大尺寸扇头，形成反重力悬浮感；底部前沿蓝色LED小屏显示室温"
+    design_level:
+      score: 4
+      reason: "极细立柱+大扇头的反重力比例是此款最强造型语言，超越常规风扇的粗柱设计；黑白银配色精准；蓝色LED温度显示细节加分"
+    design_tags: ["极细立柱", "反重力比例", "大扇头", "黑银配色", "LED温显", "悬浮感"]
+    hero_feature: "极细金属锥形立柱（约2cm直径）承托大圆扇头——通过结构工程的极限化实现视觉悬浮感"
+    problem_solved: "传统落地扇立柱粗笨，整体比例沉重；极细立柱减少90%视觉体量，使扇头看起来悬浮在空中"
+    transferable_technique: "以工程极限化（极细支撑柱）实现头重脚轻的悬浮比例，可迁移至台灯、监控摄像头、桌面音响等有支撑结构的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

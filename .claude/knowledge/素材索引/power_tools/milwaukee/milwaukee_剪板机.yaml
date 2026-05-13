@@ -1,0 +1,114 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "剪板机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/剪板机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_剪板机_001"
+    source_images:
+      - filename: "剪板机__冲剪机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/剪板机/剪板机__冲剪机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL无线冲剪机，3/4视角，银灰色压铸头部+亮红色机身+黑色橡胶握把，头部下方垂直冲剪工作头，右侧ONE-KEY数字显示屏，无线WiFi功能徽标，左侧辅助手柄"
+      - filename: "剪板机__冲剪机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/剪板机/剪板机__冲剪机__02.jpg"
+        image_role: "side"
+        visual_anchor: "M12 FUEL无线冲剪机侧视图，横向握持构型，银灰色大体积压铸头+红色机身+黑色握把区，前端冲剪工作头向下弯折，厚度拨盘（4/5A）嵌于机身侧面，轮廓呈低矮L形"
+      - filename: "剪板机__冲剪机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/剪板机/剪板机__冲剪机__03.jpg"
+        image_role: "alt"
+        visual_anchor: "有线老款冲剪机侧视图，红色圆柱机身+黑色电机头，L形整体结构，冲剪工作头居中偏下，电线从尾部引出，早期Milwaukee设计语言"
+      - filename: "剪板机__冲剪机__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/剪板机/剪板机__冲剪机__04.jpg"
+        image_role: "alt"
+        visual_anchor: "有线老款冲剪机侧视图，红色圆柱机身+黑色电机头，工作头更细长，尾部带电线，轮廓更纤细"
+    product_name: "Milwaukee M18/M12 FUEL 无线冲剪机"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "剪板机", "冲剪机"]
+    design_language:
+      silhouette: "横置L形，电机体在后/上，工作头在前/下，重心靠后有利单手控制"
+      light_opening: "N/A"
+      thermal: "机身侧面散热格栅，红色塑料件内嵌黑色通风槽"
+      cmf:
+        color: "亮红色机身 + 黑色功能区（握把/散热）+ 银灰色压铸件（工作头壳体）"
+        material: "工程塑料机身 + 压铸铝合金头部 + TPR橡胶包覆握把"
+        finish: "机身哑光喷涂，压铸件机加工高光面，握把纹理表面"
+      mounting: "M18/M12滑轨式电池底部插入"
+      signature_detail: "ONE-KEY数字显示屏集成于侧面，可调厚度拨盘外露于机身，银灰色压铸头与红色机身的色块对比"
+    design_level:
+      score: 4
+      reason: "M18 FUEL版本将ONE-KEY数字面板与WiFi模块集成进紧凑机身，压铸头部与注塑机身的材料+色彩双重对比清晰表达功能分区，造型有明确记忆点"
+    design_tags:
+      - "H08_对比强调"
+      - "H03_分件线"
+      - "H11_功能外显"
+      - "H09_隐藏工程"
+    hero_feature: "银灰色大体积压铸头与红色机身形成强烈色块对比，ONE-KEY面板外露于侧面"
+    problem_solved: "解决有线冲剪机移动性差、厚度调节繁琐的问题，ONE-KEY实现远程参数锁定"
+    transferable_technique: "压铸头部与注塑机身的色彩+材质双重分件法，可迁移至其他需要区分工作头/动力体的品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_剪板机_002"
+    source_images:
+      - filename: "剪板机__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/剪板机/剪板机__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee FORCELOGIC 无线剪板机套装，含工具本体+2个黑色方形模具+红色Milwaukee包，工具机身全红+黑色功能轨道，整体造型接近订书机/液压钳，ONE-KEY WiFi徽标"
+      - filename: "剪板机__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/剪板机/剪板机__综合__02.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 无线剪板机侧视图，枪形握持，蓝色刀片罩+红色机身+黑色散热区，开放式D形手柄轮廓清晰，锂电滑轨接口在底部，刀片可见"
+      - filename: "剪板机__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/剪板机/剪板机__综合__03.jpg"
+        image_role: "alt"
+        visual_anchor: "同款M18无线剪板机，银色金属刀片版本，枪形侧视，整体与02相同但刀片颜色为银灰不锈钢"
+      - filename: "剪板机__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/剪板机/剪板机__综合__04.jpg"
+        image_role: "alt"
+        visual_anchor: "同款M18无线剪板机另一视角，刀片更大/更宽，展示不同刀片配置下的形态变化"
+      - filename: "剪板机__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/剪板机/剪板机__综合__05.jpg"
+        image_role: "alt"
+        visual_anchor: "有线老款剪板机侧视图，红色圆柱机身+银灰色头部，剪切头扁平宽大，电线从尾部引出，前端银色圆形导流板，整体比例更宽扁"
+    product_name: "Milwaukee M18 无线剪板机 / FORCELOGIC 剪板机"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "剪板机", "综合"]
+    design_language:
+      silhouette: "枪形构型，D形开放手柄+前置宽扁剪切头，刀片从前端向下伸出，重心在握把前方"
+      light_opening: "N/A"
+      thermal: "机身顶部散热格栅，黑色区域集中在马达区"
+      cmf:
+        color: "亮红色机身 + 黑色散热/马达区 + 蓝色或银色刀片罩（功能区视觉分化）"
+        material: "工程塑料机身 + 金属剪刀片"
+        finish: "机身哑光，刀片高光金属"
+      mounting: "M18底部滑轨电池"
+      signature_detail: "开放式D形手柄框架，刀片罩采用蓝色（与红黑系统色对比）做安全提示，FORCELOGIC版本全红机身+黑色液压轨道"
+    design_level:
+      score: 3
+      reason: "枪形剪板机将Milwaukee品牌语法完整移植，开放D形手柄是品类识别标志，蓝色刀片罩的安全色运用是亮点，整体执行到位但无突破性创新"
+    design_tags:
+      - "H08_对比强调"
+      - "H03_分件线"
+      - "H11_功能外显"
+    hero_feature: "开放式D形手柄轮廓 + 蓝色刀片安全罩的三色对比"
+    problem_solved: "剪切薄板时需要平稳推进和快速刀片更换，开放D形手柄提供操控感，模块刀片快速更换"
+    transferable_technique: "刀片罩用对比色（蓝色）做安全区分的视觉语言，可迁移至其他有安全区域的工具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

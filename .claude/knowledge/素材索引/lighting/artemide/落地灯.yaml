@@ -1,0 +1,1175 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 落地灯
+  tertiary: 落地灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_落地灯_001
+  source_images:
+  - filename: 24.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/24.jpg
+    image_role: hero
+    visual_anchor: 细黑落地杆通过两段长臂支撑白色锥形灯罩，形成大跨度阅读灯。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 细黑落地杆通过两段长臂支撑白色锥形灯罩，形成大跨度阅读灯
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 细黑落地杆通过两段长臂支撑白色锥形灯罩，形成大跨度阅读灯
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_002
+  source_images:
+  - filename: 25.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/25.jpg
+    image_role: hero
+    visual_anchor: 白色高矩形发光柱立在台面上，顶部有折角切口。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 白色高矩形发光柱立在台面上，顶部有折角切口
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 白色高矩形发光柱立在台面上，顶部有折角切口
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_003
+  source_images:
+  - filename: 26.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/26.jpg
+    image_role: hero
+    visual_anchor: 银色双臂落地灯从圆盘底座伸出，白色罩体可远距离探出。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 银色双臂落地灯从圆盘底座伸出，白色罩体可远距离探出
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 银色双臂落地灯从圆盘底座伸出，白色罩体可远距离探出
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_004
+  source_images:
+  - filename: 28.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/28.jpg
+    image_role: hero
+    visual_anchor: 一组透明细竖管从黑色底座上密集升起，像光纤束落地灯。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 一组透明细竖管从黑色底座上密集升起，像光纤束落地灯
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 一组透明细竖管从黑色底座上密集升起，像光纤束落地灯
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_005
+  source_images:
+  - filename: 29.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/29.jpg
+    image_role: hero
+    visual_anchor: 黑色底座上竖立多根透明发光管，形成高低错落的光束丛。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 黑色底座上竖立多根透明发光管，形成高低错落的光束丛
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 黑色底座上竖立多根透明发光管，形成高低错落的光束丛
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_006
+  source_images:
+  - filename: 33.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/33.jpg
+    image_role: hero
+    visual_anchor: 金色线框落地灯和台灯成组，椭圆环支架像首饰轮廓。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 金色线框落地灯和台灯成组，椭圆环支架像首饰轮廓
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 金色线框落地灯和台灯成组，椭圆环支架像首饰轮廓
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_007
+  source_images:
+  - filename: 34.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/34.jpg
+    image_role: hero
+    visual_anchor: 极细黑色落地杆带小型可调灯头，底部三脚支撑轻量展开。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 极细黑色落地杆带小型可调灯头，底部三脚支撑轻量展开
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 极细黑色落地杆带小型可调灯头，底部三脚支撑轻量展开
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_008
+  source_images:
+  - filename: 35.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/35.jpg
+    image_role: hero
+    visual_anchor: 两只极细落地杆灯成组，微型灯头在高处投出局部光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 两只极细落地杆灯成组，微型灯头在高处投出局部光
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 两只极细落地杆灯成组，微型灯头在高处投出局部光
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_009
+  source_images:
+  - filename: 35__2.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/35__2.jpg
+    image_role: hero
+    visual_anchor: 经典铰接落地灯，细杆分段转折支撑黑色锥形大灯罩。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 单只黑色圆锥罩垂直悬挂，宽口向下、顶部收窄接线
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 经典铰接落地灯，细杆分段转折支撑黑色锥形大灯罩
+  design_level:
+    score: 3
+    reason: 3分：功能和比例完成度稳定，但造型主要依赖成熟灯具类型，独特性和迁移启发有限。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 经典铰接落地灯，细杆分段转折支撑黑色锥形大灯罩
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_010
+  source_images:
+  - filename: 36.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/36.jpg
+    image_role: hero
+    visual_anchor: 白色发光柱灯立在台面上，顶部斜切像纸片翻折。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 纸质/织物感扩散罩或折叠片材，配金属吊线
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 白色发光柱灯立在台面上，顶部斜切像纸片翻折
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 白色发光柱灯立在台面上，顶部斜切像纸片翻折
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_011
+  source_images:
+  - filename: 36__2.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/36__2.jpg
+    image_role: hero
+    visual_anchor: 黑色细杆落地灯顶部是箭头/飞鸟状小灯头，轮廓极简。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 黑色细杆落地灯顶部是箭头/飞鸟状小灯头，轮廓极简
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 黑色细杆落地灯顶部是箭头/飞鸟状小灯头，轮廓极简
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_012
+  source_images:
+  - filename: 37.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/37.jpg
+    image_role: hero
+    visual_anchor: 黑色细杆落地灯带三角飞鸟形灯头，像箭头停在杆顶。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色细杆落地灯带三角飞鸟形灯头，像箭头停在杆顶
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 黑色细杆落地灯带三角飞鸟形灯头，像箭头停在杆顶
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_013
+  source_images:
+  - filename: 38.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/38.jpg
+    image_role: hero
+    visual_anchor: 多只黑色落地/壁式灯带圆环灯头，细线和杆件形成手绘感。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 多只黑色落地/壁式灯带圆环灯头，细线和杆件形成手绘感
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 多只黑色落地/壁式灯带圆环灯头，细线和杆件形成手绘感
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_014
+  source_images:
+  - filename: 41.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/41.jpg
+    image_role: hero
+    visual_anchor: 黑色落地杆顶部横向短臂托住小球灯，旁边有下垂半圆线。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 黑色落地杆顶部横向短臂托住小球灯，旁边有下垂半圆线
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 黑色落地杆顶部横向短臂托住小球灯，旁边有下垂半圆线
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_015
+  source_images:
+  - filename: 45.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/45.jpg
+    image_role: hero
+    visual_anchor: 黑色圆盘顶盖落地灯，极细立杆上端向天花反射出大面积上照光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 黑色圆盘顶盖落地灯，极细立杆上端向天花反射出大面积上照光
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 黑色圆盘顶盖落地灯，极细立杆上端向天花反射出大面积上照光
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_016
+  source_images:
+  - filename: 69.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/69.jpg
+    image_role: hero
+    visual_anchor: 白色柔光圆筒罩落地灯，细金属杆和小圆底座支撑。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 白色柔光圆筒罩落地灯，细金属杆和小圆底座支撑
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 白色柔光圆筒罩落地灯，细金属杆和小圆底座支撑
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_017
+  source_images:
+  - filename: 78.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/78.jpg
+    image_role: hero
+    visual_anchor: 黑白两只波浪形竖向落地灯，柔光沿扭曲立面向前扩散。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 黑白两只波浪形竖向落地灯，柔光沿扭曲立面向前扩散
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 黑白两只波浪形竖向落地灯，柔光沿扭曲立面向前扩散
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_018
+  source_images:
+  - filename: 80.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/80.jpg
+    image_role: hero
+    visual_anchor: 白色圆筒罩落地灯置于台面，黄铜细杆和圆底座比例轻巧。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 白色圆筒罩落地灯置于台面，黄铜细杆和圆底座比例轻巧
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 白色圆筒罩落地灯置于台面，黄铜细杆和圆底座比例轻巧
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_019
+  source_images:
+  - filename: 82.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/82.jpg
+    image_role: hero
+    visual_anchor: 金色立杆落地灯顶端红色倒锥罩，灰色锥形底座外露电线。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 红色强调色配白色/金属或暖光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 金色立杆落地灯顶端红色倒锥罩，灰色锥形底座外露电线
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 金色立杆落地灯顶端红色倒锥罩，灰色锥形底座外露电线
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_020
+  source_images:
+  - filename: 83.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/83.jpg
+    image_role: hero
+    visual_anchor: 金色细杆落地灯带红色小锥形上照罩，灰色底座和黑线可见。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 红色强调色配白色/金属或暖光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 金色细杆落地灯带红色小锥形上照罩，灰色底座和黑线可见
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 金色细杆落地灯带红色小锥形上照罩，灰色底座和黑线可见
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_021
+  source_images:
+  - filename: 105.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/105.jpg
+    image_role: hero
+    visual_anchor: 黑色折线落地灯由多段杆件组成，两端小灯头分别上下照明。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 黑色折线落地灯由多段杆件组成，两端小灯头分别上下照明
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 黑色折线落地灯由多段杆件组成，两端小灯头分别上下照明
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_022
+  source_images:
+  - filename: 120.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/120.jpg
+    image_role: hero
+    visual_anchor: 多根黑白红竖向发光柱落地灯成组，极简圆盘底座。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 红色强调色配白色/金属或暖光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 多根黑白红竖向发光柱落地灯成组，极简圆盘底座
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 多根黑白红竖向发光柱落地灯成组，极简圆盘底座
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_023
+  source_images:
+  - filename: 128.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/128.jpg
+    image_role: hero
+    visual_anchor: 黄色背景前多只细杆圆头落地/桌灯成组，小圆灯头像节点。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 黄色背景前多只细杆圆头落地/桌灯成组，小圆灯头像节点
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 黄色背景前多只细杆圆头落地/桌灯成组，小圆灯头像节点
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_024
+  source_images:
+  - filename: 143.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/143.jpg
+    image_role: hero
+    visual_anchor: 黑白竖向圆柱落地灯组合，细长灯体形成建筑柱体感。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 黑白竖向圆柱落地灯组合，细长灯体形成建筑柱体感
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 黑白竖向圆柱落地灯组合，细长灯体形成建筑柱体感
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_025
+  source_images:
+  - filename: 150.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/150.jpg
+    image_role: hero
+    visual_anchor: 粉蓝渐变发光圆柱落地灯，半透明柱体从地面均匀发光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 彩色光或高饱和色作为视觉焦点
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 粉蓝渐变发光圆柱落地灯，半透明柱体从地面均匀发光
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 粉蓝渐变发光圆柱落地灯，半透明柱体从地面均匀发光
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_026
+  source_images:
+  - filename: 153.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/153.jpg
+    image_role: hero
+    visual_anchor: 白色折叠片状落地灯像纸塔，内部暖光从多个切口透出。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 主体轮廓由可见灯壳、出光面和安装支点组成，几何层级清楚
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 纸质/织物感扩散罩或折叠片材，配金属吊线
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 白色折叠片状落地灯像纸塔，内部暖光从多个切口透出
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 白色折叠片状落地灯像纸塔，内部暖光从多个切口透出
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_027
+  source_images:
+  - filename: 156.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/156.jpg
+    image_role: hero
+    visual_anchor: 双只超细竖向线性落地灯，透明发光管与金属杆并列。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 细杆和小灯头构成轻量骨架，体量沿支撑线展开
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黄色、金色、铜色或黄铜色强调，配白色发光面
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 双只超细竖向线性落地灯，透明发光管与金属杆并列
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 线性
+  - 落地灯
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 双只超细竖向线性落地灯，透明发光管与金属杆并列
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_028
+  source_images:
+  - filename: 157.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/157.jpg
+    image_role: hero
+    visual_anchor: 黑色倾斜细杆托住白色上照盘，底部配外置电源/调光器。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 黑白对比为主，白色发光面配黑色结构/线缆
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 黑色倾斜细杆托住白色上照盘，底部配外置电源/调光器
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 黑色倾斜细杆托住白色上照盘，底部配外置电源/调光器
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_落地灯_029
+  source_images:
+  - filename: 161.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/落地灯/161.jpg
+    image_role: hero
+    visual_anchor: 银色圆柱落地灯表面覆盖叶片/孔洞纹理，内部光从镂空透出。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 落地灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 可见漫射罩、透镜或遮光腔形成主要出光区域
+    thermal: 散热整合在金属壳体、背板或灯头后侧，避免正面杂乱
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 金属壳体/铝型材，配扩散罩或透镜
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 按灯具场景进行壁装、吊装、桌面、落地或户外固定安装
+    signature_detail: 银色圆柱落地灯表面覆盖叶片/孔洞纹理，内部光从镂空透出
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 灯具
+  - 落地灯
+  - 逐张视觉识别
+  hero_feature: 银色圆柱落地灯表面覆盖叶片/孔洞纹理，内部光从镂空透出
+  problem_solved: 落地灯需要不占桌面地提供环境光或任务光，并以家具化姿态融入空间。
+  transferable_technique: 把光学、结构和安装件组织成清晰层级，减少无效装饰
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

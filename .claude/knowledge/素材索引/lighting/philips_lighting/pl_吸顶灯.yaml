@@ -1,0 +1,433 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "吸顶灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "pl_吸顶灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "扁平圆饼体+全面漫射板+彩色背光光晕"
+    product_name: "Hue Enrave 圆形吸顶灯（小）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "扁平圆饼，高度极低，直径与高度比约6:1，轮廓简洁无装饰"
+      light_opening: "全面漫射面板，整个底面均匀发光，无遮挡"
+      thermal: "隐藏式散热，无外露散热片，热管理完全整合于饼体内"
+      cmf:
+        color: "白色外框+粉紫色漫射光（可调色彩）"
+        material: "注塑外框，磨砂亚克力漫射面板"
+        finish: "哑光白，表面无纹理"
+      mounting: "直接贴顶安装，无可见安装件"
+      signature_detail: "背光光晕——漫射板发光同时在天花板形成一圈柔和彩色光晕，视觉双层效果"
+    design_level:
+      score: 4
+      reason: "形态极简克制，双层光效（正面漫射+背光光晕）是强识别点，Hue色彩系统完整呈现，工艺精度高"
+    design_tags: ["极简", "圆形", "全面漫射", "背光光晕", "Hue彩色", "扁平饼形", "智能灯"]
+    hero_feature: "背光光晕——主面板与天花板之间形成可变色环境光圈，一灯两层光效"
+    problem_solved: "普通吸顶灯只有向下直射光，缺乏氛围感；双层光效同时提供功能照明与氛围渲染"
+    transferable_technique: "背光/间接光圈设计：在主发光体与安装面之间留光学间隙，产生环境晕光，可迁移至其他扁平贴顶灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吸顶灯_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "扁平圆饼体+全面漫射板+彩色背光光晕（俯视更低角度）"
+    product_name: "Hue Enrave 圆形吸顶灯（大）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "扁平圆饼，与001同系列但直径更大，高度比更扁，盘感更强"
+      light_opening: "全面漫射面板，整个底面均匀发光"
+      thermal: "隐藏式散热，整合于饼体内"
+      cmf:
+        color: "白色外框+粉紫色漫射光（可调色彩）"
+        material: "注塑外框，磨砂亚克力漫射面板"
+        finish: "哑光白"
+      mounting: "直接贴顶安装"
+      signature_detail: "背光光晕更宽，大尺寸使环境光圈效果更显著"
+    design_level:
+      score: 4
+      reason: "与001同系列，大尺寸版背光光晕视觉张力更强，是系列内的主力款"
+    design_tags: ["极简", "圆形", "全面漫射", "背光光晕", "Hue彩色", "扁平饼形", "大尺寸", "智能灯"]
+    hero_feature: "大直径背光光晕——尺寸放大使环境光晕覆盖面积更广，氛围感提升显著"
+    problem_solved: "大空间需要更强的整体氛围渲染，大尺寸饼形兼顾照度与氛围"
+    transferable_technique: "尺寸梯度策略：同一造型DNA通过直径变化覆盖不同房间尺寸，系列感强"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吸顶灯_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "长方形超薄平板+全面漫射+彩色背光光晕"
+    product_name: "Hue Surimu 长方形平板吸顶灯"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "长方形超薄平板，长宽比约3:1，厚度极薄，接近纯2D平面感"
+      light_opening: "整面漫射发光，全覆盖无死角"
+      thermal: "超薄结构，散热完全内藏，无任何凸起"
+      cmf:
+        color: "白色超薄边框+粉紫色漫射光（可调色彩）"
+        material: "注塑框架，漫射面板"
+        finish: "哑光白，极简边框"
+      mounting: "直接贴顶，边框几乎与天花板齐平"
+      signature_detail: "超薄长条形背光光晕——矩形光晕与圆形形成鲜明对比，突出线性美感"
+    design_level:
+      score: 4
+      reason: "超薄平板将灯具物理存在感压缩到极低，背光光晕仍保留，造型语言一致但形态差异化"
+    design_tags: ["极简", "长方形", "超薄", "全面漫射", "背光光晕", "Hue彩色", "平板", "智能灯"]
+    hero_feature: "超薄长方形形态——厚度控制使灯具从家具转变为建筑元素，几乎消失于天花板"
+    problem_solved: "圆形吸顶灯在长走廊或矩形空间比例失调；长条形与空间几何更协调"
+    transferable_technique: "超薄平板化：将圆形DNA压缩为矩形超薄版本，形态差异化但制造逻辑相同"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吸顶灯_004"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "正方形超薄平板+全面漫射+彩色背光光晕"
+    product_name: "Hue Surimu 正方形平板吸顶灯"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "正方形超薄平板，1:1比例，边角微圆角，极薄侧面"
+      light_opening: "整面漫射发光"
+      thermal: "超薄内藏散热"
+      cmf:
+        color: "白色超薄边框+粉紫色漫射光（可调色彩）"
+        material: "注塑框架，漫射面板"
+        finish: "哑光白"
+      mounting: "直接贴顶"
+      signature_detail: "正方形背光光晕——四角微圆的方形光晕，界于圆形与矩形之间的视觉平衡"
+    design_level:
+      score: 3
+      reason: "正方形版本与长方形、圆形构成系列矩阵，单独看造型平实，系列价值大于单品价值"
+    design_tags: ["极简", "正方形", "超薄", "全面漫射", "背光光晕", "Hue彩色", "平板", "智能灯"]
+    hero_feature: "正方形比例——在圆形和长方形之间提供视觉平衡选项，适配方形房间天花板"
+    problem_solved: "圆形和长条形在方形空间内均有比例问题，正方形填补系列空白"
+    transferable_technique: "系列矩阵填充：用同一设计语言覆盖圆/方/长三种基本形态，用户按空间形状选择"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吸顶灯_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "圆环形发光面+中心哑光圆盘+Hue彩色背光"
+    product_name: "Hue Infuse 圆环吸顶灯（白色版）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "圆形鼓体，底面为甜甜圈/环形发光区，中心为不发光的哑光圆盘，整体偏厚"
+      light_opening: "环形漫射面板，中心留白圆盘形成视觉焦点对比"
+      thermal: "厚鼓身内藏散热，体量感服务于热管理"
+      cmf:
+        color: "白色鼓身框+中心白色哑光圆盘+粉紫色环形发光区"
+        material: "注塑外框，环形漫射面板，中心实心圆盘"
+        finish: "哑光白，整体一色"
+      mounting: "直接贴顶安装"
+      signature_detail: "环形发光+中心哑光对比——负形设计，中心不发光区域形成强烈视觉锚点"
+    design_level:
+      score: 5
+      reason: "环形发光是Philips Hue系列中识别度最高的造型创新，中心哑光与发光环的对比关系视觉张力极强，差异化程度在同品类中最高"
+    design_tags: ["圆环形", "负形设计", "环形发光", "中心对比", "Hue彩色", "背光光晕", "智能灯", "标志性"]
+    hero_feature: "环形发光+中心哑光圆盘——用「不发光的中心」创造视觉焦点，反直觉的光学设计"
+    problem_solved: "常规吸顶灯全面均匀发光缺乏层次；环形设计创造光影层次，兼顾功能照明与视觉艺术性"
+    transferable_technique: "负形光学：在发光体中央留出不发光区域，用光的缺失定义形态，可迁移至台灯、落地灯等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吸顶灯_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "圆环形发光面+中心哑光圆盘+Hue彩色背光（黑色版）"
+    product_name: "Hue Infuse 圆环吸顶灯（黑色版）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "与005完全相同的环形造型，黑色鼓身"
+      light_opening: "环形漫射面板，中心哑光黑色圆盘"
+      thermal: "同005"
+      cmf:
+        color: "哑光黑色鼓身+中心黑色圆盘+粉紫色环形发光区"
+        material: "注塑外框，环形漫射面板，中心实心圆盘"
+        finish: "哑光黑，表面无光泽"
+      mounting: "直接贴顶安装"
+      signature_detail: "黑色版环形——黑框与彩色光环对比度更高，视觉冲击力更强，更适合现代工业风空间"
+    design_level:
+      score: 5
+      reason: "黑色版将环形光学特征的对比度推到最强——黑色框与亮色光环形成最大视觉反差，高级感突出"
+    design_tags: ["圆环形", "负形设计", "环形发光", "黑色", "Hue彩色", "背光光晕", "智能灯", "标志性", "工业风"]
+    hero_feature: "黑色鼓身+彩色光环——深色框体将光的存在感最大化，光的颜色几乎是唯一视觉元素"
+    problem_solved: "白色版在白色天花板上存在感弱；黑色版在任何天花板颜色下都具有强视觉存在感"
+    transferable_technique: "色彩版本差异化：同一造型通过黑/白框色切换实现风格跨越，成本增量极低"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吸顶灯_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色矩形轨道基座+内嵌光槽+2个可旋转筒灯"
+    product_name: "Hue Centris 吸顶射灯（黑色双头+光槽）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "矩形长条基座，底侧嵌入长条形光槽，两端各伸出一个可旋转圆柱筒灯，整体为非对称复合结构"
+      light_opening: "双重出光：底侧嵌入式光槽（漫射环境光）+2个筒灯头（定向重点照明）"
+      thermal: "矩形基座内藏驱动电源及散热，筒灯头体量小"
+      cmf:
+        color: "全哑光黑色机身+粉紫色光槽发光+粉紫色筒灯出光"
+        material: "铝合金/注塑混合基座，金属筒灯头"
+        finish: "哑光黑，质感厚重"
+      mounting: "中心圆形吸顶安装座，基座水平悬挂"
+      signature_detail: "光槽+筒灯复合结构——单灯实现氛围光（光槽漫射）+功能光（筒灯定向）双模式"
+    design_level:
+      score: 4
+      reason: "复合光源设计解决了吸顶灯只能选择氛围或功能的二选一难题，造型有力，黑色整体感强"
+    design_tags: ["射灯", "复合光源", "光槽", "筒灯", "黑色", "Hue彩色", "可旋转", "定向照明", "智能灯"]
+    hero_feature: "光槽+可旋转筒灯复合体——一件产品提供漫射氛围光和可调向重点照明，功能密度高"
+    problem_solved: "餐厅或客厅需要同时有环境光和重点照明（如画作、桌面），通常需要安装两套灯具"
+    transferable_technique: "复合光源整合：在同一安装基座内并联漫射光槽与定向筒灯，可迁移至厨房、展柜等需要分层照明的场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吸顶灯_008"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形厚鼓体+全面漫射暖光+环境背光光晕"
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/11.jpg"
+        image_role: "detail"
+        visual_anchor: "同款不同拍摄角度，鼓身比例更清晰"
+    product_name: "Hue Being 圆形吸顶灯（白色版）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "圆形厚鼓体，高度明显高于Enrave系列，直径与高度比约3:1，鼓身有存在感"
+      light_opening: "全面漫射底面，白色暖光，边缘可见橙色发光环缝隙"
+      thermal: "厚鼓身提供充裕散热空间，适合大功率"
+      cmf:
+        color: "白色鼓身外框+乳白暖色漫射面板+侧面橙色透光缝"
+        material: "注塑鼓身，漫射面板，侧面半透明装饰环"
+        finish: "哑光白鼓身，侧面可见橙色透光装饰缝"
+      mounting: "直接贴顶安装"
+      signature_detail: "侧面橙色透光缝——鼓身侧边有一圈半透明发光带，形成侧向光晕，与顶背光形成立体光效"
+    design_level:
+      score: 3
+      reason: "鼓形造型偏传统，侧面透光缝是加分细节，整体设计语言相比Infuse系列识别度较弱"
+    design_tags: ["圆形", "鼓形", "全面漫射", "暖白光", "背光光晕", "侧透光", "智能灯"]
+    hero_feature: "侧面透光缝——鼓身侧边一圈透光装饰，制造侧向溢光，增加360°观察时的视觉层次"
+    problem_solved: "纯扁平吸顶灯侧面观察时存在感弱；鼓形+侧透光确保从任意角度看都有光的参与"
+    transferable_technique: "侧面透光缝：在灯具侧壁加半透明装饰带，实现正面+侧面双方向溢光，可迁移至台灯灯罩侧边"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吸顶灯_009"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形厚鼓体+全面漫射暖光+黑色鼓身"
+    product_name: "Hue Being 圆形吸顶灯（黑色版）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "与008完全相同的鼓形，黑色版本"
+      light_opening: "全面漫射底面，暖白光，边缘可见橙色发光缝"
+      thermal: "同008"
+      cmf:
+        color: "哑光黑色鼓身+乳白暖色漫射面板+侧面橙色透光缝"
+        material: "注塑鼓身，漫射面板"
+        finish: "哑光黑"
+      mounting: "直接贴顶安装"
+      signature_detail: "黑色鼓身使侧面橙色透光缝对比更突出，冷暖色对比强烈"
+    design_level:
+      score: 3
+      reason: "黑色版提升了侧透光缝的视觉对比，但鼓形造型本身的差异化程度依然有限"
+    design_tags: ["圆形", "鼓形", "全面漫射", "暖白光", "黑色", "侧透光", "智能灯"]
+    hero_feature: "黑色鼓身+橙色透光缝——强烈冷暖色对比，暗色空间中视觉辨识度高"
+    problem_solved: "深色工业风空间中白色灯具割裂感强；黑色版融入深色天花板，橙色光缝成为唯一点缀"
+    transferable_technique: "色彩版本策略：与008构成白/黑双色系列，用最低成本覆盖两种主流装修风格"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吸顶灯_010"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "白色长条轨道基座+光槽+4个可旋转筒灯"
+    product_name: "Hue Centris 吸顶射灯（白色四头+光槽）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "长条矩形基座，长宽比约8:1，底侧嵌入长条光槽，四角各有一个可旋转圆柱筒灯，整体横向延展感强"
+      light_opening: "双重出光：长条光槽漫射环境光+4个独立筒灯定向照明"
+      thermal: "长条基座分散式散热，四灯头散热独立"
+      cmf:
+        color: "全哑光白色机身+粉紫色光槽+粉紫色筒灯出光"
+        material: "铝合金/注塑基座，金属筒灯头"
+        finish: "哑光白"
+      mounting: "中心吸顶安装，长条基座两端无支撑悬挑"
+      signature_detail: "四头对称布局——四筒灯沿长轴对称分布，可独立旋转调角，覆盖面积最大化"
+    design_level:
+      score: 4
+      reason: "四头版提供最强的空间覆盖能力，光槽+四筒灯的复合结构功能完整，白色版在明亮现代空间融合度高"
+    design_tags: ["射灯", "复合光源", "光槽", "四头筒灯", "白色", "Hue彩色", "可旋转", "长条", "智能灯"]
+    hero_feature: "四灯头+长条光槽——最大灯头数量实现最大照明覆盖，光槽补充氛围光，功能最全面"
+    problem_solved: "大面积空间（客厅、开放式餐厅）需要多点定向照明+整体氛围光，单一灯具无法覆盖"
+    transferable_technique: "多头轨道整合：将多个独立可调筒灯整合在单一基座，同时集成漫射光槽，一件安装解决分层照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吸顶灯_011"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "白色矩形基座+光槽+2个可旋转筒灯（白色版）"
+    product_name: "Hue Centris 吸顶射灯（白色双头+光槽）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "与007（黑色双头版）造型完全相同，白色版本，矩形基座+侧嵌光槽+2个筒灯"
+      light_opening: "双重出光：光槽漫射+2筒灯定向"
+      thermal: "同007"
+      cmf:
+        color: "全哑光白色机身+粉紫色光槽+粉紫色筒灯出光"
+        material: "铝合金/注塑基座，金属筒灯头"
+        finish: "哑光白"
+      mounting: "中心圆形吸顶安装座"
+      signature_detail: "白色版双头——与黑色版007构成色彩系列，适合北欧/现代简约风格空间"
+    design_level:
+      score: 3
+      reason: "与007相同造型，白色版本，功能和设计语言无差异，差异化来自CMF而非造型"
+    design_tags: ["射灯", "复合光源", "光槽", "双头筒灯", "白色", "Hue彩色", "可旋转", "智能灯"]
+    hero_feature: "白色复合射灯——与黑色版相同功能，白色版融入白色天花板，降低视觉负担"
+    problem_solved: "黑色版在白色北欧风空间突兀；白色版提供同等功能但更高的空间融合度"
+    transferable_technique: "CMF色彩切换扩展风格覆盖，零额外模具成本"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_吸顶灯_012"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/吸顶灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "卵形半球体，自发光整体，非吸顶安装"
+    product_name: "Hue Go 便携氛围灯"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "吸顶灯"]
+    design_language:
+      silhouette: "倾斜椭球体/卵形，上部扁平出光面，下部圆弧底座，整体仿有机形态，无明显棱角"
+      light_opening: "前端椭圆形漫射出光面，球体整体半透明，侧面也有微弱透光"
+      thermal: "内藏，体积偏大为热管理留余量"
+      cmf:
+        color: "半透明紫粉色整体（外壳随灯光颜色变化），外壳与光色同步"
+        material: "半透明注塑外壳，内置LED模组"
+        finish: "半光泽，外壳透光性强"
+      mounting: "桌面/地面放置，非吸顶安装，内置电池可便携"
+      signature_detail: "整体发光外壳——外壳本身就是灯罩，通体透光，灯的颜色即外壳的颜色，形态与光高度统一"
+    design_level:
+      score: 4
+      reason: "有机卵形造型在Hue产品线中独树一帜，整体透光外壳将产品形态与光效完全融合，便携设计扩展使用场景"
+    design_tags: ["有机形态", "便携", "整体透光", "卵形", "Hue彩色", "氛围灯", "桌面灯"]
+    hero_feature: "整体透光外壳+卵形——外壳即灯罩，灯亮时形态完全改变，是Hue产品线中最具雕塑感的形态"
+    problem_solved: "固定式吸顶灯无法跟随用户移动；便携氛围灯填补移动场景空白（户外、卧室床头临时使用）"
+    transferable_technique: "整体透光外壳：将灯具外壳设计为半透明发光体，外壳颜色随光色变化，形态语言与功能完全统一"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "15.jpg为便携桌面氛围灯（Hue Go），非吸顶安装灯具，归入吸顶灯文件夹可能有误，建议确认是否需要移至独立品类"

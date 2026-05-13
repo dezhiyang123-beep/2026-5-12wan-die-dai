@@ -1,0 +1,158 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "刨"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_刨_001"
+    source_images:
+      - filename: "刨__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__01.jpg"
+        image_role: "hero"
+        visual_anchor: "黄黑双色20V MAX XR无绳手刨，电池底座横置于机身后部，前端圆形调深旋钮突出"
+    product_name: "DeWalt 20V MAX XR Brushless Cordless Planer"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "刨"
+      - "无绳手刨"
+    design_language:
+      silhouette: "低矮扁平矩形体，D形提手拱起于机身中部，前端圆柱形调深旋钮形成视觉重音"
+      light_opening: "N/A（电动工具）；电池电量LED指示灯集成于20V MAX电池侧面"
+      thermal: "电机仓黑色外壳两侧设横向散热缝，与黄色机身形成明确分区"
+      cmf:
+        color: "DeWalt标准黄（主）+ 黑（电机仓/握把/触发器）"
+        material: "玻纤增强尼龙壳体，铝合金底板，橡胶覆盖握把"
+        finish: "哑光黄色注塑，黑色部件亚光处理"
+      mounting: "20V MAX XR锂电池滑入式后置接口，电池与机身平齐无凸出"
+      signature_detail: "前端黑色大直径圆形调深旋钮带刻度环，在黄色机身上极为醒目"
+    design_level:
+      score: 3
+      reason: "黄黑配色系统内一致性强，无绳化设计整洁，但整体造型较传统，无明显创新突破"
+    design_tags:
+      - "无绳"
+      - "黄黑配色"
+      - "20V MAX"
+      - "XR系列"
+      - "手刨"
+      - "H02_包覆设计"
+    hero_feature: "前端大直径黑色调深旋钮与黄色机身强对比"
+    problem_solved: "消除电线限制，单手调节刨削深度时旋钮尺寸够大、操作明确"
+    transferable_technique: "大尺寸功能旋钮作为视觉锚点策略（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_刨_002"
+    source_images:
+      - filename: "刨__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__04.jpg"
+        image_role: "hero"
+        visual_anchor: "黄黑有绳手刨，黑色电机仓居中为主体，前调深旋钮黑色圆形，有绳连接"
+      - filename: "刨__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__05.jpg"
+        image_role: "scene"
+        visual_anchor: "同款有绳手刨与黑色硬壳收纳箱组合展示"
+      - filename: "刨__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__07.jpg"
+        image_role: "scene"
+        visual_anchor: "欧版有绳手刨加靠尺配件与收纳箱套装，线缆从后部引出"
+    product_name: "DeWalt D26500 Corded Hand Planer"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "刨"
+      - "有绳手刨"
+    design_language:
+      silhouette: "前低后高的楔形体，D形提手横跨机身，黑色电机仓将机身视觉一分为二"
+      light_opening: "N/A（电动工具）"
+      thermal: "黑色电机仓两侧纵向散热槽组，与机身颜色分区形成功能可读性"
+      cmf:
+        color: "黄色（机身前后）+ 黑色（电机仓/握把）"
+        material: "尼龙复合壳体，铝合金底板"
+        finish: "哑光注塑，铝板抛光"
+      mounting: "标准电源线直接驱动，无电池接口；底板带标准靠尺安装槽"
+      signature_detail: "黑色电机仓中央横置，作为黄色机身的视觉分割带"
+    design_level:
+      score: 2
+      reason: "造型传统，黄黑分区清晰但设计语言平实，无显著创新"
+    design_tags:
+      - "有绳"
+      - "黄黑配色"
+      - "手刨"
+      - "D26500"
+      - "H03_分件线设计"
+    hero_feature: "黑色电机仓横置将黄色机身切割为前后两段"
+    problem_solved: "轻量手持刨削，靠尺保持平行度"
+    transferable_technique: "功能仓颜色区分作为视觉分件线（H03分件线设计）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_刨_003"
+    source_images:
+      - filename: "刨__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__02.jpg"
+        image_role: "hero"
+        visual_anchor: "DeWalt DW735台式压刨45度俯仰视角，黄色机箱带延伸台，配件散落前方"
+      - filename: "刨__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__03.jpg"
+        image_role: "hero"
+        visual_anchor: "同款压刨正面视角，进料口居中，右侧黄色刻度尺竖向排列，红色紧急停止键醒目"
+      - filename: "刨__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/刨/刨__06.jpg"
+        image_role: "detail"
+        visual_anchor: "压刨正面全高视角，黄色立柱与铝色台面形成强对比，高度调节手轮位于右侧"
+    product_name: "DeWalt DW735 13-inch Thickness Planer"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "刨"
+      - "台式压刨"
+    design_language:
+      silhouette: "矩形重型工作台形态，黄色四立柱框架托起银色进料台，整体呈门式结构"
+      light_opening: "N/A（电动工具）"
+      thermal: "电机仓顶部黄色壳体内置风道，外部无明显散热孔设计"
+      cmf:
+        color: "黄色（框架/机箱）+ 银灰色（铸铁进料台）+ 黑色（把手/按钮）"
+        material: "钢质框架，铸铁工作台面，工程塑料外壳"
+        finish: "哑光黄喷涂，台面精加工磨光"
+      mounting: "四脚落地固定式，底部可螺栓紧固至工作台"
+      signature_detail: "右侧黄色刻度尺竖向安装，精确读数可视性极强"
+    design_level:
+      score: 3
+      reason: "黄黑银三色系统统一，工业感强，刻度尺集成方式实用且具辨识度，但整体是功能优先的工业设计"
+    design_tags:
+      - "台式"
+      - "固定设备"
+      - "压刨"
+      - "DW735"
+      - "黄银配色"
+      - "工业工具"
+    hero_feature: "红色紧急停止按钮与右侧黄色刻度尺共同构成操作界面核心"
+    problem_solved: "大件木料批量精确厚度处理，刻度尺实现快速精确深度设定"
+    transferable_technique: "功能刻度尺竖向一体化集成，兼顾精度读数与紧凑空间（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,459 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 吸顶灯
+  tertiary: 吸顶灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_吸顶灯_001
+  source_images:
+  - filename: 07.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/07.jpg
+    image_role: hero
+    visual_anchor: 天花上多个扁椭圆透明光盘聚合，像云团一样组成吸顶灯群。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吸顶灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 透明/半透明材质配白色或暖色光
+      material: 玻璃或透明塑料扩散件，配金属支架/灯体
+      finish: 透明抛光或磨砂扩散，边缘高光清晰
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 天花上多个扁椭圆透明光盘聚合，像云团一样组成吸顶灯群
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吸顶灯
+  - 灯具
+  - 透明
+  - 逐张视觉识别
+  hero_feature: 天花上多个扁椭圆透明光盘聚合，像云团一样组成吸顶灯群
+  problem_solved: 吸顶灯需要贴近天花提供均匀照明，同时减少厚度和设备感。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吸顶灯_002
+  source_images:
+  - filename: 19.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/19.jpg
+    image_role: hero
+    visual_anchor: 白色圆盘吸顶底座下接两个圆球漫射灯头，形成蘑菇状双头组合。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吸顶灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色圆盘吸顶底座下接两个圆球漫射灯头，形成蘑菇状双头组合
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吸顶灯
+  - 漫射
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 白色圆盘吸顶底座下接两个圆球漫射灯头，形成蘑菇状双头组合
+  problem_solved: 吸顶灯需要贴近天花提供均匀照明，同时减少厚度和设备感。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吸顶灯_003
+  source_images:
+  - filename: 61.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/61.jpg
+    image_role: hero
+    visual_anchor: 多色短圆筒吸顶射灯，底部蜂窝格栅和可转小灯头展示控光结构。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吸顶灯
+  design_language:
+    silhouette: 长条矩形灯体底面布满圆孔透镜阵列，端部以块状壳体收边
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 多色短圆筒吸顶射灯，底部蜂窝格栅和可转小灯头展示控光结构
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吸顶灯
+  - 灯具
+  - 蜂窝
+  - 逐张视觉识别
+  hero_feature: 多色短圆筒吸顶射灯，底部蜂窝格栅和可转小灯头展示控光结构
+  problem_solved: 吸顶灯需要贴近天花提供均匀照明，同时减少厚度和设备感。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吸顶灯_004
+  source_images:
+  - filename: 64.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/64.jpg
+    image_role: hero
+    visual_anchor: 白色圆形嵌入式吸顶灯，环形边框包住中央凹面柔光罩。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吸顶灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 白色圆形嵌入式吸顶灯，环形边框包住中央凹面柔光罩
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吸顶灯
+  - 灯具
+  - 环形
+  - 逐张视觉识别
+  hero_feature: 白色圆形嵌入式吸顶灯，环形边框包住中央凹面柔光罩
+  problem_solved: 吸顶灯需要贴近天花提供均匀照明，同时减少厚度和设备感。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吸顶灯_005
+  source_images:
+  - filename: 66.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/66.jpg
+    image_role: hero
+    visual_anchor: 黑色矩形嵌入式格栅灯，四个深腔透镜并排形成线性控光。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吸顶灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 黑色矩形嵌入式格栅灯，四个深腔透镜并排形成线性控光
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吸顶灯
+  - 深腔
+  - 灯具
+  - 线性
+  - 逐张视觉识别
+  hero_feature: 黑色矩形嵌入式格栅灯，四个深腔透镜并排形成线性控光
+  problem_solved: 吸顶灯需要贴近天花提供均匀照明，同时减少厚度和设备感。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吸顶灯_006
+  source_images:
+  - filename: 95.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/95.jpg
+    image_role: hero
+    visual_anchor: 彩色圆筒吸顶灯带螺旋弹簧状电缆下垂，形成动态装饰。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吸顶灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 连续线性发光面或窄缝出光，强调光路径的完整性
+    thermal: 散热整合在铝型材背部或细长灯体壳内，正视角弱化散热结构
+    cmf:
+      color: 彩色光或高饱和色作为视觉焦点
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊装、壁装或嵌入式连续安装，依靠端部收口和对齐精度建立秩序
+    signature_detail: 彩色圆筒吸顶灯带螺旋弹簧状电缆下垂，形成动态装饰
+  design_level:
+    score: 5
+    reason: 5分：形态记忆点强，材料/光效/结构之间有明确概念绑定，不只是完成照明功能。
+  design_tags:
+  - Artemide
+  - 吸顶灯
+  - 彩色
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 彩色圆筒吸顶灯带螺旋弹簧状电缆下垂，形成动态装饰
+  problem_solved: 吸顶灯需要贴近天花提供均匀照明，同时减少厚度和设备感。
+  transferable_technique: 把结构、走线和发光面压缩成连续线条，让灯具从物体转为可绘制的空间路径
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吸顶灯_007
+  source_images:
+  - filename: 100.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/100.jpg
+    image_role: hero
+    visual_anchor: 巨大白色圆盘吸顶灯表面带细密纹理，下方悬挂多个小环形灯。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吸顶灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 巨大白色圆盘吸顶灯表面带细密纹理，下方悬挂多个小环形灯
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吸顶灯
+  - 灯具
+  - 环形
+  - 逐张视觉识别
+  hero_feature: 巨大白色圆盘吸顶灯表面带细密纹理，下方悬挂多个小环形灯
+  problem_solved: 吸顶灯需要贴近天花提供均匀照明，同时减少厚度和设备感。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吸顶灯_008
+  source_images:
+  - filename: 127.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/127.jpg
+    image_role: hero
+    visual_anchor: 大小不同的圆形发光盘点状分布在黑色天花上，形成圆点阵列。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吸顶灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 黑色/深灰为主，局部白色发光面或金属高光
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光或半哑光深色喷涂，发光面柔光扩散
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 大小不同的圆形发光盘点状分布在黑色天花上，形成圆点阵列
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吸顶灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 大小不同的圆形发光盘点状分布在黑色天花上，形成圆点阵列
+  problem_solved: 吸顶灯需要贴近天花提供均匀照明，同时减少厚度和设备感。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吸顶灯_009
+  source_images:
+  - filename: 137.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/137.jpg
+    image_role: hero
+    visual_anchor: 枝状吸顶灯由多根细杆和小球灯头组成，像分子结构贴近天花。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吸顶灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 小型定向灯头或罩内出光，围绕任务照明形成明确方向性
+    thermal: 散热由金属灯头、细杆和关节件承担，热区集中在灯头背部
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 桌面、落地、墙面或轨道安装，通过关节和支点实现角度调节
+    signature_detail: 枝状吸顶灯由多根细杆和小球灯头组成，像分子结构贴近天花
+  design_level:
+    score: 5
+    reason: 5分：轮廓高度鲜明，光学表达直接成为造型主题，适合作为高识别度参考。
+  design_tags:
+  - Artemide
+  - 吸顶灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 枝状吸顶灯由多根细杆和小球灯头组成，像分子结构贴近天花
+  problem_solved: 吸顶灯需要贴近天花提供均匀照明，同时减少厚度和设备感。
+  transferable_technique: 让关节、支臂和配重直接外显为造型语言，使可调功能成为识别点
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吸顶灯_010
+  source_images:
+  - filename: 146.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/146.jpg
+    image_role: hero
+    visual_anchor: 大圆盘下悬多个小环形灯头，形成层叠圆环吸顶吊装系统。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吸顶灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 大圆盘下悬多个小环形灯头，形成层叠圆环吸顶吊装系统
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 吸顶灯
+  - 灯具
+  - 环形
+  - 逐张视觉识别
+  hero_feature: 大圆盘下悬多个小环形灯头，形成层叠圆环吸顶吊装系统
+  problem_solved: 吸顶灯需要贴近天花提供均匀照明，同时减少厚度和设备感。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: artemide_吸顶灯_011
+  source_images:
+  - filename: 148.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/吸顶灯/148.jpg
+    image_role: hero
+    visual_anchor: 椭圆大盘下方悬挂多只椭圆环灯，形成云状多层吸顶灯。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 吸顶灯
+  design_language:
+    silhouette: 圆形、球形或环形体量为主体，曲面边界连续，安装线/支点被细化处理
+    light_opening: 环形、球面漫射或圆形深腔出光，形成均匀光斑或清晰光晕
+    thermal: 散热隐藏在背板、环形边框或金属连接件中，保持圆形主体纯净
+    cmf:
+      color: 白色、浅灰或金属中性色为主
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 吊线、墙面、桌面或立杆固定，安装点尽量细化以突出圆形灯体
+    signature_detail: 椭圆大盘下方悬挂多只椭圆环灯，形成云状多层吸顶灯
+  design_level:
+    score: 4
+    reason: 4分：整体比例和出光关系成熟，识别度足够，适合作为同类灯具的造型参考。
+  design_tags:
+  - Artemide
+  - 吸顶灯
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 椭圆大盘下方悬挂多只椭圆环灯，形成云状多层吸顶灯
+  problem_solved: 吸顶灯需要贴近天花提供均匀照明，同时减少厚度和设备感。
+  transferable_technique: 用完整圆/球/筒几何统一光学与造型，把发光面做成产品的主轮廓
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

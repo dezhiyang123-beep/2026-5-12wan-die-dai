@@ -1,0 +1,160 @@
+project_id: "20260403-Agrolux-HORT"
+intel_date: "2026-04-03"
+
+# ── 客户研究 ──────────────────────────────────────────────────────
+client_research:
+  confirmed_fields:
+    - field: "公司状态"
+      value: "2025年9月MBO完成，从Hawthorne/Gavita独立，战略重组期"
+      confidence: "H"
+      source: "hortidaily.com/article/9772943"
+    - field: "CEO背景"
+      value: "Marc Salvany，前Signify高管，LaaS/平台化战略思路"
+      confidence: "H"
+      source: "hortidaily.com"
+    - field: "LYRA平台控制接口"
+      value: "Modbus RTU / Modbus TCP / horti lighting protocol / 0-10V，支持有线+无线"
+      confidence: "M"
+      source: "agrolux.com/agrolux-operating-system"
+    - field: "LYRA平台功率范围"
+      value: "340-1200W，七种配置，单驱动器可支持多种模块"
+      confidence: "H"
+      source: "floraldaily.com/article/9813816"
+    - field: "Agrolux OS"
+      value: "2026年初上线，兼容所有Agrolux LED历代产品，规划AI光策略自动化"
+      confidence: "H"
+      source: "floraldaily.com/article/9807812"
+    - field: "必须认证（欧盟）"
+      value: "CE（LVD+EMC+ErP+RoHS），ENEC建议持有"
+      confidence: "H"
+      source: "compliancegate.com"
+    - field: "必须认证（北美）"
+      value: "UL 8800（温室照明专用），DLC QPL上榜条件之一"
+      confidence: "H"
+      source: "ul.com/services/horticultural-lighting"
+  unknown_fields:
+    - field: "Agrolux具体定价"
+      verification_action: "联系Agrolux销售或区域经销商获取报价参考"
+    - field: "LYRA物理接口/连接器规格（是否开放给第三方）"
+      verification_action: "联系Agrolux技术合作部门，确认LYRA模块是否对外供应"
+    - field: "OEM合作开放程度"
+      verification_action: "直接联系Agrolux partnerships，询问LYRA硬件模块外采可能性"
+
+# ── 竞品矩阵（6个有效竞品）──────────────────────────────────────
+competitor_matrix:
+  - brand: "Signify"
+    model: "GreenPower LED Toplighting Force（4通道）"
+    price: "UNKNOWN（合作伙伴定制报价）[L]"
+    key_specs:
+      - "800W/1040W[H]"
+      - "最高5150 µmol/s[H]"
+      - "效能4.3 µmol/J@50%功率，3.9 µmol/J@100%[H]"
+      - "IP66，4通道精确光谱控制[H]"
+    differentiator: "AI驱动动态光谱+GrowWise系统，节能6%或增产6%，科学验证配方[H]"
+    user_pain: "高价格壁垒，定制报价不透明[M]"
+    source: "lighting.philips.com/horticulture/press-releases/2025/4-channel-toplighting-force[H]"
+
+  - brand: "Hortilux Schréder"
+    model: "NXTLED"
+    price: "UNKNOWN[L]"
+    key_specs:
+      - "600/750/1050/1400W[H]"
+      - ">5500 µmol/s[H]"
+      - "效能4.1 µmol/J（当前竞品最高）[H]"
+      - "被动气冷文丘里效应设计[H]"
+    differentiator: "市场最高效能声称；Boost功能将绿光/远红外功率转移到蓝红通道[H]"
+    user_pain: "UNKNOWN[L]"
+    source: "hortilux.com/product/hortilux-nxtled[H]"
+
+  - brand: "Heliospectra"
+    model: "MITRA X"
+    price: "大型项目8.3M SEK/批次[M]，单灯无公开价[L]"
+    key_specs:
+      - "325-1500W全模块化[H]"
+      - "5700 µmol/s@1500W[H]"
+      - "效能3.7 µmol/J[H]"
+      - "9波长可调+helioCORE软件[H]"
+    differentiator: "完全模块化+无线控制；全系IP66；最细长设计减少遮光[H]"
+    user_pain: "控制系统复杂，学习曲线陡[M]"
+    source: "heliospectra.com/led-grow-lights/mitra-x[H]"
+
+  - brand: "Valoya"
+    model: "RX系列（HID替换级）"
+    price: "UNKNOWN[L]"
+    key_specs:
+      - "395/465/564W[H]"
+      - "全铝被动散热+钢化玻璃，IP65[H]"
+      - "µmol/s未公开[L]"
+      - "具体效能未搜到[L]"
+    differentiator: "1:1替换HPS定位；专利植物光谱；5年保修；全铝耐用设计[H]"
+    user_pain: "光谱数据不够透明[M]"
+    source: "valoya.com/rx-series[H]"
+
+  - brand: "Iluminar"
+    model: "iLogic系列（6/8/9）"
+    price: "iLogic 6（330W）$725[H]；8/9未公开[L]"
+    key_specs:
+      - "iLogic 6: 330W，924 µmol/s，2.8 µmol/J[H]"
+      - "iLogic 8: 630W，1700-1800 µmol/s，2.7-2.85 µmol/J[H]"
+      - "iLogic 9: 1000W，2800 µmol/s，2.8 µmol/J[H]"
+    differentiator: "UV+远红外选项；IP65；5年保修；覆盖所有生长阶段[H]"
+    user_pain: "效能（2.8 µmol/J）显著低于顶级竞品[H]"
+    source: "ledgrowlightsdepot.com/iluminar[H]"
+
+  - brand: "Agrolux（自身对比）"
+    model: "WEGA系列"
+    price: "UNKNOWN[L]"
+    key_specs:
+      - "WEGA Plus: 760W，2630 µmol/s，3.5 µmol/J[H]"
+      - "WEGA Max: 1040W，4000 µmol/s，3.85 µmol/J[H]"
+      - "50000h使用寿命，5年保修[H]"
+    differentiator: "LYRA平台可模块升级，Agrolux OS集成，荷兰品牌背书[H]"
+    user_pain: "效能3.85 µmol/J低于Hortilux NXTLED（4.1）和Signify TLF（4.3）[H]"
+    source: "agrolux.com/products[H]"
+
+# ── 市场数据 ────────────────────────────────────────────────────
+market_data:
+  price_distribution: |
+    无公开定价体系。唯一找到的零售参考：Iluminar iLogic 6（330W）$725[H]。
+    成本基准指标：HPS 1000W≈$550时约$0.26/µmol[M]。
+    LED预估：$0.15-0.30/µmol（有限推断，非实测）[M]。
+    B2B项目定制报价是行业惯例，价格不透明[H]。
+  volume_signal: |
+    温室照明CAGR 22.4%，2023年$37亿→2028年$104亿[H-marketsandmarkets.com]。
+    温室场景占比43.2%（2024年）[H]。
+    LED替代HPS是主要增量来源，迁移周期18-36个月回本[H]。
+  trend_notes: |
+    1. 效能竞争：顶级竞品已达4.1-4.3 µmol/J，行业门槛快速提升[H]
+    2. 平台化：控制软件成为差异化核心（Signify GrowWise/Agrolux OS/Heliospectra helioCORE）[H]
+    3. 模块化：LYRA和MITRA X均主打可升级，延长设备投资生命周期[H]
+    4. DLC QPL：北美商业采购需要DLC认证，UL 8800是必要前提[H]
+
+# ── 用户场景 ────────────────────────────────────────────────────
+user_scenarios:
+  - scenario: "冬季顶部补光（最主流）：大型温室番茄/黄瓜冬季自然光不足"
+    behavioral_contradiction: "要满足DLI目标（番茄22-30 mol/m²/day）就要高功率持续开灯→但电费是最大运营成本"
+  - scenario: "HPS升级改造：旧温室从1000W高压钠灯切换LED"
+    behavioral_contradiction: "要降低能耗就必须换LED→但HPS产生的热量是温室加热的一部分，换LED后冬季反而需要额外供暖成本"
+  - scenario: "多品种混栽温室：同一设施种不同番茄品种"
+    behavioral_contradiction: "要优化某品种光谱配方→但同一顶灯覆盖区域内无法给不同品种分别配光"
+  - scenario: "层间密植（inter-lighting）：高密度番茄/黄瓜植株顶部覆盖不足"
+    behavioral_contradiction: "要提升中下层叶片光照→但顶灯穿透力有限，进入冠层会造成温度伤害（HPS尤其严重）"
+  - scenario: "商业决策：种植者评估新LED供应商"
+    behavioral_contradiction: "要选最优产品→但市场数据不透明（无公开价格/光谱数据缺乏可比性），只能依赖供应商自述"
+
+# ── UNKNOWN汇总 ─────────────────────────────────────────────────
+unknown_summary:
+  - field: "所有竞品和Agrolux定价"
+    verification_action: "申请经销商报价；行业展会（GreenTech/Fruit Logistica）接触销售"
+  - field: "LYRA物理模块接口规格"
+    verification_action: "直接联系Agrolux技术合作，询问是否开放第三方模块供应"
+  - field: "Agrolux OEM合作开放程度"
+    verification_action: "发商务邮件至Agrolux partnerships部门，说明OEM工厂背景和供应意向"
+  - field: "DLC QPL认证成本和上榜周期"
+    verification_action: "访问designlights.org，查询horticultural QPL申请流程"
+
+tech_trends:
+  - "效能竞争白热化：4.1+ µmol/J已成高端门槛，3.5以下竞争力弱[H]"
+  - "平台软件成为锁定用户的核心护城河（Agrolux OS、GrowWise、helioCORE）[H]"
+  - "模块化设计延长投资生命周期，减少一次性更换需求[H]"
+  - "DLC + UL 8800成为北美商业采购硬门槛[H]"

@@ -1,0 +1,359 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外壁灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/户外壁灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "pl_户外壁灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/户外壁灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向矩形哑黑箱体 + 底部单侧向下出光开口（品红色光）"
+    product_name: "Philips Hue Impress户外壁灯（矩形箱体单向下照款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯"]
+    design_language:
+      silhouette: "竖向矩形实心箱体，正面无开口，底部单侧透光缝隙，极简克制"
+      light_opening: "底部向下单侧出光，窄缝式出光口"
+      thermal: "全封闭金属箱体，内置散热，IP65级"
+      cmf:
+        color: "哑黑"
+        material: "铝合金压铸"
+        finish: "磨砂哑黑喷涂"
+      mounting: "壁挂式，箱体直接固定于墙面"
+      signature_detail: "正面大面积完全封闭，所有光线仅从底部缝隙泄出，形成强烈向下光晕"
+    design_level:
+      score: 3
+      reason: "极简箱体策略干净有力，但廓形过于方正，单向出光限制光效层次"
+    design_tags: ["极简箱体", "单向下照", "窄缝出光", "IP户外", "哑黑铝合金", "壁挂"]
+    hero_feature: "封闭正面 + 底部窄缝单向向下出光，强调光与影的戏剧对比"
+    problem_solved: "户外入口/车道需要定向下照引导光，避免眩光干扰"
+    transferable_technique: "封闭外壳仅留单侧出光缝的极简灯具设计手法，可迁移至室内线性壁灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_户外壁灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/户外壁灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向圆柱形哑黑灯体 + 壁装支架 + 底部圆形出光口（品红色光）"
+    product_name: "Philips Hue Appear户外壁灯（圆柱竖向款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯"]
+    design_language:
+      silhouette: "竖向圆柱体，比例细长（高宽比约3:1），通过矩形壁装支架固定"
+      light_opening: "顶部和底部各有圆形出光口，形成上下双向投光"
+      thermal: "全封闭铝合金圆柱，内置热管理"
+      cmf:
+        color: "哑黑"
+        material: "铝合金"
+        finish: "磨砂哑黑"
+      mounting: "壁挂式，矩形扁平支架连接墙面与圆柱灯体"
+      signature_detail: "圆柱顶底双圆形出光口，上下投光在墙面形成两道弧形光晕"
+    design_level:
+      score: 4
+      reason: "圆柱造型挺拔有力，顶底双向出光形成完整光效叙事，支架与灯体比例协调"
+    design_tags: ["圆柱体", "双向出光", "上下投光", "壁装支架", "IP户外", "哑黑铝合金"]
+    hero_feature: "竖向圆柱顶底双圆形出光口 + 墙面双弧光晕效果"
+    problem_solved: "需要同时照亮上下两个方向的入口/门廊场景，减少盲区"
+    transferable_technique: "顶底双向出光圆柱结构，在保持造型简洁的同时最大化光效覆盖面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_户外壁灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/户外壁灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑矩形壁装底座 + 可旋转大面积方形LED泛光面板（品红色发光）"
+    product_name: "Philips Hue Discover户外泛光壁灯"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯"]
+    design_language:
+      silhouette: "方形面板通过旋转关节连接矩形壁座，整体呈L形悬臂结构"
+      light_opening: "大面积正面均匀泛光，方形面板整面出光"
+      thermal: "面板背部为散热体，金属材质散热"
+      cmf:
+        color: "哑黑"
+        material: "铝合金 + 扩散面板"
+        finish: "磨砂哑黑"
+      mounting: "壁挂式，矩形底座固定，面板可旋转调节角度"
+      signature_detail: "面板可绕水平轴旋转约180°，角度自由调节，适配各种墙面/地面照射需求"
+    design_level:
+      score: 4
+      reason: "可旋转调节是实用亮点，大面积均匀出光面板彩色效果震撼，功能与设计融合好"
+    design_tags: ["泛光灯", "可旋转面板", "大面积出光", "悬臂结构", "IP户外", "彩色Hue"]
+    hero_feature: "大面积方形彩色泛光面板 + 可旋转调角关节"
+    problem_solved: "外墙、庭院需要大范围彩色泛光照明，单灯覆盖面积大且方向可调"
+    transferable_technique: "可旋转关节 + 大面积扩散面板的悬臂泛光结构，可迁移至工作照明/投影灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_户外壁灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/户外壁灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "横向椭圆形哑黑灯体 + 底部连续弧形出光缝（品红色光）"
+    product_name: "Philips Hue Resonate户外壁灯（椭圆横向款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯"]
+    design_language:
+      silhouette: "横向卧置椭圆体，正面圆滑曲面，底部有一道连续弧形出光缝"
+      light_opening: "底部弧形缝隙向下出光，光线沿椭圆弧面渲染墙体"
+      thermal: "全封闭椭圆铝合金壳体，内置散热"
+      cmf:
+        color: "哑黑"
+        material: "铝合金"
+        finish: "磨砂哑黑，正面曲面光滑"
+      mounting: "壁挂式，直接固定于墙面"
+      signature_detail: "底部连续弧形出光缝与椭圆廓形曲线呼应，光出口形态与外轮廓语言统一"
+    design_level:
+      score: 5
+      reason: "椭圆曲面廓形有机优美，底部弧形出光缝与外形轮廓完美呼应，是系列中设计语言最统一的作品"
+    design_tags: ["椭圆廓形", "弧形出光缝", "有机曲面", "向下出光", "IP户外", "形光一体"]
+    hero_feature: "椭圆弧面外形与底部弧形出光缝的形光高度一致性"
+    problem_solved: "追求有机雕塑感的高端住宅外墙照明，区别于主流方形/圆柱户外壁灯"
+    transferable_technique: "出光口形态与外部廓形保持一致的形光一体设计手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_户外壁灯_005"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/户外壁灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑正方形框架结构 + 内嵌透明玻璃板 + 悬浮方形乳白光源体（品红发光）"
+    product_name: "Philips Hue Impress户外壁灯（方框透视款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯"]
+    design_language:
+      silhouette: "正方形框架轮廓，框内双层玻璃板之间悬浮发光体，深度感强"
+      light_opening: "内部悬浮体全向漫射，透过玻璃板向外透光"
+      thermal: "框架为金属，玻璃面板保护内部，散热通过框架传导"
+      cmf:
+        color: "哑黑框架 + 透明玻璃 + 乳白发光体"
+        material: "铝合金框架 + 钢化玻璃 + LED模组"
+        finish: "框架磨砂哑黑，玻璃面清透"
+      mounting: "壁挂式，四角螺钉固定"
+      signature_detail: "双层玻璃内悬浮独立发光体，创造透视深度感，光效像一个发光盒子被嵌在墙里"
+    design_level:
+      score: 5
+      reason: "透视结构独特，悬浮发光体在玻璃框架内形成极强的深度感和雕塑感，设计创新度高"
+    design_tags: ["透视框架", "悬浮光源", "双层玻璃", "深度感", "IP户外", "雕塑感"]
+    hero_feature: "黑色方框内悬浮乳白发光体 + 双层透明玻璃的透视深度视觉"
+    problem_solved: "高端住宅门廊需要设计感强烈的标志性壁灯，区别于普通功能性户外灯"
+    transferable_technique: "框架内悬浮独立光源体的透视层次结构，可迁移至室内装饰壁灯/展示柜照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_户外壁灯_006"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/户外壁灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑传统灯笼廓形 + 透明玻璃面板 + 圆形壁装托架 + 品红色发光体"
+    product_name: "Philips Hue Econic户外壁灯（经典灯笼向下款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯"]
+    design_language:
+      silhouette: "经典传统灯笼廓形，梯形四面玻璃框，顶部收口带悬挂架，圆形底座连接墙面"
+      light_opening: "四面玻璃全透，360°全向出光"
+      thermal: "金属框架散热，LED热量低"
+      cmf:
+        color: "哑黑框架 + 透明玻璃"
+        material: "铸铁/铝合金框架 + 钢化透明玻璃"
+        finish: "框架磨砂哑黑"
+      mounting: "圆形托架壁挂，灯笼从托架向下悬出"
+      signature_detail: "传统灯笼语义与Hue全彩智能模块的结合，经典廓形内放现代彩色LED"
+    design_level:
+      score: 3
+      reason: "经典传统风格灯笼廓形，设计上无突破但与Hue全彩功能的反差有趣，适合欧式/古典住宅"
+    design_tags: ["灯笼廓形", "传统风格", "全透玻璃", "360°出光", "Hue全彩", "欧式"]
+    hero_feature: "传统灯笼造型内置Hue全彩模块，古典外观与现代智能功能的反差"
+    problem_solved: "欧式/古典风格住宅需要与建筑风格匹配的户外壁灯，同时具备智能调色功能"
+    transferable_technique: "传统廓形内置现代智能光源模块的风格延续策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_户外壁灯_007"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/户外壁灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑五边形灯笼廓形 + 多面透明玻璃 + 圆弧底座托架 + 品红色发光"
+    product_name: "Philips Hue Econic户外壁灯（五边形灯笼向上款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯"]
+    design_language:
+      silhouette: "五边形/六边形灯笼廓形，多面玻璃板，顶部平直，底座为圆弧托架"
+      light_opening: "多面玻璃全透，360°全向出光，开口比006更大"
+      thermal: "金属框架散热"
+      cmf:
+        color: "哑黑框架 + 透明玻璃"
+        material: "铝合金框架 + 钢化透明玻璃"
+        finish: "框架磨砂哑黑"
+      mounting: "圆弧托架壁挂，灯笼从托架向上延伸"
+      signature_detail: "多面棱角分明的几何灯笼廓形，比006更有现代感，介于传统与当代之间"
+    design_level:
+      score: 4
+      reason: "多边形灯笼廓形比圆形006更有几何现代感，棱角分明与Hue彩光结合效果出色"
+    design_tags: ["多边形灯笼", "几何现代", "全透玻璃", "360°出光", "Hue全彩", "当代户外"]
+    hero_feature: "多边形棱角灯笼廓形 + Hue彩光360°透射，几何光效强烈"
+    problem_solved: "需要兼具传统灯笼亲切感与现代几何设计感的户外壁灯场景"
+    transferable_technique: "多边形几何灯笼廓形作为传统与现代过渡语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_户外壁灯_008"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/户外壁灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑圆形半球体 + 四层横向环形遮光圈 + 壁装矩形底座（品红色发光）"
+    product_name: "Philips Hue Fuzo户外壁灯（多环层叠款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯"]
+    design_language:
+      silhouette: "圆柱半球体，正面四层横向环形遮光片层叠排列，整体呈鼓形"
+      light_opening: "每层环形遮光片之间透光，形成四道水平环形光带"
+      thermal: "金属结构，环形散热效果好"
+      cmf:
+        color: "哑黑"
+        material: "铝合金"
+        finish: "磨砂哑黑"
+      mounting: "矩形底座壁挂"
+      signature_detail: "四层横向遮光环将出光切割为水平光带，形成参数化层叠视觉节奏"
+    design_level:
+      score: 4
+      reason: "多环层叠廓形独特，出光被切割为有节奏的水平光带，兼顾遮眩与装饰性"
+    design_tags: ["多环层叠", "参数化节奏", "遮眩设计", "水平光带", "IP户外", "雕塑感"]
+    hero_feature: "四层横向遮光环切割光线为等距水平光带，强烈的参数化节奏感"
+    problem_solved: "需要防眩光同时保持装饰性的入口/走廊户外壁灯，避免直视光源"
+    transferable_technique: "多层横向遮光环遮眩+塑形手法，可迁移至室内走廊壁灯/阅读灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_户外壁灯_009"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/户外壁灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑竖向矩形框架 + 内嵌透明玻璃 + 竖条乳白LED光板（品红发光）"
+    product_name: "Philips Hue Impress户外壁灯（竖向矩形透视款白底）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯"]
+    design_language:
+      silhouette: "竖向长方形框架，纵横比约2:1，单侧玻璃开放透视，内部竖条发光板可见"
+      light_opening: "前面+侧面部分出光，透过玻璃板扩散"
+      thermal: "金属框架散热，玻璃透气"
+      cmf:
+        color: "哑黑框架 + 透明玻璃 + 乳白LED板"
+        material: "铝合金框架 + 钢化玻璃 + LED模组"
+        finish: "框架磨砂哑黑"
+      mounting: "壁挂，竖向安装"
+      signature_detail: "内部乳白竖条LED板居中，框架留有空间感，光从内到外有层次深度"
+    design_level:
+      score: 3
+      reason: "透视框架结构清晰，但竖条发光板形态与009外框略显割裂，不如005的悬浮设计统一"
+    design_tags: ["竖向矩形框", "透视结构", "内嵌发光板", "深度层次", "IP户外", "现代简约"]
+    hero_feature: "竖向黑框内透视可见的乳白竖条LED板，近看有层次深度"
+    problem_solved: "需要竖向延伸视觉比例的入口/门廊照明，配合高挑建筑立面"
+    transferable_technique: "竖向框架内嵌独立发光元件的层次透视结构"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_户外壁灯_010"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/户外壁灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑正方形框架 + 透明玻璃前后板 + 内嵌乳白竖条LED发光体（品红发光）"
+    product_name: "Philips Hue Impress户外壁灯（方形透视全开款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "户外壁灯"]
+    design_language:
+      silhouette: "正方形框架，前后均有玻璃板（比006多开一面），内部乳白发光体居中，透视感更强"
+      light_opening: "前后双面透光，侧面框架遮挡，形成定向前后投光"
+      thermal: "金属框架，双玻璃面透气散热"
+      cmf:
+        color: "哑黑框架 + 透明玻璃 + 乳白发光体"
+        material: "铝合金框架 + 双层钢化玻璃 + LED模组"
+        finish: "框架磨砂哑黑"
+      mounting: "壁挂，正方形安装"
+      signature_detail: "前后双面透明玻璃使发光体完全暴露，光向前后双向投射，墙面前方和后方均有光晕"
+    design_level:
+      score: 4
+      reason: "前后双面透明使发光体雕塑感最强，双向投光在建筑立面产生独特层次，比009更完整"
+    design_tags: ["方形框架", "双面透明", "双向投光", "深度层次", "IP户外", "雕塑感"]
+    hero_feature: "正方形双面玻璃框内悬浮发光体，前后双向出光在墙面产生前后双光晕"
+    problem_solved: "高端建筑立面需要前后双向投光的标志性壁灯，建立视觉焦点"
+    transferable_technique: "双面透明框架结构使发光体前后双向出光，可迁移至楼梯扶手/隔断灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

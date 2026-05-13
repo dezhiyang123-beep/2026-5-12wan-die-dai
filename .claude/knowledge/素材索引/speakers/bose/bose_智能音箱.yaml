@@ -1,0 +1,224 @@
+schema_version: product_dna_v1
+category:
+  primary: 音箱
+  secondary: 智能音箱
+  tertiary: ''
+source:
+  source_type: brand_official
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/智能音箱/
+  generated_at: '2026-05-08'
+products:
+- product_id: bose_smart_001
+  source_images:
+  - filename: 01.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/智能音箱/01.jpg
+    image_role: lifestyle
+    visual_anchor: 橙色方形小音箱置于海边礁石上，顶部红色织带提环，环境氛围图
+  - filename: 06.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/智能音箱/06.jpg
+    image_role: hero
+    visual_anchor: 橙色方形小音箱正面产品图，白底，顶部织带提环，控制按键区可见
+  product_name: Bose SoundLink Micro
+  brand_name: Bose
+  brand_confidence: high
+  category_path:
+  - 音箱
+  - 智能音箱
+  design_language:
+    silhouette: 正方形体，四角大圆角；前脸下半区为冲孔格栅出声区，上半区为控制键+品牌名区；顶部伸出扁织带提环
+    light_opening: 前脸上区左右各有一个极小LED指示点，无大型状态灯
+    thermal: 无独立散热开口
+    cmf:
+      color: 珊瑚橙（Sunset Orange），织带为深红色
+      material: 橡胶/弹性体外壳（IPX7防水） + 冲孔格栅与壳体一体 + 扁平尼龙织带
+      finish: 柔性橡胶亚光，格栅与壳体同色同工艺
+    mounting: 独立放置；织带提环可挂载于背包/自行车
+    signature_detail: 顶部扁织带提环从壳体背面穿出，形成可折叠挂载结构；前脸控制键以凹印符号集成，无突出按键
+  design_level:
+    score: 3
+    reason: 紧凑方形形态辨识度高，同色橡胶包覆防水处理干净；织带提环是功能性亮点；整体为成熟户外便携语言
+  design_tags:
+  - 正方形轮廓
+  - 橡胶防水
+  - 织带提环
+  - 珊瑚橙
+  - 超便携
+  hero_feature: 正方形橡胶防水机身+顶部可折叠尼龙织带，极致紧凑的户外挂载音箱
+  problem_solved: 超便携户外场景（单车/登山/海滩）需要防水且可挂载的迷你蓝牙音箱
+  transferable_technique: 从壳体背面穿出的织带提环结构，提供挂载能力同时不破坏正面轮廓整洁性
+  confidence:
+    visual_description: high
+    category: medium
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: bose_smart_002
+  source_images:
+  - filename: 02.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/智能音箱/02.jpg
+    image_role: hero
+    visual_anchor: 橙色横置条形音箱正面图，白底，右端织带提环，顶面控制条
+  - filename: 09.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/智能音箱/09.jpg
+    image_role: secondary
+    visual_anchor: 橙色横置条形音箱正面图，白底，右端编织绳环，与02.jpg为同款不同配件版本
+  product_name: Bose SoundLink Flex
+  brand_name: Bose
+  brand_confidence: high
+  category_path:
+  - 音箱
+  - 智能音箱
+  design_language:
+    silhouette: 横向长条矩形，四角大圆角；正面为满版冲孔格栅；顶面有一排控制键条；右端侧面挂载提环；底面略弧形隆起
+    light_opening: 顶面控制条区域有小型LED状态灯
+    thermal: 无独立散热开口
+    cmf:
+      color: 珊瑚橙（Sunset Orange）；02.jpg为扁织带提环，09.jpg为编织绳圆环
+      material: IP67防水橡胶外壳 + 冲孔格栅 + 尼龙织带或编织绳提环
+      finish: 橡胶柔性亚光，格栅与壳体同色整体感强
+    mounting: 独立放置；右端提环可挂载
+    signature_detail: 右端提环为可拆卸式，02版为扁织带，09版为编织绳圆环，体现配件差异化；正面格栅满版覆盖消除视觉杂乱
+  design_level:
+    score: 3
+    reason: 标准防水便携蓝牙音箱语言，橙色鲜明，提环设计兼顾功能与个性；整体工艺完成度高，但形态为行业通行模板
+  design_tags:
+  - 横置长条形
+  - IP67防水
+  - 侧端提环
+  - 满版格栅
+  - 珊瑚橙
+  hero_feature: 满版冲孔橡胶格栅+侧端可挂载提环，防水耐摔且放置/挂载双模携带
+  problem_solved: 户外防水蓝牙音箱，需要在各类恶劣环境下稳定使用
+  transferable_technique: 侧端挂载提环不占用正面/顶面视觉空间的结构解法，保持产品正面整洁
+  confidence:
+    visual_description: high
+    category: medium
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: bose_smart_003
+  source_images:
+  - filename: 03.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/智能音箱/03.jpg
+    image_role: hero
+    visual_anchor: 黑色金属框架桌面音箱，正面织物格栅中有圆形外露低音单元，顶部有控制按键，底部有金属弧形把手
+  product_name: Bose Wave SoundTouch Music System
+  brand_name: Bose
+  brand_confidence: high
+  category_path:
+  - 音箱
+  - 智能音箱
+  design_language:
+    silhouette: 横向矩形主体，四角圆角；前脸为织物格栅覆盖，右侧三分之一区域有外露圆形低音单元嵌入格栅；底部金属管状弧形底座兼做把手；整体形似复古收音机
+    light_opening: 顶部控制区有小型LED状态指示灯
+    thermal: 无独立散热开口
+    cmf:
+      color: 黑色框架 + 浅棕/卡其色织物格栅
+      material: 金属框架（黑色烤漆） + 编织布格栅 + 金属圆管底座/把手
+      finish: 金属亚光黑 + 织物哑光暖棕
+    mounting: 桌面放置；金属弧形底座提供稳定支撑兼提携把手
+    signature_detail: 底部金属圆管弧形把手从主体底部穿过，形成视觉骨架感；前脸右侧外露的圆形低音单元在格栅中形成圆形视觉锚点
+  design_level:
+    score: 4
+    reason: 金属框架+织物格栅+外露低音单元的三层材质语言精致；底部金属把手在家用音箱中少见且有设计感；复古Hi-Fi美学在现代智能音箱中具有差异性
+  design_tags:
+  - 金属框架
+  - 织物格栅
+  - 外露低音单元
+  - 金属弧形把手
+  - 复古Hi-Fi
+  - 家用桌面
+  hero_feature: 底部穿透式金属圆管弧形把手，将结构支撑与提携功能合一，并赋予产品强烈的复古工业美学
+  problem_solved: 家用桌面智能音箱场景，需要高音质同时具备家居装饰属性
+  transferable_technique: 底部金属穿管结构同时承担支撑+把手+视觉骨架三重功能的整合设计手法
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: bose_smart_004
+  source_images:
+  - filename: 04.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/智能音箱/04.jpg
+    image_role: hero
+    visual_anchor: 低矮黑色箱形音箱/功放，顶面钢琴黑+银色双拼玻璃盖，正面Bose标志+蓝牙按键
+  product_name: Bose Music Amplifier / Home Speaker 500
+  brand_name: Bose
+  brand_confidence: medium
+  category_path:
+  - 音箱
+  - 智能音箱
+  design_language:
+    silhouette: 低矮宽扁矩形盒体，宽高比约3:1；顶面为双色钢琴黑+银色镜面玻璃拼接；前脸平整，中央品牌Logo+左侧单一圆形蓝牙按键；整体极简
+    light_opening: 前脸左侧圆形蓝牙按键周围有LED环形指示灯
+    thermal: 背面可能有散热开口，正面不可见
+    cmf:
+      color: 顶面：钢琴黑+银白双拼；前脸：深灰/黑
+      material: 钢琴烤漆玻璃顶盖（双色镜面） + 金属/ABS前脸外壳
+      finish: 顶面高光镜面 + 前脸哑光深色
+    mounting: 桌面放置
+    signature_detail: 顶面钢琴黑与银色的对角线分界是最强视觉符号，仿照Hi-Fi功放的顶盖美学；极简前脸仅保留品牌Logo和单一蓝牙功能键
+  design_level:
+    score: 4
+    reason: 顶面双色钢琴黑+银镜面的对角分割具有强烈高端Hi-Fi风格；极简前脸控制克制；整体语言向传统功放靠拢，与同类智能音箱明显区分
+  design_tags:
+  - 钢琴黑玻璃顶盖
+  - 双色镜面
+  - 极简前脸
+  - Hi-Fi功放美学
+  - 家用桌面
+  hero_feature: 顶面钢琴黑+银色镜面玻璃对角线双色拼接，极简Hi-Fi功放视觉语言
+  problem_solved: 家用桌面场景需要外观融入高端Hi-Fi环境的智能音箱/功放
+  transferable_technique: 顶面双色镜面材质对角线分割手法，赋予扁平产品强烈的高档感，可迁移到消费电子上盖设计
+  confidence:
+    visual_description: high
+    category: medium
+    brand: high
+    product_grouping: medium
+  needs_human_review: false
+  review_reason: ''
+- product_id: bose_smart_005
+  source_images:
+  - filename: 07.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/智能音箱/07.jpg
+    image_role: hero
+    visual_anchor: 黑色大型横置条形音箱正面图，顶部编织绳把手，满版金属网格格栅
+  product_name: Bose SoundLink Max
+  brand_name: Bose
+  brand_confidence: high
+  category_path:
+  - 音箱
+  - 智能音箱
+  design_language:
+    silhouette: 横向大型长条矩形，四角中圆角；正面为满版细密金属网格格栅；顶部居中设编织绳U型提手，手提处有金属环固定；整体厚实，体量感大
+    light_opening: 顶面控制区有状态指示灯，正面不可见
+    thermal: 无正面散热开口
+    cmf:
+      color: 全黑（Matte Black）
+      material: 橡胶/聚合物外壳 + 细密金属网格格栅 + 编织绳U型提手 + 金属固定环
+      finish: 外壳与格栅同色哑光黑；提手编织质感
+    mounting: 独立放置；顶部编织绳提手便于手提
+    signature_detail: 顶部编织绳U型提手从格栅顶面金属环穿出，提供手提功能同时形成拱形视觉符号；全黑配色配合细金属网格营造沉稳专业感
+  design_level:
+    score: 4
+    reason: 大型便携音箱中编织绳提手方案少见，手工感与功能性兼备；细密金属网格在大尺寸下质感突出；全黑配色沉稳有力，是Bose大功率便携线中造型最强一款
+  design_tags:
+  - 编织绳提手
+  - 细密金属网格
+  - 全黑配色
+  - 大型便携
+  - 拱形提手
+  hero_feature: 顶部编织绳U型拱形提手+细密金属网格格栅，大型便携音箱兼顾高级手工感与功能性
+  problem_solved: 需要大功率输出又要手提便携的户外/派对场景音箱
+  transferable_technique: 编织绳+金属固定环的提手结构，赋予大型便携电子产品手工/户外质感，可迁移到便携电源/露营设备
+  confidence:
+    visual_description: high
+    category: medium
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

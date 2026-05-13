@@ -1,0 +1,549 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "柱顶灯"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "bega_户外_柱顶灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "扁平矩形灯头侧向安装于柱顶，顶盖大幅倾斜遮蔽，灯口朝斜下方开口，整体呈悬挑飞檐造型"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "扁平矩形灯体通过侧向铰接支架连接柱顶，灯头整体偏置悬出，顶盖大幅向后延伸形成雨篷式遮光板"
+      light_opening: "朝斜下方单侧开口，矩形LED发光面带平整扩散板，直射式下照配光，无泛光"
+      thermal: "铝合金压铸灯体，顶盖作为散热导体，无可见散热鳍片，依赖外壳面积导热"
+      cmf:
+        color: "深石墨灰（graphite grey）"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光"
+      mounting: "柱顶侧向铰接夹持，滑入式/螺栓固定，适配圆柱管"
+      signature_detail: "顶盖与灯体之间的大角度倾斜切割线，以及铰接节点处的圆形螺栓细节"
+    design_level:
+      score: 4
+      reason: "飞檐式遮光顶盖造型独特，功能与形态高度统一；侧悬挑结构在柱顶灯中属非常规做法，辨识度强"
+    design_tags:
+      - "飞檐造型"
+      - "侧悬挑"
+      - "矩形灯头"
+      - "不对称"
+      - "功能性遮光板"
+      - "H01减法"
+      - "H11功能外显"
+    hero_feature: "大角度倾斜遮光顶盖形成飞檐轮廓，白天造型感强，夜间精准控光无眩光"
+    problem_solved: "柱顶路灯上半球光污染问题；顶盖同时作为防雨盖板保护灯具"
+    transferable_technique: "矩形发光面+大倾角遮光顶盖的组合可迁移至户外射灯、庭院灯设计中，实现精准配光与强烈轮廓感的统一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_柱顶灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "椭圆形扁碟状灯头侧向安装于柱顶，内部可见多个反射器模块，整体轮廓如压扁的鹅卵石"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "椭圆扁碟形灯体，厚度较薄，通过侧向铰接支架连接柱顶，灯体轮廓左右对称、上下扁平"
+      light_opening: "朝下方开口，椭圆开口内可见多个独立抛物面反射器模块，带透明保护玻璃，直射式下照配光"
+      thermal: "铝合金外壳，光滑表面无可见鳍片，依赖外壳体积散热"
+      cmf:
+        color: "深石墨灰（graphite grey）"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光"
+      mounting: "柱顶侧向铰接，螺栓固定，铰接节点可见小型圆形螺栓"
+      signature_detail: "椭圆扁碟轮廓与内部可见的多反射器阵列形成强烈视觉层次"
+    design_level:
+      score: 4
+      reason: "有机椭圆轮廓与内部精密反射器模块阵列形成有趣的粗犷外形+精密内核对比；造型辨识度高"
+    design_tags:
+      - "椭圆扁碟形"
+      - "侧悬挑"
+      - "多反射器阵列"
+      - "有机轮廓"
+      - "H08对比强调"
+      - "H11功能外显"
+    hero_feature: "椭圆扁碟形外壳内藏多反射器LED模块阵列，外形有机而内部精密"
+    problem_solved: "路径/广场照明需要宽幅配光，多反射器阵列实现均匀覆盖；椭圆轮廓减少视觉压迫感"
+    transferable_technique: "将多个光学模块阵列封装在单一有机轮廓外壳内的做法，可用于庭院灯、广场灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_柱顶灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形扁碟灯头直接扣在柱顶，极薄的黑色金属环框包裹全白扩散面板，整体比例极简纯粹"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "圆形扁碟（disc）直接置于柱顶，高度极低，碟面与柱轴垂直，边缘轮廓锐薄"
+      light_opening: "朝正下方开口，全圆面积白色扩散漫射面板，omnidirectional下照式，均匀散光无眩光"
+      thermal: "深色铝合金薄环框，导热面积有限，适合中低功率LED"
+      cmf:
+        color: "黑色外框 + 白色扩散面"
+        material: "压铸铝框 + 乳白扩散亚克力/玻璃"
+        finish: "框体粉末喷涂哑光黑；扩散面乳白均匀"
+      mounting: "柱顶直接套接，slip-fit式，圆柱管穿入碟底部中心"
+      signature_detail: "极薄黑色金属环框与全白圆形发光面的强烈黑白对比；整体比例如悬浮光碟"
+    design_level:
+      score: 4
+      reason: "形态极度克制，圆碟+黑框+白面三元素构成完整设计语言；比例和材质对比精准，无多余细节"
+    design_tags:
+      - "圆碟形"
+      - "极简"
+      - "柱顶直置"
+      - "黑白对比"
+      - "全面发光"
+      - "H01减法"
+      - "H07极简整合"
+    hero_feature: "超薄圆碟轮廓配合锐薄黑色金属边框，白天如精密零件，夜间发出均匀柔和圆形光晕"
+    problem_solved: "广场/步道需要低眩光均匀下照，扁碟形减少顶部轮廓视觉干扰"
+    transferable_technique: "超薄金属环框+满铺扩散面板的圆碟造型语言可迁移至庭院灯、路灯头设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_柱顶灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "三角形楔形灯体侧向安装于柱顶，黑色顶面与银色下部形成双色分件，灯口朝斜下方开口"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "三角楔形（wedge/prism）灯体，顶视呈锐角三角形，正视呈斜坡切割形态，通过柱顶侧向安装"
+      light_opening: "斜向下方单侧开口，矩形LED发光面带平整扩散板，精准下照配光"
+      thermal: "黑色压铸铝顶部（较厚，兼作散热体）+ 银色铝合金下部，双材/双色分件结构"
+      cmf:
+        color: "顶部深黑色 + 下部银灰色"
+        material: "压铸铝"
+        finish: "顶部粉末喷涂哑光黑；下部粉末喷涂银灰"
+      mounting: "柱顶侧向螺栓固定，夹持式安装"
+      signature_detail: "黑色楔形顶盖与银色斜坡下部的双色分件线；三角形截面在柱顶灯中极为罕见"
+    design_level:
+      score: 4
+      reason: "三棱柱/楔形造型在柱顶灯品类中高度差异化；双色分件线精准，几何感强，视觉辨识度极高"
+    design_tags:
+      - "楔形"
+      - "三角截面"
+      - "双色分件"
+      - "侧悬挑"
+      - "几何感"
+      - "H08对比强调"
+      - "H03分件线"
+    hero_feature: "三角楔形双色灯体，黑色顶盖与银色斜面的硬朗分件线是品类中的强烈差异点"
+    problem_solved: "需要在城市环境中兼顾精准定向照明与强烈造型辨识度的场合"
+    transferable_technique: "三角截面+双色分件的手法可迁移至户外路灯头、广场灯设计中，以几何形态塑造品牌记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_柱顶灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "宽大圆锥形顶盖（倒扣钟形）悬浮于柱顶，下方三根支撑臂呈三角辐射状固定LED发光体，构成开放式灯笼结构"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "大直径倒扣锥形遮光罩（顶盖）由三根斜撑臂支撑，下方露出圆形LED光源模块，整体呈开放式灯笼/蘑菇结构"
+      light_opening: "朝正下方和侧下方开口，LED光源模块悬置于遮光罩正下方，全角度侧向可见光源，omnidirectional下部配光"
+      thermal: "顶盖铝合金锥面兼作散热体，三根支撑臂铝合金铸造，结构即散热"
+      cmf:
+        color: "深石墨灰（graphite grey）"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光"
+      mounting: "柱顶直接套接，圆柱管穿入底座，slip-fit式"
+      signature_detail: "三角辐射支撑臂结构裸露可见，锥形顶盖下悬浮的LED模块形成强烈的结构美感"
+    design_level:
+      score: 4
+      reason: "开放式结构将工程逻辑转化为造型语言，三角支撑臂+锥形顶盖的组合极具建筑感；在柱顶灯中属高辨识度设计"
+    design_tags:
+      - "锥形遮光罩"
+      - "开放式结构"
+      - "三角支撑臂"
+      - "结构外显"
+      - "蘑菇形"
+      - "H11功能外显"
+      - "H09隐藏工程（反用：结构外显）"
+    hero_feature: "三根斜撑臂支起大锥形遮光罩，裸露的结构即造型，建筑感极强"
+    problem_solved: "大面积广场/公园需要宽幅下照，锥形顶盖防止上半球光污染同时实现大角度配光"
+    transferable_technique: "遮光罩与发光体分离+辐射支撑臂的构造方式可迁移至庭院灯、景观灯设计，形成开放式灯笼美学"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_柱顶灯_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "倒V形双臂从柱顶向外撑开，顶部封闭圆环框住大面积圆形发光面，整体呈类似高脚杯/花冠的有机造型"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "从柱顶向上外展的双曲线支臂（类似花瓣或酒杯腿）支撑顶部圆环，圆环内为大面积圆形LED发光面，侧视呈倒三角/花冠形"
+      light_opening: "朝正下方全面开口，大直径圆形LED发光面带白色扩散板，omnidirectional下照，均匀大面积照射"
+      thermal: "双曲线铝合金支臂兼作散热通道，圆环框体铝合金铸造"
+      cmf:
+        color: "深石墨灰（graphite grey）"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光"
+      mounting: "柱顶直接套接，slip-fit式，柱管穿入底部汇聚节点"
+      signature_detail: "双曲线外展支臂从柱顶自然生长的有机形态，结构线条流畅无硬角"
+    design_level:
+      score: 5
+      reason: "双曲线支臂从柱顶向外展开的形态兼具力学逻辑与有机美感；造型语言高度统一，无多余元素；是本批次最高辨识度的设计之一"
+    design_tags:
+      - "双曲线支臂"
+      - "花冠形"
+      - "有机形态"
+      - "大面积发光"
+      - "结构即造型"
+      - "H06仿生"
+      - "H07极简整合"
+    hero_feature: "双曲线外展支臂与顶部圆形发光面构成的花冠轮廓，自然有机而结构严谨"
+    problem_solved: "广场/公园大面积均匀照明需求，同时对造型美学有高要求的景观灯场合"
+    transferable_technique: "曲线支臂从基座向外生长支撑发光面的结构逻辑可迁移至高端庭院灯、景观灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_柱顶灯_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "低矮圆帽形灯头置于柱顶，黑色宽檐圆盘遮光罩下方透出白色圆环光带，整体比例扁宽"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "扁宽圆帽形（wide-brim hat）灯体，黑色宽檐上翘，中心厚实，下部透出一圈环形光"
+      light_opening: "朝正下方圆环形开口，LED发光体位于宽檐下方内圈，形成环形下照光带；同时中央区域有下照直射"
+      thermal: "宽圆盘面积铝合金，顶面作为主要散热体，表面光滑"
+      cmf:
+        color: "深黑色（near black）"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光黑"
+      mounting: "柱顶直接套接，圆柱管穿入底座中心，slip-fit式"
+      signature_detail: "上翘宽檐与下方隐藏的环形光带，白天是低调的黑色圆帽，夜间下缘透出一圈温暖光环"
+    design_level:
+      score: 3
+      reason: "形态中规中矩，宽檐帽造型常见，但环形光带在夜间效果较好；白天造型辨识度一般"
+    design_tags:
+      - "宽檐帽形"
+      - "环形光带"
+      - "柱顶直置"
+      - "隐藏光源"
+      - "H09隐藏工程"
+    hero_feature: "宽圆盘遮光罩下方隐藏的环形LED发光带，夜间产生浮动光环效果"
+    problem_solved: "步道/庭院需要柔和均匀下照，同时避免直视眩光"
+    transferable_technique: "将LED光源隐藏于宽檐内圈形成环形光效的手法，可迁移至庭院柱头灯、门廊灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_柱顶灯_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "大型透明球形灯罩内部可见垂直锥形发光体和水平散热鳍片，黑色底座连接柱顶，球体完整暴露在外"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "完整球形透明灯罩（globe），底部黑色小型底座连接柱管，球体直径远大于底座直径，视觉重心高"
+      light_opening: "omnidirectional全向出光，透明球罩内部光源向四周均匀发散；内部可见锥形散热体上的水平散热鳍片构成装饰性图案"
+      thermal: "球罩内部垂直锥形铝散热体，水平鳍片叠层散热，结构暴露在透明罩内部可见"
+      cmf:
+        color: "透明球罩 + 深黑色底座及内部散热体"
+        material: "透明PC/玻璃球罩 + 压铸铝内部结构"
+        finish: "球罩光滑透明；内部散热体哑光黑"
+      mounting: "柱顶套接，圆柱管穿入底座，slip-fit式"
+      signature_detail: "透明球罩内暴露的精密散热鳍片阵列，散热结构即装饰元素"
+    design_level:
+      score: 4
+      reason: "将内部散热工程结构转化为可视化装饰，功能外显手法运用精彩；复古球形灯笼与现代LED内核形成有趣张力"
+    design_tags:
+      - "球形灯笼"
+      - "透明罩"
+      - "全向出光"
+      - "散热结构可视化"
+      - "功能外显"
+      - "H11功能外显"
+      - "H10材料表达"
+    hero_feature: "透明球罩内部精密散热鳍片阵列清晰可见，将热管理工程转化为产品内部的精密美学"
+    problem_solved: "需要全向均匀照明的广场/公园场合，同时球形造型提供强烈的景观标志性"
+    transferable_technique: "将内部散热/光学结构通过透明外壳暴露的做法，可迁移至台灯、落地灯设计，以工程精密感为卖点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_柱顶灯_011"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "向上扩口的透明喇叭形灯罩置于柱顶，顶部薄黑色环框封口，中央一根细金属脊线从底部延伸至顶，灯体轻盈通透"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "向上扩口的喇叭/花瓶形透明灯罩，底部收窄连接黑色底座，顶部由薄黑色环框封口，整体轮廓流畅向上展开"
+      light_opening: "omnidirectional全向侧面出光，透明罩全面透光；顶部封闭无上射光；LED模块在底部内侧，光线向上经罩体扩散"
+      thermal: "底部黑色金属底座集成散热，中央细脊线铝合金导热"
+      cmf:
+        color: "透明罩体 + 黑色顶环及底座"
+        material: "透明PC/玻璃罩 + 压铸铝框"
+        finish: "罩体光滑透明；框架哑光黑"
+      mounting: "柱顶套接，底座slip-fit连接圆柱管"
+      signature_detail: "向上扩口的有机喇叭轮廓与中央从底部延伸的细金属脊线，形成精致的结构张力"
+    design_level:
+      score: 5
+      reason: "喇叭形透明罩体轮廓极为优雅，中央细脊线提供结构感而不破坏通透感；白天如玻璃艺术品，夜间全向柔和发光；本批次最优雅的设计"
+    design_tags:
+      - "喇叭形"
+      - "透明罩"
+      - "全向出光"
+      - "有机形态"
+      - "轻盈通透"
+      - "中央脊线"
+      - "H06仿生"
+      - "H10材料表达"
+    hero_feature: "向上扩口的透明喇叭形罩体配合中央细金属脊线，造型如放大的花蕾，轻盈而有结构感"
+    problem_solved: "高端景观/酒店庭院需要兼顾造型美学与全向柔和照明的场合"
+    transferable_technique: "喇叭/花瓶形透明罩体向上扩口的有机轮廓语言可迁移至室内落地灯、庭院灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_柱顶灯_012"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "扁锥形透明漏斗灯罩置于柱顶，顶部薄黑色环框，内部可见精密棱柱状折射光学元件，整体呈开放式倒锥"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "扁低倒锥形透明漏斗灯罩，顶部大直径薄黑色环框封口，从顶部向下收窄连接柱顶底座，整体如透明漏斗"
+      light_opening: "朝侧面和下方全向出光，透明锥形罩体全面透光；内部棱柱折射光学元件将光线向侧下方扩散，宽角度配光"
+      thermal: "底部铝合金底座散热，黑色金属环框辅助"
+      cmf:
+        color: "透明锥罩 + 黑色顶环及底座"
+        material: "透明PC/玻璃棱柱折射罩 + 压铸铝框"
+        finish: "罩体透明有棱面折射纹理；框架哑光黑"
+      mounting: "柱顶套接，底座slip-fit连接圆柱管，小型螺栓固定可见"
+      signature_detail: "内部棱柱折射光学元件在白天形成钻石切割感的精密纹理，夜间产生放射状折射光芒"
+    design_level:
+      score: 4
+      reason: "棱柱折射光学元件将功能性配光结构转化为可视化精密美感；倒锥形罩体轮廓简洁，内部精密与外部简洁形成对比"
+    design_tags:
+      - "倒锥形"
+      - "透明罩"
+      - "棱柱折射"
+      - "光学纹理"
+      - "全向出光"
+      - "H10材料表达"
+      - "H11功能外显"
+    hero_feature: "倒锥形透明罩内的棱柱折射光学元件，白天呈钻石切割纹理，夜间产生放射折射光效"
+    problem_solved: "广场/公园需要宽角度均匀照明，同时对白天视觉品质有要求的景观灯场合"
+    transferable_technique: "棱柱折射光学结构外露可见的手法，可迁移至高端庭院灯、门廊灯设计，以光学精密感为卖点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_柱顶灯_013"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "细高圆柱形透明灯体置于柱顶，顶部黑色实心圆帽封口，内部可见微型光源，整体比例纤细修长"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "圆柱形透明灯体，高度约为直径3倍，顶部黑色实心圆帽，底部黑色环形底座，整体比例纤细直立"
+      light_opening: "omnidirectional全向侧面出光，透明圆柱罩全面透光；LED光源位于内部中央，向四周均匀辐射"
+      thermal: "顶部黑色铝合金帽兼作散热体，底座铝合金辅助散热"
+      cmf:
+        color: "透明圆柱罩 + 黑色顶帽和底座"
+        material: "透明PC/玻璃圆柱罩 + 压铸铝帽和底座"
+        finish: "罩体光滑透明；帽体和底座哑光黑"
+      mounting: "柱顶套接，底座slip-fit连接圆柱管，底座直径略大于柱管"
+      signature_detail: "极度纤细的圆柱比例与上下黑色端帽的组合，如放大的试管或路标杆"
+    design_level:
+      score: 3
+      reason: "造型简洁但创新度有限，圆柱透明灯笼在品类中属常见形态；比例纤细是亮点，但整体缺乏强烈记忆点"
+    design_tags:
+      - "圆柱形"
+      - "透明罩"
+      - "全向出光"
+      - "纤细比例"
+      - "灯笼形"
+      - "H07极简整合"
+    hero_feature: "纤细圆柱比例与透明罩体，夜间全向柔和发光，白天如精密标志物"
+    problem_solved: "步道/入口需要低矮指示性照明，纤细圆柱轮廓不遮挡视线"
+    transferable_technique: "细高圆柱比例+透明罩+对比色端帽的组合可迁移至庭院指示灯、低矮步道灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_柱顶灯_014"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "超大直径薄圆盘（飞碟形）置于柱顶，圆盘直径约为柱管直径5倍，顶部黑色小圆帽，下方透出一圈白色光环，中央有细玻璃管穿过"
+    product_name: ""
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "超大直径极薄圆盘（flying saucer/飞碟）形灯体，水平置于柱顶，圆盘中央有细圆柱玻璃管穿过连接顶部小帽和底部底座，整体比例夸张扁宽"
+      light_opening: "朝正下方全面开口，圆盘底面为大面积白色扩散发光面；另有细玻璃管内LED提供中央向上/向下补光，omnidirectional复合配光"
+      thermal: "铝合金圆盘体，大面积薄板散热；顶部小帽兼作散热"
+      cmf:
+        color: "深石墨灰圆盘边框 + 白色发光底面 + 透明中央玻璃管"
+        material: "压铸铝圆盘 + 白色扩散亚克力底面 + 透明玻璃/PC管"
+        finish: "圆盘边框哑光深灰；底面乳白均匀"
+      mounting: "柱顶穿管式，中央玻璃管套在柱管外侧，圆盘悬浮固定于柱顶"
+      signature_detail: "超大直径圆盘与细柱杆的极度比例反差，中央穿管构造将灯具与柱杆融为一体"
+    design_level:
+      score: 5
+      reason: "飞碟比例造型极具视觉冲击力，超大盘面与细柱管的比例反差是品类内最大胆的设计之一；中央穿管构造优雅解决安装问题；夜间大面积发光效果突出"
+    design_tags:
+      - "飞碟形"
+      - "超大直径"
+      - "比例反差"
+      - "圆盘"
+      - "穿管构造"
+      - "全面下照"
+      - "H01减法"
+      - "H08对比强调"
+    hero_feature: "超大直径薄圆盘与细柱管的极度比例反差，飞碟轮廓在柱顶灯中极为罕见且辨识度极强"
+    problem_solved: "大面积广场需要均匀宽幅下照，同时需要强烈标志性景观造型的场合"
+    transferable_technique: "超大发光面与极细支撑结构的比例反差手法，可迁移至室内吊灯、广场景观灯设计，以比例张力塑造强烈视觉记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

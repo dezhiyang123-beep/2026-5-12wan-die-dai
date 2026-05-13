@@ -1,0 +1,510 @@
+meta:
+  batch: 2
+  source_type: if_design_award
+  category_primary: 壁灯
+  category_secondary: 室内壁灯
+  total_items: 21
+  file_range: "23-43"
+  product_id_prefix: if_壁灯_室内_b2_
+  brand_confidence: medium
+
+items:
+
+  - product_id: if_壁灯_室内_b2_023
+    file: "23.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 白色圆环形壁灯，正视图，哑光玻璃圆盘内嵌LED环形光源，一根细长黄铜棒斜穿圆盘形成对角张力，光线从环形槽中均匀溢出，整体极简优雅
+    design_language:
+      form: 正圆形平板灯体，大直径低厚度，圆环光源居中，黄铜细杆斜向贯穿形成构成感
+      proportion: 圆盘直径与厚度比约15:1，黄铜杆略超出圆盘直径，视觉重心居中偏上
+      material: 哑光白色玻璃/亚克力圆盘，拉丝黄铜细杆，LED环形光源内嵌
+      color: 纯白+暖金，双色对比克制而高级
+      light_output: 环形间接光，光线从圆盘边缘槽口溢出，形成柔和晕圈，无直射刺眼光
+      detail: 黄铜杆与圆盘交叉点无额外连接件，极简穿插；圆盘边缘有细腻倒角；斜杆角度约45度
+    design_tags:
+      - 圆形构成
+      - 黄铜细节
+      - 环形光
+      - 极简穿插
+      - 间接照明
+      - H07极简整合
+      - H08对比强调
+    use_scene: 卧室床头、餐厅、高端酒店走廊
+    transferability: 黄铜穿插细杆手法可迁移至其他圆形产品；环形光边缘溢出手法可用于任何需要柔和氛围光的场景
+
+  - product_id: if_壁灯_室内_b2_024
+    file: "24.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 与23同款灯具，暗背景点亮状态，圆环LED光线更为明显，黄铜杆水平穿过，壁面形成晕圈光晕，展示开灯氛围效果
+    design_language:
+      form: 正圆形平板灯体，LED环形光带围绕中央哑光圆盘，黄铜杆水平穿插（此图角度为水平，与23图角度不同）
+      proportion: 圆环宽度约占整体直径的1/5，中央哑光区占3/5
+      material: 哑光白色圆盘，拉丝黄铜杆，LED隐藏内嵌
+      color: 暗背景下暖白环形光为主视觉焦点，黄铜杆在光线中显现
+      light_output: 环形间接光向壁面和空间均匀漫射，背光晕圈直径约为灯盘直径的2倍
+      detail: 黄铜杆略长于灯盘直径，两端悬空；点亮后哑光面板内部微微透光
+    design_tags:
+      - 圆形构成
+      - 黄铜细节
+      - 环形光
+      - 氛围照明
+      - 背光晕圈
+      - H07极简整合
+    use_scene: 卧室、起居室、高端住宅公共区域
+    transferability: 暗背景下环形光晕圈效果可作为氛围灯参考；同款不同展示角度说明单品多场景适配性
+
+  - product_id: if_壁灯_室内_b2_025
+    file: "25.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 蛇形S曲线壁灯，灰绿色金属薄片连续弯曲形成波浪形态，从圆形壁座向下延伸四段反向弯折，每段内弧处内嵌LED点光源，极富雕塑感
+    design_language:
+      form: 垂直蛇形连续弯折，薄片金属形成S型多段曲线，圆形壁座固定于顶端，整体轮廓如舞动的绸带
+      proportion: 总高约为宽度的5-6倍，每段弯折半径相近，形成节奏均匀的波浪韵律
+      material: 薄铝板/金属薄片，表面哑光灰绿色涂装，弯折处光洁；壁座金属圆形
+      color: 灰绿色（sage green）统一色调，与白墙形成低对比度优雅搭配
+      light_output: 每段内弧底部LED点光源朝下照射，形成多点局部光，整体非主照明
+      detail: 薄片截面极薄（约2-3mm），弯折工艺精准；圆形壁座有小型拨杆开关；光源与金属面齐平内嵌
+    design_tags:
+      - 蛇形曲线
+      - 雕塑感
+      - 连续弯折
+      - 薄板金属
+      - H06仿生
+      - H04参数化
+      - H10材料表达
+    use_scene: 艺术感公寓走廊、精品酒店大堂、设计师住宅
+    transferability: 连续弯折薄板手法可迁移至其他家居装饰品；多段内嵌LED点光源的分布式照明策略可参考
+
+  - product_id: if_壁灯_室内_b2_026
+    file: "26.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 白色S曲线壁灯，与25同系列但配色不同，白色机身+黄铜壁座，左右两侧分别展示关灯（白墙）与开灯（灰墙）效果对比，点亮时内弧LED向下投射形成暖光
+    design_language:
+      form: 垂直蛇形连续弯折，弯折段数较25略少（约3-4段），比例更修长
+      proportion: 总高约为宽度的6-7倍，黄铜圆形壁座在顶端形成视觉锚点
+      material: 白色漆面薄金属片，黄铜圆形壁座，金属边缘细腻
+      color: 纯白+黄铜，经典高端双色组合，关灯状态融入白墙，开灯后内侧暖光显现
+      light_output: 内弧LED向下点式投光，开灯状态在灰色背景上产生明显的温暖点光效果
+      detail: 关灯时白色机身几乎消隐于白墙；黄铜壁座与白色机身对比鲜明
+    design_tags:
+      - 蛇形曲线
+      - 雕塑感
+      - 白+黄铜配色
+      - 消隐设计
+      - H07极简整合
+      - H08对比强调
+    use_scene: 现代简约住宅、精品酒店客房、北欧风格空间
+    transferability: 白色机身消隐于白墙的"消隐壁灯"策略可迁移；开关灯状态戏剧性差异可作为情绪灯具设计参考
+
+  - product_id: if_壁灯_室内_b2_027
+    file: "27.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 三联圆形碟状壁灯，横向排列，深棕色金属框架穿入三个大直径圆形玻璃碟，碟面有同心圆纹理，中心透出玫瑰红/珊瑚色LED光点，整体具有复古工业美感
+    design_language:
+      form: 三个等径圆形玻璃碟横向等间距排列，金属横杆从两侧穿出，每个碟体正面为平面，截面为浅碗形
+      proportion: 三碟总宽约为单碟直径的3.3倍，碟体间距约为直径的0.1倍（紧密排列）
+      material: 深棕/古铜色金属框架，玻璃碟面（内有同心圆模压纹理），LED点光源居中
+      color: 深棕金属+暗玫瑰红/烟紫色玻璃+珊瑚红中心光点，复古暖调色彩
+      light_output: 中心点光源穿透同心圆纹理玻璃向前漫射，形成晕轮光效，非主照明
+      detail: 玻璃碟同心圆纹理精细，使光线产生衍射效果；金属横杆截面为方形；碟体边缘与框架咬合工整
+    design_tags:
+      - 三联构成
+      - 圆碟形
+      - 同心圆纹理玻璃
+      - 复古工业
+      - 珊瑚色光
+      - H08对比强调
+      - H10材料表达
+    use_scene: 餐厅装饰壁灯、复古/工业风酒吧、精品餐饮空间
+    transferability: 同心圆纹理玻璃漫光手法可迁移；多联等间距圆形排列的构成逻辑可参考
+
+  - product_id: if_壁灯_室内_b2_028
+    file: "28.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 圆形壁灯室内应用场景，左图：卧室床头悬挂，白色圆形灯盘有线材垂下，圆形轮廓内有螺旋型光源；右图：玄关壁挂，黑色圆形灯体配合落地灯使用，展示系列产品
+    design_language:
+      form: 圆形平面灯体，中央有螺旋/蜗牛形光源可见，有外露线缆连接（工业/现代混搭风）
+      proportion: 灯盘直径约20-25cm，相对小巧，适合床头尺度
+      material: 白色/黑色金属灯体，外露编织线缆，LED螺旋光源
+      color: 左图白色+暖白光（卧室柔和），右图黑色+暖白光（玄关对比强烈）
+      light_output: 螺旋光源形成特殊光斑，正向散光，照度适中用于氛围或阅读辅助
+      detail: 外露线缆为装饰性设计元素；圆形灯体边缘简洁；系列产品包含壁灯+落地灯形态
+    design_tags:
+      - 圆形灯盘
+      - 外露线缆
+      - 螺旋光源
+      - 场景应用图
+      - 卧室床头
+      - H11功能外显
+    use_scene: 卧室床头、玄关、阅读角
+    transferability: 外露编织线缆作为设计语言元素（非缺陷）的处理方式可参考；系列产品壁灯+落地灯延伸逻辑可参考
+
+  - product_id: if_壁灯_室内_b2_029
+    file: "29.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 极简水平线型壁灯，白色细圆管从圆形壁座向右水平延伸，管体为乳白亚克力/玻璃发光体，整体只有一根发光线条，极度克制
+    design_language:
+      form: 单一水平线条，圆柱形管体，左端圆形壁座，管体一直延伸至画面之外（超长设计），无任何装饰元素
+      proportion: 管体直径约3-4cm，长度超过1.5m，长径比极大（>40:1），线性感极强
+      material: 乳白亚克力或玻璃圆管，内置LED灯带，白色金属壁座
+      color: 全白，开灯后管体通体发光，与白墙几乎融为一体仅靠发光效果区分
+      light_output: 全管均匀发光，向四周360度漫射，上下墙面均有洗光效果
+      detail: 圆形壁座极小，与管体比例悬殊形成视觉趣味；管体截面为正圆，端头封闭处理
+    design_tags:
+      - 线型壁灯
+      - 极简主义
+      - 全发光管体
+      - 消隐设计
+      - 超长比例
+      - H07极简整合
+      - H01减法
+    use_scene: 走廊、楼梯间、现代简约住宅长墙、建筑师自宅
+    transferability: 单线条发光管的极简线型壁灯手法；圆形管体全发光的均匀照明效果；超长比例突破常规尺度感
+
+  - product_id: if_壁灯_室内_b2_030
+    file: "30.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 现代豪宅楼梯间场景，左侧墙面安装两只小型双头壁灯（金属圆筒形，可调节上下出光），米色/香槟色金属配件，产生对称蝴蝶形光晕效果
+    design_language:
+      form: 小型横向双筒壁灯，两个圆筒对称向上下各出光，安装于直线型金属支架上
+      proportion: 双筒总宽约15-20cm，体量小巧，适合楼梯/过道尺度
+      material: 香槟色/金色金属圆筒，金属支架，LED内嵌
+      color: 香槟金+白墙，低调奢华；上下出光形成对称暖光蝴蝶形投光
+      light_output: 上下双向出光，每路光束在墙面形成月牙形/扇形光斑，双联后形成蝴蝶对称光效
+      detail: 双筒可能可调节角度；金属质感细腻；场景中两盏叠加呈现规律阵列感
+    design_tags:
+      - 双头壁灯
+      - 上下出光
+      - 蝴蝶光效
+      - 楼梯场景
+      - 金色金属
+      - H11功能外显
+      - H08对比强调
+    use_scene: 楼梯间、走廊、门厅、现代简约豪宅
+    transferability: 上下双向出光的对称光效设计；小体量灯具通过光效放大空间感知
+
+  - product_id: if_壁灯_室内_b2_031
+    file: "31.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 白色圆形内凹壁灯，正视图，圆形灯体微微内凹形成浅碗状，内壁上下两条水平LED光带照亮内壁，产生上下对称的弧面反射光，形如眼睛或月相
+    design_language:
+      form: 圆形浅碗内凹造型，内壁为哑光白色曲面，上下各有一条水平LED光带，灯体与墙面齐平感强
+      proportion: 圆形直径与深度比约8:1，极浅内凹，视觉上仍为圆形平面感
+      material: 白色哑光金属/注塑外壳，内壁为弧形反光曲面，LED线光源内置
+      color: 全白，点亮后内壁呈现渐变暖白光，上下对称过渡
+      light_output: 上下LED光带照射内壁并反射，无直射光出射，全间接照明，光线柔和梦幻
+      detail: 内壁曲率精确控制光的分布；圆形外轮廓简洁无装饰；安装面隐藏无明显螺丝
+    design_tags:
+      - 内凹圆形
+      - 间接照明
+      - 内壁反射
+      - 极简主义
+      - 月相意象
+      - H09隐藏工程
+      - H07极简整合
+    use_scene: 卧室、冥想空间、高端酒店套房、SPA
+    transferability: 内壁反射的全间接出光策略；圆形内凹造型实现无眩光的柔和氛围光
+
+  - product_id: if_壁灯_室内_b2_032
+    file: "32.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: Zhiwu品牌白色方形夜灯/壁灯，正视图，圆角正方形白色机身，上部为实体遮光板，下部开口朝下出暖光，类似火炉或书本翻页形态
+    design_language:
+      form: 圆角正方形（接近超椭圆形），上部为封闭实体面板，下部切口开口出光，整体一体成型感强
+      proportion: 高宽比约1:1，圆角半径约为边长的15%，下部出光开口约占高度的1/3
+      material: 白色注塑外壳，表面哑光，内腔暖光LED
+      color: 全白机身，下方出暖橙/暖白光，简洁现代
+      light_output: 下方定向出光，光线主要投射至正前方下方区域，适合局部照明或夜灯功能
+      detail: 机身正面有品牌"zhiwu"压印文字；圆角细腻统一；背部安装方式为嵌入式或插墙式
+    design_tags:
+      - 圆角方形
+      - 夜灯
+      - 下出光
+      - 嵌入式
+      - 品牌标识
+      - H07极简整合
+      - H01减法
+    use_scene: 走廊夜灯、卧室床头夜灯、儿童房、浴室夜灯
+    transferability: 圆角正方体+下部开口出光的简洁夜灯造型语言；实体遮光上盖+开口下腔的出光控制策略
+
+  - product_id: if_壁灯_室内_b2_033
+    file: "33.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 与32同款Zhiwu圆角方形夜灯的透视角度图，展示产品厚度与侧面形态，下部出光腔更清晰可见，三维体量感明确
+    design_language:
+      form: 圆角正方形盒体，侧面可见较薄的厚度（约2-3cm），下部出光腔呈楔形内凹，底面向后倾斜引导光线向前下方投射
+      proportion: 正视面接近正方形，侧面厚度约为正面宽度的1/4，轻薄感强
+      material: 白色注塑外壳，内腔可见暖色LED发光条
+      color: 全白，出光口显现暖橙色
+      light_output: 出光腔楔形设计使光线向前下方30-45度投射，形成可控的局部照明
+      detail: 产品侧面有微小安装卡扣或插头结构；圆角在三维空间中的过渡处理一致性高
+    design_tags:
+      - 圆角方形
+      - 夜灯
+      - 下出光
+      - 楔形出光腔
+      - 透视展示
+      - H07极简整合
+    use_scene: 走廊夜灯、床头夜灯、楼梯踢脚灯
+    transferability: 楔形出光腔引导光线方向的结构手法；产品侧面形态与正面一致性设计
+
+  - product_id: if_壁灯_室内_b2_034
+    file: "34.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 红色可调节读书灯壁灯系列，木板墙面场景，展示多角度状态：上排两种折叠收纳状态（圆盘+短臂），下排三种展开照明状态（臂杆旋转到不同角度），鲜明橙红色彩
+    design_language:
+      form: 圆形壁座+可旋转臂杆+圆形遮光碟，臂杆可绕壁座旋转360度，碟状灯头可调仰角，提供极大照明灵活度
+      proportion: 圆形灯碟与圆形壁座直径相近，臂杆长度约为碟径的1.5倍
+      material: 红色/橙红色金属涂层，金属薄壁圆碟，金属圆管臂杆，小型触控开关
+      color: 鲜橙红色统一色调，强烈视觉冲击力，产品即装饰
+      light_output: 灯碟内LED向下/前方照射，遮光碟控制光束角，用于定向阅读或重点照明
+      detail: 壁座正面有触控按钮；臂杆旋转关节做工精密；收折状态下碟面贴合壁座形成紧凑圆形轮廓
+    design_tags:
+      - 可调节臂
+      - 圆形灯碟
+      - 鲜艳配色
+      - 多状态展示
+      - 阅读灯
+      - H05模块化
+      - H12人机界面强化
+    use_scene: 卧室床头阅读灯、客厅沙发旁、儿童房、创意办公空间
+    transferability: 圆形壁座+旋转臂的高度可调节设计语言；鲜艳单色统一全身的大胆配色策略
+
+  - product_id: if_壁灯_室内_b2_035
+    file: "35.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 模块化线条壁灯系统室内场景，黑色铜色细杆+节点连接件，多组灯具在大理石墙面上拼接成折线图案（类似希腊回纹/折叠线条），左侧同一系列两段平行竖向线型灯，展示强大的组合灵活性
+    design_language:
+      form: 极细线型发光管（圆截面或方截面），通过黑色正方体节点连接件实现90度转角拼接，可组合成任意折线图案
+      proportion: 线管截面直径约1-2cm，长度可变，节点连接件约为管径的2-3倍见方
+      material: 铜/古铜色发光管，黑色金属节点连接件，LED内嵌发光
+      color: 铜色+黑色，奢华工业感；发光为暖白色线光
+      light_output: 线管通体发光，线性暖白光沿管体长度分布，形成光线图形
+      detail: 节点连接件为独立部件，外露作为设计特征；线管端头封闭；整体可规模化组合成墙面装置艺术
+    design_tags:
+      - 模块化系统
+      - 线型壁灯
+      - 折线图案
+      - 铜色+黑色
+      - 节点连接
+      - H05模块化
+      - H08对比强调
+    use_scene: 高端餐厅、酒店大堂、精品零售、豪华住宅装饰墙
+    transferability: 可拼接模块化线型灯系统策略；节点连接件外露为设计语言而非遮掩的处理哲学
+
+  - product_id: if_壁灯_室内_b2_036
+    file: "36.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 黑色双材质圆柱形壁灯，卧室床头场景，上下两段圆柱体，上段银/灰色较短，下段黑色较长，中间腰部有一圈细缝发光，光线从缝隙中水平环绕射出，整体竖向细长优雅
+    design_language:
+      form: 双段圆柱叠加，上短下长，中间腰部细缝出光，整体轮廓为修长圆柱体，安装于木纹墙面
+      proportion: 总高约为直径的6-8倍，两段比例约1:2，腰部发光缝隙宽约5-8mm
+      material: 上段：拉丝银色金属；下段：哑光黑色金属；内部LED环形光带
+      color: 银+黑双色对比，中间暖白发光腰带，三色层次清晰
+      light_output: 腰部环形缝隙360度水平出光，形成光环效果，非主照明，氛围为主
+      detail: 两段衔接处即发光腰带位置，工艺精密；下段底部封闭与墙面平齐
+    design_tags:
+      - 双段圆柱
+      - 腰部出光
+      - 黑银对比
+      - 床头壁灯
+      - 光环效果
+      - H03分件线
+      - H08对比强调
+    use_scene: 卧室床头、酒店客房、精品民宿
+    transferability: 分件线即发光缝的手法（H03+H09结合）；双材质双色圆柱叠加的比例语言
+
+  - product_id: if_壁灯_室内_b2_037
+    file: "37.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 黑色圆筒形双头上下出光壁灯，卧室场景，两盏对称安装于图案墙纸前，每盏为单圆筒上下双向出光，黄铜色细节，产生上下对称光斑投射于花纹墙纸上
+    design_language:
+      form: 单圆筒竖向安装，上下两端开口出光，中部圆筒为主体，安装固定点在中段
+      proportion: 圆筒高度约为直径的3-4倍，中部安装件相对细小
+      material: 哑光黑色金属圆筒，上下端口黄铜色收边，LED内嵌
+      color: 黑色+黄铜，现代奢华经典组合；上下出光为暖白色
+      light_output: 上下各一束光锥，投射至墙面形成上下对称的月牙形/扇形光斑，装饰性强
+      detail: 圆筒端口黄铜收边圈细腻；上下光束角度相同；两盏对称安装强化了对称美学
+    design_tags:
+      - 圆筒壁灯
+      - 双向出光
+      - 黑色+黄铜
+      - 对称安装
+      - 装饰性光斑
+      - H08对比强调
+      - H11功能外显
+    use_scene: 卧室床头对称安装、走廊两侧、餐厅装饰
+    transferability: 圆筒上下双向出光在墙面形成对称装饰光斑；黑色+黄铜收边的细节处理手法
+
+  - product_id: if_壁灯_室内_b2_038
+    file: "38.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 金色圆形磁吸模块壁灯，多联拼接成字母/图案，蓝色背景客厅场景，每个单元为实心金色圆碟，背部发光漫射至墙面，多个单元磁吸拼接可形成任意图案
+    design_language:
+      form: 单元体为实心圆形金色碟状，碟面略微隆起，多枚单元通过磁吸方式首尾相连，可横向竖向自由拼接
+      proportion: 每个单元碟直径约8-10cm，厚度约2cm，拼接点在圆周切点位置
+      material: 金色金属（黄铜色阳极氧化铝或镀金），背面LED漫射发光
+      color: 明亮金色，在蓝色墙面背景下极为突出；发光为暖白色漫射背光
+      light_output: 每个单元背部LED发光透过磁吸缝隙漫射至墙面，形成光晕轮廓，强调图案轮廓
+      detail: 磁吸连接无外露连接件；圆碟正面光洁无任何装饰；单元可自由增减改变图案
+    design_tags:
+      - 磁吸模块
+      - 圆形单元
+      - 金色
+      - 可定制图案
+      - 背光漫射
+      - H05模块化
+      - H04参数化
+    use_scene: 客厅装饰墙、儿童房个性化、餐厅艺术装置、零售陈列
+    transferability: 磁吸模块化单元灯可拼图案的极高自由度设计；圆形单元背光漫射强化拼接图案轮廓
+
+  - product_id: if_壁灯_室内_b2_039
+    file: "39.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 黑色壁挂搁架一体式灯，搁架为黑色金属，内置LED向下照射，上方有多功能收纳槽（可插手机、小瓶装饰等），灯光从搁板前边缘下方溢出，功能与装饰高度一体化
+    design_language:
+      form: 横向长方形搁架壁挂，搁架截面为L形，上部收纳平台+下部出光腔，整体一体成型感强
+      proportion: 长宽比约5:1，搁架深度适中，出光面在搁板正面下方
+      material: 黑色金属（铁/铝），前边缘LED灯带，收纳槽内有小木质配件
+      color: 全黑金属，搁板上配件为木色暖调，出光为暖白色
+      light_output: 搁板前缘下方LED向下投光，形成水平线条光并向下照亮桌面/墙面
+      detail: 搁板上有多个竖向插槽（用于手机立放）；木质配件增加温度感；整体没有外露电线
+    design_tags:
+      - 搁架一体
+      - 线型下出光
+      - 多功能收纳
+      - 黑色金属
+      - H11功能外显
+      - H07极简整合
+    use_scene: 卧室床头搁架灯、书房、玄关置物台灯
+    transferability: 灯具+搁架一体化的功能整合策略；前缘出光将灯源隐藏于结构之内（H09隐藏工程）
+
+  - product_id: if_壁灯_室内_b2_040
+    file: "40.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 白色满月形壁灯，暗背景，近似圆球形但底部微微切平，整体为哑光白色圆球被壁面截断形态，球体底部切口处LED发光，形成月相感，下方桌面有明显光斑反射
+    design_language:
+      form: 正圆/近球形灯体，底部有一道弧形切口朝下出光，整体轮廓如满月被地平线截断
+      proportion: 圆形直径与出光切口宽度比约5:1，球体截面感强
+      material: 哑光白色金属或陶瓷喷涂，LED内嵌于底部切口处
+      color: 全白，点亮后底部切口呈暖橙/暖白发光，与白色球体形成微妙对比
+      light_output: 底部弧形切口定向朝下出光，在下方桌面/地面形成明显暖光斑，环境亦有漫反射
+      detail: 球体与墙面贴合处处理干净；切口宽度均匀；底部出光使球体在暗背景下产生漂浮感
+    design_tags:
+      - 球形灯体
+      - 满月意象
+      - 底部切口出光
+      - 哑光白
+      - 漂浮感
+      - H06仿生
+      - H09隐藏工程
+    use_scene: 书房、卧室床头、餐厅、现代禅意空间
+    transferability: 球形+底部切口出光的月相意象造型语言；底部定向出光使球体产生漂浮感的视觉技巧
+
+  - product_id: if_壁灯_室内_b2_041
+    file: "41.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 小型圆形感应夜灯多场景应用图，展示四个使用场景：床底地脚灯、浴室镜前灯、衣柜/衣架旁、楼梯踏步感应灯，圆形白色小灯体，感应激活，通用性强
+    design_language:
+      form: 小型扁圆形灯体，直径约6-8cm，厚度约2-3cm，正面圆形发光面，背面磁吸或粘贴安装
+      proportion: 接近正圆，厚度较薄，小巧便携感
+      material: 白色ABS或硅胶外壳，LED发光面，内置感应模块
+      color: 全白，发光面为暖白或冷白，与各类家居环境兼容
+      light_output: 正面全面发光，漫射柔和，感应触发，照度较低适合夜间导引
+      detail: 感应窗口隐藏于外壳中；可壁挂也可台置；多场景通用设计
+    design_tags:
+      - 感应夜灯
+      - 小型圆形
+      - 多场景
+      - 白色
+      - 磁吸安装
+      - H11功能外显
+      - H07极简整合
+    use_scene: 床头夜灯、浴室镜前辅助光、衣柜灯、楼梯踏步感应灯
+    transferability: 小型圆形感应夜灯的通用场景适配策略；多场景展示的产品摄影方式参考
+
+  - product_id: if_壁灯_室内_b2_042
+    file: "42.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 白色月食形壁灯，大圆盘+小球体组合，大圆盘背面LED发光形成背光晕圈，右下角有一枚小白球作为点睛，整体如月食瞬间，极具艺术感
+    design_language:
+      form: 大圆盘（约30-35cm）+小圆球（约8-10cm）错位叠加，小球位于大盘右下侧边缘，两者相切
+      proportion: 大圆盘与小球直径比约3.5:1，小球与大盘产生强烈大小对比
+      material: 哑光白色金属/陶瓷，大盘背面LED，小球独立发光（全发光球体）
+      color: 全白，大盘背光为冷白，小球为暖白或白色，光温微妙差异
+      light_output: 大盘背光向壁面漫射形成大面积柔和晕圈，小球正面发光提供局部点光源
+      detail: 大盘与墙面间隙均匀，背光均匀；小球安装在大盘右下角边缘；两者关系精确如天文月食时刻
+    design_tags:
+      - 月食构成
+      - 大小圆对比
+      - 背光漫射
+      - 白色
+      - 艺术装置感
+      - H06仿生
+      - H08对比强调
+    use_scene: 艺术感住宅客厅、精品酒店套房、画廊
+    transferability: 大圆盘+小圆球的月食视觉语言；大圆盘背光+小球前光的双层照明策略
+
+  - product_id: if_壁灯_室内_b2_043
+    file: "43.jpg"
+    source_type: if_design_award
+    category_secondary: 室内壁灯
+    brand_confidence: medium
+    visual_summary: 与42同款月食形壁灯，展示三联组合应用场景，三盏大小渐变圆盘壁灯（小/中/大）成斜线排列于灰色墙面，下方木质柜体，整体如太阳系行星或气泡群落
+    design_language:
+      form: 三枚圆盘由小到大斜向排列，每个圆盘均有背光晕圈，三者大小递进（比例约1:1.5:2），右下角各有小球配件
+      proportion: 三盏组合总宽约为最大盘直径的2.5倍，斜向排列角度约30-45度
+      material: 哑光白色金属，背面LED，小球独立发光
+      color: 全白灯体+灰色墙面+暖白背光晕圈，整体低饱和度优雅
+      light_output: 三组背光晕圈在灰色墙面上形成大面积柔和光域，有叠加效果
+      detail: 三盏可独立安装，组合排列需规划位置；大小渐变强化视觉节奏；小球位置一致均在右下角
+    design_tags:
+      - 月食构成
+      - 三联组合
+      - 大小渐变
+      - 斜向排列
+      - 背光晕圈
+      - H05模块化
+      - H06仿生
+    use_scene: 客厅艺术墙、精品酒店大堂、餐厅主题墙
+    transferability: 同款灯具大中小三联组合的陈列策略；大小渐变排列的节奏美学；背光晕圈叠加的光效组合

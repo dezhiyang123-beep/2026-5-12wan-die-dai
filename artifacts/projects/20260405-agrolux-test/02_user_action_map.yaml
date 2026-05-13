@@ -1,0 +1,63 @@
+project_id: "20260405-agrolux-test"
+lifecycle: active
+gate: "G2"
+
+installer:
+  who: "温室建设承包商或Head Grower本人[H]"
+  context: |
+    大型温室（>1公顷）：专业安装团队，1-3天完成一个区域[M]
+    中型温室（0.2-1公顷）：Head Grower + 2名工人，在种植季间隙安装[M]
+  skill_level: "熟悉低压直流布线，但600W+需持证电工[H]"
+  pain_point: |
+    - 线缆走向与灌溉管道冲突[H-greenhousegrower.com]
+    - 安装高度固定后难随作物调节[M]
+    - 多灯并联地址编程错误率高[M]
+
+operator:
+  who: "Head Grower（温室生产负责人）[H]"
+  profile: |
+    有农学/园艺学位，5-15年经验[M]
+    每日早6点-下午3点，负责灌溉/温度/CO2/光照[M]
+    光照决策按DLI目标（番茄22-30 mol/m²/day）[H]
+  digital_literacy: "能操作PRIVA/Ridder温室计算机，对新软件有适应期[M]"
+  pain_point: |
+    - 不同品种/阶段需不同光谱，切换操作复杂[H-greenhousegrower.com]
+    - 无法远程确认灯具工作状态[M]
+    - 多供应商控制系统接口不统一[M]
+
+value_assessment:
+  primary_value: "产量提升（每%产量=€15,000-30,000/公顷/年）[M]"
+  secondary_value: "能耗降低（电费占运营成本30-40%）[H]"
+  data_points:
+    - "番茄：DLI+1 mol→产量约+5%[M]"
+    - "可调光谱：Signify研究+5-10%（专有数据）[L]"
+    - "LED vs HPS：能耗降30-50%，初投资高2-3倍[H]"
+  economic_model: |
+    1公顷番茄温室年产值€400-600万[M]
+    灯具投资500套×€400 = €200,000
+    年节电30%×€80,000 = €24,000；产量+5%×€500,000 = €25,000
+    回本期 €200,000/€49,000 ≈ 4.1年
+    可调光谱额外溢价€40,000 / 额外产量€25,000 → 1.6年额外回本[L]
+
+buyer_map:
+  payer: "温室Owner（经营者/投资方）[H]"
+  influencer: "Head Grower（强力影响者，有实际否决权）[H]"
+  specifier: "Head Grower + 外部顾问（GreenQ/WUR）[M]"
+  approver: "Owner，>€50k需签字[M]"
+  buyer_contradiction: |
+    Head Grower推荐可调光谱 vs Owner质疑20-30%溢价必要性
+    矛盾核：Owner看ROI，Grower看产量，增产数据不够硬→Owner难批溢价
+
+behavior_contradictions:
+  - scenario: "冬季顶部补光"
+    contradiction: "要[高DLI]就要[高功率]，但[电费]是最大成本矛盾"
+  - scenario: "多品种轮作温室"
+    contradiction: "要[品种专属配方]就要[光谱可切换]，但[固定光谱顶灯]做不到"
+  - scenario: "HPS改造"
+    contradiction: "要[省电]就要[换LED]，但[冬季供暖成本]可能抵消节电"
+
+value_chain:
+  touch_points:
+    - "GreenTech展会（阿姆斯特丹）：Head Grower接触新产品主场合[H]"
+    - "温室顾问推荐（GreenQ/WUR）：最高可信度渠道[M]"
+  switching_cost: "高（重新布线/OS配置/人员再培训）[M]"

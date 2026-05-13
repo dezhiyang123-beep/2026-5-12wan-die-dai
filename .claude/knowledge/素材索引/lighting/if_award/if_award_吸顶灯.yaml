@@ -1,0 +1,563 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "吸顶灯"
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/"
+  generated_at: "2026-05-08"
+
+products:
+
+  # ─────────────────────────────────────────────
+  # 综合子文件夹 (18 images → 14 products)
+  # ─────────────────────────────────────────────
+
+  - product_id: "if_吸顶灯_综合_001"
+    source_images:
+      - filename: "综合/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/01.jpg"
+        image_role: "hero"
+        visual_anchor: "白底俯视：三款同系列灯具并排——圆角矩形大号、圆形中号、正方形小号，全哑白壳体，每款正中央一个微凸圆形旋钮，无其他细节"
+      - filename: "综合/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/02.jpg"
+        image_role: "detail"
+        visual_anchor: "浅灰背景45°仰角：圆角矩形款特写，壳体曲面连续无分缝线，中央圆形旋钮可见细微磨砂纹理与点状传感孔"
+    product_name: "极简三形态吸顶灯家族"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "圆角矩形/圆形/正方形三形态家族，低矮扁平碟状贴顶安装，壳体曲率连续，轮廓线柔和无棱角"
+      light_opening: "downward diffuser — 全底面均匀漫反射发光，无可见灯珠或光斑，出光面与壳体无分缝线过渡"
+      thermal: "一体壳体被动散热，无外露散热鳍片，通过PC/ABS壳体面积散热"
+      cmf:
+        color: "纯白"
+        material: "PC漫射罩 + ABS外壳"
+        finish: "哑光喷涂，低光泽，视觉轻盈无重量感"
+      mounting: "直接贴顶安装，中央螺丝固定，底面无外露安装件"
+      signature_detail: "正中央单一圆形旋钮（调光/开关），旋钮与壳体曲率无缝衔接，零割裂感"
+    design_level:
+      score: 4
+      reason: "三形态共享同一设计语言实现家族化，旋钮嵌入壳体曲面无突兀感，极简克制，典型iF获奖水准"
+    design_tags: ["极简", "家族化", "无缝壳体", "漫反射", "哑白", "三形态", "iF获奖"]
+    hero_feature: "三形态共壳体曲率语言 + 正中单一隐藏式旋钮，零多余细节"
+    problem_solved: "家用吸顶灯外观臃肿、分缝线杂乱、控制件突兀破坏整体感"
+    transferable_technique: "壳体曲率连续设计（分缝线隐于底面边缘）；控制旋钮嵌入曲面不抬高"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_002"
+    source_images:
+      - filename: "综合/03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/03.jpg"
+        image_role: "hero"
+        visual_anchor: "浅灰天花板仰视：6款同型号吸顶灯3×2阵列，圆形扁平碟状，极细边框（3-4mm），白色漫射面板，边框色分别为白/深灰/浅木纹/浅灰/深棕/米灰，展示同款CMF变体家族"
+    product_name: "超薄边框圆形吸顶灯 CMF系列"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "正圆形扁平碟状，直径大、厚度极薄，侧面轮廓为水滴截面，边框纤细"
+      light_opening: "downward diffuser — 整个圆形底面为均匀白色漫射出光面，边框与出光面之间有极细阴影分缝"
+      thermal: "超薄壳体被动散热，无外露散热结构"
+      cmf:
+        color: "白色漫射面 + 边框多色可选（白/深灰/浅木纹/浅灰/深棕/米灰）"
+        material: "铝合金边框 + PC漫射面板"
+        finish: "边框磨砂阳极氧化或喷涂，面板哑白"
+      mounting: "贴顶直装，无外露安装件"
+      signature_detail: "极细色框对比白色发光面，框色即唯一视觉识别要素；6种色彩选配系统"
+    design_level:
+      score: 3
+      reason: "形态克制，多色框设计策略聪明，但形态本身较为常规，差异化主要靠CMF"
+    design_tags: ["超薄边框", "CMF系列", "色框对比", "圆形", "漫反射", "家族化", "iF获奖"]
+    hero_feature: "极细彩色边框 × 白色漫射面的纯净对比，6色可选实现空间定制"
+    problem_solved: "吸顶灯边框厚重、颜色单一，无法与不同风格室内设计搭配"
+    transferable_technique: "细框配漫射面CMF色彩矩阵策略；边框厚度控制在视觉无存在感范围（<5mm）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_003"
+    source_images:
+      - filename: "综合/05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/05.jpg"
+        image_role: "hero"
+        visual_anchor: "白底产品图：超大浅锥形碟状吸顶灯，白色哑面，直径远大于厚度，底面中央凹陷一个椭圆形暖光发光腔（约占直径1/4），形如陨石坑内部发光"
+    product_name: "陨石坑凹腔吸顶灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "极扁浅碟形，直径与厚度比约10:1，侧面几乎不可见，俯视为正圆，仰视为大平面+中央凹腔"
+      light_opening: "ambient wash — 底面中央椭圆形深凹腔内嵌暖白LED，光向四周漫射，非全面下照，营造环境氛围光"
+      thermal: "大面积铝质碟体被动散热，无散热鳍片"
+      cmf:
+        color: "纯白哑面"
+        material: "铝合金碟体"
+        finish: "细腻砂面喷涂，触感均匀，无光泽"
+      mounting: "贴顶安装，背面固定，碟体悬于天花板下方"
+      signature_detail: "超大扁碟造型 × 中央孤立暖光凹腔，极强雕塑感，光源全部隐藏于凹腔内不直视"
+    design_level:
+      score: 5
+      reason: "形态语言极具原创性，陨石坑凹腔隐藏光源同时创造视觉焦点，雕塑与照明融为一体，iF顶级"
+    design_tags: ["雕塑形态", "凹腔光源", "暖光氛围", "超扁碟形", "隐藏光源", "艺术感", "iF获奖"]
+    hero_feature: "陨石坑式中央凹腔发光，巨大铝碟配极小光点形成强烈比例张力"
+    problem_solved: "传统吸顶灯光源外露导致眩光，且灯具本身无艺术价值"
+    transferable_technique: "凹腔隐藏光源设计（反向漫射腔）；超扁碟形大直径薄体造型策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_004"
+    source_images:
+      - filename: "综合/07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/07.jpg"
+        image_role: "hero"
+        visual_anchor: "浅灰天花板安装实景：白色圆形吸顶灯，整体为半球形穹顶造型，底部平面，顶部有细小圆形穿孔阵列（疑为麦克风/传感器孔），白色金属边框一圈，整体纯白"
+    product_name: "穹顶智能吸顶灯（含麦克风/传感器）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "半球穹顶轮廓，顶面微弧隆起，底面平整，从侧面看如倒扣碗，轮廓线流畅"
+      light_opening: "downward diffuser — 底面整圆为漫射出光面，白色均匀出光"
+      thermal: "穹顶壳体内腔散热，无外露结构"
+      cmf:
+        color: "纯白"
+        material: "PC漫射底面 + ABS/PC穹顶壳体"
+        finish: "全哑白，均匀"
+      mounting: "贴顶直装，底面边缘金属圈扣盖安装件"
+      signature_detail: "穹顶顶面细小圆形穿孔阵列（传感器/麦克风孔），将智能功能隐藏于哑白壳体中不破坏整洁感"
+    design_level:
+      score: 3
+      reason: "智能传感孔隐藏手法好，但整体形态较为普通，创新点主要在功能集成"
+    design_tags: ["智能集成", "穹顶造型", "传感器隐藏", "哑白", "漫反射", "iF获奖"]
+    hero_feature: "穹顶顶面穿孔阵列隐藏全部传感器，外观与普通吸顶灯无异"
+    problem_solved: "智能吸顶灯传感器外露破坏外观，或需要单独安装控制模块"
+    transferable_technique: "传感孔阵列隐于壳体顶面（非正视面）的隐藏策略；穹顶微弧造型消除平板感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_005"
+    source_images:
+      - filename: "综合/08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/08.jpg"
+        image_role: "hero"
+        visual_anchor: "暖灰天花板仰视特写：圆柱体吸顶灯，柱体底部有宽平法兰盘，法兰盘内侧一圈细腻棱纹折射环（光学纹理明显），法兰圈内嵌圆形白色漫射发光面，整体米白色"
+    product_name: "法兰棱纹折射环吸顶灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "圆柱体主体 + 底部宽法兰盘，侧面轮廓T字形，柱体高度适中，法兰盘水平延伸"
+      light_opening: "downward diffuser — 法兰内圆形白色漫射发光面，出光柔和均匀"
+      thermal: "圆柱体内腔散热，法兰盘辅助热传导"
+      cmf:
+        color: "米白/暖白"
+        material: "铝合金法兰 + PC漫射发光面，法兰内侧光学棱纹为注塑透明件"
+        finish: "外壳砂面喷涂，棱纹环为透明光学级PC"
+      mounting: "圆柱体顶面贴顶安装，固定于天花板，法兰自然覆盖安装边缘"
+      signature_detail: "法兰内圈精密光学棱纹折射环，通电后棱纹内透光形成光晕细节，是整灯唯一装饰焦点"
+    design_level:
+      score: 4
+      reason: "法兰棱纹折射细节工艺精湛，在克制造型上增加一个精密光学细节，层次感强，典型iF工艺奖水准"
+    design_tags: ["光学棱纹", "法兰盘", "折射环", "工艺细节", "圆柱体", "米白", "iF获奖"]
+    hero_feature: "法兰内圈光学棱纹折射环，暗处精密、亮处光芒，单一细节点睛全灯"
+    problem_solved: "圆形吸顶灯外观无层次感，工艺细节缺失，与装修品质不匹配"
+    transferable_technique: "法兰内圈光学棱纹注塑件设计；工艺细节集中于单一环带的克制策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_006"
+    source_images:
+      - filename: "综合/10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/10.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰天花板仰视：圆形灯，外圈白色细发光环，中圈深灰色网格纹漫射圆盘，内圈小圆形LED发光环，最中心深灰色圆形中央件（含传感器蓝色指示点），整体深灰+白光"
+      - filename: "综合/11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/11.jpg"
+        image_role: "off_state"
+        visual_anchor: "深灰背景仰视关灯状态：同款，中圈深灰网格纹漫射圆盘，内圈白色中央台突起（含蓝点传感器），关灯时整体深灰调，层次感更明显"
+    product_name: "同心环智能吸顶灯（网格纹漫射盘）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "同心圆层叠结构：外发光环 → 中网格纹漫射盘 → 内LED环 → 中央控制台，每层直径递减形成视觉纵深"
+      light_opening: "ambient wash — 外圈环形光向四周漫射打亮天花板，内圈LED环提供主照明，双环分区出光"
+      thermal: "铝制底盘散热，深灰网格纹盘增大散热面积"
+      cmf:
+        color: "深灰 + 白光"
+        material: "铝合金网格纹漫射盘 + 透明PC光环 + ABS中央台"
+        finish: "深灰阳极氧化或喷涂，网格纹CNC或注塑"
+      mounting: "贴顶直装，外圈法兰覆盖安装件"
+      signature_detail: "深灰色精密网格纹漫射盘 + 同心双环发光结构，关灯时有工业精密感，亮灯时有光环仪式感"
+    design_level:
+      score: 4
+      reason: "同心环结构创造强视觉层次，网格纹工艺细节精湛，双环分区照明功能合理，整体设计逻辑自洽"
+    design_tags: ["同心环", "网格纹漫射", "双环出光", "智能传感", "深灰金属", "层次感", "iF获奖"]
+    hero_feature: "同心三环结构 × 深灰精密网格纹盘，工业精密美学与智能照明融合"
+    problem_solved: "智能吸顶灯外观廉价，传感器集成破坏视觉整洁，出光无层次感"
+    transferable_technique: "同心环层叠分区出光设计；金属网格纹漫射盘（光学+散热+装饰三合一）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_007"
+    source_images:
+      - filename: "综合/13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/13.jpg"
+        image_role: "hero"
+        visual_anchor: "白底产品图：玫瑰灰色调大圆形吸顶灯，薄边框（金属玫瑰棕），底面整圆为白色漫射发光面，中央有一个椭圆形浅凹起伏（如碗状漏斗倒扣），凹陷处最亮，四周渐暗"
+    product_name: "玫瑰棕碗形漫射吸顶灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "正圆扁碟形，薄边框，底面漫射面中央有椭圆形碗状起伏浮雕，整体低调优雅"
+      light_opening: "downward diffuser — 全底面均匀漫射，中央碗形凹陷形成出光梯度（中心最亮向边缘渐暗），呈现自然晕光效果"
+      thermal: "薄碟壳体被动散热"
+      cmf:
+        color: "玫瑰棕/大地色边框 + 白色漫射面"
+        material: "金属边框 + PC漫射底面"
+        finish: "金属边框磨砂哑面，轻奢低调"
+      mounting: "贴顶直装"
+      signature_detail: "漫射底面中央椭圆碗形浮雕，制造渐变出光梯度，避免均匀出光的平淡感"
+    design_level:
+      score: 4
+      reason: "玫瑰棕金属边框选色精准，碗形漫射浮雕创造光梯度避免平板感，适合中高端家装，iF获奖水准"
+    design_tags: ["玫瑰棕", "碗形漫射", "渐变出光", "轻奢", "圆形", "金属边框", "iF获奖"]
+    hero_feature: "漫射面中央碗形浮雕造成出光渐变，由中心向边缘自然晕散"
+    problem_solved: "普通漫射吸顶灯出光过于均匀平淡，缺乏光影层次感"
+    transferable_technique: "漫射面三维浮雕制造出光梯度；玫瑰棕金属边框 × 白漫射面的轻奢CMF搭配"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_008"
+    source_images:
+      - filename: "综合/16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/16.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝绿色天花板实景：白色吸顶风扇灯，顶部圆柱型电机盒连接天花板，下挂圆形灯盘（白色圆柱形边框+白色漫射圆面），扇叶折叠收于灯盘侧面透明保护罩内（可见透明亚克力罩），实景背景有植物"
+    product_name: "折叠隐藏扇叶吸顶风扇灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "圆形灯盘 + 顶部圆柱电机座，侧面扇叶折叠后被透明亚克力罩包围，外观如吸顶灯，展开后为风扇灯"
+      light_opening: "downward diffuser — 圆形底面均匀白色漫射出光"
+      thermal: "电机散热独立于灯具热管理，灯盘LED被动散热"
+      cmf:
+        color: "全白 + 透明亚克力扇叶护罩"
+        material: "白色ABS/铝合金灯盘 + 透明PC亚克力罩 + 铝合金扇叶"
+        finish: "哑白喷涂，亚克力高透明"
+      mounting: "吊杆连接天花板，可调节高度"
+      signature_detail: "扇叶折叠收纳于透明护罩内，关闭时外观接近普通吸顶灯，透明护罩使扇叶若隐若现"
+    design_level:
+      score: 4
+      reason: "扇叶收纳方案优雅，透明护罩使结构可见但不杂乱，解决了传统风扇灯体积感过强的问题"
+    design_tags: ["风扇灯", "扇叶收纳", "透明护罩", "多功能", "白色", "模块化", "iF获奖"]
+    hero_feature: "扇叶折叠收于透明亚克力护罩，收起状态外观接近普通吸顶灯"
+    problem_solved: "传统风扇灯扇叶外露体积感强，视觉杂乱，不适合现代简约室内"
+    transferable_technique: "可收纳扇叶 + 透明护罩策略；功能件收纳后体积最小化设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_009"
+    source_images:
+      - filename: "综合/19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/19.jpg"
+        image_role: "hero"
+        visual_anchor: "灰蓝天花板仰视：深棕/灰色圆形开口光环，内径约占外径60%，光环截面为矩形，内侧一圈连续LED线光源（暖白），光环内部开口露出天花板，环内从一侧横跨一根细铝条支臂（疑为转动装置或装饰件）"
+    product_name: "开口圆环LED光晕吸顶灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "正圆中空光环，截面矩形，内侧发光，外侧为深色哑面金属，从下方看整圆环轮廓极具张力"
+      light_opening: "ambient wash — 光环内侧LED线光源360°朝内照射，光线向上打亮天花板形成晕光，兼有向下漫射"
+      thermal: "铝合金光环体导热散热，截面内嵌散热结构"
+      cmf:
+        color: "深棕灰金属 + 暖白LED内光"
+        material: "铝合金光环体"
+        finish: "外侧深色阳极氧化哑面，内侧光学反射面"
+      mounting: "贴顶或短吊装，圆心支臂固定连接天花板"
+      signature_detail: "中空圆环 + 内侧线光源，亮灯时天花板被打出完整圆形光晕，关灯时为深色精密金属圆环雕塑"
+    design_level:
+      score: 5
+      reason: "开口圆环造型极具雕塑感，内侧出光在天花打出完整光晕，装饰性与照明性均达到顶级，iF最高水准"
+    design_tags: ["圆环光晕", "内侧出光", "雕塑感", "深色金属", "间接光", "天花晕光", "iF获奖"]
+    hero_feature: "深色中空金属圆环 + 内侧LED线光在天花板打出完整圆形光晕"
+    problem_solved: "普通吸顶灯只能直接下照，无法在天花板创造装饰性光效"
+    transferable_technique: "圆环内侧出光 × 天花反射晕光设计；深色金属体 + 亮色内光的强对比手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_010"
+    source_images:
+      - filename: "综合/20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/20.jpg"
+        image_role: "hero"
+        visual_anchor: "白底产品图：圆角椭圆形白色吸顶灯（偏圆），侧面有一圈细银色金属分缝，顶部微拱，底面整圆白色漫射发光面，正中有圆形控制台（浮雕式）带几个小点传感器"
+    product_name: "圆角椭圆智能吸顶灯（银色腰线款）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "圆角椭圆鹅卵石形态，顶面微拱，侧面纤细，一圈银色金属分缝腰线分隔上下壳体"
+      light_opening: "downward diffuser — 底面整圆白色漫射出光，均匀柔和"
+      thermal: "壳体被动散热，腰线处金属导热"
+      cmf:
+        color: "白色主体 + 银色金属腰线"
+        material: "PC漫射底面 + ABS/PC上壳 + 铝合金腰线"
+        finish: "壳体哑白，腰线拉丝银"
+      mounting: "贴顶直装，底部边缘固定"
+      signature_detail: "一圈拉丝银金属腰线将上下壳分隔，与白色壳体形成精致对比；中央圆形传感控制台嵌入漫射面"
+    design_level:
+      score: 3
+      reason: "腰线手法常规，鹅卵石形态讨喜但无突破，整体为精良消费级产品设计"
+    design_tags: ["鹅卵石形态", "银色腰线", "智能传感", "白色", "圆角椭圆", "精良消费级", "iF获奖"]
+    hero_feature: "拉丝银金属腰线分缝 × 白色鹅卵石壳体，精致轻奢家居感"
+    problem_solved: "普通白色吸顶灯过于平淡，缺乏品质感细节"
+    transferable_technique: "腰线金属分缝提升品质感；控制台嵌入漫射面不突出的集成策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_011"
+    source_images:
+      - filename: "综合/22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/22.jpg"
+        image_role: "hero"
+        visual_anchor: "暖灰天花板仰视：白色圆柱形灯体，底部有较宽的圆环形水晶/光学玻璃折射件（透明度高，内有光学单元呈椭圆形排列一圈约16-18颗），中央圆形白色漫射主发光面，整体高雅"
+      - filename: "综合/23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/23.jpg"
+        image_role: "detail"
+        visual_anchor: "暖灰背景特写：两个不同直径同款灯具局部，清晰可见光学玻璃折射环内每颗椭圆形凹透镜光学单元细节，光通过后呈现宝石切面效果，发光时每颗均独立点亮"
+    product_name: "水晶光学环圆柱吸顶灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "圆柱体灯体，底部宽光学玻璃环形凸出，侧面轮廓T字形，正面为光学环 + 中央漫射圆面的同心圆构图"
+      light_opening: "downward diffuser — 中央漫射圆面为主照明出光；光学环内LED通过折射件产生宝石切割般装饰光效"
+      thermal: "铝制圆柱体导热，顶面辅助散热"
+      cmf:
+        color: "白色主体 + 透明光学玻璃环"
+        material: "白色铝合金/ABS圆柱体 + 高透光学级PC/玻璃折射环"
+        finish: "白色哑面，光学环高透明精密注塑"
+      mounting: "贴顶直装，圆柱顶面固定"
+      signature_detail: "高透光学折射环一圈约16-18颗椭圆形凹透镜单元，亮灯时每颗独立发光形成宝石切面光效"
+    design_level:
+      score: 5
+      reason: "光学折射环设计工艺极精，凹透镜单元宝石切面光效兼具照明价值与装饰奢华感，两尺寸系列化，iF顶级水准"
+    design_tags: ["光学折射环", "水晶切面", "凹透镜阵列", "奢华", "圆柱体", "双出光模式", "iF获奖"]
+    hero_feature: "光学玻璃折射环内16-18颗凹透镜单元，发光时呈宝石切面效果"
+    problem_solved: "高端吸顶灯缺乏媲美吊灯的装饰性，光学细节缺失"
+    transferable_technique: "光学折射环凹透镜阵列设计；照明功能（漫射面）+ 装饰功能（光学环）双层分区策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_012"
+    source_images:
+      - filename: "综合/25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/25.jpg"
+        image_role: "hero"
+        visual_anchor: "白底产品图：圆形吸顶灯，底面覆盖密集规则微透镜阵列（蜂窝状小圆点密布，约数百颗），白色边框环，整体白色，微透镜阵列赋予底面强烈光学质感"
+    product_name: "微透镜阵列圆形吸顶灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "标准圆形吸顶灯，扁平碟状，宽白色边框，底面为满覆微透镜阵列"
+      light_opening: "flush panel — 底面微透镜阵列整面出光，每颗微透镜独立折射光线，整体亮度均匀但表面质感丰富"
+      thermal: "标准被动散热"
+      cmf:
+        color: "纯白"
+        material: "白色铝/ABS边框 + 光学级PC微透镜阵列面板"
+        finish: "边框哑白，微透镜面板高透明精密注塑"
+      mounting: "贴顶直装"
+      signature_detail: "底面满覆密集微透镜阵列，关灯时呈现精密光学质感，亮灯时每颗透镜折射光线形成均匀柔化出光"
+    design_level:
+      score: 4
+      reason: "微透镜阵列将光学精密感引入家用吸顶灯，关灯态有质感、亮灯态出光柔和，一举两得，工艺门槛高"
+    design_tags: ["微透镜阵列", "光学精密", "圆形", "均匀出光", "纯白", "光学质感", "iF获奖"]
+    hero_feature: "底面满覆密集微透镜阵列，赋予普通圆形吸顶灯精密光学质感"
+    problem_solved: "普通PC漫射面板出光平淡、关灯无质感"
+    transferable_technique: "微透镜阵列面板（光学精密感 + 出光均匀性二合一）；面板满覆装饰纹理策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_013"
+    source_images:
+      - filename: "综合/26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/26.jpg"
+        image_role: "hero"
+        visual_anchor: "实景：角落两面墙装了同款灯，金色/黄铜色浅碟形，仰视可见底面边缘一圈暖白发光，正面展示金色内凹碗面（背面）朝上，碗面中央一个白色螺丝安装点，整体厚实但轮廓优雅"
+    product_name: "黄铜浅碟双用灯（吸顶/壁灯）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "浅碟形，直径明显大于高度，截面如平底锅，边缘薄而锐利，整体具金属分量感"
+      light_opening: "ambient wash — 碟形底面边缘一圈LED出光，光向下/向外漫射，产生环形氛围光晕；碟体本身反射光线增加环境亮度"
+      thermal: "厚实黄铜/金属碟体高效导热散热"
+      cmf:
+        color: "黄铜金色"
+        material: "黄铜或黄铜色铝合金"
+        finish: "拉丝或哑光黄铜面，轻奢暖调"
+      mounting: "中央螺丝固定，可吸顶或壁装（两用）"
+      signature_detail: "黄铜碟形 × 边缘环形出光，碟体背面圆弧内凹，视觉上如一枚悬浮的金属飞碟"
+    design_level:
+      score: 4
+      reason: "黄铜材质 + 浅碟形造型具有强烈轻奢装饰感，双用设计（墙/顶）灵活，边缘出光方式优雅"
+    design_tags: ["黄铜", "浅碟形", "边缘出光", "轻奢", "双用灯", "壁顶两用", "iF获奖"]
+    hero_feature: "黄铜浅碟边缘一圈环形出光，可吸顶可壁装，金属雕塑感强"
+    problem_solved: "吸顶灯与壁灯需分别设计采购，同款两用降低成本且保持空间统一感"
+    transferable_technique: "碟形边缘出光策略（光源全隐藏于碟体下沿）；吸顶/壁装同款两用安装设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_吸顶灯_综合_014"
+    source_images:
+      - filename: "综合/27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/27.jpg"
+        image_role: "hero"
+        visual_anchor: "白色背景仰视：圆形吸顶灯，白色圆弧宽边框，内圈一圈黑色矩阵框架内嵌约16个独立微型反射杯单元（金属黑色锥形），每个单元内可见一颗LED，中央白色漫射圆形面板"
+      - filename: "综合/28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/综合/28.jpg"
+        image_role: "colorway"
+        visual_anchor: "白色背景仰视：同款纯黑色版本，黑色宽边框 + 黑色反射杯矩阵环 + 黑色中央漫射面，全黑对比更强烈工业感"
+    product_name: "反射杯阵列环形吸顶灯（白/黑双色）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "综合"]
+    design_language:
+      silhouette: "圆形扁鼓状，外圈宽边框，中圈为反射杯阵列环，中央漫射面板，三层同心圆构图清晰"
+      light_opening: "downward diffuser — 中央漫射面提供均匀环境光；外圈反射杯阵列每颗独立定向出光，可形成聚焦光斑"
+      thermal: "铝制反射杯体高效导热，黑色氧化增加辐射散热"
+      cmf:
+        color: "白色版（白边框+黑杯阵列）/ 全黑版（纯黑）"
+        material: "铝合金边框 + 铝制锥形反射杯 + PC漫射中央面板"
+        finish: "边框哑白/哑黑喷涂，反射杯黑色阳极氧化"
+      mounting: "贴顶直装，边框覆盖安装件"
+      signature_detail: "外圈16个独立铝制锥形反射杯阵列环，每颗内置LED，形成工业精密感，黑色杯体与白/黑外壳强烈对比"
+    design_level:
+      score: 5
+      reason: "反射杯阵列环设计工业感极强，双模出光（漫射主光+定向阵列环绕光）功能创新，双色系高度系列化，iF顶级"
+    design_tags: ["反射杯阵列", "工业精密", "双模出光", "黑白双色", "圆环结构", "定向出光", "iF获奖"]
+    hero_feature: "外圈16颗独立铝制反射杯阵列环绕中央漫射面，工业精密美学 + 双模照明"
+    problem_solved: "家用吸顶灯只能提供漫射光，无法实现局部定向照明；外观缺乏工业精密感"
+    transferable_technique: "漫射主光 + 定向反射杯环绕的双模出光架构；反射杯阵列的圆环排布策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  # ─────────────────────────────────────────────
+  # 面板灯子文件夹 (2 images → 1 product)
+  # ─────────────────────────────────────────────
+
+  - product_id: "if_吸顶灯_面板灯_001"
+    source_images:
+      - filename: "面板灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/面板灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "矿棉板吊顶嵌入实景：600×600方形面板灯，中央四棱锥形凹腔发出蓝天渐变色光（顶部深蓝→下方浅蓝白），外圈白色边框均匀漫射白光，整体嵌入天花格栅齐平"
+      - filename: "面板灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吸顶灯/面板灯/02.jpg"
+        image_role: "in_context"
+        visual_anchor: "办公会议室实景：4块同款面板灯组成2×2阵列，蓝天渐变光效更大面积呈现，两人在桌边开会，下方为木色桌和绿色椅，蓝光营造出强烈自然采光感"
+    product_name: "天窗模拟面板灯（蓝天渐变）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "吸顶灯", "面板灯"]
+    design_language:
+      silhouette: "正方形嵌入式面板，600×600建筑模数，与标准矿棉板天花板齐平，外轮廓无任何突出"
+      light_opening: "skylight simulation — 中央四棱锥凹腔发蓝天渐变色光（模拟天窗透视纵深）+ 外圈白色边框漫射白光（功能照明），双层分区出光"
+      thermal: "嵌入吊顶背腔散热，铝制框架导热，无外露散热结构"
+      cmf:
+        color: "白色铝边框 + 中央蓝天渐变发光（蓝→蓝白渐变）"
+        material: "铝合金边框 + PC漫射边框板 + 中央深腔漫射发光体"
+        finish: "白色哑光烤漆，嵌入后与天花板视觉齐平"
+      mounting: "嵌入式，卡扣安装于600×600龙骨格栅，与天花板完全齐平"
+      signature_detail: "中央四棱锥凹腔创造透视纵深感，蓝天渐变光色模拟室外晴天天空，多块组合可放大天窗效果"
+    design_level:
+      score: 5
+      reason: "天窗语义创新极强，锥形腔纵深错觉精准，双层出光兼顾功能与情绪，多块可组合成大天窗，iF顶级水准"
+    design_tags: ["天窗模拟", "蓝天渐变", "情绪照明", "锥形腔纵深", "嵌入式", "双层出光", "建筑模数", "iF获奖"]
+    hero_feature: "四棱锥凹腔蓝天渐变光在无窗室内创造自然天窗错觉，4块组合效果更强"
+    problem_solved: "地下室/无窗办公室缺乏自然光感，普通面板灯出光平淡无空间感无情绪价值"
+    transferable_technique: "四棱锥凹腔深度渐变出光（模拟透视纵深）；双色温分区出光（蓝天情绪光+白色功能光）；建筑模数嵌入式安装"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

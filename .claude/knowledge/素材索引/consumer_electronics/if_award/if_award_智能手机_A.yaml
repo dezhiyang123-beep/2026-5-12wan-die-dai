@@ -1,0 +1,429 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "智能手机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_phone_001"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/03.jpg"
+        image_role: "hero"
+        visual_anchor: "大圆形三摄镜头模组 + 蓝/灰渐变背板"
+    product_name: "OnePlus 7T"
+    brand_name: "OnePlus"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "标准竖长矩形板状机身，四角圆弧，正背双面对称"
+      light_opening: "背视图，正面屏幕未显示；机身可推测为全面屏水滴屏设计"
+      thermal: "玻璃背板，左上角突出圆形摄像头岛，金属中框"
+      cmf:
+        color: "冰川蓝（顶部浅蓝→底部深蓝渐变）/ 雾银（顶部深灰→底部浅灰渐变）双色展示"
+        material: "玻璃背板 + 金属中框"
+        finish: "光面渐变玻璃"
+      mounting: "标准平板矩形，无折叠无翻盖"
+      signature_detail: "正圆形三摄镜头模组，模组内三镜头呈三角排列，圆环边框设计感强"
+    design_level:
+      score: 4
+      reason: "圆形镜头岛在同时期设计中辨识度极高，渐变配色处理细腻，整体比例协调；双色方案展示专业"
+    design_tags: ["圆形镜头模组", "渐变背板", "三摄", "玻璃背板", "对称构图", "IF Award"]
+    hero_feature: "正圆形三摄镜头岛——在矩形机身上形成强烈几何对比"
+    problem_solved: "多摄镜头排列混乱导致背面视觉杂乱；圆形收纳统一为单一焦点"
+    transferable_technique: "用几何形状（圆/椭圆）将多个功能元件收纳为一个视觉锚点，适用于任何需要整合多孔/多件背部元素的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_002"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/10.jpg"
+        image_role: "hero"
+        visual_anchor: "四色展开排列背视图 + 左上角横置胶囊形三摄"
+    product_name: "Sony Xperia 10 II"
+    brand_name: "Sony"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "修长竖长矩形，21:9比例窄机身，四角圆弧较小"
+      light_opening: "背视图展示为主；正面为窄边框全面屏，顶部极细边框"
+      thermal: "一体化平板机身，摄像头模组微突，无明显分件线"
+      cmf:
+        color: "黑/薄荷绿/深海蓝/白 四色展示"
+        material: "塑料/玻璃背板"
+        finish: "哑光/微光泽面"
+      mounting: "标准平板矩形"
+      signature_detail: "左上角横向排列胶囊形三摄模组，布局水平而非垂直"
+    design_level:
+      score: 3
+      reason: "多彩配色策略清晰，21:9窄长比例具有辨识度；但造型本身较为克制保守，无强力记忆点"
+    design_tags: ["多彩配色", "21:9窄屏", "横置三摄", "索尼Xperia", "极简背面", "IF Award"]
+    hero_feature: "21:9超窄长机身比例——与主流16:9机型形成明显差异"
+    problem_solved: "宽屏手机单手操作困难；窄长比例提升单手握持舒适度，同时优化视频观看体验"
+    transferable_technique: "通过整体比例偏移（非常规长宽比）建立品类内差异化身份，适用于有明确用途导向的细分产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_003"
+    source_images:
+      - filename: "105.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/105.jpg"
+        image_role: "hero"
+        visual_anchor: "四色展开扇形排列 + 正面Windows Phone彩色磁贴界面"
+    product_name: "Nokia Lumia 520"
+    brand_name: "Nokia"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "圆润矩形，四角大弧，机身整体包覆感强，背面略微弧形"
+      light_opening: "正面小尺寸屏幕，黑色边框较宽，屏占比低；屏下三实体触控键"
+      thermal: "一体化彩色聚碳酸酯机壳，背面圆弧无分件线"
+      cmf:
+        color: "黄/蓝/白/红 四色展示"
+        material: "聚碳酸酯（PC）一体成型"
+        finish: "哑光软触感涂层"
+      mounting: "标准平板矩形，一体式后盖"
+      signature_detail: "高饱和度纯色一体机壳 + Windows Phone彩色磁贴UI的视觉呼应"
+    design_level:
+      score: 4
+      reason: "CMF策略极具一致性：硬件颜色与软件UI磁贴颜色形成系统级视觉呼应，一体化聚碳酸酯彩壳在同期竞品中色彩密度最高"
+    design_tags: ["彩色机壳", "聚碳酸酯", "一体成型", "软件硬件色彩呼应", "Nokia Lumia", "Windows Phone", "IF Award"]
+    hero_feature: "高饱和度一体聚碳酸酯彩壳——颜色即产品身份，无需logo也能识别"
+    problem_solved: "金属/玻璃机身成本高、加工难；聚碳酸酯一体成型同时解决成本与色彩饱和度问题"
+    transferable_technique: "CMF作为主要差异化载体而非造型；用材料固有色（而非涂装）实现高饱和度，适用于消费类塑料壳体产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_004"
+    source_images:
+      - filename: "107.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/107.jpg"
+        image_role: "hero"
+        visual_anchor: "正背双面展示 + 水滴屏 + 圆形三摄镜头岛"
+    product_name: "OnePlus 7T（正背双面展示）"
+    brand_name: "OnePlus"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "标准竖长矩形，背面圆形镜头岛突出"
+      light_opening: "正面水滴屏（Dewdrop）——顶部中央极小水滴形开孔，屏占比极高，三边等宽窄边框"
+      thermal: "玻璃背板渐变，金属中框，圆形镜头岛突出背面平面"
+      cmf:
+        color: "冰川蓝渐变（上浅下深）"
+        material: "玻璃背板 + 金属中框"
+        finish: "光面渐变玻璃"
+      mounting: "标准平板矩形"
+      signature_detail: "正面水滴屏开孔极小，视觉上几乎实现全面屏效果"
+    design_level:
+      score: 4
+      reason: "水滴屏在刘海屏时代是重要进步，将前置摄像头开孔面积压缩到视觉临界点；正背双面展示图构图专业"
+    design_tags: ["水滴屏", "圆形镜头岛", "渐变玻璃", "高屏占比", "OnePlus", "IF Award"]
+    hero_feature: "水滴形前置摄像头开孔——在保留前摄功能前提下将开孔视觉影响降到最低"
+    problem_solved: "刘海屏占用过多显示区域；水滴屏将开孔收缩为单点，最大化屏幕可用面积"
+    transferable_technique: "将必要开孔最小化并赋予几何美感（水滴/圆点），适用于任何需要在整洁面板上保留功能孔的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_005"
+    source_images:
+      - filename: "108.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/108.jpg"
+        image_role: "hero"
+        visual_anchor: "信用卡尺寸超薄机身 + 金色边框 + 金色品牌字"
+    product_name: "Slimca HERE（超薄卡片手机）"
+    brand_name: "Slimca"
+    brand_confidence: "medium"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "信用卡比例矩形，极薄机身（厚度接近信用卡），四角直角微倒角"
+      light_opening: "正面屏幕极小，顶部横向矩形条形屏幕区域，非主流全面屏形态"
+      thermal: "深空蓝哑光金属机身，金色边框装饰线"
+      cmf:
+        color: "深空蓝 + 金色边框/文字"
+        material: "金属机身"
+        finish: "哑光喷砂 + 金色光泽边框"
+      mounting: "超薄平板矩形，信用卡形态"
+      signature_detail: "机身厚度极薄，侧边金色金属边框，背面烫金\"HERE\"品牌字"
+    design_level:
+      score: 3
+      reason: "极薄形态概念清晰，金蓝配色品质感强；但功能性存疑（屏幕极小），更接近概念/备用机定位"
+    design_tags: ["超薄", "卡片手机", "金属机身", "金色边框", "极简", "备用机", "IF Award"]
+    hero_feature: "信用卡级别超薄机身——突破常规手机厚度认知边界"
+    problem_solved: "常规手机随身携带占用口袋空间；卡片形态可放入钱包夹层，解决极简携带需求"
+    transferable_technique: "将产品厚度压缩到类比物（信用卡/硬币）的参照尺度，建立极致减法形象；金属+金色边框的高级感CMF搭配"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "medium"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "品牌Slimca较小众，需确认是否为真实量产IF Award获奖产品；功能性是否达到智能手机定义存疑"
+
+  - product_id: "if_phone_006"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/11.jpg"
+        image_role: "hero"
+        visual_anchor: "薄荷绿机身正背双面展示 + 左上角纵向双摄"
+    product_name: "Sony Xperia 10 II（单色展示）"
+    brand_name: "Sony"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "21:9修长窄矩形，四角圆弧，侧面按键整合指纹识别"
+      light_opening: "正面全面屏，顶部细边框内嵌前置摄像头（极小圆形开孔），底部同等宽窄边框，无刘海无水滴"
+      thermal: "平直背面，左上角轻微突出纵向双摄模组，背面无明显弧度"
+      cmf:
+        color: "薄荷绿（Mint）"
+        material: "玻璃或哑光塑料背板"
+        finish: "哑光柔和光泽"
+      mounting: "标准平板矩形，侧边电源键集成指纹识别"
+      signature_detail: "侧面电源键集成指纹识别传感器 + 21:9极窄机身比例"
+    design_level:
+      score: 3
+      reason: "侧边指纹整合方案优雅，避免背面指纹影响背面整洁度；薄荷绿配色清新；整体设计克制但缺乏视觉爆发力"
+    design_tags: ["21:9", "侧边指纹", "薄荷绿", "Sony Xperia", "窄机身", "全面屏", "IF Award"]
+    hero_feature: "侧面电源键集成指纹识别——功能隐藏于按键，背面保持纯净"
+    problem_solved: "背面指纹破坏背板视觉整洁性，屏下指纹成本高；侧边方案兼顾美观与成本"
+    transferable_technique: "将身份验证/常用功能整合到已有按键中，实现功能增密不增件，适用于需要隐藏传感器的工业产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_007"
+    source_images:
+      - filename: "114.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/114.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑机身正面展示 + 顶部听筒+前摄一体长条 + 底部BlackBerry品牌字"
+    product_name: "BlackBerry Z10"
+    brand_name: "BlackBerry"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "标准竖长矩形，四角圆弧适中，机身比例较方正"
+      light_opening: "正面全触控屏，顶部黑色宽边框含听筒条+前置摄像头，底部较宽黑色边框含BlackBerry品牌字，无物理键盘"
+      thermal: "正面黑色面板，背面纹理（不可见），顶部听筒条横跨整个宽度"
+      cmf:
+        color: "全黑"
+        material: "塑料机身"
+        finish: "哑光黑，侧面光泽金属质感线条"
+      mounting: "标准平板矩形"
+      signature_detail: "顶部全宽听筒条横跨整个机身宽度，底部品牌字居中"
+    design_level:
+      score: 2
+      reason: "造型保守，边框较宽，屏占比低；设计语言未突破同期竞品；历史意义大于设计价值（BlackBerry首款全触控机型）"
+    design_tags: ["BlackBerry", "全触控", "黑色", "宽边框", "商务手机", "全宽听筒条", "IF Award"]
+    hero_feature: "BlackBerry首款无物理键盘全触控设计——品牌转型标志性产品"
+    problem_solved: "BlackBerry实体键盘在触控时代的路径依赖；Z10验证品牌可以做纯触控产品"
+    transferable_technique: "品牌转型期的设计保守策略——保留品牌辨识元素（宽边框比例、品牌字位置）同时切换交互形态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_008"
+    source_images:
+      - filename: "115.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/115.jpg"
+        image_role: "hero"
+        visual_anchor: "横置展示白色机身 + 侧面BlackBerry品牌字 + 宽幅屏幕"
+    product_name: "BlackBerry Z30"
+    brand_name: "BlackBerry"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "横置矩形展示，竖握时为大屏标准矩形，四角圆弧较大"
+      light_opening: "横置全面屏展示，宽幅16:9比例屏幕，屏幕上下边框存在"
+      thermal: "白色机身，侧面黑色BlackBerry品牌字，侧边按键可见"
+      cmf:
+        color: "白色机身 + 黑色侧面品牌字"
+        material: "塑料机身"
+        finish: "哑光白，略有纹理"
+      mounting: "标准平板矩形"
+      signature_detail: "侧面品牌字BlackBerry作为视觉标识，大屏横向展示强调多媒体定位"
+    design_level:
+      score: 2
+      reason: "造型平淡，与同期竞品无明显差异；白色哑光塑料质感一般；设计语言延续Z10但无突破"
+    design_tags: ["BlackBerry", "白色", "大屏", "横置展示", "哑光塑料", "IF Award"]
+    hero_feature: "BlackBerry向大屏多媒体定位转型的尝试"
+    problem_solved: "BlackBerry用户群体老化，尝试以大屏吸引多媒体消费用户"
+    transferable_technique: "横置展示图在营销物料中强调屏幕尺寸优势，适用于以内容消费为主的产品宣传"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_phone_009"
+    source_images:
+      - filename: "22.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/22.jpg"
+        image_role: "hero"
+        visual_anchor: "正面展示 + 小尺寸屏幕 + 物理数字键盘 + Gigaset品牌字"
+    product_name: "Gigaset SL450HX（DECT无绳电话）"
+    brand_name: "Gigaset"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "窄长矩形，顶部弧形收窄，底部略宽，整体类似传统翻盖手机比例"
+      light_opening: "小尺寸彩色显示屏（非触控），黑色边框，屏幕占机身上半部"
+      thermal: "上半部黑色光泽面板+屏幕，下半部银色金属质感数字键盘区，视觉分段明显"
+      cmf:
+        color: "银色 + 黑色双色"
+        material: "塑料机身，金属质感键盘面板"
+        finish: "上部高光黑，下部拉丝银"
+      mounting: "标准直板手持形态"
+      signature_detail: "完整12键物理数字键盘 + 功能导航键 + 银色拉丝金属质感键盘面板"
+    design_level:
+      score: 3
+      reason: "在无绳电话品类内设计质感较高，银黑双色分区清晰，金属质感键盘有档次感；但严格而言不属于智能手机品类"
+    design_tags: ["物理键盘", "DECT电话", "银黑双色", "金属质感", "Gigaset", "传统手机", "IF Award"]
+    hero_feature: "银色拉丝金属质感键盘区——在塑料产品中营造金属质感层次"
+    problem_solved: "DECT无绳电话用户（多为老年人）需要物理按键操作；精准按键比触控更可靠"
+    transferable_technique: "上下分区的双CMF策略：功能区（键盘/操作区）用高对比度材质区分，强化区域功能暗示"
+    confidence:
+      visual_description: "high"
+      category: "low"
+      brand: "high"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "该产品为DECT无绳座机/固定电话，非智能手机；归类到智能手机品类存疑，建议移至「固定电话/家用电话」子类"
+
+  - product_id: "if_phone_010"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/30.jpg"
+        image_role: "hero"
+        visual_anchor: "iPhone 14 Pro + MagSafe保护壳组合三视角展示"
+    product_name: "iPhone 14 Pro + MagSafe保护壳（第三方配件）"
+    brand_name: "Apple"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "标准iPhone矩形，直角中框（iPhone 14 Pro特征），背面三摄方形镜头岛"
+      light_opening: "正面Dynamic Island动态岛——顶部居中胶囊形开孔，取代传统刘海，屏幕延伸至开孔周围"
+      thermal: "深蓝色半透明哑光保护壳包裹，保留摄像头岛形态，MagSafe环形磁吸结构可见"
+      cmf:
+        color: "深夜蓝（Deep Blue）哑光半透明"
+        material: "PC/TPU保护壳 + MagSafe磁吸内置磁环"
+        finish: "哑光磨砂半透明"
+      mounting: "带MagSafe磁吸环的保护壳+支架组合"
+      signature_detail: "Dynamic Island动态岛开孔 + MagSafe圆形磁吸环 + 可展开金属支架"
+    design_level:
+      score: 4
+      reason: "Dynamic Island是近年智能手机开孔形态最大创新，将功能性开孔转化为UI交互元素；保护壳设计将MagSafe生态可视化"
+    design_tags: ["Dynamic Island", "动态岛", "MagSafe", "胶囊形开孔", "iPhone 14 Pro", "直角中框", "三摄方形岛", "IF Award"]
+    hero_feature: "Dynamic Island动态岛——将不可避免的前摄开孔转化为软硬件联动的交互界面"
+    problem_solved: "前置摄像头开孔在全面屏上是视觉缺陷；Dynamic Island将其转化为动态功能区，化缺陷为特性"
+    transferable_technique: "将结构性必要开口赋予动态功能意义（非静态装饰），改变用户对「缺陷」的认知框架；可迁移至任何有必要开口的电子产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "图片主体为第三方保护壳产品（含支架），非iPhone本体；IF Award获奖方可能是保护壳品牌而非Apple；建议确认获奖主体"
+
+  - product_id: "if_phone_011"
+    source_images:
+      - filename: "36.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/36.jpg"
+        image_role: "hero"
+        visual_anchor: "蓝色全面屏侧视图 + 顶部小刘海 + 蓝色金属中框"
+    product_name: "Huawei Honor 8X（或同期华为/荣耀机型）"
+    brand_name: "Honor"
+    brand_confidence: "medium"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "竖长矩形，极窄边框，侧面金属中框明显，机身修长"
+      light_opening: "正面小刘海全面屏——顶部居中V形/水滴形刘海，三边等宽窄边框，底部略宽下巴，屏占比极高"
+      thermal: "玻璃背板（背面不可见），蓝色金属中框，侧面按键清晰"
+      cmf:
+        color: "蓝宝石蓝（渐变蓝，顶部较深底部略浅）"
+        material: "玻璃背板 + 金属中框"
+        finish: "光面玻璃 + 拉丝金属中框"
+      mounting: "标准平板矩形"
+      signature_detail: "极窄三边等宽边框 + 蓝色金属中框 + 小刘海形态"
+    design_level:
+      score: 3
+      reason: "在千元价位段实现近乎旗舰的屏占比，三边等宽处理在同价位少见；蓝色金属中框与玻璃背板搭配提升质感"
+    design_tags: ["小刘海", "全面屏", "窄边框", "蓝色", "金属中框", "荣耀", "性价比旗舰", "IF Award"]
+    hero_feature: "三边等宽窄边框全面屏——在中端价位实现旗舰级屏占比视觉效果"
+    problem_solved: "中端手机边框宽，下巴厚，屏占比明显低于旗舰；Honor 8X在该价位大幅缩窄三边边框"
+    transferable_technique: "通过「等宽边框」策略强化整体感——四边均等比不均等在视觉上更高级，成本增加有限"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "品牌从侧视图难以直接识别LOGO，推测为荣耀Honor系列，需正面或背面图确认具体型号"
+
+  - product_id: "if_phone_012"
+    source_images:
+      - filename: "37.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/智能手机/37.jpg"
+        image_role: "hero"
+        visual_anchor: "正背双面蓝色展示 + 右上角双摄 + Honor品牌字 + 小刘海"
+    product_name: "Honor 8X"
+    brand_name: "Honor"
+    brand_confidence: "high"
+    category_path: ["消费电子", "智能手机"]
+    design_language:
+      silhouette: "竖长矩形，四角圆弧，背面玻璃平板，机身修长"
+      light_opening: "正面小刘海全面屏——顶部居中小V形刘海，三边极窄等宽边框，底部略宽"
+      thermal: "玻璃背板光面，右上角横向双摄突出，指纹识别居中背面，Honor品牌字中央"
+      cmf:
+        color: "蓝色（背面渐变蓝，正面黑色面板）"
+        material: "玻璃背板 + 金属中框"
+        finish: "光面玻璃渐变 + 金属拉丝中框"
+      mounting: "标准平板矩形"
+      signature_detail: "背面居中指纹识别 + 右上角横向双摄 + 渐变蓝玻璃背板"
+    design_level:
+      score: 3
+      reason: "渐变玻璃背板工艺在同价位具备竞争力，正背双面展图构图专业；整体设计语言符合2018-2019年主流旗舰参照，差异化较弱"
+    design_tags: ["渐变玻璃", "双摄", "小刘海", "全面屏", "Honor", "荣耀8X", "背面指纹", "IF Award"]
+    hero_feature: "渐变蓝玻璃背板——将光学渐变效果作为千元机差异化视觉锚点"
+    problem_solved: "中端手机背面单调缺乏高级感；渐变玻璃在不提升硬件规格前提下大幅提升视觉档次感"
+    transferable_technique: "渐变色表面处理（玻璃/涂装/阳极氧化）作为低成本高感知价值CMF手段，适用于需要提升视觉档次但成本受限的消费品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

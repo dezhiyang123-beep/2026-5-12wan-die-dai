@@ -1,0 +1,289 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "综合"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bosch_综合_001"
+    source_images:
+      - filename: "电锯__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "18V圆锯套装，含深蓝帆布包+CORE18V电池（大型橙红条纹版）+充电器，圆锯机身深蓝+黑，7-1/4英寸，铝底板，整体呈套装产品展示"
+    product_name: "Bosch 18V Circular Saw Complete Kit"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "综合"]
+    design_language:
+      silhouette: "圆锯（见圆锯类详述）+套装配件铺陈"
+      light_opening: "N/A"
+      thermal: "机身散热孔"
+      cmf:
+        color: "蓝色工具包+深蓝圆锯机身+大型CORE18V黑色电池（橙红标识条）"
+        material: "帆布工具袋+注塑工具+锂电池"
+        finish: "帆布袋蓝色+工具哑光蓝"
+      mounting: "CORE18V大容量电池"
+      signature_detail: "CORE18V电池的大型橙红色条纹在套装展示中作为视觉焦点，强调高续航定位"
+    design_level:
+      score: 3
+      reason: "标准套装展示，CORE18V电池的大型橙红标识最突出，整体套装感强"
+    design_tags: ["综合", "圆锯套装", "CORE18V", "帆布包"]
+    hero_feature: "CORE18V大容量电池橙红标识——电量/能量的视觉化表达"
+    problem_solved: "提供完整的切割解决方案，含大容量电池满足重度使用"
+    transferable_technique: "大容量电池的高对比标识作为价值锚点（H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_综合_002"
+    source_images:
+      - filename: "电锯__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__综合__02.jpg"
+        image_role: "hero"
+        visual_anchor: "18V迷你往复锯GSA18V-083，深蓝色机身，黑色前端橡胶包覆，极短机身，EDGE锯片，蓝色机身后端无电池，红色功能键"
+    product_name: "Bosch 18V Compact Reciprocating Saw GSA18V-083"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "综合"]
+    design_language:
+      silhouette: "18V超紧凑往复锯，机身长度比全尺寸短约40%，前端黑色包覆，整体呈短粗形态"
+      light_opening: "N/A"
+      thermal: "机身顶部散热孔"
+      cmf:
+        color: "深蓝色后机身+黑色前端，红色功能键"
+        material: "注塑+橡胶Overmold前端"
+        finish: "哑光蓝+黑橡胶"
+      mounting: "18V CORE系统（裸机展示）"
+      signature_detail: "超紧凑18V机身，前端黑色包覆短小，Bosch H标志居中"
+    design_level:
+      score: 4
+      reason: "18V体积内实现超紧凑设计，比12V PS60更强大，形态上的紧凑感清晰传达产品差异化"
+    design_tags: ["无线", "18V", "紧凑型往复锯", "短机身"]
+    hero_feature: "短小机身比例——相对全尺寸往复锯的强烈形态对比"
+    problem_solved: "狭小空间内的18V功率切割，弥补12V功率不足和全尺寸18V体积过大的缺口"
+    transferable_technique: "通过压缩机身长度传达'紧凑便携'产品特性（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_综合_003"
+    source_images:
+      - filename: "电锯__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__综合__03.jpg"
+        image_role: "hero"
+        visual_anchor: "18V带锯BCB18V-3，蓝色C形机身，顶部辅助把手，机身底部白色带锯基座（C形弧形结构），橙红色快换调节按钮，CORE18V 4Ah电池装配，整体呈C形轮廓"
+    product_name: "Bosch 18V Compact Bandsaw BCB18V-3"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "综合"]
+    design_language:
+      silhouette: "C形带锯独特轮廓：顶部蓝色机身+底部白色弧形基座形成C字型，锯条在C形开口穿过，整体轮廓极具辨识度"
+      light_opening: "N/A"
+      thermal: "机身散热孔"
+      cmf:
+        color: "深蓝色上机身，白色下弧形基座，橙红色功能调节旋钮，黑色CORE18V电池"
+        material: "注塑机身+注塑基座"
+        finish: "哑光蓝+哑光白+橙红功能件"
+      mounting: "CORE18V 18V电池"
+      signature_detail: "C形整体轮廓（蓝色上+白色下的C形弧）是带锯品类的身份锚点；橙红色旋钮高对比"
+    design_level:
+      score: 4
+      reason: "C形轮廓在手持电动工具中独树一帜，蓝/白/橙三色系统清晰，白色基座区分功能区的方式直观"
+    design_tags: ["无线", "18V", "带锯", "C形轮廓", "蓝白橙三色"]
+    hero_feature: "蓝色机身+白色弧形基座的C形轮廓——带锯品类的标志性形态"
+    problem_solved: "管道/型材的精准切断，C形结构允许锯条环绕工件"
+    transferable_technique: "C形分色（上蓝下白）强化结构功能区视觉分离（H03分件线+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_综合_004"
+    source_images:
+      - filename: "电锯__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__综合__04.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线圆锯（高端款），深蓝色机身，黑色前辅助把手，灰色大型护罩，EDGE 7-1/4英寸锯片，铝底板，完整的后部握把，多处通风孔"
+    product_name: "Bosch 18V High-Performance Circular Saw (Premium)"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "综合"]
+    design_language:
+      silhouette: "高端18V圆锯，比标准款机身更大，前辅助把手凸显高功率定位，整体轮廓更厚重"
+      light_opening: "N/A"
+      thermal: "机身多处散热孔（高功率散热需求）"
+      cmf:
+        color: "深蓝色机身主导，灰色护罩（区别于标准银色），黑色辅助把手，铝底板"
+        material: "注塑+铝护罩/底板"
+        finish: "哑光蓝+深灰护罩"
+      mounting: "18V CORE系统"
+      signature_detail: "深灰色护罩区别于标准款的银色，暗示更高功率/专业级定位；前辅助把手强调双手操控"
+    design_level:
+      score: 4
+      reason: "深灰护罩+前辅助把手的组合将视觉语言推向更高专业感，多散热孔阵列也有视觉质感"
+    design_tags: ["无线", "18V", "高端圆锯", "辅助把手", "深灰护罩"]
+    hero_feature: "深灰护罩+前辅助把手——高功率专业级圆锯的视觉差异化标识"
+    problem_solved: "重型切割工况，双手把持提供更好控制"
+    transferable_technique: "护罩颜色（灰vs银）作为产品线档次分级信号（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_综合_005"
+    source_images:
+      - filename: "电锯__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__综合__05.jpg"
+        image_role: "hero"
+        visual_anchor: "18V BITURBO往复锯GSA18V-110，含CORE18V 8Ah电池，蓝色+黑色前后分区，BITURBO金色标识，EDGE锯片，整体高端往复锯完整形态"
+    product_name: "Bosch 18V BITURBO Reciprocating Saw GSA18V-110 Full Kit"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "综合"]
+    design_language:
+      silhouette: "BITURBO往复锯完整产品（含大电池），前黑后蓝分区，大电池使机身后部厚实，整体重心后置"
+      light_opening: "N/A"
+      thermal: "机身散热通道"
+      cmf:
+        color: "前黑（Overmold）+后蓝（机身）+CORE18V黑色大电池，BITURBO金色/橙色标识"
+        material: "注塑+橡胶Overmold+大容量锂电池"
+        finish: "哑光蓝+黑橡胶+电池橙红标识"
+      mounting: "CORE18V 8Ah大容量电池"
+      signature_detail: "BITURBO金色标识+CORE18V 8Ah大电池组合，视觉上强调'高功率+超长续航'定位"
+    design_level:
+      score: 4
+      reason: "BITURBO+CORE18V大电池的高端套装定位清晰，金色BITURBO标识提升品牌价值感"
+    design_tags: ["无线", "18V", "BITURBO", "往复锯", "大电池"]
+    hero_feature: "BITURBO金色标识+CORE18V大电池的组合——高端功率定位的双重视觉佐证"
+    problem_solved: "媲美有线的无线往复锯性能，长续航支持重度施工场景"
+    transferable_technique: "技术标签（金色BITURBO）+功率配件（大电池）的双重高端信号（H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_综合_006"
+    source_images:
+      - filename: "电锯__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__综合__06.jpg"
+        image_role: "hero"
+        visual_anchor: "18V无线导轨圆锯GKT18V-20GCL，深蓝色+黑色机身，银灰色大型铝合金导轨底板，蓝色调速旋钮，集尘接口，锯片局部可见"
+    product_name: "Bosch 18V Plunge Track Saw GKT18V-20GCL"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "综合"]
+    design_language:
+      silhouette: "无线导轨锯（浸入式），机身扁低，大面积银色铝合金导轨底板，锯片下沉，整体呈水平扁平轮廓"
+      light_opening: "N/A"
+      thermal: "机身散热孔"
+      cmf:
+        color: "深蓝色机身+银灰铝合金底板，黑色辅助细节，蓝色调速旋钮"
+        material: "注塑机身+铝合金导轨底板"
+        finish: "哑光蓝+银色铝合金"
+      mounting: "18V CORE系统（裸机）"
+      signature_detail: "无线导轨锯的扁平低矮轮廓；大面积银色铝底板是主视觉面；集尘设计接口"
+    design_level:
+      score: 4
+      reason: "无线导轨锯设计精密感强，银色铝底板与蓝色机身对比清晰，浸入式机构体现高精度定位"
+    design_tags: ["无线", "18V", "导轨锯", "浸入式", "铝底板", "精密切割"]
+    hero_feature: "大面积银色铝合金导轨底板——精密工具的主视觉面，传达精确切割能力"
+    problem_solved: "无线精密导轨切割，板材精加工场景，无需外接电源"
+    transferable_technique: "大面积银色金属底板作为精密感主视觉面（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_综合_007"
+    source_images:
+      - filename: "电锯__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__综合__07.jpg"
+        image_role: "hero"
+        visual_anchor: "有线斜切锯（Miter Saw），蓝白灰三色，大型圆形透明防护罩，红色锁紧调节件，银灰铝合金底座和延伸臂，刻度盘，顶部提携把手"
+    product_name: "Bosch Corded Sliding Miter Saw"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "综合"]
+    design_language:
+      silhouette: "台式斜切锯：上方有电机+圆形锯片+护罩，下方银灰铝台面，左右延伸支撑，整体呈T字形台式轮廓"
+      light_opening: "N/A"
+      thermal: "电机散热孔"
+      cmf:
+        color: "深蓝色电机壳，银灰色铝台面/延伸臂，透明护罩，红色锁紧功能件"
+        material: "注塑+铝合金台面+透明PC护罩"
+        finish: "哑光蓝+银铝+透明"
+      mounting: "有线"
+      signature_detail: "大型圆形透明护罩俯视可见锯片；红色角度锁紧件高对比；刻度盘铭刻精密感"
+    design_level:
+      score: 4
+      reason: "台式斜切锯的功能展示全面，透明护罩与铝台面结合感强，红色锁件对比鲜明，整体专业感强"
+    design_tags: ["有线", "斜切锯", "台式", "透明护罩", "铝合金台面"]
+    hero_feature: "透明圆形护罩——安全可视化，锯片状态一目了然"
+    problem_solved: "木工精密角度切割，斜切+复合斜切"
+    transferable_technique: "透明护罩的安全可视化设计——功能透明化（H09隐藏工程的反例，正向版：主动可视化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bosch_综合_008"
+    source_images:
+      - filename: "电锯__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/电锯/电锯__综合__08.jpg"
+        image_role: "hero"
+        visual_anchor: "18V BITURBO台式锯GTS18V-08（工作台锯），蓝白灰三色，大型白色台面，蓝色底座+BITURBO标识，透明圆形护罩，红色调节件，下方支架和轮子"
+    product_name: "Bosch 18V BITURBO Table Saw GTS18V-08"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "综合"]
+    design_language:
+      silhouette: "台式工作台锯：大型白色台面在上，蓝色电机底座在下，下方支架结构，整体呈工作站形态"
+      light_opening: "N/A"
+      thermal: "机身散热"
+      cmf:
+        color: "白色台面，深蓝色机身/底座，BITURBO橙色/白色标识，红色调节旋钮，透明护罩"
+        material: "注塑+铝台面+PC透明护罩"
+        finish: "白色台面+哑光蓝底座"
+      mounting: "18V BITURBO系统"
+      signature_detail: "白色大台面与蓝色底座的强烈对比；BITURBO标识在底座正面；下方滚轮支架设计"
+    design_level:
+      score: 5
+      reason: "台式锯用白色大台面+蓝色底座的强对比形成独特的工作站视觉语言，BITURBO无线台式锯概念创新，整体设计语言在工具品类中突出"
+    design_tags: ["无线", "18V", "BITURBO", "台式锯", "白色台面", "工作站形态"]
+    hero_feature: "白色台面+蓝色底座的强对比台式锯形态——无线台式锯的独特工作站视觉语言"
+    problem_solved: "提供无线自由移动的台式锯解决方案，消除固定安装限制"
+    transferable_technique: "白色功能面+蓝色动力底座的双色分区台式工具设计语言（H03分件线+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,103 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "铣"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/铣/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "festool_铣_001"
+    source_images:
+      - filename: "铣__修边机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/铣/铣__修边机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool OF 1010 REBQ 电动上置铣机，右前45度视角。黑色上机身（电机头），深灰蓝色手柄壳体。左侧大型黑色圆形旋钮控制深度锁定，带绿色刻度指示条；左端竖向精密标尺（毫米刻度）。底部白色圆形铣底板，透明导板局部可见，两根银色铣削导柱垂直贯穿连接上下。正面绿色圆形按钮（电源/锁定）。FESTOOL白色LOGO与OF 1010 REBQ型号印于深灰蓝机身。整体形态高挑竖向，专业感强。"
+      - filename: "铣__修边机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/铣/铣__修边机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool OF 2200 EB 大型电动上置铣机，正面视角。比OF 1010更大更高，两侧对称分布两个深灰蓝色握把（D形手柄）。黑色圆柱形电机头居中顶置。中部正面绿色显示窗口（电子调速/功能指示），透明导板中央可见铣刀夹头。底部白色大圆形铣底板，银色导柱更粗更长。整体对称结构，大型专业铣机形态。FESTOOL白色LOGO居中，OF 2200 EB型号标注。"
+    product_name: "Festool OF系列上置铣机（OF 1010 REBQ / OF 2200 EB）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "修边机"]
+    design_language:
+      silhouette: "高挑竖向柱形机身，上方电机头+中部握持区+下方导柱+底板四段式结构；OF 2200对称双握把，OF 1010单侧握把；导柱垂直贯穿是品类身份锚点"
+      light_opening: "N/A"
+      thermal: "顶部电机散热格栅，竖向排列，嵌入黑色电机头外壳"
+      cmf:
+        color: "黑色电机头，深灰蓝色握持壳体，绿色（Festool Green）控制按钮与指示条，白色底板，银色导柱与夹头"
+        material: "工程塑料机身，铝合金导柱与底板框架，透明PC底板观察窗，橡胶握把覆层"
+        finish: "黑色电机头哑光，深灰蓝壳体哑光，银色导柱光亮，白色底板哑光"
+      mounting: "有线（corded）"
+      signature_detail: "精密毫米刻度深度标尺，透明底板铣削观察窗，银色导柱精密导向系统，绿色电子调速显示窗（OF 2200）"
+    design_level:
+      score: 5
+      reason: "OF系列是铣机品类的系统设计标杆：精密刻度标尺+透明底板+导柱系统三项设计细节各有独立功能价值且视觉整合紧密；OF 2200的对称双握把+电子显示窗是专业铣机人机工程教科书；四段式分层造型（电机/握持/导向/底板）清晰传达功能逻辑"
+    design_tags: ["H03分件线", "H11功能外显", "H12人机界面强化", "H09隐藏工程", "H10材料表达"]
+    hero_feature: "精密毫米刻度深度标尺 + 透明底板观察窗 + 银色导柱导向系统三位一体——精密制造感与功能可视化的极致结合"
+    problem_solved: "木工精密铣槽/成型加工；透明底板让操作者实时观察铣削位置；刻度标尺精确控制铣削深度"
+    transferable_technique: "透明底板功能可视化手法（让用户看见关键操作点）；精密刻度标尺作为设计语言元素（精密感外显）；导柱精密导向系统的工业美学"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_铣_002"
+    source_images:
+      - filename: "铣__封边修边机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/铣/铣__封边修边机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool OFKC 500 EB 无线封边修边机，右侧90度视角。机身极度细长，深灰蓝色枪形握把，后部安装18V竖向锂电池包（绿色Festool标签，蓝牙图标）。前端为圆形转头，透明PC圆形底板（约30mm直径小底盘），底板旁附有黑色小型深度调节把手。机身绿色圆形电源按钮居中。FESTOOL白色LOGO与OFKC 500 EB型号印于机身。整体细长水平延伸，是Festool铣机系列中最紧凑的封边专用形态。"
+      - filename: "铣__封边修边机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/铣/铣__封边修边机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool OFK 500 Q 有线封边修边机，右侧90度视角。与OFKC 500 EB造型语言完全相同，差异在于末端为电源线（非电池包）。深灰蓝色细长机身，前端小型透明圆底板，绿色电源按钮，电源线绿色卡口收尾。更细更轻盈的有线版形态。FESTOOL白色LOGO与OFK 500 Q型号标注。"
+      - filename: "铣__封边修边机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/铣/铣__封边修边机__03.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool MFK 700 EB 无线封边修边机（18V），左后斜向视角，机器近乎竖立。深灰蓝色细长机身，后部18V电池包竖向向后倾斜约30度（非垂直），底部白色小椭圆形底板，左侧绿色调节旋钮（圆形小型）。底板金属导向板银色。FESTOOL白色LOGO与MFK 700 EB型号，Bluetooth图标。"
+      - filename: "铣__封边修边机__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/铣/铣__封边修边机__04.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool MFK 700 EQ 有线封边修边机，正面偏右视角，机器竖立。深灰蓝色纤细机身，前部白色底板+银色金属导向，侧面绿色调节拨块，顶部电源线插口。FESTOOL白色LOGO与MFK 700 EQ型号。整体造型与MFK 700 EB高度一致（有线vs无线同款设计系统）。"
+      - filename: "铣__封边修边机__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/铣/铣__封边修边机__05.jpg"
+        image_role: "variant"
+        visual_anchor: "Festool MFKC 700 KA EB 无线封边修边机（另一型号规格），与MFK 700 EB视角构图相似，侧面斜向展示。深灰蓝机身，18V电池包向后倾斜，底部白色底板+银色导向。与MFK 700系列高度一致，型号数字差异体现规格细分。"
+      - filename: "铣__封边修边机__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/铣/铣__封边修边机__06.jpg"
+        image_role: "variant"
+        visual_anchor: "Festool MFK 700 EQ 有线版（另一角度/光线版本），正面视角，竖立展示。与__04图为同款，构图略有差异，展示产品前部导向系统与底板细节更清晰。银色导向板、绿色调节拨块、白色底板三元素清晰可见。"
+    product_name: "Festool 封边修边机系列（OFK 500 / OFKC 500 / MFK 700 / MFKC 700）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "铣", "封边修边机"]
+    design_language:
+      silhouette: "极细长水平延伸（OFK/OFKC）或纤细竖立（MFK）形态，是封边修边专用形态；小型圆/椭圆透明底板；侧面深度调节旋钮/拨块为操控核心"
+      light_opening: "N/A"
+      thermal: "细长机身散热格栅嵌入侧面，不显眼"
+      cmf:
+        color: "深灰蓝色机身，绿色控制旋钮/拨块，白色底板，银色导向金属件，18V电池包绿色Festool标签"
+        material: "工程塑料机身，白色ABS底板，银色铝制/钢制导向板，透明PC铣削观察窗，橡胶绑带卡扣"
+        finish: "哑光深灰蓝机身，银色光亮导向件，白色底板哑光，绿色调节件哑光橡胶质感"
+      mounting: "有线（OFK 500 Q / MFK 700 EQ）与无线（OFKC 500 EB / MFK 700 EB 18V）各半，同设计语言覆盖两种供电"
+      signature_detail: "极细长机身形态（封边作业专用）；白色底板+银色金属导向板组合；有线/无线同造型系统；绿色调节拨块统一品牌语法"
+    design_level:
+      score: 5
+      reason: "封边修边机形态专业化极致——细长机身是功能驱动的正确造型，没有多余体量；有线/无线版共用同一造型系统是Festool最成功的系列化策略之一；6张图片覆盖完整产品矩阵（2尺寸×2供电×2视角），展示Festool系统化图库管理能力；白色底板+银色导向的CMF组合在深灰蓝主色衬托下形成精准视觉层次"
+    design_tags: ["H07极简整合", "H03分件线", "H11功能外显", "H05模块化", "H10材料表达"]
+    hero_feature: "极度纤细的专业化机身形态——比同类产品细2-3倍，适合封边操作空间狭小的作业环境，形态即功能说明书"
+    problem_solved: "板材/家具封边精修作业；细长机身适合沿边缘操作，不碍视线；透明底板实时确认铣削位置；有线/无线满足不同工地环境需求"
+    transferable_technique: "极度功能专业化形态策略（为特定操作场景定制极端比例）；同一视觉系统覆盖有线/无线产品线的设计策略；白色底板作为视觉轻量化+功能可见性两用元素"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

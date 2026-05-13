@@ -1,0 +1,328 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内壁灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/室内壁灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "flos_室内壁灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/室内壁灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "纯白磨砂玻璃正圆球体，中央有一个精小的双槽铬色金属扣件，无可见安装臂，球体几乎贴墙浮悬"
+    product_name: "Mini Glo-Ball Wall"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "球形贴墙"]
+    design_language:
+      silhouette: "完整正圆球体被墙面截断一小部分，大于3/4球体可见；中央扣件极小，不干扰球形轮廓完整性"
+      light_opening: "乳白磨砂玻璃全向漫射，包括向上、向下、向前方向；贴墙后向前和两侧方向为主要照明区域"
+      thermal: "小功率内置光源，球体玻璃不参与散热；推测背部安装板内集成小型散热片"
+      cmf:
+        color: "乳白磨砂玻璃，单色纯白；中央扣件镀铬亮银"
+        material: "口吹磨砂玻璃球 + 铬合金中央扣件"
+        finish: "玻璃均匀磨砂；扣件高光镀铬"
+      mounting: "贴墙直装，背部隐藏安装板固定于墙面，球体正面中央扣件为拆装接口"
+      signature_detail: "中央双槽铬色扣件——是唯一暴露的非玻璃元素，被精心设计为珠宝级细节；两个平行槽线提供旋转安装功能同时构成极简图案"
+    design_level:
+      score: 4
+      reason: "Jasper Morrison Glo-Ball系列壁灯版本，形态纯粹度极高；中央扣件是点睛细节；贴墙球体视觉张力强"
+    design_tags: ["球形", "磨砂玻璃", "贴墙", "扣件细节", "极简", "漫射", "Jasper Morrison"]
+    hero_feature: "中央双槽铬色扣件——在全白球体上的唯一金属点，功能件被精炼为珠宝级装饰语言"
+    problem_solved: "走廊/卧室需要柔和漫射壁灯，同时不希望有外露安装结构；球体形态和贴墙安装实现最高简洁度"
+    transferable_technique: "「功能扣件即装饰焦点」策略——将不可避免的安装/维修接口设计为视觉主角；可迁移至任何需要可见固定件的灯具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_室内壁灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/室内壁灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "长斜臂壁灯——灰色金属矩形墙托，蓝色长斜臂从墙托向右下方大角度斜伸，末端黄色锥形手柄，底部红色半球形灯头朝下，中段有钢缆三角支撑"
+    product_name: "265 Wall"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "长臂调节"]
+    design_language:
+      silhouette: "超长对角斜臂——长宽比约5:1；臂从墙托向斜下方大角度延伸，整体呈大斜线构图；灯头朝下、手柄朝上，方向对立"
+      light_opening: "红色半球形反射罩向下直接投光；下照集中光，类似工作台灯的定向照明；无漫射"
+      thermal: "开放式半球反射罩，热量向上散逸；臂中段空心走线，无需额外散热结构"
+      cmf:
+        color: "蓝色臂杆 + 黄色锥形手柄端头 + 红色半球灯头 + 灰色金属墙托；多色撞色，Memphis风格"
+        material: "钢管臂 + 铸铝反射罩 + 钢缆 + 金属墙托"
+        finish: "各部件独立色烤漆；无金属裸露质感"
+      mounting: "矩形金属墙托贴墙固定，斜臂通过铰链连接可调整角度；钢缆三角结构提供机械支撑"
+      signature_detail: "三角钢缆支撑结构——将工业起重机的受力逻辑直接可见化，成为设计语言核心；撞色三段式（蓝臂+黄端+红头）打破工具灯单色惯例"
+    design_level:
+      score: 5
+      reason: "Paolo Rizzatto 1973年设计，工业力学美学的经典表达；三角张拉结构既是功能必需也是视觉核心；Memphis撞色策略大胆；影响整个工作壁灯品类"
+    design_tags: ["长臂", "斜臂", "钢缆支撑", "Memphis撞色", "工业美学", "下照", "可调节", "Paolo Rizzatto"]
+    hero_feature: "三角钢缆支撑结构——起重机力学逻辑的直白展示，拒绝隐藏结构，让受力路径成为视觉主体"
+    problem_solved: "需要从墙面大范围延伸的工作照明，同时支臂要足够轻量；钢缆三角结构以最小材料截面实现最大跨度"
+    transferable_technique: "暴露受力结构作为设计语言（张拉结构可见化）；撞色多件策略将功能部件差异化；可迁移至工业风台灯、博物馆展示照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_室内壁灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/室内壁灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑圆形薄碟形光盘，由矩形壁装支架托举；光盘面向斜上方约15度倾角，圆盘边缘可见薄白色出光带"
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/室内壁灯/05.jpg"
+        image_role: "alternate_angle"
+        visual_anchor: "相同产品的较远视角，可见圆盘整体轮廓更清晰，支架连接关系更明确；圆盘比支架体量大约3倍"
+    product_name: "Almendra Wall"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "圆盘上照"]
+    design_language:
+      silhouette: "大圆薄碟体 + 小矩形壁托；圆盘厚度约为直径的1/12，极度扁平；支架截面紧凑，圆盘主导造型"
+      light_opening: "圆盘上表面边缘LED环形出光带，向上投射洗墙光；内表面向外辐射作为间接光补充；以上照漫射为主"
+      thermal: "圆盘背面铝基板集成LED和散热片；支架内走线；整体散热面积充足"
+      cmf:
+        color: "全哑黑（03.jpg）；支架同色"
+        material: "铸铝圆盘 + 铝合金支架"
+        finish: "整体哑黑粉末涂层，无高光对比"
+      mounting: "矩形壁托贴墙固定，圆盘通过单点连接悬臂；固定后圆盘倾角固定约15度向上"
+      signature_detail: "圆盘与矩形支架的几何对比——圆滑盘体与直角支架形成硬/软、圆/方的对话；单点悬臂让圆盘看似悬浮"
+    design_level:
+      score: 4
+      reason: "Patricia Urquiola设计，上照洗墙策略优雅；圆盘比例极佳；哑黑全色调统一，质感克制"
+    design_tags: ["圆盘", "上照", "洗墙", "哑黑", "悬臂", "间接光", "Patricia Urquiola"]
+    hero_feature: "大圆薄碟悬臂单点连接——圆盘以极小支撑点悬浮，倾斜角度让出光朝上洗墙，形式与功能高度统一"
+    problem_solved: "卧室/走廊需要柔和上照间接光，避免直接眩光；圆盘形态提供大面积反射面，光效均匀"
+    transferable_technique: "单点悬臂圆盘结构；上照洗墙策略（LED置于盘边缘向上）；圆盘+矩形支架的几何对比语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_室内壁灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/室内壁灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "产品双版本对比图——左侧为完整乳白磨砂椭球体壁灯（Glo-Ball W），右侧为同款半切割版本（Glo-Ball W½），半球体平面贴墙"
+    product_name: "Glo-Ball W / W½"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "球形/半球形"]
+    design_language:
+      silhouette: "左：完整椭球体（W版）贴墙安装，墙面截断约1/4球体；右：精确半切球体（W½版），平面贴墙，正面呈完整圆形轮廓"
+      light_opening: "W版：全向漫射（前/上/下/侧均有出光）；W½版：向前半球面漫射为主，向上向下均有光溢出；均为均匀柔和漫射光"
+      thermal: "背部安装板内集成光源和散热；玻璃体不参与主动散热"
+      cmf:
+        color: "全系乳白磨砂玻璃，无彩色"
+        material: "口吹磨砂玻璃（W版完整球，W½版精确切割半球）+ 金属安装底板"
+        finish: "玻璃均匀磨砂，光线透出时呈均匀发光体"
+      mounting: "金属底板贴墙固定；W版球体稍微离墙，W½版平面完全贴墙，安装更稳固"
+      signature_detail: "W½版的精确切割平面——将球体沿对称轴精确一分为二，截面完美平整贴墙，哲学感强；两个版本共线形成同一系列的不同答案"
+    design_level:
+      score: 5
+      reason: "Jasper Morrison经典，W½版本的半切球策略是品类创新；同一形态语言延伸为全球/半球两种安装逻辑，系列完整性高"
+    design_tags: ["球形", "半球形", "磨砂玻璃", "系列策略", "漫射", "Jasper Morrison", "极简"]
+    hero_feature: "精确半切球体（W½）——将完整球体沿中轴截断，平面贴墙，正面保持完整圆形轮廓；几何纯粹性极高"
+    problem_solved: "W版适合需要四向漫射的壁灯；W½版适合需要更贴合墙面、减少突出深度的场景；同一形态语言满足不同空间需求"
+    transferable_technique: "「完整形态与截断形态构成系列」策略——同一设计对象的完整版和切割版形成产品线；可迁移至台灯、落地灯的系列化策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_室内壁灯_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/室内壁灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "纯白哑光T形几何体壁灯——竖向矩形主体，横向矩形臂从中部向左水平延伸，全部直角无圆角，底部可见窄白色LED出光缝"
+    product_name: "Serif Wall"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "几何体块"]
+    design_language:
+      silhouette: "T形（或倒置字母「⊥」形）三维几何体；竖杆高宽比约3:1，横臂长约为竖杆宽度的2倍；所有面平整，所有边直角，无任何曲面"
+      light_opening: "底部水平窄缝LED出光，向下直接投射线形光；出光口极窄（约5mm），光线集中"
+      thermal: "封闭铝合金几何体，内腔大，散热条件好；LED位于底部，热量向上传导至主体散逸"
+      cmf:
+        color: "全哑白（图示），无对比色"
+        material: "铸铝/铝合金几何体"
+        finish: "哑白粉末涂层，无高光，无纹理"
+      mounting: "竖向主体背面贴墙安装，整体固定无可调节部件"
+      signature_detail: "T形几何体的「塞里夫」语义——字体设计中serif（衬线）是笔划末端的横线；横臂即衬线，将「灯具即文字」的概念三维化"
+    design_level:
+      score: 4
+      reason: "概念来自字体设计，跨领域迁移逻辑清晰；全直角几何体在壁灯品类独特；LED底缝出光克制有张力"
+    design_tags: ["T形", "几何体块", "全直角", "LED缝光", "下照", "哑白", "概念驱动"]
+    hero_feature: "T形体块本身即完整造型——无附加元素，几何体即是灯；字体衬线的三维转译使概念可读"
+    problem_solved: "需要强烈雕塑感的壁面装饰照明，同时功能性底部投光满足实用需求；全封闭几何体屏蔽一切非必要视觉信息"
+    transferable_technique: "跨领域形态借用（字体→灯具）；「几何体底部开缝出光」策略——封闭体量+最小出光口；可迁移至台灯底座、嵌入式夜灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_室内壁灯_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/室内壁灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "垂直沙漏/双锥形镀铬金属柱体，上宽下宽中间收腰，表面高光镀铬，顶部和底部为开口，无可见安装件"
+    product_name: "Clessidra Wall"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "上下双照"]
+    design_language:
+      silhouette: "双锥形沙漏旋转体——上下两个锥体共享中心收腰点，整体对称于水平中轴；高宽比约2.5:1，中腰收缩比约0.6:1"
+      light_opening: "顶部开口向上投光（上照），底部开口向下投光（下照）；双向开口，典型上下洗墙型壁灯"
+      thermal: "金属体量大，整体为散热件；镀铬铝壳通过表面辐射和对流散热"
+      cmf:
+        color: "全高光镀铬，单一金属色"
+        material: "旋制铝合金 + 镀铬处理"
+        finish: "高光镜面镀铬，强反射，映出周围环境"
+      mounting: "背部隐藏安装板贴墙固定；从正面完全看不到安装结构"
+      signature_detail: "镜面沙漏形态——高光镀铬表面将「沙漏」变为环境镜，反射周围空间；从任何角度看都有不同光影变化"
+    design_level:
+      score: 5
+      reason: "Antonio Citterio设计；沙漏形旋转体在壁灯品类极罕见；镜面镀铬赋予形态环境感知能力；上下双照光效平衡"
+    design_tags: ["沙漏形", "双锥", "镀铬", "镜面", "上下双照", "旋转体", "Antonio Citterio"]
+    hero_feature: "镜面镀铬沙漏旋转体——形态本身成为环境镜；光从上下两端射出，同时反射在高光曲面上形成光晕"
+    problem_solved: "需要上下双向洗墙壁灯同时兼具强烈雕塑感；镜面处理让灯具在不点亮时仍是艺术品"
+    transferable_technique: "旋转体沙漏轮廓；镜面金属体同时作为反射器和装饰件；上下双开口对称出光策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_室内壁灯_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/室内壁灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "高光镀铬折面壁灯，整体形似从墙面探出的折叠信封或扬起的翻领；正面中央有两条水平LED出光缝，整体面宽大于高"
+    product_name: "Pochette Wall"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "折面前照"]
+    design_language:
+      silhouette: "向前倾斜的折面梯形体——顶部向前倾出，底部向后收，形成「翻领」或「探出」的动态姿态；正面为轻微曲面，非平面"
+      light_opening: "底部两条平行水平LED缝向前下方投光；缝光定向，照亮正前方墙面/桌面区域"
+      thermal: "金属折面体腔内置LED板；高光金属表面辅助散热"
+      cmf:
+        color: "高光镀铬，强反射金属质感"
+        material: "钣金折弯 + 镀铬处理"
+        finish: "高光镜面镀铬"
+      mounting: "背部直接贴墙安装，前面板可拆装以检修LED"
+      signature_detail: "「翻领」折面造型——顶面向前倾斜约30度，将工程上必须的安装角度转化为设计语言，让灯具有了「姿态」和方向感"
+    design_level:
+      score: 4
+      reason: "Giulio Lazzotti设计；折面语言在镀铬材质上表现力极强；底部LED缝光功能精准；整体形态记忆点清晰"
+    design_tags: ["折面", "镀铬", "翻领形", "缝光", "钣金", "前照", "动态姿态"]
+    hero_feature: "向前倾斜的折面翻领造型——拒绝垂直贴墙，赋予壁灯方向感和探出姿态"
+    problem_solved: "需要定向前照壁灯（如阅读、画框照明），同时希望造型有雕塑感而非普通射灯外观"
+    transferable_technique: "折面赋予静态物体动态姿态；「倾斜前倾」作为出光方向的形态语言；钣金折弯+镀铬的成本效益比高"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_室内壁灯_008"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/室内壁灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑矩形壁灯，竖向主臂贴墙，中部铰接横臂向右延伸，横臂末端再接斜向LED光棒头；全部矩形截面，铰接点可见三角形金属连接件"
+    product_name: "Kelvin LED Wall"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "铰接长臂"]
+    design_language:
+      silhouette: "三段折叠臂——竖向主臂（约400mm高）+ 水平横臂（约500mm）+ 斜向LED光棒头（约400mm）；每段矩形截面，铰接处可见金属节点；整体呈Z字展开形"
+      light_opening: "末端LED光棒侧面出光，线形照射工作面；定向下照，提供精准任务照明"
+      thermal: "铝合金矩形臂作为散热路径；LED热量通过臂件传导至壁面安装座散逸"
+      cmf:
+        color: "全哑黑（图示）；铰接节点同色"
+        material: "铝合金矩形挤型截面臂 + 铝合金铸造铰接件"
+        finish: "哑黑粉末涂层，统一无对比"
+      mounting: "竖向主臂通过两个螺钉贴墙固定；铰接点可调整横臂和光棒头角度"
+      signature_detail: "三角形铰接节点——将机械铰链设计为可见的三角形连接件；结构关键点被强化而非隐藏，Flos Kelvin系列标志性细节"
+    design_level:
+      score: 4
+      reason: "Antonio Citterio设计；多段折叠臂系统提供高度灵活性；三角铰接节点是品牌识别细节；哑黑全色调整洁有力"
+    design_tags: ["折叠臂", "铰接", "三角节点", "任务照明", "哑黑", "线形LED", "可调节", "Antonio Citterio"]
+    hero_feature: "三角形铰接节点——将折叠机构的关键受力点设计为显眼的三角形金属件，结构逻辑清晰外化"
+    problem_solved: "书桌/床头需要长臂可调节工作照明，同时要求精准任务光；三段折叠系统在小安装面积实现大覆盖范围"
+    transferable_technique: "铰接节点可见化并设计化；矩形铝合金挤型截面兼顾结构强度+散热+美观；三段折叠系统的动态覆盖策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_室内壁灯_009"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/室内壁灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "赤陶/铁锈色竖向细长圆柱壁灯，表面有细密纵向槽纹；上方方形小壁托，下方细圆柱延伸末端有可旋转小椭圆形聚光灯头"
+    product_name: "Flauta Spot Wall"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯", "竖管聚光"]
+    design_language:
+      silhouette: "细长竖向圆柱管体，高宽比约8:1；顶部方形壁托固定，圆管从壁托底部垂下，末端接可旋转小椭圆聚光头；轮廓纤细挺直"
+      light_opening: "末端可旋转椭圆聚光头，定向集中投光；可在约270度范围内旋转调节光向；聚光非漫射"
+      thermal: "圆柱管表面有纵向槽纹（类似长笛音孔）增加散热面积；灯头内LED小型化，热量通过金属管传导"
+      cmf:
+        color: "赤陶/铁锈色（terracotta）全体统一色；灯头同色"
+        material: "铝合金圆管 + 铸铝聚光灯头"
+        finish: "赤陶色亚光粉末涂层；槽纹表面增加触感层次"
+      mounting: "顶部方形壁托贴墙固定，圆管垂直悬挂；灯头可旋转调向"
+      signature_detail: "纵向槽纹圆管——视觉参考长笛（Flauta）形态；槽纹同时提供功能（增强散热面积）和装饰（线性纹理）双重价值"
+    design_level:
+      score: 4
+      reason: "形态命名与造型高度统一（Flauta=长笛）；赤陶色在Flos产品线中独特；槽纹细节精致；聚光头实用性强"
+    design_tags: ["竖管", "槽纹", "聚光", "赤陶色", "可调节", "长笛形态", "纵向线条"]
+    hero_feature: "纵向槽纹圆柱管——长笛形态直译，槽纹同时是功能（散热）和造型（纹理）的双重表达"
+    problem_solved: "需要纤细低调的壁面聚光灯，同时希望有独特材质感而非工业黑/白；赤陶色和槽纹提供温暖有机质感"
+    transferable_technique: "「命名即形态」的概念一致性策略；槽纹表面作为散热+装饰双功能处理；可旋转小灯头配细长固定管体的组合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

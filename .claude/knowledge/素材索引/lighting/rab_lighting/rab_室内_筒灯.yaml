@@ -1,0 +1,359 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内灯"
+  tertiary: "筒灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/筒灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "rab_筒灯_001"
+    source_images:
+      - filename: "01__from商用筒灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/筒灯/01__from商用筒灯.jpg"
+        image_role: "hero"
+        visual_anchor: "宽沿环形筒体+深锥形反射腔+顶部密齿散热鳍片"
+    product_name: "RAB 商用嵌入筒灯（深锥腔款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "筒灯"]
+    design_language:
+      silhouette: "大直径扁圆碟形，宽平沿+深锥形内腔，比例约3:1"
+      light_opening: "深锥形反射腔，腔内半光泽白色，无挡光板"
+      thermal: "顶部一圈密排竖向黑色散热鳍片，视觉识别度高"
+      cmf:
+        color: "本体白色，散热片黑色，弹簧夹银色"
+        material: "压铸铝散热体，注塑白色面板"
+        finish: "哑光白喷涂，散热片黑色阳极氧化"
+      mounting: "弹片式嵌入安装，两侧对称弹夹"
+      signature_detail: "黑色散热齿冠与白色灯体形成强烈色彩对比，是该款最显眼的工程美学表达"
+    design_level:
+      score: 4
+      reason: "散热鳍片与灯体黑白对比处理有设计意图，深锥腔比例考究，整体工程感与美观性平衡较好"
+    design_tags: ["深锥腔", "黑白对比散热", "商用嵌入", "宽沿"]
+    hero_feature: "顶部一圈黑色密齿散热鳍片与白色灯体形成鲜明对比"
+    problem_solved: "商业空间大功率筒灯的散热与美观兼顾"
+    transferable_technique: "散热结构色彩对比化处理，将工程必要件转化为视觉标识"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_筒灯_002"
+    source_images:
+      - filename: "02__from商用筒灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/筒灯/02__from商用筒灯.jpg"
+        image_role: "hero"
+        visual_anchor: "宽平沿+深锥腔+顶部灰色圆柱接线盒"
+    product_name: "RAB 商用嵌入筒灯（灰盒款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "筒灯"]
+    design_language:
+      silhouette: "大直径扁碟形，宽平沿+深锥内腔，顶部带圆柱形灰色接线盒"
+      light_opening: "深锥形反射腔，腔壁全白哑光"
+      thermal: "无外露散热鳍片，热管理内置于灰色金属接线盒中"
+      cmf:
+        color: "面板白色，接线盒灰色，弹夹银色"
+        material: "压铸铝盒体，注塑白色面环"
+        finish: "哑光白+金属灰"
+      mounting: "弹片嵌入，两侧对称弹夹"
+      signature_detail: "灰色金属圆柱接线盒与白色灯体分件清晰，结构诚实感强"
+    design_level:
+      score: 3
+      reason: "结构清晰诚实，无多余装饰，但整体设计语言平实，无突出亮点"
+    design_tags: ["分件结构", "工程直白", "商用嵌入", "接线盒外露"]
+    hero_feature: "灰色金属接线盒与白色面环形成材质与颜色双重分件"
+    problem_solved: "商业空间标准嵌入照明，安装维护便捷"
+    transferable_technique: "功能件分件上色，使结构层次可读"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_筒灯_003"
+    source_images:
+      - filename: "04__from商用筒灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/筒灯/04__from商用筒灯.jpg"
+        image_role: "hero"
+        visual_anchor: "宽沿扁碟形+浅碗状漫射面+顶部外露铝制驱动模块"
+    product_name: "RAB 嵌入筒灯（漫射碗面款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "筒灯"]
+    design_language:
+      silhouette: "宽平沿+浅碗状内腔，腔深较浅，整体扁平感强"
+      light_opening: "半透明磨砂漫射面板，碗形微凹，出光均匀柔和"
+      thermal: "顶部金属散热模块外露，银色拉丝铝质感"
+      cmf:
+        color: "面板白色，驱动模块银色铝，弹夹黑色"
+        material: "注塑面环，铝制驱动盒，磨砂漫射罩"
+        finish: "哑光白+拉丝银铝"
+      mounting: "弹片嵌入，弹夹黑色塑料"
+      signature_detail: "磨砂漫射碗面替代反射腔，出光柔和无眩光，适合住宅感场景"
+    design_level:
+      score: 3
+      reason: "漫射面方案实用，但外露驱动模块与面板风格略有割裂感"
+    design_tags: ["漫射出光", "浅碗形", "嵌入式", "住宅向"]
+    hero_feature: "浅碗形磨砂漫射面，整面均匀发光无点光源感"
+    problem_solved: "住宅或精品零售场景需要柔和无眩光嵌入照明"
+    transferable_technique: "碗形漫射面替代深腔反射器，改变出光质感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_筒灯_004"
+    source_images:
+      - filename: "07__from商用筒灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/筒灯/07__from商用筒灯.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆形面环+磨砂平面漫射板+红色内圈+弹夹"
+    product_name: "RAB 嵌入筒灯（红圈标识款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "筒灯"]
+    design_language:
+      silhouette: "圆形扁平体，宽面环包裹磨砂漫射板，整体极低剖面"
+      light_opening: "全平磨砂漫射面，与面环齐平，无内腔深度"
+      thermal: "无外露散热结构，超薄设计内置驱动"
+      cmf:
+        color: "面环白色，内圈红色点缀，弹夹银+黑"
+        material: "注塑面环，磨砂漫射板"
+        finish: "哑光白+局部红色"
+      mounting: "弹片嵌入，弹夹金属银色+黑色塑料"
+      signature_detail: "红色内圈是RAB品牌色彩标识的延伸，功能性与品牌识别性合一"
+    design_level:
+      score: 4
+      reason: "红色品牌色内圈设计是有意识的品牌语法植入，超薄轮廓干净，是RAB系列中设计意图最明确的一款"
+    design_tags: ["品牌色标识", "超薄", "平漫射面", "红圈"]
+    hero_feature: "白色面环内嵌一圈红色品牌色，既是装饰也是安装指示"
+    problem_solved: "需要品牌识别度的嵌入筒灯，同时实现超薄安装深度"
+    transferable_technique: "品牌色彩植入功能性分件线，让结构缝成为品牌表达"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_筒灯_005"
+    source_images:
+      - filename: "08__from商用筒灯.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/筒灯/08__from商用筒灯.jpg"
+        image_role: "hero"
+        visual_anchor: "全白球帽形漫射罩+无框嵌入+黑色弹夹"
+    product_name: "RAB 嵌入筒灯（球帽漫射款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "筒灯"]
+    design_language:
+      silhouette: "圆形球帽形漫射罩，向下微凸，无可见面环，嵌入后几乎与天花齐平"
+      light_opening: "整个球帽面均匀漫射，无方向感出光"
+      thermal: "内置，无外露散热"
+      cmf:
+        color: "全白，仅弹夹黑色"
+        material: "乳白漫射罩（光学级注塑）"
+        finish: "光滑乳白"
+      mounting: "弹片嵌入，弹夹极简黑色"
+      signature_detail: "球帽造型使筒灯嵌入后视觉上像一颗发光的珍珠，无框极简"
+    design_level:
+      score: 4
+      reason: "球帽无框造型有独特记忆点，嵌入后视觉干净，漫射球面在筒灯品类中少见"
+    design_tags: ["球帽漫射", "无框极简", "嵌入式", "全漫射"]
+    hero_feature: "球帽形乳白漫射罩，无面环，嵌入天花后呈珍珠状发光球"
+    problem_solved: "高端住宅或精品空间需要极简无框嵌入点光源"
+    transferable_technique: "用球帽漫射罩替代传统面环+反射腔，实现无框嵌入感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_筒灯_006"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/筒灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "超薄圆环框+平漫射面+金属弧形弹夹"
+    product_name: "RAB 嵌入筒灯（超薄无腔款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "筒灯"]
+    design_language:
+      silhouette: "超薄圆环形，面板与环框几乎等高，整体厚度极低"
+      light_opening: "平整磨砂漫射面，与框齐平，无深度感"
+      thermal: "无外露散热，超薄内置"
+      cmf:
+        color: "全白，弹夹银白金属"
+        material: "注塑环框，磨砂漫射板，金属弧形弹夹"
+        finish: "哑光白，弹夹拉丝银"
+      mounting: "弧形金属弹夹嵌入，弹夹造型优雅"
+      signature_detail: "弧形优雅金属弹夹是该款的工程美学亮点，弹夹本身成为设计细节"
+    design_level:
+      score: 3
+      reason: "超薄比例合理，弧形弹夹有细节感，但整体语言中规中矩"
+    design_tags: ["超薄", "弧形弹夹", "平漫射", "嵌入式"]
+    hero_feature: "优雅弧形金属弹夹，安装件本身具有设计感"
+    problem_solved: "低楼层或无吊顶空间需要超薄嵌入筒灯"
+    transferable_technique: "将安装弹夹设计为可见设计细节而非纯粹工程件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_筒灯_007"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/筒灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "可调角度头部+圆形宽面环+偏移漫射面"
+    product_name: "RAB 可调角嵌入筒灯"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "筒灯"]
+    design_language:
+      silhouette: "圆形宽面环+内部可旋转调角灯头，头部偏心安装于面环内"
+      light_opening: "圆形漫射面，安装于可调头部，可偏转方向"
+      thermal: "无外露散热，内置"
+      cmf:
+        color: "全白，弹夹黑色"
+        material: "注塑面环，铝制调角机构"
+        finish: "哑光白"
+      mounting: "弹片嵌入，宽面环遮蔽开孔"
+      signature_detail: "灯头在面环内可偏转，实现壁面重点照明，调角机构内嵌不外露"
+    design_level:
+      score: 3
+      reason: "调角功能实用，但造型语言平实，调角机构处理较普通"
+    design_tags: ["可调角", "重点照明", "嵌入式", "偏转头"]
+    hero_feature: "面环内可偏转调角灯头，兼顾嵌入整洁与重点照明灵活性"
+    problem_solved: "需要重点照明方向灵活调节的展陈或零售空间"
+    transferable_technique: "调角机构内嵌于面环内，保持天花面整洁"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_筒灯_008"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/筒灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形面环+密布透气孔+深腔COB光源+顶部黑色齿轮状散热"
+    product_name: "RAB 高功率嵌入筒灯（透气孔面环款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "筒灯"]
+    design_language:
+      silhouette: "宽圆形面环满布圆形透气孔，内腔深，顶部黑色齿轮状散热体"
+      light_opening: "深腔，腔底COB点光源清晰可见，高光束集中"
+      thermal: "顶部黑色铸铝齿轮状大型散热体，是最突出的视觉特征"
+      cmf:
+        color: "面环白色，散热体黑色，腔内银灰"
+        material: "压铸铝散热体，注塑白色面环"
+        finish: "白色喷涂面环，黑色阳极氧化散热"
+      mounting: "嵌入式，无可见弹夹（从顶部安装）"
+      signature_detail: "面环上密布的圆形透气孔阵列是功能外显的设计语言，形成独特纹理"
+    design_level:
+      score: 4
+      reason: "透气孔阵列面环+黑色齿轮散热双重工程美学处理，设计意图清晰，高功率散热与外观统一"
+    design_tags: ["透气孔阵列", "COB深腔", "黑色散热体", "高功率"]
+    hero_feature: "面环满布圆形透气孔阵列，将被动散热需求转化为视觉纹理语言"
+    problem_solved: "高功率商业照明的散热与视觉标识需求"
+    transferable_technique: "透气孔阵列作为功能性装饰纹理，工程与美观一体化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_筒灯_009"
+    source_images:
+      - filename: "222 (1).jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/筒灯/222 (1).jpg"
+        image_role: "hero"
+        visual_anchor: "宽沿圆形面环+平面漫射板+顶部白色塑料接线盒+折叠弹夹"
+    product_name: "RAB 嵌入筒灯（折叠弹夹款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "筒灯"]
+    design_language:
+      silhouette: "宽平沿圆形面环，平漫射板，顶部白色矩形接线盒"
+      light_opening: "平整漫射面板，浅腔"
+      thermal: "内置，无外露散热"
+      cmf:
+        color: "全白，弹夹白色折叠结构"
+        material: "注塑面环，白色塑料接线盒"
+        finish: "哑光白"
+      mounting: "折叠式白色弹夹，安装方式可见"
+      signature_detail: "折叠弹夹与白色接线盒均为白色统一处理，整体色彩高度统一"
+    design_level:
+      score: 2
+      reason: "全白色处理统一但过于平淡，接线盒与灯体分件感弱，设计无明显亮点"
+    design_tags: ["全白统一", "折叠弹夹", "平漫射", "嵌入式"]
+    hero_feature: "全白色统一处理，安装件与灯体浑然一体"
+    problem_solved: "标准住宅嵌入照明，安装简便"
+    transferable_technique: "安装弹夹与本体同色处理，消除视觉割裂"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "rab_筒灯_010"
+    source_images:
+      - filename: "222 (2).jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/rab_lighting/室内灯/筒灯/222 (2).jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆形漫射面+顶部金属银色方形接线箱+弹夹"
+    product_name: "RAB 嵌入筒灯（金属接线箱款）"
+    brand_name: "RAB Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内灯", "筒灯"]
+    design_language:
+      silhouette: "圆形低矮灯体，顶部安装大型矩形金属接线箱"
+      light_opening: "圆形漫射面，浅腔均匀出光"
+      thermal: "金属接线箱兼作散热体"
+      cmf:
+        color: "灯体白色，接线箱原铝银色+镀锌钢"
+        material: "注塑灯体，压铸铝/镀锌钢接线箱"
+        finish: "白色喷涂+金属原色"
+      mounting: "弹片嵌入，配大型金属接线箱"
+      signature_detail: "大型金属接线箱外露，符合美国电气规范，工程诚实感强"
+    design_level:
+      score: 2
+      reason: "典型北美电气规范驱动产品，接线箱比灯体更显眼，工程优先设计语言"
+    design_tags: ["金属接线箱", "电气规范", "工程优先", "嵌入式"]
+    hero_feature: "大型金属接线箱完整展示，符合NEC规范要求"
+    problem_solved: "符合北美电气规范的标准嵌入照明安装"
+    transferable_technique: "将合规性要求的结构件设计为可辨识的品牌工程语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,429 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "头戴耳机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_headphone_001"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/09.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形大耳罩特写，黑色皮质软垫内可见金属网状振膜，分件线清晰"
+    product_name: "MDR-Z7M2"
+    brand_name: "Sony"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "圆形封闭式大耳罩，有线设计，侧面弧形调节滑块"
+      light_opening: "封闭式，内侧金属网振膜可见"
+      thermal: "封闭腔体，无散热开口"
+      cmf:
+        color: "全黑（matte black）"
+        material: "仿皮软垫 + ABS外壳 + 金属调节臂"
+        finish: "消光黑，皮质哑光"
+      mounting: "头戴旋转折叠，单边出线"
+      signature_detail: "L标识金属片嵌在铰链处，振膜网面通过软垫内圈可见"
+    design_level:
+      score: 4
+      reason: "工程美感突出，细节精密，振膜内视觉语言有说服力，旗舰有线耳机典型语法"
+    design_tags: ["封闭式", "有线", "全黑", "皮质软垫", "旗舰监听", "金属铰链", "H09隐藏工程"]
+    hero_feature: "内侧金属振膜网面透过软垫圆圈可见，功能外显转化为设计语言"
+    problem_solved: "专业监听需求下兼顾佩戴舒适性与外观专业感"
+    transferable_technique: "功能部件（振膜网）作为视觉中心，H11功能外显手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_headphone_002"
+    source_images:
+      - filename: "108.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/108.jpg"
+        image_role: "hero"
+        visual_anchor: "森林绿机身配香槟金属点缀，圆润耳罩侧面有品牌logo与麦克风孔阵"
+    product_name: "Tour One M2"
+    brand_name: "JBL"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "椭圆封闭式耳罩，圆弧头梁，无线折叠结构"
+      light_opening: "封闭式"
+      thermal: "封闭腔体，侧面点阵麦克风孔"
+      cmf:
+        color: "森林绿（Forest Green）+ 香槟金属"
+        material: "ABS壳体 + 蛋白皮软垫 + 金属头梁插件"
+        finish: "轻微磨砂质感，金属件拉丝"
+      mounting: "无线折叠，头梁两端金属连接件"
+      signature_detail: "头梁两侧香槟金属连接片 + 耳罩侧面TOUR字样竖排标识"
+    design_level:
+      score: 3
+      reason: "配色组合有辨识度，整体语法成熟但无突破性造型创新"
+    design_tags: ["封闭式", "无线ANC", "森林绿", "香槟金点缀", "双色配色", "H08对比强调", "消费级旗舰"]
+    hero_feature: "香槟金金属连接片与森林绿主体形成高级感对比，是品牌色彩策略核心"
+    problem_solved: "商务出行降噪同时兼顾时尚感，避免全黑的沉闷"
+    transferable_technique: "主色+金属点缀撞色手法，H08对比强调，用于提升中高端消费品调性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_headphone_003"
+    source_images:
+      - filename: "109.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/109.jpg"
+        image_role: "detail"
+        visual_anchor: "海军蓝配色近景，侧面TOUR竖排字，香槟色小竖条与品牌logo清晰可见"
+    product_name: "Tour One M2（海军蓝色）"
+    brand_name: "JBL"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "椭圆封闭式耳罩，无线折叠结构，与108.jpg同款不同色"
+      light_opening: "封闭式"
+      thermal: "封闭腔体"
+      cmf:
+        color: "海军蓝（Navy Blue）+ 香槟金属"
+        material: "ABS壳体 + 蛋白皮软垫"
+        finish: "磨砂质感"
+      mounting: "无线折叠"
+      signature_detail: "耳罩侧面点阵传音孔 + 香槟金竖条装饰 + 倒置JBL logo"
+    design_level:
+      score: 3
+      reason: "与108.jpg同款，此图角度更好呈现侧面细节，可作为细节参考图"
+    design_tags: ["封闭式", "无线ANC", "海军蓝", "香槟金点缀", "侧面细节", "H08对比强调"]
+    hero_feature: "香槟金竖条与点阵孔的组合是耳罩侧面识别度来源"
+    problem_solved: "侧面识别语言解决了无线耳机正面过于单调的问题"
+    transferable_technique: "侧面竖向装饰条 + 功能孔阵的组合，适用于任何圆形耳罩侧面设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_headphone_004"
+    source_images:
+      - filename: "27.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/27.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，蜂巢网孔大耳罩，深色金属弧形头梁，极简分件线"
+    product_name: "未知型号（开放式头戴耳机）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "椭圆开放式耳罩，金属弧形头梁，有线设计"
+      light_opening: "开放式，全面积蜂巢网孔"
+      thermal: "全开放腔体"
+      cmf:
+        color: "深灰/枪色金属头梁 + 黑色蜂巢网面"
+        material: "金属头梁 + 蜂巢网布耳罩 + 皮质头梁包覆"
+        finish: "金属拉丝 + 网布哑光"
+      mounting: "Y形金属连接臂，有线单边出线"
+      signature_detail: "蜂巢六边形网孔覆盖整个耳罩面，无装饰件，极简功能美学"
+    design_level:
+      score: 4
+      reason: "开放式蜂巢网孔处理极具设计张力，金属弧度与网布材质对比强烈，工业美感出色"
+    design_tags: ["开放式", "有线", "蜂巢网孔", "金属头梁", "极简工业", "H04参数化", "H10材料表达", "监听级"]
+    hero_feature: "全面积蜂巢网孔耳罩是最强视觉记忆点，功能即外观"
+    problem_solved: "开放式监听耳机通常外观笨重，此设计通过网孔使耳罩轻盈化"
+    transferable_technique: "参数化蜂巢网孔作为耳罩面饰，H04参数化+H10材料表达组合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "品牌未识别，图片背景透明有部分噪点，建议人工确认品牌"
+
+  - product_id: "if_headphone_005"
+    source_images:
+      - filename: "31.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/31.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面视角，拉丝金属头梁，旋转式耳罩，红色铰链点缀，同心圆拉丝底面"
+    product_name: "MDR-XB950"
+    brand_name: "Sony"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "圆形封闭式大耳罩，宽头梁，侧面旋转折叠"
+      light_opening: "封闭式"
+      thermal: "封闭腔体"
+      cmf:
+        color: "枪灰金属头梁 + 黑色主体 + 红色铰链"
+        material: "铝拉丝头梁 + ABS耳罩 + 仿皮软垫"
+        finish: "同心圆拉丝底面 + 磨砂壳体"
+      mounting: "旋转折叠铰链，单边出线"
+      signature_detail: "耳罩底面同心圆拉丝纹理 + 红色铰链点缀 + MDR-XB950型号标牌"
+    design_level:
+      score: 3
+      reason: "运动重低音定位明确，红色铰链增加活力感，同心圆底纹有工艺感但整体设计语言中规中矩"
+    design_tags: ["封闭式", "有线", "重低音", "运动风", "红色点缀", "同心圆拉丝", "H08对比强调", "H10材料表达"]
+    hero_feature: "红色铰链是唯一高饱和度点，同心圆拉丝耳罩底面提供工艺质感"
+    problem_solved: "重低音定位通过视觉（大耳罩+红色）传递力量感与活力"
+    transferable_technique: "单色点缀铰链 + 金属底面拉丝纹理，成本低、辨识度高的提升手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_headphone_006"
+    source_images:
+      - filename: "36.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/36.jpg"
+        image_role: "hero"
+        visual_anchor: "3/4视角，超薄圆形耳罩，分件环线，网布耳垫与磨砂外壳，FIIL logo白色图标"
+    product_name: "FIIL Wireless"
+    brand_name: "FIIL"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "圆形压耳式（on-ear）超薄耳罩，细圆头梁"
+      light_opening: "封闭式"
+      thermal: "封闭腔体"
+      cmf:
+        color: "全黑"
+        material: "ABS外壳（磨砂）+ 网布耳垫 + 金属细头梁"
+        finish: "消光磨砂壳体 + 网布哑光耳垫"
+      mounting: "折叠式，细金属头梁连接件，右侧控制按键"
+      signature_detail: "FIIL四横线白色图标logo + 耳罩边缘细金属分件环 + 右侧按键区"
+    design_level:
+      score: 3
+      reason: "轻薄便携定位，整体设计克制，分件环线和logo处理干净，属于完成度高的中端设计"
+    design_tags: ["on-ear", "无线", "全黑", "轻薄", "网布耳垫", "H07极简整合", "便携折叠"]
+    hero_feature: "FIIL四横线logo是最强品牌识别符号，耳罩侧面视觉中心"
+    problem_solved: "轻薄便携通勤耳机，折叠收纳，日常佩戴无压迫感"
+    transferable_technique: "图形化logo作为耳罩唯一装饰，H07极简整合，消除冗余分件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_headphone_007"
+    source_images:
+      - filename: "37.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/37.jpg"
+        image_role: "colorway"
+        visual_anchor: "五色正面排列：亮黑、哑黑、镜面银灰、亮白、哑红，同一造型不同CMF"
+    product_name: "FIIL（色系展示图）"
+    brand_name: "FIIL"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "正面视角圆形压耳式耳罩，同if_headphone_006造型"
+      light_opening: "封闭式"
+      thermal: "封闭腔体"
+      cmf:
+        color: "亮黑/哑黑/镜面银灰/亮白/哑红（五色）"
+        material: "ABS外壳"
+        finish: "亮面（黑/白）+ 哑光（黑/红）+ 镜面（灰）"
+      mounting: "折叠式"
+      signature_detail: "五色CMF系统展示，logo一致性强"
+    design_level:
+      score: 2
+      reason: "色系展示图，设计信息量不高，主要价值在CMF色彩策略参考"
+    design_tags: ["CMF参考", "色系展示", "on-ear", "FIIL", "五色系统", "亮面哑光对比"]
+    hero_feature: "五种表面处理系统（亮面/哑光/镜面）在同一造型上的表达差异"
+    problem_solved: "通过CMF差异化覆盖不同消费者偏好（高调/低调/极简/活力）"
+    transferable_technique: "同造型多CMF色系策略，耳机品类的SKU扩展标准做法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_headphone_008"
+    source_images:
+      - filename: "65.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/65.jpg"
+        image_role: "hero"
+        visual_anchor: "海军蓝哑光，过渡圆润的方形耳罩，底部银色网状散热条，单竖线logo槽"
+    product_name: "Bowie H1 Pro"
+    brand_name: "Baseus"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "方圆形封闭式耳罩（超圆角矩形），无线折叠"
+      light_opening: "封闭式，底部边缘银色网状条"
+      thermal: "封闭腔体，底缘金属网散热/传音条"
+      cmf:
+        color: "海军蓝（深蓝哑光）"
+        material: "ABS磨砂外壳 + 蛋白皮软垫"
+        finish: "全哑光消光，柔软触感感"
+      mounting: "无线折叠，弧形头梁"
+      signature_detail: "耳罩侧面单竖槽形logo切口 + 底缘银色网条 + 简洁头梁分件"
+    design_level:
+      score: 3
+      reason: "方圆耳罩造型有差异化，整体设计语言简洁现代，网条细节处理加分，品牌感稍弱"
+    design_tags: ["封闭式", "无线ANC", "海军蓝", "方圆形耳罩", "哑光", "H07极简整合", "中端消费"]
+    hero_feature: "超圆角方形耳罩轮廓是品类差异化关键，区别于主流圆形"
+    problem_solved: "通勤降噪场景下兼顾轻量外观与功能性，方形耳罩视觉上更现代"
+    transferable_technique: "圆角矩形耳罩轮廓作为品类造型差异化手段，H01减法+H07极简整合"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_headphone_009"
+    source_images:
+      - filename: "66.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/66.jpg"
+        image_role: "detail"
+        visual_anchor: "正面全图+侧面耳罩特写，网条细节与Baseus头梁字样清晰"
+    product_name: "Bowie H1 Pro（正面+细节）"
+    brand_name: "Baseus"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "方圆形封闭式耳罩，正面对称"
+      light_opening: "封闭式，底部银色网条"
+      thermal: "封闭腔体"
+      cmf:
+        color: "海军蓝 + 银色金属网条"
+        material: "ABS壳体 + 金属网条 + 蛋白皮软垫"
+        finish: "哑光主体 + 金属网面亮面对比"
+      mounting: "无线折叠"
+      signature_detail: "头梁内侧压印Baseus字样，侧面单竖槽切口，底部网条对称分布"
+    design_level:
+      score: 3
+      reason: "细节图补充65.jpg信息，底部网条对称工整，头梁品牌压印精细"
+    design_tags: ["细节图", "封闭式", "无线ANC", "底部网条", "H09隐藏工程", "对称设计"]
+    hero_feature: "底部银色网条与深蓝主体的材质+色彩双重对比"
+    problem_solved: "通过细节图展示工艺精度，增强消费者信任感"
+    transferable_technique: "底缘传音/散热网条作为装饰性功能件，H11功能外显"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_headphone_010"
+    source_images:
+      - filename: "68.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/68.jpg"
+        image_role: "hero"
+        visual_anchor: "天空蓝，网布软垫，不锈钢U形头梁，Digital Crown旋钮，全铝大耳罩"
+    product_name: "AirPods Max"
+    brand_name: "Apple"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "大圆形封闭式耳罩，双侧不锈钢U形头梁，无线"
+      light_opening: "封闭式"
+      thermal: "封闭腔体，无可见开口"
+      cmf:
+        color: "天空蓝（Sky Blue）"
+        material: "全铝耳罩 + 不锈钢头梁 + 网布软垫（编织网眼布）"
+        finish: "铝阳极氧化 + 不锈钢抛光 + 网布哑光"
+      mounting: "U形不锈钢独立双臂头梁，旋入式耳罩可换"
+      signature_detail: "Digital Crown旋钮（右侧）+ 编织网眼布软垫 + 双U形臂连接件"
+    design_level:
+      score: 5
+      reason: "品类标杆，全金属结构+网布软垫的材料突破是行业里程碑，双U形头梁极具识别度，工艺复杂度与视觉张力业界最高"
+    design_tags: ["封闭式", "无线ANC", "全铝", "网布软垫", "双U形头梁", "Digital Crown", "H10材料表达", "H07极简整合", "旗舰级", "品类标杆"]
+    hero_feature: "双U形不锈钢头梁 + 网布编织软垫是品类唯一，即便去掉logo也无法认错品牌"
+    problem_solved: "高端头戴耳机皮质软垫易老化、金属头梁易断的两大痛点，网布+双U形臂彻底解决"
+    transferable_technique: "网布替代皮质耳垫（H10材料表达），独立双臂悬挂结构替代整体头梁"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_headphone_011"
+    source_images:
+      - filename: "69.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/69.jpg"
+        image_role: "packaging"
+        visual_anchor: "椭圆硬壳收纳包打开，棕色绒面内衬，折叠后棕色头戴耳机置于其中"
+    product_name: "Momentum 3（含收纳包）"
+    brand_name: "Sennheiser"
+    brand_confidence: "medium"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "折叠后小尺寸，圆形耳罩，金属头梁，置于椭圆收纳包内"
+      light_opening: "封闭式"
+      thermal: "封闭腔体"
+      cmf:
+        color: "棕色（深棕/古铜色）+ 棕色绒面内衬"
+        material: "仿皮外壳 + 金属头梁 + 绒布收纳包内衬"
+        finish: "皮质哑光 + 绒面内衬"
+      mounting: "折叠式，置于定制收纳包"
+      signature_detail: "椭圆硬壳收纳包与耳机一体设计感，白色缝线细节，绒面包边"
+    design_level:
+      score: 4
+      reason: "收纳包设计与耳机造型高度匹配，棕色系配色奢华感强，开箱体验是卖点之一"
+    design_tags: ["封闭式", "无线", "棕色系", "皮质", "收纳包", "奢华感", "开箱体验", "H02包覆", "旅行级"]
+    hero_feature: "定制椭圆收纳包与耳机的整体呈现，产品即包装"
+    problem_solved: "高端耳机旅行收纳痛点，定制硬壳包解决防压保护同时提升品牌仪式感"
+    transferable_technique: "定制收纳方案与产品造型呼应（H02包覆），可迁移至任何高端便携产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "品牌标识不可见，通过收纳包设计风格判断为Sennheiser Momentum系列，需人工确认"
+
+  - product_id: "if_headphone_012"
+    source_images:
+      - filename: "96.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/头戴耳机/96.jpg"
+        image_role: "exploded"
+        visual_anchor: "1MORE品牌入耳式耳机爆炸图，展示混合动铁结构，钛镀铝外壳"
+    product_name: "1MORE Dual Driver ANC"
+    brand_name: "1MORE"
+    brand_confidence: "high"
+    category_path: ["音箱", "入耳式耳机"]
+    design_language:
+      silhouette: "入耳式圆柱形耳机，颈挂线控设计"
+      light_opening: "封闭式入耳"
+      thermal: "封闭腔体"
+      cmf:
+        color: "钛色 + 黑色 + 红色环"
+        material: "钛镀铝外壳 + 液态硅胶耳帽"
+        finish: "喷砂双重阳极氧化处理"
+      mounting: "入耳式，颈挂线控"
+      signature_detail: "爆炸图展示动铁+动圈混合驱动结构，红色环标记分件"
+    design_level:
+      score: 3
+      reason: "爆炸工程图展示技术含量，设计亮点在于紧凑腔体内的混合驱动方案，外观辨识度中等"
+    design_tags: ["入耳式", "爆炸图", "混合驱动", "钛铝外壳", "H11功能外显", "H09隐藏工程", "技术营销"]
+    hero_feature: "小腔体内实现动铁+动圈双驱动，爆炸图直接传递技术价值"
+    problem_solved: "入耳式耳机ANC效果与音质兼顾，混合驱动方案的工程挑战"
+    transferable_technique: "爆炸结构图作为产品沟通手段（H11功能外显），适用于任何技术型产品"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "该图为入耳式耳机，不属于头戴耳机子品类，建议移至入耳式分类或单独处理"

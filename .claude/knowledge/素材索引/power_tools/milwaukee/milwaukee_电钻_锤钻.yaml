@@ -1,0 +1,333 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电钻"
+  tertiary: "锤钻"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_锤钻_001"
+    source_images:
+      - filename: "电钻__锤钻__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__01.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL锤钻（Gen3），带M18 REDLITHIUM XC电池，正侧视图。亮红色主机壳，黑色无钥匙快锁卡盘（红色环），银灰色齿轮箱过渡段，Milwaukee FUEL白色logo，黑色D形橡胶握把，ONE-KEY标识，蓝色WiFi图标角标，金属挂钩底部，机身顶部有黑色圆形背带挂点"
+      - filename: "电钻__锤钻__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__05.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "同款M18 FUEL锤钻Gen3裸机，更大侧视图，黑色大圆形散热盘（顶部），Milwaukee FUEL logo，金属挂钩，红色机壳分段清晰，ONE-KEY标识"
+      - filename: "电钻__锤钻__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__06.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "M18 FUEL锤钻Gen3裸机，侧视图，红色机壳，Milwaukee FUEL logo，BRUSHLESS标识，黑色卡盘，黑色握把，金属挂钩，无电池底部"
+      - filename: "电钻__锤钻__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__04.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "M18 FUEL锤钻ONE-KEY套装，Milwaukee M18 FUEL红色工具箱背景，2块M18 REDLITHIUM电池+充电器+侧把手附件，蓝色WiFi标识"
+      - filename: "电钻__锤钻__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__07.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "M18 FUEL锤钻套装，Milwaukee红色硬箱，2块M18 XC5.0电池+充电器，完整配置陈列"
+      - filename: "电钻__锤钻__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__08.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "M18 FUEL锤钻M12系列裸机，正侧视图，红色机壳+黑色握把+FUEL logo，卡盘有红色环标，紧凑机身，金属挂钩"
+    product_name: "Milwaukee M18 FUEL 锤钻 Gen3（带ONE-KEY）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "锤钻", "无绳"]
+    design_language:
+      silhouette: "手枪型，机头稍粗（容纳锤击机构），齿轮箱过渡段银灰色，机身流线型手枪轮廓，顶部有大圆形散热通风盘，金属挂钩从握把底部伸出"
+      light_opening: "前机头区域有散热缝，顶部圆形通风口"
+      thermal: "顶部大圆形通风散热盖（标志性特征），机壳侧面散热槽"
+      cmf:
+        color: "主色亮红色（Milwaukee标志红），卡盘处红色环，Milwaukee/FUEL字样白色，金属挂钩银色，ONE-KEY区域黑色"
+        material: "机壳：红色注塑ABS；齿轮箱：银灰色压铸铝；握把：黑色TPR包覆；挂钩：钢制"
+        finish: "机壳哑光红，齿轮箱银灰自然铝感，握把防滑纹路，卡盘金属光泽"
+      mounting: "M18 REDLITHIUM电池，底部插入式"
+      signature_detail: "顶部大圆形散热通风盘（Milwaukee Gen3标志）；快锁卡盘红色环；金属挂钩；ONE-KEY智联标识"
+    design_level:
+      score: 4
+      reason: "现代Milwaukee FUEL顶级产品语言，顶部圆形散热盘独特识别度，智联+金属挂钩功能整合，品牌距离精准"
+    design_tags: ["无绳", "锤钻", "M18 FUEL", "Gen3", "ONE-KEY", "圆形散热盘", "金属挂钩", "红黑双色"]
+    hero_feature: "顶部大圆形黑色散热通风盘，构成M18 FUEL Gen3最强识别轮廓特征"
+    problem_solved: "混凝土/砖墙锤击钻孔与木材/金属精确钻孔双模式需求"
+    transferable_technique: "功能性散热口的造型化设计（H11功能外显）；智联标识与金属附件的产品分级语言（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_锤钻_002"
+    source_images:
+      - filename: "电钻__锤钻__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__02.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 Brushless锤钻（紧凑款），裸机正侧视图，红+黑双色，Milwaukee白logo，BRUSHLESS字样，黑色快锁卡盘，扭矩环数字1-18标刻+T档，金属挂钩从机壳侧面伸出，无顶部散热盘"
+      - filename: "电钻__锤钻__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__12.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "同款M18 Brushless锤钻，另一侧视角，Milwaukee BRUSHLESS标识，黑色为主色调机壳，红色logo区域"
+    product_name: "Milwaukee M18 Brushless 锤钻（紧凑款）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "锤钻", "无绳", "紧凑型"]
+    design_language:
+      silhouette: "手枪型紧凑，机头较细，无大圆形散热盘，整体更纤细，红+黑双色，Milwaukee logo在机头红色区域"
+      light_opening: "机壳侧面散热槽"
+      thermal: "侧面散热槽"
+      cmf:
+        color: "机头区域红色，机身主体黑色，Milwaukee logo白色，挂钩银色金属"
+        material: "注塑ABS，金属挂钩"
+        finish: "哑光红黑，握把纹路防滑"
+      mounting: "M18电池底部插入"
+      signature_detail: "BRUSHLESS字样标识；侧面金属挂钩；红+黑双色上下分区"
+    design_level:
+      score: 3
+      reason: "紧凑设计，红黑对比明确，BRUSHLESS标识强调技术差异化，但缺乏Gen3的散热盘识别特征"
+    design_tags: ["无绳", "锤钻", "M18", "Brushless", "紧凑型", "红黑双色", "金属挂钩"]
+    hero_feature: "红+黑双色上下分区，BRUSHLESS标识，侧面金属挂钩"
+    problem_solved: "轻量化锤钻需求，空间受限场景"
+    transferable_technique: "红黑上下分色逻辑，金属挂钩侧面集成（H03分件线+H09隐藏工程）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_锤钻_003"
+    source_images:
+      - filename: "电钻__锤钻__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__03.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "Milwaukee M18 Brushless锤钻套装，带Milwaukee红色工具包，2块M18 CP2.0小电池+红色充电器，手提包配置，工具整体呈现红+黑色调"
+      - filename: "电钻__锤钻__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__09.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "Milwaukee M18 FUEL锤钻套装，红色硬箱+Milwaukee M18 FUEL logo，2块XC电池+充电器+侧把手"
+      - filename: "电钻__锤钻__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__10.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "Milwaukee M18 FUEL锤钻套装，另款配置，红色硬箱+2块M18电池+充电器"
+      - filename: "电钻__锤钻__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__11.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "Milwaukee M18 FUEL锤钻套装，小容量电池配置，2块CP电池，红色硬箱"
+    product_name: "Milwaukee M18 锤钻套装（含箱/包配置）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "锤钻", "无绳", "套装"]
+    design_language:
+      silhouette: "产品+配件组合陈列，工具本体+电池+充电器+收纳箱/包，整体红色系视觉统一"
+      light_opening: "N/A（套装照）"
+      thermal: "N/A"
+      cmf:
+        color: "全系红色主调（工具+箱包+充电器），Milwaukee品牌色系高度统一"
+        material: "工具ABS，硬箱ABS，软包聚酯，充电器ABS"
+        finish: "亮红色，Milwaukee logo白色"
+      mounting: "M18电池系列（CP2.0/XC5.0/XC6.0不同容量）"
+      signature_detail: "Milwaukee红色硬箱/软包，全套红色统一视觉，M18 FUEL logo"
+    design_level:
+      score: 3
+      reason: "套装包装视觉统一度高，红色系从工具到配件全覆盖，品牌感强"
+    design_tags: ["套装照", "M18", "硬箱", "软包", "红色系统一", "配件陈列"]
+    hero_feature: "Milwaukee全系红色视觉统一的套装陈列方式"
+    problem_solved: "完整套装购买体验，品牌统一性展示"
+    transferable_technique: "全系品牌色统一的产品家族视觉系统（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_锤钻_004"
+    source_images:
+      - filename: "电钻__锤钻__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__13.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "Milwaukee M18 Compact锤钻套装（早期款），红色硬箱，工具红+黑+灰，2块小容量M18电池+充电器，Milwaukee M18 logo，产品稍老款设计"
+      - filename: "电钻__锤钻__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__14.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "Milwaukee M18紧凑锤钻套装（早期）+工具包，红黑色工具，Milwaukee工具包，小容量电池+充电器"
+    product_name: "Milwaukee M18 紧凑锤钻套装（早期款）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "锤钻", "无绳", "紧凑型"]
+    design_language:
+      silhouette: "手枪型紧凑，早期M18设计语言，红+黑+灰色调，较扁平机身"
+      light_opening: "N/A"
+      thermal: "机壳散热槽"
+      cmf:
+        color: "红+黑+灰三色，Milwaukee logo红白色"
+        material: "注塑ABS"
+        finish: "哑光红黑灰"
+      mounting: "M18小容量电池"
+      signature_detail: "早期M18扁平机身，与现代Gen3相比较为简洁"
+    design_level:
+      score: 2
+      reason: "早期M18设计，扁平简洁但缺乏现代Milwaukee识别特征，品牌演进参考价值"
+    design_tags: ["无绳", "锤钻", "M18", "早期款", "紧凑型", "套装照"]
+    hero_feature: "早期Milwaukee M18紧凑设计语言，三色分区"
+    problem_solved: "轻量锤钻日常使用"
+    transferable_technique: "N/A（早期参考）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_锤钻_005"
+    source_images:
+      - filename: "电钻__锤钻__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__15.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18锤钻（中期款），裸机侧视，红+黑机身，Milwaukee logo，黑色快锁卡盘，扭矩调节环（1-10数字+T档），散热槽，较现代但非Gen3"
+    product_name: "Milwaukee M18 锤钻（中期款）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "锤钻", "无绳"]
+    design_language:
+      silhouette: "手枪型，红+黑双色，标准Milwaukee造型语言，无圆形散热盘"
+      light_opening: "机壳散热槽"
+      thermal: "侧面散热槽"
+      cmf:
+        color: "红+黑，Milwaukee白色logo"
+        material: "注塑ABS"
+        finish: "哑光红黑"
+      mounting: "M18电池"
+      signature_detail: "扭矩调节环数字清晰可见，Milwaukee logo红色区域居中"
+    design_level:
+      score: 3
+      reason: "标准Milwaukee M18中期设计，品牌识别稳定，功能信息清晰"
+    design_tags: ["无绳", "锤钻", "M18", "中期款", "红黑双色"]
+    hero_feature: "清晰的扭矩调节环数字与Milwaukee logo视觉层级"
+    problem_solved: "锤钻日常钻孔多模式使用"
+    transferable_technique: "扭矩环功能信息的视觉整合（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_锤钻_006"
+    source_images:
+      - filename: "电钻__锤钻__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__16.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M12 FUEL锤钻套装，带Milwaukee工具包，2块M12小容量电池+充电器，工具整体非常紧凑小巧，红+黑配色，Milwaukee logo，M12平台"
+    product_name: "Milwaukee M12 FUEL 锤钻（紧凑套装）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "锤钻", "无绳", "M12紧凑"]
+    design_language:
+      silhouette: "手枪型极度紧凑，M12平台比M18更小，整体比例短小"
+      light_opening: "N/A"
+      thermal: "微型散热槽"
+      cmf:
+        color: "红+黑，Milwaukee logo白色，M12电池红色"
+        material: "注塑ABS"
+        finish: "哑光红黑"
+      mounting: "M12小容量电池"
+      signature_detail: "M12平台超小体量，Milwaukee logo，FUEL标识"
+    design_level:
+      score: 3
+      reason: "M12平台紧凑设计，Milwaukee品牌语言缩小版，适合轻量工况"
+    design_tags: ["无绳", "锤钻", "M12 FUEL", "超紧凑", "套装照"]
+    hero_feature: "M12平台极小体量，Milwaukee FUEL技术下放至最小平台"
+    problem_solved: "狭小空间轻量钻孔，单手操作"
+    transferable_technique: "平台缩小但品牌识别不妥协（H01减法）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_锤钻_007"
+    source_images:
+      - filename: "电钻__锤钻__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__17.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18锤钻（较早款），带M18 XC大电池，红+黑机身，Milwaukee logo，黑色快锁卡盘，扭矩调节环，扁平握把，整体偏早期设计，带汽车充电器套装"
+    product_name: "Milwaukee M18 锤钻（早期款+汽车充电器套装）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "锤钻", "无绳"]
+    design_language:
+      silhouette: "手枪型，早期M18稍扁平机身，红+黑"
+      light_opening: "N/A"
+      thermal: "散热槽"
+      cmf:
+        color: "红+黑，Milwaukee logo"
+        material: "注塑ABS"
+        finish: "哑光红黑"
+      mounting: "M18 XC电池"
+      signature_detail: "汽车充电器附件，早期Milwaukee M18设计"
+    design_level:
+      score: 2
+      reason: "早期款设计，主要作为Milwaukee M18品牌演进参考"
+    design_tags: ["无绳", "锤钻", "M18", "早期款", "汽车充电器套装"]
+    hero_feature: "Milwaukee M18早期设计语言，扁平机身比例"
+    problem_solved: "现场作业+车载充电移动工作场景"
+    transferable_technique: "N/A"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_锤钻_008"
+    source_images:
+      - filename: "电钻__锤钻__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__18.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有绳双速锤钻，红+银灰双色，扁长机身，黑色正前方侧把手，机头银灰色长压铸壳，Milwaukee logo，后部有旋转速度选择拨杆，有绳"
+      - filename: "电钻__锤钻__19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__锤钻__19.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "同款有绳双速锤钻，另一视角，Milwaukee logo，红+银灰，黑色侧把手，速度调节拨杆位置可见"
+    product_name: "Milwaukee 有绳双速锤钻"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "锤钻", "有绳"]
+    design_language:
+      silhouette: "手枪型延伸，机头银灰色长压铸壳（锤击机构容纳），整体比普通电钻更长，前方侧把手"
+      light_opening: "机身后部散热槽"
+      thermal: "后部散热槽组"
+      cmf:
+        color: "红色机身，银灰色长压铸前机壳，黑色侧把手/卡盘/电线"
+        material: "前壳：压铸铝合金；机身：红色注塑ABS；侧把手：黑色橡胶"
+        finish: "银灰色铝感，哑光红机身，黑色侧把手防滑纹"
+      mounting: "有绳（尾部电线）"
+      signature_detail: "长银灰色压铸前机壳覆盖锤击机构，Milwaukee品牌传统红+银色组合"
+    design_level:
+      score: 3
+      reason: "功能形态清晰，压铸前壳体量感强，Milwaukee传统红银配色延续，专业工地感"
+    design_tags: ["有绳", "锤钻", "双速", "压铸前壳", "红银配色", "侧把手"]
+    hero_feature: "长银灰色压铸铝前机壳，视觉上强调了锤击机构的存在感"
+    problem_solved: "砖墙/混凝土锤击钻孔，双速适应不同材料"
+    transferable_technique: "金属前壳体量化表达功能强度（H10材料表达+H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

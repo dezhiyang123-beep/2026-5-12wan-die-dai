@@ -1,0 +1,355 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "H02_包覆设计"
+  secondary: "电动工具"
+  tertiary: ""
+
+source:
+  source_type: "technique_library"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H02_包覆设计/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "h02_camera_001"
+    source_images:
+      - filename: "H02_camera_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H02_包覆设计/H02_camera_001.jpg"
+        image_role: "hero"
+        visual_anchor: "正在拆解的旁轴相机（疑似Leica M系），顶盖正被揭开，露出内部电路板和机械结构"
+    product_name: "Leica M rangefinder（拆解状态）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H02_包覆设计"
+      - "相机"
+
+    design_language:
+      silhouette: "矩形机身，金属顶盖作为独立包覆层覆盖在机械结构上"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）；金属顶盖兼作机身保护和散热"
+      cmf:
+        color: "银色（顶盖）+ 黑色（机身主体）"
+        material: "精密铣削铝合金顶盖 + 黑色主机身"
+        finish: "拉丝银 + 哑光黑"
+      mounting: "顶盖通过精密配合卡扣固定于机身"
+      signature_detail: "单片精密铣削金属顶盖作为包覆层，精确覆盖所有内部机械和电子元件，拆除后内部工程细节完全暴露——包覆即是外观"
+
+    design_level:
+      score: 4
+      reason: "清晰展示包覆设计的核心逻辑：一件精密金属外壳将复杂工程系统完整包住，外观即包覆层，拆解图使手法可视化极佳"
+
+    design_tags:
+      - "H02包覆设计"
+      - "金属顶盖包覆"
+      - "拆解展示"
+      - "相机"
+      - "精密制造"
+
+    hero_feature: "单片精密铣削金属顶盖包覆全部内部机械，拆开即见完整工程细节"
+    problem_solved: "精密光学仪器内部结构复杂且脆弱，需要一件强度高、尺寸精确的外壳将所有部件整体包覆保护"
+    transferable_technique: "用单件精密成型外壳（金属/塑料）作为完整包覆层，将复杂内部系统整体封装——可迁移到电动工具头部外壳、电子设备机身、仪器壳体"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h02_dewalt_001"
+    source_images:
+      - filename: "H02_dewalt_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H02_包覆设计/H02_dewalt_001.jpg"
+        image_role: "hero"
+        visual_anchor: "DeWalt 60V搅拌钻，机头和握把均有大面积黑色橡胶包覆，黄色底色在非包覆区露出"
+    product_name: "DeWalt 60V MAX Mixer Drill"
+    brand_name: "dewalt"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H02_包覆设计"
+      - "电动工具"
+
+    design_language:
+      silhouette: "T形直身电钻，顶端横向辅助握杆，机头圆柱形"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）；机头散热槽嵌于黑色橡胶包覆层内"
+      cmf:
+        color: "亮黄色（底色）+ 黑色橡胶（包覆区）"
+        material: "黄色工程塑料壳体 + 黑色TPR橡胶包覆"
+        finish: "橡胶哑光纹理"
+      mounting: "电池底部卡扣连接"
+      signature_detail: "黑色橡胶包覆面积大（覆盖机头、握把主体、侧握杆端头），黄色仅在中段电池区、商标区露出，形成黑黄色块对比"
+
+    design_level:
+      score: 4
+      reason: "典型工业包覆设计：大面积黑色TPR橡胶覆盖高接触区域，防振/防滑同时形成鲜明黑黄品牌视觉，包覆区域划分逻辑清晰"
+
+    design_tags:
+      - "H02包覆设计"
+      - "TPR橡胶包覆"
+      - "大面积软包"
+      - "电动工具"
+      - "黑黄配色"
+
+    hero_feature: "黑色橡胶大面积包覆机头和握把，黄色底色精准露出，形成强对比品牌识别"
+    problem_solved: "搅拌钻在高扭矩操作下振动强烈，需要大面积软质材料减振防滑同时提升握持舒适度"
+    transferable_technique: "在高接触/高振动区域用TPR/橡胶大面积包覆，非接触区域保留硬壳底色——两种材料的边界即设计分区线，可迁移到任何需要手持操作的工具"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h02_dewalt_002"
+    source_images:
+      - filename: "H02_dewalt_002.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H02_包覆设计/H02_dewalt_002.jpg"
+        image_role: "hero"
+        visual_anchor: "DeWalt 20V直角钻套装，工具本体黄黑配色，旁边有黑黄收纳包、两块电池和充电器"
+    product_name: "DeWalt 20V MAX Brushless Right Angle Drill Kit"
+    brand_name: "dewalt"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H02_包覆设计"
+      - "电动工具"
+
+    design_language:
+      silhouette: "L形直角钻，机头圆柱，握把短直"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "亮黄 + 黑色（工具）；全黑+黄色商标（收纳包）"
+        material: "工程塑料 + 黑色TPR包覆（工具）；黑色帆布+黄色PVC（收纳包）"
+        finish: "橡胶纹理（包覆区）；帆布编织纹（收纳包）"
+      mounting: "电池底部卡扣；收纳包手提握把"
+      signature_detail: "工具和收纳包均采用相同黑+黄色彩语言，收纳包本身也是一种'包覆'——将整套工具系统包覆在统一视觉语言内"
+
+    design_level:
+      score: 3
+      reason: "展示了包覆设计在套装层面的延伸：工具橡胶包覆+收纳包包覆形成系统化包覆逻辑，但单独工具的包覆细节不如dewalt_001清晰"
+
+    design_tags:
+      - "H02包覆设计"
+      - "套装包覆"
+      - "收纳包"
+      - "电动工具"
+      - "品牌系统"
+
+    hero_feature: "工具本体橡胶包覆与收纳包的帆布包覆在视觉语言上统一，形成系统包覆感"
+    problem_solved: "工具套装各部件视觉分散；统一包覆材料语言（黑+黄）将套装绑定为同一视觉系统"
+    transferable_technique: "将包覆材料的色彩和纹理语言延伸到配件/收纳/包装，实现产品系统级视觉统一——可迁移到工具品牌全系产品线"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h02_festool_001"
+    source_images:
+      - filename: "H02_festool_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H02_包覆设计/H02_festool_001.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool CXS 12电钻，整机深灰色，扳机区和电池前端有鲜绿色橡胶包覆点，机身开有大圆形镂空"
+    product_name: "Festool CXS 12 Compact Drill"
+    brand_name: "festool"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H02_包覆设计"
+      - "电动工具"
+
+    design_language:
+      silhouette: "紧凑型手枪形电钻，机身有大圆形镂空减重孔，握把短直"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "深灰（主体）+ 鲜绿（包覆点）+ 黑色细节"
+        material: "工程塑料主壳 + 绿色TPR/橡胶包覆"
+        finish: "灰色哑光纹理（主壳）；绿色哑光软质（包覆点）"
+      mounting: "绿色卡扣电池底部连接"
+      signature_detail: "绿色包覆精准覆盖扳机指托区域和电池释放按钮区，作为功能性操作点的视觉提示，包覆即操作导引"
+
+    design_level:
+      score: 5
+      reason: "教科书级精准包覆：绿色橡胶不是装饰，每一处包覆都精确对应操作接触点（扳机/电池释放），包覆区域=功能区，手法逻辑无懈可击"
+
+    design_tags:
+      - "H02包覆设计"
+      - "功能性包覆"
+      - "操作点提示"
+      - "电动工具"
+      - "灰绿配色"
+
+    hero_feature: "绿色橡胶包覆精准覆盖每个操作接触点，包覆颜色即功能导引"
+    problem_solved: "工具操作区（扳机/电池释放）与非操作区视觉区分不清晰；精准包覆让用户零学习成本找到操作点"
+    transferable_technique: "将软质包覆材料精准限定在操作接触点（按钮/扳机/旋钮区），用包覆颜色做功能映射——可迁移到医疗器械、厨房家电、任何多操作点产品"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h02_festool_002"
+    source_images:
+      - filename: "H02_festool_002.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H02_包覆设计/H02_festool_002.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool TXS 12电钻，深灰主体，扳机区和电池区有绿色橡胶包覆，整体更标准手枪形"
+    product_name: "Festool TXS 12 Compact Drill"
+    brand_name: "festool"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H02_包覆设计"
+      - "电动工具"
+
+    design_language:
+      silhouette: "标准手枪形电钻，握把修长，机头圆柱"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "深灰（主体）+ 鲜绿（包覆点）"
+        material: "工程塑料主壳 + 绿色TPR包覆"
+        finish: "灰色细纹哑光（主壳）；绿色软质（包覆）"
+      mounting: "绿色按钮电池底部卡扣"
+      signature_detail: "与CXS 12同一包覆语言，绿色精准对应扳机指托+电池区，但形态更修长，展示Festool包覆语言在不同机型上的系统一致性"
+
+    design_level:
+      score: 4
+      reason: "与festool_001形成系列，印证Festool包覆语言的品牌一致性；手法本身与CXS 12相同，但系列对比有助于理解品牌包覆语法"
+
+    design_tags:
+      - "H02包覆设计"
+      - "功能性包覆"
+      - "品牌系列一致性"
+      - "电动工具"
+      - "灰绿配色"
+
+    hero_feature: "标准机型与紧凑机型相同包覆语言，绿色操作点在全系产品中保持一致"
+    problem_solved: "同一品牌不同机型外观差异过大，用户需重新学习操作逻辑；统一包覆颜色-功能映射让用户跨机型无学习成本"
+    transferable_technique: "在产品系列中保持包覆颜色与操作功能的一对一映射关系，形成跨产品线的操作语法——可迁移到任何有产品系列的工具/电器品牌"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h02_festool_003"
+    source_images:
+      - filename: "H02_festool_003.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H02_包覆设计/H02_festool_003.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool RO90 DX砂磨机，深灰+蓝色双色机身，顶部蓝色大面积软材料包覆，绿色线缆防弯套"
+    product_name: "Festool RO90 DX FEQ Rotex Sander"
+    brand_name: "festool"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H02_包覆设计"
+      - "电动工具"
+
+    design_language:
+      silhouette: "扁平卧式砂磨机，顶部为大面积弧面握持区，底部为圆形磨盘"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）；机身侧面有散热槽在灰色硬壳区域"
+      cmf:
+        color: "深灰（主壳）+ 蓝色（顶部大面积包覆）+ 绿色（线缆护套）"
+        material: "工程塑料主壳 + 蓝色软质弹性体顶部包覆 + 绿色橡胶线缆护套"
+        finish: "灰色细纹哑光；蓝色软质消光"
+      mounting: "有线插电，绿色橡胶护套防止线缆弯折损坏"
+      signature_detail: "顶部大面积蓝色软材料包覆整个手掌接触面，蓝色与灰色的边界清晰对应手掌/手指分区，绿色仅出现在线缆出口处"
+
+    design_level:
+      score: 5
+      reason: "顶部大面积软包覆完全对应双手握持区域，蓝色软质与灰色硬壳的边界精准映射人机工程学分区，是工具包覆设计人机工程学应用的教科书案例"
+
+    design_tags:
+      - "H02包覆设计"
+      - "大面积人机包覆"
+      - "双手握持区"
+      - "电动工具"
+      - "灰蓝绿三色"
+
+    hero_feature: "蓝色软质材料大面积包覆整个顶部手掌接触区，硬软边界精准对应人手解剖分区"
+    problem_solved: "砂磨机高频振动传导至手掌，长时间使用疲劳；大面积软质顶盖包覆整个握持区，最大化减振同时提供确定的握持定位"
+    transferable_technique: "将软质包覆面积最大化至整个手掌接触面（而非仅限于手指），用软硬材料边界精确对应人手解剖分区——可迁移到研磨机、抛光机、大型手持工具等双手操作设备"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h02_flos_001"
+    source_images:
+      - filename: "H02_flos_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H02_包覆设计/H02_flos_001.jpg"
+        image_role: "hero"
+        visual_anchor: "细长水平线形吊灯，棕橙色皮革/皮质材料包覆圆管主体，底部开一条细长光缝发出暖黄色光"
+    product_name: "Flos Coordinates（皮革包覆线灯）"
+    brand_name: "flos"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H02_包覆设计"
+      - "灯具"
+
+    design_language:
+      silhouette: "水平超细长圆管，比例约1:25，两端有金属端盖"
+      light_opening: "底部沿管长方向开一条极细光缝，宽约5-8mm，全长连续出光"
+      thermal: "金属内管导热，皮革/织物包覆外层隔热"
+      cmf:
+        color: "棕橙色（皮革包覆）+ 暖黄色光"
+        material: "金属管芯 + 皮革/皮质材料外层包覆"
+        finish: "皮革自然纹理哑光"
+      mounting: "细黑钢缆两点吊装"
+      signature_detail: "皮革材料将整根金属灯管完整包覆，仅在底部留一条细光缝，皮革温暖质感与工业金属管形成强烈材料对比"
+
+    design_level:
+      score: 5
+      reason: "教科书级跨品类包覆设计：皮革（通常用于家具/皮具）包覆灯具金属管，材料错位带来强烈视觉惊喜；光缝与皮革的反差（冷工业光+暖有机材料）是设计灵魂"
+
+    design_tags:
+      - "H02包覆设计"
+      - "皮革包覆"
+      - "材料错位"
+      - "线形灯"
+      - "吊灯"
+      - "温暖工业感"
+
+    hero_feature: "皮革完整包覆金属灯管，底部一条细光缝，皮革质感与工业光源形成极强材料对比"
+    problem_solved: "金属线形灯工业感强，冷硬；皮革包覆将温暖有机材质引入灯具，在保持极简线形的同时大幅提升温度感和触感档次"
+    transferable_technique: "将非常规软质材料（皮革/织物/木材）完整包覆工业产品的金属/塑料主体，只在功能必要处露出硬质底层——材料错位即设计张力，可迁移到工具、电器、家居产品"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""

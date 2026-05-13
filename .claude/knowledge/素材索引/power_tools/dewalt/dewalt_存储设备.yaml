@@ -1,0 +1,726 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "存储设备"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/"
+  generated_at: "2026-05-08"
+  note: "含三个子类：工具包(11图)、工具腰带(11图)、综合(12图)，共34图"
+
+products:
+  - product_id: "dewalt_存储设备_001"
+    source_images:
+      - filename: "存储设备__工具包__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具包__01.jpg"
+        image_role: "hero"
+        visual_anchor: "ToughSystem 2.0 Compact紧凑双肩包正面，全黑尼龙，DEWALT TOUGHSYSTEM 2.0金色刺绣，顶部橡胶提手，底部硬质底盘"
+      - filename: "存储设备__工具包__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具包__11.jpg"
+        image_role: "hero"
+        visual_anchor: "ToughSystem 2.0大型行李包（duffle），黑色+黄色TOUGHSYSTEM 2.0 logo刺绣，横向卧式包形"
+    product_name: "DeWalt ToughSystem 2.0 Tool Bags"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "工具包"
+    design_language:
+      silhouette: "全黑立方/矩形体量，底部硬质黑色底盘（ABS或HDPE）与软体织物包身的刚柔对比，顶部橡胶强化提手"
+      light_opening: "N/A（储物产品）"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（尼龙主体）+ 黄色（DeWalt/ToughSystem刺绣文字）+ 黑色（底盘/硬件）"
+        material: "重型1200D+尼龙织物，ABS硬质底盘，钢质拉链硬件"
+        finish: "哑光黑织物，金色刺绣logo"
+      mounting: "背包款可双肩/单肩/手提三用；ToughSystem兼容底部卡槽可与硬箱系统叠加"
+      signature_detail: "底部ToughSystem 2.0硬质底盘含标准化卡扣轨道，可与塑料硬箱堆叠锁定"
+    design_level:
+      score: 4
+      reason: "ToughSystem软包与硬箱兼容的生态系统设计有极强战略价值，黑金配色低调有质感，分数高于普通工具包"
+    design_tags:
+      - "ToughSystem"
+      - "系统兼容"
+      - "黑金配色"
+      - "软硬结合底盘"
+      - "H05_模块化设计"
+    hero_feature: "全黑软包底部的ToughSystem硬底盘，实现软包与硬箱生态跨产品锁扣兼容"
+    problem_solved: "工地施工员需要在ToughSystem硬箱车上携带软包，底盘接口统一，无需单独固定"
+    transferable_technique: "软硬结合底部设计：软质大容量+硬质底面实现平台兼容（H05模块化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_002"
+    source_images:
+      - filename: "存储设备__工具包__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具包__02.jpg"
+        image_role: "hero"
+        visual_anchor: "T-STAK工具包（duffle型），黑色扁圆筒形包，DeWalt金色刺绣，灰色反光条，底部T-STAK硬质底座，双顶部提手"
+      - filename: "存储设备__工具包__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具包__04.jpg"
+        image_role: "hero"
+        visual_anchor: "T-STAK小型开口包，正面DEWALT刺绣，内衬黄色，底部T-STAK Compatible金属卡槽"
+    product_name: "DeWalt T-STAK Compatible Tool Bags"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "工具包"
+    design_language:
+      silhouette: "T-STAK duffle包呈扁圆筒卧式，小型包呈矩形开口式；两者底部均含T-STAK标准接口"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（主体）+ 黄色（DeWalt刺绣/内衬）+ 银灰（反光条/硬件）"
+        material: "尼龙织物，钢质拉链，T-STAK接口硬质底盘"
+        finish: "哑光黑尼龙，灰色反光条"
+      mounting: "T-STAK系统接口，可锁定至T-STAK硬箱/推车"
+      signature_detail: "灰色反光条横贯包身（职业安全视觉元素），T-STAK品牌可见标签"
+    design_level:
+      score: 3
+      reason: "T-STAK系统软包，反光条是职业安全设计语言，整体实用，设计感一般"
+    design_tags:
+      - "T-STAK"
+      - "系统兼容"
+      - "反光条"
+      - "H05_模块化设计"
+    hero_feature: "横向反光条将职业安全元素融入工具包设计"
+    problem_solved: "T-STAK用户需要配套软质收纳，底部接口与硬箱共用"
+    transferable_technique: "安全反光条作为设计语言元素，兼顾功能与视觉分层"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_003"
+    source_images:
+      - filename: "存储设备__工具包__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具包__07.jpg"
+        image_role: "hero"
+        visual_anchor: "Hybrid WR 20寸封闭式工具包，黄色PVC前面板含DEWALT logo+Water Resistant标识，黑色主体，硬质底盘，两侧侧袋"
+      - filename: "存储设备__工具包__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具包__08.jpg"
+        image_role: "hero"
+        visual_anchor: "Hybrid WR 16寸封闭式工具包，同系列设计语言，更小尺寸，黄色前面板"
+    product_name: "DeWalt Hybrid Water-Resistant Tool Bag (16\"/20\")"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "工具包"
+    design_language:
+      silhouette: "横向矩形卧包，黄色大面板覆盖正面约60%面积，圆角处理，硬质黑底盘，多侧袋构成"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（PVC防水前面板）+ 黑色（尼龙主体/底盘/提手）"
+        material: "PVC防水前面板，1680D尼龙主体，硬质底盘"
+        finish: "亮黄色PVC，哑光黑尼龙"
+      mounting: "手提+侧背带，底部硬质底盘防磨耐撞"
+      signature_detail: "整个正面被黄色PVC大面板覆盖，黄色panel成为主视觉——像贴了一张DeWalt标签在包上"
+    design_level:
+      score: 4
+      reason: "黄色防水PVC大面板将品牌色做成结构元素，极具识别性，视觉上把工具包变成了行走的品牌广告"
+    design_tags:
+      - "Hybrid系列"
+      - "防水"
+      - "黄色大面板"
+      - "品牌延伸"
+      - "H02_包覆设计"
+      - "H08_对比强调"
+    hero_feature: "整面黄色PVC防水面板占据包正面，远处即可辨认DeWalt品牌"
+    problem_solved: "工地恶劣环境（雨天/泥水）下工具包保护，同时成为品牌展示媒介"
+    transferable_technique: "品牌色大面积作为产品正面主视觉，功能面板（防水）与品牌识别合一（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_004"
+    source_images:
+      - filename: "存储设备__工具包__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具包__05.jpg"
+        image_role: "hero"
+        visual_anchor: "Hybrid WR 14寸双肩工具背包，正面黄色大面板，水平细拉链，黑色主体+双肩带"
+      - filename: "存储设备__工具包__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具包__10.jpg"
+        image_role: "hero"
+        visual_anchor: "Hybrid WR 14寸滚轮双肩背包，同黄色面板设计，底部双轮+伸缩拉杆"
+      - filename: "存储设备__工具包__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具包__03.jpg"
+        image_role: "hero"
+        visual_anchor: "Hybrid WR 18寸滚轮工具包，最大规格，黄色面板，底轮+伸缩拉杆，更宽体量"
+    product_name: "DeWalt Hybrid Water-Resistant Backpack/Rolling Series"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "工具包"
+    design_language:
+      silhouette: "立式矩形背包体，黄色面板正面占主导，14寸有肩带/滚轮两版本，18寸仅滚轮版，同平台三款"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（PVC防水正面板）+ 黑色（主体/轮/拉杆）"
+        material: "PVC防水面板，尼龙主体，ABS底盘含轮"
+        finish: "亮黄色PVC，哑光黑尼龙"
+      mounting: "三种形态：双肩背/滚轮推拉/双功能切换；统一底部轮+拉杆结构"
+      signature_detail: "三个规格共用同一黄色面板视觉系统，从背包到大型滚轮箱品牌识别不变"
+    design_level:
+      score: 4
+      reason: "同平台跨形态延伸策略优秀，黄色面板视觉系统高度统一，用户选规格不会迷失品牌"
+    design_tags:
+      - "Hybrid系列"
+      - "防水"
+      - "滚轮"
+      - "背包+滚轮二合一"
+      - "H05_模块化设计"
+    hero_feature: "背包/滚轮双形态共用黄色大面板视觉系统，一个家族三个规格"
+    problem_solved: "不同场景切换需求：轻装时背包，重载时拖轮"
+    transferable_technique: "同视觉系统跨形态延伸（同一黄色面板在背包/滚轮版通用），强化产品家族感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_005"
+    source_images:
+      - filename: "存储设备__工具包__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具包__09.jpg"
+        image_role: "hero"
+        visual_anchor: "11寸Hybrid WR电工斜挎包，黄色PVC前面板，内部全黄衬里，敞口，双挎带，底部微型硬底"
+    product_name: "DeWalt 11\" Hybrid Electrician's Shoulder Pouch"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "工具包"
+    design_language:
+      silhouette: "矮宽矩形敞口包，两侧挎带从包体延伸呈U形，黄色内衬在敞口处大面积可见"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（外面板+内衬）+ 黑色（尼龙主体/挎带）"
+        material: "PVC面板，尼龙主体，黄色涂层内衬"
+        finish: "亮黄色PVC，哑光黑尼龙"
+      mounting: "双斜挎带可单肩/双肩斜挎；敞口设计快速取放工具"
+      signature_detail: "敞口时黄色内衬大面积外露，黄黑双向可见（外黄面板+内黄衬里）"
+    design_level:
+      score: 3
+      reason: "黄色内衬外露的双面品牌设计有特色，敞口便于操作，但整体较普通"
+    design_tags:
+      - "Hybrid系列"
+      - "电工"
+      - "敞口"
+      - "黄色内衬"
+      - "H08_对比强调"
+    hero_feature: "外黄面板+内黄衬里，打开时黄色从内外两面显现"
+    problem_solved: "电工需要快速取放工具，敞口+斜挎组合"
+    transferable_technique: "品牌色延伸至内衬，打开时也保持品牌一致（H08对比强调的内外统一版）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_006"
+    source_images:
+      - filename: "存储设备__工具包__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具包__06.jpg"
+        image_role: "hero"
+        visual_anchor: "较早期工具双肩背包，黑色主体+两侧黄色直条，DeWalt刺绣，多口袋传统背包结构"
+    product_name: "DeWalt Tool Backpack (Classic)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "工具包"
+    design_language:
+      silhouette: "传统登山背包廓形，黑色主体两侧黄色侧板强调，多口袋竖向排列"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（主体）+ 黄色（两侧竖条/细节）"
+        material: "尼龙织物，无硬质底盘"
+        finish: "哑光黑尼龙"
+      mounting: "传统双肩背带，无滚轮，无系统兼容"
+      signature_detail: "两侧黄色竖条作为品牌锚点，比Hybrid系列的大面板更内敛"
+    design_level:
+      score: 2
+      reason: "早期设计语言，黄色侧条比例较小，视觉张力不足，已被Hybrid大面板系列取代"
+    design_tags:
+      - "早期设计"
+      - "黑黄配色"
+      - "传统背包"
+    hero_feature: "两侧黄色竖条作为品牌标识"
+    problem_solved: "工具收纳背负，传统背包功能"
+    transferable_technique: "品牌色侧条作为廓形锚点（对比Hybrid系列正面大面板的演进路径）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_007"
+    source_images:
+      - filename: "存储设备__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "黄色钢制三层货架，黄色方管框架+黑色层压板搁板，立柱三角形镂空图案，DeWalt角标"
+      - filename: "存储设备__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__02.jpg"
+        image_role: "hero"
+        visual_anchor: "同款货架换用黑色钢丝网格搁板，其余黄色框架不变"
+    product_name: "DeWalt Steel Storage Rack"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "综合"
+    design_language:
+      silhouette: "门型两立柱三横梁框架，立柱带等距三角形镂空减重，整体呈工业货架形态"
+      light_opening: "N/A（储物架）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（钢管框架/全体）+ 黑色（搁板/DeWalt角标）"
+        material: "重型钢管焊接框架，层压板或钢丝网搁板"
+        finish: "黄色粉末喷涂，黑色搁板"
+      mounting: "落地自立，底脚可调平，可与ToughSystem箱体组合使用"
+      signature_detail: "立柱三角形镂空图案（减重+视觉节奏），两种搁板选择（实心/网格）"
+    design_level:
+      score: 3
+      reason: "黄色工业货架高识别性，三角镂空有设计感，但货架品类设计创新空间有限"
+    design_tags:
+      - "货架"
+      - "黄色钢架"
+      - "三角镂空"
+      - "车间储物"
+    hero_feature: "全黄色钢管框架将工具品牌语言延伸至仓储家具品类"
+    problem_solved: "车间/工地临时储物，黄色货架在工地环境中高度可识别"
+    transferable_technique: "品牌标准色延伸至家具/储物品类，强化工作空间品牌统一性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_008"
+    source_images:
+      - filename: "存储设备__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__03.jpg"
+        image_role: "hero"
+        visual_anchor: "小型黄色滚塑保温箱(约10qt)，全黄外壳，黑色双提扣+拱形黑管提手，顶部两圆形杯托"
+      - filename: "存储设备__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__04.jpg"
+        image_role: "hero"
+        visual_anchor: "中型黄色滚塑保温箱(约25qt)，同系列，侧边纵向加强筋更明显，无拱形提手改为两侧绳提"
+      - filename: "存储设备__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__05.jpg"
+        image_role: "hero"
+        visual_anchor: "大型黄色滚塑保温箱(约45qt)，宽矮比例，底部防滑，侧面加强筋，黑色双提扣"
+      - filename: "存储设备__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__06.jpg"
+        image_role: "hero"
+        visual_anchor: "超大型黄色滚塑保温箱(约65qt)，最宽最矮比例，扁平冰桶形态"
+    product_name: "DeWalt Roto-Molded Insulated Cooler Series (10/25/45/65 qt)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "综合"
+    design_language:
+      silhouette: "全黄圆角矩形体，从小到大比例从立式渐变为扁卧式，侧面水平加强筋贯穿全系"
+      light_opening: "N/A（保温箱）"
+      thermal: "滚塑一体成型超厚壁（约5cm），无额外散热需求；黑色橡胶提扣为密封压合件"
+      cmf:
+        color: "黄色（滚塑外壳全体）+ 黑色（提扣/logo）"
+        material: "Roto-Molded（滚塑）聚乙烯，橡胶密封条，金属铰链"
+        finish: "哑光黄滚塑，质感比注塑更厚实"
+      mounting: "落地放置，小型有黑色拱管提手，大型为两侧绳/抓握凹槽；无轮（区别于普通冰箱）"
+      signature_detail: "全黄色滚塑外壳将YETI风格高端保温箱与DeWalt品牌色融合，极强工地视觉冲击"
+    design_level:
+      score: 4
+      reason: "全黄滚塑将工具品牌延伸至高端保温品类，极具识别性，类YETI品质感+DeWalt工地语言完美结合"
+    design_tags:
+      - "滚塑"
+      - "保温箱"
+      - "全黄"
+      - "工地日用品"
+      - "品牌延伸"
+      - "H10_材料表达"
+    hero_feature: "整体全黄色滚塑外壳，在工地远处即可辨认，DeWalt品牌入侵日常用品品类"
+    problem_solved: "工地施工员日常饮食保温，全黄色便于在工地找到自己的冷饮箱"
+    transferable_technique: "品牌标准色覆盖整个产品（不留余地）的品牌扩张手法，适合跨品类延伸（H10材料+颜色表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_009"
+    source_images:
+      - filename: "存储设备__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__07.jpg"
+        image_role: "hero"
+        visual_anchor: "20寸开口手提工具托盘包，黄色PVC前面板，黑色尼龙主体，钢管弓形提手带泡棉握套，开口可见内部"
+    product_name: "DeWalt 20\" Open-Top Tool Tote"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "综合"
+    design_language:
+      silhouette: "低矮横向矩形开口体，顶部钢管弓形提手高耸，形成强烈高宽比反差"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（PVC前面板）+ 黑色（尼龙主体/钢管提手）"
+        material: "PVC防水面板，1680D尼龙，钢管提手+EVA泡棉握套"
+        finish: "亮黄PVC，哑光黑尼龙，钢管氧化黑"
+      mounting: "单手钢管提手，宽口顶部快速取放"
+      signature_detail: "高耸的黑色弓形钢管提手与低矮包体形成极端高宽比，视觉张力强"
+    design_level:
+      score: 4
+      reason: "钢管弓形提手比例夸张有力量感，配合黄色面板，工地视觉冲击力强"
+    design_tags:
+      - "开口托盘"
+      - "钢管弓形提手"
+      - "黄色面板"
+      - "H08_对比强调"
+    hero_feature: "高耸黑色弓形钢管提手与低矮扁宽包体的比例对比，一眼可辨"
+    problem_solved: "需要快速取放大型工具（电钻/角磨），开口式省去拉链时间"
+    transferable_technique: "提手与包体的极端比例对比制造视觉记忆点（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_010"
+    source_images:
+      - filename: "存储设备__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__08.jpg"
+        image_role: "hero"
+        visual_anchor: "T-STAK开口工具托盘（有提手），深灰色塑料箱体，黑色弓形提手，黄色T-STAK卡扣，无盖"
+      - filename: "存储设备__综合__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__10.jpg"
+        image_role: "hero"
+        visual_anchor: "T-STAK无盖开口托盘（无提手），深灰纹理塑料，黄色卡扣，可多层叠加"
+      - filename: "存储设备__综合__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__11.jpg"
+        image_role: "hero"
+        visual_anchor: "T-STAK开口托盘（银色钢管弓形提手），深灰塑料，黄色卡扣，银色金属提手"
+    product_name: "DeWalt T-STAK Open Tool Tote (Modular Tray)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "综合"
+    design_language:
+      silhouette: "矩形开口深托盘形态，深灰纹理外壁，两侧T-STAK卡扣突出，黑色或银色提手可选"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "深灰色（塑料主体）+ 黄色（T-STAK卡扣/接口）+ 黑/银（提手）"
+        material: "HDPE/PP重型塑料，金属卡扣，钢管提手（部分款）"
+        finish: "哑光深灰纹理，黄色卡扣高对比"
+      mounting: "T-STAK系统接口，可与T-STAK硬箱/推车叠加；无盖版可大量堆叠"
+      signature_detail: "深灰塑料外壁上的黄色卡扣如同钩子，是T-STAK系统连接语言的视觉符号"
+    design_level:
+      score: 3
+      reason: "T-STAK模块化塑料托盘设计系统完整，深灰+黄扣的视觉语言统一，但单品设计较平"
+    design_tags:
+      - "T-STAK"
+      - "模块化"
+      - "开口托盘"
+      - "深灰黄扣"
+      - "H05_模块化设计"
+    hero_feature: "深灰塑料体上的黄色T-STAK卡扣，是系统连接语言的视觉呈现"
+    problem_solved: "T-STAK用户需要开口大容量临时装载，系统内模块叠加"
+    transferable_technique: "系统连接件用品牌色高亮显示，将功能接口变成品牌视觉语言（H05模块化+H08对比）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_011"
+    source_images:
+      - filename: "存储设备__综合__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__09.jpg"
+        image_role: "hero"
+        visual_anchor: "黄黑水桶托盘工具包，圆柱形，黄色上半+黑色下半，开口，多侧袋，DeWalt刺绣"
+      - filename: "存储设备__综合__19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__综合__19.jpg"
+        image_role: "scene"
+        visual_anchor: "软质保温午餐包打开状，黑色主体+黄色顶部拉条，内装食物+饮料，DeWalt刺绣"
+    product_name: "DeWalt Bucket Tool Organizer + Insulated Lunch Bag"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "综合"
+    design_language:
+      silhouette: "水桶托盘：圆柱形上宽下窄，黄上黑下双色分区；午餐包：矩形软包，黄色顶部条带"
+      light_opening: "N/A"
+      thermal: "午餐包为隔热内衬软包，不同于冷饮箱的硬质滚塑保温"
+      cmf:
+        color: "黄色（水桶上半/午餐包顶带）+ 黑色（水桶下半/午餐包主体）"
+        material: "尼龙织物（两款），午餐包含隔热内衬"
+        finish: "哑光尼龙"
+      mounting: "水桶：套于标准5加仑水桶外；午餐包：手提+斜挎"
+      signature_detail: "水桶托盘的黄黑分割线在圆形截面上形成视觉腰带；午餐包黄色顶带是可视品牌语言"
+    design_level:
+      score: 3
+      reason: "日常用品品牌化，水桶托盘的黄黑腰带有设计感，但属于功能性配件"
+    design_tags:
+      - "水桶托盘"
+      - "午餐包"
+      - "日常用品品牌化"
+      - "黄黑分割"
+    hero_feature: "水桶托盘的黄黑腰带式双色分割，将品牌色嵌入圆形截面"
+    problem_solved: "工地每日携带：工具（水桶）+午餐（保温包）一套日常配件"
+    transferable_technique: "圆柱形产品的水平腰带式双色分割，制造视觉层次"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_012"
+    source_images:
+      - filename: "存储设备__工具腰带__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具腰带__01.jpg"
+        image_role: "hero"
+        visual_anchor: "全套尼龙工具腰带组，黑色+黄色腰带线，多口袋围裙式，锤环，两侧各一大袋+小袋"
+      - filename: "存储设备__工具腰带__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具腰带__07.jpg"
+        image_role: "hero"
+        visual_anchor: "同系列增加背带的吊带腰带套装，黑色吊带从肩部下垂连接腰带，黄色细节，悬挂式腰带负重分散"
+    product_name: "DeWalt Nylon Tool Belt / Suspension Rig"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "工具腰带"
+    design_language:
+      silhouette: "围裙式宽腰带主体，多口袋左右对称分布，吊带版加背部X形或H形肩带"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（1000D尼龙主体）+ 黄色（腰带饰边/DeWalt刺绣）"
+        material: "重型尼龙织物，钢扣，橡胶口袋衬底"
+        finish: "哑光黑尼龙，黄色刺绣"
+      mounting: "宽腰带系于腰部；吊带版通过肩带将重量分散至肩部"
+      signature_detail: "吊带款独特X形背带将腰带负重升级为全身负重分散系统，类攀登装备语言"
+    design_level:
+      score: 3
+      reason: "标准工地腰带，吊带系统设计有工程感，黑黄配色统一，无突破性创新"
+    design_tags:
+      - "工具腰带"
+      - "吊带系统"
+      - "尼龙"
+      - "多口袋"
+    hero_feature: "吊带款的X形肩带将腰带产品升级为全身负重分散系统"
+    problem_solved: "减少腰带长时间作业腰部压力，重量分散至双肩"
+    transferable_technique: "攀登/作业吊带语言引入工具腰带，功能升级同时强化专业感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_013"
+    source_images:
+      - filename: "存储设备__工具腰带__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具腰带__03.jpg"
+        image_role: "hero"
+        visual_anchor: "全皮工具腰带套装，深棕/炭灰二色头层皮，双侧口袋+中央圆筒套管，钢质铆钉，黄色小DeWalt标签"
+      - filename: "存储设备__工具腰带__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具腰带__09.jpg"
+        image_role: "hero"
+        visual_anchor: "全皮工具腰带（较厚款），棕+黑拼色皮革，中央圆筒套，两侧多口袋，铆钉+皮缝明显"
+    product_name: "DeWalt Leather Tool Belt"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "工具腰带"
+    design_language:
+      silhouette: "围裙式宽体，皮革天然纹理覆盖全体，棕/炭双色拼接，铆钉作为结构和装饰元素"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "深棕色（头层牛皮）+ 炭灰色（绒面皮内衬）+ 黄色（DeWalt小标签/皮革本色）"
+        material: "头层牛皮，铜质/钢质铆钉，铸铁扣"
+        finish: "自然皮革光泽，棕色与炭灰拼接"
+      mounting: "皮革厚腰带穿套，金属大扣锁定"
+      signature_detail: "铆钉+粗明缝针脚构成皮革腰带的结构装饰，品牌小黄标签嵌入皮面"
+    design_level:
+      score: 3
+      reason: "皮革工具腰带是专业工匠传统，黄色标签品牌化克制，整体设计高质感但保守"
+    design_tags:
+      - "工具腰带"
+      - "全皮"
+      - "传统工匠"
+      - "铆钉"
+      - "H10_材料表达"
+    hero_feature: "头层牛皮+铆钉+粗明缝的工匠手工感，与黑黄尼龙款形成强烈材质对比"
+    problem_solved: "高频使用场景，皮革耐磨耐久，比尼龙款使用寿命更长"
+    transferable_technique: "材质本身成为产品语言：牛皮+铆钉=耐久专业信号（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_014"
+    source_images:
+      - filename: "存储设备__工具腰带__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具腰带__04.jpg"
+        image_role: "hero"
+        visual_anchor: "小型尼龙电钻套（holster），黑色主体+顶部黄色DeWalt色块，侧面固定带，可挂腰带"
+      - filename: "存储设备__工具腰带__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具腰带__05.jpg"
+        image_role: "hero"
+        visual_anchor: "单体电工小袋+腰带，黑色主体，黄色底部面板，黑色尼龙腰带，锤环，底部黄色可见"
+      - filename: "存储设备__工具腰带__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具腰带__11.jpg"
+        image_role: "hero"
+        visual_anchor: "小尼龙工具袋+腰带，黑体+黄色DeWalt LOGO，多口袋，与04/05同平台"
+      - filename: "存储设备__工具腰带__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具腰带__12.jpg"
+        image_role: "hero"
+        visual_anchor: "另一款小型尼龙电钻套，与04极相似，黑+黄"
+    product_name: "DeWalt Nylon Single Tool Pouch / Holster Series"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "工具腰带"
+    design_language:
+      silhouette: "小矩形开口袋形，黑色主体+黄色局部色块（顶部或底部），腰带扣/卡片挂扣"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（主体）+ 黄色（DeWalt色块/腰带边）"
+        material: "1000D尼龙，尼龙腰带，钢卡扣"
+        finish: "哑光黑，黄色色块"
+      mounting: "腰带穿套或快拆卡扣，挂于腰带上独立使用"
+      signature_detail: "黄色色块位于顶部或底部，视角不同时保证DeWalt品牌可见"
+    design_level:
+      score: 2
+      reason: "单体配件，实用功能为主，黄色局部色块设计简洁但缺乏亮点"
+    design_tags:
+      - "工具腰带配件"
+      - "电钻套"
+      - "尼龙小袋"
+      - "黑黄局部"
+    hero_feature: "黑色主体上的黄色品牌色块，保证在腰带配件小体量上的品牌识别"
+    problem_solved: "单独悬挂电钻/工具，不用整套腰带"
+    transferable_technique: "小尺寸产品上用局部品牌色维持系列识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_存储设备_015"
+    source_images:
+      - filename: "存储设备__工具腰带__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具腰带__08.jpg"
+        image_role: "hero"
+        visual_anchor: "单侧皮革工具袋+皮腰带，深棕皮革，黄色小DeWalt标签，口袋嵌入式设计，铆钉"
+      - filename: "存储设备__工具腰带__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具腰带__10.jpg"
+        image_role: "hero"
+        visual_anchor: "皮革电工袋（多槽螺丝刀插口），深棕/炭色皮革，多直立插槽+钥匙勾，金属钻链"
+      - filename: "存储设备__工具腰带__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/存储设备/存储设备__工具腰带__06.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色乙烯基圆形钉袋，桶形，拉绳收口，黄色DeWalt印刷logo"
+    product_name: "DeWalt Leather Pouch + Vinyl Nail Bag"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "存储设备"
+      - "工具腰带"
+    design_language:
+      silhouette: "皮革袋：矩形多槽竖向排列；钉袋：圆桶形，拉绳收口"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "皮革袋：深棕+炭灰（皮革本色）；钉袋：全黑（乙烯基）+黄色logo"
+        material: "皮革袋：头层牛皮；钉袋：乙烯基（PVC类），拉绳"
+        finish: "皮革自然光泽；钉袋光面黑色乙烯基"
+      mounting: "皮革袋：腰带穿套；钉袋：腰带穿套环"
+      signature_detail: "电工皮袋底部金属钻链（工匠装备传统细节），钉袋圆桶+拉绳收口的极简形态"
+    design_level:
+      score: 3
+      reason: "皮革配件延续传统工匠美学，钉袋乙烯基圆桶极简，两款材质语言截然不同"
+    design_tags:
+      - "皮革配件"
+      - "钉袋"
+      - "传统工匠"
+      - "H10_材料表达"
+    hero_feature: "电工皮袋的底部金属钻链是传统工匠细节，兼具防坠落功能和工匠身份标识"
+    problem_solved: "专业电工/木工的长期使用耐久需求，皮革配件比尼龙更耐磨"
+    transferable_technique: "材质本身传达专业身份：皮革+金属链=老工匠语言（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

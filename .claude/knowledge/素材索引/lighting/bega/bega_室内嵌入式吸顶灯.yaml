@@ -1,0 +1,492 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "嵌入式吸顶灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/"
+  generated_at: "2026-05-09"
+products:
+  - product_id: "bega_嵌入式吸顶灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆形面板，浅碗形内腔，磨砂银内胆，极细边圈，光源完全隐藏"
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/02.jpg"
+        image_role: "alternate"
+        visual_anchor: "同款白色圆环，乳白漫射面板与内腔齐平，面板发光均匀无热点"
+    product_name: "BEGA 圆形漫射嵌入式筒灯（白）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "漫射型"]
+    design_language:
+      silhouette: "正圆形，极薄边圈，整体轮廓几乎与天花板齐平，可见部分最小化"
+      light_opening: "乳白漫射面板与边圈内侧齐平，无凹陷暗区，出光均匀柔和"
+      thermal: "散热结构完全隐藏于天花板内，外观无任何散热鳍片"
+      cmf:
+        color: "全白（哑光）"
+        material: "压铸铝"
+        finish: "细腻粉末喷涂哑光白"
+      mounting: "嵌入式，边圈与天花板面齐平，安装缝隙极小"
+      signature_detail: "超薄圆环边圈 + 无可见边界的漫射出光面，灯具存在感接近消失"
+    design_level:
+      score: 5
+      reason: "极简主义的最高级：灯具几乎不存在，只剩下光。边圈比例、出光面处理达到工业设计级别的克制。"
+    design_tags: ["极简", "漫射出光", "天花齐平", "白色", "隐身设计", "H07极简整合", "H09隐藏工程"]
+    hero_feature: "出光面与边圈之间无过渡阶差，漫射面板填满开口，灯具视觉存在感降至最低"
+    problem_solved: "消除嵌入式筒灯常见的「黑洞感」和「亮斑」，实现天花板上的均匀发光点"
+    transferable_technique: "边圈内侧倒角 + 漫射面板齐平处理，可迁移至任何需要「消隐」的嵌入式产品开口设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆环 + 深反射碗，碗内为镜面多切面反射器，无扩散罩，内胆全开放"
+    product_name: "BEGA 圆形深碗开放反射嵌入式筒灯（白）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "开放反射型"]
+    design_language:
+      silhouette: "白色正圆边圈 + 向下深凹的反射碗，整体比例：边圈宽约占开口径1/5"
+      light_opening: "完全开放式，镜面多切面铝反射器直接暴露，定向出光，防眩靠反射器切面角度控制"
+      thermal: "隐藏于天花内，无外部散热结构"
+      cmf:
+        color: "外圈哑光白 / 内碗高光银镜面"
+        material: "压铸铝"
+        finish: "外圈粉末喷涂白，内碗镜面阳极氧化铝"
+      mounting: "嵌入式，边圈齐平"
+      signature_detail: "镜面多切面反射器（faceted reflector）形成精密几何光学纹理，功能即装饰"
+    design_level:
+      score: 4
+      reason: "反射器切面工艺精度高，内外材质对比（哑白 vs 镜银）构成视觉张力，功能外显做得克制而有力。"
+    design_tags: ["开放反射", "镜面反射器", "定向出光", "白色", "内外材质对比", "H11功能外显", "H08对比强调"]
+    hero_feature: "多切面镜面铝反射器在碗内形成精密几何光学纹理，将工程精度转化为视觉特征"
+    problem_solved: "在不用扩散罩的前提下实现精准定向配光，反射器切面角度控制眩光"
+    transferable_technique: "多切面反射器作为「可见精度」的设计语言，可迁移至需要展示工艺感的定向光源开口处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色圆形边圈，铜色/玫瑰金哑光内碗，内碗平滑无纹，轻微可见中心LED"
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/05.jpg"
+        image_role: "alternate"
+        visual_anchor: "同款，更正面视角，黑色边圈与铜色内碗对比更强烈，内碗更深"
+    product_name: "BEGA 圆形嵌入式筒灯（黑框+铜内碗）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "装饰型"]
+    design_language:
+      silhouette: "黑色正圆薄边圈，铜色平滑深碗，内碗深度中等，光源隐藏良好"
+      light_opening: "无扩散罩，铜色哑光内碗直接反射，出光偏暖柔和"
+      thermal: "隐藏于天花内"
+      cmf:
+        color: "外圈哑光黑 / 内碗铜色（玫瑰金哑光）"
+        material: "压铸铝"
+        finish: "外圈粉末喷涂黑，内碗粉末喷涂铜色哑光"
+      mounting: "嵌入式，边圈贴天花"
+      signature_detail: "黑色边圈与铜色内碗的撞色组合，工业精度外壳 + 温暖色调内腔，形成外冷内暖的材质叙事"
+    design_level:
+      score: 4
+      reason: "配色组合具有明确设计主张，黑+铜是当下高端室内照明标准语言，比例控制精准，边圈极薄。"
+    design_tags: ["双色撞色", "铜色内碗", "黑色边圈", "装饰性", "外冷内暖", "H08对比强调", "H10材料表达"]
+    hero_feature: "黑色压铸铝边圈配铜色内碗，两种表面处理在同一圆形截面上形成锐利的色彩边界"
+    problem_solved: "在保持嵌入式灯具低调轮廓的前提下，通过配色赋予产品装饰价值和场所感"
+    transferable_technique: "外框中性深色 + 内腔暖金属色的双色策略，可迁移至任何需要在克制外形中注入温度感的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_004"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆形边圈，金色蜂窝微纹理漫射面板，纹理六边形排列密集，整体铺满开口"
+    product_name: "BEGA 圆形嵌入式筒灯（白框+金蜂窝漫射面）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "装饰型"]
+    design_language:
+      silhouette: "白色圆形边圈，开口被金色蜂窝面板填满，整体几乎齐平天花板"
+      light_opening: "蜂窝微纹理漫射面板，六边形单元约3-4mm，既防眩又形成装饰图案"
+      thermal: "隐藏于天花内"
+      cmf:
+        color: "外圈哑光白 / 内面板金色（暖黄金属哑光）"
+        material: "压铸铝 + 铝蜂窝面板"
+        finish: "外圈粉末喷涂白，面板阳极氧化金色哑光"
+      mounting: "嵌入式，边圈贴天花"
+      signature_detail: "金色铝蜂窝微纹理面板：同时承担防眩光、均匀出光、装饰纹理三重功能，是功能即装饰的最佳示例"
+    design_level:
+      score: 5
+      reason: "蜂窝面板将防眩工程解决方案升华为装饰语言，功能与美学完全统一，是H09隐藏工程+H11功能外显的完美结合。"
+    design_tags: ["蜂窝纹理", "金色面板", "功能即装饰", "防眩设计", "白+金", "H04参数化", "H11功能外显", "H09隐藏工程"]
+    hero_feature: "大面积金色铝蜂窝面板将防眩光学结构转化为精密参数化装饰纹理，六边形单元密集排列形成强烈视觉质感"
+    problem_solved: "用装饰性纹理面板解决开放式出光口的眩光问题，同时赋予产品区别于竞品的视觉记忆点"
+    transferable_technique: "将光学防眩功能（蜂窝/微棱镜/格栅）转化为产品表面装饰语言，可迁移至任何需要防眩开口的照明或屏幕类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆形边圈，白色深碗，碗内镜面多切面反射器模块偏向一侧倾斜安装，反射器可旋转调角"
+      - filename: "103.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/103.jpg"
+        image_role: "alternate"
+        visual_anchor: "同款，深灰色背景，白色碗体与镜面反射器对比更清晰，倾斜角度更明显"
+    product_name: "BEGA 圆形可调角嵌入式射灯（白，深碗型）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "可调角射灯型"]
+    design_language:
+      silhouette: "白色正圆边圈，深碗体占据大部分可见面积，镜面反射器模块偏心倾斜，形成非对称构图"
+      light_opening: "镜面多切面反射器模块可旋转调节，出光方向可偏移约30-35度"
+      thermal: "隐藏于天花内"
+      cmf:
+        color: "全白（哑光）/ 内反射器镜面银"
+        material: "压铸铝"
+        finish: "外圈及碗体粉末喷涂哑光白，反射器镜面阳极氧化"
+      mounting: "嵌入式，边圈贴天花，碗体较深"
+      signature_detail: "镜面反射器模块在白色深碗内偏心倾斜，整体呈非对称「斜视」构图，功能姿态转化为识别特征"
+    design_level:
+      score: 4
+      reason: "可调角结构处理得非常克制，从外部看只是一个镜面模块微微偏移，没有常见射灯的机械感和攻击性。"
+    design_tags: ["可调角", "深碗", "非对称构图", "射灯", "白色", "H11功能外显", "H07极简整合"]
+    hero_feature: "镜面反射器模块在深碗内偏心倾斜，用「斜视」的静态姿态暗示方向性，调角机构完全隐藏于碗内"
+    problem_solved: "在保持嵌入式灯具克制外观的前提下实现定向重点照明，避免传统可调射灯的外露机械感"
+    transferable_technique: "将调节机构藏入深腔，只暴露功能状态的结果（倾斜角度）而非机构本身，可迁移至任何需要隐藏调节机构的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆环边圈，内圈为抛光铬金属环，中心为凸起玻璃透镜，透明玻璃罩覆盖LED，双环结构"
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/09.jpg"
+        image_role: "alternate"
+        visual_anchor: "同系列更大尺寸，同心圆玻璃环结构，外层宽玻璃圆环 + 内层玻璃圆环 + 中心LED透镜，全透明"
+    product_name: "BEGA 圆形嵌入式玻璃透镜筒灯（白+铬+玻璃）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "玻璃透镜型"]
+    design_language:
+      silhouette: "白色外圆环 + 铬金属内环 + 玻璃透镜，三环同心圆结构，轻薄通透"
+      light_opening: "高透明光学玻璃透镜，不散射光线，出光方向明确，玻璃元素在关灯时呈现晶体透明感"
+      thermal: "隐藏于天花内"
+      cmf:
+        color: "外圈哑白 / 内环镜面铬 / 透镜清透玻璃"
+        material: "压铸铝 + 光学玻璃"
+        finish: "外圈粉末喷涂白，铬环镜面电镀，玻璃抛光"
+      mounting: "嵌入式，边圈贴天花"
+      signature_detail: "光学玻璃透镜嵌入金属环，三种材质（铝/铬/玻璃）同心圆排列，关灯时呈现珠宝级晶体感"
+    design_level:
+      score: 5
+      reason: "将光学元件升华为装饰物，玻璃+铬+白铝的材质层次丰富，同心圆构图极具秩序感，是H10材料表达的范本。"
+    design_tags: ["光学玻璃", "同心圆", "铬金属", "珠宝感", "三材质", "H10材料表达", "H07极简整合"]
+    hero_feature: "光学玻璃透镜与抛光铬内环组合，将光学精度与珠宝质感合二为一，关灯状态本身就是装饰品"
+    problem_solved: "将筒灯的光学元件（透镜）从隐藏对象变为展示主角，同时满足精准配光和装饰价值"
+    transferable_technique: "将功能性光学件（透镜/棱镜/菲涅尔）与高档材质（铬/金/玻璃）组合成同心圆装饰语言，可迁移至需要「开灯功能/关灯装饰」双态价值的照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_007"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "白色大圆形边圈，圆形LED模块在碗内大幅度倾斜，模块面板为蜂巢多LED阵列（约25颗），结构粗壮"
+    product_name: "BEGA 圆形大角度可调嵌入式高功率射灯（白，蜂巢LED阵列）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "高功率可调射灯型"]
+    design_language:
+      silhouette: "大口径白色圆形边圈，圆形灯头模块在边圈内大角度偏转（约45度），灯头模块体量感强，边圈后部可见黑色锁紧机构"
+      light_opening: "蜂巢形多LED阵列（约5×5排列），每颗LED有独立反射杯，整体呈圆形，高功率输出"
+      thermal: "模块内部集成，外部无明显散热鳍片"
+      cmf:
+        color: "外圈哑光白 / 模块正面哑光银灰 / 背部锁紧件黑色"
+        material: "压铸铝"
+        finish: "粉末喷涂白+灰，锁紧件阳极氧化黑"
+      mounting: "嵌入式，边圈贴天花，模块可大角度调节"
+      signature_detail: "蜂巢LED阵列面板：将多颗LED的集成阵列作为产品正面主视觉，形成高功率射灯特有的技术感面孔"
+    design_level:
+      score: 4
+      reason: "大角度调节结构暴露得坦然，蜂巢LED阵列将高功率的技术性转化为视觉语言，力量感与精密感并存。"
+    design_tags: ["高功率", "多LED阵列", "大角度可调", "技术感", "蜂巢阵列", "H11功能外显", "H04参数化"]
+    hero_feature: "蜂巢形多LED阵列（约25颗）组成的圆形光学面板，将高功率密度技术外显为精密蜂巢图案"
+    problem_solved: "在嵌入式形态下实现大角度（~45°）重点照明，适用于高挑空商业或博物馆场景"
+    transferable_technique: "多单元阵列排布（LED/传感器/喷口）转化为产品正面装饰性技术图案，可迁移至需要展示高功率密度的照明或其他技术产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_008"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "细白色线性矩形边框，嵌入天花，内部黑色槽体，10个独立方形LED格栅单元横向线性排列"
+    product_name: "BEGA 线性嵌入式格栅LED灯（白框+黑格栅阵列）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "线性格栅型"]
+    design_language:
+      silhouette: "极细白色矩形线框，长宽比约8:1，完全嵌入天花板，侧面几乎不可见"
+      light_opening: "10个方形格栅单元（约3×3cm），每格内含独立反射杯LED，格栅单元黑色吸光，防眩性极强"
+      thermal: "隐藏于天花内"
+      cmf:
+        color: "外框哑光白 / 格栅体哑光黑"
+        material: "铝挤型材"
+        finish: "外框粉末喷涂白，格栅体粉末喷涂黑"
+      mounting: "嵌入式，白色线框贴天花，槽体向上"
+      signature_detail: "超细白色线框 + 黑色格栅阵列：白色线框从天花板上「切出」一条精准的光线，格栅单元控制出光角度防止眩光"
+    design_level:
+      score: 4
+      reason: "线性格栅在天花上形成极强的秩序感，白线切割构图精准，防眩光学结构与视觉语言高度统一。"
+    design_tags: ["线性格栅", "白框黑格", "方形单元阵列", "防眩", "线性照明", "H04参数化", "H08对比强调"]
+    hero_feature: "超细白色线性边框切割天花板，内置黑色方形格栅单元阵列，将防眩结构转化为精密模块化图案"
+    problem_solved: "在大空间天花板实现无眩光线性泛光，白色线框最小化产品存在感，黑色格栅最大化防眩效果"
+    transferable_technique: "细线框 + 内部深色格栅单元阵列的「框内消隐」策略，可迁移至任何需要线性光源防眩处理的照明或格栅类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_009"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆形边圈，小尺寸，内部金/黄铜色圆形碗体偏心倾斜，中心小型LED，整体比例小巧精致"
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/13.jpg"
+        image_role: "alternate"
+        visual_anchor: "同款全金/香槟色版本：边圈与内碗均为同色金/沙金，碗体倾斜，整体单色"
+    product_name: "BEGA 圆形小尺寸可调嵌入式射灯（白+金 / 全金色）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "小尺寸可调射灯型"]
+    design_language:
+      silhouette: "小口径正圆边圈（约80-100mm），内部金色浅碗偏心倾斜，比例紧凑，形态优雅"
+      light_opening: "浅碗无扩散罩，金色哑光内壁直接反射，出光偏暖"
+      thermal: "隐藏于天花内"
+      cmf:
+        color: "①白圈+金碗撞色版 ②全香槟/沙金色单色版"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光白/金色，单色版全体统一"
+      mounting: "嵌入式，边圈贴天花"
+      signature_detail: "小尺寸精致比例 + 金色碗体倾斜的优雅姿态，单色全金版本将灯具变为天花板上的金色珠宝"
+    design_level:
+      score: 4
+      reason: "单色全金版本的设计纯粹度极高，消除内外色差后形态张力更集中于那一抹倾斜弧线。"
+    design_tags: ["小尺寸", "可调角", "金色", "单色处理", "精致比例", "H08对比强调", "H10材料表达"]
+    hero_feature: "单色全金版（13.jpg）：边圈与碗体同色，倾斜的金色碗在天花板上形成一枚悬浮的金色弧面，珠宝感极强"
+    problem_solved: "在小空间或精品零售场景中提供定向照明，同时保持天花整洁和装饰品质"
+    transferable_technique: "单色处理（内外同色）消除内外对比，将产品从「工具」转化为「装饰对象」，可迁移至任何需要提升珍贵感的小型嵌入式产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_010"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "全白，大口径（约350-400mm），浅漏斗形内腔，底部为小圆形漫射面板，腔壁光滑连续向内收窄"
+    product_name: "BEGA 圆形大口径漫射漏斗嵌入灯（全白）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "大口径漫射型"]
+    design_language:
+      silhouette: "大口径圆形嵌入，轮廓极薄，外边缘与天花板接近齐平，内腔为连续光滑漏斗形，无硬折角"
+      light_opening: "底部小圆形乳白漫射面板，腔壁反射将光柔化并向下扩散，出光非常均匀柔和"
+      thermal: "隐藏于天花内"
+      cmf:
+        color: "全白（哑光）"
+        material: "压铸铝"
+        finish: "粉末喷涂哑光白，内外统一"
+      mounting: "嵌入式，大口径，边圈极薄，腔口直径远大于光源直径"
+      signature_detail: "连续光滑漏斗形腔体：开口直径与光源直径比约4:1，大面积腔壁参与反射与扩散，光效均匀度极高，形态语言接近建筑雕塑"
+    design_level:
+      score: 5
+      reason: "将光学腔体形态极简化，单曲面漏斗无任何装饰线条，纯粹到近乎建筑元素，代表BEGA嵌入灯的最高美学形态。"
+    design_tags: ["大口径", "漏斗腔体", "全白", "极简建筑感", "均匀漫射", "H07极简整合", "H01减法"]
+    hero_feature: "连续光滑漏斗形白色腔体，无任何硬折角或装饰，大口径与小光源之间的比例落差创造出建筑雕塑感"
+    problem_solved: "在大面积天花上创造大直径柔和光晕，比多个小筒灯更具整体感，光斑边界模糊自然"
+    transferable_technique: "大口径光学腔体（开口径远大于光源）形成「光的漏斗」，通过腔壁反射替代扩散罩，可迁移至任何需要大面积柔光效果的嵌入式产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_011"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "铜红/赤土色大口径圆形嵌入灯，薄边圈，中心小型乳白漫射面板，内腔偏白，斜角视图"
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/16.jpg"
+        image_role: "detail"
+        visual_anchor: "同款铜红色近景侧视：边圈极薄（约5-8mm），内壁连续弧面，铜色哑光表面纹理清晰"
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/17.jpg"
+        image_role: "alternate"
+        visual_anchor: "全金/黄铜色版本同款，大口径，中心小漫射面板，浅漏斗腔，单色全金处理"
+    product_name: "BEGA 圆形大口径漫射漏斗嵌入灯（铜红色 / 全金色）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "大口径漫射型"]
+    design_language:
+      silhouette: "大口径圆形嵌入，边圈极薄（~6mm），内腔浅漏斗形，底部小圆漫射面板，整体比例与产品010相同但有色彩版本"
+      light_opening: "小型乳白漫射面板位于漏斗底部，铜红/金色腔壁参与光的混色反射，出光带有暖金属色调"
+      thermal: "隐藏于天花内"
+      cmf:
+        color: "①铜红/赤土色（terracotta copper） ②全金/黄铜色"
+        material: "压铸铝"
+        finish: "精细粉末喷涂，铜红/金色哑光，表面有轻微金属质感纹理"
+      mounting: "嵌入式，大口径，边圈极薄"
+      signature_detail: "超薄边圈（~6mm）+ 有色大口径漏斗腔：铜红色腔壁在出光时将暖色调混入白色光线，腔体本身成为滤色器"
+    design_level:
+      score: 5
+      reason: "铜红色版本是整个系列最具辨识力的产品，超薄边圈+大口径漏斗腔+有色腔壁三要素叠加，功能、材质、形态全部统一。"
+    design_tags: ["大口径", "漏斗腔体", "铜红色", "全金色", "超薄边圈", "有色腔壁", "H10材料表达", "H01减法"]
+    hero_feature: "超薄约6mm铜红色边圈与大口径漏斗腔体的比例关系：边圈极细但圆周刚性感强，铜色表面纹理在侧光下可见细腻哑光质感"
+    problem_solved: "在「消失在天花板」的形态前提下，通过高辨识度色彩赋予产品强烈的装饰存在感，两种诉求在比例关系中平衡"
+    transferable_technique: "超薄圆环边框+大面积有色腔体内壁：腔体色彩参与出光色温混合，材质即光学元件，可迁移至任何需要色彩化腔体的开口式产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_012"
+    source_images:
+      - filename: "139.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/139.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰/石墨色背景，极扁圆形嵌入灯，边圈为哑光石墨黑，内部镜面多切面反射器微微偏心倾斜"
+    product_name: "BEGA 圆形极低矮可调嵌入式射灯（石墨黑）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path: ["灯具", "嵌入式吸顶灯", "可调角射灯型"]
+    design_language:
+      silhouette: "极低矮圆形嵌入，边圈高度约8-10mm，扁平感极强，边圈宽约15mm，圆形口径中等"
+      light_opening: "镜面多切面反射器微偏心，无内碗腔体，反射器几乎与边圈上沿齐平，完全开放"
+      thermal: "隐藏于天花内"
+      cmf:
+        color: "全石墨黑/深灰哑光（边圈）+ 镜面银反射器"
+        material: "压铸铝"
+        finish: "粉末喷涂深灰/石墨哑光，反射器镜面"
+      mounting: "嵌入式，边圈极扁，存在感极低，适合深色天花"
+      signature_detail: "极扁低矮比例（高度/直径比约1:8）+ 石墨哑光色调：在深色天花上几乎完全消隐，只剩镜面反射器"
+    design_level:
+      score: 4
+      reason: "石墨色版本专为深色天花设计，低矮扁平的比例把存在感降至极限，配色与形态服务同一个目标：隐身。"
+    design_tags: ["石墨黑", "极低矮", "深色天花", "可调角", "隐身设计", "H07极简整合", "H09隐藏工程"]
+    hero_feature: "极扁圆形轮廓（高度约8-10mm）配石墨哑光色，专为深色天花定制的隐身方案，镜面反射器成为唯一视觉焦点"
+    problem_solved: "在深色或混凝土天花上提供可调向定向照明，同时保持灯具与天花的视觉统一"
+    transferable_technique: "极扁低矮比例+深色哑光涂装的「隐身策略」，可迁移至所有需要贴合深色基底、降低产品存在感的嵌入式部件设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_嵌入式吸顶灯_013"
+    source_images:
+      - filename: "142.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/室内灯/嵌入式吸顶灯/142.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰背景，矩形嵌入式壁灯/台阶灯，石墨黑铝框，水平方向宽开口，内部白色斜面导光板上方LED串发暖白光"
+    product_name: "BEGA 矩形嵌入式线性壁灯/台阶灯（石墨黑）"
+    brand_name: "BEGA"
+    brand_confidence: "medium"
+    category_path: ["灯具", "嵌入式壁灯", "线性台阶灯"]
+    design_language:
+      silhouette: "宽矩形扁平嵌入式形体，长宽比约5:1，整体嵌入墙面，仅水平细缝出光"
+      light_opening: "横向水平细缝，内部斜面白色反射板将LED光向下导出，出光口极窄，防直视眩光"
+      thermal: "隐藏于墙体内"
+      cmf:
+        color: "石墨黑/深灰哑光铝框"
+        material: "铝挤型材"
+        finish: "粉末喷涂石墨黑哑光，有细肋纹理"
+      mounting: "嵌入式墙面安装，可见两个固定螺钉，框架略突出墙面"
+      signature_detail: "横向极细出光缝 + 内部斜面反射板：出光方向向下，在台阶/踢脚线处提供安全引导照明，BEGA品牌logo可见"
+    design_level:
+      score: 4
+      reason: "矩形极细缝的出光设计非常工程化，石墨色融合于深色墙面，细节做工（肋纹 + 螺钉外露但精准）体现德国精密制造感。"
+    design_tags: ["矩形嵌入", "线性细缝出光", "石墨黑", "壁灯/台阶灯", "安全引导", "H09隐藏工程", "H11功能外显"]
+    hero_feature: "横向极细水平出光缝：宽度约8-10mm，LED阵列隐藏于缝后，斜面反射板将光定向向下，出光位置精确控制"
+    problem_solved: "在台阶、走廊、踢脚线处提供安全引导光，灯具存在感极低，只有光的存在"
+    transferable_technique: "水平细缝出光 + 斜面内部反射板的定向引导策略，可迁移至台阶灯、地埋灯、踢脚灯等需要低位隐蔽引导照明的场景"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "该图产品为嵌入式壁灯/台阶灯而非吸顶灯，与本文件主分类（嵌入式吸顶灯）不同，建议确认是否归入本文件或移至独立索引"

@@ -1,0 +1,114 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "装饰落地灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/装饰落地灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "pl_落地灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/装饰落地灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "极细竖直线形落地灯，黑色圆柱底座，细杆从底向上发出黄→品红渐变彩光，顶端为点光"
+    product_name: "Philips Hue Gradient Signe 落地灯（黑色款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯"]
+    design_language:
+      silhouette: "超细垂直线形，细杆比例极端（高:直径约100:1），底部小圆柱基座；整体如一支竖立的细铅笔"
+      light_opening: "全杆正面线形出光（Gradient LED阵列），从底到顶连续彩色渐变"
+      thermal: "细铝合金杆体散热，底座含控制电路"
+      cmf:
+        color: "哑黑色（Matte Black）外壳，发光时显示渐变彩色"
+        material: "铝合金杆体，ABS底座"
+        finish: "粉末涂层哑面"
+      mounting: "落地放置，圆柱底座稳定重心，底部出线"
+      signature_detail: "极细杆体（约1cm直径）实现1.5m高度，视觉上灯光完全主导；Gradient渐变使整杆成为色彩雕塑"
+    design_level:
+      score: 5
+      reason: "比例极端大胆——超细杆极度克制形态让彩色渐变光成为100%视觉主角；黑色款形体与光的对比最强烈；是Philips Hue设计语言最高表达之一"
+    design_tags: ["线形落地灯", "超细杆", "Gradient渐变", "Hue", "H07极简整合", "H08对比强调", "H04参数化", "色彩雕塑"]
+    hero_feature: "1.5m的一条彩色光线立在地上——极细到几乎消失的杆体让渐变光成为唯一主角"
+    problem_solved: "角落/沙发旁需要高辨识度装饰氛围灯，传统落地灯灯罩体积笨重占空间"
+    transferable_technique: "超细杆体+全长出光的线形落地灯结构；底部圆柱基座最小化使视觉重心在光而非底座；Gradient渐变色由下向上的色彩叙事"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_落地灯_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/装饰落地灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "与001完全相同形态，白色版本，黄→品红渐变，白色圆柱底座"
+    product_name: "Philips Hue Gradient Signe 落地灯（白色款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯"]
+    design_language:
+      silhouette: "与001完全相同超细线形，白色版本使杆体日间更融入白色墙面"
+      light_opening: "全杆正面Gradient渐变出光，白色杆体使彩光显色更纯净"
+      thermal: "同001"
+      cmf:
+        color: "哑白色（Matte White）外壳"
+        material: "铝合金杆体，ABS底座"
+        finish: "粉末涂层哑白"
+      mounting: "落地放置，圆柱底座，底部出线"
+      signature_detail: "白色杆体在白色空间中消隐，仅剩色彩渐变浮空，比黑色款更「空灵」"
+    design_level:
+      score: 4
+      reason: '与黑色款相同设计，白色版日间杆体更融入背景，强化"光线浮空"效果；两款色彩策略分别对应不同风格偏好'
+    design_tags: ["线形落地灯", "超细杆", "Gradient渐变", "Hue", "H07极简整合", "白色空间融合"]
+    hero_feature: "白色杆消隐于墙，渐变彩光如凭空浮起——比黑色款更有「幽灵感」"
+    problem_solved: "浅色/北欧风室内需要落地灯白天不抢眼、开灯时氛围强烈"
+    transferable_technique: "同色系背景+超细结构的「消隐」设计手法；白色杆体强化彩色光纯度的视觉效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_落地灯_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/装饰落地灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "与001/002相同形态，浅木纹圆柱底座+白色杆体，蓝→橙暖色渐变，底座材质为木质"
+    product_name: "Philips Hue Gradient Signe 落地灯（木纹底座款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯"]
+    design_language:
+      silhouette: "完全相同超细线形结构，底座改为浅木色圆柱，杆体白色"
+      light_opening: "全杆Gradient渐变出光，此图展示蓝→橙跨越极大的冷暖渐变"
+      thermal: "同001"
+      cmf:
+        color: "白色杆体 + 浅木纹底座（Natural Wood）"
+        material: "铝合金杆，木质/木纹底座"
+        finish: "杆体哑白涂层，底座自然木纹"
+      mounting: "落地放置，木质底座，底部出线"
+      signature_detail: "木纹底座是三款中唯一自然材质点——赋予工业感产品一点家居温度；蓝橙跨度最大渐变展示技术极限"
+    design_level:
+      score: 4
+      reason: "木纹底座在三款中差异化最明显，自然材质×科技光效的对比强烈；蓝橙渐变是冷暖跨度最大的展示，视觉冲击力强"
+    design_tags: ["线形落地灯", "超细杆", "Gradient渐变", "Hue", "木纹底座", "H10材料表达", "冷暖对比渐变"]
+    hero_feature: "木纹底座×极细光杆——自然材质接地气，渐变彩光拔高科技感"
+    problem_solved: "日式/原木风室内需要与木质家居融合的智能氛围落地灯"
+    transferable_technique: "在统一产品结构中通过底座材质（金属/塑料/木纹）实现风格分化的产品线策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

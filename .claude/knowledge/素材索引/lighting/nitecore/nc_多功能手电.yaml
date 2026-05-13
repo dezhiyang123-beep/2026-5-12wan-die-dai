@@ -1,0 +1,254 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "手电筒"
+  tertiary: "多功能手电"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/多功能手电/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_多功能_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/多功能手电/01.jpg"
+        image_role: "hero"
+        visual_anchor: "超细长钢笔型筒身+笔夹+小灯头+三节分件"
+    product_name: "Nitecore MT2A Pro 多功能手电（笔型）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "多功能手电"]
+    design_language:
+      silhouette: "极细长钢笔型，头尾直径几乎相同，比例约1:8"
+      light_opening: "单LED小灯头，直径约14mm，无防护边"
+      thermal: "无明显散热结构，铝筒自然导热"
+      cmf:
+        color: "全哑光黑"
+        material: "航空铝合金，阳极氧化哑光黑"
+        finish: "筒身局部浅竖纹，三处分件腰环，Nitecore品牌文字白色印刷"
+      mounting: "侧面长弹簧金属笔夹，可夹口袋/背包"
+      signature_detail: "极细钢笔比例 + 金属弹簧笔夹 + 三节腰环"
+    design_level:
+      score: 3
+      reason: "钢笔型比例形态差异化明显，笔夹实用，但Nitecore语言较弱，与通用笔型手电雷同度高"
+    design_tags: ["钢笔型", "极细比例", "笔夹", "三节腰环", "EDC多功能", "口袋携带"]
+    hero_feature: "钢笔般的极细长比例与弹簧金属笔夹，将手电筒融入文具携带场景"
+    problem_solved: "需要像钢笔一样随身携带于衬衫口袋的多功能照明场景"
+    transferable_technique: "借用钢笔形态语言使功能产品融入日常文具携带场景的形态迁移手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_多功能_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/多功能手电/02.jpg"
+        image_role: "hero"
+        visual_anchor: "短粗钢笔型+尾部宽扁笔夹+单环分件"
+    product_name: "Nitecore MT1A Pro 多功能手电（短笔型）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "多功能手电"]
+    design_language:
+      silhouette: "比001短30%，但直径相近，比例更接近钢笔中段，重心更均匀"
+      light_opening: "单LED小灯头，直径约14mm，有浅防护边"
+      thermal: "无明显散热结构"
+      cmf:
+        color: "全哑光黑"
+        material: "航空铝合金，阳极氧化哑光黑"
+        finish: "筒身光滑面为主，笔夹端有浅纹理，单处分件腰环"
+      mounting: "尾部宽扁弹簧笔夹，笔夹宽于001款"
+    signature_detail: "宽扁笔夹与短粗筒身结合，视觉重心稳定，类似中性笔造型"
+    design_level:
+      score: 3
+      reason: "与001款同系列语言，筒身更短，适合对长度敏感的用户，差异化主要体现在尺寸规格上"
+    design_tags: ["短笔型", "宽扁笔夹", "单腰环", "EDC多功能", "短小精悍", "口袋携带"]
+    hero_feature: "较001更短的筒身配合宽扁笔夹，适合更小口袋的携带需求"
+    problem_solved: "需要更短尺寸多功能手电的场景，如裤袋或短夹层携带"
+    transferable_technique: "笔夹宽度与筒径比例匹配设计，宽夹更稳固，细夹更优雅，依场景选择"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_多功能_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/多功能手电/03.jpg"
+        image_role: "hero"
+        visual_anchor: "短粗圆柱+侧挂宽笔夹+灯头略宽+多LED"
+    product_name: "Nitecore MT1C Pro 多功能手电（短粗宽夹型）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "多功能手电"]
+    design_language:
+      silhouette: "短粗圆柱，灯头直径略大于筒身，重心靠前"
+      light_opening: "多LED灯头（3枚），直径约22mm，无防护边"
+      thermal: "灯头颈部有浅散热槽"
+      cmf:
+        color: "全哑光黑，笔夹段银色金属对比"
+        material: "航空铝合金，阳极氧化哑光黑，笔夹为不锈钢"
+        finish: "筒身竖直纹，笔夹光亮不锈钢，形成黑银对比"
+      mounting: "侧面宽金属笔夹，兼具握持辅助面功能"
+      signature_detail: "多LED灯头（三点阵）+ 银色不锈钢宽笔夹与哑光黑筒身的材质对比"
+    design_level:
+      score: 4
+      reason: "银色不锈钢笔夹与黑色铝合金筒身的材质对比制造设计层次，多LED灯头差异化明显，整体品质感强"
+    design_tags: ["多LED阵列", "不锈钢笔夹", "银黑材质对比", "短粗EDC", "多功能", "品质感"]
+    hero_feature: "银色不锈钢宽笔夹与哑光黑铝合金筒身形成强烈材质对比，提升产品质感层次"
+    problem_solved: "需要高品质感EDC多功能手电，不锈钢笔夹兼具耐用性与视觉区分度"
+    transferable_technique: "在铝合金主体上集成不锈钢局部配件实现材质对比分层，用于提升产品档次感的材质搭配手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_多功能_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/多功能手电/04.jpg"
+        image_role: "hero"
+        visual_anchor: "密集橡胶圆环散热鳍片+细长圆柱+小灯头"
+    product_name: "Nitecore MT2C Pro 多功能手电（橡胶鳍片型）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "多功能手电"]
+    design_language:
+      silhouette: "细长圆柱，头尾直径一致，筒身中段有密集圆环鳍片"
+      light_opening: "单LED小灯头，直径约18mm"
+      thermal: "筒身中段环绕密集橡胶圆环散热/防滑鳍片，鳍片间距约3mm，极为密集"
+      cmf:
+        color: "黑色铝合金底色+黑色橡胶鳍片"
+        material: "航空铝合金筒身+硫化橡胶圆环鳍片"
+        finish: "橡胶鳍片软质触感，铝合金两端光滑，材质触感对比明显"
+      mounting: "筒尾有挂绳孔，无笔夹"
+      signature_detail: "筒身中段密集橡胶圆环鳍片，触感与视觉双重独特"
+    design_level:
+      score: 5
+      reason: "密集橡胶圆环鳍片是极强的设计记忆点，视觉纹理独一无二，触感防滑功能与美感统一，在手电设计中高度差异化"
+    design_tags: ["橡胶圆环鳍片", "密集纹理", "材质混搭", "触感设计", "高辨识度", "多功能"]
+    hero_feature: "筒身中段密集硫化橡胶圆环鳍片，创造视觉与触觉双重记忆点，同类产品中独一无二"
+    problem_solved: "户外湿滑手套握持场景下需要可靠防滑手感，橡胶鳍片解决握持安全性同时形成独特外观"
+    transferable_technique: "在铝合金圆柱体上套装密集橡胶圆环鳍片的混材质组合手法，触感防滑与视觉差异化同步实现"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_多功能_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/多功能手电/05.jpg"
+        image_role: "hero"
+        visual_anchor: "90度折角灯头+圆柱筒身+菱形网纹+笔夹"
+    product_name: "Nitecore HC多功能直角手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "多功能手电"]
+    design_language:
+      silhouette: "L形轮廓，灯头与筒身呈90度折角，筒身可直立作台灯"
+      light_opening: "单LED灯头，直径约20mm，折角处有转轴关节"
+      thermal: "灯头端铝合金散热，无明显鳍片"
+      cmf:
+        color: "全哑光黑，灯头转轴处银色金属件"
+        material: "航空铝合金，阳极氧化"
+        finish: "筒身菱形网纹，关节处银色机加工件"
+      mounting: "侧面弹簧笔夹，筒尾可直立放置"
+      signature_detail: "90度折角转轴结构，灯头可调向，兼顾手持搜索与台置阅读"
+    design_level:
+      score: 4
+      reason: "90度折角设计是强功能差异化，满足手持与台置双场景，转轴关节是结构性记忆点，L形轮廓高辨识度"
+    design_tags: ["折角灯头", "L形轮廓", "双场景", "转轴关节", "台置手持两用", "多功能", "笔夹"]
+    hero_feature: "90度折角转轴灯头结构，实现手持搜索与台置直立两种使用姿态切换"
+    problem_solved: "同时需要手持搜索和台置阅读/工作照明的多场景用户，折角解决灯头与筒身同向的单一使用限制"
+    transferable_technique: "在手持照明产品中引入折角转轴结构实现多使用姿态的形态扩展手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_多功能_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/多功能手电/06.jpg"
+        image_role: "hero"
+        visual_anchor: "短粗双模按钮+金属夹+多LED灯头+腰环分件"
+    product_name: "Nitecore P10i 多功能手电（双按钮型）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "多功能手电"]
+    design_language:
+      silhouette: "中短圆柱，灯头略大于握把，整体比例协调"
+      light_opening: "多LED灯头（三点阵），有齿状防护边，直径约30mm"
+      thermal: "灯头颈部有平行散热槽"
+      cmf:
+        color: "全哑光黑，腰环银色金属件"
+        material: "航空铝合金，阳极氧化哑光黑"
+        finish: "握把段菱形网纹，腰环光滑银色，侧面有矩形双按钮区"
+      mounting: "侧面金属夹（可快拆），筒尾有挂绳孔"
+      signature_detail: "侧面矩形双按钮模块 + 银色腰环分件 + 可快拆金属夹"
+    design_level:
+      score: 4
+      reason: "双按钮模块外显操作逻辑，金属夹快拆设计实用，银色腰环与黑色筒身对比强化分区，整体设计层次清晰"
+    design_tags: ["双按钮模块", "可快拆夹", "银色腰环", "多LED", "功能外显", "多功能", "战术"]
+    hero_feature: "侧面矩形双按钮控制模块将两种操作功能视觉化，配合可快拆金属夹提升战术使用效率"
+    problem_solved: "需要快速切换照明模式和战术操作的多功能场景，双按钮分离操作逻辑减少误操作"
+    transferable_technique: "将多个操作按钮集中于侧面矩形模块区的控制集成手法，功能外显同时便于单手操作"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_多功能_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/多功能手电/07.jpg"
+        image_role: "hero"
+        visual_anchor: "超细笔型+超长直筒+侧面小按钮+极简分件"
+    product_name: "Nitecore MT06MD 多功能医用笔型手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "多功能手电"]
+    design_language:
+      silhouette: "极细超长直筒型，比例约1:10，接近医用钢笔"
+      light_opening: "点状单LED极小灯头，直径约10mm，超小开口"
+      thermal: "无散热结构，铝合金自然散热"
+      cmf:
+        color: "全哑光黑"
+        material: "航空铝合金，阳极氧化哑光黑"
+        finish: "筒身光滑无纹，极少分件腰环，侧面小平按钮，白色品牌文字印刷"
+      mounting: "侧面极薄金属笔夹，适合白大褂口袋"
+      signature_detail: "极细极长光滑筒身 + 极小灯头 + 极薄笔夹，三重极简"
+    design_level:
+      score: 3
+      reason: "医用场景专属形态，极度克制，功能性主导，但在专业医用场景辨识度高，与普通手电区分明确"
+    design_tags: ["医用笔型", "极细极长", "极简无纹", "医疗场景", "白大褂笔夹", "点状灯头"]
+    hero_feature: "极细极长的光滑直筒配合极薄笔夹，将医用瞳孔检查灯的形态语言精准还原"
+    problem_solved: "医护人员需要可夹于白大褂口袋、能进行瞳孔检查的专业照明工具，极细比例确保不妨碍操作"
+    transferable_technique: "针对垂直专业场景（医疗）的形态语言迁移，借用该场景已有的工具形态降低用户学习成本"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

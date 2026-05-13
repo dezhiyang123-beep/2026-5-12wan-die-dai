@@ -1,0 +1,90 @@
+project_id: "20260403-Agrolux-HORT"
+client: "agrolux"
+category: "商业温室植物灯（Horticultural LED Lighting）"
+scan_date: "2026-04-03"
+
+# ── 客户快照（自动取证，无现有档案）────────────────────────────────
+client_snapshot:
+  price_ceiling: "UNKNOWN — B2B定制报价模式，无公开零售价[H]"
+  must_certify:
+    - "CE Marking（欧盟强制）：LVD 2014/35/EU + EMC 2014/30/EU + ErP + RoHS[H]"
+    - "UL 8800（美国温室照明专用认证）[H]"
+    - "ENEC（欧洲电气安全可选但主流竞品均持有）[H]"
+  style_forbidden: "UNKNOWN — 无公开设计规范；已知风格偏好：荷兰工业功能主义/模块化/紧凑高效[M]"
+  source: "agrolux.com + floraldaily.com，扫描日期2026-04-03"
+
+# ── 品类快扫 ───────────────────────────────────────────────────────
+category_check:
+  market_exists: true
+  competitor_count: 7
+  top3_competitors:
+    - brand: "Signify（Philips GreenPower）"
+      model: "GreenPower LED Toplighting Compact + GrowWise Control System"
+      price: "UNKNOWN（合作伙伴网络定制报价）[L]"
+      key_specs:
+        - "1000W HPS等效，耗电降40%[H]"
+        - "GrowWise智能光谱：节能6%或增产6%[H]"
+      source: "lighting.philips.com/horticulture[H]"
+    - brand: "Heliospectra"
+      model: "MITRA系列（325-1500W）"
+      price: "大型商业项目参考：8.3M SEK/批次[M]，单灯无公开价"
+      key_specs:
+        - "最高5700 µmol输出，3.7 µmol/J效能[H]"
+        - "9波长可调+helioCORE软件控制[H]"
+      source: "heliospectra.com[H]"
+    - brand: "Hortilux Schréder"
+      model: "NXTLED / HORTILED Top Sirius"
+      price: "UNKNOWN[L]"
+      key_specs:
+        - "NXTLED：4.1 µmol/J，>5500 µmol输出（市场最高效能声称）[H]"
+        - "支持顶光+层间光（inter-lighting）[H]"
+      source: "hortilux.com + agriexpo.online[H]"
+  key_pain_points:
+    - "旧款LED灵活性不足，无法实时响应自然光变化[H-greenhousegrower.com]"
+    - "光谱参数过多（PPF/µmol/ePAR/DLI），采购商无法有效比较[H-greenhousegrower.com]"
+    - "从HPS切换后HVAC/湿度调整不确定性，种植者迁移顾虑大[H-greenhousegrower.com]"
+    - "单一光谱配方无法兼容同物种不同品种（如大番茄vs樱桃番茄）[H-greenhousegrower.com]"
+  unknown_fields:
+    - "Agrolux及主要竞品的具体售价"
+    - "Agrolux现有产品线的市场份额"
+    - "Agrolux对OEM合作/代工采购的开放程度"
+
+# ── G0决策输入（只陈述信息，不下结论）────────────────────────────
+go_decision_input:
+  opportunity_signal: |
+    Agrolux于2025年9月完成管理层收购（MBO），从Hawthorne/Hawthorne独立，
+    处于战略重组期[H-hortidaily.com]。
+    CEO Marc Salvany来自Signify，Signify以LaaS（灯即服务）和平台化战略见长[H]，
+    与Agrolux当前推进LYRA模块化平台+Agrolux OS软件平台的方向高度吻合[H-floraldaily.com]。
+    LYRA平台一个驱动器支持七种配置，模块可升级，
+    创造了对灯具硬件模块持续供应的潜在需求[H]。
+    温室照明市场年复合增长率22.4%，2023年$37亿→2028年预计$104亿[H-marketsandmarkets.com]。
+  risk_signal: |
+    Signify、Hortilux Schréder均为荷兰本地强竞品，技术成熟度和市场认知度高[H]。
+    全部竞品均无公开定价，目标BOM无法初步测算，成本可行性完全未知[L]。
+    Agrolux刚完成MBO，组织可能处于调整期，采购决策链不稳定[M]。
+    CE+UL 8800认证路径对消费电子背景OEM而言是新领域，
+    认证周期和成本未评估[M]。
+  unknown_summary: |
+    关键未知项：①所有竞品和Agrolux自身定价②Agrolux设计规范/风格偏好③
+    LYRA平台的具体模块接口标准④OEM/代工合作的可能性⑤认证成本和周期。
+    G1如继续，需聚焦：Agrolux产品线空白定位 + 接触渠道策略 + 认证路径评估。
+
+scout_notes: |
+  发现7个直接竞品（Signify/Heliospectra/Valoya/Hortilux Schréder/
+  California Lightworks/Iluminar/ams-OSRAM）。
+  ams-OSRAM为芯片供应商而非灯具品牌，不进入灯具竞品矩阵。
+  有效灯具竞品6个。
+  用户场景提炼出5条行为矛盾（详见下方），均有可追溯来源。
+
+user_scenarios:
+  - scenario: "冬季温室补光（主流场景）：自然光不足时顶部LED补充至DLI目标"
+    behavioral_contradiction: "要节省电费就要降低光强→但降低光强会影响产量和果实品质"
+  - scenario: "多品种混合温室：同一设施同时种植多个番茄/黄瓜品种"
+    behavioral_contradiction: "要优化特定品种的光谱→但同一灯具无法同时适配同物种不同品种的最优配方"
+  - scenario: "HPS系统升级改造：旧温室从1000W高压钠灯切换LED"
+    behavioral_contradiction: "要降低能耗就换LED→但换了LED后HVAC和湿度管理需要大幅调整，种植者不确定如何应对"
+  - scenario: "大型商业温室运营：多区域独立控光"
+    behavioral_contradiction: "要对每个区域精细控光→但精细控制系统需要主动管理，增加运营复杂度"
+
+search_timestamp: "2026-04-03T11:30:00Z"

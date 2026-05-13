@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "室内壁灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/室内壁灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "pl_室内壁灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/室内壁灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "哑黑色正方形盒体壁灯，底部开口出光，内腔可见品红色Hue彩光，图中呈现两只成对使用"
+    product_name: "Philips Hue Resonate 方形壁灯（黑色款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯"]
+    design_language:
+      silhouette: "直立矩形盒体，外观完全封闭，仅底面开口，比例约3:2（高:宽）"
+      light_opening: "单向底部开口出光，光线向下投射，内腔反射彩色光"
+      thermal: "金属盒体导热，外壳封闭无散热孔"
+      cmf:
+        color: "哑黑色（Matte Black）"
+        material: "金属（铝合金）外壳"
+        finish: "粉末涂层哑面"
+      mounting: "直接贴墙壁挂，背板隐藏"
+      signature_detail: "外壳完全封闭、极简几何体，出光前完全不露光源，开口内腔彩光形成戏剧性对比"
+    design_level:
+      score: 4
+      reason: "几何体量感强，封闭盒体只开一个口的策略制造强光影对比；成对使用视觉效果突出，品牌辨识度高"
+    design_tags: ["几何盒体", "单向出光", "智能彩光", "Hue", "H07极简整合", "H08对比强调", "成对使用"]
+    hero_feature: "封闭方盒只开底口——完全隐藏光源，出光瞬间形成戏剧性内腔彩光"
+    problem_solved: "室内走廊/床头需要定向下照氛围光，传统壁灯外露灯泡视觉凌乱"
+    transferable_technique: "封闭壳体单向开口出光策略——可迁移至台灯、嵌入式灯具；金属盒体内腔彩光反射技术"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_室内壁灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/室内壁灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色传统灯笼造型壁灯，透明玻璃灯笼体内部发出品红Hue彩光，弧形挂臂，两只成对展示"
+    product_name: "Philips Hue Econic 灯笼壁灯（黑色款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "室内壁灯"]
+    design_language:
+      silhouette: "传统灯笼轮廓，梯形玻璃框体+圆弧挂臂，顶部封盖，底部略收窄"
+      light_opening: "360度全透明玻璃面板出光，彩光从内部向外漫射"
+      thermal: "金属框架散热，玻璃透光"
+      cmf:
+        color: "哑黑色框架（Matte Black）+ 透明玻璃"
+        material: "金属框架，透明玻璃面板"
+        finish: "框架粉末涂层哑面，玻璃清透"
+      mounting: "弧形挂臂贴墙安装"
+      signature_detail: "传统灯笼造型 + 现代Hue全彩智能技术的跨时代结合；内嵌横向分格细节"
+    design_level:
+      score: 3
+      reason: "传统灯笼形态融合智能彩光是巧妙的风格跨越，但形态本身无创新，设计主要亮点在于彩光内容而非形态"
+    design_tags: ["灯笼造型", "复古", "智能彩光", "Hue", "全透明出光", "H10材料表达"]
+    hero_feature: "古典灯笼外壳 × Hue全彩内光——传统轮廓配现代彩光，风格反差即记忆点"
+    problem_solved: "户外/入户玄关需要复古风格壁灯，同时需要Hue智能彩光氛围控制"
+    transferable_technique: "传统器物形态 + 现代智能彩光的混搭策略；金属框架+玻璃面板的灯笼结构制造"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "灯笼造型更常见于户外壁灯品类，室内壁灯分类需确认"

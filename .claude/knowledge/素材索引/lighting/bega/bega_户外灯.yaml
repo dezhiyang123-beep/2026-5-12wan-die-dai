@@ -1,0 +1,632 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/"
+  generated_at: "2026-05-08"
+
+# Note: folder contains 13 subcategories (186 images total). One product entry per subcategory,
+# using the first 1-2 images per subfolder as visual anchors.
+
+products:
+  - product_id: "bega_户外灯_001"
+    source_images:
+      - filename: "光设计元素/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/光设计元素/01.jpg"
+        image_role: "hero"
+        visual_anchor: "正方形金属框架内嵌四面白色漫射板，形成发光立方体，顶面为实体深灰铝板，4个角部倒角细节清晰可见"
+      - filename: "光设计元素/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/光设计元素/02.jpg"
+        image_role: "variant"
+        visual_anchor: "同款立方体造型的暗色版本，底部水平光缝朝向地面发出两个三角形光楔，形成下照光设计元素"
+    product_name: "光设计元素 Cube Bollard"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "光设计元素"
+    design_language:
+      silhouette: "完整正方体轮廓，边长约200mm，顶板实心，四侧面为漫射发光面，底座为略宽的矩形台座"
+      light_opening: "四面全漫射白色聚碳酸酯/玻璃面板，均匀发光；变体版本底部水平光缝，产生向下定向三角光楔"
+      thermal: "顶部实体铝板兼作散热面，整体热质量大，无外置散热鳍片"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "压铸铝框架 + 白色漫射玻璃/聚碳酸酯面板"
+        finish: "哑光粉末涂层"
+      mounting: "底座落地安装（stake/pedestal），底部略宽于主体以稳定性固定"
+      signature_detail: "四面同等发光的几何纯粹性，没有任何装饰线条，光与形完全一体"
+    design_level:
+      score: 4
+      reason: "几何纯粹性极高，立方体发光形式在建筑照明中具有强烈识别性；变体的定向光楔设计体现了BEGA对光控精度的工程追求"
+    design_tags:
+      - "极简几何"
+      - "发光体造型"
+      - "四面漫射"
+      - "地面标识灯"
+      - "建筑一体化"
+      - "H07极简整合"
+    hero_feature: "发光立方体：金属框架内的四面漫射面板使整个产品在夜间成为一个均匀发光的几何实体"
+    problem_solved: "户外路径/场地标识需要兼顾白天的建筑雕塑感与夜间均匀照明，避免眩光同时提供方向性标识光"
+    transferable_technique: "金属框架+漫射面板的'发光几何体'语言可迁移到任何需要均匀无眩光照明的产品造型；底部定向光缝技术可用于嵌入式路径灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_002"
+    source_images:
+      - filename: "吊灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吊灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "纯黑色圆柱形吊灯体，细黑吊线从顶端中心穿出，底端开口朝下，内可见浅色LED模块，整体极度简洁"
+    product_name: "户外吊灯 Pendant Cylinder"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吊灯"
+    design_language:
+      silhouette: "竖向圆柱体，直径约80mm，高约200mm，上下两端均为平切面，整体无锥度无收分"
+      light_opening: "底端开口圆形下照光圈，内嵌LED模块带防眩格栅环，形成精确截光下射光束"
+      thermal: "铝合金厚壁圆柱自身作为散热体，无外置鳍片，热量通过侧壁传导"
+      cmf:
+        color: "哑光黑（graphite black）"
+        material: "压铸铝"
+        finish: "哑光粉末涂层，轻微颗粒感表面"
+      mounting: "单根黑色吊线悬挂，适用于顶部固定点；有防水吊线接头"
+      signature_detail: "底端内缩的防眩圆环，使光束在圆柱底部形成精确截光，从侧面完全看不到光源"
+    design_level:
+      score: 4
+      reason: "将户外照明工程精度浓缩到最简洁的圆柱形体中，防眩截光设计工程品质极高，是BEGA圆柱形语言的户外吊灯典范"
+    design_tags:
+      - "圆柱体"
+      - "下照防眩"
+      - "精确截光"
+      - "极简悬挂"
+      - "IP65户外"
+      - "H07极简整合"
+      - "H09隐藏工程"
+    hero_feature: "底端内缩防眩圆环：从侧面完全隐藏光源，只在正下方形成精确光锥，是工程精度的视觉体现"
+    problem_solved: "户外檐下/廊道需要防眩光精确下照，同时悬挂灯具需要防水防腐，传统吊灯防水处理通常牺牲美感"
+    transferable_technique: "底端防眩内缩圆环结构可迁移到任何筒灯/轨道射灯；圆柱形防水吊线接头的隐藏处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_003"
+    source_images:
+      - filename: "吸顶灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/吸顶灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "哑光黑色实心圆柱体吸附于天花板，底端开口朝下形成下照光圈，顶端与天花板平齐，无多余安装法兰"
+    product_name: "户外吸顶灯 Surface Mounted Cylinder"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "吸顶灯"
+    design_language:
+      silhouette: "短圆柱体（高宽比约1.2:1），顶端直接贴合天花板，底端开口，侧面无任何分件线"
+      light_opening: "底端圆形开口，内部可见银灰色反射杯，无防眩挡板版本形成宽光束，有防眩版本内缩"
+      thermal: "铝合金厚壁圆柱，顶端传热至安装面（天花板），依赖天花板基材辅助散热"
+      cmf:
+        color: "哑光黑（graphite black）"
+        material: "压铸铝"
+        finish: "哑光粉末涂层，细颗粒砂感"
+      mounting: "直接吸顶安装，顶端有隐藏螺孔，安装后顶面与天花板完全贴合，无可见紧固件"
+      signature_detail: "无安装法兰设计：圆柱顶端直接贴合天花板，视觉上产品从天花板'生长'出来，没有多余过渡件"
+    design_level:
+      score: 4
+      reason: "隐藏安装法兰的工艺精度极高，圆柱从天花板直接出现的视觉干净度是BEGA吸顶灯的代表性特征"
+    design_tags:
+      - "圆柱体"
+      - "无法兰吸顶"
+      - "下照"
+      - "建筑极简"
+      - "IP65"
+      - "H09隐藏工程"
+      - "H07极简整合"
+    hero_feature: "无法兰直接贴合天花板安装：圆柱体顶面与天花板平齐，消除了所有安装痕迹，产品成为天花板的一部分"
+    problem_solved: "户外檐下/入口顶面需要防水吸顶灯，传统安装方式法兰盘破坏天花板整洁感"
+    transferable_technique: "无法兰贴合安装工艺可迁移到室内嵌入式/表面安装筒灯；顶部隐藏紧固件结构"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_004"
+    source_images:
+      - filename: "地埋灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "两个小型地埋灯单元，古铜金（brass）圆柱形灯体，前者顶端可见深凹LED光圈和反射杯，后者顶端漫射白玻璃圆形面板，均有多边形黑色地锚插件"
+      - filename: "地埋灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/地埋灯/02.jpg"
+        image_role: "variant"
+        visual_anchor: "同款地埋灯的放大视角，清晰展示阶梯状横向散热环纹路包裹整个圆柱体侧面，顶端圆形截面可见BEGA标识和双侧螺钉"
+    product_name: "地埋灯 Inground Uplight"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "地埋灯"
+    design_language:
+      silhouette: "矮圆柱形灯体（高约80mm，直径约70mm），侧面全为同心圆散热环，底部收窄为六角形插地锚"
+      light_opening: "顶端圆形：有两种版本——精确上照版（深凹LED+反射杯，形成定向光束）和漫射版（平面白玻璃，均匀散光）"
+      thermal: "侧面全圆周密集散热环是核心散热结构，金属热质量与环境空气对流共同散热，IP67高等级密封"
+      cmf:
+        color: "古铜金（brass/bronze）+ 黑色地锚"
+        material: "黄铜/铜合金灯体 + 黑色锌合金地锚"
+        finish: "自然铜色，轻微哑光处理；地锚为黑色阳极氧化"
+      mounting: "地面嵌入式安装，底部六角形锁定地锚插入预埋套管；IP67防水，可接受车辆碾压（部分型号）"
+      signature_detail: "全侧面同心圆散热环：功能性散热结构成为产品最显著的视觉纹理，古铜材质与环境融合"
+    design_level:
+      score: 5
+      reason: "将工程必要性（散热环）转化为标志性视觉语言，古铜材质选择超越常规铝灰色，顶端精确光控显示德国工程精度；地埋灯中少见的材质+形态高度统一的设计"
+    design_tags:
+      - "地埋上照"
+      - "散热环纹"
+      - "古铜材质"
+      - "精确截光"
+      - "IP67"
+      - "H10材料表达"
+      - "H11功能外显"
+      - "H04参数化纹理"
+    hero_feature: "全侧面同心圆散热环纹：将散热工程结构转化为视觉主题，从功能出发形成独特的产品识别语言"
+    problem_solved: "地埋灯需要在承重、防水IP67、精确光控三者之间平衡，同时在白天需要有建筑品质而非丑陋的金属盖板"
+    transferable_technique: "同心圆散热环作为功能性视觉纹理可迁移到任何高热密度灯具设计；顶端双版本（精确/漫射）灯头模块化思路"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_005"
+    source_images:
+      - filename: "壁灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/壁灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "两款壁灯并排：左为竖向矩形灯（约1:2高宽比），右为近正方形灯，均为深炭灰铝框架内嵌方形白色纹理漫射玻璃，四角有明显倒角棱线"
+    product_name: "户外壁灯 Wall Luminaire Rectangular"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "壁灯"
+    design_language:
+      silhouette: "扁平矩形框体（厚约60mm），正面为全面积漫射面板，四条棱线倒角45度，背面平贴墙面"
+      light_opening: "正面全面积漫射玻璃面板（均匀发光），部分型号为纹理玻璃（菱格压花）提供轻微散光层次；无直接眩光"
+      thermal: "薄板铝框架散热，LED模块置于背腔，依靠背面与墙体接触辅助散热"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "压铸铝框架 + 白色漫射玻璃（部分为纹理压花玻璃）"
+        finish: "哑光粉末涂层"
+      mounting: "直接螺钉安装于墙面，背面防水垫圈密封，顶部防雨水沿面处理"
+      signature_detail: "框架四周统一的45度倒角棱线：赋予矩形灯体精密感，避免了直角切面的廉价感"
+    design_level:
+      score: 3
+      reason: "经典BEGA矩形壁灯，工程品质扎实，但形态相对保守，市场上类似产品较多；纹理玻璃版本有一定差异化"
+    design_tags:
+      - "矩形壁灯"
+      - "全面漫射"
+      - "45度倒角"
+      - "IP65"
+      - "H07极简整合"
+      - "均匀发光"
+    hero_feature: "四周统一45度倒角的铝框架：细节工艺赋予平面矩形灯体精密建筑感"
+    problem_solved: "建筑入口/墙面需要均匀无眩光的泛光照明，同时灯具本身需要白天具备建筑品质"
+    transferable_technique: "45度倒角框架语言可广泛应用于任何矩形/方形面光源产品；漫射面板与金属框架的比例关系"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_006"
+    source_images:
+      - filename: "嵌入式吸顶灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式吸顶灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形嵌入式灯圈完全嵌入天花板，仅露出深炭灰铝圆环和中间深凹黑色圆形开口，整体与天花板面几乎平齐，无突出部分"
+    product_name: "嵌入式吸顶灯 Recessed Ceiling Downlight"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式吸顶灯"
+    design_language:
+      silhouette: "圆形嵌入面板，正面仅露出约15mm宽的圆形铝框环，中心深凹黑色开口（防眩），整体与天花板平齐"
+      light_opening: "深凹圆形开口，LED光源完全隐藏在凹腔内，形成精确截光下射光束；防眩角度极好，侧面完全看不到光源"
+      thermal: "大部分散热结构嵌入天花板内，铝壳体与天花板基材导热"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "压铸铝"
+        finish: "哑光粉末涂层，与天花板面取齐"
+      mounting: "嵌入式安装，弹簧夹或螺钉固定于天花板开孔内，IP65防水密封圈"
+      signature_detail: "极细铝框环：约15mm宽的圆环是唯一可见部分，精确截光深凹开口实现零眩光"
+    design_level:
+      score: 4
+      reason: "将防水嵌入式下射灯做到几乎'消失'的视觉存在感，仅剩一个精准的铝圆环，是建筑照明中'少即是多'的极致表达"
+    design_tags:
+      - "嵌入式"
+      - "防眩截光"
+      - "深凹开口"
+      - "建筑隐身"
+      - "IP65"
+      - "H09隐藏工程"
+      - "H07极简整合"
+    hero_feature: "仅15mm宽的圆形铝环是产品的全部视觉存在，其余完全嵌入；深凹防眩开口实现侧向零眩光"
+    problem_solved: "户外檐下/雨棚需要防水防腐嵌入式下射灯，同时不破坏天花板的整洁平面感"
+    transferable_technique: "超薄框环嵌入式安装工艺；深凹防眩腔体设计可迁移到各类方向性嵌入灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_007"
+    source_images:
+      - filename: "嵌入式壁灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式壁灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形嵌入式壁灯面板：深炭灰铝圆形框环嵌入墙面，中心白色半球形漫射玻璃（opal glass），BEGA标识在上方铝环处"
+      - filename: "嵌入式壁灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/嵌入式壁灯/02.jpg"
+        image_role: "variant"
+        visual_anchor: "方形嵌入式壁灯面板：深炭灰方形铝框嵌入墙面，中心白色圆形漫射玻璃（opal），铝框上方刻BEGA标识，两侧各有一个紧固螺点"
+    product_name: "嵌入式壁灯 Recessed Wall Luminaire"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "嵌入式壁灯"
+    design_language:
+      silhouette: "嵌入式面板，分圆形和方形两个系列：圆形版全圆铝环+中心半球漫射玻璃；方形版方形铝框+中心圆形漫射玻璃"
+      light_opening: "中心乳白色opal玻璃漫射面板，均匀柔和全向发光；半球形玻璃在圆形版中形成轻微立体感"
+      thermal: "嵌墙结构，铝壳主体置于墙内，依靠墙体传热散热"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "压铸铝框 + 乳白色opal玻璃（硼硅酸盐）"
+        finish: "哑光粉末涂层铝框，磨砂opal玻璃"
+      mounting: "嵌入式安装，墙面开孔，防水密封圈，两侧螺钉固定，与墙面平齐"
+      signature_detail: "方形框+圆形漫射玻璃的形状对比：刚硬方框内嵌柔和圆形光面，几何对比形成设计张力"
+    design_level:
+      score: 4
+      reason: "圆形与方形的对比处理是经典BEGA设计语言，嵌入式与平齐墙面的工程精度体现品牌DNA，opal玻璃与铝框的材质对话有力"
+    design_tags:
+      - "嵌入式壁灯"
+      - "opal漫射玻璃"
+      - "方圆对比"
+      - "墙面平齐"
+      - "IP65"
+      - "H08对比强调"
+      - "H10材料表达"
+    hero_feature: "方形铝框内嵌圆形opal玻璃：几何形状的强对比产生设计张力，同时圆形玻璃的柔和光线与硬朗铝框形成材质对话"
+    problem_solved: "建筑外墙需要嵌入式标识/氛围照明，要求白天与墙面平齐（隐身），夜间均匀柔和发光"
+    transferable_technique: "方框内圆形光面的几何对比语言；嵌入式平齐墙面的防水安装工艺"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_008"
+    source_images:
+      - filename: "庭院灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "极简小型庭院灯：短圆柱底座上方一个大白色不透明球形玻璃灯罩，底座为深炭灰铝柱，一根黑色电源线从底座延伸出来"
+      - filename: "庭院灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/庭院灯/02.jpg"
+        image_role: "variant"
+        visual_anchor: "同款庭院灯的高版本：更高的圆柱底座（约150mm）托起同样的白色球形灯罩，比例更修长，底部有宽圆盘底座稳定"
+    product_name: "庭院灯 Garden Bollard Sphere"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "庭院灯"
+    design_language:
+      silhouette: "圆柱形底座（低款约80mm高，高款约180mm高）+ 顶部白色球形opal玻璃（直径约120mm），球体比底座直径略大，形成上重下轻的倒梯形比例"
+      light_opening: "整个球形opal玻璃均为漫射发光面，360度全向均匀漫射，无截光无方向性"
+      thermal: "铝柱底座作为散热柱，底部宽圆盘增大散热面积"
+      cmf:
+        color: "深炭灰铝座 + 白色opal玻璃球"
+        material: "压铸铝底座 + 硼硅酸盐opal玻璃球"
+        finish: "哑光粉末涂层底座，磨砂opal玻璃"
+      mounting: "底部圆盘用螺钉固定于地面，或spike插地安装；黑色电源线从底座侧引出"
+      signature_detail: "球形灯罩与圆柱底座的纯粹几何组合：两种最基础的几何体叠合，没有任何装饰，白球与深灰柱形成强烈色彩对比"
+    design_level:
+      score: 3
+      reason: "经典庭院球灯形式，BEGA版本工程品质优秀，球体比例处理良好，但形态本身在市场上较为通用"
+    design_tags:
+      - "球形灯罩"
+      - "360度漫射"
+      - "庭院氛围"
+      - "几何组合"
+      - "IP65"
+      - "H07极简整合"
+    hero_feature: "球形opal玻璃灯罩：白色球体在夜间成为均匀发光的光球，与深灰铝柱形成强烈的色彩与形态对比"
+    problem_solved: "花园/庭院路径需要低矮的氛围照明，光线需要柔和均匀且360度可见，同时白天外观精致"
+    transferable_technique: "圆柱+球体几何组合语言；球形opal玻璃的全向漫射技术可迁移到任何需要均匀无影照明的场景"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_009"
+    source_images:
+      - filename: "建筑照明元素/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/01.jpg"
+        image_role: "hero"
+        visual_anchor: "两根细长圆柱形建筑照明柱，一根为透明玻璃管身（可见内部结构）搭配木纹下半段和深灰圆盘顶端，另一根为乳白漫射管身搭配黑色圆柱段中腰（带单LED射灯圆孔）"
+      - filename: "建筑照明元素/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/02.jpg"
+        image_role: "variant"
+        visual_anchor: "同款柱的近景细节，透明玻璃柱内可见内部LED条和木纹支撑杆结构，顶端黑色铝帽与透明管之间有精密金属卡环"
+    product_name: "建筑照明元素 Architectural Luminaire Column"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "极细长圆柱，高度约1200-2000mm，直径约80mm，上下两端金属帽封口；有透明管身、漫射管身两种版本，中腰可加功能模块"
+      light_opening: "全管漫射发光（乳白版：360度线性漫射光柱）或内部LED条透过透明管可见（透明版：可见光源）；中腰模块可集成定向射灯圆形开口"
+      thermal: "细长铝管内部LED条安装，管体轻薄，依赖对流散热；中腰功能段提供额外散热"
+      cmf:
+        color: "黑色/深灰顶帽 + 乳白漫射管或透明玻璃管；木纹版下段使用木材/木纹材料"
+        material: "铝顶帽 + 硼硅酸盐玻璃管（透明或opal）+ 木材/铝合金下段"
+        finish: "哑光铝（黑/灰），原木纹（木段），光洁玻璃管"
+      mounting: "底部地面固定，垂直安装；下段可选木材版或金属版"
+      signature_detail: "管内可见的LED内构（透明版）：让照明技术本身成为视觉元素，透明玻璃管使内部结构和光线传播全部可见"
+    design_level:
+      score: 5
+      reason: "将照明柱做成可透视内部结构的'发光雕塑'，木金属混搭材质的对话极具建筑设计感，中腰功能模块的模块化思路高度灵活；在建筑照明元素中属于创新性强的产品"
+    design_tags:
+      - "透明管漫射"
+      - "线性光柱"
+      - "内构可见"
+      - "木金属混材"
+      - "模块化"
+      - "建筑雕塑"
+      - "H05模块化"
+      - "H10材料表达"
+    hero_feature: "透明玻璃管内可见的LED结构和光传播路径：将照明工程透明化，管内结构成为产品最独特的视觉特征"
+    problem_solved: "广场/园林需要竖向标识性照明元素，要求白天有建筑雕塑感，夜间有线性光效，同时能集成多种功能"
+    transferable_technique: "透明管内可见LED结构作为视觉特征；中腰功能模块（可替换/扩展）的模块化设计；木金属混材在户外耐候产品中的应用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_010"
+    source_images:
+      - filename: "柱顶灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "高杆路灯：细黑圆柱立柱弯折为L形悬臂，顶端安装扁平六边形灯头，灯头底面完全开放展示LED矩阵和多棱反射器，整体高度约5米"
+      - filename: "柱顶灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/柱顶灯/02.jpg"
+        image_role: "variant"
+        visual_anchor: "另一款柱顶灯：L形悬臂更长，灯头为扁平矩形，底面开放展示LED矩形模块和防眩格栅，从侧面看灯头顶面完全平整"
+    product_name: "柱顶灯 Street / Area Luminaire on Post"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "柱顶灯"
+    design_language:
+      silhouette: "纤细圆立柱（直径约100mm）+ L形悬臂过渡 + 扁平多边形/矩形灯头（厚度约80mm），灯头悬挑于立柱轴线外"
+      light_opening: "灯头底面完全开放式LED矩阵直接可见（无扩散板），搭配高精度多棱铝反射器形成精确配光；部分型号有细密防眩格栅"
+      thermal: "灯头顶面为厚实铝板散热体，底面开放无遮挡，自然对流散热效率高"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "铝合金立柱 + 压铸铝灯头"
+        finish: "哑光粉末涂层"
+      mounting: "立柱底部法兰盘地面螺栓固定（预留地脚螺栓），电缆从立柱内部穿线"
+      signature_detail: "多棱形灯头顶面的折面设计：扁平灯头的顶部不是平面而是有折面坡度，与水平呈角度，增加立体感和水流导流"
+    design_level:
+      score: 4
+      reason: "开放式LED矩阵直视配光设计在BEGA路灯中极具识别性，多棱灯头形态精准现代，是区别于大众路灯的强差异化设计"
+    design_tags:
+      - "路灯"
+      - "L形悬臂"
+      - "开放LED矩阵"
+      - "多棱灯头"
+      - "精确配光"
+      - "H11功能外显"
+      - "H07极简整合"
+    hero_feature: "底面完全开放的LED矩阵配多棱反射器：将照明技术直接外露，多棱形折面灯头使产品从任何角度都有强烈辨识度"
+    problem_solved: "道路/广场照明需要大范围精确配光，同时灯具本身需要有建筑品质而非普通路灯形态"
+    transferable_technique: "多棱形灯头折面语言；开放式LED矩阵配多棱反射器的配光技术；立柱内穿线的整洁安装方式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_011"
+    source_images:
+      - filename: "水下灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/水下灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "古铜金色圆形水下灯：扁盘形铝合金灯体，前端圆形大开口配菱格纹压花玻璃，白色铝合金L形支架固定，蓝色橡皮绝缘电线从后引出"
+    product_name: "水下灯 Underwater Luminaire"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "水下灯"
+    design_language:
+      silhouette: "扁圆盘形灯体（约120mm直径，40mm厚），正面大开口，L形白色铝支架从背部伸出可调角度"
+      light_opening: "正面圆形大开口（直径约90mm），内有菱格纹压花玻璃扩散板，形成均匀前向宽光束；防水密封圈清晰可见"
+      thermal: "水下使用，水体直接带走热量，无需额外散热结构；铝合金壳体与水直接接触"
+      cmf:
+        color: "古铜金（brass/bronze）灯体 + 白色铝支架 + 蓝色绝缘电线"
+        material: "黄铜/铜合金灯体 + 铝合金支架 + 防水硅橡胶密封"
+        finish: "铜合金自然色调，轻微哑光；白色铝支架阳极氧化"
+      mounting: "L形支架可调角度（约0-45度），支架底端螺栓固定于池底或池壁，IP68防水"
+      signature_detail: "蓝色橡皮电线：在金铜色灯体的背景下，鲜艳蓝色电线是刻意设计的视觉识别元素，标识水下防水用途"
+    design_level:
+      score: 4
+      reason: "古铜材质选择极具品质感，蓝色防水线的颜色设计语言大胆而准确，菱格纹压花玻璃提供光扩散同时增加视觉精度感"
+    design_tags:
+      - "水下灯"
+      - "古铜材质"
+      - "蓝色电线"
+      - "菱格纹玻璃"
+      - "IP68"
+      - "可调角度"
+      - "H10材料表达"
+      - "H08对比强调"
+    hero_feature: "鲜艳蓝色防水橡皮绝缘电线：功能性的防水绝缘电线成为识别产品用途和品质的视觉语言，颜色对比强烈"
+    problem_solved: "水池/喷泉水下照明需要IP68密封、可调方向、耐化学腐蚀，同时产品外观需要在水中有建筑品质"
+    transferable_technique: "颜色编码功能性部件（蓝色=水下防水）的设计语言；古铜材质在水下环境的耐腐蚀应用；菱格纹压花玻璃的光扩散技术"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_012"
+    source_images:
+      - filename: "泛光灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "小型圆形泛光灯：深炭灰粗圆柱灯体，前端圆形大开口可见多圆环同心圆反射器和中心LED点，L形金属支架托底可调角度，整体紧凑"
+      - filename: "泛光灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/02.jpg"
+        image_role: "variant"
+        visual_anchor: "大型圆形泛光灯，灯体直径约180mm，前端更大圆形开口内可见多圆环反射器系统，前端防水圆形玻璃面板，L形支架更粗壮"
+    product_name: "泛光灯 Floodlight Spot"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "粗圆柱形灯体（直径70-180mm，深度60-120mm），正面圆形大开口，背部L形支架可旋转调角，整体为'炮筒'形态"
+      light_opening: "正面圆形开口（直径60-150mm），内有精密多圆环同心圆反射器（Fresnel-like），形成精确可控光束角；部分型号有防水钢化玻璃前盖"
+      thermal: "铝合金厚壁圆柱体是主要散热体，L形支架接触基面辅助散热；大型号有细密散热环纹"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "压铸铝灯体 + 钢化玻璃前盖（部分型号）"
+        finish: "哑光粉末涂层"
+      mounting: "L形旋转支架，底端可安装于地面、墙面或预埋管；支架旋转关节有锁紧螺钉，可0-90度调向"
+      signature_detail: "多圆环同心圆反射器：正面视角下反射器的同心圆纹路是BEGA泛光灯的视觉DNA，工程精度高度可见"
+    design_level:
+      score: 4
+      reason: "多圆环反射器的精密光学设计使产品从正面看有强烈技术美感，圆柱形'炮筒'语言在BEGA家族内一致，L形可调支架工程精度高"
+    design_tags:
+      - "泛光射灯"
+      - "同心圆反射器"
+      - "可调角度"
+      - "精确配光"
+      - "圆形开口"
+      - "IP65"
+      - "H11功能外显"
+      - "H04参数化光学"
+    hero_feature: "多圆环同心圆Fresnel反射器：从正面看反射器纹路是产品最强烈的视觉特征，光学精度直接可见"
+    problem_solved: "建筑/景观泛光需要精确可调角度的定向光束，同时户外防水防腐，白天需要有技术感外观"
+    transferable_technique: "多圆环同心圆反射器的光学配光技术；L形旋转支架（带刻度锁紧）的调向安装系统；圆柱灯体与反射器系统的尺寸比例关系"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外灯_013"
+    source_images:
+      - filename: "路桩灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "两个深炭灰圆柱形路桩灯（高低两款），上部约三分之一为乳白opal漫射管段，下部约三分之二为实体铝管，顶端有薄铝帽封口"
+      - filename: "路桩灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/路桩灯/02.jpg"
+        image_role: "variant"
+        visual_anchor: "另一款路桩灯：同样高低两款圆柱，上部漫射段内可见竖向分割的铝肋条（将圆柱分为多个竖向条格），形成柱状格栅光效"
+    product_name: "路桩灯 Bollard Luminaire"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "路桩灯"
+    design_language:
+      silhouette: "圆柱形路桩（直径约80-100mm），高度300-1000mm可选；上段为发光漫射段（约占总高1/3-1/2），下段实体铝管，顶部薄平帽"
+      light_opening: "圆柱侧面环绕漫射段：乳白opal玻璃管形成360度全向漫射光带；竖格栅版在漫射管内加铝肋，形成竖条纹光效并提供防眩分格"
+      thermal: "下段实体铝管作为散热柱，LED模块位于铝管上端与漫射段交接处"
+      cmf:
+        color: "深炭灰（anthracite）"
+        material: "压铸铝管体 + opal玻璃漫射段（部分为带铝肋格栅版）"
+        finish: "哑光粉末涂层铝管，磨砂opal玻璃"
+      mounting: "底部地面螺栓固定或spike插地，电缆从底部穿管引入；顶帽可拆卸维护"
+      signature_detail: "漫射段与实体段的比例分割：上段发光（白）下段不发光（深灰），形成强烈的明暗比例分割，夜间尤为突出"
+    design_level:
+      score: 3
+      reason: "BEGA路桩灯的比例处理经典，竖格栅变体有额外设计价值，但整体是成熟路桩灯类别的标准优质执行"
+    design_tags:
+      - "路桩灯"
+      - "360度漫射"
+      - "明暗分割"
+      - "竖格栅变体"
+      - "IP65"
+      - "H07极简整合"
+      - "H08对比强调"
+    hero_feature: "发光段与实体段的强比例分割：上段纯白opal玻璃与下段深炭灰铝管的明暗对比在夜间形成强烈视觉节奏"
+    problem_solved: "道路/园区路径标识需要低矮防撞路桩灯，要求360度可见、防水、耐撞击，同时白天不显突兀"
+    transferable_technique: "漫射管段与实体金属段的比例分割语言；竖向铝肋格栅提供防眩同时增加竖向视觉节奏；顶帽可拆卸维护的密封设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

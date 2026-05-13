@@ -1,0 +1,463 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "H12_人机界面强化"
+  secondary: "混合（灯具/电动工具/办公家具）"
+  tertiary: ""
+
+source:
+  source_type: "technique_library"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H12_人机界面强化/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "h12_bega_001"
+    source_images:
+      - filename: "H12_bega_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H12_人机界面强化/H12_bega_001.jpg"
+        image_role: "hero"
+        visual_anchor: "白色轨道射灯，灯头可旋转调节，LED内部光学折射元件完全外露可见"
+    product_name: "Bega轨道射灯（可调角度）"
+    brand_name: "Bega"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H12_人机界面强化"
+      - "灯具"
+      - "轨道射灯"
+
+    design_language:
+      silhouette: "圆柱形灯头可旋转调角，安装卡扣外露，LED内部光学反射碗全开放可见"
+      light_opening: "正面圆形开口即出光口，LED和反射光学元件完全裸露可见，无遮罩"
+      thermal: "灯头金属体兼散热，体积集中在灯头"
+      cmf:
+        color: "全白色（灯体+轨道），银色金属接头环"
+        material: "铸铝灯头，PC反射碗/玻璃透镜"
+        finish: "白色粉末涂层，金属光泽接头"
+      mounting: "三相轨道安装，旋转卡锁"
+      signature_detail: "界面强化手法：调节界面（旋转关节+卡扣）与视觉界面（LED光学元件开放可见）同时强化——旋转调节节点在灯颈处明确突出；LED反射碗和透镜的精密光学结构完全开放，传递'专业照明精度'信号；侧面调节旋钮小但位置明确"
+
+    design_level:
+      score: 4
+      reason: "调节关节、安装机构、LED光学元件三个界面层次同时清晰可读，人机关系明确，专业感强"
+
+    design_tags:
+      - "H12人机界面强化"
+      - "调节关节外显"
+      - "光学元件可视化"
+      - "轨道灯"
+      - "旋转界面"
+
+    hero_feature: "LED内部光学反射碗完全开放可见，同时旋转调节关节在灯颈处清晰定义"
+    problem_solved: "射灯通常将内部光学件藏在防眩格栅后；此设计将光学精度作为产品品质信号直接展示"
+    transferable_technique: "将调节/安装界面（旋钮、铰链、卡扣）在形态上单独突出，并将核心功能元件（光学件、电机、刀头）以开放视角展示，传递专业性信号"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h12_dewalt_001"
+    source_images:
+      - filename: "H12_dewalt_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H12_人机界面强化/H12_dewalt_001.jpg"
+        image_role: "hero"
+        visual_anchor: "DeWalt重型搅拌钻，黄色机身，大尺寸矩形侧把手，双手握持布局"
+    product_name: "DeWalt重型搅拌钻（有线）"
+    brand_name: "DeWalt"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H12_人机界面强化"
+      - "电动工具"
+      - "搅拌钻"
+
+    design_language:
+      silhouette: "双把手布局：后部手枪握把+前部大矩形D形把手；机头银色金属，机身黄黑分块"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "DeWalt标志性黄色机身，黑色握把和前壳"
+        material: "工程塑料机壳，金属变速箱外壳"
+        finish: "黄色高饱和注塑，黑色软质包胶握区"
+      mounting: "手持，双手操作"
+      signature_detail: "界面强化手法：双把手系统尺寸放大+对称突出——前置矩形D形侧把手尺寸超大，截面接近正方形，传递'高扭矩反力控制'的功能信号；后部手枪握把包胶纹理与机身黄色形成触觉和视觉双重区分；扳机区无任何遮挡，手握区与机械区的边界用颜色和形态清晰分割"
+
+    design_level:
+      score: 4
+      reason: "双把手界面的尺寸强化和色彩分区是非常清晰的H12手法，功能区（机械）与操作区（界面）的视觉分割明确"
+
+    design_tags:
+      - "H12人机界面强化"
+      - "双把手强化"
+      - "握持区尺寸放大"
+      - "色彩分区界面"
+      - "扭矩控制信号"
+
+    hero_feature: "超大截面矩形D形侧把手，尺寸和形态传递高扭矩控制能力，把手即用力界面的视觉声明"
+    problem_solved: "重型工具反扭矩控制关键在前把手，此设计将前把手做到远超常规尺寸，让用户一眼看到'这里是控制点'"
+    transferable_technique: "将主要受力/操控界面（握把、旋钮、按键）尺寸放大至远超功能需求，让界面在视觉上优先于机械结构"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h12_dewalt_002"
+    source_images:
+      - filename: "H12_dewalt_002.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H12_人机界面强化/H12_dewalt_002.jpg"
+        image_role: "hero"
+        visual_anchor: "DeWalt XR 20V无刷角磨套装：工具本体+充电器+两块电池+工具包"
+    product_name: "DeWalt 20V XR无刷角磨套装"
+    brand_name: "DeWalt"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H12_人机界面强化"
+      - "电动工具"
+      - "角磨机"
+
+    design_language:
+      silhouette: "细长直筒握把型角磨机，右角出头；充电器带多段LED状态灯，电池包带电量指示"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "黄黑配色，XR标识黄色高亮"
+        material: "工程塑料机壳，橡胶软包握区"
+        finish: "黄色注塑，黑色软胶"
+      mounting: "手持操作"
+      signature_detail: "界面强化手法：充电器状态界面信息层级化——充电器正面有Stage 1/2/3三段状态LED灯，充电阶段以颜色编码（绿/橙/红）可视化；工具本体的电量LED按钮在机身侧面突出；电池包背面也有独立电量指示条；形成工具-电池-充电器三端状态可读的完整界面系统"
+
+    design_level:
+      score: 3
+      reason: "充电系统状态信息可视化是H12的具体应用，但图为套装全景，单个界面强化细节展示不够聚焦"
+
+    design_tags:
+      - "H12人机界面强化"
+      - "充电状态可视化"
+      - "LED状态指示"
+      - "三端信息系统"
+      - "电量界面"
+
+    hero_feature: "充电器三段状态LED与电池包电量指示条构成完整的能源状态可视化界面系统"
+    problem_solved: "充电过程对用户不透明；此设计将充电进度分三阶段用LED颜色外显，消除充电状态焦虑"
+    transferable_technique: "将设备工作状态（充电、功率级别、模式）以多段LED颜色编码方式可视化，信息优先级由位置大小区分"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h12_festool_001"
+    source_images:
+      - filename: "H12_festool_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H12_人机界面强化/H12_festool_001.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool CXS 18紧凑型无刷螺丝刀，灰黑机身，绿色接头环+绿色正/反转切换按钮+绿色电量指示"
+    product_name: "Festool CXS 18 紧凑型无刷螺丝刀"
+    brand_name: "Festool"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H12_人机界面强化"
+      - "电动工具"
+      - "电动螺丝刀"
+
+    design_language:
+      silhouette: "紧凑手枪型，开放式提手环，底部电池包，前端绿色接头环突出"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "深灰/石墨色机身，绿色界面高亮区，银色金属局部"
+        material: "工程塑料主体，软质橡胶握区，金属接头"
+        finish: "灰色哑光注塑，绿色橡胶/塑料界面件"
+      mounting: "单手或双手握持"
+      signature_detail: "界面强化手法：绿色高亮系统——所有操作界面（快换卡头环、正/反转拨钮、电量检测按钮）统一使用明亮绿色，与灰黑机身形成最大色彩对比；绿色仅出现在'人需要接触操作'的区域，形成直觉性的交互视觉引导；开放式提手环则强化了握持姿态的物理界面"
+
+    design_level:
+      score: 5
+      reason: "绿色=操作界面的视觉语法系统是教科书级H12应用：颜色不作装饰用，专门用于标记人机接触点，整机界面逻辑极其清晰"
+
+    design_tags:
+      - "H12人机界面强化"
+      - "色彩编码界面"
+      - "操作区高亮系统"
+      - "Festool绿色语法"
+      - "触控点视觉标记"
+      - "开放式提手"
+
+    hero_feature: "所有操作接触点（卡头环/换向拨钮/电量按钮）统一绿色高亮，颜色=界面地图，一眼知道在哪里操作"
+    problem_solved: "工具操作区和机械结构区视觉混淆；此设计用绿色将所有需要人手接触的点单独标记，消除操作歧义"
+    transferable_technique: "将单一高对比色专用于操作界面标记，其余部分统一深色背景；颜色不作装饰，只作功能索引"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h12_festool_002"
+    source_images:
+      - filename: "H12_festool_002.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H12_人机界面强化/H12_festool_002.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool TXS 18冲击螺丝刀，灰黑机身，绿色卡头环+绿色电量按钮，底部挂钩"
+    product_name: "Festool TXS 18 冲击螺丝刀"
+    brand_name: "Festool"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H12_人机界面强化"
+      - "电动工具"
+      - "冲击螺丝刀"
+
+    design_language:
+      silhouette: "标准手枪型，比CXS更紧凑，底部可折叠金属挂钩，前端绿色接头环"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "深灰/安特拉黑机身，绿色界面元素，银色挂钩"
+        material: "工程塑料，软质握区，金属挂钩"
+        finish: "哑光深灰，绿色功能件"
+      mounting: "单手握持，可挂腰带"
+      signature_detail: "界面强化手法：与CXS同一绿色界面语法——快换卡头套环（绿）和电量检测按钮（绿）统一标色，与灰色机身严格区分；底部可折叠金属挂钩作为工作场景界面（挂具功能）也以金属材质突出；TXS相比CXS机身更流线，绿色元素更克制但逻辑更清晰"
+
+    design_level:
+      score: 4
+      reason: "绿色界面编码系统延续清晰，比CXS更克制，绿色点位减少但精准度更高；挂钩作为次级界面元素处理得当"
+
+    design_tags:
+      - "H12人机界面强化"
+      - "色彩编码界面"
+      - "Festool绿色语法"
+      - "快换界面标记"
+      - "挂钩人机细节"
+
+    hero_feature: "卡头快换环与电量按钮绿色精准标记，界面点位比CXS更少但更精准，挂钩提供第三操作界面"
+    problem_solved: "同上CXS：操作点与结构面的视觉区分；TXS版本进一步精简了绿色点位，避免过度标注"
+    transferable_technique: "在同一品牌产品线内保持界面编码颜色一致（绿=操作点），跨产品建立语法记忆；同时控制标注密度，避免过度强化"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h12_festool_003"
+    source_images:
+      - filename: "H12_festool_003.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H12_人机界面强化/H12_festool_003.jpg"
+        image_role: "hero"
+        visual_anchor: "Festool RO 125 FEQ偏心打磨机，灰黑机身，绿色转速滑块+绿色粉尘管接头卡环"
+    product_name: "Festool RO 125 FEQ 偏心打磨机"
+    brand_name: "Festool"
+    brand_confidence: "medium"
+
+    category_path:
+      - "H12_人机界面强化"
+      - "电动工具"
+      - "打磨机"
+
+    design_language:
+      silhouette: "低矮扁平手枪型，顶部集成手掌抓握区，侧面转速滑块，后端粉尘软管接口"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "深灰/碳黑机身，绿色功能界面件，橙/绿混色接口环"
+        material: "工程塑料，软质手掌包胶区，橡胶粉尘管接头"
+        finish: "哑光深灰，绿色软胶界面件"
+      mounting: "双手握持（掌压+侧把）"
+      signature_detail: "界面强化手法：转速调节滑块以绿色突出+刻度可读化——侧面转速滑块不仅绿色高亮，还有清晰的档位刻度标记；粉尘管接头以绿色旋锁环标记，卡入/拔出动作路径通过颜色和形态可读；顶部手掌抓握区以橡胶软质包覆明确标记为'主握区'，三个界面层次（速度/粉尘/握持）各自清晰"
+
+    design_level:
+      score: 5
+      reason: "三个独立界面层次（速度控制/粉尘连接/握持）均有明确的颜色+形态强化，且颜色逻辑统一（绿=操作），是Festool H12手法的最完整示范"
+
+    design_tags:
+      - "H12人机界面强化"
+      - "多界面层次强化"
+      - "转速滑块可视化"
+      - "粉尘接口标记"
+      - "握持区材质区分"
+      - "Festool绿色语法"
+
+    hero_feature: "转速滑块（绿色+刻度）、粉尘接口（绿色旋锁环）、手掌握区（软胶包覆）三个界面层次并列清晰，形成完整的操作地图"
+    problem_solved: "打磨机有多个调节和连接点，容易造成操作混乱；此设计将每个界面节点的操作方式（滑/旋/压）通过形态和颜色分别标记"
+    transferable_technique: "对产品的所有操作节点进行系统性界面设计：分别标记控制类（滑块+刻度）、连接类（旋锁环）、握持类（包胶），颜色系统统一但形态各自不同"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h12_office_001"
+    source_images:
+      - filename: "H12_office_001.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H12_人机界面强化/H12_office_001.jpg"
+        image_role: "hero"
+        visual_anchor: "米白色布面躺椅+脚凳+侧茶几套装，使用者斜倚阅读，椅底金属五爪底座+调节拨杆可见"
+    product_name: "高端人体工学躺椅套装（椅+脚凳+侧几）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H12_人机界面强化"
+      - "办公家具"
+      - "躺椅/休闲椅"
+
+    design_language:
+      silhouette: "深度倾斜躺姿椅型，高靠背包裹，侧面可见底部调节拨杆，铬钢五爪底座"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "米白/奶油色羊毛面料，铬钢底座"
+        material: "织物软包，铬钢底座，木质侧几台面"
+        finish: "天然织物，镜面铬钢"
+      mounting: "落地四爪底座，可旋转"
+      signature_detail: "界面强化手法：倾斜调节拨杆在椅侧底部位置明确——调节倾斜角度的拨杆从椅座底部侧面延伸出来，形态上是金属折弯件，视觉上独立于软包椅体；侧茶几作为使用界面延伸，茶几高度位于手肘自然位置；整体系统将'人如何与家具交互'通过配件布局外显"
+
+    design_level:
+      score: 3
+      reason: "倾斜调节界面和侧几配置是H12的家具类应用，但界面强化手段（拨杆、侧几）较为传统，视觉标记性不强"
+
+    design_tags:
+      - "H12人机界面强化"
+      - "N/A（非灯具）"
+      - "倾斜调节界面"
+      - "躺椅人机系统"
+      - "侧几界面延伸"
+
+    hero_feature: "倾斜调节拨杆在椅侧清晰可及，侧茶几构成第二操作界面，使用者与家具的交互点均在空间中被明确定位"
+    problem_solved: "高档休闲椅的功能调节通常隐蔽难找；此设计将调节界面布置在用户手自然落下处，侧几扩展了功能使用半径"
+    transferable_technique: "将产品的调节/使用界面布置在用户身体自然姿态时最易触及的位置，并通过配件（侧几、脚凳）拓展交互区域"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h12_office_002"
+    source_images:
+      - filename: "H12_office_002.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H12_人机界面强化/H12_office_002.jpg"
+        image_role: "hero"
+        visual_anchor: "浅木色办公桌+粉色高背人体工学椅，桌面左角有嵌入式黑色电源/USB模块"
+    product_name: "智能办公桌+人体工学椅套装"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H12_人机界面强化"
+      - "办公家具"
+      - "办公桌/座椅"
+
+    design_language:
+      silhouette: "矩形桌面，白色方管腿，桌面嵌入电源模块；椅子高背多节腰靠，可见椅背调节结构"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "浅橡木桌面，白色钢管腿；粉/裸粉色椅面，银色椅骨架"
+        material: "木质贴面桌面，钢管桌腿；织物椅面，铝合金椅骨架"
+        finish: "木皮哑光，粉末涂层钢架"
+      mounting: "落地四腿桌，滚轮五爪椅底"
+      signature_detail: "界面强化手法：桌面嵌入式电源/USB模块将数字接口集成至工作界面——黑色方形模块嵌在桌角，与桌面齐平，是桌面功能界面的核心强化点；椅背的多节可调腰靠通过分段形态清晰区分各节椅背的调节独立性；桌面右侧滑槽暗示升降或延伸功能"
+
+    design_level:
+      score: 3
+      reason: "桌面嵌入数字接口模块是清晰的H12家具界面强化案例，但图像角度无法充分展示界面细节，椅子界面强化也不够聚焦"
+
+    design_tags:
+      - "H12人机界面强化"
+      - "N/A（非灯具）"
+      - "嵌入式接口模块"
+      - "桌面数字界面"
+      - "腰靠分段调节"
+
+    hero_feature: "桌面嵌入黑色电源/USB模块，将数字接口直接集成到工作表面，是工作界面的最直接强化"
+    problem_solved: "传统办公桌需要桌面外部走线接插座；嵌入模块将接口归位到工作区，减少线缆干扰"
+    transferable_technique: "将高频使用的功能接口（电源、USB、控制按钮）嵌入产品主使用面，与使用表面齐平，消除接口与使用面的距离感"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "h12_office_003"
+    source_images:
+      - filename: "H12_office_003.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/03_设计手法库/H12_人机界面强化/H12_office_003.jpg"
+        image_role: "hero"
+        visual_anchor: "室内场景，芥末黄色办公椅+木质圆角半圆形书桌，桌面放台灯书本"
+    product_name: "办公椅+半圆形木质书桌（室内场景）"
+    brand_name: ""
+    brand_confidence: "low"
+
+    category_path:
+      - "H12_人机界面强化"
+      - "办公家具"
+      - "座椅/书桌"
+
+    design_language:
+      silhouette: "椅子：包裹型椅背无扶手，裤脚+滚轮底座，气杆调高可见；桌子：半圆形圆角台面，木质H形腿架"
+      light_opening: "N/A（非灯具）"
+      thermal: "N/A（非灯具）"
+      cmf:
+        color: "芥末黄/焦糖色椅面，黑色底座；木色桌面，原木桌腿"
+        material: "织物软包椅面，钢/铝底座；实木或木皮桌面"
+        finish: "织物哑光，黑色粉末涂层底座，木色自然油蜡"
+      mounting: "气杆升降椅，落地桌"
+      signature_detail: "界面强化手法：气杆升降机构在椅座下方清晰可见——黑色圆柱气杆从底座中心升起，其可调节性通过外露的气杆截面直接可读；椅子色彩（黄色）与桌子（木色）形成人机系统中'人的位置'与'工作面'的视觉区分；圆角半圆桌面的圆弧边缘是对坐姿贴近工作面的人体工学界面强化"
+
+    design_level:
+      score: 3
+      reason: "气杆外露和座椅色彩识别是基本的人机界面强化，但强化手段较为通用，未形成独特语法"
+
+    design_tags:
+      - "H12人机界面强化"
+      - "N/A（非灯具）"
+      - "气杆外露"
+      - "色彩区分人机位置"
+      - "圆角桌面人体工学"
+
+    hero_feature: "气杆升降机构外露传递可调节信号，芥末黄椅色在木色场景中突出标记'人的位置'"
+    problem_solved: "办公场景中椅子和桌子的人机关系模糊；此设计通过色彩对比和形态（气杆/圆角）使人的操作位置和调节能力清晰可读"
+    transferable_technique: "在多件组合产品中，用色彩区分'人接触的部分'（椅子黄色）和'工作背景'（桌面木色），形成视觉人机图"
+
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+
+    needs_human_review: false
+    review_reason: ""

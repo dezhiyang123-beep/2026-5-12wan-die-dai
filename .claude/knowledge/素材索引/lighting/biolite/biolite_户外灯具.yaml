@@ -1,0 +1,287 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯具"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/户外灯具/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "biolite_户外灯具_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/户外灯具/01.jpg"
+        image_role: "hero"
+        visual_anchor: "扁圆筒形暗炭主体 + 分层展开的茶色串灯绕底盘铺散，顶面整面太阳能板，侧面茶绿色提环"
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/户外灯具/11.jpg"
+        image_role: "comparison"
+        visual_anchor: "两个同款产品对比展示：左侧串灯展开状态，右侧仅单根导线延伸状态，清晰呈现收纳与展开两种形态"
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/户外灯具/12.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "夜间木桌实景，串灯底部收纳状态，文字标注'String Lights are hidden & stored inside the unit'"
+    product_name: "SolarHome 620+ Solar String Lights"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯具"
+      - "太阳能串灯"
+    design_language:
+      silhouette: "低矮扁圆筒形（高宽比约1:2），顶面平坦覆盖整块圆形太阳能板，底部有茶绿色浅盘承托串灯线圈，茶绿色扁平提环从顶部侧立"
+      light_opening: "分布式串灯：多个椭圆形暖光磨砂灯珠（8+颗）沿棉编织线绳分布，灯珠均匀散射，非聚焦，暖白2700K氛围光"
+      thermal: "无主动散热结构，低功耗LED串灯热量极小，被动散热，顶面太阳能板为充电入口"
+      cmf:
+        color: "主体暗炭灰（Slate）+ 茶绿色（Teal）提环与底盘 + 暖金磨砂灯珠"
+        material: "硬质ABS主体，柔性硅胶提环，棉编织导线，磨砂PC灯珠罩"
+        finish: "主体亚光磨砂，太阳能板深色哑光，灯珠乳白磨砂半透"
+      mounting: "顶部茶绿硅胶提环可挂树枝/帐篷绳；底部可平放桌面；串灯可展开铺设于任意面"
+      signature_detail: "串灯收纳于底盘凹槽内隐藏式盘绕——外观为紧凑圆盘，展开后变为多米长串灯；LED状态点阵（4个小圆点）外显电量"
+    design_level:
+      score: 4
+      reason: "将传统串灯的杂乱收纳问题解决得极为优雅：整机看起来是一个紧凑圆盘，串灯盘绕在底部凹槽里隐形存储。太阳能自充+USB双路输入+USB输出集于一体，是功能集成度很高的设计，形态与功能高度统一"
+    design_tags:
+      - "隐藏收纳"
+      - "太阳能充电"
+      - "串灯氛围光"
+      - "模块化展开"
+      - "暗炭+茶绿配色"
+      - "H09隐藏工程"
+      - "H05模块化"
+    hero_feature: "串灯隐藏盘绕在底盘凹槽内，展开即变成多米长串灯，收纳即成紧凑圆盘"
+    problem_solved: "户外串灯收纳混乱、需要外部电源；此设计将收纳、发电、储电、照明四合一"
+    transferable_technique: "将延伸性附件（线缆/软管/绳索）盘绕收纳于底盘凹槽的隐藏式存储结构，可迁移至需要收放附件的工具类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "biolite_户外灯具_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/户外灯具/03.jpg"
+        image_role: "hero"
+        visual_anchor: "同款SolarHome扁圆筒体，浅灰白主体配色，茶绿提环从顶部拱起，底盘展开的串灯灯珠为紫粉色调，侧面茶绿色腰环"
+    product_name: "SolarHome 620+ Solar String Lights (White / Color Light Variant)"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯具"
+      - "太阳能串灯"
+    design_language:
+      silhouette: "与001相同的低矮扁圆筒形，顶面圆形太阳能板（黑色），茶绿色拱形提环，茶绿色底盘环"
+      light_opening: "分布式串灯：椭圆形灯珠沿棉编织线分布，本变体灯珠发出紫粉/蓝渐变彩色光，非聚焦氛围散射光"
+      thermal: "无主动散热，低功耗LED，被动散热"
+      cmf:
+        color: "主体浅灰白（Pearl/White）+ 茶绿色（Teal）提环与底盘 + 紫粉渐变灯珠"
+        material: "硬质ABS主体，柔性硅胶提环，棉编织导线，磨砂PC灯珠罩"
+        finish: "主体光滑亮白，太阳能板深色哑光，灯珠彩色半透磨砂"
+      mounting: "顶部茶绿硅胶提环挂载；底部平放；串灯可展开铺设"
+      signature_detail: "同款隐藏式串灯收纳设计；彩色灯珠为该变体差异化特征，增加节日/派对氛围感"
+    design_level:
+      score: 4
+      reason: "与001设计水准相同，配色变体服务不同使用场景（节日/派对），白色主体与彩色灯珠搭配视觉对比更鲜明"
+    design_tags:
+      - "隐藏收纳"
+      - "太阳能充电"
+      - "彩色串灯"
+      - "白色配色变体"
+      - "茶绿品牌色"
+      - "H09隐藏工程"
+      - "H10材料表达"
+    hero_feature: "白色主体+茶绿腰带+彩色灯珠，品牌标识性配色公式在浅色版本上的演绎"
+    problem_solved: "节日/派对场景对彩色氛围灯的需求，同时保持户外太阳能自充续航能力"
+    transferable_technique: "同款底盘串灯隐藏收纳结构；产品线配色变体策略：主体色切换+强调色保持不变"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "biolite_户外灯具_003"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/户外灯具/05.jpg"
+        image_role: "hero"
+        visual_anchor: "暗炭灰扁圆筒形，顶面正方形太阳能板（非圆形覆盖），茶绿色腰环，仅2颗暖光灯珠的细线伸出，整体比001更厚重紧凑"
+    product_name: "SolarHome 620 Solar String Lights (2-Bulb)"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯具"
+      - "太阳能串灯"
+    design_language:
+      silhouette: "低矮圆筒形，比001略高，顶面中央嵌入方形太阳能板（有圆弧倒角），茶绿色腰环分隔上下两段，顶面无提环（侧面有USB端口）"
+      light_opening: "极简串灯：仅2颗大椭圆形暖白磨砂灯珠，低功耗散射点光源，适合单点照明而非大面积氛围"
+      thermal: "无主动散热，被动散热"
+      cmf:
+        color: "主体暗炭灰（Slate）+ 茶绿色腰环 + 暖金灯珠"
+        material: "硬质ABS主体，硅胶腰环，棉编织导线，磨砂PC灯珠罩"
+        finish: "主体亚光磨砂，太阳能板深色哑光"
+      mounting: "平放桌面/地面；串灯可悬挂或展开；侧面卡扣可固定"
+      signature_detail: "方形太阳能板居中嵌入圆形顶面，形成方圆对比的几何张力；仅2颗灯珠为入门/旅行轻量版特征"
+    design_level:
+      score: 3
+      reason: "入门版本，串灯数量少（2颗），功能聚焦，设计语言与家族一致但少了001的戏剧性铺展效果，属于产品线中的务实款"
+    design_tags:
+      - "方形太阳能板"
+      - "茶绿腰环"
+      - "暗炭配色"
+      - "极简串灯"
+      - "轻量旅行"
+      - "H07极简整合"
+    hero_feature: "方形太阳能板嵌入圆形顶面的方圆几何对比，简洁且功能外显"
+    problem_solved: "轻量旅行/背包客的最小化照明需求，单点光源够用且体积更小"
+    transferable_technique: "方形功能面板（太阳能/散热/显示）嵌入圆形壳体的方圆几何对比手法，可迁移至多种圆筒形便携产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "biolite_户外灯具_004"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/户外灯具/07.jpg"
+        image_role: "hero"
+        visual_anchor: "浅灰白圆筒体，顶面方形太阳能板，茶绿色腰环，2颗紫色灯珠串线延伸，整体与003同款但白色配色"
+    product_name: "SolarHome 620 Solar String Lights (2-Bulb, White Variant)"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯具"
+      - "太阳能串灯"
+    design_language:
+      silhouette: "与003相同的低矮圆筒形，顶面嵌入方形太阳能板，茶绿腰环，浅灰白主体"
+      light_opening: "2颗灯珠串灯，本变体灯珠发出紫色/淡紫光，非聚焦点光源"
+      thermal: "无主动散热，被动散热"
+      cmf:
+        color: "主体浅灰白（Pearl）+ 茶绿腰环 + 紫色灯珠"
+        material: "硬质ABS，硅胶腰环，棉编织导线，磨砂PC灯珠"
+        finish: "主体光滑亮白，太阳能板深色哑光"
+      mounting: "平放或串灯悬挂"
+      signature_detail: "白色主体上茶绿腰环更为醒目，紫色灯珠与白色主体形成冷暖+明暗双对比"
+    design_level:
+      score: 3
+      reason: "与003同款设计，白色配色变体，评分相同；配色服务不同审美偏好"
+    design_tags:
+      - "方形太阳能板"
+      - "白色配色变体"
+      - "茶绿腰环"
+      - "彩色灯珠"
+      - "H10材料表达"
+    hero_feature: "白色壳体上茶绿腰环作为品牌色彩锚点，配合彩色灯珠形成三色层次"
+    problem_solved: "偏好浅色外观的用户的轻量串灯需求"
+    transferable_technique: "腰环色彩作为单一品牌色注入点，在浅色主体上高效传递品牌识别度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "biolite_户外灯具_005"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/户外灯具/09.jpg"
+        image_role: "hero"
+        visual_anchor: "扁圆碟形白色灯体，正面菱形（方形45°旋转）黑色太阳能板，侧面茶绿色柔性绳圈作为悬挂钩，背面为发光面"
+    product_name: "BioLite SunLight (Solar Hanging Light)"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯具"
+      - "太阳能悬挂灯"
+    design_language:
+      silhouette: "薄圆碟形，厚度约为直径的1/4，正反两面：正面嵌入菱形太阳能板，背面为全面积漫射发光面，茶绿色柔性绳圈从侧面穿出作为悬挂结构"
+      light_opening: "全背面漫射发光：整个碟背为乳白磨砂漫射板，提供均匀柔和的广角散射光，类似月亮灯效果"
+      thermal: "极薄碟形，热量极低，被动散热"
+      cmf:
+        color: "白色（Pearl）主体 + 黑色菱形太阳能板 + 茶绿色（Teal）柔性绳圈"
+        material: "硬质ABS碟体，柔性硅胶悬挂绳圈，磨砂PC漫射背板"
+        finish: "主体亚光白，太阳能板哑光黑，漫射板乳白磨砂"
+      mounting: "茶绿色柔性硅胶绳圈可绕帐篷杆/树枝/绳索挂载；绳端两个小球头作为止脱结构"
+      signature_detail: "菱形太阳能板旋转45°嵌入圆形碟面，打破圆形的单调；茶绿柔性绳圈兼具挂载与品牌视觉功能，双头止脱球造型独特"
+    design_level:
+      score: 4
+      reason: "形态极简但解题完整：碟形最大化了单位体积的发光面积和太阳能捕获面积，菱形太阳能板的45°旋转增加视觉趣味而不增加成本，茶绿柔性绳圈是既功能又品牌的精准设计"
+    design_tags:
+      - "碟形漫射灯"
+      - "菱形太阳能板"
+      - "柔性绳圈挂载"
+      - "极简双面设计"
+      - "H07极简整合"
+      - "H08对比强调"
+      - "全面积漫射"
+    hero_feature: "菱形太阳能板45°旋转嵌入圆碟，正面功能性几何与圆形外轮廓的方圆张力"
+    problem_solved: "需要随处可挂的轻量帐篷/营地照明，太阳能自充省去换电池烦恼"
+    transferable_technique: "功能部件（面板/传感器/散热鳍）旋转45°打破圆形单调的手法；柔性绳圈替代刚性挂钩实现多场景挂载的柔性挂载结构"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "biolite_户外灯具_006"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/biolite/户外灯具/13.jpg"
+        image_role: "hero"
+        visual_anchor: "三款尺寸递增的灯具家族合影：左侧小型球形灯（Alpenglow Mini，白壳茶绿底盖），中间中型胶囊形立灯（白色漫射体+茶绿侧条+灰色底座），右侧大型同款胶囊立灯"
+    product_name: "BioLite Alpenglow Lantern Family (Mini / 250 / 500)"
+    brand_name: "BioLite"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯具"
+      - "营地提灯"
+    design_language:
+      silhouette: "三款家族：Mini为扁球形（宽扁比约1:1），250和500为直立圆角方柱胶囊形（高宽比约2:1和2.5:1），顶部圆角过渡自然，底部灰色平底座；Mini顶部茶绿圆形盖，250/500侧面有茶绿色竖条贯通上下"
+      light_opening: "全周侧面漫射发光：乳白磨砂PC外壳整体作为360°漫射灯罩，内部LED均匀照射整个外壳实现全周柔光"
+      thermal: "低功耗LED，ABS/PC外壳被动散热，底部灰色底座内置电池组"
+      cmf:
+        color: "漫射体乳白（Warm White）+ 茶绿色（Teal）侧条/顶盖 + 深灰（Slate）底座"
+        material: "磨砂乳白PC漫射外壳，ABS底座，硅胶侧条"
+        finish: "漫射罩乳白磨砂半透，底座亚光深灰，茶绿侧条亚光"
+      mounting: "平放底座立式；顶部茶绿盖/挂环可悬挂（250/500有顶部挂点）"
+      signature_detail: "茶绿色竖条从顶贯穿至底（250/500款），是品牌色彩标识性分件线；Mini的茶绿顶盖与白色球体形成两段式对比"
+    design_level:
+      score: 4
+      reason: "家族化设计系统执行到位：相同的CMF配方（乳白漫射体+茶绿强调+灰底座）在三个尺寸和两种形态（球形vs胶囊）上一致传递品牌识别度；胶囊形态的茶绿竖条是品牌最具识别度的视觉语法之一"
+    design_tags:
+      - "360度漫射"
+      - "胶囊形态"
+      - "茶绿竖条分件"
+      - "家族化设计"
+      - "营地提灯"
+      - "H03分件线"
+      - "H07极简整合"
+      - "乳白漫射罩"
+    hero_feature: "茶绿色竖条贯通胶囊体上下，将品牌色精准注入极简白色灯体，一条线完成品牌识别"
+    problem_solved: "营地/帐篷全向氛围照明，需要多尺寸选择适应不同场景（Mini入包/250帐篷/500营地中心）"
+    transferable_technique: "单色竖条分件线作为品牌色注入点的手法（H03），可迁移至任何需要在浅色简洁外壳上植入品牌识别色的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

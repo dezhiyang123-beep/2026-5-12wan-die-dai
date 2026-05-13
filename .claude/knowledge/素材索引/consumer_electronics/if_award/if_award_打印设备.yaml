@@ -1,0 +1,359 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "打印设备"
+  tertiary: ""
+source:
+  source_type: "award_collection"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/打印设备"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_printer_001"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/打印设备/14.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面视角，极薄横条形黑色机身，顶部蓝色进纸槽贯穿全宽，左侧3颗状态指示灯"
+    product_name: "Brother PocketJet PJ-773 便携热敏打印机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "打印设备"]
+    design_language:
+      silhouette: "极扁长条形，长宽比约6:1，轮廓接近一本书的侧面，无多余凸起"
+      light_opening: "无"
+      thermal: "顶部贯穿全宽的蓝色进纸导槽是唯一功能开口，正面底部出纸缝内嵌"
+      cmf:
+        color: "全黑+蓝色点缀"
+        material: "ABS塑料机身"
+        finish: "哑光黑机壳+半透明蓝色进纸槽"
+      mounting: "便携手持，桌面平放"
+      signature_detail: "蓝色半透明进纸导槽横贯机身全宽，在黑色机身上形成蓝色腰线"
+    design_level:
+      score: 4
+      reason: "极简横条形轮廓做到了最小冗余，单一蓝色腰线既有功能意义又是唯一装饰元素，便携形态完整"
+    design_tags: ["便携打印", "极简主义", "腰线设计", "热敏打印", "单色CMF"]
+    hero_feature: "蓝色半透明进纸导槽横贯全宽，将进纸功能外显为视觉腰线"
+    problem_solved: "便携打印机通常又厚又笨，该设计压低厚度至接近文件夹，可随商务包携带"
+    transferable_technique: "功能开口即装饰腰线，颜色点缀与功能合一（H11功能外显+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_printer_002"
+    source_images:
+      - filename: "23.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/打印设备/23.jpg"
+        image_role: "hero"
+        visual_anchor: "3/4正面视角，深灰色上盖+黑色功能区，右侧触控屏，下部自动进纸托盘外露"
+    product_name: "HP Officejet Pro 6835 多功能一体机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "打印设备"]
+    design_language:
+      silhouette: "横向矩形主体，左高右低双层台阶结构，顶部ADF进纸器向右倾斜延伸"
+      light_opening: "无"
+      thermal: "ADF进纸器顶部右置，出纸托盘内嵌于上下两层之间"
+      cmf:
+        color: "深灰色+黑色双色"
+        material: "ABS塑料"
+        finish: "哑光深灰+哑光黑"
+      mounting: "桌面独立放置"
+      signature_detail: "HP logo左上角白色浮雕，触控彩屏右置，进纸托盘以品牌名HEWLETT-PACKARD凸印作装饰条"
+    design_level:
+      score: 2
+      reason: "双色分件较常规，台阶结构功能性合理但造型语言缺乏特点，整体较平庸"
+    design_tags: ["多功能一体机", "办公打印", "双色机身", "触控屏", "ADF进纸"]
+    hero_feature: "触控彩屏右置作为主要交互入口，与左侧大面积哑光灰形成视觉主次"
+    problem_solved: "家庭办公多功能需求整合打印/传真/扫描/复印于单机"
+    transferable_technique: "触控屏局部高光与大面积哑光底色形成图底关系（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_printer_003"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/打印设备/25.jpg"
+        image_role: "hero"
+        visual_anchor: "3/4左前视角，深灰+黑双色机身，顶部ADF右展，右侧触控屏，底部进纸托盘"
+    product_name: "HP Officejet Pro 6830 多功能一体机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "打印设备"]
+    design_language:
+      silhouette: "横向矩形，左高右低双层台阶，ADF顶部右展，与6835为同平台兄弟款"
+      light_opening: "无"
+      thermal: "ADF进纸器顶部右置，内嵌出纸槽"
+      cmf:
+        color: "深灰+黑色"
+        material: "ABS塑料"
+        finish: "哑光深灰+哑光黑"
+      mounting: "桌面独立放置"
+      signature_detail: "与6835造型相同，颜色方案略有差异，整体为同平台变体"
+    design_level:
+      score: 2
+      reason: "同平台变体，造型与6835高度相似，无新增设计亮点"
+    design_tags: ["多功能一体机", "办公打印", "同平台变体", "ADF进纸", "双色机身"]
+    hero_feature: "与6835共享造型平台，触控屏右置为主要差异化交互点"
+    problem_solved: "家庭办公多功能整合，提供低一级的配置选项"
+    transferable_technique: "平台化造型策略，多SKU共用同一设计语言（H05模块化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_printer_004"
+    source_images:
+      - filename: "41.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/打印设备/41.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，白+深灰双色，上盖深灰平整，正面白色大面积，底部出纸盘深灰，旁有手机配对展示"
+    product_name: "HP LaserJet M234dwe 激光多功能机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "打印设备"]
+    design_language:
+      silhouette: "近立方体，上盖平整，正面白色大面积包裹，底部出纸托盘向外延展，整体比例方正"
+      light_opening: "无"
+      thermal: "顶部扫描盖板，中部出纸口内嵌，底部进纸托盘向前延展"
+      cmf:
+        color: "白色+深灰色"
+        material: "ABS塑料"
+        finish: "哑光白+哑光深灰"
+      mounting: "桌面独立放置"
+      signature_detail: "正面白色大面积中央蓝色细光条作为状态指示，形成唯一彩色点缀"
+    design_level:
+      score: 3
+      reason: "白灰双色分件清晰，比例方正，蓝色光条点缀有节制，但整体造型缺少张力"
+    design_tags: ["激光打印机", "白色家用", "双色分件", "移动打印", "极简"]
+    hero_feature: "白色正面大面积+蓝色细光条，将状态显示做成装饰元素"
+    problem_solved: "家用激光打印机普遍颜色沉闷，该设计以白色为主调，融入家居环境"
+    transferable_technique: "功能状态灯融入装饰线（H09隐藏工程+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_printer_005"
+    source_images:
+      - filename: "47.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/打印设备/47.jpg"
+        image_role: "hero"
+        visual_anchor: "正面并列两台，白色机身+黑色ADF+侧面彩色墨仓条，左款无ADF，右款带ADF"
+    product_name: "Canon MAXIFY GX7000系列大容量供墨多功能机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "打印设备"]
+    design_language:
+      silhouette: "近正方形主体，白色为主，顶部黑色ADF结构，侧面彩色墨仓窗口外露"
+      light_opening: "无"
+      thermal: "顶部ADF进纸器，前部出纸托盘，侧面可见式大容量墨仓"
+      cmf:
+        color: "白色+黑色+四色墨仓彩条"
+        material: "ABS塑料"
+        finish: "哑光白+哑光黑"
+      mounting: "桌面独立放置"
+      signature_detail: "右侧面可见四色墨仓（黑/品红/青/黄）竖排外露，将耗材状态外显为产品视觉特征"
+    design_level:
+      score: 4
+      reason: "可见墨仓设计将内部功能结构转化为外观特征，四色竖排形成独特视觉记忆点，功能与造型融合度高"
+    design_tags: ["大容量墨仓", "功能外显", "彩色点缀", "可见墨量", "办公打印"]
+    hero_feature: "右侧面四色大容量墨仓竖排外露，墨量可见，颜色点阵成为产品辨识符号"
+    problem_solved: "传统墨盒打印机无法直观看到墨量，可见墨仓解决了用户的耗材焦虑"
+    transferable_technique: "内部耗材/机构外露可视化，将隐藏结构变为视觉特征（H11功能外显）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_printer_006"
+    source_images:
+      - filename: "53.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/打印设备/53.jpg"
+        image_role: "hero"
+        visual_anchor: "正面并列两台，左为MFP含大尺寸触控屏，右为单功能激光机，均为灰白机身"
+    product_name: "Samsung ProXpress M4580FX / M4530ND 商用激光系列"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "打印设备"]
+    design_language:
+      silhouette: "高柱体，浅灰色大面积主体，顶部深色功能区，左款顶部附大尺寸横置触控屏"
+      light_opening: "无"
+      thermal: "顶部ADF或扫描盖板，中部出纸托盘内嵌，底部多层进纸抽屉"
+      cmf:
+        color: "浅灰+深灰+黑色"
+        material: "ABS塑料"
+        finish: "哑光浅灰+哑光深灰"
+      mounting: "落地/桌面，底部有调平脚"
+      signature_detail: "MFP款中部嵌入7英寸以上横置Android触控屏，全面积蓝色UI作为视觉焦点"
+    design_level:
+      score: 3
+      reason: "商用打印机典型造型，整体配色沉稳，触控屏处理合理，但产品线整体设计语言较通用"
+    design_tags: ["商用激光", "大屏交互", "Android系统", "产品族系", "办公打印"]
+    hero_feature: "大尺寸横置触控屏搭载Android系统，将打印机升级为智能办公终端"
+    problem_solved: "传统办公打印机操作繁琐，大触控屏+Android生态降低工作流复杂度"
+    transferable_technique: "平板级触控屏作为主交互面的整合方式（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_printer_007"
+    source_images:
+      - filename: "54.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/打印设备/54.jpg"
+        image_role: "hero"
+        visual_anchor: "3/4视角两台叠放展示，前景为MFP大触控屏款，背景为激光单功能机，灰白机身"
+    product_name: "Samsung ProXpress M4580FX 商用激光MFP（3/4视角）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "打印设备"]
+    design_language:
+      silhouette: "高柱体，3/4视角下侧面散热栅格可见，触控屏向用户侧倾斜约15度"
+      light_opening: "无"
+      thermal: "侧面大面积纵向散热栅格外露，顶部ADF扫描盖板"
+      cmf:
+        color: "浅灰+深灰"
+        material: "ABS塑料"
+        finish: "哑光浅灰+哑光深灰，散热栅格有纵向沟槽细节"
+      mounting: "落地式，底部宽脚座"
+      signature_detail: "侧面纵向散热栅格形成竖条纹理，与正面大触控屏形成细腻/简洁对比"
+    design_level:
+      score: 3
+      reason: "与053同系，3/4视角补充了侧面散热细节，整体评分不变"
+    design_tags: ["商用激光", "散热栅格", "侧面细节", "大触控屏", "产品族系"]
+    hero_feature: "侧面纵向散热栅格阵列与正面光洁触控屏形成纹理对比"
+    problem_solved: "大型商用打印机散热面积需求与外观整洁性的平衡"
+    transferable_technique: "散热功能结构转化为表面纹理装饰（H09隐藏工程+H04参数化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_printer_008"
+    source_images:
+      - filename: "55.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/打印设备/55.jpg"
+        image_role: "hero"
+        visual_anchor: "黑白老照片，落地式复印机，浅灰色高柱体机身，顶部多功能进纸器，左右两侧出纸托盘展开"
+    product_name: "Agfa X25-3 复印机（历史经典款）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "打印设备"]
+    design_language:
+      silhouette: "高柱体落地式，顶部进纸机构向两侧展开呈展翅状，重心低，底座宽稳"
+      light_opening: "无"
+      thermal: "顶部进纸器+左右对称出纸托盘，形成展翅状顶部结构"
+      cmf:
+        color: "浅灰色（黑白图片推测）"
+        material: "金属+ABS"
+        finish: "哑光浅灰"
+      mounting: "落地式，宽矩形底座"
+      signature_detail: "左右对称双出纸托盘展开，形成独特的展翅顶部轮廓"
+    design_level:
+      score: 3
+      reason: "历史经典工业设计，左右对称的功能性展翅结构有强烈的时代风格，对称美感突出"
+    design_tags: ["历史经典", "复印机", "对称结构", "落地式", "工业设计史"]
+    hero_feature: "左右对称双出纸托盘展翅造型，赋予大型办公设备雕塑感"
+    problem_solved: "早期大型复印机需要同时向两侧输出文件，对称出纸结构解决多任务并行需求"
+    transferable_technique: "功能性对称结构产生造型张力，左右展翅比单向出纸更有雕塑感（H11功能外显）"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_printer_009"
+    source_images:
+      - filename: "63.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/打印设备/63.jpg"
+        image_role: "hero"
+        visual_anchor: "正面并列两台，全黑机身，左款无ADF纯扫描盖，右款带ADF和触控彩屏"
+    product_name: "Brother DCP-J1260W / DCP-J4800DW 喷墨多功能机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "打印设备"]
+    design_language:
+      silhouette: "横向矩形，全黑哑光机身，轮廓方正，正面中部有明显分件线分隔上下两层"
+      light_opening: "无"
+      thermal: "左款仅扫描盖，右款顶部ADF，均有前部进出纸托盘"
+      cmf:
+        color: "全黑"
+        material: "ABS塑料"
+        finish: "哑光黑为主，触控屏区域半光"
+      mounting: "桌面独立放置"
+      signature_detail: "全黑配色统一机身，绿色电源指示灯和彩色触控屏是仅有的颜色点缀"
+    design_level:
+      score: 3
+      reason: "全黑方案统一感强，产品族系识别度高，但造型语言较保守，缺少原创细节"
+    design_tags: ["全黑配色", "喷墨打印", "产品族系", "家用多功能", "触控屏"]
+    hero_feature: "全黑哑光机身在同品类白色/灰色主流中形成色调差异化"
+    problem_solved: "家用打印机多为白色，全黑方案满足追求科技感或深色家居风格的用户"
+    transferable_technique: "单一深色统一机身，以颜色而非形态建立产品家族识别（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_printer_010"
+    source_images:
+      - filename: "64.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/打印设备/64.jpg"
+        image_role: "hero"
+        visual_anchor: "俯视3/4角度，全黑机身，顶部ADF盖板大面积平整，前角触控彩屏+绿色按键"
+    product_name: "Brother DCP-J4800DW 喷墨多功能机（俯视角）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "打印设备"]
+    design_language:
+      silhouette: "俯视下近正方形，顶盖圆角弧度柔和，ADF区与扫描盖之间有清晰分件线"
+      light_opening: "无"
+      thermal: "ADF进纸口于顶部后侧，分件线清晰可见"
+      cmf:
+        color: "全黑"
+        material: "ABS塑料"
+        finish: "哑光黑顶盖，边缘轻微圆角过渡"
+      mounting: "桌面独立放置"
+      signature_detail: "俯视角展示顶盖大面积干净黑色与分件线的精确关系，彩屏嵌入角部"
+    design_level:
+      score: 3
+      reason: "俯视角度补充了顶盖分件细节，与063为同一款，整体评分相同"
+    design_tags: ["全黑配色", "俯视角", "顶盖细节", "分件线", "喷墨打印"]
+    hero_feature: "俯视角展现顶盖大面积哑光黑平整度与ADF分件线的精确结合"
+    problem_solved: "补充展示产品顶部使用场景下的视觉形态"
+    transferable_technique: "顶盖与ADF的干净分件处理，避免拼接感（H03分件线）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

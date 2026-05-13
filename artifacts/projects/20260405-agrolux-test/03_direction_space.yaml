@@ -1,0 +1,82 @@
+project_id: "20260405-agrolux-test"
+lifecycle: active
+gate: "G3"
+
+directions:
+  - direction_id: "D-A"
+    title: "层间补光灯条"
+    core_claim: "开发30-40mm宽层间补光LED灯条，填补Agrolux LYRA产品线空白，通过Modbus接入OS调度"
+    behavior_contradiction: "要[提升密植作物中下层叶片光照]→但[顶光穿透力有限且产热伤冠层]"
+    supporting_evidence:
+      - "Agrolux全产品线无层间补光，竞品Philips/Hortilux均有[H]"
+      - "密植番茄层间补光可提升产量20-30%（行业数据）[M]"
+      - "LYRA Modbus接口可被层间灯条调用[M]"
+    counter_argument: |
+      LYRA物理接口规格未公开，第三方接入风险高[L]。
+      荷兰冬季：层间补光产热少，反而加剧HPS改LED后的冬季供暖成本[H]。
+      无Agrolux接受第三方LYRA模块先例[L]。
+    form_handoff_brief:
+      visual_signal_to_embody: "超薄灯条截面30mm以内，植株行间插入不遮光，工业白色与温室钢架融合"
+      installation_context: "悬挂于番茄/黄瓜植株行间钢丝，安装高度0.8-1.2m，每行间距0.5-0.6m"
+      engineering_redline: "宽度≤35mm（否则遮光），防护IP67，外置驱动器，工作温度45-85%RH连续"
+      cost_ceiling_per_unit: "$28/m（BOM，外置驱动器均摊后）"
+      must_not_look_like: "家用LED灯管；Valoya RX系列（HID替换风格）；暖色调装饰灯"
+      must_keep_customer_signal: "Agrolux品牌白色基调；简洁工业感与WEGA系列造型语言兼容"
+
+  - direction_id: "D-B"
+    title: "可调光谱顶灯"
+    core_claim: "开发600-1000W双通道可调光谱顶灯，通过LYRA Modbus接入Agrolux OS，一键切换生长/结果期光谱配方"
+    behavior_contradiction: "要[优化不同品种/生长阶段光谱]→但[固定光谱顶灯无法给不同品种或阶段分别配光]"
+    supporting_evidence:
+      - "LYRA支持Modbus RTU/TCP + 0-10V，可调光谱灯天然适配[M-agrolux.com/os]"
+      - "Agrolux OS AI光策略自动化是路线图方向，可调光谱灯是硬件前提[H]"
+      - "轮作场景（番茄→辣椒→生菜）对光谱切换需求明确[H-greenhousegrower.com]"
+      - "可调光谱溢价约15-25%（Signify TLF Tunable参考）[M]"
+    counter_argument: |
+      可调光谱增产数据是Signify专有，复制需18-24个月田间试验[L]。
+      Owner对20-30%价差批准意愿低（ROI回本期边界）[H]。
+      Agrolux OS采用率未知，OS生态依赖型产品有时机风险[M]。
+    form_handoff_brief:
+      visual_signal_to_embody: "与WEGA系列同族感的扁宽铝挤型灯体，但更轻薄（高宽比1:4以内），双通道可见区分度（细节差异）"
+      installation_context: "顶部钢丝绳悬挂（标准4点），安装高度2.5-3.5m，覆盖4-6m²/灯，列间距1.5-2.5m"
+      engineering_redline: "IP67，散热基板温度≤65°C（连续8h满功率），Modbus地址可编程，CE+UL8800认证"
+      cost_ceiling_per_unit: "$280-350（800-1000W级别BOM，可调光谱驱动器含在内）[M]"
+      must_not_look_like: "Signify GreenPower Force（大型白色矩形）；Heliospectra MITRA X（全模块化拼接）"
+      must_keep_customer_signal: "Agrolux WEGA家族的白色铝基色调；简洁工程感；LYRA标志接口位置"
+
+  - direction_id: "D-C"
+    title: "高效能OEM底盘"
+    core_claim: "OEM 4.1+ µmol/J高效能顶灯底盘，售价比WEGA Max低20-25%，主攻HPS改造波峰市场"
+    behavior_contradiction: "要[降低能耗换LED]→但[LED初期成本高，Owner层卡在ROI回报期18-36个月]"
+    supporting_evidence:
+      - "荷兰4万公顷HPS温室，EU法规2026-2028改造波峰[M]"
+      - "WEGA Max效能3.85 µmol/J，竞品中第四，有效能+价格双向被替代空间[H]"
+      - "中国OEM（Maksdep/Atop）已持CE+UL8800认证，可合作[M]"
+    counter_argument: |
+      4.1 µmol/J需要Hortilux专有设计，IP风险或需18-24个月自研[H]。
+      成本竞争毛利约18-22%，需年销10000台以上才可持续[H]。
+      2028年后HPS改造市场急速萎缩，不构成长期业务[M]。
+      此方向使OEM成为Agrolux竞争对手而非合作伙伴，推销逻辑矛盾[H]。
+    form_handoff_brief:
+      visual_signal_to_embody: "成本优化的工程美学，简洁散热鳍片可见，铝本色阳极氧化，无多余装饰"
+      installation_context: "顶部标准吊钩，与HPS灯具同位替换，安装高度2.5-4m"
+      engineering_redline: "效能≥4.0 µmol/J，IP65，无主动风冷（被动散热），BOM≤$180（1000W）"
+      cost_ceiling_per_unit: "$180-220（1000W级BOM，量产10000台级别）[M]"
+      must_not_look_like: "高档精品灯具（Heliospectra风格）；过度装饰的消费级LED"
+      must_keep_customer_signal: "中性工业灰；散热面可见（传达性能感）；标准接插件"
+
+strategist_recommendation:
+  pick: "D-B"
+  reason: |
+    用户痛点（轮作光谱需求）有可追溯证据，控制接口不需要破解私有协议（Modbus公开标准），
+    且OS战略对齐是合作叙事切入口——比D-A（接口风险）和D-C（竞争对手逻辑矛盾）更可操作。
+  might_be_wrong: |
+    如果Agrolux OS采用率2026年底低于20%，D-B的OS生态叙事失效；
+    或Owner层对20-30%溢价的抵制被严重低估。
+
+autonomous_decision:
+  selected: "D-B"
+  rationale: |
+    D-B的form_handoff_brief 6项全填完，工程红线明确，成本上限有据可查。
+    D-A接口风险过高（UNKNOWN[L]），D-C与OEM推销逻辑矛盾。
+    进入G3造型阶段，基于D-B展开12张母题卡。

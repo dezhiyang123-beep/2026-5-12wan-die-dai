@@ -1,0 +1,537 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "bare_tool综合"
+  tertiary: "角磨机/往复锯/多功能机/开孔工具/冲击钻/冲击扳手"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/"
+  generated_at: "2026-05-08"
+
+products:
+
+  - product_id: "milwaukee_bare_041_042"
+    source_images:
+      - filename: "milwaukee_bare_041.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_041.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧45度视角，展示完整机身。亮红色主机身，黑色纹理橡胶把手段，银灰压铸金属齿轮箱，护罩黑色半圆形。机身侧面Milwaukee+FUEL大面积红底白字徽标。把手后端红色电池接口座露出，无电池安装。"
+      - filename: "milwaukee_bare_042.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_042.jpg"
+        image_role: "alternate"
+        visual_anchor: "左侧视角，另一型号（带护罩不同）。整体造型与041一致，护罩改为折叠式扁平护罩，银灰齿轮箱更大，红色机身比例相同。"
+    product_name: "Milwaukee M18 FUEL Angle Grinder（角磨机）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机"]
+    design_language:
+      silhouette: "水平管状延伸，前端齿轮箱向下偏转约15度，整体呈微弓形。从把手到齿轮箱渐细，比例约4:3（把手段:头部）。"
+      light_opening: "N/A"
+      thermal: "把手段中部黑色橡胶覆盖区无明显散热口；电机区靠近电池座有三道斜槽散热格栅"
+      cmf:
+        color: "机身主体亮红色（Milwaukee品牌红），把手覆盖段哑光黑色橡胶，齿轮箱银灰压铸铝，护罩黑色塑料"
+        material: "机身ABS工程塑料，把手段TPE软胶包覆，齿轮箱压铸铝合金"
+        finish: "机身高光红，把手段蜂窝网纹哑光，齿轮箱银灰喷砂"
+      mounting: "滑轨式M18电池接口，电池从下方插入，接口座红色与机身同色"
+      signature_detail: "Milwaukee+FUEL双徽标斜切红色菱形底板，三道斜槽散热格栅"
+    design_level:
+      score: 4
+      reason: "M18 FUEL旗舰系列，造型张力强，红黑双色对比鲜明，FUEL徽标设计成熟度高，双色分件清晰，齿轮箱银灰与机身红形成专业感三色体系。"
+    design_tags:
+      - "H08_对比强调"
+      - "H10_材料表达"
+      - "H03_分件线"
+      - "FUEL系列"
+      - "M18"
+      - "角磨机"
+      - "工业级"
+    hero_feature: "Milwaukee+FUEL斜切菱形徽标板+三色CMF体系（红/黑/银）"
+    problem_solved: "高性能无刷电机需要散热与品牌识别度并重，斜切分件将散热格栅融入造型语言"
+    transferable_technique: "斜切角分件法：功能区（散热/控制）与品牌徽标区通过斜线切割整合为视觉焦点，可迁移至其他手持工具的机身分区设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_bare_043_044"
+    source_images:
+      - filename: "milwaukee_bare_043.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_043.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M18 FUEL SAWZALL往复锯，带蓝色WiFi ONE-KEY角标。机身前段黑色橡胶覆盖，机身中部红色FUEL徽标区，后段红色D形把手框架，把手内侧橡胶覆层，下方ONE-KEY标识。"
+      - filename: "milwaukee_bare_044.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_044.jpg"
+        image_role: "alternate"
+        visual_anchor: "右侧视角，同产品无ONE-KEY角标版本，其余造型完全相同。清晰展示D形把手框架轮廓与机身黑红比例关系。"
+    product_name: "Milwaukee M18 FUEL SAWZALL Reciprocating Saw with ONE-KEY（往复锯）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "往复锯"]
+    design_language:
+      silhouette: "水平管状延伸，D形闭合把手框架为最显眼轮廓特征。整体前黑后红的色块分布，前段鞋形夹头，机身总长约470mm。"
+      light_opening: "N/A"
+      thermal: "机身中部FUEL徽标两侧有细长散热槽，黑色前段有网格散热区"
+      cmf:
+        color: "前段主体哑光黑色，中后段亮红色，把手内侧黑色橡胶，整体黑:红约6:4"
+        material: "机身ABS工程塑料，前段橡胶覆盖，把手TPE包覆"
+        finish: "前段粗糙哑光质感，后段高光红，把手菱形网纹防滑"
+      mounting: "M18滑轨接口位于把手下方，无电池裸露接口座"
+      signature_detail: "封闭D形把手框架，Milwaukee FUEL菱形徽标板，黑色SAWZALL字样浮雕"
+    design_level:
+      score: 4
+      reason: "D形把手是往复锯品类身份锚点，FUEL系列将其做成红色封闭轮廓，轮廓记忆点极强。黑色前段与红色后段分色做到功能暗示（操作区/动力区）。"
+    design_tags:
+      - "H03_分件线"
+      - "H08_对比强调"
+      - "FUEL系列"
+      - "M18"
+      - "往复锯"
+      - "ONE-KEY"
+      - "D形把手"
+    hero_feature: "封闭D形把手红色框架——往复锯品类最强身份锚点"
+    problem_solved: "往复锯需要双手握持稳定性，D形封闭框架提供后手稳定握点，同时成为最强轮廓记忆点"
+    transferable_technique: "封闭框架把手设计：把手区形成封闭D形轮廓，比开放式把手视觉张力更强，可迁移至其他需要双手操作的工具类别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_bare_045"
+    source_images:
+      - filename: "milwaukee_bare_045.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_045.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M18 FUEL SUPER SAWZALL，机身更粗壮，前端鞋夹头更大，机身顶部有速度调节拨盘（5档），Milwaukee FUEL徽标板，整体体量比标准SAWZALL大20%。黑色前段更长，后段红色D形把手。"
+    product_name: "Milwaukee M18 FUEL SUPER SAWZALL Reciprocating Saw（超级往复锯）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "往复锯"]
+    design_language:
+      silhouette: "比标准SAWZALL更粗壮的管状延伸，D形把手框架同样封闭但比例更厚。顶部多一个速度拨盘凸起，整体剪影更具工业感。"
+      light_opening: "N/A"
+      thermal: "Milwaukee FUEL徽标两侧有细长散热开口，前段黑色区网格散热"
+      cmf:
+        color: "前段哑光黑色占比更大（约65%），后段红色D形把手+机身后半，顶部速度拨盘黑色"
+        material: "ABS机身+前段橡胶覆盖+TPE把手"
+        finish: "同标准SAWZALL，哑光黑前段+高光红后段"
+      mounting: "M18滑轨接口"
+      signature_detail: "顶置速度拨盘+超大D形把手+SUPER SAWZALL字样"
+    design_level:
+      score: 4
+      reason: "在标准SAWZALL造型语言基础上增加顶置拨盘，通过体量放大传达更强性能暗示，设计进化逻辑清晰。"
+    design_tags:
+      - "H08_对比强调"
+      - "H11_功能外显"
+      - "FUEL系列"
+      - "M18"
+      - "往复锯"
+      - "高性能"
+    hero_feature: "顶置5档速度拨盘+超大D形把手框架"
+    problem_solved: "专业用户需要现场快速调速，顶置拨盘将功能外置可视化，无需查看屏幕即可操作"
+    transferable_technique: "顶置控制拨盘：将调速/模式切换功能置于机身顶部，操作可视性极强，可迁移至其他需要频繁调节参数的工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_bare_046"
+    source_images:
+      - filename: "milwaukee_bare_046.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_046.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M18 SAWZALL非FUEL版本（上一代）。机身灰红双色，Milwaukee徽标无FUEL字样，机身顶部有锁定按钮，前段灰色塑料（非橡胶覆盖），D形把手框架开放式设计，整体视觉语言较老旧。"
+    product_name: "Milwaukee M18 SAWZALL Reciprocating Saw（往复锯，非FUEL版）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "往复锯"]
+    design_language:
+      silhouette: "水平管状，D形把手但开口更大，前段灰色较平直，整体比例比FUEL版扁平"
+      light_opening: "N/A"
+      thermal: "Milwaukee徽标区两侧散热格栅"
+      cmf:
+        color: "前段灰色（深灰/暗灰塑料），后段红色，灰:红约5:5，对比度弱于FUEL版"
+        material: "ABS机身，前段无橡胶包覆，把手TPE"
+        finish: "哑光灰前段，高光红后段"
+      mounting: "M18电池接口"
+      signature_detail: "Milwaukee徽标（无FUEL），灰色前段为旧一代设计特征"
+    design_level:
+      score: 3
+      reason: "标准M18往复锯，设计语言属于上一代，灰色前段覆盖减弱了品牌识别度，缺乏FUEL系列的视觉张力，但功能造型完整。"
+    design_tags:
+      - "H03_分件线"
+      - "M18"
+      - "往复锯"
+      - "上一代设计"
+      - "灰红配色"
+    hero_feature: "D形把手框架（开放式）"
+    problem_solved: "基础往复锯需求，性价比定位"
+    transferable_technique: "对比参照：旧一代灰色前段vs新一代黑色橡胶覆盖，说明黑色橡胶包覆在强化品牌统一性上的作用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_bare_047_048"
+    source_images:
+      - filename: "milwaukee_bare_047.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_047.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M18 FUEL Multi-Tool（震动多功能机）。机身从电池接口到头部呈斜切下倾设计，头部灰色压铸金属偏转头，Milwaukee FUEL徽标，机身中段有10A安培显示窗，M18标识，把手段黑色橡胶包覆，头部安装三角形刀片。"
+      - filename: "milwaukee_bare_048.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_048.jpg"
+        image_role: "alternate"
+        visual_anchor: "右侧视角，M12 FUEL Multi-Tool，体量更紧凑，整体造型与M18版同族，Milwaukee FUEL徽标，头部偏转角度更小，机体更短，无安培显示窗，顶部有LED指示灯，M12标识。"
+    product_name: "Milwaukee M18/M12 FUEL Multi-Tool（多功能振动机）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "多功能振动机"]
+    design_language:
+      silhouette: "扁平楔形轮廓，从把手到工具头部呈向下偏转约25度，整体像被压扁的锤头。M18版比M12版体量约大35%。"
+      light_opening: "N/A"
+      thermal: "Milwaukee徽标侧面有散热细槽，把手段橡胶覆盖区有散热沟槽"
+      cmf:
+        color: "机身主体亮红色，把手段黑色橡胶，工具头灰色压铸（M18）或红色一体（M12），整体红:黑约6:4"
+        material: "机身ABS，把手TPE，工具头压铸铝合金（M18）"
+        finish: "机身高光红，把手哑光网纹，头部灰色喷砂（M18）"
+      mounting: "M18/M12滑轨接口（尾部）"
+      signature_detail: "斜切楔形轮廓，Milwaukee+FUEL徽标，安培/速度显示小窗"
+    design_level:
+      score: 4
+      reason: "多功能机品类中造型辨识度极高，楔形下偏轮廓与Milwaukee品牌语法完美融合，M18/M12两代造型一致性强，家族脸谱清晰。"
+    design_tags:
+      - "H03_分件线"
+      - "H10_材料表达"
+      - "FUEL系列"
+      - "M18"
+      - "M12"
+      - "多功能振动机"
+      - "楔形轮廓"
+    hero_feature: "工具头向下偏转25度的楔形整体轮廓——多功能机中独特的操控导向造型"
+    problem_solved: "多功能机需要在狭小空间内精确控制工具头，向下偏转设计改善了视线遮挡问题"
+    transferable_technique: "头部偏转轮廓：将工具工作端相对把手轴线偏转15-30度，改善人机工程同时创造独特轮廓，可迁移至其他精细操作工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_bare_049"
+    source_images:
+      - filename: "milwaukee_bare_049.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_049.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M18 Cut-Out Tool（石膏板开孔工具）。直筒圆柱形机身，类似大型马克笔造型，主体红色，中部Milwaukee徽标（无FUEL），前端黑色收口环，细钻头从中心伸出，右侧有金属L形挂钩支架，底部M18标识，机身右下有LED按钮。"
+    product_name: "Milwaukee M18 Cut-Out Tool（开孔工具）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "开孔工具"]
+    design_language:
+      silhouette: "直筒圆柱形，整体如加粗的马克笔，无明显把手分区，全掌握持设计。前端有一个黑色收口短段，尾部有L形挂钩。"
+      light_opening: "N/A"
+      thermal: "Milwaukee徽标区两侧有细散热槽，机身中部斜线散热纹"
+      cmf:
+        color: "主体亮红色，前端黑色收口，挂钩银灰金属，把持段有黑色网纹贴片"
+        material: "机身ABS，挂钩钢制，网纹贴片橡胶"
+        finish: "机身高光红，把持区哑光黑网纹"
+      mounting: "M18电池接口（机身尾部）"
+      signature_detail: "L形金属挂钩，直筒圆柱造型（品类独特），细钻头居中伸出"
+    design_level:
+      score: 3
+      reason: "开孔工具品类较小众，直筒设计功能合理，Milwaukee徽标规范，但整体造型缺乏FUEL系列的视觉张力，属于功能驱动设计。"
+    design_tags:
+      - "M18"
+      - "开孔工具"
+      - "圆柱形机身"
+      - "H11_功能外显"
+    hero_feature: "直筒圆柱全掌握持设计+L形金属挂钩"
+    problem_solved: "石膏板开孔需要精准入刀角度，直筒设计使操作者能360度旋转手腕调整方向而不改变握持"
+    transferable_technique: "圆柱全掌握持：取消传统手枪形分区，改为圆柱全包握持，适用于需要360度旋转操作的细精工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_bare_050_051"
+    source_images:
+      - filename: "milwaukee_bare_050.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_050.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，M18多功能振动机非FUEL版。机身灰红双色，Milwaukee徽标无FUEL，头部偏转更小，机身顶面有数字12速度调节旋钮，整体体量中等，把手段黑色橡胶局部覆盖，M18标识。"
+      - filename: "milwaukee_bare_051.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_051.jpg"
+        image_role: "alternate"
+        visual_anchor: "右侧视角，M12多功能振动机非FUEL版。比M18版更紧凑，灰红双色，Milwaukee徽标无FUEL，机身前段红色，后段更窄，顶面有速度旋钮（0-12刻度）和LED电量指示点，M12标识。"
+    product_name: "Milwaukee M18/M12 Multi-Tool（多功能振动机，非FUEL版）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "多功能振动机"]
+    design_language:
+      silhouette: "楔形轮廓保留，但偏转角度略小，整体更接近平直。相比FUEL版，机身有更多灰色暗色塑料区。"
+      light_opening: "N/A"
+      thermal: "Milwaukee徽标区散热槽，侧面有散热纹格栅"
+      cmf:
+        color: "红灰双色，红色主体但灰色区比FUEL版多，对比度较弱"
+        material: "ABS机身"
+        finish: "机身混合高光红+哑光灰"
+      mounting: "M18/M12电池接口"
+      signature_detail: "顶置速度旋钮（0-12刻度），Milwaukee徽标"
+    design_level:
+      score: 3
+      reason: "非FUEL版本，设计语言属于上一代，灰色塑料覆盖削弱了品牌纯度，但顶置旋钮设计合理，功能完整。"
+    design_tags:
+      - "M18"
+      - "M12"
+      - "多功能振动机"
+      - "上一代设计"
+      - "顶置旋钮"
+    hero_feature: "顶置0-12档速度旋钮"
+    problem_solved: "不同材料需要不同振动频率，旋钮调速直觉操作"
+    transferable_technique: "对比参照（旧vs新）：旧一代灰色机身vs新FUEL系列黑色橡胶，印证Milwaukee品牌向纯红黑统一的演进路径"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_bare_052_053"
+    source_images:
+      - filename: "milwaukee_bare_052.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_052.jpg"
+        image_role: "hero"
+        visual_anchor: "右前方45度视角，M18 FUEL SDS-Max冲击钻（大型），带HAMMERVAC吸尘器附件挂载。整体呈T字形，机身主体灰色+红色，大型圆柱形SDS-Max钻头夹头，左侧黑色辅助侧手柄，ONE-KEY标识，机身顶部AVS防振系统标识，D形后把手框架红色，底部大型电池接口（红色）。"
+      - filename: "milwaukee_bare_053.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_053.jpg"
+        image_role: "alternate"
+        visual_anchor: "右前方45度，同款SDS-Max冲击钻另一角度，无HAMMERVAC附件。清晰展示机身灰红双色分区：前部灰色钻头部分，中部Milwaukee FUEL徽标红色主机身，D形后把手红色，黑色侧手柄，ONE-KEY标识，AVS标识。"
+    product_name: "Milwaukee M18 FUEL SDS-Max Rotary Hammer with ONE-KEY（大型冲击钻）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "冲击钻", "SDS-Max"]
+    design_language:
+      silhouette: "T字形轮廓，机身主轴水平延伸，D形后把手垂直向下为T字竖，辅助侧手柄前置为T字附件。灰色前端与红色主机身的对角斜切分界。"
+      light_opening: "N/A"
+      thermal: "机身中部Milwaukee FUEL徽标区两侧斜向散热开口，灰色前段有散热沟槽"
+      cmf:
+        color: "灰色前端（钻头驱动区）约占整体40%，亮红色主机身+D形把手约占50%，黑色把手/侧把手约10%。三色体系：灰/红/黑"
+        material: "前端压铸铝合金（灰色），机身ABS，把手TPE，侧把手ABS+TPE"
+        finish: "前端银灰喷砂，机身高光红，把手哑光黑菱形网纹"
+      mounting: "大型M18 HD电池接口（机身底部红色接口座）"
+      signature_detail: "灰红斜切对角分界，AVS防振系统标识，ONE-KEY标识，封闭D形后把手"
+    design_level:
+      score: 5
+      reason: "Milwaukee SDS-Max FUEL旗舰款，三色CMF完美执行，灰色前端与红色主机身的斜切对角分界是Milwaukee大型工具独特的视觉ID，AVS+ONE-KEY双功能标识强化专业感，整体设计语言在品类中独树一帜。"
+    design_tags:
+      - "H08_对比强调"
+      - "H03_分件线"
+      - "H10_材料表达"
+      - "H11_功能外显"
+      - "FUEL系列"
+      - "M18"
+      - "冲击钻"
+      - "SDS-Max"
+      - "ONE-KEY"
+      - "AVS防振"
+      - "旗舰款"
+    hero_feature: "灰色前端与红色主机身的对角斜切分界——Milwaukee大型工具最强视觉ID"
+    problem_solved: "大型冲击钻需要在重量与功能密度间取得平衡，斜切分界将功能区（传动/动力）视觉化分区，增强操控信息读取"
+    transferable_technique: "对角斜切材料分区：两种不同材质/颜色区域以45度斜切线交界，而非垂直分件，视觉动态感强，可迁移至大型手持设备的CMF设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_bare_054"
+    source_images:
+      - filename: "milwaukee_bare_054.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_054.jpg"
+        image_role: "hero"
+        visual_anchor: "右前方45度视角，M18 FUEL SDS-Plus冲击钻（标准尺寸）。整体T字形轮廓但体量小于SDS-Max，机身灰红双色，Milwaukee FUEL徽标，顶部有红色模式切换旋钮（旋转/冲击/纯冲击三模式），左侧黑色侧手柄，D形后把手红色。顶部有金属环钩。"
+    product_name: "Milwaukee M18 FUEL SDS-Plus Rotary Hammer（标准冲击钻）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "冲击钻", "SDS-Plus"]
+    design_language:
+      silhouette: "T字形轮廓，体量适中，前端灰色钻头区较短（约占30%），红色主机身较大，D形后把手，机身顶面模式旋钮是视觉重点。"
+      light_opening: "N/A"
+      thermal: "Milwaukee FUEL徽标区侧面散热槽"
+      cmf:
+        color: "灰色前端30%，红色主机身60%，黑色把手10%，模式旋钮红黑组合"
+        material: "前端压铸铝，机身ABS，侧把手+主把手TPE"
+        finish: "灰色喷砂前端，高光红机身，菱形网纹把手"
+      mounting: "M18电池接口"
+      signature_detail: "顶置三模式旋钮（红色指示针），金属顶环钩，Milwaukee FUEL徽标"
+    design_level:
+      score: 4
+      reason: "标准SDS-Plus FUEL旗舰款，三色体系执行完整，顶置模式旋钮设计人机工程优秀，金属顶环钩细节精致。"
+    design_tags:
+      - "H08_对比强调"
+      - "H11_功能外显"
+      - "H03_分件线"
+      - "FUEL系列"
+      - "M18"
+      - "冲击钻"
+      - "SDS-Plus"
+      - "模式切换"
+    hero_feature: "顶置红色三模式旋钮+金属顶环钩——操控功能外显的设计典范"
+    problem_solved: "冲击钻需要快速切换旋转/冲击模式，顶置旋钮拇指单手可操作，无需换握"
+    transferable_technique: "顶置功能旋钮：将模式切换/档位调节旋钮置于机身顶部，操作者无需换握即可用拇指调节，可迁移至其他多模式工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_bare_055"
+    source_images:
+      - filename: "milwaukee_bare_055.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_055.jpg"
+        image_role: "hero"
+        visual_anchor: "右侧视角，Milwaukee HAMMERVAC吸尘附件（独立产品/附件）。整体呈反L形，上部红色主机身上有HAMMERVAC商标，左侧伸出银色金属钻杆接口圆管，上方有黑色折叠/旋转锁扣，下部黑色透明集尘箱（可见HEPA FILTER标识），底部有方形按钮。"
+    product_name: "Milwaukee HAMMERVAC Dedicated Dust Extractor（冲击钻专用吸尘附件）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "配件/附件", "吸尘附件"]
+    design_language:
+      silhouette: "反L形整体，上部红色方块体为主机，下部黑色矩形为集尘箱，银色圆管从侧面伸出，整体紧凑。"
+      light_opening: "N/A"
+      thermal: "N/A（本身无电机热管理需求）"
+      cmf:
+        color: "上部亮红色，下部黑色半透明集尘箱，银色金属接口管，红/黑/银三色"
+        material: "机身ABS，集尘箱透明PC，接口管铝合金"
+        finish: "机身高光红，集尘箱哑光黑半透明"
+      mounting: "侧挂安装于冲击钻辅助把手位置，折叠锁扣固定"
+      signature_detail: "HAMMERVAC专属商标，HEPA FILTER标识，可视集尘箱"
+    design_level:
+      score: 4
+      reason: "Milwaukee品类延伸附件设计高度，红黑银三色与主机保持完全一致，HEPA标识可视化集尘箱是功能外显的优秀案例，设计语言统一性极强。"
+    design_tags:
+      - "H11_功能外显"
+      - "H09_隐藏工程"
+      - "配件"
+      - "吸尘"
+      - "HEPA"
+      - "附件设计"
+    hero_feature: "可视透明集尘箱+HEPA FILTER标识——将隐藏功能（过滤）外显化"
+    problem_solved: "冲击钻钻孔产生大量粉尘危害健康，附件式吸尘器实现边钻边吸，可视集尘箱提示更换时机"
+    transferable_technique: "可视功能腔体：将内部功能腔体（过滤/收纳/储量）通过透明材质外显，用户可实时判断状态，可迁移至其他有耗材的工具附件设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_bare_056_058"
+    source_images:
+      - filename: "milwaukee_bare_056.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_056.jpg"
+        image_role: "hero"
+        visual_anchor: "右前方45度视角，M12 FUEL Stubby冲击扳手（紧凑型）。极紧凑的手枪形，机身主体全亮红色，Milwaukee FUEL徽标占据机身正面约50%面积，黑色橡胶把手，机身前面有多个功能按钮（正反转、速度模式LED点阵），顶部有金色/铜色圆形调节旋钮，1/2扳机接口，无电池。"
+      - filename: "milwaukee_bare_058.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_058.jpg"
+        image_role: "alternate"
+        visual_anchor: "右前方45度视角，同款M12 FUEL Stubby冲击扳手，略不同角度。与056完全相同产品，可见机身正面Milwaukee FUEL大徽标、铜色调节旋钮、LED按钮组、黑色网纹把手。"
+    product_name: "Milwaukee M12 FUEL Stubby Compact Impact Wrench（紧凑冲击扳手）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "冲击扳手", "紧凑型"]
+    design_language:
+      silhouette: "极紧凑的手枪形，机身头部（冲击机构）几乎与把手等高，整体比例方正，无明显前后延伸感。Milwaukee FUEL大徽标板占主面。"
+      light_opening: "N/A"
+      thermal: "Milwaukee FUEL徽标区两侧散热槽，机身侧面散热格栅"
+      cmf:
+        color: "机身主体全亮红色（约70%），黑色橡胶把手（约25%），铜色/金色调节旋钮点缀（5%），视觉冲击力强"
+        material: "机身ABS，把手TPE，旋钮黄铜或镀铜塑料"
+        finish: "机身高光红，把手菱形网纹哑光，旋钮金属光泽"
+      mounting: "M12电池接口（机身底部，无电池裸接口）"
+      signature_detail: "超大Milwaukee FUEL徽标板（占机身正面50%），铜色调节旋钮，多LED状态指示"
+    design_level:
+      score: 5
+      reason: "M12 FUEL Stubby是Milwaukee设计语言极致化表达的代表作。超大徽标板设计大胆，铜色旋钮在全红机身中形成精准点缀，功能按钮与LED阵列的布局精练，整体比例极度紧凑而视觉完整度极高，是品类中设计分最高的产品之一。"
+    design_tags:
+      - "H08_对比强调"
+      - "H01_减法"
+      - "H12_人机界面强化"
+      - "FUEL系列"
+      - "M12"
+      - "冲击扳手"
+      - "紧凑型"
+      - "旗舰款"
+      - "超大徽标"
+    hero_feature: "Milwaukee FUEL超大斜切徽标板占机身正面50%面积——品牌表达最激进的设计"
+    problem_solved: "紧凑冲击扳手需要在极小体量内传达高性能感，超大徽标板在视觉上将品牌权威感最大化"
+    transferable_technique: "超尺度品牌徽标：将品牌徽标放大至占据主面约50%面积，与工具功能区整合，打破常规比例，可迁移至强调品牌身份的旗舰工具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_bare_057"
+    source_images:
+      - filename: "milwaukee_bare_057.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/bare_tool/milwaukee_bare_057.jpg"
+        image_role: "hero"
+        visual_anchor: "右前方45度视角，M18 FUEL High Torque冲击扳手（大型），带ONE-KEY。整体手枪形，机身比M12 Stubby更长，银灰色金属冲击机构前端，Milwaukee FUEL徽标，正面有多个功能按钮（模式切换），1/2扳机接口，黑色橡胶把手，ONE-KEY标识，蓝色WiFi ONE-KEY角标。无电池。"
+    product_name: "Milwaukee M18 FUEL High Torque Impact Wrench with ONE-KEY（大扭力冲击扳手）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "冲击扳手", "高扭力型"]
+    design_language:
+      silhouette: "标准手枪形，头部（冲击机构）圆柱形向前伸出明显，整体比M12 Stubby更修长。银灰色金属前端与红色主机身形成强对比。"
+      light_opening: "N/A"
+      thermal: "Milwaukee FUEL徽标两侧散热槽，机身侧面散热格栅"
+      cmf:
+        color: "银灰色金属前端（35%），亮红色主机身（50%），黑色橡胶把手（15%）"
+        material: "前端金属冲击机构，机身ABS，把手TPE"
+        finish: "前端银灰金属光泽，机身高光红，把手菱形网纹哑光"
+      mounting: "M18电池接口（底部）"
+      signature_detail: "银灰金属圆柱形前端，Milwaukee FUEL徽标，ONE-KEY标识"
+    design_level:
+      score: 4
+      reason: "M18 FUEL高扭力冲击扳手，三色CMF（银/红/黑）执行完整，银灰金属前端直观传达高扭力性能感，ONE-KEY联网功能是额外差异化点。"
+    design_tags:
+      - "H08_对比强调"
+      - "H10_材料表达"
+      - "FUEL系列"
+      - "M18"
+      - "冲击扳手"
+      - "高扭力"
+      - "ONE-KEY"
+    hero_feature: "银灰金属冲击机构前端——性能视觉化的材料表达"
+    problem_solved: "高扭力冲击扳手需要传达专业重载感，金属前端在视觉和重量感上都强化了高扭力的产品承诺"
+    transferable_technique: "金属前端性能暗示：在工具工作端（头部）使用金属材料暴露而非包覆，直观传达高性能/重载能力，可迁移至其他专业级工具的头部设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

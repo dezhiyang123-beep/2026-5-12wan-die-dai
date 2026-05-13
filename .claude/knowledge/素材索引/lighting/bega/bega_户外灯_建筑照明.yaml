@@ -1,0 +1,551 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "建筑照明元素"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/"
+  generated_at: "2026-05-09"
+
+products:
+  - product_id: "bega_户外_建筑照明_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/03.jpg"
+        image_role: "hero"
+        visual_anchor: "两根细圆柱灯柱并排——左侧木纹轴杆+深色金属头，右侧全深色金属；顶部为多层叠片式折射透镜光学头（4层锥形挡板叠加，内嵌LED）"
+    product_name: "多层叠片折射透镜圆柱灯柱（双材质变体）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "极细圆柱灯柱，灯头直径略大于柱径；整体比例极修长（头身比约1:6）；透明圆柱罩包裹叠片光学件"
+      light_opening: "360°侧向出光：多层锥形叠片折射透镜，光线通过各层挡板间隙向四周散射；出光区高度约为柱径的2倍"
+      thermal: "叠片结构本身兼具散热鳍片功能，金属叠片自然对流散热，无独立散热块可见"
+      cmf:
+        color: "深色版：哑光深灰/石墨色全身；木纹版：木色轴杆+深灰金属头部"
+        material: "灯头：压铸铝+透明圆柱玻璃罩+铝合金叠片光学件；木纹版轴杆：实木或仿木复合材料"
+        finish: "金属部分：哑光粉末涂层；木纹部分：清漆保护面层；透明罩：高透钢化玻璃"
+      mounting: "地插式（spike）或法兰底座，圆柱轴杆直埋"
+      signature_detail: "4层锥形铝叠片折射透镜堆叠在透明圆柱玻璃罩内，白天呈精密机械感，夜间呈层叠光晕"
+    design_level:
+      score: 4
+      reason: "叠片光学结构与透明圆柱罩的组合具有强辨识度；木纹+金属双材质版本提升了景观适配性；叠片散热与出光一体化是典型BEGA工程美学"
+    design_tags:
+      - "多层叠片光学"
+      - "圆柱灯柱"
+      - "透明圆柱罩"
+      - "双材质变体"
+      - "木金属混搭"
+      - "360度出光"
+      - "建筑景观柱"
+    hero_feature: "4层锥形铝叠片折射透镜堆叠于透明玻璃圆柱罩内——兼具光学控制、散热与视觉标志性"
+    problem_solved: "路径/广场照明需要360°均匀出光同时控制眩光；叠片结构将光线分散为多层柔和光带而非刺眼直射"
+    transferable_technique: "叠片光学件作为独立装饰性结构单元的设计语言可迁移至手电筒头部、台灯光学件、吸顶灯扩散板等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_建筑照明_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/04.jpg"
+        image_role: "hero"
+        visual_anchor: "两根灯柱顶部各有一个倒置喇叭口/漏斗形上照灯头——左侧木纹柱+白色喇叭头，右侧深色全金属柱+透明喇叭头；喇叭口向上张开"
+    product_name: "倒置喇叭口上照灯圆柱灯柱（双材质变体）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "细圆柱灯柱顶端连接倒锥/喇叭形扩口灯头，灯头最宽处约为柱径2.5倍；左版喇叭为不透明白色，右版为透明亚克力/玻璃"
+      light_opening: "向上出光（uplight/torchiere式）：喇叭口朝上，光线向上漫射进入夜空或树冠；漫射板覆盖整个开口面积"
+      thermal: "热量向上自然对流，喇叭口开放结构有利于散热；无独立散热鳍片可见"
+      cmf:
+        color: "深色版：全哑光石墨色；木纹版：木色轴杆+黑色金属座+白色漫射喇叭；透明版灯头：清透无色"
+        material: "灯头：铸铝框架+乳白漫射板（左）或透明亚克力/玻璃（右）；轴杆：铝合金（全黑版）或实木复合（木纹版）"
+        finish: "金属：哑光粉末涂层；漫射板：乳白丝面；木纹：清漆保护"
+      mounting: "地插式或法兰底座"
+      signature_detail: "喇叭口灯头从细柱顶端向上展开的比例张力；优雅的trumpet轮廓在景观中具有强烈雕塑感"
+    design_level:
+      score: 4
+      reason: "倒置喇叭口上照设计极具雕塑感；双材质（木+金属、不透明+透明）版本体现系统化产品族设计；上照形式对树木/天花板/立面有良好的氛围光效果"
+    design_tags:
+      - "上照灯"
+      - "喇叭口灯头"
+      - "torchiere造型"
+      - "圆柱灯柱"
+      - "双材质变体"
+      - "木金属混搭"
+      - "景观雕塑感"
+    hero_feature: "倒置喇叭口轮廓——从极细柱径突然张开的比例反差，既是光学扩散结构也是景观雕塑形态"
+    problem_solved: "需要柔和向上漫射的氛围照明（树冠照明/广场氛围光），同时白天灯具本身具有景观雕塑价值"
+    transferable_technique: "喇叭口从细杆到宽口的比例过渡手法可迁移至台灯、落地灯灯头设计；倒锥形扩口结构作为视觉焦点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_建筑照明_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/05.jpg"
+        image_role: "hero"
+        visual_anchor: "两根灯柱顶部各有一个扁平圆盘帽形灯头——黑色上盖+周边环形出光缝隙；左侧木纹柱+深色圆盘头，右侧银灰全金属柱+深色圆盘头"
+    product_name: "扁平圆盘帽形下照灯圆柱灯柱（双材质变体）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "圆柱灯柱顶端接极薄圆盘（蘑菇头/飞碟形），圆盘直径约为柱径3倍，厚度极薄（约柱径0.4倍）；整体极简"
+      light_opening: "环形下照出光：光线从圆盘底面周边环形开口向下射出，形成环形光晕照地；无侧向眩光"
+      thermal: "扁平盘内腔有限，LED模组紧凑布置；散热依赖金属盘体传导至顶面自然对流"
+      cmf:
+        color: "左（木纹版）：木色轴杆+深灰金属圆盘头；右（银灰版）：浅银灰整体（轴杆+圆盘同色）"
+        material: "圆盘灯头：压铸铝；轴杆：铝合金（银灰版）或实木复合（木纹版）"
+        finish: "金属：哑光粉末涂层；银灰版有轻微金属质感；木纹：清漆"
+      mounting: "地插式或法兰底座"
+      signature_detail: "极薄圆盘帽与极细柱身的比例对比——悬浮感强；环形出光缝隙在夜间形成清晰光环"
+    design_level:
+      score: 4
+      reason: "蘑菇头比例极度克制，飞碟式圆盘轮廓具有强记忆点；银灰整体同色版本体现BEGA极简路线；环形出光设计精准控制光污染"
+    design_tags:
+      - "圆盘帽灯头"
+      - "蘑菇头造型"
+      - "飞碟轮廓"
+      - "圆柱灯柱"
+      - "环形出光"
+      - "双材质变体"
+      - "极简路灯"
+    hero_feature: "极薄圆盘从细柱顶端水平悬出——比例张力+飞碟轮廓记忆点，环形底面出光实现低眩光"
+    problem_solved: "行人路径需要向下精准照明同时避免向上光污染；圆盘盖帽完全阻挡向上漏光"
+    transferable_technique: "薄盘帽+圆柱杆的比例对比手法可迁移至台灯、吊灯设计；用盖帽遮光+底面出光的设计逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_建筑照明_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/06.jpg"
+        image_role: "hero"
+        visual_anchor: "单根方截面高灯柱（深灰石墨色），顶端安装小型方形LED路灯头——灯头从柱顶向一侧平伸后下弯，方块灯头底面有百叶散热格栅+透明玻璃出光面"
+    product_name: "方截面灯柱悬臂式小方块LED路灯头"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "方截面直立灯柱（约4:1宽高比截面），顶端L形悬臂延伸出小正方体灯头；灯头比柱截面略宽，整体侧视呈倒J形"
+      light_opening: "向下出光：灯头底面为透明玻璃出光板（约占底面70%），周边为铝合金框；上表面为密集散热百叶格栅"
+      thermal: "灯头顶面密集平行百叶散热格栅，为主要散热通道；方块小体积高效LED模组"
+      cmf:
+        color: "全身统一深灰/石墨色哑光"
+        material: "灯柱：铝合金挤压型材；灯头：压铸铝+钢化玻璃出光面"
+        finish: "哑光粉末涂层，全身同色"
+      mounting: "独立地面法兰底座安装（柱底可见法兰过渡）"
+      signature_detail: "小方块灯头与高挑方柱的强尺寸对比；散热百叶在灯头顶面形成的精细纹理细节"
+    design_level:
+      score: 4
+      reason: "方截面柱+极小方块灯头的比例处理高度克制，体现BEGA的建筑化语言；全身同色强化了整体感；散热百叶与结构面的整合干净利落"
+    design_tags:
+      - "方截面灯柱"
+      - "悬臂式灯头"
+      - "路灯造型"
+      - "散热百叶"
+      - "建筑化语言"
+      - "极简路灯"
+      - "倒J形轮廓"
+    hero_feature: "极小方块灯头悬于高挑方柱顶端——尺寸悬殊的比例对比，灯头百叶散热与出光玻璃的精密感"
+    problem_solved: "城市道路/广场单侧定向照明，需要在视觉上降低灯具存在感；小头大柱比例最小化灯具笨重感"
+    transferable_technique: "灯头与支撑结构强比例对比的手法；散热百叶作为顶面功能性纹理装饰"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_建筑照明_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/07.jpg"
+        image_role: "hero"
+        visual_anchor: "两根圆柱灯柱并排——左侧：矮一些，圆柱玻璃透明管罩，内有单颗LED光源，顶部深色圆盖；右侧：高且粗，上半段为乳白漫射圆柱体，下半段为深色金属柱"
+    product_name: "圆柱透明/漫射灯柱双变体（玻璃灯笼型 & 乳白漫射柱型）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "两种变体：左为透明圆柱玻璃管罩灯笼（细长，光源可见），右为粗圆柱乳白漫射体（上半发光，下半哑光深色金属柱）"
+      light_opening: "左（透明灯笼型）：360°侧向出光+少量顶部溢光，光源点状可见，灯笼感强；右（漫射柱型）：360°均匀漫射出光，整个乳白柱段均匀发光，无热点"
+      thermal: "左：开放式玻璃罩自然对流；右：乳白漫射体内部LED模组，金属柱体导热"
+      cmf:
+        color: "左：深灰金属顶盖+底座，透明无色玻璃管；右：深灰金属下柱+乳白（暖白）漫射上柱"
+        material: "左：压铸铝盖座+硼硅酸盐透明圆柱玻璃；右：铝合金下柱+乳白PC/亚克力漫射圆柱体"
+        finish: "金属：哑光粉末涂层；玻璃：高透钢化；漫射体：乳白哑光"
+      mounting: "地插式或法兰底座"
+      signature_detail: "左版单颗LED在透明圆柱玻璃管内悬浮的珠宝感；右版金属柱过渡到乳白发光体的截面变化"
+    design_level:
+      score: 4
+      reason: "透明玻璃灯笼版本的珠宝光源美学高度精炼；乳白漫射柱均匀发光体积感强；两种截然不同的出光哲学（点光源可见 vs 面光均匀扩散）体现BEGA的设计宽度"
+    design_tags:
+      - "透明玻璃灯笼"
+      - "圆柱漫射柱"
+      - "乳白漫射体"
+      - "360度出光"
+      - "点光源可见"
+      - "圆柱灯柱"
+      - "景观灯柱"
+    hero_feature: "左：单颗LED悬于透明圆柱玻璃罩内——极简珠宝感光源；右：乳白漫射圆柱从金属柱身无缝过渡发光"
+    problem_solved: "需要柔和360°氛围光的景观路径；透明版突出光源美学，漫射版提供无眩光均匀照明"
+    transferable_technique: "透明管罩内单点LED的珠宝式展示方法；漫射体与金属结构的截面对接过渡手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_建筑照明_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/08.jpg"
+        image_role: "hero"
+        visual_anchor: "单根方截面高灯柱（深黑色），顶端向右水平延伸出长横臂，横臂末端方块体内嵌矩形LED出光面（底面向下出光），横臂顶面平整"
+    product_name: "方截面灯柱水平长悬臂线性LED灯头"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "方截面垂直柱+方截面水平悬臂（等截面连续延伸），顶视呈T/L形；侧视呈倒F形；悬臂长度约为柱高1/4，完全水平"
+      light_opening: "单向下照线性出光：矩形LED出光面位于悬臂末端方块底面，出光方向垂直向下；出光面约占末端底面60%"
+      thermal: "悬臂方形截面铝材整体导热，散热面积大；结构即散热体"
+      cmf:
+        color: "全身统一深黑色（近似纯黑）哑光"
+        material: "灯柱+悬臂：铝合金挤压型材一体成型；灯头出光玻璃：钢化透明玻璃"
+        finish: "哑光黑色粉末涂层，全身同色无分件感"
+      mounting: "独立地面法兰底座"
+      signature_detail: "方截面悬臂与灯柱等截面无缝L形过渡——结构即形态，零多余装饰；水平线性悬臂的建筑横梁感"
+    design_level:
+      score: 5
+      reason: "等截面方形L形一体延伸是极度克制的建筑化语言；全身深黑同色无任何装饰；悬臂结构本身就是形态，无多余零件；这是BEGA建筑照明系列中最具极简建筑语言的代表"
+    design_tags:
+      - "水平悬臂灯"
+      - "方截面等截面延伸"
+      - "建筑极简语言"
+      - "L形轮廓"
+      - "全黑色"
+      - "线性出光"
+      - "路灯造型"
+    hero_feature: "方截面柱与横臂等截面无缝L形延伸——无任何过渡装饰，结构本身即是美学"
+    problem_solved: "高端景观/建筑外部需要极度内敛的照明存在感；等截面L形灯具在白天等同于建筑元素，不像普通路灯"
+    transferable_technique: "等截面型材连续弯折/延伸的设计语言；无装饰连接部位的型材过渡手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_建筑照明_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/09.jpg"
+        image_role: "hero"
+        visual_anchor: "单根方截面灯柱，上段约2/3高度为宽大矩形乳白漫射发光面板（几乎占满整个柱截面正面），下段1/3为深色金属柱，顶端深色方形盖帽"
+    product_name: "方截面灯柱全高正面发光面板型（线性立柱灯）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "方截面直立柱，上段正面嵌入大尺寸矩形漫射发光面板，与柱截面齐平；面板两侧有极细黑色金属边框，整体如同发光柱体"
+      light_opening: "单侧正面大面积漫射出光：乳白矩形漫射板覆盖柱正面约2/3高度，光线均匀向正面方向漫射；无顶部或侧面出光"
+      thermal: "方截面铝合金内腔兼作散热器；漫射板背后LED阵列贴附散热铝基板"
+      cmf:
+        color: "深黑色金属框架+乳白漫射面板；下段柱身深黑色；顶盖深黑"
+        material: "柱身：铝合金挤压型材；发光面板：PC乳白漫射板；内部：LED阵列+铝基板"
+        finish: "金属：哑光黑色粉末涂层；漫射板：乳白均匀哑光面"
+      mounting: "地面法兰底座"
+      signature_detail: "整个柱正面大面积乳白发光——柱体本身成为发光体而非支撑结构；发光面与柱面齐平无凸出"
+    design_level:
+      score: 4
+      reason: "将整个柱正面变为发光元素的设计将照明设备与建筑元素界限模糊化；面板与柱面齐平的精度要求高；但单侧出光限制了使用场景"
+    design_tags:
+      - "立柱发光面板"
+      - "线性立柱灯"
+      - "方截面灯柱"
+      - "漫射面板"
+      - "建筑化照明"
+      - "大面积出光"
+      - "单侧出光"
+    hero_feature: "柱正面整体发光——发光面与柱面齐平，柱体本身成为发光建筑元素"
+    problem_solved: "景观/入口需要柱子本身提供照明功能，同时保持建筑柱体的视觉形态；发光柱在白天是普通柱，夜间成为照明建筑元素"
+    transferable_technique: "将功能件（发光面板）与结构件（柱体）共面齐平的嵌入手法；柱体作为发光体的整合设计思路"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_建筑照明_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/10.jpg"
+        image_role: "hero"
+        visual_anchor: "两根方截面灯柱——左侧：方形截面木纹轴杆+深色方形顶帽，顶帽两侧各有一个小型LED光学件向下射光；右侧：深灰方截面全金属柱+同款方形顶帽双侧LED"
+    product_name: "方截面灯柱双侧向下射LED帽顶型（双材质变体）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "方截面灯柱顶端连接正方形帽盖，帽盖四面各悬出极小LED出光模块（或双侧各一），帽盖比柱截面略大形成悬挑；整体比例方正克制"
+      light_opening: "向下出光：两侧（或四侧）小型LED光学件从帽盖侧面向下斜射，实现近地定向照明；有一定方向性聚光效果"
+      thermal: "帽盖金属体导热；LED模块小功率发热量低"
+      cmf:
+        color: "左（木纹版）：木色方截面轴杆+深灰金属帽；右（全金属版）：全深灰哑光方截面"
+        material: "帽盖：压铸铝；出光模块：铝合金+光学玻璃/PC透镜；轴杆：铝合金（全金属版）或实木复合（木纹版）"
+        finish: "金属：哑光粉末涂层；木纹：清漆保护"
+      mounting: "地面法兰底座"
+      signature_detail: "方形帽盖四角侧面的极小LED出光模块——精密感强，光源几乎被隐藏于帽盖结构中"
+    design_level:
+      score: 4
+      reason: "方截面柱+方形帽盖的整体方正语言与06.jpg形成系列感；LED模块小而精准集成于帽盖侧面体现高工程精度；木纹+金属双材质版本延续系列一致策略"
+    design_tags:
+      - "方截面灯柱"
+      - "方形帽盖"
+      - "侧向下射LED"
+      - "双材质变体"
+      - "木金属混搭"
+      - "精密光学模块"
+      - "建筑景观柱"
+    hero_feature: "方形帽盖侧面集成极小精密LED光学模块——光源几乎消隐于结构中，出光但不见光源"
+    problem_solved: "需要定向向下照明路径/区域，同时灯具自身白天要保持建筑方柱的视觉感，不暴露照明器件"
+    transferable_technique: "将出光模块隐藏于结构盖帽侧面缝隙中的「光源消隐」手法；可迁移至家具照明、建筑细部照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_建筑照明_011"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/11.jpg"
+        image_role: "hero"
+        visual_anchor: "单根方截面柱体特写，柱正面沿全高切出极窄竖向凹槽，凹槽内嵌入极细线状LED光带；顶端和底端各有斜切45°倒角盖帽；柱底接小方形底座"
+    product_name: "方截面柱窄缝竖向线性LED嵌入型"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "方截面柱体，正面沿全高开一条极窄竖槽（约柱宽1/8），槽内LED光带；顶底端45°斜切倒角盖帽形成精致收口；整体极度克制"
+      light_opening: "单侧极窄缝出光：竖向窄缝沿全柱高出光，出光角度极小（<30°），形成垂直光线刀片效果；强调竖向线条"
+      thermal: "方截面铝柱整体导热；窄缝结构自然减少散热面积，适合低功率LED光带"
+      cmf:
+        color: "全身深灰/石墨色；窄缝内白色光带发出冷白或暖白光"
+        material: "柱体：铝合金挤压型材；窄缝内：LED灯带+透明/乳白保护盖；盖帽：铸铝"
+        finish: "哑光深灰粉末涂层；倒角盖帽同色"
+      mounting: "地面方形法兰底座（图底部可见）"
+      signature_detail: "45°斜切倒角盖帽（顶底收口）与极窄竖缝的组合——精准的工业切割感，凹槽宽度极度克制"
+    design_level:
+      score: 5
+      reason: "窄缝出光是BEGA最克制的出光语言之一；45°斜切倒角收口体现极高精度工艺美学；柱体即灯具的整合度极高；极窄竖缝光线如建筑剖缝，白天无法辨别是灯还是装饰线"
+    design_tags:
+      - "窄缝出光"
+      - "竖向线性LED"
+      - "方截面柱体"
+      - "斜切倒角收口"
+      - "建筑切缝语言"
+      - "极简嵌入式"
+      - "光源消隐"
+    hero_feature: "极窄竖缝沿全高嵌入LED——出光如建筑切缝，灯具与建筑元素界限消失；45°倒角收口精度极高"
+    problem_solved: "高端景观需要照明痕迹最小化——白天看不出是灯，夜间发出竖向光线勾勒空间边界"
+    transferable_technique: "窄缝/切缝嵌入LED的「光源消隐」技术手法；45°斜切倒角收口工艺可迁移至各类工业设计端部处理"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_建筑照明_012"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/12.jpg"
+        image_role: "hero"
+        visual_anchor: "单根圆截面柱体特写，顶端圆形盖帽，柱身由两条平行竖向黑色金属肋将圆柱分成三段弧面，两条肋之间各嵌有一条细线性LED条（两条对称竖向光带）"
+    product_name: "圆截面柱双竖向线性LED肋间嵌入型"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "圆截面柱体，圆形盖帽，柱身两条对称纵向黑色铝合金肋骨（突出柱面约5mm），两肋之间及两侧各形成弧面区间；两个肋间槽各嵌入一条竖向LED光带"
+      light_opening: "双侧竖向线性出光：两条平行竖向LED光带位于两肋之间及对侧，各自向侧面出光；总出光方向为约120°扇形正面区域"
+      thermal: "两条纵向铝肋兼作散热通道，将LED热量沿肋骨纵向传导至顶部圆盖"
+      cmf:
+        color: "深灰金属柱身+深黑纵向肋骨；圆盘顶盖深灰；LED光带白色发光"
+        material: "柱体：铝合金挤压型材；纵向肋：铝合金或黑色阳极氧化铝；LED光带：保护玻璃/PC盖"
+        finish: "柱体：哑光深灰粉末涂层；肋骨：哑光深黑，与柱身形成轻微色差对比"
+      mounting: "地面法兰底座（图底部可见柱根过渡）"
+      signature_detail: "两条黑色纵向肋骨将圆柱面分割为有序弧面区间，肋骨既是结构加强件又是LED嵌入的定位框架"
+    design_level:
+      score: 4
+      reason: "圆柱+纵向肋骨的结构美学将散热、LED定位、视觉分割功能整合于一体；双竖线性光带在夜间形成有力的竖向光线构图；功能结构即装饰语言"
+    design_tags:
+      - "圆截面柱体"
+      - "纵向肋骨"
+      - "双竖向线性LED"
+      - "结构即装饰"
+      - "肋间嵌入出光"
+      - "建筑化语言"
+      - "景观灯柱"
+    hero_feature: "两条黑色纵向肋骨将圆柱分区并定义LED嵌入槽——散热结构、LED定位、视觉节奏三合一"
+    problem_solved: "圆柱灯柱需要定向出光同时保持结构视觉有序感；纵向肋骨将出光区域精确定义，避免360°漫射造成光污染"
+    transferable_technique: "纵向肋骨分割圆柱面并嵌入功能件的手法；可迁移至手电筒、便携音响、运动产品的结构分件+功能整合设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_建筑照明_013"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/13.jpg"
+        image_role: "hero"
+        visual_anchor: "单根方截面柱体特写，正面开两条平行竖向窄缝（约占柱宽1/6各），两缝之间有极细中间肋，两缝内各有LED光带；顶端平整方形盖帽"
+    product_name: "方截面柱双平行竖缝线性LED型"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "方截面柱体，正面对称开两条平行竖向缝隙（各约柱宽1/6），两缝中间留极细分隔肋；平整方形顶盖帽；整体比11号更宽的双缝设计"
+      light_opening: "正面双竖缝出光：两条平行LED竖缝向正面方向出光，形成双光带；出光角较窄，强调竖向线条节奏"
+      thermal: "方截面铝合金柱体整体导热；双缝设计比单缝散热面积略增加"
+      cmf:
+        color: "全身深黑/石墨色；两条竖缝内乳白/暖白LED光"
+        material: "柱体：铝合金挤压型材；竖缝内：LED灯带+乳白PC盖；顶盖：铸铝"
+        finish: "哑光深黑粉末涂层"
+      mounting: "地面底座（柱底可见过渡段）"
+      signature_detail: "双平行竖缝与极细中间分隔肋的组合——两道光线而非一道，节奏感更强；与11号单缝形成系列变体"
+    design_level:
+      score: 4
+      reason: "双平行竖缝是对11号单缝设计的有节奏扩展；两条光带在夜间形成强烈的竖向节奏感；与11号共同构成「缝隙出光」系列，体现BEGA产品族的系统化思维"
+    design_tags:
+      - "双竖缝出光"
+      - "方截面柱体"
+      - "平行线性LED"
+      - "建筑切缝语言"
+      - "双光带节奏"
+      - "光源消隐"
+      - "系列变体"
+    hero_feature: "双平行竖缝嵌LED——两道光线夜间形成强竖向节奏；白天看只是方柱正面的双线切缝"
+    problem_solved: "与11号同类场景，但双缝提供更多亮度和节奏感；适合需要更高照明量的入口/广场等场景"
+    transferable_technique: "多条平行缝隙定义光线节奏的设计语言；可迁移至幕墙照明、家具缝隙出光等"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_建筑照明_014"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/建筑照明元素/14.jpg"
+        image_role: "hero"
+        visual_anchor: "单根方截面柱体，方形截面但四角有明显45°倒角（八边形截面），正面大幅矩形乳白漫射发光面板几乎占满柱正面全高；顶底均有45°倒角收口盖帽"
+    product_name: "八边形截面柱大面积正面发光面板型（倒角方柱）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "建筑照明元素"
+    design_language:
+      silhouette: "方形截面但四角做45°倒角形成八边形截面柱体；正面大矩形乳白漫射发光面板（约占柱高80%）；顶底盖帽同样45°倒角收口；整体比09号更精致"
+      light_opening: "单侧大面积漫射出光：矩形乳白漫射板覆盖柱正面大部分高度，均匀向前方漫射；面板与柱面齐平或略凹；发光面积大于11、13号"
+      thermal: "八边形截面增加散热侧面面积；LED阵列贴合铝基板导热至柱体"
+      cmf:
+        color: "深黑框架+乳白发光面板；倒角面与柱面同色（深黑）"
+        material: "柱体：铝合金挤压型材（倒角截面）；发光面板：PC乳白漫射板；顶底盖帽：铸铝"
+        finish: "金属：哑光深黑粉末涂层；漫射面板：乳白均匀哑光"
+      mounting: "地面圆形法兰底座（与深色柱身过渡，底座为深灰）"
+      signature_detail: "四角45°倒角将方柱软化为八边形截面，同时倒角面在顶底盖帽处形成精确的斜切收口——精度极高"
+    design_level:
+      score: 5
+      reason: "四角倒角截面是09号方柱版本的精制升级，倒角将方柱建筑语言柔化而不失力量感；顶底倒角盖帽与柱身倒角完美呼应；大面积发光面板+八边形截面是BEGA高端系列的典型精制手法"
+    design_tags:
+      - "八边形截面"
+      - "45度倒角方柱"
+      - "大面积发光面板"
+      - "漫射立柱灯"
+      - "倒角收口工艺"
+      - "建筑化照明"
+      - "精制截面处理"
+    hero_feature: "四角45°倒角将方柱软化为八边形截面——与顶底倒角盖帽形成全身倒角一致性；结构精度极高"
+    problem_solved: "高端建筑景观需要大面积均匀出光的立柱灯，同时柱体截面本身具有精制建筑感；倒角截面避免方柱的生硬感"
+    transferable_technique: "四角倒角截面处理将方形柔化的手法（「八边形」策略）；可迁移至工业产品外壳、建筑构件、家具腿部截面设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

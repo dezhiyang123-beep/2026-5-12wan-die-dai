@@ -1,0 +1,129 @@
+project_id: "20260405-agrolux-test"
+lifecycle: active
+gate: "G4"
+source_direction: "D-B 可调光谱顶灯"
+input_cards_selected: [M-01, M-02, M-04, M-05, M-07, M-09, M-10, M-11]
+
+packs:
+
+# ══════════════════════════════════════════════════════════════════
+# PACK-01 — 基于母题卡 M-01（扁宽矩形，钢丝4点悬挂，底面漫射）
+# ══════════════════════════════════════════════════════════════════
+
+  - pack_id: "PACK-01"
+    source_card: "M-01"
+    product_name: "AgroLux TuneBar TB-1000"
+
+    seg_1_product_definition: |
+      Commercial greenhouse toplighting fixture, 1000W dual-channel tunable spectrum.
+      Channel A: 660nm deep-red, Channel B: 450nm blue, independently dimmable 0-100%.
+      Modbus RTU/TCP addressable, compatible with LYRA platform and Agrolux OS.
+      Target: tomato/pepper/cucumber growers, 2.5-3.5m mounting height, covers 5m².
+      Certification target: CE (LVD+EMC+ErP) + UL 8800 + DLC QPL.
+
+    seg_2_main_profile_proportion: |
+      Flat-wide extruded aluminum body. Cross-section: H40mm × W200mm, aspect ratio 1:5.
+      Length: 1500mm. Plan view: extremely flat bar. Side view: ultra-thin slab.
+      Both end caps slightly thicker (H50mm) creating visual termination bookends.
+      No protrusions on top or bottom face. Clean rectangular silhouette from all angles.
+      Wall thickness: 3mm on visible faces, 4mm on structural base channel.
+
+    seg_3_parting_lines_interfaces: |
+      3-part construction: extruded aluminum body + 2 die-cast aluminum end caps.
+      Parting line A: body/end-cap interface, flush, sealed with EPDM O-ring (3mm groove).
+      PMMA diffuser panel: snap-fit into bottom channel groove, tool-free removal.
+      Diffuser panel parting line: 1mm recessed shadow gap, visually intentional.
+      Modbus RJ45 waterproof connector: recessed into one end cap face (M16 gland).
+      Power inlet: opposite end cap, M16 IP67 cable gland.
+      No visible screws on external faces — all fasteners internal or bottom-recessed.
+
+    seg_4_light_optics: |
+      Full-length PMMA opal diffuser panel (1480mm × 180mm × 4mm), transmission 88%.
+      LED layout: dual-channel PCB strips, 660nm LEDs alternating with 450nm clusters.
+      Spacing: 14mm pitch, 2 rows across 180mm width. Total 200 LEDs per meter.
+      Output angle: ±60° FWHM. No secondary optics — diffuser provides uniform output.
+      At 100% both channels: ~3800 µmol/s. Channel A only (660nm): ~2600 µmol/s.
+      Visible distinction between channels: diffuser glows warm-magenta (mixed) or red/blue solo.
+
+    seg_5_installation_cable: |
+      4-point wire suspension: stainless steel M5 eye bolts, 400mm spacing along top face.
+      Wire rope: 3mm galvanized, length-adjustable via spring snap hooks.
+      Height adjustment range: ±300mm from nominal mount point, tool-free.
+      Power cable exits end cap toward ceiling via flexible conduit sleeve.
+      Modbus daisy-chain: RJ45 in → RJ45 out on same end cap, 150mm patch cable included.
+      Cable management: aluminum clip-on saddles along top face at 500mm intervals.
+
+    seg_6_render_cmf_hint: |
+      Body: matte white powder coat on extruded aluminum (RAL 9003, 60° gloss ≤15).
+      End caps: same RAL 9003, slightly smoother finish to suggest precision casting.
+      Diffuser panel: neutral opal white when unlit, glows magenta-to-red when active.
+      Wire ropes: bare stainless steel — intentionally industrial, not painted.
+      RJ45 connectors: dark grey rubber overmold (contrast accent, not decorative).
+      Avoid: any warm-tone, any reflective chrome, any decorative texturing.
+      NOTE: This is render guidance only. Final CMF authority is 08_cmf_zoning.yaml (G6).
+
+    seg_7_lens_composition: |
+      phase1_shots:
+        shot_1:
+          angle: "3/4 front-below, camera at 45° from horizontal, looking up at diffuser panel"
+          lighting: "Diffuser active at 100% both channels — warm magenta glow"
+          context: "Minimal — white cyc background, suggest greenhouse steel structure faintly"
+          purpose: "Hero product shot, establish form and glow character"
+        shot_2:
+          angle: "Side profile, camera perfectly horizontal at mid-height"
+          lighting: "One channel active (660nm only) — deep red glow on diffuser"
+          context: "Clean white background, wire ropes visible full length to top"
+          purpose: "Validate ultra-thin side silhouette and suspension logic"
+
+      phase2_shots:
+        shot_3: "Top-down overhead, both channels active, 5 units in row formation above tomato crop"
+        shot_4: "Close-up end cap detail — RJ45 connector, M16 gland, parting line quality"
+        shot_5: "Installation sequence: single unit being lowered onto wire ropes, installer hands visible"
+        shot_6: "Night scene: greenhouse interior, row of 20 units, deep red canopy, moody atmosphere"
+        shot_7: "Comparison scale: unit next to WEGA Max silhouette outline (showing thinner profile)"
+        shot_8: "Control interface: Agrolux OS tablet screen showing spectrum adjustment, light responding"
+
+    seg_8_must_preserve: |
+      - Flat-wide proportion (1:5 H:W) must be clearly readable in all angles
+      - Diffuser panel glow must show distinct warm-magenta when both channels active
+      - Wire ropes must appear slender and industrial (not decorative)
+      - End cap bookend visual — slightly thicker than body — must be visible
+      - No visible external screws or fasteners on any render face
+      - LYRA/Modbus RJ45 connector clearly visible on end cap
+
+    seg_9_strictly_forbidden: |
+      - Any rounded corners exceeding R3mm on main body edges
+      - Warm white, yellow, or amber glow from diffuser
+      - Plastic-looking surfaces — must read as precision aluminum throughout
+      - Fins, vents, or any surface texture on external faces
+      - Decorative elements, logos rendered as stickers (must be subtle embossed or none)
+      - Camera angles that obscure the ultra-thin side profile
+      - Any chrome or mirror-finish elements
+
+    # ── G4 DFM 6轴快速评分 ────────────────────────────────────────
+
+    dfm_quick_check:
+      assembly:
+        score: 0
+        note: "标准装配顺序：铝挤主体→PCB条安装→漫射板嵌槽→端盖O-ring密封→完成。无特殊工装需求。"
+      thermal:
+        score: 0
+        note: "铝挤型材顶面直接散热至空气，Rth估算≤0.6°C/W，自然对流可行。驱动腔与LED腔有铝隔热。"
+      cable_routing:
+        score: 0
+        note: "走线路径清晰：型材内腔贯通走线，两端出线，无弯折穿孔需求。"
+      ingress_protection:
+        score: 1
+        note: "IP67需要：端盖O-ring + 漫射板嵌槽硅胶垫 + M16线缆密封。需设计验证，但技术上成熟可行。"
+      tooling_complexity:
+        score: 0
+        note: "铝挤型材为标准模具，端盖为常规压铸，漫射板PMMA标准注塑。无特殊工艺。"
+      serviceability:
+        score: 0
+        note: "漫射板免工具更换（嵌槽卡扣），驱动板经端盖螺丝可访问。日常维护无需拆主结构。"
+      total_score: 1
+      verdict: "🟢 GREEN（0-3分）"
+      risk_notes: "主要风险：漫射板嵌槽IP67密封需原型验证。建议V1样机做72h水浸测试。"
+
+    shot_plan_gpt_check_ready: true
+    gpt_understanding_check: "phase1两张发送GPT验证：主体宽扁比例是否正确、漫射板发光色是否为magenta/red、悬挂钢丝是否为细工业感"

@@ -1,0 +1,39 @@
+project_id: "20260405-agrolux-test"
+lifecycle: active
+created_at: "2026-04-05"
+mode: "M1"
+
+client:
+  name: "Agrolux"
+  type: "oem_push"
+  background: |
+    2025年9月MBO完成，从Hawthorne/Gavita独立。CEO Marc Salvany（前Signify高管）。
+    核心平台：LYRA（340-1200W，7种配置，Modbus RTU/TCP + 0-10V + horti protocol）。
+    Agrolux OS 2026年初上线，规划AI光策略自动化，兼容历代LED产品。[H-agrolux.com]
+  known_products:
+    - "WEGA Plus: 760W, 2630 µmol/s, 3.5 µmol/J"
+    - "WEGA Max: 1040W, 4000 µmol/s, 3.85 µmol/J"
+  gaps: "全产品线无层间补光(inter-lighting)产品；无可调光谱顶灯"
+
+category: "温室植物灯（商业级顶部补光）"
+
+goal: "主动开发产品原型/方案向Agrolux推销，作为OEM供应商切入"
+
+market_snapshot:
+  market_size: "温室照明市场$3.7B(2023)→$10.4B(2028), CAGR 22.4%[H-marketsandmarkets.com]"
+  key_trend: "HPS→LED改造加速；效能竞争白热化（4.1-4.3 µmol/J已成高端门槛）；平台软件锁定用户"
+  hps_replacement: "荷兰约4万公顷仍用HPS，EU法规推动2026-2028改造波峰[M]"
+  target_region: "荷兰/北欧商业温室（番茄/甜椒/黄瓜）"
+
+intel_source: "artifacts/projects/20260403-Agrolux-HORT/02_g1_intel.yaml"
+
+unknown_register:
+  - field: "Agrolux OEM合作开放度"
+    action: "发商务邮件至partnerships@agrolux.com，说明OEM背景和供应意向"
+    eta: "1-2周"
+  - field: "LYRA物理接口规格"
+    action: "联系Agrolux技术部门，确认模块接口是否开放给第三方"
+    eta: "1-2周"
+  - field: "Agrolux WEGA系列实际采购价"
+    action: "申请经销商报价或通过GreenTech展会接触"
+    eta: "展会前"

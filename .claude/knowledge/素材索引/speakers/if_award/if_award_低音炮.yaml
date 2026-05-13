@@ -1,0 +1,359 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "低音炮"
+  tertiary: ""
+source:
+  source_type: "if_award"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/低音炮"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_sub_001"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/低音炮/08.jpg"
+        image_role: "hero"
+        visual_anchor: "封闭式耳罩侧面特写，圆形单元与皮革头梁"
+    product_name: "MDR系列头戴耳机"
+    brand_name: "Sony"
+    brand_confidence: "high"
+    category_path: ["耳机", "头戴耳机", "封闭式"]
+    design_language:
+      silhouette: "圆形耳罩+弧形头梁，侧面呈现单耳圆盘轮廓"
+      light_opening: "无开孔，全封闭耳罩"
+      thermal: "无散热需求"
+      cmf:
+        color: "全黑"
+        material: "磨砂塑料耳罩 + 皮革头梁"
+        finish: "哑光磨砂"
+      mounting: "头梁悬挂式，可旋转耳罩"
+      signature_detail: "耳罩边缘细白线分件，Sony标志浅浮雕于耳罩背面"
+    design_level:
+      score: 4
+      reason: "极简黑色语言统一，皮革细节精致，白色分件线提升层次感，整体品质感高"
+    design_tags: ["极简", "封闭式", "皮革头梁", "哑光黑", "Sony语法"]
+    hero_feature: "耳罩边缘白线分件线——在全黑哑光体上制造微妙的层次感"
+    problem_solved: "高端封闭式监听耳机的外观过于工业，Sony通过单一色调+精准分件线实现消费级精致感"
+    transferable_technique: "单色体上用细分件线代替颜色变化制造层次——适用于任何一体化壳体设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件归属在低音炮文件夹，但实际产品为头戴耳机（封闭式），建议重新归档至耳机品类"
+
+  - product_id: "if_sub_002"
+    source_images:
+      - filename: "113.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/低音炮/113.jpg"
+        image_role: "hero"
+        visual_anchor: "斜45°视角，菱形切割侧边，金属拨轮"
+    product_name: "Astell&Kern HiFi便携播放器（斜视角）"
+    brand_name: "Astell&Kern"
+    brand_confidence: "high"
+    category_path: ["数码", "HiFi播放器", "便携式"]
+    design_language:
+      silhouette: "矩形板状机身，侧边多面切割形成菱形截面"
+      light_opening: "全面屏正面，无额外开孔"
+      thermal: "无显性散热结构"
+      cmf:
+        color: "深空灰金属色"
+        material: "全铝合金机身"
+        finish: "喷砂阳极氧化"
+      mounting: "手持便携，无固定方式"
+      signature_detail: "右侧滚花金属音量拨轮，侧面多面切割形成立体几何感"
+    design_level:
+      score: 5
+      reason: "多面切割工艺在便携播放器中极为罕见，形成强烈视觉辨识度；全铝合金工艺精度极高；IFA获奖级别设计"
+    design_tags: ["多面切割", "全铝合金", "HiFi播放器", "Astell&Kern语法", "精密工艺"]
+    hero_feature: "侧边多面切割——将矩形板材变成多棱柱，在手持设备中极为罕见"
+    problem_solved: "HiFi播放器视觉上与普通手机无差异，多面切割赋予其独特触感与辨识度"
+    transferable_technique: "矩形体侧边多面切割制造棱柱感——适用于任何需要高端感的手持金属设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件归属在低音炮文件夹，但实际产品为HiFi便携播放器，建议重新归档至数码/播放器品类"
+
+  - product_id: "if_sub_003"
+    source_images:
+      - filename: "114.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/低音炮/114.jpg"
+        image_role: "hero"
+        visual_anchor: "正面视角，全屏触控界面，侧边实体按键"
+    product_name: "Astell&Kern HiFi便携播放器（正面）"
+    brand_name: "Astell&Kern"
+    brand_confidence: "high"
+    category_path: ["数码", "HiFi播放器", "便携式"]
+    design_language:
+      silhouette: "矩形板状机身，正面全屏，侧边可见多面切割"
+      light_opening: "无"
+      thermal: "无显性散热"
+      cmf:
+        color: "深空灰"
+        material: "铝合金机身，钢化玻璃屏幕"
+        finish: "喷砂阳极氧化 + 玻璃"
+      mounting: "手持便携"
+      signature_detail: "正面全触控屏占比约70%机身，顶部三颗实体按键，A&K品牌标志极简置于屏幕内"
+    design_level:
+      score: 5
+      reason: "与113.jpg同款，正面视角展示屏幕UI与机身比例关系，整体设计语言一致性强"
+    design_tags: ["多面切割", "全铝合金", "HiFi播放器", "Astell&Kern语法", "全面屏"]
+    hero_feature: "高屏占比触控屏 + 顶部实体按键组合——同时满足可视性与盲操作需求"
+    problem_solved: "播放器需要在不看屏幕时也能操作，顶部实体按键解决盲操问题"
+    transferable_technique: "触控屏+顶部实体按键分区设计——触控负责浏览，实体键负责高频操作"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件归属在低音炮文件夹，但实际产品为HiFi便携播放器（与if_sub_002同款正面视角），建议重新归档"
+
+  - product_id: "if_sub_004"
+    source_images:
+      - filename: "26.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/低音炮/26.jpg"
+        image_role: "hero"
+        visual_anchor: "开放式耳罩蜂窝网格面板，铝合金弧形头梁"
+    product_name: "开放式Hi-Fi头戴耳机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["耳机", "头戴耳机", "开放式"]
+    design_language:
+      silhouette: "大型圆形耳罩+弧形金属头梁，正面呈U形整体轮廓"
+      light_opening: "耳罩背面全开放蜂窝网格"
+      thermal: "开放式结构自然散热"
+      cmf:
+        color: "黑色耳罩 + 银灰色金属头梁"
+        material: "铝合金头梁 + 金属网格耳罩背板 + 皮革头垫"
+        finish: "拉丝金属 + 黑色哑光"
+      mounting: "头梁压力固定式"
+      signature_detail: "耳罩背面完整蜂窝网格面板，圆形耳罩边缘刻有文字"
+    design_level:
+      score: 4
+      reason: "蜂窝网格面板工艺精良，金属拉丝头梁与黑色耳罩形成材质对比，开放式结构设计感强"
+    design_tags: ["开放式", "蜂窝网格", "铝合金头梁", "Hi-Fi", "材质对比"]
+    hero_feature: "大面积蜂窝金属网格耳罩背板——功能性开放结构同时成为视觉主角"
+    problem_solved: "开放式耳机内部结构裸露影响美观，蜂窝网格将功能性开孔转化为设计语言"
+    transferable_technique: "功能性开孔图案化（蜂窝/矩阵）——将必须存在的通气孔变成视觉亮点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件归属在低音炮文件夹，但实际产品为开放式头戴耳机，品牌未能确认，建议重新归档"
+
+  - product_id: "if_sub_005"
+    source_images:
+      - filename: "35.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/低音炮/35.jpg"
+        image_role: "hero"
+        visual_anchor: "入耳腔体金属分件，绿色+钛灰色双色，置于皮革背景"
+    product_name: "入耳式HiFi耳机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["耳机", "入耳耳机", "有线"]
+    design_language:
+      silhouette: "多节金属腔体堆叠，侧面呈现多层分件结构"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "军绿色 + 钛灰色"
+        material: "金属合金腔体 + 硅胶耳塞"
+        finish: "磨砂金属"
+      mounting: "入耳硅胶耳塞固定"
+      signature_detail: "腔体侧面可见金属分件线与小圆形标识，双色配色在入耳耳机中形成强烈视觉张力"
+    design_level:
+      score: 4
+      reason: "军绿+钛灰双色组合在入耳耳机中高辨识度，多层金属分件工艺精密，皮革背景衬托质感"
+    design_tags: ["入耳耳机", "金属腔体", "双色配色", "军绿色", "多层分件"]
+    hero_feature: "军绿色+钛灰多层金属分件腔体——工业质感与色彩张力并存"
+    problem_solved: "入耳耳机腔体小，难以形成视觉亮点；多层金属分件+撞色解决存在感弱的问题"
+    transferable_technique: "小体积产品用多层分件+撞色提升存在感——分件线即设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "文件归属在低音炮文件夹，但实际产品为入耳式HiFi耳机，品牌未能确认，建议重新归档"
+
+  - product_id: "if_sub_006"
+    source_images:
+      - filename: "67.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/低音炮/67.jpg"
+        image_role: "hero"
+        visual_anchor: "棕色皮革头梁，拉丝不锈钢镂空滑轨，铜色耳罩"
+    product_name: "Momentum 头戴耳机"
+    brand_name: "Sennheiser"
+    brand_confidence: "high"
+    category_path: ["耳机", "头戴耳机", "封闭式"]
+    design_language:
+      silhouette: "经典U形头梁，圆形耳罩，斜45°展示整体结构"
+      light_opening: "封闭式无开孔"
+      thermal: "无"
+      cmf:
+        color: "棕色皮革 + 拉丝银色不锈钢 + 铜棕色耳罩"
+        material: "真皮头梁 + 不锈钢镂空滑轨 + 金属耳罩外壳"
+        finish: "皮革哑光 + 金属拉丝 + 哑光金属"
+      mounting: "头梁压力式 + 镂空滑轨高度调节"
+      signature_detail: "镂空不锈钢滑轨——将头梁调节结构完全外露，成为最强视觉元素"
+    design_level:
+      score: 5
+      reason: "镂空滑轨是Sennheiser Momentum标志性设计，皮革+金属材质组合达到奢侈品级质感，整体比例极为优雅"
+    design_tags: ["镂空滑轨", "真皮头梁", "拉丝不锈钢", "Sennheiser Momentum", "经典设计"]
+    hero_feature: "镂空不锈钢滑轨——将功能性调节结构转化为最强视觉符号"
+    problem_solved: "头梁调节机构通常被隐藏显得廉价，Momentum将其外露并精加工，反转为设计资产"
+    transferable_technique: "将调节/连接结构外露并精加工——从隐藏工程逆向为功能外显设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件归属在低音炮文件夹，但实际产品为Sennheiser Momentum头戴耳机，建议重新归档至耳机品类"
+
+  - product_id: "if_sub_007"
+    source_images:
+      - filename: "70.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/低音炮/70.jpg"
+        image_role: "hero"
+        visual_anchor: "白色扁平腔体+黑色耳挂，入耳硅胶耳塞"
+    product_name: "KEF 运动入耳耳机（耳挂式）"
+    brand_name: "KEF"
+    brand_confidence: "high"
+    category_path: ["耳机", "入耳耳机", "运动耳挂式"]
+    design_language:
+      silhouette: "扁平矩形腔体，C形耳挂延伸，整体轻量感"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "白色腔体 + 黑色耳挂"
+        material: "塑料腔体 + 软性耳挂"
+        finish: "磨砂白 + 哑光黑"
+      mounting: "C形耳挂绕耳固定"
+      signature_detail: "扁平方形腔体正面KEF标志，耳挂末端有竖纹防滑纹理"
+    design_level:
+      score: 3
+      reason: "造型简洁实用，双色对比清晰，但缺乏突出的视觉亮点，为功能导向设计"
+    design_tags: ["运动耳挂", "入耳耳机", "KEF", "扁平腔体", "双色"]
+    hero_feature: "扁平矩形腔体——在入耳耳机中少见的几何感造型"
+    problem_solved: "运动场景中耳机容易脱落，耳挂式固定配合轻量腔体解决稳固性问题"
+    transferable_technique: "C形耳挂与轻量扁平腔体的组合——运动场景固定方案参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件归属在低音炮文件夹，但实际产品为KEF运动入耳耳机（耳挂式），建议重新归档至耳机品类"
+
+  - product_id: "if_sub_008"
+    source_images:
+      - filename: "86.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/低音炮/86.jpg"
+        image_role: "hero"
+        visual_anchor: "白色铝合金机箱，顶部4支电子管+黑胶转盘，正面密集接口"
+    product_name: "RARER Xi 电子管功放"
+    brand_name: "RARER"
+    brand_confidence: "high"
+    category_path: ["音频", "功放", "电子管功放"]
+    design_language:
+      silhouette: "低矮横向矩形机箱，顶部电子管+转盘组合形成标志性轮廓"
+      light_opening: "顶部开放式，电子管自然散热"
+      thermal: "电子管外露，顶部开放散热"
+      cmf:
+        color: "白色机身 + 银色电子管 + 铜色转盘"
+        material: "铝合金机箱 + 玻璃电子管 + 金属转盘"
+        finish: "喷漆白 + 镜面玻璃管 + 拉丝铜"
+      mounting: "桌面放置，四角橡胶脚垫"
+      signature_detail: "黑胶唱片形态的圆形转盘嵌入顶面，4支电子管围绕其周——功能即装饰"
+    design_level:
+      score: 5
+      reason: "将黑胶唱片文化符号融入功放造型，电子管+转盘的顶视图有极强记忆点；白色机身在功放中极为罕见，颠覆品类惯例"
+    design_tags: ["电子管功放", "黑胶符号", "白色机身", "功能外显", "品类假设挑战"]
+    hero_feature: "顶部黑胶形转盘+4支电子管——将HiFi文化图腾直接融入产品造型"
+    problem_solved: "功放外观千篇一律（黑色矩形箱），RARER通过白色+电子管外露+黑胶符号建立强烈文化身份"
+    transferable_technique: "将品类文化符号（黑胶、磁带、真空管）直接作为造型元素——文化认同即设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件归属在低音炮文件夹，但实际产品为电子管功放（RARER Xi），建议重新归档至音频/功放品类"
+
+  - product_id: "if_sub_009"
+    source_images:
+      - filename: "91.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/低音炮/91.jpg"
+        image_role: "hero"
+        visual_anchor: "两视角展示，滚花纹理圆形耳罩，折叠式头梁"
+    product_name: "JBL E-Series 头戴耳机"
+    brand_name: "JBL"
+    brand_confidence: "high"
+    category_path: ["耳机", "头戴耳机", "封闭式"]
+    design_language:
+      silhouette: "紧凑型圆形耳罩，可折叠头梁，两视角展示折叠结构"
+      light_opening: "封闭式无开孔"
+      thermal: "无"
+      cmf:
+        color: "全黑 + 局部银灰色金属件"
+        material: "塑料耳罩 + 金属折叠铰链 + 泡棉头梁"
+        finish: "哑光黑 + 滚花纹理耳罩面板"
+      mounting: "头梁压力式，可折叠便携"
+      signature_detail: "耳罩背面大面积滚花菱形纹理，圆形JBL标志居中，音量+/-键嵌入耳罩"
+    design_level:
+      score: 3
+      reason: "滚花纹理是JBL系列识别点，但整体造型较为常规，折叠结构实用，视觉亮点集中在耳罩纹理"
+    design_tags: ["JBL E系列", "滚花纹理", "可折叠", "头戴耳机", "触控耳罩"]
+    hero_feature: "大面积菱形滚花纹理耳罩面板——触感与视觉双重识别点"
+    problem_solved: "便携头戴耳机耳罩背面空白且易误触，JBL通过滚花纹理同时解决握持感和外观识别"
+    transferable_technique: "耳罩/盖板背面滚花纹理——兼顾防滑握持与视觉质感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件归属在低音炮文件夹，但实际产品为JBL E-Series头戴耳机，建议重新归档至耳机品类"
+
+  - product_id: "if_sub_010"
+    source_images:
+      - filename: "99.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/低音炮/99.jpg"
+        image_role: "hero"
+        visual_anchor: "4色系列并排，双圆形喇叭单元+金属扣环，卷曲弹簧线缆"
+    product_name: "Philips GrooveJet 便携户外音箱"
+    brand_name: "Philips"
+    brand_confidence: "high"
+    category_path: ["音箱", "便携音箱", "户外音箱"]
+    design_language:
+      silhouette: "竖向矩形机身，正面双圆形喇叭单元占满宽度，顶部金属扣环"
+      light_opening: "正面双喇叭网格，侧面无开孔"
+      thermal: "无专用散热"
+      cmf:
+        color: "粉/军绿/橄榄/天蓝四色配色，各色匹配同色弹簧线缆"
+        material: "橡胶外壳 + 金属扣环 + 金属喇叭网罩"
+        finish: "哑光橡胶 + 金属光泽网罩"
+      mounting: "顶部金属扣环，可挂载便携"
+      signature_detail: "底部卷曲弹簧线缆与机身颜色匹配——配件色彩系统化，卷曲线缆有复古感"
+    design_level:
+      score: 4
+      reason: "4色系列化策略执行完整（机身+弹簧线缆+按键全色系统化），卷曲弹簧线缆是强记忆点，设计语言活泼且功能完整"
+    design_tags: ["便携音箱", "户外音箱", "多色系列", "弹簧线缆", "金属扣环", "Philips"]
+    hero_feature: "颜色匹配的卷曲弹簧线缆——复古功能件成为整套色系的视觉锚点"
+    problem_solved: "便携音箱外观同质化，Philips通过4色系列化+弹簧线缆建立强个性，解决货架辨识度问题"
+    transferable_technique: "线缆/配件与机身颜色系统化匹配——完整的色彩叙事延伸到每一个触点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件归属在低音炮文件夹，但实际产品为Philips便携户外音箱（双单元矩形），建议重新归档至便携音箱品类"

@@ -1,0 +1,192 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "混凝土设备"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/混凝土设备/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_混凝土设备_001"
+    source_images:
+      - filename: "混凝土设备__冲击夯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/混凝土设备/混凝土设备__冲击夯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "POWERSHIFT+冲击夯套装，黑色U形顶部导向把手，黄色控制块（POWERSHIFT+标识），灰色铸铁中段机体（竖向散热肋），黑色橡胶弹簧波纹管，底部方形铸铁夯板；配套2块黄色POWERSHIFT+电池盒+黄黑充电/搬运模块"
+      - filename: "混凝土设备__冲击夯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/混凝土设备/混凝土设备__冲击夯__02.jpg"
+        image_role: "scene"
+        visual_anchor: "冲击夯运输轮套件：两个铝辐条大轮（黑色橡胶轮胎+银色铸铝辐条），钢质轴杆，用于将冲击夯推行移动"
+    product_name: "DeWalt POWERSHIFT+ Cordless Rammer (Jumping Jack Compactor)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "混凝土设备"
+      - "冲击夯"
+    design_language:
+      silhouette: "垂直长轴形态：顶部U形把手→中部矩形控制块→铸铁机体→波纹橡胶弹簧管→底部方形夯板，整体呈顶宽底窄梯形竖轴动势"
+      light_opening: "N/A（大型设备）"
+      thermal: "铸铁机体中段可见竖向散热肋，电机散热主要靠铸铁本体导热"
+      cmf:
+        color: "黑色（U形把手+把手护架）+ 黄色（控制块+POWERSHIFT+电池盒盖）+ 灰色（铸铁机体）+ 黑色（橡胶波纹管+夯板）"
+        material: "钢管折弯把手，工程塑料控制块，铸铁动力机体，天然橡胶波纹管，铸铁夯板"
+        finish: "哑光黄注塑，铸铁本色，黑色粉末涂层把手"
+      mounting: "无需固定，手推操作；POWERSHIFT+电池盒从侧面插入，专用大容量格式"
+      signature_detail: "黑色橡胶波纹管（减震弹簧）从灰色机体底部直连夯板，这是冲击夯品类最独特的结构特征，DeWalt设计将其保持外露"
+    design_level:
+      score: 3
+      reason: "POWERSHIFT+电动冲击夯在工程设备中具有品类突破性（无油无排放），但造型遵循标准冲击夯架构，黄黑POWERSHIFT+系统延伸到位"
+    design_tags:
+      - "POWERSHIFT+"
+      - "无绳"
+      - "冲击夯"
+      - "大型设备"
+      - "H11_功能外显"
+    hero_feature: "黑色橡胶波纹弹簧管外露连接铸铁机体与夯板，结构功能直白可读"
+    problem_solved: "无油无排放冲击夯土/沥青/回填料，电池驱动消除燃油夯的排放/噪音/维护问题"
+    transferable_technique: "大型工程设备的POWERSHIFT+电池模块化——专用格式大容量电池盒可在设备间互换"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_混凝土设备_002"
+    source_images:
+      - filename: "混凝土设备__平板夯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/混凝土设备/混凝土设备__平板夯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "POWERSHIFT+平板夯套装，黄色蛋形大体量机身（圆润有机曲线），灰/黑色框架包围，黑色折叠推把（中段黄色DEWALT抓握块），底部大面积压实底板；配套2块POWERSHIFT+电池盒+充电/搬运模块"
+    product_name: "DeWalt POWERSHIFT+ Cordless Plate Compactor"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "混凝土设备"
+      - "平板夯"
+    design_language:
+      silhouette: "低矮宽体蛋形主机（前视圆润，侧视椭圆），推把从后部向上延伸呈U型弧，整体低重心稳定感"
+      light_opening: "N/A（大型设备）"
+      thermal: "左侧黑色散热格栅区，工程塑料散热孔"
+      cmf:
+        color: "黄色（主机蛋形体+把手中段握块）+ 黑色/灰色（机架+推把+底板框架）"
+        material: "工程塑料机壳，钢质框架，橡胶减震，钢质压实底板"
+        finish: "哑光黄注塑，黑色粉末涂层钢框"
+      mounting: "POWERSHIFT+电池盒从两侧或后部插入（侧视可见两个电池接口）"
+      signature_detail: "黄色大蛋形机身在黑色钢框架内漂浮感极强，蛋形曲线在工程设备中罕见，品牌个性鲜明"
+    design_level:
+      score: 4
+      reason: "蛋形机身在平板夯品类中形态独特，黑色框架反衬黄色蛋形体量对比强烈，POWERSHIFT+电动平台在此品类具有差异化意义"
+    design_tags:
+      - "POWERSHIFT+"
+      - "无绳"
+      - "平板夯"
+      - "蛋形机身"
+      - "H08_对比强调"
+    hero_feature: "黄色大蛋形机身被黑色钢架框围，有机蛋形与工业钢架的强对比构图"
+    problem_solved: "大面积地面压实（砾石/沥青/回填料），电池驱动消除汽油排放，蛋形机身保护内部电机组件"
+    transferable_technique: "有机蛋形曲线机身在工程设备中的应用——体量保护功能+视觉差异化双赢（H08）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_混凝土设备_003"
+    source_images:
+      - filename: "电锯__混凝土锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/混凝土设备/电锯__混凝土锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "60V FLEXVOLT无刷蜗轮圆锯（7-1/4\"），黄色蜗轮机身（后置电机轴垂直于锯片轴），黑色锯片护罩（带BRAKE标志），黄色FLEXVOLT电池接口区，大圆形黄色锯片（24T木工锯片）"
+    product_name: "DeWalt 60V MAX FLEXVOLT Brushless Worm Drive Circular Saw"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电锯"
+      - "圆锯"
+    design_language:
+      silhouette: "蜗轮驱动使电机轴与锯片轴垂直，形成独特的L形侧视轮廓（后方高体积驱动盒+前方锯片），区别于标准侧驱圆锯"
+      light_opening: "N/A（电动工具）"
+      thermal: "机体两侧散热槽，蜗轮盒散热格栅"
+      cmf:
+        color: "黄色（主机体+蜗轮盒）+ 黑色（锯片护罩+把手+底板）"
+        material: "工程塑料机体，铸铝蜗轮盒，钢质底板，合金锯片"
+        finish: "哑光黄，哑光黑"
+      mounting: "FLEXVOLT 60V电池从后端插入，标准FLEXVOLT平台"
+      signature_detail: "蜗轮传动盒的方形大体量使圆锯正面视觉显得格外厚实有力，区别于标准圆锯的扁平侧视"
+    design_level:
+      score: 3
+      reason: "FLEXVOLT电动蜗轮锯在品类中有技术亮点（蜗轮扭矩优势），但造型遵循蜗轮圆锯品类标准，设计执行到位"
+    design_tags:
+      - "FLEXVOLT"
+      - "60V"
+      - "蜗轮圆锯"
+      - "无刷"
+      - "H11_功能外显"
+    hero_feature: "蜗轮传动盒的L形侧视轮廓，将高扭矩蜗轮驱动机制外显为独特形态"
+    problem_solved: "重型木工框架锯切，蜗轮传动提供更高扭矩/更低速适合厚木，FLEXVOLT无绳解放现场移动"
+    transferable_technique: "驱动机制差异（蜗轮vs侧驱）直接外显为产品轮廓差异，技术优势即形态特征"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件名标注为混凝土锯，但实际为7-1/4\"木工蜗轮圆锯，建议重新归档至电锯品类"
+
+  - product_id: "dewalt_混凝土设备_004"
+    source_images:
+      - filename: "电锯__混凝土锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/混凝土设备/电锯__混凝土锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "60V MAX无刷9\"混凝土切割锯裸机，黄色长方形机体，黑色大圆形锯片护罩（金刚石分段刀片），黑色D形后把手，黑色弯管前辅助把手（反震），底部黑色导向底板，水冷接口顶部"
+      - filename: "电锯__混凝土锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/混凝土设备/电锯__混凝土锯__03.jpg"
+        image_role: "scene"
+        visual_anchor: "同款切割锯含2块FLEXVOLT 9Ah电池+快充器+9\"金属切割薄片，套装展示"
+    product_name: "DeWalt 60V MAX Brushless 9\" Cut-Off Saw (Concrete/Masonry)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "混凝土设备"
+      - "混凝土切割锯"
+    design_language:
+      silhouette: "横向长方形机体（类似汽油割锯比例），大圆形护罩在左侧凸出，D形后把手整合于机身尾部，前辅助把手从前下方弯管伸出，整体呈工程机械感"
+      light_opening: "N/A（电动工具）；9\"金刚石刀片的锯缝即核心功能开口"
+      thermal: "机体右侧顶部散热格栅区，9Ah FLEXVOLT大电流散热需求"
+      cmf:
+        color: "黄色（主机体）+ 黑色（护罩+把手+导向底板）"
+        material: "工程塑料机体，铸铁/钢质护罩，橡胶减震把手，金刚石分段切割刀片"
+        finish: "哑光黄，哑光黑"
+      mounting: "FLEXVOLT 9Ah电池从后端插入，底部平板导轨控制切割深度"
+      signature_detail: "黑色大圆形护罩（直径约350mm）从黄色机体左侧大幅凸出，护罩与机体的体量悬殊感强化了工具的切割能力感知"
+    design_level:
+      score: 4
+      reason: "60V FLEXVOLT电动混凝土割锯替代汽油/有绳版，9Ah大电量+无绳是品类创新；造型将护罩圆形体量与长方形机体对比形成强视觉，功能感知准确"
+    design_tags:
+      - "FLEXVOLT"
+      - "60V"
+      - "混凝土切割"
+      - "金刚石刀片"
+      - "H08_对比强调"
+      - "H11_功能外显"
+    hero_feature: "9\"大圆形护罩从黄色方形机体侧面大幅凸出，圆与方的体量对比直白传达切割能力"
+    problem_solved: "混凝土/砌体路面无绳切割，消除汽油割锯排放/启动不便，9Ah大电量保证连续切割"
+    transferable_technique: "功能核心（大切割盘）的视觉体量远大于动力体（机身），以比例关系传达功能优先（H08）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,137 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "往复锯"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_往复锯_001"
+    source_images:
+      - filename: "电锯__往复锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__往复锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面视角，Milwaukee M18 FUEL SAWZALL ONE-KEY版，细长横向布局，前部黑灰色锯片夹+SAWZALL品名模压浮雕，中段Milwaukee FUEL红色面板居中，后部亮红色D形把手（黑色橡胶扳机），机身整体呈水平枪形，ONE-KEY WiFi连接指示蓝色图标，无电池裸机"
+      - filename: "电锯__往复锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__往复锯__03.jpg"
+        image_role: "detail"
+        visual_anchor: "侧面45度，M18 FUEL SAWZALL标准版，红色后部把手+Milwaukee品牌面板+前方黑色SAWZALL锯片头部，Milwaukee FRAMING锯片安装于前端快换夹，机身中部红色Milwaukee FUEL面板清晰"
+    product_name: "Milwaukee M18 FUEL SAWZALL Reciprocating Saw (ONE-KEY)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "水平枪形布局：锯片水平向前伸出，前段黑灰色锯片保护体，中段Milwaukee品牌区（红色面板），后段亮红D形把手，整体从前到后形成黑→红的渐变节奏，机身高度从前到后递增"
+      light_opening: "N/A"
+      thermal: "Milwaukee FUEL面板区域两侧细条散热槽，风扇冷却"
+      cmf:
+        color: "前段：深灰/黑色（SAWZALL锯片体），中段：Milwaukee亮红色（品牌面板区），后段：亮红色（把手体），次色：黑色（橡胶握把+扳机）"
+        material: "机身：玻璃纤维增强尼龙；前部锯片夹：钢制镀铬；把手：工程塑料+TPR橡胶"
+        finish: "前段磨砂深灰，中后段亮红漆，橡胶区磨砂黑"
+      mounting: "M18电池竖向插入把手底部"
+      signature_detail: "SAWZALL品名浮雕于前段黑色机体上（Milwaukee注册品名，具有独占性）；Milwaukee FUEL红色品牌面板居中；ONE-KEY WiFi模块集成；快换无钥匙锯片夹头"
+    design_level:
+      score: 5
+      reason: "Milwaukee SAWZALL是往复锯品类的品牌名词，设计语言高度统一，前黑后红双段配色极具记忆点，SAWZALL浮雕品名强化品牌独占感，FUEL系列旗舰水准"
+    design_tags:
+      - "M18_FUEL"
+      - "SAWZALL"
+      - "往复锯"
+      - "ONE-KEY"
+      - "前黑后红"
+      - "无绳"
+      - "快换锯片"
+    hero_feature: "SAWZALL品名浮雕在黑色前体上，Milwaukee注册商标词成为产品视觉签名；前黑后红双段配色在往复锯品类中独一无二"
+    problem_solved: "无绳往复锯用于拆除、管道切割、救援等场景，ONE-KEY实现速度设置和防盗"
+    transferable_technique: "品名（SAWZALL）作为产品外观造型文字元素直接浮雕于机身（H10材料表达+H08对比强调）；前后双色分段策略（H03分件线）；快换夹头露出金属质感（H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_往复锯_002"
+    source_images:
+      - filename: "电锯__往复锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__往复锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面视角，Milwaukee M18 FUEL SUPER SAWZALL，大型往复锯，前部宽大黑色SUPER SAWZALL机体（比标准SAWZALL更粗壮），Milwaukee FUEL品牌面板位于中后部，亮红色D形把手，整体比标准SAWZALL更宽大，锯片行程更大，无电池裸机，机身中上部速度调节旋钮可见"
+    product_name: "Milwaukee M18 FUEL SUPER SAWZALL Reciprocating Saw"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "比标准SAWZALL更粗壮的水平枪形，前部SUPER SAWZALL机体截面积增大约20%，视觉感更重工，中后部Milwaukee FUEL面板红色，把手亮红，整体重心略靠前"
+      light_opening: "N/A"
+      thermal: "Milwaukee FUEL面板侧面散热槽，大功率电机强制风冷"
+      cmf:
+        color: "前段：深灰/黑色（粗壮机体），中后段：亮红色，次色：黑色（橡胶区）"
+        material: "工程塑料，钢制锯片夹，TPR橡胶"
+        finish: "磨砂黑前体，亮红漆后体，磨砂橡胶把手"
+      mounting: "M18电池底部竖插"
+      signature_detail: "SUPER SAWZALL品名区别于标准SAWZALL；粗壮前体截面暗示更大功率；速度调节旋钮集成于机身侧面"
+    design_level:
+      score: 4
+      reason: "SUPER SAWZALL定位旗舰重工款，粗壮前体尺寸与产品功率定位一致，设计语言延续FUEL体系，速度旋钮细节处理干净"
+    design_tags:
+      - "M18_FUEL"
+      - "SUPER_SAWZALL"
+      - "往复锯"
+      - "重工型"
+      - "大行程"
+      - "无绳"
+      - "速度调节"
+    hero_feature: "SUPER SAWZALL粗壮前体视觉暗示超大功率和更长锯片行程（1-1/4\"）"
+    problem_solved: "比标准SAWZALL提供更大锯片行程和更高功率，适合重型结构拆除和金属切割"
+    transferable_technique: "通过机身截面尺寸传递功率信息（H11功能外显）；速度旋钮外露位置便于手套操作（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_往复锯_003"
+    source_images:
+      - filename: "电锯__往复锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电锯/电锯__往复锯__04.jpg"
+        image_role: "hero"
+        visual_anchor: "侧面视角，Milwaukee M18 SAWZALL（非FUEL版），前部深灰色机体印SAWZALL品名，Milwaukee品牌面板居中（红底白字，无FUEL字样），后部亮红色把手，整体颜色比FUEL版颜色稍暗，无FUEL标识，电池底部插入位置可见，整体外形与FUEL版非常相近"
+    product_name: "Milwaukee M18 SAWZALL Reciprocating Saw (Non-FUEL)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "水平枪形，与FUEL版形态高度相近，前黑后红双段式"
+      light_opening: "N/A"
+      thermal: "机身侧面散热槽"
+      cmf:
+        color: "前段深灰/黑，后段亮红，次色黑色"
+        material: "工程塑料，TPR橡胶"
+        finish: "磨砂深灰前段，亮红漆后段"
+      mounting: "M18电池底部插入"
+      signature_detail: "Milwaukee品牌面板无FUEL字样，外形与FUEL版极相近，通过品牌面板区分产品层级"
+    design_level:
+      score: 3
+      reason: "非FUEL版延续SAWZALL设计语言，外形接近但细节层级低于FUEL版，通过标识区分定位"
+    design_tags:
+      - "M18"
+      - "SAWZALL"
+      - "往复锯"
+      - "非FUEL"
+      - "无绳"
+    hero_feature: "SAWZALL经典往复锯外形，M18无绳系统，价格低于FUEL版"
+    problem_solved: "提供比FUEL版更经济实惠的M18无绳往复锯选项"
+    transferable_technique: "通过面板标识区分产品层级而不改变整体外形（最小改动原则），同形态不同配置的产品线策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

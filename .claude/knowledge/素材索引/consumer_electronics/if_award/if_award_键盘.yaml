@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "键盘"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/键盘/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_keyboard_001"
+    source_images:
+      - filename: "81.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/键盘/81.jpg"
+        image_role: "hero"
+        visual_anchor: "米白色紧凑无线键盘俯视，双手托举展示，圆角按键，右上角蓝牙切换开关"
+    product_name: "Compact Wireless Keyboard"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "键盘"]
+    design_language:
+      silhouette: "紧凑75%布局，整体圆角矩形，四角大圆角"
+      light_opening: "右上角橙色LED状态灯点"
+      thermal: "无散热结构"
+      cmf:
+        color: "全米白/浅沙色"
+        material: "ABS外壳，ABS键帽"
+        finish: "哑光米白，键帽与外壳同色系轻微深浅差"
+      mounting: "无线蓝牙，底部防滑"
+      signature_detail: "全键圆角正方形键帽，统一圆润造型语言；右上角集成蓝牙1/2切换+电源滑块开关"
+    design_level:
+      score: 4
+      reason: "圆角键帽+米白配色的一致性极强，整体视觉非常统一干净；双手托举构图强调便携尺寸；功能开关集成于一个角落区域，减少打断感；设计叙事完整"
+    design_tags: ["紧凑键盘", "圆角键帽", "米白配色", "H07极简整合", "蓝牙无线", "75%布局", "便携"]
+    hero_feature: "全键圆角造型+米白同色系，形成与传统键盘截然不同的温柔圆润视觉语言"
+    problem_solved: "桌面美学需求驱动，用软化造型将功能键盘融入家居/咖啡厅等场景"
+    transferable_technique: "统一圆角键帽+外壳同色系的整体化语言，可迁移至遥控器、数字键盘等按键阵列产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_keyboard_002"
+    source_images:
+      - filename: "82.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/键盘/82.jpg"
+        image_role: "detail"
+        visual_anchor: "同款米白圆角键盘45度俯视置于木纹桌面，场景化摄影"
+    product_name: "Compact Wireless Keyboard (Scene)"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "键盘"]
+    design_language:
+      silhouette: "紧凑75%布局圆角矩形，与81.jpg同款，侧面可见约1cm厚度"
+      light_opening: "右上角单点LED指示灯"
+      thermal: "无散热结构"
+      cmf:
+        color: "米白/浅沙色，搭配温暖木纹背景"
+        material: "ABS外壳，ABS键帽"
+        finish: "哑光米白"
+      mounting: "无线蓝牙"
+      signature_detail: "圆角整体轮廓在实木桌面背景下的质感对比；侧面薄度约1cm，便携属性明确"
+    design_level:
+      score: 3
+      reason: "场景图有效传达产品调性，木纹+米白的温暖组合有说服力；但相比81号图没有新的设计信息，更多是展示价值而非设计参考价值"
+    design_tags: ["紧凑键盘", "圆角键帽", "米白配色", "场景化摄影", "木纹背景", "H07极简整合"]
+    hero_feature: "薄型机身+米白配色在木纹桌面的自然融合感"
+    problem_solved: "桌面场景融合，键盘作为桌面配件而非工具的定位传达"
+    transferable_technique: "产品与自然材质（木/石）背景的场景搭配策略，强化温暖日常调性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

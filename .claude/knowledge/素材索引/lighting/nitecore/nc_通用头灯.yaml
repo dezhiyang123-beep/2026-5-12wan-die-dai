@@ -1,0 +1,359 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "头灯"
+  tertiary: "通用头灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/通用头灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_通用头灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/通用头灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "小型方形灯头，4颗LED 2×2阵列，反光杯清晰可见，配编织绳头带而非织带"
+    product_name: "Nitecore NU系列 通用头灯（编织绳款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "通用头灯"]
+    design_language:
+      silhouette: "紧凑正方形灯头，比例接近1:1，小巧轻便，侧面有单个圆形旋钮"
+      light_opening: "4颗LED 2×2方阵，反光杯外露清晰，聚光感强"
+      thermal: "无专用散热结构，小体积自然散热"
+      cmf:
+        color: "深灰/黑色主体，黑白反光编织绳头带（无品牌黄色）"
+        material: "工程塑料，编织绳头带"
+        finish: "哑光深灰"
+      mounting: "编织绳穿过灯头两侧小孔，区别于织带卡扣式，更轻量但调节灵活性低"
+      signature_detail: "编织绳头带替代织带，轻量户外风格，侧面旋钮操控"
+    design_level:
+      score: 3
+      reason: "编织绳头带是本款最大差异点，赋予户外轻量感，灯头紧凑但造型无突出记忆点"
+    design_tags: ["编织绳头带", "轻量", "紧凑方形", "户外跑步", "充电式"]
+    hero_feature: "编织绳头带 + 紧凑方形灯头，轻量跑步/徒步头灯形态"
+    problem_solved: "跑步、轻量徒步场景要求灯头重量最小化，编织绳比织带更轻"
+    transferable_technique: "编织绳替代织带作为头带材料，在重量与耐用性之间取得平衡"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_通用头灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/通用头灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "极小帽夹式头灯，黑白黄三色配色，侧面摄像头状传感器，无头带，帽沿夹具"
+    product_name: "Nitecore NU05 帽夹式头灯"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "通用头灯"]
+    design_language:
+      silhouette: "极小矩形体，无传统头带，整体为帽沿夹夹具形态，配黑白黄配色"
+      light_opening: "双光源：左侧透镜主灯 + 右侧黑色方形传感器/摄像头单元，前脸不对称"
+      thermal: "无专用散热结构，极小体积低功耗"
+      cmf:
+        color: "白色主体 + 黑色功能模块 + 黄色品牌色点缀"
+        material: "工程塑料，金属帽夹弹簧"
+        finish: "光面白色主体，哑光黑功能区"
+      mounting: "帽夹弹簧夹具固定在帽沿，无头带，非传统佩戴方式"
+      signature_detail: "帽夹固定方式 + 白黑黄三色配色 + 摄像头状传感器，形态异类感强"
+    design_level:
+      score: 4
+      reason: "品类假设挑战款：去掉头带的头灯，形态颠覆性强，帽夹固定方式独特"
+    design_tags: ["帽夹式", "无头带", "传感器模块", "白黑黄配色", "城市骑行"]
+    hero_feature: "完全放弃头带的帽夹固定方式，开辟头灯品类的非传统佩戴场景"
+    problem_solved: "已佩戴帽子情况下不愿额外套头带的城市通勤/骑行轻度照明需求"
+    transferable_technique: "帽夹夹具作为固定方式的品类跨越，可迁移至其他可穿戴照明附件设计"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_通用头灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/通用头灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "小型双灯方形灯头，反射镜 + COB双光源，全黑配色，编织绳头带"
+    product_name: "Nitecore NU25 通用头灯（双光源款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "通用头灯"]
+    design_language:
+      silhouette: "小型方形灯头，前脸两个灯开口左右排列，右侧为COB漫射光源，比例扁宽"
+      light_opening: "左侧聚光反射杯 + 右侧方形COB漫射光源，双光源功能分区明确"
+      thermal: "无专用散热结构"
+      cmf:
+        color: "全黑配色，无品牌黄色，配黑白编织绳头带"
+        material: "工程塑料，编织绳头带"
+        finish: "哑光全黑"
+      mounting: "编织绳穿过灯头侧孔，轻量固定"
+      signature_detail: "聚光+漫射双光源左右并排，前脸功能分区可视化"
+    design_level:
+      score: 3
+      reason: "双光源分区设计有功能价值，全黑配色低调，编织绳轻量，整体形态功能主导"
+    design_tags: ["双光源", "聚光漫射", "全黑配色", "轻量徒步", "充电式"]
+    hero_feature: "聚光反射杯 + COB漫射并排，一灯双用场景切换直观"
+    problem_solved: "需要在聚光（远距导航）和漫射（近距阅读/营地）之间快速切换的户外场景"
+    transferable_technique: "聚光与漫射双光源并排的功能可视化布局，可迁移至多模式工作灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_通用头灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/通用头灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "中型4LED方阵灯头（同nc_通用头灯_001近似款），黑底黄边织带，标准织带版"
+    product_name: "Nitecore NU系列 通用头灯（织带版）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "通用头灯"]
+    design_language:
+      silhouette: "紧凑正方形灯头，与001款形态相似但配标准黑底黄边品牌织带"
+      light_opening: "4颗LED 2×2方阵，反光杯清晰，聚光设计"
+      thermal: "无专用散热结构"
+      cmf:
+        color: "深灰黑色灯头，黑底黄边品牌织带"
+        material: "工程塑料，织物头带"
+        finish: "哑光深灰"
+      mounting: "标准织带卡扣连接，可调节松紧"
+      signature_detail: "与编织绳版灯头相同，通过头带材质区分产品线定位"
+    design_level:
+      score: 2
+      reason: "与001款灯头高度相似，差异仅在头带材质，造型本身无新增亮点"
+    design_tags: ["织带版", "标准头带", "2×2 LED", "通用户外", "充电式"]
+    hero_feature: "同款灯头的织带版本，品牌黄边头带强化系列识别"
+    problem_solved: "对头带松紧调节有要求的用户，织带卡扣调节比编织绳更方便"
+    transferable_technique: "同一灯头通过头带材质区分产品线，低成本实现SKU差异化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_通用头灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/通用头灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "中型矩形灯头，3LED横排（1大2小），NU43型号可见，黑底黄边织带"
+    product_name: "Nitecore NU43 通用头灯"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "通用头灯"]
+    design_language:
+      silhouette: "标准矩形灯头，比小型款略宽，3LED布局（主灯居中+两侧辅灯），侧面有USB口"
+      light_opening: "1颗大主灯居中 + 2颗小辅灯两侧横排，功能主次分明"
+      thermal: "无专用散热结构"
+      cmf:
+        color: "黑色主体，黑底黄边头带，侧面有USB-C口"
+        material: "工程塑料，织物头带"
+        finish: "哑光黑"
+      mounting: "标准织带卡扣，侧面转动铰接调仰角"
+      signature_detail: "主辅灯明确分级的横排布局 + 侧面USB-C充电口位置外露"
+    design_level:
+      score: 3
+      reason: "主辅灯分级清晰，USB-C充电是实用加分点，形态中规中矩"
+    design_tags: ["主辅灯分级", "USB-C充电", "中型", "通用户外", "仰角可调"]
+    hero_feature: "主灯+双辅灯功能分级布局，近远光切换逻辑直观"
+    problem_solved: "徒步宿营全场景，需要在远距导航（主灯）和近距作业（辅灯）间切换"
+    transferable_technique: "主辅灯视觉分级（大小差异）传达功能优先级，可迁移至多光源工作灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_通用头灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/通用头灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "小型双灯灯头，2LED左右排布，灯头可俯仰大角度旋转，黑底黄边宽织带"
+    product_name: "Nitecore ES1N 通用头灯（大角度仰调款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "通用头灯"]
+    design_language:
+      silhouette: "小型双灯灯头，铰接机构明显外露，灯头与头带连接件尺寸比灯头本身大，结构感强"
+      light_opening: "2颗LED左右排列，1聚光+1辅助，前脸简洁"
+      thermal: "无专用散热结构"
+      cmf:
+        color: "黑色灯头，黑底黄边宽织带，铰接件深灰色"
+        material: "工程塑料，织物头带"
+        finish: "哑光黑"
+      mounting: "外露大型铰接枢纽，允许灯头大范围仰俯旋转，角度锁定明确"
+      signature_detail: "外露铰接枢纽比灯头更显眼，将结构功能变为视觉识别点"
+    design_level:
+      score: 3
+      reason: "外露铰接结构有设计诚意，角度调节自由度高，但铰接件与灯头比例失衡略显粗笨"
+    design_tags: ["大角度仰调", "外露铰接", "双灯", "结构外显", "徒步攀岩"]
+    hero_feature: "夸张的外露铰接枢纽允许极大仰角范围，满足攀岩/工作抬头低头场景"
+    problem_solved: "需要灯头角度频繁大范围调节的场景（攀岩、工作俯仰切换）"
+    transferable_technique: "将铰接结构外显为设计语言而非藏起，功能结构即是设计细节"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_通用头灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/通用头灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "中型矩形灯头，3LED横排，顶部醒目黄色大按键，全黄色头带，正面黄黑对比强"
+    product_name: "Nitecore UT系列 通用头灯（全黄带款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "通用头灯"]
+    design_language:
+      silhouette: "标准矩形灯头，深灰黑色主体，顶部双黄色按键明显突出，正视角黑黄对比强烈"
+      light_opening: "3颗LED横排（含1颗COB），灯面宽扁，左侧LED+右侧COB双模式"
+      thermal: "无专用散热结构"
+      cmf:
+        color: "黑色灯头 + 黄色按键 + 全黄色织带（跑步款标志性配色）"
+        material: "工程塑料，全黄色弹性织带"
+        finish: "哑光黑灯头，鲜艳黄色头带"
+      mounting: "全黄色弹性织带，弹力材质适合跑步运动中头部移动"
+      signature_detail: "全黄色弹性头带 + 双黄色操控按键，强烈运动感配色"
+    design_level:
+      score: 4
+      reason: "全黄头带在Nitecore系列中属差异款，运动感强，黄键与黄带的品牌色统一感好"
+    design_tags: ["全黄头带", "运动跑步", "弹性织带", "双按键", "城市跑步"]
+    hero_feature: "全黄弹性头带 + 黄色双按键，强烈运动感配色与功能操控高度统一"
+    problem_solved: "跑步场景头带需弹性贴合且不易滑动，黄色高可见度提升夜跑安全性"
+    transferable_technique: "弹性头带材质 + 高可见度配色组合，运动安全与功能性的设计统一"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_通用头灯_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/通用头灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "超宽超长矩形灯头（HU2000），8颗以上LED大阵列，黑底黄边宽头带带磁吸充电线"
+    product_name: "Nitecore HU2000 超宽幅通用头灯"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "通用头灯"]
+    design_language:
+      silhouette: "超宽超长矩形灯头，横向跨度占满头部宽度，厚度薄但宽度极大，整体如横条"
+      light_opening: "多颗LED大阵列，灯面几乎等于灯头正面全部面积，照明覆盖宽广"
+      thermal: "无专用外置散热结构，灯头大面积被动散热"
+      cmf:
+        color: "铝合金银色边框 + 黑色灯面，黑底黄边宽头带，随附磁吸充电线"
+        material: "铝合金边框 + 工程塑料，织物宽头带"
+        finish: "铝合金拉丝边框，哑光黑灯面"
+      mounting: "宽头带两端锁扣，灯头尺寸几乎与头部等宽，贴合感强"
+      signature_detail: "超宽横条灯头形态 + 铝合金边框 + 随附磁吸充电线，旗舰感强"
+    design_level:
+      score: 5
+      reason: "超宽横条比例是本系列最有记忆点的形态，铝合金边框提升质感，磁吸充电细节加分"
+    design_tags: ["超宽横条", "旗舰款", "铝合金边框", "大阵列LED", "磁吸充电"]
+    hero_feature: "超宽横条灯头形态与铝合金边框，旗舰视觉语言在头灯品类中极具记忆点"
+    problem_solved: "极高亮度需求的探险/搜救场景，宽幅光带覆盖极大水平角度"
+    transferable_technique: "超宽横条比例颠覆头灯常规方形比例，可迁移至需要宽视角照射的工作灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_通用头灯_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/通用头灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "中大型矩形灯头，5+LED阵列，黑色主体，点状图案黑白头带，非品牌黄带"
+    product_name: "Nitecore NU系列 通用头灯（点阵印花头带款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "通用头灯"]
+    design_language:
+      silhouette: "中大型矩形灯头，顶部有单个功能按键，整体黑色，与点状图案黑白头带搭配"
+      light_opening: "5颗以上LED多模式阵列（含白光+色温混合），前脸密度中等"
+      thermal: "无专用散热结构"
+      cmf:
+        color: "全黑灯头，黑白点阵印花头带（区别于品牌标准黄边带）"
+        material: "工程塑料，印花弹性织带"
+        finish: "哑光全黑，头带印花质感"
+      mounting: "弹性印花织带，搭扣调节"
+      signature_detail: "点阵几何印花头带替代标准黄边带，运动时尚感强"
+    design_level:
+      score: 3
+      reason: "印花头带在头灯品类中属少见设计处理，时尚感有，但灯头本身形态平庸"
+    design_tags: ["印花头带", "运动时尚", "多模式", "弹性织带", "跑步"]
+    hero_feature: "几何点阵印花弹性头带，在功能型头灯中引入时尚设计语言"
+    problem_solved: "追求个性化外观的运动用户，不满足于纯黑功能感头带"
+    transferable_technique: "头带印花图案作为低成本差异化手段，不改变灯头形态即可区分SKU"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_通用头灯_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/通用头灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "UT27型号正面视角，3颗大LED（2+1布局），顶部全宽黄色双按键，全黄色宽织带正面对称构图"
+    product_name: "Nitecore UT27 通用头灯"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "通用头灯"]
+    design_language:
+      silhouette: "标准矩形灯头正面，3颗大直径LED（左右2颗主灯+中间1颗补光），按键横跨灯头顶部全宽"
+      light_opening: "3颗大直径LED 2+1布局，反光杯直径大，聚光能力强，正面视觉张力高"
+      thermal: "无专用散热结构，3颗大LED灯头体积相应增大"
+      cmf:
+        color: "深灰/黑色灯头，顶部全幅黄色双按键，全黄色弹性宽织带"
+        material: "工程塑料，全黄色弹性宽织带"
+        finish: "哑光深灰灯头，鲜艳黄色头带与按键"
+      mounting: "全黄色弹性宽织带，宽度比标准款更宽，跑步稳定性更好"
+      signature_detail: "顶部全宽黄色双按键横跨灯头整个上沿，操控区视觉重量与灯面平衡"
+    design_level:
+      score: 4
+      reason: "全宽黄色双按键设计有独特性，3颗大LED正面视觉有力量感，全黄配色系列一致"
+    design_tags: ["全宽双按键", "3大LED", "全黄配色", "跑步旗舰", "弹性宽带"]
+    hero_feature: "贯穿灯头顶部全宽的黄色双按键 + 全黄弹性宽带，强烈的跑步旗舰视觉语言"
+    problem_solved: "高强度跑步场景对头带稳定性要求高，宽弹力带防滑，大LED远距照明"
+    transferable_technique: "全宽操控按键横条作为视觉分割线，将灯头正面一分为二（操控区+光源区）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

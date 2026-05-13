@@ -1,0 +1,597 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "户外灯"
+  tertiary: "泛光灯"
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "bega_户外_泛光灯_001"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "紧凑型圆形泛光灯，正面可见COB LED与同心圆刻纹反射镜，深黑色机身，低矮转轴底座"
+    product_name: "BEGA 紧凑圆形泛光灯（小型）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "圆形灯头，直径与厚度比约1:0.6，正面大开口占轮廓80%以上；短颈转轴连接圆柱底座"
+      light_opening: "单COB LED，同心圆刻纹玻璃透镜，约30°-45°中角束光，无遮光板"
+      thermal: "铸铝一体机身，外壳光滑无散热鳍片，热量通过整体铸件散出"
+      cmf:
+        color: "哑光黑（graphite black）"
+        material: "铸铝"
+        finish: "细砂纹粉末涂层"
+      mounting: "圆柱底座固定安装（surface/ground base），中心转轴可调仰角"
+      signature_detail: "超薄圆环边框使灯头正面开口视觉最大化；COB中心点与同心纹反射镜形成类摄影镜头的精密感"
+    design_level:
+      score: 4
+      reason: "比例高度精炼，圆形灯头与底座形成明确的主从关系；镜片与外框的公差质感突出BEGA德系精工"
+    design_tags:
+      - "圆形灯头"
+      - "COB单点光源"
+      - "同心圆反射镜"
+      - "底座转轴"
+      - "紧凑型"
+      - "极简造型"
+      - "H07极简整合"
+    hero_feature: "圆形大开口灯头与超薄边框构成的镜头感造型——黑色机身衬托出玻璃反射镜的精密光学细节"
+    problem_solved: "小尺寸泛光灯需要在紧凑体量内传达专业光学品质；圆形轮廓与镜头意象使产品在花园/景观中兼具功能性与雕塑感"
+    transferable_technique: "圆形灯头+超薄金属边框+光学组件外露的「镜头脸」设计语言可迁移至小型景观射灯、手持探照灯等品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_泛光灯_002"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "中等尺寸圆鼓形灯头，开口内可见深碗形肋骨状反射镜与中心LED点，石墨灰机身，转轴底座"
+    product_name: "BEGA 圆鼓形泛光灯（中型）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "圆鼓形灯头，厚度明显大于003款，深度感强；前端开口直径与侧面厚度约1:0.8；短颈转轴连接圆柱底座"
+      light_opening: "深碗形开口，内壁密集竖向肋骨状反射器，中心单LED点光源，约25°-35°窄至中角束光，无防眩玻璃"
+      thermal: "厚壁铸铝机身，整体热容量大，无外露散热鳍"
+      cmf:
+        color: "石墨灰（dark graphite）"
+        material: "铸铝"
+        finish: "细砂纹粉末涂层"
+      mounting: "圆柱底座固定安装，中心转轴可调仰角，底座有固定螺丝"
+      signature_detail: "深碗反射腔内的竖向肋骨形成强烈光学纹理；灯头厚度赋予稳重感，区别于薄型射灯"
+    design_level:
+      score: 4
+      reason: "深腔造型具有极强的光学功能表达；比例比003款更厚重，适合强调力量感的户外场景"
+    design_tags:
+      - "圆鼓形灯头"
+      - "深碗反射腔"
+      - "肋骨状内壁"
+      - "底座转轴"
+      - "中型"
+      - "H11功能外显"
+    hero_feature: "深碗开口内的密集竖向肋骨反射器——未点亮时已呈现强烈的光学机械感"
+    problem_solved: "中等功率泛光需要控制光束角同时保持美观；深腔结构天然防眩光，肋骨内壁提升反射效率"
+    transferable_technique: "深腔+肋骨内壁反射器的造型语言可迁移至手电筒、舞台灯、工业灯具的开口设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_泛光灯_003"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "大型矩形面板泛光灯，正面满铺密集方格微透镜阵列，哑光深灰机身，底部转轴连接圆形地台底座"
+    product_name: "BEGA 大型矩形微透镜阵列泛光灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "竖向矩形平板，宽高比约2:3；厚度纤薄（约1/8宽度）；底部单轴转轴连接圆柱底台"
+      light_opening: "全面板微透镜矩阵（约10列×12行），每颗透镜为正方形截面凸面体，宽角泛光约60°-90°，均匀面光源效果"
+      thermal: "薄板铸铝背板兼作散热体，无外露鳍片；面板内部LED模组均匀排布"
+      cmf:
+        color: "深石墨灰"
+        material: "铸铝机身，PC/玻璃微透镜面板"
+        finish: "砂纹粉末涂层（机身），光学级透明（面板）"
+      mounting: "圆形铸铝底台固定，单轴转轴可调倾角，适合地面竖立安装"
+      signature_detail: "密集方格微透镜矩阵在黑色边框内形成几何秩序感；整体呈「光学屏幕」视觉隐喻"
+    design_level:
+      score: 5
+      reason: "微透镜矩阵面板设计极具视觉辨识度，功能与美学高度统一；矩形比例与底座关系精炼；BEGA高端产品线标杆"
+    design_tags:
+      - "矩形面板"
+      - "微透镜阵列"
+      - "宽角泛光"
+      - "底座转轴"
+      - "大型"
+      - "H04参数化"
+      - "H07极简整合"
+    hero_feature: "全面板密集方格微透镜矩阵——产品的核心视觉语言，赋予大型泛光灯「光学仪器」的精密感"
+    problem_solved: "大型户外泛光需要均匀宽角配光同时避免眩光；微透镜矩阵实现均匀漫射并在美学上将功能组件转化为装饰纹理"
+    transferable_technique: "微透镜/微棱镜矩阵作为泛光灯面板的设计语言可迁移至建筑泛光、足球场照明、大型广告牌背光等高功率均匀照明产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_泛光灯_004"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "筒形/炮管造型泛光灯，长圆柱体灯头水平延伸，前端透明玻璃镜，后端球形转轴连接底座"
+    product_name: "BEGA 筒形窄束泛光灯（投影型）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "长圆柱体灯头（长径比约2.5:1），整体呈「炮管/望远镜」轮廓；球形转节连接转轴与圆柱底台"
+      light_opening: "圆形前端平面透明玻璃镜，内部可见折射光学组件；约10°-20°窄束聚光，适合远距离投射"
+      thermal: "圆柱铸铝机身整体散热，无外露鳍片；细长体型增大表面积"
+      cmf:
+        color: "哑光黑"
+        material: "铸铝"
+        finish: "细砂纹粉末涂层"
+      mounting: "圆柱底台固定，球形转节实现360°水平+垂直双轴调角"
+      signature_detail: "炮管比例在户外灯中极具辨识度；球形转节是功能细节中的设计亮点，暗示高精度瞄准能力"
+    design_level:
+      score: 4
+      reason: "造型与功能高度一致（窄束=长筒），球形转节是精工细节；在同类产品中轮廓识别度极高"
+    design_tags:
+      - "筒形炮管造型"
+      - "窄束聚光"
+      - "球形转节"
+      - "底座转轴"
+      - "投影型"
+      - "H11功能外显"
+    hero_feature: "长圆柱炮管轮廓——在视觉上直接传达「精准投射」的功能意图，无需说明"
+    problem_solved: "景观照明中远距离树木/建筑立面的精准投射；炮管造型使光束方向调节的操作意图一目了然"
+    transferable_technique: "长筒比例+球形转节的「精准瞄准」视觉语言可迁移至激光测距仪、野外观测设备、高端手电外壳设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_泛光灯_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "大型圆形多LED泛光灯，圆形灯面内6颗独立抛物反射碗呈梅花形排列，每碗中心一颗LED，石墨灰外壳，不锈钢U形支架"
+    product_name: "BEGA 大型圆形多模组泛光灯（6 LED）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "大圆盘形灯头，厚度约为直径的1/4；侧面呈浅圆鼓形；不锈钢方管U形支架从底部两侧支撑"
+      light_opening: "6颗独立抛物反射碗（PAR型），梅花/骰子五点排列，每碗单LED暖白光，约25°-40°各独立光束，合并约60°-80°宽角均匀泛光"
+      thermal: "大尺寸铸铝圆盘机身兼散热体，各LED模组有独立热路；不锈钢支架不参与散热"
+      cmf:
+        color: "深石墨灰（机身）+ 拉丝不锈钢（支架）"
+        material: "铸铝机身，抛光铝反射碗，不锈钢支架"
+        finish: "砂纹涂层（机身），抛光（反射碗），拉丝（支架）"
+      mounting: "不锈钢U形落地支架，可调倾角；适合地面/台座安装"
+      signature_detail: "6颗均匀间距的抛物碗在黑色大圆盘内呈现强烈的光学阵列美学，BEGA标识位于下方边框"
+    design_level:
+      score: 5
+      reason: "多模组阵列在圆形外框内的排布比例精确；不锈钢U支架与石墨灰机身的材质对比是BEGA高端线的典型语言；整体兼具雕塑感与工程感"
+    design_tags:
+      - "圆形大灯盘"
+      - "多模组阵列"
+      - "抛物反射碗"
+      - "U形不锈钢支架"
+      - "大型高功率"
+      - "H04参数化"
+      - "H10材料表达"
+    hero_feature: "6颗抛物反射碗的梅花阵列——视觉上类似专业摄影/电影灯的多灯泡配置，在大圆盘内形成精确的几何秩序"
+    problem_solved: "大功率户外泛光需要高流明同时避免单点眩光；多模组分散热量并通过各光束叠加实现均匀宽泛光"
+    transferable_technique: "圆形大外框+多模组阵列的视觉语言可迁移至大型舞台追光、体育场泛光灯、海洋探照灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_泛光灯_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "大型方形面板泛光灯，2×4格透明刻纹LED面板，厚实黑色铸铝机身分上下两段，圆形铰链转轴与不锈钢U形落地支架"
+    product_name: "BEGA 大型方形面板泛光灯（2×4模组）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "近方形平板灯头（宽高比约1:1.1），面板区与后壳分为上下两段，边框有明显厚度；不锈钢U形支架从下方铰接"
+      light_opening: "2列×4行共8个独立LED模组，每模组有刻纹矩形扩散透镜，光束叠加约60°-100°宽泛光，均匀无暗区"
+      thermal: "厚壁铸铝后壳作为主散热体；下半段更厚，内含驱动电源模组；左右各一圆形铰链轴"
+      cmf:
+        color: "深石墨灰（机身）+ 拉丝不锈钢（支架）"
+        material: "铸铝机身，PC刻纹扩散透镜，不锈钢支架"
+        finish: "砂纹涂层（机身），光学扩散（面板），拉丝（支架）"
+      mounting: "不锈钢U形落地/台座支架，两侧圆铰链可调倾角"
+      signature_detail: "上下两段机身的分件线将光学模组区与电源模组区在视觉上清晰分离；8格透明面板通过刻纹透镜实现均匀泛光"
+    design_level:
+      score: 4
+      reason: "模块化分区明确，功能逻辑可读；不锈钢支架与铸铝机身材质对比延续BEGA一贯语言；比003款微透镜阵列设计感略弱但实用性更强"
+    design_tags:
+      - "方形面板"
+      - "多模组LED"
+      - "刻纹扩散透镜"
+      - "U形不锈钢支架"
+      - "大型高功率"
+      - "H05模块化"
+      - "H10材料表达"
+    hero_feature: "2×4 LED模组的方格面板——在大型泛光灯中呈现规整的工程模块美学，与不锈钢支架形成精工对比"
+    problem_solved: "大功率户外场所（运动场、停车场、建筑立面）需要高流明均匀宽角泛光；模组化设计便于维护和功率扩展"
+    transferable_technique: "方形面板+矩形模组分区+材质对比支架的语言可迁移至工业级投光灯、建筑泛光设备、应急照明塔"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_泛光灯_007"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "壁装双头泛光灯，细长矩形背板中央印BEGA标识，两端各铰接一个圆柱形射灯头，每头正面可见COB LED，哑光黑"
+    product_name: "BEGA 壁装双头圆柱泛光灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "细长矩形背板（宽长比约1:4）横向延伸，两端对称铰接圆柱灯头；整体呈哑铃/双联造型"
+      light_opening: "每个圆柱头正面单COB LED，开口直径约为灯头直径80%，约30°-45°中角束光；两头可独立旋转调向"
+      thermal: "铸铝背板与圆柱灯头均为散热体；背板与墙面之间保持空气间隙"
+      cmf:
+        color: "哑光黑"
+        material: "铸铝"
+        finish: "细砂纹粉末涂层"
+      mounting: "壁装，背板固定于墙面，两端铰链可各自调节投射方向"
+      signature_detail: "背板中央的凸印BEGA字样是品牌签名式的克制用法；双头对称排布赋予产品强烈的轴对称美感"
+    design_level:
+      score: 4
+      reason: "双头对称造型简洁优雅；壁装背板比例极为精炼；将双光源整合为单件产品时依然保持视觉轻巧"
+    design_tags:
+      - "壁装"
+      - "双头对称"
+      - "圆柱灯头"
+      - "COB单点光源"
+      - "哑铃造型"
+      - "H07极简整合"
+      - "H08对比强调"
+    hero_feature: "细长背板+双圆柱头的哑铃轮廓——通过极简几何组合实现双向独立投光，造型即功能说明"
+    problem_solved: "门廊/入口双向照明需求；单件壁灯同时覆盖左右两侧，安装点减半，布线简化"
+    transferable_technique: "细背板+两端对称灯头的「哑铃挂杆」结构可迁移至浴室镜前灯、展览射灯轨道、自行车尾灯多灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_泛光灯_008"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "三联地插式圆柱射灯组合，三个相同圆柱灯头各自独立插杆底座，橡胶线串联，BEGA标识可见，石墨灰"
+    product_name: "BEGA 三联地插式圆柱射灯组"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "三个独立圆柱灯头（高径比约2:1），各自安装于细管插杆+圆形底盘；灯头正面开口带透明平面玻璃；组合呈列阵"
+      light_opening: "每头正面单COB LED，平面保护玻璃+内部透镜，约25°-40°中窄角束光；三头独立可调方向"
+      thermal: "圆柱铸铝机身散热；细长插杆为不锈钢或铸铝"
+      cmf:
+        color: "深石墨灰"
+        material: "铸铝灯头，细管插杆，橡胶防水线缆"
+        finish: "砂纹粉末涂层"
+      mounting: "地插式（spike mount），圆形底盘稳固，黑色橡胶线缆串联供电"
+      signature_detail: "三联地插的线缆串联设计使多灯安装只需单点布线引出；圆柱灯头比例在小尺寸下依然保持精炼"
+    design_level:
+      score: 4
+      reason: "模块化串联系统概念清晰；单个灯头造型精炼；地插底盘+细杆+圆柱头的比例关系在园林照明中具有独特的雕塑感"
+    design_tags:
+      - "地插式"
+      - "圆柱灯头"
+      - "三联串联"
+      - "COB单点光源"
+      - "园林射灯"
+      - "H05模块化"
+    hero_feature: "三联地插串联系统——模块化布置与单线供电结合，安装灵活且线缆管理整洁"
+    problem_solved: "园林步道/树木群多点定向照明；地插式安装无需钻墙，串联供电减少布线工程量"
+    transferable_technique: "地插+细杆+串联供电的「菊花链」布线方式可迁移至园林彩灯系统、低压景观射灯、活动临时照明设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_泛光灯_009"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "单个地插式扩口圆锥射灯，喇叭形灯头开口朝上倾斜，内壁可见密集竖向肋骨反射器，低矮插杆底座，橡胶线缆，石墨灰"
+    product_name: "BEGA 地插式扩口圆锥射灯（单头）"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "喇叭/扩口圆锥形灯头，开口端直径明显大于底端；短粗插杆+扁圆底盘；侧面橡胶线缆从底盘引出"
+      light_opening: "扩口开口无防护玻璃，内壁密集竖向肋骨铝反射器，中心小直径LED模组；约30°-60°中宽角束光，适合向上照树/建筑"
+      thermal: "圆锥铸铝机身，锥形扩口增大散热面积"
+      cmf:
+        color: "深石墨灰"
+        material: "铸铝"
+        finish: "砂纹粉末涂层"
+      mounting: "地插式（spike mount），短粗插杆固定于土地，底盘可旋转调方向"
+      signature_detail: "扩口喇叭形轮廓与内部肋骨反射器的组合呈现强烈的光学喇叭意象；形态直接暗示光束向上扩散方向"
+    design_level:
+      score: 4
+      reason: "喇叭轮廓与功能完美统一（上投光=开口朝上扩大）；内壁肋骨在开口处显露形成视觉焦点；与004款深碗形成同族语言"
+    design_tags:
+      - "地插式"
+      - "扩口圆锥形"
+      - "肋骨内壁反射器"
+      - "上投光"
+      - "单头"
+      - "H11功能外显"
+      - "H06仿生"
+    hero_feature: "喇叭形扩口轮廓——形态即功能说明（向上扩散照树），无需说明书理解"
+    problem_solved: "园林树木/灌木向上投光；扩口造型使安装者直观理解投光方向，现场调整快速"
+    transferable_technique: "扩口喇叭形+内壁反射肋骨的造型语言可迁移至上投光地灯、汽车雾灯、广角扩音器等需要「扩散」意图的产品设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_泛光灯_010"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "截锥形上投光地灯（较大），无玻璃防护，开口朝上，内腔银色反射碗，底部橡胶线缆，哑光黑外壳"
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/14.jpg"
+        image_role: "alternate"
+        visual_anchor: "同款截锥形上投光地灯（较小或不同视角），无线缆，开口朝上，内腔银色反射碗，哑光黑外壳"
+    product_name: "BEGA 截锥形上投光地灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "正截锥体，顶面开口直径大于底面；高宽比约1:1.2，矮胖稳重；无外露支架，直接落地/埋地边缘放置"
+      light_opening: "开口无防护玻璃，内腔粗糙银色铝反射碗，中心小直径LED模组，约60°-100°宽角上射泛光"
+      thermal: "铸铝截锥体整体散热，锥面增大散热表面积"
+      cmf:
+        color: "哑光黑（外壁）+ 银色（内腔）"
+        material: "铸铝"
+        finish: "砂纹粉末涂层（外），粗糙漫反射铝（内腔）"
+      mounting: "地面直放或浅埋边缘固定；12.jpg带线缆引出，14.jpg无线缆（可能展示纯体型）"
+      signature_detail: "外黑内银的截锥体形成强烈色彩对比；简洁截锥几何在园林中具有雕塑感；粗糙内壁形成漫射宽角上射"
+    design_level:
+      score: 4
+      reason: "截锥几何极度克制，无多余细节；外黑内银的对比在视觉上将光源引导至开口处；园林中功能与雕塑感统一"
+    design_tags:
+      - "截锥形"
+      - "上投光"
+      - "地面放置"
+      - "宽角泛光"
+      - "外黑内银"
+      - "H07极简整合"
+      - "H10材料表达"
+    hero_feature: "外黑内银截锥体——纯几何造型在暗夜中成为光的出口；内腔银色与黑色外壁的对比即是光的视觉预告"
+    problem_solved: "地面向上漫射宽泛光（地被植物/草坪/立面下沿）；截锥形低重心放置稳定，无需固定件也不易翻倒"
+    transferable_technique: "截锥体+外黑内亮的对比造型语言可迁移至蜡烛台、便携音箱出声口、花盆/种植钵的设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "12.jpg与14.jpg造型高度一致但尺寸/角度存在细微差异，可能是同款不同尺寸型号，建议核实是否需拆分为两个独立产品条目"
+
+  - product_id: "bega_户外_泛光灯_011"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "线形壁装泛光灯，长矩形LED灯条机身（黑色）安装于可折叠不锈钢壁支架，LED侧面下照，支架与机身成L形或斜撑状"
+    product_name: "BEGA 线形壁装折叠支架泛光灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "长矩形截面LED光条（灯体），安装于不锈钢U形折叠臂支架；折叠臂与墙面形成可调角度，整体呈斜撑结构"
+      light_opening: "线性LED阵列（多颗独立透镜排列在矩形条内），侧向/下向配光，约45°-90°宽角，适合建筑立面线形泛光"
+      thermal: "矩形铝型材光条兼作散热；折叠支架为不锈钢，不参与散热"
+      cmf:
+        color: "深石墨灰/黑（灯体）+ 拉丝不锈钢（支架）"
+        material: "铝型材灯体，不锈钢支架"
+        finish: "砂纹涂层（灯体），拉丝（支架）"
+      mounting: "壁装，不锈钢折叠臂从墙面伸出，末端铰接灯体；支架可调出挑长度和灯体角度"
+      signature_detail: "折叠臂支架的工程机械感与线形灯体的现代建筑语言形成对比；铰接节点的精工细节是BEGA典型的「可见工程」语言"
+    design_level:
+      score: 4
+      reason: "折叠支架+线形灯体的组合在建筑泛光中兼具功能灵活性与视觉精炼；材质对比突出；铰接细节体现高制造品质"
+    design_tags:
+      - "壁装"
+      - "折叠支架"
+      - "线形LED"
+      - "不锈钢支架"
+      - "建筑泛光"
+      - "H05模块化"
+      - "H10材料表达"
+      - "H09隐藏工程"
+    hero_feature: "可折叠不锈钢斜撑支架——工程结构美学外露，铰接节点的精确度传达BEGA「高端工程灯具」的品牌语义"
+    problem_solved: "建筑外立面/檐口下长距离线形泛光；折叠支架便于安装后微调出挑角度，适应不同安装位置"
+    transferable_technique: "折叠铰接支架+线形灯体的壁装方案可迁移至可调工作灯、阅读灯臂、医疗检查灯悬臂、展览射灯轨道"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_泛光灯_012"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "大型球壳形泛光灯，超宽浅碗式圆形灯头，开口内可见宽角反射镜与肋骨纹理及中心COB，哑光黑机身，转轴底座，白底图"
+    product_name: "BEGA 大型球壳形宽角泛光灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "大型浅碗/半球形灯头（开口直径远大于深度），宽扁比例与003/004款成族；转轴铰接节点与短底柱"
+      light_opening: "超宽浅碗开口，宽角反射镜内壁有放射状肋骨纹理，中心单COB，约60°-90°宽角泛光"
+      thermal: "大直径铸铝浅碗机身兼散热；表面积大，自然对流散热效率高"
+      cmf:
+        color: "哑光黑"
+        material: "铸铝"
+        finish: "砂纹粉末涂层"
+      mounting: "转轴底座固定安装，可调仰角"
+      signature_detail: "超宽开口与极浅深度的比例在圆形泛光灯中极具辨识度；放射状内壁肋骨在宽大开口内形成强烈视觉焦点"
+    design_level:
+      score: 4
+      reason: "大直径浅碗比例极具张力，是003/004族中最极端的比例表达；与其他型号共享的转轴底座语言强化了族群感"
+    design_tags:
+      - "大型球壳形"
+      - "宽角泛光"
+      - "放射状内壁肋骨"
+      - "底座转轴"
+      - "浅碗造型"
+      - "H11功能外显"
+    hero_feature: "超宽浅碗形——直径与深度的极端比例在视觉上直接传达「宽角大面积泛光」的功能意图"
+    problem_solved: "大面积地面/植被宽角均匀泛光，如草坪、广场；浅碗造型在大功率下提供宽角配光，避免高亮点眩光"
+    transferable_technique: "超宽浅碗比例+放射肋骨内壁的泛光语言可迁移至大功率LED路灯灯头、舞台泛光灯、工矿灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bega_户外_泛光灯_013"
+    source_images:
+      - filename: "126.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/bega/户外灯/泛光灯/126.jpg"
+        image_role: "hero"
+        visual_anchor: "埋地圆形嵌入式上照灯，圆形拉丝不锈钢面框（6颗螺丝），内嵌单COB LED与刻纹反射镜，下部黑色圆筒地下体，深灰背景"
+    product_name: "BEGA 埋地圆形嵌入式上照灯"
+    brand_name: "BEGA"
+    brand_confidence: "high"
+    category_path:
+      - "灯具"
+      - "户外灯"
+      - "泛光灯"
+    design_language:
+      silhouette: "圆形面框嵌入地面，仅面框可见；面框有明显厚度感（约10-15mm）；6颗均匀分布十字槽螺丝；下部圆筒深埋"
+      light_opening: "圆形开口内单COB LED，深腔内有刻纹锥形反射镜，约15°-30°窄至中角上射束光"
+      thermal: "圆筒形地下体（铸铝）作为主散热体，埋入土中可借助地温散热"
+      cmf:
+        color: "拉丝不锈钢（面框）+ 哑光黑（地下体）"
+        material: "拉丝不锈钢面框，铸铝地下筒体"
+        finish: "拉丝（面框），砂纹涂层（筒体）"
+      mounting: "埋地安装（inground），地下筒体埋入，面框与地面齐平；可承受行人踩踏（IP67级别）"
+      signature_detail: "6颗均匀分布的螺丝在拉丝不锈钢圆面框上形成精密仪器感；面框平整度要求极高，工程感强"
+    design_level:
+      score: 5
+      reason: "材质与工艺达到BEGA顶级工程灯具标准；面框处理极为精炼；螺丝分布均匀对称，体现机械美学；埋地方式使灯具消隐于地面，仅光效可见"
+    design_tags:
+      - "埋地嵌入式"
+      - "圆形不锈钢面框"
+      - "上照泛光"
+      - "COB单点光源"
+      - "刻纹反射镜"
+      - "H09隐藏工程"
+      - "H10材料表达"
+    hero_feature: "拉丝不锈钢圆面框与6颗均匀螺丝——地面以上仅剩这一面框可见，灯具「消隐」为纯粹的地面光口"
+    problem_solved: "步行道/广场/建筑入口埋地上照，避免地面凸起障碍物；不锈钢面框耐踩踏耐腐蚀，无需维护"
+    transferable_technique: "圆形不锈钢面框+均匀螺丝分布的「消隐式」设计语言可迁移至地面通风口盖、地漏面板、船舱甲板灯的设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

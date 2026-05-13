@@ -1,0 +1,299 @@
+schema_version: product_dna_v1
+category:
+  primary: 家电
+  secondary: 扫地机器人
+  tertiary: ''
+source:
+  source_type: brand_official
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/扫地机器人/
+  generated_at: '2026-05-08'
+products:
+- product_id: if_robot_001
+  source_images:
+  - filename: 03.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/扫地机器人/03.jpg
+    image_role: hero
+    visual_anchor: 俯视+底部双视图，白色圆盘机身搭配玫瑰金装饰圈，顶部圆形玫瑰金LOGO模块，品牌bugu
+  product_name: 扫拖一体机器人
+  brand_name: bugu
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 扫地机器人
+  design_language:
+    silhouette: 标准圆盘形，上表面极简，玫瑰金装饰环贯穿机身边缘
+    light_opening: 无
+    thermal: 无
+    cmf:
+      color: 纯白 + 玫瑰金
+      material: ABS塑料机身 + 金属装饰圈
+      finish: 高光白 + 拉丝玫瑰金
+    mounting: 地面自主移动
+    signature_detail: 玫瑰金金属装饰圈环绕整个机身上表面边缘，顶部圆形玫瑰金LOGO凸起模块
+  design_level:
+    score: 3
+    reason: 装饰圈处理有记忆点，玫瑰金配色差异化明显，但整体造型常规，LiDAR塔未见
+  design_tags:
+  - 玫瑰金
+  - 装饰圈
+  - 扫拖一体
+  - 女性向
+  - 白色
+  hero_feature: 贯穿机身边缘的玫瑰金金属装饰圈，将功能边框升级为品牌语言
+  problem_solved: 扫地机器人造型同质化严重，此方案以玫瑰金装饰圈建立差异化识别度，吸引女性用户
+  transferable_technique: 将边框/分件线处理为品牌色金属装饰环的手法，可迁移至其他圆盘类家电
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_robot_002
+  source_images:
+  - filename: 10.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/扫地机器人/10.jpg
+    image_role: hero
+    visual_anchor: 扫地机器人+自动集尘基站组合，白色+黑色两个配色版本，基站为方形大柜体，品牌Roborock
+  product_name: 扫地机器人 + 自动集尘基站套装
+  brand_name: Roborock
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 扫地机器人
+  design_language:
+    silhouette: 机器人为标准圆盘，无LiDAR塔凸起；基站为方形高柜，分为上下两段
+    light_opening: 无
+    thermal: 无
+    cmf:
+      color: 白色版（白+银）+ 黑色版（黑+深灰）
+      material: ABS塑料 + 金属质感面板
+      finish: 高光 + 亚光金属
+    mounting: 地面，机器人停入基站底部凹槽
+    signature_detail: 基站中段可抽拉式银灰金属面板，造型干净；机器人前置宽传感器带为识别特征
+  design_level:
+    score: 4
+    reason: 机器人+基站作为整体产品族设计，比例协调，双配色方案丰富，基站抽屉式分件处理精致
+  design_tags:
+  - 基站
+  - 产品族
+  - 双配色
+  - 自动集尘
+  - Roborock石头
+  hero_feature: 机器人+基站作为统一设计语言的产品族，基站抽拉式金属面板为Hero细节
+  problem_solved: 基站通常形态丑陋难以融入家居，此设计将基站做成家具级方柜，提升整体美观度
+  transferable_technique: 将基站/充电座从功能性附件升级为家居产品的整体设计策略；抽拉式面板隐藏内部集尘功能
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_robot_005
+  source_images:
+  - filename: 14.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/扫地机器人/14.jpg
+    image_role: hero
+    visual_anchor: 白色圆盘扫地机器人，前部有黑色宽幅传感器带，顶部带玫瑰金LiDAR塔，品牌bugu
+  product_name: LiDAR扫拖一体机器人（bugu高配版）
+  brand_name: bugu
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 扫地机器人
+  design_language:
+    silhouette: 标准圆盘，玫瑰金装饰环，顶后部玫瑰金圆形LiDAR塔
+    light_opening: 无
+    thermal: 无
+    cmf:
+      color: 纯白 + 玫瑰金
+      material: ABS高光塑料 + 金属装饰件
+      finish: 高光白 + 拉丝玫瑰金
+    mounting: 地面自主移动
+    signature_detail: 玫瑰金装饰圈 + 匹配色LiDAR塔的全系统颜色统一设计，前部黑色传感器带造型整洁
+  design_level:
+    score: 4
+    reason: 装饰圈与LiDAR塔颜色统一，形成完整设计语言；传感器带处理干净不杂乱，整体高于品类平均水平
+  design_tags:
+  - LiDAR
+  - 玫瑰金
+  - 装饰圈
+  - 扫拖一体
+  - 女性向
+  - 高配版
+  hero_feature: LiDAR塔与装饰圈使用同色系玫瑰金，形成贯穿整机的一致设计语言
+  problem_solved: LiDAR塔通常为突兀的黑色圆柱，此方案将其纳入整体设计语言，消除视觉割裂
+  transferable_technique: 将功能性传感器模块设计成与整机主题一致的装饰件的手法
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_robot_006
+  source_images:
+  - filename: 17.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/扫地机器人/17.jpg
+    image_role: hero
+    visual_anchor: 黑色圆盘扫地机器人，顶部有双纵向分件线分割出中央控制区，中心搭载摄像头模组，品牌silverstar
+  product_name: 视觉导航扫地机器人
+  brand_name: silverstar
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 扫地机器人
+  design_language:
+    silhouette: 标准圆盘，全黑，顶面双纵向分件线将上表面分为三区
+    light_opening: 无
+    thermal: 无
+    cmf:
+      color: 全黑（镜面黑 + 哑光黑）
+      material: ABS + 玻璃镜面面板
+      finish: 镜面高光 + 哑光黑组合
+    mounting: 地面自主移动
+    signature_detail: 顶面双纵向分件线 + 中央摄像头模组，形成类相机镜头的视觉焦点
+  design_level:
+    score: 4
+    reason: 分件线作为主设计语言的运用大胆，中央摄像头模组精密感强，全黑色方案在品类中高辨识度
+  design_tags:
+  - 全黑
+  - 分件线
+  - 视觉导航
+  - 摄像头
+  - 镜面黑
+  hero_feature: 双纵向分件线将顶面结构化，中央精密摄像头模组作为视觉焦点
+  problem_solved: 纯圆盘造型缺乏方向感和视觉中心，分件线赋予结构感和科技感
+  transferable_technique: 纵向分件线在圆形产品上建立方向感和视觉层次的手法；摄像头模组精密化设计
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_robot_007
+  source_images:
+  - filename: 91.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/扫地机器人/91.jpg
+    image_role: hero
+    visual_anchor: 白色扫地机器人+高大白色基站，基站中部有香槟金拉丝可拆面板，Dreame S series
+  product_name: Dreame S系列扫拖一体机器人 + 全功能基站
+  brand_name: Dreame
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 扫地机器人
+  design_language:
+    silhouette: 机器人为低矮圆盘带前置AI视觉模组；基站为高瘦矩形柱体，上白下金分段
+    light_opening: 无
+    thermal: 无
+    cmf:
+      color: 纯白 + 香槟金
+      material: ABS塑料机身 + 拉丝香槟金金属面板
+      finish: 亚光白 + 拉丝金属
+    mounting: 地面，机器人嵌入基站底部
+    signature_detail: 基站中段横向香槟金拉丝金属抽屉式面板，可整体取出，工艺感强
+  design_level:
+    score: 5
+    reason: 基站设计达到家具级，香槟金拉丝面板可拆设计既美观又功能化；机器人前置AI摄像模组造型独特，整套产品族设计完整统一
+  design_tags:
+  - 全功能基站
+  - 香槟金
+  - 家具级设计
+  - 产品族
+  - AI视觉
+  - Dreame追觅
+  hero_feature: 可拆卸香槟金拉丝面板覆盖基站主视面，将清洁系统包装为家居级产品
+  problem_solved: 扫地机器人基站形态丑陋破坏室内美感，此方案通过高品质金属面板将基站变为家居装饰
+  transferable_technique: 以可拆卸高品质面板覆盖家电功能外壳的设计策略；家具语言在家电产品族中的运用
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_robot_008
+  source_images:
+  - filename: 92.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/扫地机器人/92.jpg
+    image_role: detail
+    visual_anchor: 双手拆卸Dreame S系列基站香槟金面板的操作图，露出内部集尘袋结构
+  product_name: Dreame S系列基站面板拆卸细节图
+  brand_name: Dreame
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 扫地机器人
+  design_language:
+    silhouette: 俯视，面板拆卸中，露出内部白色集尘袋
+    light_opening: 无
+    thermal: 无
+    cmf:
+      color: 香槟金面板 + 白色内部
+      material: 拉丝金属面板 + ABS内部结构
+      finish: 拉丝金属
+    mounting: 地面基站
+    signature_detail: 面板与基站本体的咬合方式，卡扣设计隐蔽，两手握持拆卸的操作动作自然
+  design_level:
+    score: 4
+    reason: 细节图展示了工程实现方式，面板拆装操作直觉化，内外材质对比展示品质感
+  design_tags:
+  - 细节图
+  - 可拆面板
+  - 香槟金
+  - 集尘袋
+  - 工程实现
+  hero_feature: 大幅拉丝金属面板的无螺丝快拆设计，维护时操作直觉化
+  problem_solved: 大面积装饰面板如何实现便捷维护的工程问题
+  transferable_technique: 大面积装饰面板的快拆工程实现方式；用户操作动作的设计优化
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: medium
+  needs_human_review: false
+  review_reason: ''
+- product_id: if_robot_009
+  source_images:
+  - filename: 95.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/家电/if_award/扫地机器人/95.jpg
+    image_role: hero
+    visual_anchor: 白色扫地机器人+白色方形自清洁基站，基站内部可见拖把自清洁槽结构，品牌标识可见
+  product_name: 扫拖一体机器人 + 自清洁基站套装
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 家电
+  - 扫地机器人
+  design_language:
+    silhouette: 机器人为标准圆盘，无LiDAR塔，前置传感器整洁；基站为方形矮柜，内部可见清洁槽
+    light_opening: 无
+    thermal: 无
+    cmf:
+      color: 纯白
+      material: ABS高光白塑料
+      finish: 高光白
+    mounting: 地面，机器人停入基站
+    signature_detail: 基站内部结构外露设计，清晰展示拖布自清洁机制；机器人侧面水箱透明可见
+  design_level:
+    score: 3
+    reason: 整体设计简洁克制，白色系统整体感好，但造型记忆点不突出，基站功能展示直接有效
+  design_tags:
+  - 自清洁基站
+  - 纯白
+  - 扫拖一体
+  - 水箱可视
+  - 功能外显
+  hero_feature: 基站内部清洁槽结构外露，直观展示自清洁功能工作原理
+  problem_solved: 用户不清楚自清洁基站如何工作，内部结构可视化解决信任问题
+  transferable_technique: 将核心功能机制通过结构可视化表达的设计手法，适用于功能复杂的家电产品
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

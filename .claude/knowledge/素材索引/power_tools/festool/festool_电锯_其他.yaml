@@ -1,0 +1,359 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电锯"
+  tertiary: "台锯圆锯剑锯往复锯绝缘锯综合"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "festool_台锯_001"
+    source_images:
+      - filename: "电锯__台锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__台锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "大型台锯带折叠支撑架，铝合金工作台面，锯片护罩深灰色，台面前缘有绿色装饰条，背面可见锯片传动机构，支架带滚轮便于移动，整体银灰+深色机身配色"
+    product_name: "Festool 台锯（带支撑架款）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "台锯"]
+    design_language:
+      silhouette: "宽大水平台面+细腿折叠支架，整体呈工作台形态，锯片在台面中后部垂直露出"
+      light_opening: "N/A"
+      thermal: "机身后部散热孔阵列，电机舱有通风槽"
+      cmf:
+        color: "银灰色铝台面为主，深色（深灰近黑）机械部件，绿色品牌装饰线条"
+        material: "铝合金台面，工程塑料机身，钢管支架"
+        finish: "铝台面拉丝哑光，机身细密纹理注塑，支架哑光金属漆"
+      mounting: "有线（电源线）"
+      signature_detail: "台面前缘绿色装饰嵌条，折叠支架带滚轮，台面有平行导规滑轨"
+    design_level:
+      score: 4
+      reason: "系统性设计语言统一，折叠支架与主机一体化集成度高，工作台美观实用兼顾，与品牌其他产品保持视觉一致性"
+    design_tags: ["台锯", "折叠支架", "铝合金台面", "工坊级", "有线"]
+    hero_feature: "折叠钢管支架+滚轮集成，使专业台锯具备现场移动能力"
+    problem_solved: "专业级台锯兼顾工坊固定与现场可移动需求"
+    transferable_technique: "大型机器折叠支架+滚轮一体化集成设计，解决工坊设备可移动性问题"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_台锯_002"
+    source_images:
+      - filename: "电锯__台锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__台锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "紧凑型无线台锯正面视角，下部装有两块18V电池（深灰色带绿色FESTOOL标识），透明锯片防护罩，机身黑色+银灰色分件，绿色功能按钮点缀，宽厚主体无支架"
+    product_name: "Festool 无线紧凑台锯（双电池）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "台锯"]
+    design_language:
+      silhouette: "低矮方正主体，双电池并列于底部，透明护罩在台面上方，整体扁平化紧凑形态"
+      light_opening: "N/A"
+      thermal: "机身两侧散热栅格"
+      cmf:
+        color: "黑色主体为主，银灰色台面，绿色按钮和电池LOGO"
+        material: "工程塑料机身，铝合金台面，PC透明护罩"
+        finish: "哑光注塑，台面拉丝，护罩透明光面"
+      mounting: "18V无线（双电池）"
+      signature_detail: "双电池并列底部供电，机身中央绿色功能按钮，台面有透明全罩防护"
+    design_level:
+      score: 4
+      reason: "双电池供电方案设计整合度高，无线台锯形态创新，整体比例协调，品牌语言统一"
+    design_tags: ["台锯", "无线", "双电池", "紧凑型", "18V"]
+    hero_feature: "双18V电池并联驱动，将无绳电池工具的概念引入台锯品类"
+    problem_solved: "无需电源线的工地现场台锯精准切割需求"
+    transferable_technique: "双电池对称并列底部布局，可迁移到其他大功率无线工具的电源集成"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_台锯_003"
+    source_images:
+      - filename: "电锯__台锯__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__台锯__03.jpg"
+        image_role: "hero"
+        visual_anchor: "台锯带支架侧视图，整机呈极简水平线条，锯片和护罩在台面中央，支架四腿展开，整体色调浅灰白，Festool标识清晰可见"
+    product_name: "Festool 台锯 TKS"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "台锯"]
+    design_language:
+      silhouette: "侧视下台面与支架构成矩形框架，重心低，台面宽，锯片组件紧凑集中"
+      light_opening: "N/A"
+      thermal: "机身下部通风槽"
+      cmf:
+        color: "浅银灰台面，深灰机身，白色支架管材"
+        material: "铝合金台面，工程塑料机身，钢管支架"
+        finish: "铝台面磨砂哑光，机身细纹注塑，支架白色粉末喷涂"
+      mounting: "有线"
+      signature_detail: "白色折叠管架与深色机身对比，锯片护罩集成于台面之上"
+    design_level:
+      score: 3
+      reason: "经典台锯造型，工艺成熟，颜色搭配清爽，但创新点不突出"
+    design_tags: ["台锯", "折叠支架", "有线", "专业级"]
+    hero_feature: "白色细腿折叠支架赋予台锯轻巧视觉感，区别于竞品笨重形象"
+    problem_solved: "专业木工台面精准切割，兼顾搬运便利"
+    transferable_technique: "细腿折叠架设计降低视觉重量，可迁移到其他需要减少笨重感的固定式工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_台锯_004"
+    source_images:
+      - filename: "电锯__台锯__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__台锯__04.jpg"
+        image_role: "hero"
+        visual_anchor: "台锯带支架斜45度视角，台面延展出折叠支腿，护罩在台面后方，可见右侧有测量尺，背面锯片传动组件外露，整体银灰色系"
+    product_name: "Festool 台锯 TKS 80 EBS"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "台锯"]
+    design_language:
+      silhouette: "45度斜视下台面宽阔，支架四腿向外展开，锯片后置，整体质感扎实"
+      light_opening: "N/A"
+      thermal: "机身侧面和后部通风槽"
+      cmf:
+        color: "银灰台面，深色机械组件，绿色品牌标识"
+        material: "铝合金台面，钢制传动组件，工程塑料外壳"
+        finish: "铝台面阳极氧化，传动组件电镀/喷涂"
+      mounting: "有线"
+      signature_detail: "台面集成平行导尺和刻度，背面外露传动结构展示工程感"
+    design_level:
+      score: 4
+      reason: "专业工坊用台锯，工程感强，功能性细节丰富，品牌设计语言贯穿始终"
+    design_tags: ["台锯", "专业级", "工坊", "有线", "铝台面"]
+    hero_feature: "铝合金宽台面集成导规和刻度系统，一体化精准切割体验"
+    problem_solved: "专业工坊高精度重复性切割作业"
+    transferable_technique: "功能性量具与台面一体化集成设计，减少附件数量的同时提升精度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_圆锯_001"
+    source_images:
+      - filename: "电锯__圆锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__圆锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "手持圆锯（HKC 55 KEB），黑色主体机身，绿色高对比度按钮和装饰件，右侧银色锯片外露，底板白色铝板，尘口朝向后上方，把手前后双握持设计，整体造型紧凑有力"
+    product_name: "Festool HKC 55 KEB 无线圆锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "楔形主体，前低后高，护罩圆弧包裹锯片，把手弓形贯穿机身上方"
+      light_opening: "N/A"
+      thermal: "电机仓顶部散热槽"
+      cmf:
+        color: "深黑机身，绿色功能触点（扳机护圈、深度调节旋钮），银色锯片，白色铝底板"
+        material: "工程塑料机身，铝合金底板，硬质合金锯片"
+        finish: "机身细密颗粒质感，底板拉丝铝"
+      mounting: "18V无线（电池接口在机身后下方）"
+      signature_detail: "绿色深度调节旋钮和扳机护圈，KickBack Stop安全标识，底板前端有切割深度刻度"
+    design_level:
+      score: 4
+      reason: "黑+绿色彩语言强烈，KickBack Stop安全功能外显设计具有品牌记忆点，形态紧凑有力"
+    design_tags: ["圆锯", "无线", "18V", "手持", "KickBack"]
+    hero_feature: "KickBack Stop防回弹安全装置外显设计，将安全卖点视觉化"
+    problem_solved: "现场无线精准圆锯切割，防回弹安全保护"
+    transferable_technique: "安全功能外显化（将隐藏的安全机构做成可见的视觉记忆点）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_圆锯_002"
+    source_images:
+      - filename: "电锯__圆锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__圆锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "大型有线圆锯（HK 85 EB），以锯片正面为主视角，大直径（230mm）银色锯片占据画面主体，黄绿色双环装饰锯片中心，机身银灰+深色，顶部有品牌铭牌，尘口位于机身左上"
+    product_name: "Festool HK 85 EB 有线圆锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "圆锯"]
+    design_language:
+      silhouette: "大型机身，以大直径锯片为视觉核心，机壳圆弧包裹，整体质感厚重专业"
+      light_opening: "N/A"
+      thermal: "机身后部散热槽"
+      cmf:
+        color: "银灰色机壳为主，深色局部，锯片中心有黄绿双色环装饰"
+        material: "铝合金机壳，硬质合金锯片"
+        finish: "铝壳阳极氧化，锯片镜面研磨"
+      mounting: "有线"
+      signature_detail: "锯片中心黄绿双环Festool品牌设计，大直径锯片视觉震撼，银色机壳专业感强"
+    design_level:
+      score: 4
+      reason: "铝合金机壳赋予专业感，锯片品牌双环设计有独特记忆点，整体工业设计水准高"
+    design_tags: ["圆锯", "有线", "大型", "铝壳", "230mm锯片"]
+    hero_feature: "铝合金大型机壳+锯片中心黄绿双环品牌标识，专业级定位视觉强化"
+    problem_solved: "大截面木材专业现场圆锯切割"
+    transferable_technique: "旋转工作件中心的品牌装饰环设计，将LOGO融入功能部件"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_剑锯_001"
+    source_images:
+      - filename: "电锯__剑锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__剑锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "剑锯（SSU 200 EB），黑色机身搭配绿色大旋钮，长链锯条垂直向下，铝合金导板银色，顶部双弓形把手，机身上方有除尘接口，Festool标识清晰，整体形态类似小型链锯竖置"
+    product_name: "Festool SSU 200 EB 剑锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "剑锯"]
+    design_language:
+      silhouette: "竖置长条形，上方机身较宽，下方链锯条细长，整体形似倒T形，双把手对称分布机身两侧"
+      light_opening: "N/A"
+      thermal: "机身顶部除尘集成接口兼通风"
+      cmf:
+        color: "黑色机身，绿色大圆形链条张紧旋钮，银色铝合金导板和链条"
+        material: "工程塑料机身，铝合金导板，钢制链条"
+        finish: "机身哑光注塑，导板拉丝铝，链条银色金属"
+      mounting: "有线（电源线从机身顶部引出）"
+      signature_detail: "绿色大直径链条张紧旋钮（功能外显），双D形把手人机工程设计，链条品牌标识"
+    design_level:
+      score: 4
+      reason: "独特品类产品，绿色张紧旋钮设计将功能可视化，双把手设计针对精细竖切场景，品牌语言统一"
+    design_tags: ["剑锯", "链锯条", "专业级", "有线", "精细切割"]
+    hero_feature: "绿色大旋钮链条张紧调节，将维护功能外显为视觉记忆点"
+    problem_solved: "狭窄空间或精细竖向切割，圆锯无法进入的场景"
+    transferable_technique: "功能调节旋钮放大+品牌色高亮处理，将维护功能转化为设计亮点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_剑锯_002"
+    source_images:
+      - filename: "电锯__剑锯__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__剑锯__02.jpg"
+        image_role: "hero"
+        visual_anchor: "剑锯侧视图，机身更清晰展示双D形把手的人机工程设计，绿色旋钮位于机身中部，导板和链条比例关系更直观，机身有Festool品牌线条分件"
+    product_name: "Festool IS 330 EB 剑锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "剑锯"]
+    design_language:
+      silhouette: "侧视竖向长条，机身宽厚，链条导板细长，双把手清晰可辨，重心集中于机身上方"
+      light_opening: "N/A"
+      thermal: "机身侧面通风槽"
+      cmf:
+        color: "黑色主机身，绿色旋钮，银色链条和导板"
+        material: "工程塑料，钢制链条，铝合金导板"
+        finish: "哑光机身，金属光泽链条"
+      mounting: "有线"
+      signature_detail: "双把手设计针对双手操控精度，侧面分件线清晰的设计层次"
+    design_level:
+      score: 4
+      reason: "人机工程突出，双把手设计针对性强，品牌色系贯穿，整体设计专业"
+    design_tags: ["剑锯", "双把手", "有线", "人机工程"]
+    hero_feature: "前后双D形把手系统，针对精细垂直切割的双手稳定控制"
+    problem_solved: "高精度垂直切割场景的双手稳定控制需求"
+    transferable_technique: "专业操控场景下前后双把手的人机工程优化，可迁移到其他需要精细定位的工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_往复锯_001"
+    source_images:
+      - filename: "电锯__往复锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__往复锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "无线往复锯（RSC 18），深黑蓝机身，绿色速度调节滑块和电池按钮，18V电池底部插接，锯条在机身前方水平伸出，机身D形握持把手，线条圆润流畅，底部电池标有FESTOOL TBX4字样"
+    product_name: "Festool RSC 18 无线往复锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "往复锯"]
+    design_language:
+      silhouette: "水平伸长形态，前端锯条+夹头，中部D形把手，后下方电池，整体流线型"
+      light_opening: "N/A"
+      thermal: "机身中部上方通风槽"
+      cmf:
+        color: "深黑蓝（近海军蓝）机身，绿色操控件，深灰电池壳体"
+        material: "工程塑料机身，钢制锯条，锂电池"
+        finish: "机身软质橡胶包覆握持区，塑料壳体细纹哑光"
+      mounting: "18V无线（TBX4电池）"
+      signature_detail: "机身后部绿色椭圆形调速滑块，电池下方蓝牙连接标识（Airstream无线系统）"
+    design_level:
+      score: 4
+      reason: "流线形机身造型优雅，绿色操控点布局合理，Airstream无线连接技术在工具中属于前沿，整体品牌感强"
+    design_tags: ["往复锯", "无线", "18V", "Airstream", "流线型"]
+    hero_feature: "机身蓝牙Airstream连接功能外显，电池底部有无线通信标识，技术感强"
+    problem_solved: "狭窄空间无线往复锯切割，无需更换电池平台"
+    transferable_technique: "流线型机壳造型将往复锯的粗犷感转化为精致感，可迁移到同类握持型工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_绝缘锯_001"
+    source_images:
+      - filename: "电锯__绝缘锯__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电锯/电锯__绝缘锯__01.jpg"
+        image_role: "hero"
+        visual_anchor: "绝缘锯（ISC 240 Li-ion），机身深灰蓝，竖立操作形态，锯条垂直向下穿过铝合金导轨系统，机身上方为握持把手，电池在机身侧后方，底部有万向轮支撑系统，整体修长竖立"
+    product_name: "Festool ISC 240 Li-ion 绝缘锯"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锯", "绝缘锯"]
+    design_language:
+      silhouette: "竖立修长形态，上方握持机身，下方细长铝合金导轨，底部带万向轮，整体高耸纤细"
+      light_opening: "N/A"
+      thermal: "机身侧面通风格栅"
+      cmf:
+        color: "深灰蓝机身，绿色功能按钮，银色铝合金导轨，黑色底部支撑"
+        material: "绝缘工程塑料机身，铝合金导轨，聚合物底座"
+        finish: "绝缘塑料哑光细纹，铝合金导轨拉丝"
+      mounting: "18V无线（锂电池侧置）"
+      signature_detail: "专为绝缘操作设计的材料选用（非导电外壳），万向轮底部支撑，细长铝导轨定位系统"
+    design_level:
+      score: 4
+      reason: "针对电气工程特殊场景的专业工具，绝缘材料选用和竖向操作形态是品类突破，设计高度服务于功能需求"
+    design_tags: ["绝缘锯", "绝缘材料", "万向轮支撑", "无线", "电气工程"]
+    hero_feature: "全绝缘机身材料+万向轮底部导向系统，专为带电作业环境设计"
+    problem_solved: "电气设备附近安全作业场景下的精准切割，防触电保护"
+    transferable_technique: "万向轮底部支撑导向系统赋予竖向切割工具方向控制能力"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

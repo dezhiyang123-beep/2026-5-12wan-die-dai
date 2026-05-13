@@ -1,0 +1,837 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "装饰落地灯"
+  tertiary: ""
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/"
+  generated_at: "2026-05-08"
+  batch: 2
+  file_range: "31-58"
+products:
+
+  - product_id: "if_落地灯_装饰_b2_001"
+    source_images:
+      - filename: "31.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/31.jpg"
+        image_role: "hero"
+        visual_anchor: "全身局部照：超薄蓝紫色渐变碟形灯头，表面高光反射可见光斑扫射，碟边缘极薄约5-8mm；中央小型圆形连接座；灯头通过小型圆形套筒接极细哑光黑色竖杆"
+    product_name: "渐变碟形上照落地灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "超大直径扁碟形灯头（约为杆径40倍）+ 超细哑光黑圆杆，灯头视觉占比极大，造型如飞碟降落，正面剪影以碟面为绝对主角"
+      light_opening: "碟形灯头朝上出光（上照/间接照明），中央圆形LED点光源从碟面中心向外漫射，出光方向向上，天花洗光"
+      thermal: "碟形大面积铝板兼作散热板，面积大散热效率高，无独立散热结构"
+      cmf:
+        color: "碟面蓝紫色渐变（类似钛金属阳极氧化或镀膜）；杆件哑光黑"
+        material: "铝制碟形灯头（阳极氧化或真空镀膜） + 金属细圆杆"
+        finish: "碟面镜面+色彩镀膜（彩虹干涉效果）；杆件哑光粉末喷涂"
+      mounting: "独立落地式，底部截图不全，推断为圆形底座"
+      signature_detail: "碟面颜色随角度呈现蓝紫渐变干涉效果，光线打在碟面形成高光扫射带，关灯状态如一件金属艺术装置"
+    design_level:
+      score: 5
+      reason: "碟面干涉镀膜 + 超大直径比例是强烈的Hero Feature，材料表达极致，关灯状态的视觉冲击力不输开灯，iF顶级装饰照明水准"
+    design_tags: ["装饰落地灯", "上照", "碟形", "金属镀膜", "干涉色", "蓝紫渐变", "H10材料表达", "H01减法", "H08对比强调"]
+    hero_feature: "超大碟面蓝紫干涉镀膜——随角度变色，关灯是金属雕塑，开灯是天花洗光装置"
+    problem_solved: "上照落地灯灯头通常视觉平庸，干涉镀膜赋予碟面独特的角度依赖色彩，使灯具成为全天候的装饰艺术品"
+    transferable_technique: "超大碟面比例 + 干涉镀膜，可迁移至任何需要'材料即装饰'的薄板类灯具或产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_002"
+    source_images:
+      - filename: "32.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/32.jpg"
+        image_role: "hero"
+        visual_anchor: "四格拼合展示图：左上—两款（深色+浅色）碟形落地灯并排，碟头直径约为底座直径的3倍，细杆纤细；右上—同款单支远景全身照，灯头朝上小碗碟形；左下—两款点亮特写，灯头中央圆孔发光，碟面反射光晕；右下—灯头俯视/侧视特写，圆孔中心发光座细节可见"
+    product_name: "碟形中央点光源落地灯（双色系）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "小口径浅碟形灯头（碗状，边缘翘起）+ 超细金属直杆 + 低矮圆形底座，三段式；灯头直径约为总高的12-15%，整体比例极为纤细轻盈"
+      light_opening: "碟中央圆形孔洞内嵌LED点光源，出光方向朝上（上照），碟面将中央光线向外反射扩散，形成柔和光晕"
+      thermal: "碟形铝件兼作散热，体量小，依赖铝件导热"
+      cmf:
+        color: "双色系：哑光黑（灯头+杆+底座一体）/ 哑光银白（灯头+杆+底座一体），颜色高度统一"
+        material: "铝制碟形灯头 + 金属细圆杆 + 金属圆形底座"
+        finish: "全件粉末喷涂哑光，黑色款深沉，银白款轻盈"
+      mounting: "独立落地式，低矮圆形底座，重心稳定"
+      signature_detail: "碟面中央圆形开孔发光——开孔既是出光口又是造型焦点，碟面成为光的'反射盘'，光源完全隐藏"
+    design_level:
+      score: 4
+      reason: "碟中央开孔发光设计简洁有力，双色系语言统一，纤细比例优雅，但形态较常规碟形落地灯无颠覆性突破"
+    design_tags: ["装饰落地灯", "上照", "碟形", "中央开孔", "点光源", "双色系", "H07极简整合", "H01减法", "H09隐藏工程"]
+    hero_feature: "碟面中央圆形开孔发光——光源完全隐藏，碟面既是反光罩又是装饰造型"
+    problem_solved: "传统上照落地灯灯泡裸露，该设计将光源藏于碟面中央，视觉上光从碟中心'生长'出来，消除眩光"
+    transferable_technique: "碟面中央开孔隐藏光源 + 碟面二次反射，可迁移至台灯、吊灯灯头设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_003"
+    source_images:
+      - filename: "33.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/33.jpg"
+        image_role: "hero"
+        visual_anchor: "产品照三连：三支完全相同的细竖杆落地灯并排，灯体为细长圆管（约直径30-40mm，高约150cm），从上至下呈橙色→橙红→粉红色渐变LED发光，底部黑色短套筒接黑色圆形底座，底座内侧可见粉色环形补光"
+      - filename: "34.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/34.jpg"
+        image_role: "detail"
+        visual_anchor: "单支全身照：渐变发光竖管落地灯，顶端黑色圆形端盖收口，底部黑色套筒接圆形底座，底座内圈可见粉紫色环形辅助光"
+    product_name: "渐变色全管发光氛围落地灯（JBL联名款）"
+    brand_name: "JBL"
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "细长竖管（圆截面，高径比约40:1）+ 短黑色过渡套筒 + 低矮圆形底座，极简竖线造型，比例接近'光柱'或'火炬'"
+      light_opening: "圆管全长均匀发光（360°出光），LED灯条内置于管内，形成渐变色光柱效果；底座内圈另有环形辅助光源"
+      thermal: "圆管材质推测为乳白色PC或亚克力，LED灯条热量通过内部结构传导至底部金属座"
+      cmf:
+        color: "发光态：橙黄→橙红→品红渐变（RGB可调）；结构件：哑光黑（底座+套筒+顶盖）"
+        material: "乳白PC/亚克力发光管 + 金属底部套筒 + 金属圆形底座"
+        finish: "管体半透明磨砂；底座黑色哑光"
+      mounting: "独立落地式，圆形加重底座，管体细高重心在上，底座重量平衡"
+      signature_detail: "全管高度渐变RGB发光 + 底座内圈辅助环形光，形成'漂浮光柱'视觉效果，颜色可随音乐/场景变化"
+    design_level:
+      score: 4
+      reason: "渐变色全管发光是强视觉冲击的氛围灯语言，JBL品牌联名增加可信度，底座辅助光的细节设计周到，但形态本身（发光竖管）已是成熟品类"
+    design_tags: ["装饰落地灯", "氛围灯", "渐变色", "RGB", "全管发光", "光柱", "JBL联名", "H10材料表达", "H11功能外显"]
+    hero_feature: "全高度渐变RGB发光圆管——灯体即光源，无灯头与杆的分区，整体是一根会变色的光柱"
+    problem_solved: "传统落地灯只有灯头发光，该设计将整根灯管作为发光体，大幅提升氛围照明面积和视觉层次"
+    transferable_technique: "全长发光管 + 渐变色LED内置，可迁移至任何需要强氛围的场景灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_004"
+    source_images:
+      - filename: "35.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/35.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：白色金属极细折臂落地灯，单根超细竖杆顶部通过球形关节折弯接斜向上的悬臂，悬臂末端接扁矩形LED面板灯头（发光面朝斜下）；杆身中部可见小型矩形触控调光模块；矩形薄片底座极低矮"
+    product_name: "折臂矩形面板极简落地灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "超细竖杆（约10mm径）+ 单球关节折弯 + 斜向悬臂 + 矩形薄片灯头，侧视轮廓呈'7字形'；矩形薄片底座极低矮，整体高挑轻盈"
+      light_opening: "扁矩形LED面板灯头（约40×15cm），出光面均匀朝斜下方，间接阅读/环境照明，出光柔和无眩光"
+      thermal: "灯头极薄，铝制框架兼作散热，热量沿悬臂向下传导"
+      cmf:
+        color: "通体白色，灯头出光面乳白色"
+        material: "铝合金细杆 + 铝合金矩形面板灯头框架 + 乳白色PC扩散板"
+        finish: "全件白色粉末喷涂哑光"
+      mounting: "独立落地式，矩形薄片底座（极低矮，视觉几乎消失），杆身中部触控调光滑块外露"
+      signature_detail: "杆身中部外置触控调光模块——调光操作从灯头移至腰部，触手可及，同时成为杆身的唯一视觉打点"
+    design_level:
+      score: 4
+      reason: "折臂7字形结构干净，腰部触控调光位置人机设计合理，矩形面板灯头现代感强，整体iF装饰照明获奖级水准"
+    design_tags: ["装饰落地灯", "折臂", "矩形面板", "触控调光", "极简", "白色", "H07极简整合", "H12人机界面强化", "H01减法"]
+    hero_feature: "杆身腰部外置触控调光滑块——功能外显至最易触及位置，打破灯头调光惯例"
+    problem_solved: "传统落地灯调光在灯头或插座，操作不便；腰部触控模块在站立时手部自然垂放高度即可触达"
+    transferable_technique: "调光控件从灯头下移至杆腰（1.0-1.2m高度），可迁移至任何细杆落地灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_005"
+    source_images:
+      - filename: "36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/36.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图：大型竖向矩形发光屏（约120×200cm）黑色铝框，内填密集竖向平行细杆/光纤/丝线（铜色调）均匀发光，靠一块天然粗糙花岗岩石块支撑斜立，置于侏罗纪风格极简清水混凝土空间"
+      - filename: "37.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/37.jpg"
+        image_role: "context"
+        visual_anchor: "产品照：同款灯具置于白色背景，白色LED模式下填充物呈透明/淡色，灯框靠石块斜立，底部可见黑色电源线，灯具整体呈现为'发光隔断屏风'"
+    product_name: "石块支撑竖丝发光屏风落地灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "大型竖向矩形框（黑色铝型材边框）+ 内置密集平行竖向丝线/细杆发光填充 + 天然石块底座（随机形态），整体为'发光屏风'形态，打破传统落地灯杆+头结构"
+      light_opening: "整个矩形框面均匀发光（透过密集竖向丝线/光纤），出光柔和漫射，铜色暖光模式营造日落氛围，白色冷光模式接近自然光"
+      thermal: "LED驱动和光源位于框架边缘，热量通过铝型材框架散出"
+      cmf:
+        color: "框架：哑光黑；填充物：铜色（暖光模式）/ 近透明（冷光模式）；底座：天然花岗岩/混凝土石块（原色）"
+        material: "铝型材框架 + 竖向光纤/亚克力细杆填充 + 天然石块底座"
+        finish: "框架粉末喷涂哑光黑；填充物透明或有色；石块天然粗糙肌理"
+      mounting: "斜靠式——灯具本体斜靠于石块上，不固定，可随意调整角度，非传统底座落地"
+      signature_detail: "天然石块作为唯一支撑结构——工业铝框与自然石块的材料对比，石块形态不可复制，每台灯的'底座'独一无二"
+    design_level:
+      score: 5
+      reason: "打破落地灯品类假设（无杆、无传统底座），发光屏风形态 + 天然石块支撑是强烈的品类假设挑战，艺术装置级别的设计表达，iF顶级"
+    design_tags: ["装饰落地灯", "屏风", "发光面板", "天然石块", "光纤丝线", "品类假设挑战", "H04参数化", "H10材料表达", "H08对比强调"]
+    hero_feature: "天然石块作为落地灯唯一底座支撑——每台灯底座形态唯一，工业框与自然石的极致对比"
+    problem_solved: "装饰落地灯形态高度同质化，该设计完全抛弃杆+底座结构，以屏风+石块重新定义品类形态"
+    transferable_technique: "天然材料（石/木/混凝土）作为工业产品底座/支撑，对比感强，可迁移至音响、显示器等需要'艺术感底座'的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_006"
+    source_images:
+      - filename: "38.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/38.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图：暗黑卧室环境，白色极细落地灯竖立于床头旁，灯顶为弧形翼展悬臂（类似鸟翅展开）接扁平灯头朝向天花出光；灯身通体极细白色金属，杆身中部可见调光滑块；灯光将卧室天花和床头墙面均匀洗亮"
+    product_name: "翼展悬臂上照床头落地灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "超细竖杆（约10mm径）+ 顶部弧形翼展悬臂（双侧对称弧形延伸，类似鸟翼展开）+ 水平扁平灯头朝上，正面剪影呈'T'形但顶横杆为弧形；杆腰调光滑块轻微凸出"
+      light_opening: "水平扁平灯头朝上（上照/间接照明），天花洗光，无直射眩光，卧室氛围柔和"
+      thermal: "扁平铝制灯头兼作散热翼，弧形悬臂面积辅助散热"
+      cmf:
+        color: "通体白色"
+        material: "铝合金杆件 + 铝合金弧形悬臂 + 铝制扁平灯头"
+        finish: "全件白色粉末喷涂哑光"
+      mounting: "独立落地式，底部未完整展示，推断细圆杆底座"
+      signature_detail: "顶部弧形翼展悬臂——悬臂从顶部双侧向外弧形延伸，灯头横跨其间，形成鸟翼张开的优雅姿态"
+    design_level:
+      score: 4
+      reason: "弧形翼展造型是有记忆点的灯头结构，床头上照应用场景精准，腰部调光人机合理，整体iF获奖装饰照明"
+    design_tags: ["装饰落地灯", "上照", "翼展悬臂", "床头灯", "白色", "极简", "H07极简整合", "H06仿生", "H12人机界面强化"]
+    hero_feature: "顶部弧形翼展双悬臂——对称弧线向两侧展开，灯头横跨其间，形态如展翅，关灯状态优雅"
+    problem_solved: "床头落地灯需要上照柔光但通常灯头造型单调，翼展悬臂赋予灯头独特轮廓记忆点"
+    transferable_technique: "顶部对称弧形悬臂结构，可迁移至任何需要'优雅顶部造型'的落地灯或台灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_007"
+    source_images:
+      - filename: "39.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/39.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图（青绿色背景）：深棕色超细平衡臂落地灯，从圆形底座伸出细竖杆，腰部Y形分叉后接两根斜撑杆（末端各有球形配重），顶端长斜臂延伸至右上方接小型半球形灯头；整体结构如精密天平仪器"
+      - filename: "41.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/41.jpg"
+        image_role: "detail"
+        visual_anchor: "白色背景全身照：同款平衡臂落地灯，深灰/黑色版本，清晰展示Y形双球配重结构与顶端长斜臂+小半球灯头的平衡关系"
+    product_name: "球形配重平衡臂落地灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "细圆杆底座 + Y形双球配重结构（腰部分叉，两根斜撑末端各有实心球）+ 顶端长斜臂 + 小型半球灯头；侧视轮廓极度不对称，重心通过配重球机械平衡"
+      light_opening: "顶端小型半球形灯头（朝下聚光），点状精准照明，光斑集中"
+      thermal: "小型灯头体量小，热量通过细金属杆传导，无独立散热"
+      cmf:
+        color: "通体深棕/深灰/哑光黑，无对比色"
+        material: "金属细圆杆 + 实心金属配重球 + 金属半球灯头"
+        finish: "全件粉末喷涂哑光深色"
+      mounting: "独立落地式，低矮圆形底座，Y形双配重球提供配重平衡"
+      signature_detail: "Y形双球配重结构——将配重功能设计成装饰雕塑，两个配重球成为视觉焦点，结构即造型"
+    design_level:
+      score: 5
+      reason: "双球配重结构将工程必要性（平衡）转化为装饰雕塑（球形节点），结构逻辑完全可读，平衡美学与工程美学合一，iF顶级装饰照明"
+    design_tags: ["装饰落地灯", "平衡臂", "配重球", "Y形分叉", "机械美学", "阅读灯", "H11功能外显", "H08对比强调", "H01减法"]
+    hero_feature: "Y形双配重球结构——平衡力学外显为视觉雕塑，两个球是配重也是装饰节点"
+    problem_solved: "可调节臂落地灯的配重通常藏于底座，该设计将配重球外置于腰部，功能完全可读，关灯状态是力学雕塑"
+    transferable_technique: "外置可见配重球 + Y形分叉杆结构，可迁移至任何需要平衡臂的灯具或悬臂产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_008"
+    source_images:
+      - filename: "40.jpeg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/40.jpeg"
+        image_role: "hero"
+        visual_anchor: "场景图（白色+蓝天背景）：极细金属落地灯置于落地窗旁，通体沙金色/香槟色，细杆顶部弧形翼展悬臂接扁平矩形灯头朝上出光；杆腰可见小型调光旋钮；底座极低矮矩形薄片；场景光线自然明亮"
+    product_name: "香槟金翼展上照落地灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "超细竖杆（约8-10mm径）+ 顶部弧形翼展悬臂 + 水平扁平矩形灯头朝上，剪影轮廓优雅轻薄；矩形薄片底座极低矮"
+      light_opening: "矩形扁平灯头朝上（上照/间接照明），天花洗光，出光柔和均匀"
+      thermal: "扁平铝制灯头兼作散热面，弧形悬臂辅助散热"
+      cmf:
+        color: "通体香槟金/沙金色（轻奢感）"
+        material: "铝合金细杆 + 铝合金弧形悬臂 + 铝制矩形灯头"
+        finish: "全件香槟金阳极氧化或镀膜，哑光质感"
+      mounting: "独立落地式，矩形薄片底座（极低矮），杆腰小旋钮调光"
+      signature_detail: "通体香槟金单一色调 + 弧形翼展悬臂，颜色与造型共同营造轻奢北欧感"
+    design_level:
+      score: 4
+      reason: "翼展造型与38号同系，香槟金配色提升轻奢质感，场景应用（落地窗旁）精准，整体完成度高"
+    design_tags: ["装饰落地灯", "上照", "翼展悬臂", "香槟金", "轻奢", "极简", "H07极简整合", "H10材料表达"]
+    hero_feature: "通体香槟金弧形翼展悬臂——单一金属色调统一全身，翼展造型赋予轻奢北欧气质"
+    problem_solved: "上照落地灯颜色通常黑白中性，香槟金赋予产品轻奢装饰价值，成为空间搭配元素"
+    transferable_technique: "全件统一香槟金 + 弧形悬臂，颜色与造型协同强化品位感，可迁移至轻奢家居灯具系列"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_009"
+    source_images:
+      - filename: "42.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/42.jpg"
+        image_role: "hero"
+        visual_anchor: "全身照：极细单圆弧杆落地灯（黑色），杆身从底座向上弯曲成近90°大弧后横向延伸，顶端接小型球形灯头（朝下），杆身贴合弧线视觉，无接缝，底座为低矮圆盘；电源线从底座侧面引出"
+    product_name: "单弧连续杆球形灯头落地灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "单根连续金属杆从底座弧形弯折至水平出头，顶端90°弧 + 小型球形灯头，杆的弯曲弧度优雅如植物茎秆；底座低矮圆盘；整体轮廓似问号"
+      light_opening: "球形半球灯头（开口朝下），聚光向下，适合阅读或点光照明"
+      thermal: "小型球头，铝件导热通过杆身散出"
+      cmf:
+        color: "通体哑光黑"
+        material: "弯管金属杆（铝或钢）+ 金属球形灯头 + 金属圆形底座"
+        finish: "全件哑光黑粉末喷涂"
+      mounting: "独立落地式，低矮圆形底座，重心低稳"
+      signature_detail: "单根无接缝连续弧形杆——杆身全程弯曲无折角，顶端圆弧优美自然，消除所有关节和接头可见面"
+    design_level:
+      score: 4
+      reason: "连续无接缝弧形杆结构工艺精良，轮廓优雅，球形灯头与弧形杆比例协调，iF装饰照明获奖级"
+    design_tags: ["装饰落地灯", "弧形杆", "连续弧线", "球形灯头", "哑光黑", "极简", "H07极简整合", "H01减法", "H09隐藏工程"]
+    hero_feature: "单根无接缝连续弧形杆——全程无关节无折点，弧线从底座到灯头一气呵成"
+    problem_solved: "传统弧形落地灯杆身有明显关节或折角，该设计通过弯管工艺实现连续弧线，视觉清洁度极高"
+    transferable_technique: "连续无接缝弧形弯管杆，可迁移至任何需要有机线条感的细杆灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_010"
+    source_images:
+      - filename: "43.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/43.jpg"
+        image_role: "hero"
+        visual_anchor: "产品照（白色背景）：黑白双色极细线形落地灯，单根极细竖杆（约6-8mm径）顶端接超薄白色竖向LED光条（宽约30mm，黑边框），光条一侧贴合杆身延伸出约1/3高度；黑色圆柱形底座稳重"
+      - filename: "44.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/44.jpg"
+        image_role: "context"
+        visual_anchor: "场景图（RGB氛围灯模式）：同款灯具置于紫色/品红氛围灯场景中，RGB发光条开启，背景墙被紫色洗亮，灯具周边辉光效果明显；可见Philips Hue品牌标识"
+    product_name: "Philips Hue 极细竖向RGB光条落地灯"
+    brand_name: "Philips Hue"
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "超细圆杆（约6-8mm，近乎不可见）+ 顶端竖向超薄矩形LED光条（白色，约30×400mm）；正面剪影为超细垂直线条，极度克制；圆柱底座简洁"
+      light_opening: "超薄竖向LED光条正面及侧面出光，白光模式功能照明，RGB模式氛围洗墙；光条厚度约15-20mm，几乎无厚度感"
+      thermal: "LED驱动藏于底座，光条热量通过铝制边框传导至杆身"
+      cmf:
+        color: "光条框架：哑光黑边 + 白色出光面；底座：哑光黑圆柱；RGB全彩发光"
+        material: "铝合金光条框架 + PC扩散面板 + 金属细杆 + 金属圆柱底座"
+        finish: "框架哑光黑粉末喷涂；扩散面乳白PC"
+      mounting: "独立落地式，圆柱形底座（较重），平衡超细杆重心"
+      signature_detail: "超薄竖向光条 + 超细杆——从正面几乎看不到杆，只见一根发光的细线从地面生长，背面看见细杆"
+    design_level:
+      score: 4
+      reason: "极细杆+竖向光条的极简语言与Hue生态系统结合，RGB洗墙氛围出色，但形态本身（光条落地灯）并非新创"
+    design_tags: ["装饰落地灯", "Philips Hue", "RGB", "光条", "竖向", "极简", "氛围灯", "H07极简整合", "H01减法", "H11功能外显"]
+    hero_feature: "超细杆 + 竖向超薄光条——从正面几乎看不到支撑结构，只见一根发光细线悬浮于空间"
+    problem_solved: "传统落地灯结构可见性强，该设计通过极细杆 + 竖向光条将结构感降至最低，灯具本身'消失'只留光"
+    transferable_technique: "超细杆 + 竖向超薄光条组合，可迁移至任何追求'极简感'的氛围落地灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_011"
+    source_images:
+      - filename: "45.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/45.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图（砖墙背景）：三款落地灯并排——左：高大黄铜色折臂落地灯（双节铰接臂，末端圆形遮光碟），中：同款黑色版矮型变体，右：白色台灯版置于木凳上；圆形底座，铰接点可见小环形拉钩装饰件"
+    product_name: "双节铰接臂圆碟灯头落地灯（黄铜/黑色系）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "两节铰接金属臂（矩形截面扁臂）+ 末端小圆形遮光碟灯头，铰接点有小环形装饰拉钩；整体轮廓如工业机械臂，有明确折点；圆形底座低矮"
+      light_opening: "圆形遮光碟灯头（朝下聚光），精准点光照明"
+      thermal: "小型灯头，铝件导热"
+      cmf:
+        color: "黄铜金色版 / 哑光黑版，各自全件统一色调"
+        material: "金属矩形截面扁臂 + 金属铰接关节 + 圆形金属遮光碟 + 金属圆形底座"
+        finish: "黄铜版：哑光黄铜拉丝或电镀；黑版：粉末喷涂哑光黑"
+      mounting: "独立落地式，低矮圆形底座"
+      signature_detail: "铰接点外露小环形拉钩装饰件——将铰接关节设计成可见装饰元素（钩环形），功能与装饰合一"
+    design_level:
+      score: 4
+      reason: "双节铰接臂工业美学清晰，黄铜配色赋予复古轻奢感，铰接点拉钩细节有设计心意，台灯/落地灯同款衍生显示系列完整性"
+    design_tags: ["装饰落地灯", "折臂", "铰接", "黄铜", "工业风", "复古", "H11功能外显", "H08对比强调"]
+    hero_feature: "铰接点小环形拉钩装饰件——关节处的金属钩环既是装饰也是操作手感引导，工业细节点睛"
+    problem_solved: "可调节臂落地灯的铰接关节通常被设计得尽量不可见，该设计反其道而行，将关节放大为装饰焦点"
+    transferable_technique: "铰接关节外露 + 小装饰件点睛，可迁移至任何多关节可调节灯具或家具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_012"
+    source_images:
+      - filename: "46.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/46.jpg"
+        image_role: "detail"
+        visual_anchor: "灯头特写（大角度仰视）：超薄矩形LED面板灯头（沙银色），圆角矩形轮廓，出光面均匀乳白，边框极细约5mm，通过小型圆形旋转关节连接斜向杆件"
+    product_name: "超薄圆角矩形面板折臂落地灯（灯头特写）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "矩形圆角面板灯头（圆角半径约20mm，长宽比约3:2）+ 单小圆形旋转关节 + 斜向细杆，此图为灯头局部特写"
+      light_opening: "圆角矩形面板均匀出光，扩散板均匀无热点，出光面完整可见"
+      thermal: "面板边框铝件兼作散热，体量薄散热需求中等"
+      cmf:
+        color: "沙银色/香槟银（面板框架）；乳白色扩散面"
+        material: "铝合金圆角矩形框架 + 乳白PC扩散板"
+        finish: "框架阳极氧化或细砂喷涂；扩散面乳白磨砂PC"
+      mounting: "通过圆形旋转关节连接杆件，角度可调"
+      signature_detail: "极细5mm边框圆角矩形——框比例极窄，视觉上几乎只有出光面，边框感消失，灯头='一块发光的面'"
+    design_level:
+      score: 4
+      reason: "极细边框圆角矩形面板设计干净精良，比例感好，与35/40号同系产品设计语言一致，细节工艺水准高"
+    design_tags: ["装饰落地灯", "矩形面板", "超薄边框", "圆角矩形", "香槟银", "H07极简整合", "H01减法"]
+    hero_feature: "极细约5mm边框圆角矩形面板——边框几乎消失，灯头变成纯净的发光矩形面"
+    problem_solved: "传统面板灯头框架感重，该设计通过极细边框 + 圆角处理，使灯头视觉上轻薄如一张发光的纸"
+    transferable_technique: "极细边框圆角矩形面板设计，可迁移至台灯、书桌灯灯头，追求'极薄面板'质感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_013"
+    source_images:
+      - filename: "47.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/47.jpg"
+        image_role: "hero"
+        visual_anchor: "暗背景场景图：多件灯具同场，左：细黑杆落地灯（顶端小遮光碟灯头，碟面可见黑色网格散热板）+ 整体挺立；上：悬挂式圆碟吊灯；下左：白色混凝土方块上架斜杆+半月形灯槽；下右：白色混凝土方块上直立型灯槽"
+    product_name: "系列化灯具（落地+吊灯+桌面）设计套系"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "落地灯款：超细黑色圆杆 + 顶端小碟形灯头（碟面有散热网格纹理，内嵌LED）；整套灯具共享同一设计语言——圆碟/半月形灯头 + 黑色细金属杆/线"
+      light_opening: "落地灯款：小碟形灯头朝下聚光（点光），桌面款：半月形灯槽侧向出光（漫射）"
+      thermal: "碟面网格散热板外露——散热结构作为装饰纹理，与38号系列类似"
+      cmf:
+        color: "黑色金属杆/线 + 白色混凝土底座（桌面款）+ 裸铜/黑色碟面"
+        material: "金属细杆 + 金属碟形灯头（散热网格） + 天然混凝土方块底座（桌面款）"
+        finish: "金属件哑光黑；混凝土原色粗糙"
+      mounting: "落地灯款：细杆底座；桌面款：混凝土方块固定"
+      signature_detail: "碟面外露散热网格——六边形或方格散热孔阵列在碟面上形成有序纹理，白天是纹理图案，夜晚是散热件"
+    design_level:
+      score: 4
+      reason: "套系化设计语言统一，混凝土+金属的材料对比有力，碟面散热网格外显是一致的设计手法"
+    design_tags: ["装饰落地灯", "套系", "散热网格", "混凝土底座", "系列化", "H11功能外显", "H10材料表达", "H08对比强调"]
+    hero_feature: "碟面外露散热网格纹理——功能散热结构转化为装饰图案，与天然混凝土底座形成精密/粗糙对比"
+    problem_solved: "灯具系列视觉语言不统一，该套系通过碟形灯头+散热网格+黑色金属线条统一所有产品的设计DNA"
+    transferable_technique: "散热孔阵列外露作为表面装饰纹理，可迁移至任何有散热需求的紧凑型灯头"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_014"
+    source_images:
+      - filename: "48.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/48.jpg"
+        image_role: "hero"
+        visual_anchor: "产品照（白色背景）：五支完全相同的细圆管落地灯并排，每支通体为不同颜色（深灰/蓝黑/深红/黑/黄褐），全管呈对角线斜倚姿态（约75°倾斜），底部圆形加重底座；管体整体自发光（全管均匀出光）"
+    product_name: "斜倚全管发光彩色系列落地灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "细长圆管（全管均匀发光，约直径40-50mm，高度约150-180cm）整体斜倚约75°角，底部圆形底座固定；正面轮廓为斜线，打破垂直落地灯的竖直惯例"
+      light_opening: "全管360°均匀发光（漫射），整根管是光源，出光方向全向"
+      thermal: "LED驱动于底座，管体PC/亚克力导热有限"
+      cmf:
+        color: "五色系：深灰/蓝黑/深红/哑光黑/黄褐，全管单色统一"
+        material: "彩色PC/亚克力发光管 + 圆形金属底座（同色）"
+        finish: "管体彩色半透明磨砂；底座同色粉末喷涂"
+      mounting: "独立落地式，圆形底座，斜倚姿态靠重心平衡"
+      signature_detail: "整管斜倚姿态——打破落地灯必须垂直的品类惯例，斜倚角度制造空间张力，像一根倚靠着的光棒"
+    design_level:
+      score: 4
+      reason: "斜倚姿态是对落地灯垂直惯例的有效挑战，全管发光+多色系完整，但单一圆管造型相对简单"
+    design_tags: ["装饰落地灯", "斜倚", "全管发光", "彩色系", "品类假设挑战", "H04参数化", "H10材料表达"]
+    hero_feature: "整管斜倚75°姿态——打破落地灯垂直站立惯例，斜倚使产品产生独特的空间紧张感"
+    problem_solved: "发光管落地灯通常垂直站立，斜倚姿态在相同面积内创造更强的视觉动态感，像一根倚在墙边的光棒"
+    transferable_technique: "发光管整体斜倚设计，可迁移至任何需要'打破垂直惯例'的竖立式装饰灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_015"
+    source_images:
+      - filename: "49.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/49.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图（温暖家居风格）：绿灰色上照落地灯置于侧柜旁，通体橄榄绿/灰绿色，顶端小圆碟形灯头（朝上），极细圆杆从低矮圆形底座延伸至顶，整体比例优雅；背景有木质柜、艺术画和黄色插花"
+    product_name: "橄榄绿小碟形上照极简落地灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "超细竖杆（约8-10mm径）+ 小型扁圆碟形灯头（朝上，直径约为总高10%）+ 低矮圆形底座；三段式比例极为轻盈，灯头体量小而精"
+      light_opening: "小圆碟形灯头朝上出光（上照），天花柔和洗光"
+      thermal: "小型碟形铝件散热"
+      cmf:
+        color: "通体橄榄绿/灰绿色（自然感、温暖克制）"
+        material: "铝合金细杆 + 铝制小圆碟灯头 + 金属圆形底座"
+        finish: "全件哑光粉末喷涂（橄榄绿/灰绿），哑光质感"
+      mounting: "独立落地式，低矮圆形底座"
+      signature_detail: "橄榄绿单色调统一全身——颜色本身是设计语言，与家居软装（植物、木材）形成自然对话"
+    design_level:
+      score: 3
+      reason: "橄榄绿配色打破灯具常见黑白灰，家居感强，但造型本身（细杆+小碟）较为常规，设计亮点主要在颜色"
+    design_tags: ["装饰落地灯", "上照", "橄榄绿", "小碟形", "家居感", "H10材料表达", "H07极简整合"]
+    hero_feature: "通体橄榄绿单色调——用自然感色彩替代传统黑白中性，使灯具成为家居软装的颜色搭配元素"
+    problem_solved: "大多数落地灯为黑/白/银等中性色，橄榄绿使灯具具备软装属性，可与植物、木材、自然材质产生视觉对话"
+    transferable_technique: "非中性色系（绿/蓝/暖黄）单色落地灯，可成为软装搭配元素，适合对颜色敏感的北欧/侘寂风格家居"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_016"
+    source_images:
+      - filename: "50.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/50.jpg"
+        image_role: "hero"
+        visual_anchor: "产品全景（米色背景）：多件同系列灯具展示，主体为黑色细杆落地灯（细圆杆从矩形薄底座延伸，顶端小圆碟形灯头朝下，碟面有黑色网格散热纹）；旁有深红色球形壁灯 + 粉色球形壁灯 + 小型台灯版（同系）"
+    product_name: "网格碟头落地灯+球形壁灯套系"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "落地灯：极细黑杆（矩形截面，约8×15mm）+ 矩形薄底座 + 顶端小圆碟灯头（网格散热面朝外）；套系：圆碟/球形/碟形灯头跨产品线共享，统一设计语言"
+      light_opening: "落地灯：圆碟朝下精准聚光；壁灯球形：漫射出光"
+      thermal: "碟面网格散热孔外露，散热与装饰一体"
+      cmf:
+        color: "落地灯：哑光黑；壁灯：深红+粉色（高饱和色对比）"
+        material: "金属矩形截面细杆 + 金属网格碟面灯头 + 金属矩形底座"
+        finish: "哑光粉末喷涂；网格孔精密冲压"
+      mounting: "落地灯：矩形薄底座；壁灯：背板固定"
+      signature_detail: "落地灯矩形截面细杆——非圆杆而是矩形扁截面，产生更强的线条感和方向感"
+    design_level:
+      score: 4
+      reason: "矩形截面细杆提升线条精度，套系颜色策略（黑+高饱和色）有明确市场分层，网格碟面一致性强"
+    design_tags: ["装饰落地灯", "套系", "矩形截面杆", "网格碟面", "H11功能外显", "H08对比强调", "H05模块化"]
+    hero_feature: "矩形截面金属细杆——截面从圆形改为矩形，同样细度但产生更强的线条锐度和方向感"
+    problem_solved: "圆杆落地灯各角度一致，矩形截面杆因角度不同产生明暗变化，增加视觉层次"
+    transferable_technique: "矩形截面代替圆截面细杆，适用于追求'线条精度'的极简落地灯和台灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_017"
+    source_images:
+      - filename: "51.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/51.jpg"
+        image_role: "hero"
+        visual_anchor: "产品特写（黑色背景）：矩形LED面板灯头近景，哑光深灰铝框极细边框，面板朝斜下方出光，出光面大面积均匀白光；面板一角有小圆形调光旋钮嵌入，杆件为方形截面黑色铝型材"
+    product_name: "方截面柱杆矩形面板落地灯（灯头特写）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "方形截面粗杆（约30×30mm，对比传统细杆更具建筑感）+ 矩形面板灯头（细边框，约50×30cm）；此图为灯头+杆顶特写"
+      light_opening: "矩形面板出光均匀（漫射），朝下工作照明，出光角宽"
+      thermal: "铝框兼作散热，方截面杆提供大面积散热路径"
+      cmf:
+        color: "哑光深灰/黑（框架+杆）；乳白出光面"
+        material: "铝合金方形截面杆 + 铝合金矩形面板框架 + 乳白PC扩散板"
+        finish: "全件深灰哑光阳极氧化或粉末喷涂"
+      mounting: "面板通过铰接关节连接方形截面杆，角度可调"
+      signature_detail: "方形截面粗铝杆——以建筑型材代替圆杆，比例更粗壮，截面带方向感，与矩形面板形成形态呼应"
+    design_level:
+      score: 4
+      reason: "方截面杆 + 矩形面板形态呼应一致，深灰色系建筑感强，专业照明美学清晰，灯头特写展示做工精良"
+    design_tags: ["装饰落地灯", "方截面杆", "矩形面板", "建筑感", "深灰", "H07极简整合", "H10材料表达"]
+    hero_feature: "方形截面铝型材杆——截面从圆/细杆升级为方形建筑型材，比例语言完全改变，更具建筑仪式感"
+    problem_solved: "细圆杆落地灯显得轻薄，方截面杆赋予落地灯建筑感和专业质感，适合大空间或办公场景"
+    transferable_technique: "方形截面铝型材杆件代替细圆杆，可迁移至需要'建筑感'或'专业感'的落地灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_018"
+    source_images:
+      - filename: "52.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/52.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图（暗背景）：三支不同高度的矩形面板落地灯（同系，高/中/低），均为方形截面黑色铝杆 + 矩形LED面板灯头；最高款面板可见双面（双面出光），矩形底座极低矮；场景整体暗色调，三束面板光照亮地面"
+    product_name: "系列化方截面矩形面板落地灯（单/双面出光三尺寸）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "方形截面黑色铝杆 + 矩形LED面板（单面或双面出光）+ 矩形薄底座；三尺寸系列（高/中/矮），统一方形截面语言"
+      light_opening: "矩形面板朝下出光（单面款）/ 双面朝上+朝下（双面款），大面积均匀漫射照明"
+      thermal: "铝框+方截面铝杆大面积散热"
+      cmf:
+        color: "通体哑光黑"
+        material: "铝合金方截面杆 + 铝合金矩形面板框架 + 乳白PC扩散板"
+        finish: "全件哑光黑粉末喷涂"
+      mounting: "独立落地式，矩形薄底座（低矮），方截面杆加底座形成T形支撑"
+      signature_detail: "三尺寸系列化 + 双面出光变体——同一设计语言通过尺寸和出光方式覆盖多种场景需求"
+    design_level:
+      score: 4
+      reason: "系列化设计语言统一，方截面杆与矩形面板形态高度一致，双面出光变体提升功能价值，专业照明感强"
+    design_tags: ["装饰落地灯", "系列化", "方截面杆", "矩形面板", "双面出光", "哑光黑", "H05模块化", "H07极简整合"]
+    hero_feature: "双面出光矩形面板 + 方截面铝杆——一个面板同时照亮上下方向，建筑级照明语言"
+    problem_solved: "单面出光落地灯只能照亮一个方向，双面出光版在同一站立位置同时提供天花反射光 + 工作台直射光"
+    transferable_technique: "双面出光矩形面板，可迁移至任何需要'上下双向照明'的落地灯或吊灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_019"
+    source_images:
+      - filename: "53.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/53.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图（明亮办公环境）：白色矩形面板落地灯置于办公桌旁，白色方形截面杆 + 大型矩形面板灯头（约50×30cm）朝上出光；一位女性站立旁边仰望灯头；场景白色明亮现代"
+    product_name: "白色矩形面板上照办公落地灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "方形截面白色铝杆 + 大型矩形LED面板（约50×30cm，灯头朝上）+ 矩形薄底座；整体高度约180-200cm（参考人体），比例修长"
+      light_opening: "矩形面板朝上出光（上照），天花洗光，大面积均匀漫射，适合办公照明"
+      thermal: "铝框大面积散热，朝上方向利于热对流"
+      cmf:
+        color: "通体白色"
+        material: "铝合金方形截面杆 + 铝合金矩形面板框架 + 乳白PC扩散板"
+        finish: "全件白色粉末喷涂哑光"
+      mounting: "独立落地式，矩形薄底座，方截面杆竖直"
+      signature_detail: "大型矩形面板朝上 + 方截面白杆——面板比例大（约占总高1/4），朝上出光完全消除眩光，适合长时间工作照明"
+    design_level:
+      score: 3
+      reason: "设计语言清晰功能导向，白色系统一，但整体相对常规，装饰性弱于同批次其他产品"
+    design_tags: ["装饰落地灯", "上照", "矩形面板", "办公照明", "白色", "方截面杆", "H07极简整合"]
+    hero_feature: "大型矩形面板完全朝上——消除一切直射眩光，全部光量转化为天花反射的柔和漫射光"
+    problem_solved: "办公落地灯直射出光造成眩光和视觉疲劳，完全上照面板将全部光量转化为柔和间接光"
+    transferable_technique: "大型矩形面板完全上照配置，可迁移至任何需要'零眩光'工作照明的落地灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_020"
+    source_images:
+      - filename: "54.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/54.jpg"
+        image_role: "hero"
+        visual_anchor: "产品特写（灰白背景）：极近景灯头特写，深灰金属体扭转折弯连接矩形灯头，灯头出光面乳白，连接处一道鲜红色电源线从缝隙穿过，与哑光深灰形成强烈对比；整体折弯造型雕塑感强"
+      - filename: "56.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/56.jpg"
+        image_role: "context"
+        visual_anchor: "全身照：深灰/镍色锥形体落地灯全景，灯体为向上渐细的宽底锥形实体（类似方尖碑），顶端开缝出光，整体高度约60-70cm（台式或矮款落地灯），红色电源线从底部侧面引出"
+    product_name: "锥形实体缝隙出光落地灯（红线点睛）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "宽底向上渐细的四棱锥体（方尖碑造型），底面约25×25cm，高约60-70cm；顶端狭长缝隙出光；无传统杆件，灯体即结构体；鲜红色电源线从底部引出"
+      light_opening: "顶端极窄缝隙出光（线状光源），光束精准集中，无扩散，照亮特定小区域"
+      thermal: "大体积金属锥体兼作散热器，热质量大，散热充分"
+      cmf:
+        color: "主体：哑光深灰/镍银色；电源线：鲜红色（强烈对比）"
+        material: "铝合金或钢制锥形实体 + 内嵌LED"
+        finish: "主体哑光粉末喷涂或砂光金属；红色硅胶/织物包裹电源线"
+      mounting: "底面直接落地，无传统底座，锥体底面即接触面"
+      signature_detail: "鲜红色电源线——在哑光深灰主体上故意让鲜红色线缆从缝隙穿出裸露，红线是唯一色彩，成为视觉焦点"
+    design_level:
+      score: 5
+      reason: "锥形实体完全打破落地灯杆+头结构，缝隙出光极具戏剧感，红色电源线从藏线变成设计语言，品类假设挑战级别"
+    design_tags: ["装饰落地灯", "锥形实体", "缝隙出光", "红色电源线", "品类假设挑战", "方尖碑", "H10材料表达", "H08对比强调", "H01减法"]
+    hero_feature: "鲜红色电源线从灰色锥体缝隙裸露穿出——将通常隐藏的线缆变成最显眼的设计元素，红灰对比极致"
+    problem_solved: "落地灯电源线通常被视为需要隐藏的'丑陋必要件'，该设计将其转化为核心装饰语言"
+    transferable_technique: "用对比色电源线作为装饰元素（代替隐藏），可迁移至任何有线缆的灯具或电器"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_021"
+    source_images:
+      - filename: "55.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/55.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图（浅色家居背景）：Philips Hue 双灯头竖向轨道落地灯，黑色矩形截面细竖杆从黑色L形底座延伸，顶部附近有两个独立可旋转筒形聚光灯头（角度不同）；背景墙被紫/品红氛围色洗亮"
+    product_name: "Philips Hue 双聚光头轨道落地灯"
+    brand_name: "Philips Hue"
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "矩形截面黑色细杆 + L形底座（低矮） + 顶部双可旋转筒形聚光灯头，两灯头高度错开，聚光方向各自独立可调；整体轮廓极简竖线 + 两个凸出灯头"
+      light_opening: "双筒形聚光灯头，各自精准聚光，适合展示照明或读书灯双点位"
+      thermal: "独立LED模组散热，轨道杆辅助传热"
+      cmf:
+        color: "通体哑光黑"
+        material: "铝合金矩形截面杆 + 铝合金筒形灯头"
+        finish: "全件哑光黑粉末喷涂"
+      mounting: "独立落地式，L形底座，紧贴墙角或独立放置"
+      signature_detail: "两个独立可旋转筒形灯头高度错开——双头各自调向，灯头高度错位设计避免视觉拥挤，呼应轨道射灯语言"
+    design_level:
+      score: 4
+      reason: "双可调灯头落地灯实用性强，Hue生态系统RGB+智能控制加持，L形底座适合墙角放置，商业展陈逻辑清晰"
+    design_tags: ["装饰落地灯", "Philips Hue", "双聚光头", "可旋转", "轨道射灯", "RGB", "L形底座", "H12人机界面强化", "H05模块化"]
+    hero_feature: "两个独立可旋转聚光头高度错开——双点精准照明 + 高度差消除拥挤，兼具轨道射灯功能与落地灯形态"
+    problem_solved: "落地灯通常只能提供单方向漫射光，双可旋转聚光头落地灯同时提供两个精准照明点位"
+    transferable_technique: "双可旋转聚光头 + 高度错开设计，可迁移至需要多点精准照明的落地灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_022"
+    source_images:
+      - filename: "57.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/57.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图（家居客厅）：白色/银色细杆落地灯，杆身顶端约1/3处有铰接折点，灯头部分斜向延伸接超细水平LED光条（约80cm长，白色发光）；整体侧视轮廓呈斜V形；圆形底座"
+    product_name: "单折点斜臂细线光条落地灯"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "细圆杆（约8-10mm）在顶端1/3处折弯 + 斜向延伸臂 + 末端水平超细线形LED光条（约80×10mm截面）；侧视呈斜V形轮廓；圆形底座"
+      light_opening: "水平细线形LED光条出光（线光源），方向接近水平，侧向漫射，范围宽"
+      thermal: "细线形铝制光条散热"
+      cmf:
+        color: "通体白/银色"
+        material: "铝合金细杆 + 铝制细线形灯头 + 金属圆形底座"
+        finish: "全件白色或银色粉末喷涂/阳极氧化"
+      mounting: "独立落地式，圆形底座"
+      signature_detail: "顶端折弯 + 水平细线光条——折点使上半段杆身斜向延伸，末端线条灯头水平如一根发光的细棒，比例极度修长"
+    design_level:
+      score: 4
+      reason: "单折点斜V造型轻盈独特，超细水平线光条比例感强，整体形态在客厅场景有明确视觉存在感"
+    design_tags: ["装饰落地灯", "折臂", "线光源", "斜V形", "极简", "白色", "H07极简整合", "H01减法"]
+    hero_feature: "超细水平线形灯头（约80cm长×10mm截面）——极度细长比例，形如一根漂浮的发光细棒"
+    problem_solved: "传统落地灯灯头视觉体量大，超细线形灯头将灯头体量压缩至极限，关灯时几乎不可见"
+    transferable_technique: "超细线形水平灯头 + 单折点斜臂，适用于追求'极度轻薄线条感'的家居落地灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_落地灯_装饰_b2_023"
+    source_images:
+      - filename: "58.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/落地灯/装饰落地灯/58.jpg"
+        image_role: "hero"
+        visual_anchor: "场景图（家居客厅，钢琴旁）：黑色细杆大弧臂落地灯，杆身从圆形底座经大弧度弯曲横跨至钢琴上方，末端水平超细LED光条（约100cm长）发光；黑色圆形底座，红灯夜色背景"
+    product_name: "大弧臂超长线光条落地灯（钢琴灯应用）"
+    brand_name: ""
+    brand_confidence: "medium"
+    category_path: ["灯具", "落地灯", "装饰落地灯"]
+    design_language:
+      silhouette: "大弧度弯臂（从底座弯曲约120-150°弧，横向跨度约80-100cm）+ 末端超长水平细线LED光条（约100cm），侧视轮廓呈大弓形；圆形底座"
+      light_opening: "超长水平线光条朝下出光，精准覆盖钢琴键盘等大面积水平面，出光均匀"
+      thermal: "超长铝制线条灯头散热面积充足"
+      cmf:
+        color: "通体哑光黑"
+        material: "铝合金大弧度弯臂杆 + 铝制超长线形灯头 + 金属圆形底座"
+        finish: "全件哑光黑粉末喷涂"
+      mounting: "独立落地式，圆形底座，大弧度臂跨越较大水平距离"
+      signature_detail: "大弧臂 + 超长线光条——弧臂横跨约100cm，配合100cm长线条灯头，形成悬挑弓形剪影，专为覆盖大尺寸水平工作面设计"
+    design_level:
+      score: 4
+      reason: "大弧臂+超长线光条的专用场景设计（钢琴/画桌）清晰，弧形轮廓优雅，跨度大但结构视觉轻盈"
+    design_tags: ["装饰落地灯", "大弧臂", "超长线光条", "钢琴灯", "弓形", "哑光黑", "H06仿生", "H07极简整合"]
+    hero_feature: "大弧臂100cm超长水平线光条——弧臂跨越约100cm水平距离，线条灯覆盖整个钢琴键盘，造型如弓"
+    problem_solved: "钢琴等大尺寸水平面需要超长均匀照明，大弧臂使落地灯底座可以远离被照物，不占用钢琴旁地面"
+    transferable_technique: "大弧度弯臂 + 超长线形灯头，适用于需要远距离横跨照射大面积水平面的专用落地灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

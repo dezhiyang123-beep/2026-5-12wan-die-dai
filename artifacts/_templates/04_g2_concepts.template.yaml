@@ -1,0 +1,70 @@
+# G2概念包模板（conceptor输出）
+# 符合 contracts/g2_concepts.schema.yaml
+
+project_id: "20260403-ACG-LIGHT"
+selected_direction_id: "D-A"
+
+persona_group:
+  - name: "Henry Dreyfuss"
+    thinking_type: "人因体验"
+    label: "严格/保守"
+    selection_reason: "固定机构核心是人因——手握/安装动作必须单手可完成"
+  - name: "James Dyson"
+    thinking_type: "工程/成本"
+    label: "严格/激进"
+    selection_reason: "固定机构的工程突破是差异化来源"
+  - name: "Karim Rashid"
+    thinking_type: "加法/情感"
+    label: "直觉/激进"
+    selection_reason: "在工具感基础上寻找可感知的视觉差异"
+  - name: "Buckminster Fuller"
+    thinking_type: "系统/资源效率"
+    label: "严格/激进"
+    selection_reason: "多固定模式的系统效率——一个机构解决多种固定场景"
+
+triz_contradiction:
+  improve_param: "固定可靠性"
+  worsen_param: "安装速度/便利性"
+  statement: "要提升固定可靠性，但会导致安装速度变慢、操作步骤增加"
+  solution_directions:
+    - "方向A（结构层）：设计自锁机构，固定后无需持续施力，一步到位"
+    - "方向B（使用模式层）：预设固定点——产品本身提供固定辅助（如粘扣带/夹片）"
+
+concepts:
+  - concept_id: "C-01"
+    driven_by: "Henry Dreyfuss"
+    title: "单手锁定工作灯"
+    core_concept: "灯体集成旋转夹持臂，可夹持8-25mm直径的管道/型材。单手推入即锁定，单手按键释放。磁吸底座作为次要固定方式保留。"
+    decision_core: "夹持锁定的不可替代点：夹住管道后完全解放双手，磁吸无法做到"
+    counterfactual: "如果不做夹持而只靠磁吸，用户在非金属面场景（PVC管/木材/工作台）完全没有固定点"
+    differentiator: "NEBO Slyde King有磁吸无夹持，本方案在管道/型材场景固定力远超它"
+    structure_path: "旋转夹臂铰接在灯体一侧，弹簧预加载保持夹紧。内置橡胶衬垫增加摩擦力，不损伤被夹物体。"
+    bom_estimate: "$11-14"
+    dfm_flag: "旋转夹臂铰链耐久性需验证（目标≥5000次），注塑件与金属件配合公差要求较高"
+    dfm_verdict: "CONDITIONAL"
+
+  - concept_id: "C-02"
+    driven_by: "James Dyson"
+    title: "磁力增强基站灯"
+    core_concept: "灯体底部采用钕磁铁阵列（vs 普通单磁铁），吸附力提升3倍。配套磁性贴片（3片随包装），可粘贴在非金属面提供吸附点。"
+    decision_core: "磁力阵列的不可替代点：在薄钢板/工具箱/汽车面板上的固定可靠性质变提升"
+    counterfactual: "如果只是普通磁铁，灯在垂直金属面震动环境中必然脱落"
+    differentiator: "NEBO磁吸力约0.5kg，本方案目标≥2kg，工业场景从'勉强用'到'可靠用'"
+    structure_path: "底部集成4颗N52钕磁铁，2×2阵列布置。随机配件3片自粘磁性底板（可反复使用）。"
+    bom_estimate: "$9-12"
+    dfm_flag: "N52磁铁成本较高（约$1.5/颗），4颗增加约$6 BOM，需评估是否在目标价格带内"
+    dfm_verdict: "CONDITIONAL"
+
+  - concept_id: "C-03"
+    driven_by: "TRIZ解法A"
+    title: "自锁夹持折叠灯"
+    core_concept: "灯体本身可折叠成夹具形态，利用弹簧预加载原理夹持任意截面（管道/板材/帘布）。不使用时折叠收纳，不增加体积。"
+    decision_core: "形态即夹具的不可替代点：不需要额外附件，灯本身就是固定工具"
+    counterfactual: "如果用额外夹具附件，用户会嫌麻烦而不带，导致固定功能形同虚设"
+    differentiator: "竞品矩阵中无类似形态，DEWALT/NEBO都是分离夹具设计"
+    structure_path: "灯体铰接两部分，弹簧提供夹持力。照明面在其中一半，控制面在另一半。张开角度0-45°。"
+    bom_estimate: "$13-16[激进备选，BOM超标]"
+    dfm_flag: "双铰链机构复杂度高，折叠耐久性（目标≥10000次）和防水处理难度大"
+    dfm_verdict: "CONDITIONAL"
+
+homogeneity_check: "C-01和C-03都是夹持方向，结构路径有重叠。C-03保留是因为形态创新（灯即夹具）与C-01（夹臂附件）在concept层面不同。如果用户要求进一步差异化，建议替换C-03为Rashid人格驱动的情感化方向。"

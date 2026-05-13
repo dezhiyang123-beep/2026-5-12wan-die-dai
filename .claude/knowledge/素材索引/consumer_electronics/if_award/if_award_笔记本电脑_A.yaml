@@ -1,0 +1,429 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "笔记本电脑"
+  tertiary: ""
+source:
+  source_type: "award_database"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_laptop_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/01.jpg"
+        image_role: "hero"
+        visual_anchor: "四方位展开造型，展示360°翻转铰链全形态"
+    product_name: "Inspiron 13 7000 2-in-1"
+    brand_name: "Dell"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "二合一"]
+    design_language:
+      silhouette: "标准矩形薄体，四角倒圆，A/B/C/D面均等厚度，翻转后呈平板形态"
+      light_opening: "16:9全贴合屏幕，窄边框，顶部摄像头区有细条黑框"
+      thermal: "底部边缘可见细长散热出风口，铰链两侧有通风缝"
+      cmf:
+        color: "深空灰/碳灰（Graphite）"
+        material: "铝合金A面，工程塑料C面"
+        finish: "A面细砂喷涂，C面哑光塑料"
+      mounting: "360°翻转铰链，铰链轴外露，可停驻四种模式"
+      signature_detail: "Dell logo浮雕于A面右下角；铰链轴为银色金属对比色"
+    design_level:
+      score: 3
+      reason: "功能完善的2-in-1形态，设计端正但缺乏记忆点，整体属主流商务消费定位"
+    design_tags: ["2-in-1", "360度翻转", "商务", "深灰", "铰链外露", "多形态"]
+    hero_feature: "360°翻转铰链实现笔记本/帐篷/展示/平板四模式"
+    problem_solved: "单一笔记本形态无法满足触控演示与书写场景"
+    transferable_technique: "铰链轴作为视觉分件线，兼顾结构展示与设计细节；A面浮雕logo定位法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_002"
+    source_images:
+      - filename: "29.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/29.jpg"
+        image_role: "hero"
+        visual_anchor: "四台叠摞展示产品族系，A面正面构图"
+    product_name: "ThinkBook系列（多代叠摞）"
+    brand_name: "Lenovo"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "商务本"]
+    design_language:
+      silhouette: "极薄矩形板状，四角小圆角，各代厚度递减趋势明显"
+      light_opening: "（屏幕朝下叠放，不可见）"
+      thermal: "铰链处可见细缝排热设计"
+      cmf:
+        color: "深灰（Storm Grey）到浅银（Arctic Grey）渐进色系"
+        material: "铝合金A面"
+        finish: "A面细砂氧化铝，边缘拉丝过渡"
+      mounting: "传统单轴铰链，铰链细节精致"
+      signature_detail: "ThinkBook字体logo刻于A面右下，字体粗体斜体强调品牌个性"
+    design_level:
+      score: 3
+      reason: "家族一致性强，色系演进清晰，但单张图内设计信息量有限，属稳健商务设计"
+    design_tags: ["家族设计", "商务", "铝合金", "深灰", "薄体", "ThinkBook"]
+    hero_feature: "多代同堂叠摞构图，呈现家族厚度演进与色系谱系"
+    problem_solved: "商务用户需要兼顾专业感与轻薄便携"
+    transferable_technique: "产品族系叠摞构图法；A面右下logo定位规范"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_003"
+    source_images:
+      - filename: "30.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/30.jpg"
+        image_role: "hero"
+        visual_anchor: "双屏完全展开正面构图，折叠铰链居中"
+    product_name: "双屏折叠笔记本（未知品牌）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "笔记本电脑", "折叠屏"]
+    design_language:
+      silhouette: "双屏对折形态，展开后为近正方形大屏，折叠铰链位于中央水平轴"
+      light_opening: "双16:9屏幕上下拼接，折叠线处有约3mm黑色间隙，整体近似16:18超宽比"
+      thermal: "底部设备（右侧小图）可见薄型底座，散热结构不可见"
+      cmf:
+        color: "深空灰机身，黑色屏幕边框"
+        material: "铝合金外壳（推测）"
+        finish: "亚光深灰，边框窄黑色"
+      mounting: "水平折叠铰链，铰链轴横贯全宽，折叠线极窄"
+      signature_detail: "折叠铰链处极窄间隙，视觉上屏幕几乎无缝连接"
+    design_level:
+      score: 5
+      reason: "双屏折叠形态为品类颠覆性创新，折叠线处理克制，整体视觉冲击力强，具备极高可迁移性"
+    design_tags: ["折叠屏", "双屏", "创新形态", "品类突破", "大屏", "折叠铰链"]
+    hero_feature: "双全尺寸屏幕水平折叠，展开面积约为常规屏幕2倍"
+    problem_solved: "单屏笔记本无法提供足够多任务处理显示空间"
+    transferable_technique: "水平折叠铰链极窄处理手法；双屏对称构图展示最大视觉张力"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "品牌不明，需确认具体型号；折叠线间隙处理细节值得近距离核查"
+
+  - product_id: "if_laptop_004"
+    source_images:
+      - filename: "34.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/34.jpg"
+        image_role: "hero"
+        visual_anchor: "双机交叉构图，展示深灰与浅银两色方案对比"
+    product_name: "ThinkBook 14/16（双色版）"
+    brand_name: "Lenovo"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "商务本"]
+    design_language:
+      silhouette: "标准14寸薄板形态，四角圆角，A/C面视觉比例协调"
+      light_opening: "超窄边框，屏幕占比高，顶框极薄，键盘区有紫罗兰色背光点缀"
+      thermal: "铰链区域可见细条通风槽"
+      cmf:
+        color: "Storm Grey（深灰）+ Arctic Grey（浅银）双色方案，键盘区紫罗兰背光"
+        material: "铝合金A面，铝合金C面"
+        finish: "细砂氧化铝，两色版本光泽度略有差异"
+      mounting: "单轴铰链，轴线细节可见"
+      signature_detail: "键盘背光采用紫罗兰色，与灰色机身形成色相对比；Lenovo wordmark位于C面右下"
+    design_level:
+      score: 4
+      reason: "紫罗兰键盘背光与灰色机身的色相对比是强记忆点，双色方案展示视觉张力强，设计完成度高"
+    design_tags: ["商务", "双色方案", "紫色背光", "铝合金", "ThinkBook", "色相对比"]
+    hero_feature: "紫罗兰键盘背光与深/浅灰机身形成跨色系对比，增加设计个性"
+    problem_solved: "传统商务本色系单调，缺乏个性表达"
+    transferable_technique: "键盘背光色与机身色使用对比色相而非同色系；双色SKU交叉构图展示法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_005"
+    source_images:
+      - filename: "39.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/39.jpg"
+        image_role: "hero"
+        visual_anchor: "暗背景侧逆光拍摄，铰链与超薄侧面剪影为核心"
+    product_name: "HP Spectre x360"
+    brand_name: "HP"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "旗舰轻薄本"]
+    design_language:
+      silhouette: "极薄楔形，从前缘到铰链侧轻微锥形，整机厚度约13mm"
+      light_opening: "边框极窄，四边接近等宽，顶框摄像头区域极小"
+      thermal: "铰链处可见细密排列的散热缝，与铰链轴形成精密质感"
+      cmf:
+        color: "自然银（Natural Silver）"
+        material: "铝合金全金属机身"
+        finish: "细砂氧化铝，边缘切削高光倒角"
+      mounting: "360°翻转铰链，铰链轴为圆柱形，与机身边缘一体感强"
+      signature_detail: "铰链处切削高光倒角形成视觉光带；前缘极薄切边造型"
+    design_level:
+      score: 5
+      reason: "暗背景逆光构图完美呈现铰链光带与超薄剖面，设计完成度极高，是旗舰轻薄本的标杆造型"
+    design_tags: ["旗舰", "超薄", "铝合金", "切削高光", "360度翻转", "暗调摄影", "HP Spectre"]
+    hero_feature: "铰链处切削高光倒角形成连续光带，强化金属质感与精密工艺感"
+    problem_solved: "轻薄本铰链区域通常是设计弱点，此方案将其转化为品牌记忆点"
+    transferable_technique: "铰链轴高光倒角处理；暗背景逆光摄影放大轮廓与材质感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_006"
+    source_images:
+      - filename: "40.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/40.jpg"
+        image_role: "detail"
+        visual_anchor: "合盖侧视图，三段式铰链轴横贯全宽，SPECTRE字样刻于前缘"
+    product_name: "HP Spectre（合盖侧面）"
+    brand_name: "HP"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "旗舰轻薄本"]
+    design_language:
+      silhouette: "合盖后呈极薄矩形板状，厚度均匀，侧面呈直线轮廓"
+      light_opening: "（合盖状态，屏幕不可见）"
+      thermal: "铰链轴两端有小间隙，推测为散热辅助"
+      cmf:
+        color: "自然银"
+        material: "铝合金全金属"
+        finish: "细砂铝，铰链轴抛光圆柱面"
+      mounting: "三段分体式铰链设计：左段+中段+右段，各段间有约2mm间隙，形成韵律感"
+      signature_detail: "铰链前缘激光刻字\"SPECTRE\"，字体极细，低调奢华；三段铰链轴圆柱面高光"
+    design_level:
+      score: 5
+      reason: "三段式铰链是HP Spectre最强设计DNA，刻字细节体现极致工艺追求，侧面构图完美展示分件美学"
+    design_tags: ["铰链细节", "三段铰链", "刻字工艺", "侧面构图", "旗舰", "HP Spectre", "低调奢华"]
+    hero_feature: "三段分体式圆柱铰链，前缘激光刻SPECTRE品牌字，是全球辨识度最高的笔记本铰链设计"
+    problem_solved: "铰链作为功能件通常被隐藏，此设计将其转化为品牌标志性美学元素"
+    transferable_technique: "铰链分段化处理产生韵律感；功能件表面激光刻字强化品牌感知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_007"
+    source_images:
+      - filename: "42.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/42.jpg"
+        image_role: "hero"
+        visual_anchor: "斜45°俯视构图，香槟金C面与黑色A面形成强色彩对比"
+    product_name: "HP Envy 13（香槟金版）"
+    brand_name: "HP"
+    brand_confidence: "medium"
+    category_path: ["消费电子", "笔记本电脑", "时尚轻薄本"]
+    design_language:
+      silhouette: "标准矩形薄体，前缘略薄于铰链侧，轻微楔形"
+      light_opening: "16:9屏幕，边框较宽（约8mm），顶部有Beats Audio标识"
+      thermal: "不可见"
+      cmf:
+        color: "香槟金（C面/底面）+ 黑色（A面/屏幕框）双色对比"
+        material: "铝合金C面，塑料A面（推测）"
+        finish: "C面拉丝铝，A面哑光黑"
+      mounting: "单轴铰链，铰链细节不突出"
+      signature_detail: "HP logo居于A面屏幕下居中；Beats Audio红色标识于屏幕左上角，形成点缀色"
+    design_level:
+      score: 3
+      reason: "香槟金+黑色双色方案在当年具有辨识度，但整体造型较普通，Beats联名是最大差异化点"
+    design_tags: ["香槟金", "双色对比", "Beats联名", "时尚", "HP Envy", "拉丝铝"]
+    hero_feature: "香槟金拉丝铝C面与哑光黑A面的强色彩反差，Beats Audio红色点缀色"
+    problem_solved: "消费者需要能彰显个性的时尚笔记本而非千篇一律的银灰色"
+    transferable_technique: "C面（键盘区）与A面（屏盖）使用强对比色；单点高饱和色logo作为点缀色"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_008"
+    source_images:
+      - filename: "43.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/43.jpg"
+        image_role: "detail"
+        visual_anchor: "纯侧面剖影图，展示接口布局与机身厚度轮廓"
+    product_name: "未知超薄本（侧面接口细节）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "笔记本电脑", "超薄本"]
+    design_language:
+      silhouette: "极薄楔形侧面，从前缘约6mm到铰链侧约15mm的明显锥形"
+      light_opening: "（侧面视角，屏幕不可见）"
+      thermal: "铰链侧边缘可见细长散热出风口"
+      cmf:
+        color: "深巧克力棕（机身上下面）+ 香槟银（侧边缘金属边框）"
+        material: "铝合金侧边框，深色处理外壳"
+        finish: "侧边框拉丝铝，外壳哑光深棕"
+      mounting: "单轴铰链"
+      signature_detail: "侧面集中布置USB 3.0 x1 + Thunderbolt x1 + HDMI x1 + 耳机口 + 电源口，接口密度高"
+    design_level:
+      score: 2
+      reason: "仅侧面构图，设计信息量极少，棕色+香槟边框组合较特殊但整体设计语言不突出"
+    design_tags: ["侧面细节", "楔形", "深棕", "接口布局", "超薄", "香槟边框"]
+    hero_feature: "楔形侧面轮廓配合两色材质对比（深棕面+香槟侧边）"
+    problem_solved: "超薄机身接口数量与厚度限制之间的平衡"
+    transferable_technique: "侧面双色材质分界线同时作为结构分件线；接口集中布置于机身单侧"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "品牌不明，深棕色+香槟边框组合较少见，需人工核实品牌归属"
+
+  - product_id: "if_laptop_009"
+    source_images:
+      - filename: "44.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/44.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "室内自然光使用场景，女性用户视频通话"
+    product_name: "HP ZBook / EliteBook（生活方式）"
+    brand_name: "HP"
+    brand_confidence: "medium"
+    category_path: ["消费电子", "笔记本电脑", "专业本"]
+    design_language:
+      silhouette: "标准矩形薄体，从后方角度可见屏盖，深空灰配色"
+      light_opening: "屏幕开启约120°，内容不可见，HP logo清晰可见于A面中央"
+      thermal: "不可见"
+      cmf:
+        color: "深空灰（Slate Grey）"
+        material: "铝合金或镁铝合金（推测）"
+        finish: "细砂哑光"
+      mounting: "单轴铰链"
+      signature_detail: "HP新版logo（竖条纹方形）位于A面中央偏上，logo比例较大"
+    design_level:
+      score: 2
+      reason: "生活方式图，产品本身细节无法评估，主要价值在于使用场景参考"
+    design_tags: ["生活方式", "专业本", "深灰", "HP logo", "室内场景", "视频通话"]
+    hero_feature: "专业创作者使用场景：视频通话+画廊环境"
+    problem_solved: "专业移动工作站需兼顾便携性与屏幕表现"
+    transferable_technique: "使用场景搭建：艺术/创意工作室环境强化目标用户认同感"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "medium"
+      product_grouping: "low"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_010"
+    source_images:
+      - filename: "45.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/45.jpg"
+        image_role: "lifestyle"
+        visual_anchor: "暖光古典室内使用场景，女性用户俯身查看屏幕"
+    product_name: "HP ZBook / EliteBook（生活方式2）"
+    brand_name: "HP"
+    brand_confidence: "medium"
+    category_path: ["消费电子", "笔记本电脑", "专业本"]
+    design_language:
+      silhouette: "标准矩形薄体，深灰机身，屏幕开启约70°低角度"
+      light_opening: "屏幕内容为3D陶器模型渲染界面，高色准显示器暗示"
+      thermal: "不可见"
+      cmf:
+        color: "深空灰"
+        material: "铝合金（推测）"
+        finish: "细砂哑光"
+      mounting: "单轴铰链"
+      signature_detail: "HP logo可见于A面，屏幕显示3D专业软件内容强化专业定位"
+    design_level:
+      score: 2
+      reason: "生活方式图为主，暖光古典环境与专业本定位形成有趣反差，产品细节不清晰"
+    design_tags: ["生活方式", "专业本", "3D设计软件", "暖光场景", "古典室内", "HP"]
+    hero_feature: "古典书房环境中使用3D专业软件，强调创意专业场景"
+    problem_solved: "专业创作者需要随时随地的高性能移动工作站"
+    transferable_technique: "反差场景搭建：古典/传统环境配现代科技产品，制造视觉张力"
+    confidence:
+      visual_description: "medium"
+      category: "high"
+      brand: "medium"
+      product_grouping: "low"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_011"
+    source_images:
+      - filename: "59.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/59.jpg"
+        image_role: "detail"
+        visual_anchor: "铰链区域特写+全机缩略图，展示扬声器网格与隐形铰链结构"
+    product_name: "Compal概念笔记本（铰链细节）"
+    brand_name: "Compal"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "概念设计"]
+    design_language:
+      silhouette: "铰链区域呈多层叠片结构，隐藏式铰链从机身底部延伸出，扬声器网格外显"
+      light_opening: "（细节图，屏幕不可见）"
+      thermal: "铰链区域集成细密金属网格散热通道，兼作扬声器出音孔"
+      cmf:
+        color: "哑光黑（A/B面）+ 深蓝/青色（C面/底面）"
+        material: "铝合金（推测），钢制网格扬声器面板"
+        finish: "A面高光黑，C面深蓝亮面，扬声器区金属亮面网格"
+      mounting: "多轴叠片式悬浮铰链，铰链从底部伸出，开盖时机身后侧抬起"
+      signature_detail: "铰链处金属叠片层次分明，扬声器网格呈圆形阵列，与铰链结构融合"
+    design_level:
+      score: 4
+      reason: "铰链-扬声器一体化设计是强创新点，哑光黑与深蓝双色构成高辨识度视觉，具备强可迁移性"
+    design_tags: ["概念设计", "铰链创新", "扬声器外显", "双色对比", "Compal", "黑蓝配色", "叠片铰链"]
+    hero_feature: "铰链区域集成扬声器网格，功能部件视觉化，叠片层次形成精密感"
+    problem_solved: "扬声器通常被隐藏在底部，声音表现差；此设计将扬声器外置并与铰链结构融合"
+    transferable_technique: "功能部件（铰链/扬声器）视觉化处理；叠片层次制造精密质感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_laptop_012"
+    source_images:
+      - filename: "60.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/笔记本电脑/60.jpg"
+        image_role: "hero"
+        visual_anchor: "双机交叉构图，正面+背面同时展示，黑蓝双色对比清晰"
+    product_name: "Compal概念笔记本（全机展示）"
+    brand_name: "Compal"
+    brand_confidence: "high"
+    category_path: ["消费电子", "笔记本电脑", "概念设计"]
+    design_language:
+      silhouette: "标准矩形薄体，前缘极薄，后部因铰链悬浮结构略厚，整体呈轻微楔形"
+      light_opening: "16:9黑色屏幕，边框较窄，铰链上方可见扬声器网格横条"
+      thermal: "底部可见大面积网格纹理散热区域，与整机纹理语言统一"
+      cmf:
+        color: "哑光黑（A/B面）+ 深蓝（C面底面），蓝色区域有皮革/织物纹理"
+        material: "铝合金A面，软质纹理材料C面（类皮革或织物）"
+        finish: "A面高光黑，C面深蓝软质纹理，底部金属网格"
+      mounting: "悬浮叠片铰链，背面可见铰链支撑臂从底部延伸"
+      signature_detail: "C面大面积深蓝软质纹理材料与黑色硬质外壳形成材质强对比；底部金属网格全覆盖"
+    design_level:
+      score: 4
+      reason: "黑+蓝双色+材质混搭（硬+软）是强设计语言，底部全覆盖网格纹理统一性强，整体完成度高"
+    design_tags: ["概念设计", "黑蓝双色", "材质对比", "软质纹理", "网格散热", "Compal", "悬浮铰链"]
+    hero_feature: "C面使用深蓝软质纹理材料，与黑色硬质A面形成触感+视觉双重对比"
+    problem_solved: "全铝金属笔记本触感冰冷单调，此设计通过软质C面改善手托区触感与视觉温度"
+    transferable_technique: "C面（手托区）使用软质/温暖材料改善触感；硬软材质分界线即为设计分件线"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

@@ -1,0 +1,130 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电池系统"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电池系统/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_电池系统_001"
+    source_images:
+      - filename: "电池系统__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电池系统/电池系统__01.jpg"
+        image_role: "hero"
+        visual_anchor: "M12 FUEL套装，含M12 FUEL棘轮扳手+M12电池（黑色长方体）+M12充电器（红黑方形）+红色Milwaukee软包，背景印M12 FUEL大字，套装照正面展示配件关系"
+      - filename: "电池系统__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电池系统/电池系统__02.jpg"
+        image_role: "alt"
+        visual_anchor: "与01相同套装的另一角度，M12 FUEL棘轮扳手+电池+充电器+软包，略有旋转角度差异，展示套装整体尺寸关系"
+      - filename: "电池系统__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电池系统/电池系统__03.jpg"
+        image_role: "alt"
+        visual_anchor: "M12 FUEL套装第三角度，棘轮扳手+电池（稍大版）+充电器+软包，软包颜色与01/02略有差异，整体构成一致"
+    product_name: "Milwaukee M12 FUEL 电池系统套装（含棘轮扳手）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电池系统", "M12"]
+    design_language:
+      silhouette: "套装系统图：工具+电池+充电器三件统一Milwaukee红黑语言，软包作为视觉背景统一整体"
+      light_opening: "N/A"
+      thermal: "充电器顶部散热格栅可见"
+      cmf:
+        color: "亮红色（软包+充电器上壳+工具机身）+ 黑色（电池+充电器下壳+工具功能区）"
+        material: "工程塑料（工具+充电器）+ 锂电池（内置）+ 牛津布软包"
+        finish: "红色区哑光，黑色区哑光，Milwaukee品牌白色烫印"
+      mounting: "M12滑轨底部插入式（全系通用接口）"
+      signature_detail: "M12系统所有配件（工具/电池/充电器/包）统一红黑配色；M12 FUEL标识在包和工具上重复出现；电池为扁平紧凑型适配M12紧凑工具"
+    design_level:
+      score: 3
+      reason: "M12套装展示Milwaukee电池系统的配件一致性设计，红黑语言贯穿全部配件，软包设计强化品牌存在感，系统整合执行到位，无单件突破创新"
+    design_tags:
+      - "H05_模块化"
+      - "H08_对比强调"
+    hero_feature: "全套配件（工具/电池/充电器/软包）统一Milwaukee红黑色彩系统，M12接口通用性"
+    problem_solved: "工地携带多件工具+备用电池+充电器的收纳和系统配对问题，统一接口减少配件管理负担"
+    transferable_technique: "电动工具套装图中软包作为品牌背景板+配件统一色系的整体感呈现方式"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "图片主体为M12棘轮扳手套装而非单独电池/充电器，category.secondary='电池系统'与图片主要展示内容存在偏差，建议确认此文件夹的索引意图"
+
+  - product_id: "milwaukee_电池系统_002"
+    source_images:
+      - filename: "电池系统__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电池系统/电池系统__04.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL SAWZALL往复锯侧视，黑色前端（含锯片夹头+防振橡胶）+红色机身（Milwaukee FUEL大字）+M18 XC RED LITHIUM电池底部，横向机身+D形手柄，轮廓狭长扁平"
+    product_name: "Milwaukee M18 FUEL SAWZALL 往复锯"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电池系统", "M18"]
+    design_language:
+      silhouette: "横向扁平枪形，前端工作区+中段机身+D形手柄+底部电池，前后延伸轮廓细长，俯视长方形"
+      light_opening: "N/A"
+      thermal: "机身侧面散热槽嵌入黑色区域"
+      cmf:
+        color: "黑色（前端工作区）+ 亮红色（主机身）+ 黑色M18 RED LITHIUM电池"
+        material: "工程塑料 + 橡胶防振 + 钢制锯片夹头"
+        finish: "机身哑光，前端防振橡胶哑光黑"
+      mounting: "M18 XC底部插入式"
+      signature_detail: "SAWZALL大字烫印机身，黑色前端工作区（防振+夹头）与红色机身的前后切割，M18 XC大容量电池造型粗壮"
+    design_level:
+      score: 3
+      reason: "SAWZALL是Milwaukee标志性产品，黑色前端+红色机身的前后色块切割清晰标记功能分区，M18 XC电池的粗壮比例与整机形成强力感，品牌执行标准到位"
+    design_tags:
+      - "H08_对比强调"
+      - "H03_分件线"
+      - "H02_包覆"
+    hero_feature: "黑色防振前端与红色机身的前后色块切割，M18 XC粗壮电池的力量感"
+    problem_solved: "重度切割应用中的防振降疲劳，无线化解决工地布线限制"
+    transferable_technique: "黑色工作区前端+红色动力机身的前后色块切割分区手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_电池系统_003"
+    source_images:
+      - filename: "电池系统__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电池系统/电池系统__05.jpg"
+        image_role: "hero"
+        visual_anchor: "M18 FUEL无线电锤套装，含电锤本体+M18电池+充电器+红色硬壳箱，WiFi图标可见（ONE-KEY），红色机身+银灰SDS头部，标准Milwaukee套装展示构图"
+    product_name: "Milwaukee M18 FUEL 无线电锤套装"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电池系统", "M18 FUEL"]
+    design_language:
+      silhouette: "套装图：电锤T形轮廓+电池长方体+充电器方形+红色硬壳箱，以箱体为背景的系统展示"
+      light_opening: "N/A"
+      thermal: "电锤机身侧面散热格栅可见"
+      cmf:
+        color: "亮红色（箱体+电锤机身+充电器上壳）+ 银灰色（SDS头部压铸件）+ 黑色（电池+握把区）"
+        material: "工程塑料+压铸铝合金头部+RED LITHIUM电池+ABS硬壳箱"
+        finish: "红色区哑光，压铸件机加工高光，箱体模内纹理"
+      mounting: "M18滑轨式电池"
+      signature_detail: "红色硬壳Milwaukee箱作为高端套装标志，ONE-KEY WiFi徽标，银灰压铸SDS头部与红色机身的材质+色彩双重对比"
+    design_level:
+      score: 4
+      reason: "红色硬壳箱是Milwaukee高端套装的品牌标志，与竞品软包/纸盒包装形成差异化，ONE-KEY数字连接功能的视觉表达强化专业形象，套装整体呈现造型有创新"
+    design_tags:
+      - "H05_模块化"
+      - "H08_对比强调"
+      - "H03_分件线"
+    hero_feature: "红色Milwaukee品牌硬壳箱 + ONE-KEY无线连接标识 + 银灰压铸头与红色机身双重对比"
+    problem_solved: "高价值专业工具套装的携带、存储和配件管理，ONE-KEY实现工具追踪和参数管理"
+    transferable_technique: "品牌色硬壳收纳箱作为套装包装升级手法；套装展示图中箱体作为品牌背景板的视觉层次构建"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "文件夹命名'电池系统'但图片04/05展示的是完整工具产品（往复锯/电锤），并非电池或充电系统本身，建议确认文件夹分类意图是否为'展示M18系统生态'而非单独电池产品"

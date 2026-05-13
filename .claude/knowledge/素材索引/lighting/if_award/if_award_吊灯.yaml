@@ -1,0 +1,132 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "吊灯"
+  tertiary: ""
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/"
+  generated_at: "2026-05-09"
+# 子类：创意吊灯(140)、枝形吊灯(5)、线型吊灯(47)，共192张
+
+products:
+  - product_id: "if_灯具_吊灯_创意_001"
+    source_images:
+      - filename: "创意吊灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/创意吊灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "大型餐厅吊灯装置：多个不规则烟灰色有机玻璃碟片（约200-400mm）叠层挂于黑色金属横梁框架上，碟片中央各有圆形穿孔，整体成簇状悬挂"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "吊灯", "创意吊灯"]
+    design_language:
+      silhouette: "不规则有机碟片（类雨滴/树叶形）多层叠挂，形成立体云状整体轮廓，横跨约1200-1500mm"
+      light_opening: "LED集成于框架结构，光从碟片间隙透出，通过碟片折射产生复杂光影"
+      thermal: "LED模块集成于金属骨架，通过框架散热"
+      cmf:
+        color: "烟灰色半透明有机玻璃碟片 + 黑色金属骨架"
+        material: "浇铸有机玻璃/纹理玻璃碟片 + 黑色钢制骨架"
+        finish: "半透明烟灰质感碟片 + 哑黑金属框"
+      mounting: "天花多线缆吊挂，骨架分布悬挂点"
+      signature_detail: "碟片中央穿孔+叠层关系：每个碟片的圆形穿孔与其他碟片的错位叠层，使从下仰视时形成复杂的多重圆形框景，光从缝隙中透出时产生动态层次"
+    design_level:
+      score: 5
+      reason: "将吊灯从点光源/面光源升级为三维光学装置；有机碟片的手工质感与黑色精密骨架的工业精度形成材料张力；叠层穿孔碟片的光学效果在投光时在天花形成复杂光影图案"
+    design_tags:
+      - "有机玻璃碟片"
+      - "叠层云状"
+      - "建筑装置感"
+      - "多层光影"
+      - "H05模块化"
+      - "H04参数化"
+    hero_feature: "多层有机碟片叠挂：不规则烟灰碟片多层叠悬，从任意角度看都构成不同的层叠关系，光从间隙透出时形成动态深度"
+    problem_solved: "大型空间（餐厅/展厅）需要兼具视觉统治力和精致感的照明装置；有机碟片叠层结构以较少的光源实现了大面积视觉覆盖，同时避免了普通多头吊灯的杂乱感"
+    transferable_technique: "将单一基本元素（碟片/球体/板片）以不均匀叠层/阵列方式构成整体吊灯装置，既保持系统一致性又避免机械重复；有机玻璃/玻璃的半透明叠层光学效果"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_吊灯_枝形_001"
+    source_images:
+      - filename: "枝形吊灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/枝形吊灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "落地窗前悬挂多组透明/琥珀色大直径玻璃球（直径约300-500mm），内嵌LED环形光源，球体漂浮于不同高度，框景秋天树林"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "吊灯", "枝形吊灯"]
+    design_language:
+      silhouette: "多个直径不等（300-500mm）的大玻璃球体，通过细线/细杆各自独立悬挂于不同高度，形成散点式立体构成"
+      light_opening: "球体内嵌LED环形光源，光经球体全向漫射，通透时可见内部发光圆环"
+      thermal: "低功率LED内置，热量由玻璃球体散逸"
+      cmf:
+        color: "透明/琥珀色吹制玻璃"
+        material: "吹制玻璃球体（不同透明度）"
+        finish: "透明或带色浮法/吹制玻璃，内可见LED环"
+      mounting: "多线缆独立悬挂，高度可调"
+      signature_detail: "球体内可见的LED发光圆环：透过透明玻璃可见内部发光圆环，产生'光环漂浮于球内'的视觉效果，将LED结构转化为装饰元素"
+    design_level:
+      score: 4
+      reason: "大直径玻璃球的比例感在住宅空间中产生强烈视觉统治力；球内可见LED环的透明性是现代材料的诚实表达；多球不同高度的散点构成创造了有机的空间韵律"
+    design_tags:
+      - "大玻璃球吊灯"
+      - "多球散点"
+      - "内嵌LED环"
+      - "透明玻璃"
+      - "H10材料表达"
+    hero_feature: "透明玻璃球内的LED发光环：透过清玻璃球壁可见内嵌的LED环形发光体，使球体在发光时呈现'环中有环'的视觉深度"
+    problem_solved: "客厅空间需要有视觉统治力的吊灯，但多头枝形吊灯往往笨重繁复；多个大透明球体各自独立悬挂，以几何纯粹性和透明感实现轻量化视觉统治"
+    transferable_technique: "大直径玻璃/透明体内嵌LED的'可见光源结构'手法；多个同形体不同高度独立悬挂的散点构成策略，适用于高挑空间的灯具装置设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_吊灯_线型_001"
+    source_images:
+      - filename: "线型吊灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/吊灯/线型吊灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "餐厅上方多联线型吊灯：十余根金色细管从天花垂下，各管末端串联大中小玻璃球泡（透明/白色），球泡形成垂直方向的串珠排列"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "吊灯", "线型吊灯"]
+    design_language:
+      silhouette: "多根细金属管从天花板垂下，每根管的底端串联3-5个大小不一的玻璃球，形成垂直串珠状，整体覆盖餐桌上方横向约1500-2000mm"
+      light_opening: "各玻璃球内置LED，全向球形漫射，产生柔和暖光点阵"
+      thermal: "低功率LED内置于各球，热量经细管传导散逸"
+      cmf:
+        color: "金色/香槟色金属管 + 透明/白色玻璃球"
+        material: "金色金属管 + 吹制玻璃球（不同尺寸）"
+        finish: "镀金/香槟色金属 + 透明/乳白玻璃"
+      mounting: "天花多点安装，每根管独立悬挂"
+      signature_detail: "竖向串珠球阵：同一垂直线上大小不等玻璃球的串联，形成竖向节奏变化；多根并列后在空间中创造了'光的雨帘'意象"
+    design_level:
+      score: 4
+      reason: "多串球泡的光雨帘形态在餐厅空间中产生强烈的氛围感和仪式感；金色金属管的选材与球泡的透明感形成精致对比；大中小球的变化比例为每串增加了个体活力"
+    design_tags:
+      - "串珠球泡吊灯"
+      - "金属管+玻璃球"
+      - "光雨帘"
+      - "餐厅氛围"
+      - "H08对比强调"
+    hero_feature: "多串竖向玻璃球阵的光雨帘：十余根金色细管各自串联大小不一玻璃球，在餐桌上方形成有密度的发光球阵，灯亮时如光的帷帘悬于桌面"
+    problem_solved: "餐厅吊灯需要在功能（餐桌面照明）和氛围（温馨感）之间取得平衡；多串球泡均匀分布提供了充足照度，球形漫射避免了眩光，金色+透明玻璃的材料组合提供了高端餐饮感"
+    transferable_technique: "单一模块（球/圆柱/碟片）的竖向串联排列构成吊灯的'光串'语言；多串并列的'光雨帘'结构适用于任何需要大面积均匀氛围照明的餐饮/酒店空间"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

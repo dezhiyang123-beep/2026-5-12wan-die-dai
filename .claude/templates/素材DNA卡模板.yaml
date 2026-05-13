@@ -1,0 +1,63 @@
+# 素材 DNA 卡模板
+# 每张有参考价值的设计图片对应一张 DNA 卡
+# 必填字段标 [必填]，其余为选填
+
+# === 基础信息 ===
+image_id: ""           # [必填] 唯一编号，格式：来源缩写-年份-序号，如 RD-2024-0847, iF-2024-0123, ERCO-001
+image_path: ""         # 图片文件的相对路径（相对于设计素材库根目录）
+source: ""             # [必填] 来源，如 "Red Dot 2024 Best of the Best" / "iF Gold 2024" / "品牌官网"
+award: ""              # 获奖信息（如有）
+brand: ""              # 品牌名
+product: ""            # 产品型号/名称
+category: ""           # [必填] 品类，如 outdoor_wall_pack / grow_light / bluetooth_speaker / power_tool
+sub_category: ""       # 子品类（如有）
+
+# === 造型解剖（系统检索的核心字段）===
+silhouette: ""         # [必填] 整体轮廓描述，用几何语言。如"扁平椭圆盘，高宽比约1:5" / "竖直圆柱，顶部微收"
+hero_feature: ""       # [必填] 最醒目的单一视觉特征。如"极薄灯体仅28mm，散热翅全部隐藏在背面"
+block_relation: ""     # 体块关系：几个体块、怎么组织。如"单体一体化，无可见分件线" / "上下两段，中间细腰过渡"
+parting_strategy: ""   # 分件策略（如果能从外观判断）。如"上下壳压铸铝，背部隐藏螺丝"
+
+# === 设计价值（最重要的字段——驱动B=60%的检索）===
+problem_solved: ""     # [必填] 这个设计解决了什么问题？用一句话写，要具体。
+                       # 好的写法："传统Area Light又厚又丑，建筑师不愿意装在好建筑上"
+                       # 差的写法："提升了产品设计水平"（太空，没有检索价值）
+form_response: ""      # [必填] 造型如何回应这个问题？即造型和问题之间的因果关系。
+                       # 好的写法："做到极薄（28mm），让灯'消失'在建筑立面上"
+                       # 差的写法："采用了极简设计"（没说清楚造型策略）
+
+# === 可迁移价值 ===
+transferable_technique: ""   # 从这个设计中可以迁移的具体手法。
+                              # 如"散热面积全部做在背面而非侧面，正视角完全看不到散热结构"
+transfer_constraint: ""      # 迁移这个手法的约束/代价。
+                              # 如"需要高导热铝合金+大面积背板，BOM约+15%"
+
+# === CMF ===
+cmf:
+  primary_color: ""          # 主色调，如"深灰" / "哑光黑" / "银白"
+  material_feel: ""          # 材质感，如"冷感拉丝铝" / "温润哑光塑料" / "混搭金属+木"
+  surface_finish: ""         # 表面处理，如"阳极氧化哑光" / "磨砂喷涂" / "抛光镜面"
+  accent: ""                 # 点缀/对比元素（如有），如"橙色硅胶密封圈" / "铜色装饰环"
+
+# === 设计水平评估 ===
+design_level: 0              # 1-5分。1=纯功能无设计 2=基本工业设计 3=中端良好设计 4=高水平设计 5=获奖/标杆级
+design_level_rationale: ""   # 打分依据，一句话。如"轮廓克制但比例精准，CMF统一感强，无多余装饰"
+
+# === 可提取设计细节（设计师级别的借鉴粒度）===
+# 一个产品可能有多个值得借鉴的局部细节
+# 设计师不是借鉴"整个产品"，而是借鉴"某条线、某个转角、某个比例、某个材质过渡"
+extractable_details:
+  - detail_id: ""            # 格式：{image_id}-D1，如 RD-2024-0847-D1
+    location: ""             # 细节在产品上的位置
+    what_is_it: ""           # 这个细节是什么（几何语言）
+    why_interesting: ""      # 为什么值得借鉴
+    transferable_to: ""      # 可以用在什么场景
+
+    # === 检索标签（必填，用于高效匹配）===
+    detail_type: ""          # line / edge / seam / proportion / texture / grille / handle / joint / transition / display / light_effect
+    transfer_value: ""       # lightweight / premium / rugged / friendly / technical / easy_install / slim / modular / low_glare / hidden_hardware
+    brand_fit: ""            # conservative / premium / playful / industrial / architectural / minimal
+    # 可以有多个 detail，不设上限
+
+# === 标签（辅助检索）===
+tags: []                     # 自由标签，如 ["极薄", "隐藏散热", "一体化", "模块化", "深腔出光", "建筑化"]

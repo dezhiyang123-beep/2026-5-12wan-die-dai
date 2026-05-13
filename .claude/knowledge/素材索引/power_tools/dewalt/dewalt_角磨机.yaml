@@ -1,0 +1,563 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "角磨机"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_角磨机_001"
+    source_images:
+      - filename: "角磨机__切割工具__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__切割工具__01.jpg"
+        image_role: "scene"
+        visual_anchor: "20V XR无刷直角磨机套装：紧凑T形/L形机体（黄色圆柱电机体+黑色直角磨头，小直径切割/磨削碟），侧面XR标识，2x XR电池+4A充电器+黄黑工具袋"
+      - filename: "角磨机__切割工具__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__切割工具__03.jpg"
+        image_role: "scene"
+        visual_anchor: "同款20V XR无刷直角磨机，俯视/45°角展示，可见直角磨头的小磨碟正面，黄色机体+XR标识，2x XR电池+4A充电器+黑黄工具袋"
+    product_name: "DeWalt 20V MAX XR Brushless Right Angle Die Grinder"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "角磨机"
+      - "直角磨机"
+    design_language:
+      silhouette: "紧凑L形/T形：短圆柱电机体（垂直轴）+直角磨头（水平轴），总长约200mm，整体比直身磨机更紧凑，适合狭窄空间"
+      light_opening: "N/A（电动工具）"
+      thermal: "电机体侧面散热格栅"
+      cmf:
+        color: "黄色（主机体）+ 黑色（磨头+散热区）+ XR徽标"
+        material: "工程塑料机体，铸铝磨头"
+        finish: "哑光黄，哑光黑"
+      mounting: "20V MAX XR标准电池底部插入"
+      signature_detail: "直角磨头使工具可在纵向无法进入的空间内研磨/切割，L形小巧轮廓是狭窄空间操作的人机工程最优解"
+    design_level:
+      score: 3
+      reason: "标准直角磨机形态，黄黑XR系统到位，人机工程对狭窄空间操作有针对性考量"
+    design_tags:
+      - "20V MAX XR"
+      - "无刷"
+      - "直角磨机"
+      - "H12_人机界面强化"
+    hero_feature: "紧凑L形直角磨头，使工具可进入正面无法操作的狭窄空间"
+    problem_solved: "狭窄空间内的金属研磨/切割，免去角度受限的直身磨机操作困难"
+    transferable_technique: "90°转向头将工作轴与握持轴解耦，以极小体量实现直角操作（H12）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_角磨机_002"
+    source_images:
+      - filename: "角磨机__切割工具__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__切割工具__02.jpg"
+        image_role: "hero"
+        visual_anchor: "20V无刷延伸杆角磨机裸机：长黑色延伸杆（约300mm，DEWALT字样浮雕）+黄色主机体（中段DEWALT+20V BRUSHLESS标识）+右端XR电池接口，左端90°直角磨头+小切割碟，整体呈T字形横向延伸"
+      - filename: "角磨机__切割工具__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__切割工具__04.jpg"
+        image_role: "hero"
+        visual_anchor: "同款延伸杆角磨机特写，45°俯视角：黄色大体量主机（DEWALT BRUSHLESS 20V标签区），前黑色延伸杆，左端磨头+切割碟，右端XR电池插槽"
+    product_name: "DeWalt 20V MAX Brushless Extended-Reach Inline Angle Grinder"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "角磨机"
+      - "延伸杆角磨机"
+    design_language:
+      silhouette: "水平长杆形态：黑色延伸杆（约1/3总长）+黄色主机体（2/3总长）+末端电池插接，左端直角磨头垂直伸出，整体呈偏置H形或侧视T形"
+      light_opening: "N/A（电动工具）"
+      thermal: "主机体侧面散热格栅"
+      cmf:
+        color: "黑色（延伸杆+磨头）+ 黄色（主机体+电池接口区）"
+        material: "工程塑料/铝合金延伸杆，工程塑料主机体"
+        finish: "哑光黑延伸杆，哑光黄主机"
+      mounting: "20V MAX XR电池末端插接（工具末端而非底部）"
+      signature_detail: "长黑色延伸杆使磨头可伸入管道/建筑开孔等深处作业，形态直白传达延伸作业需求；延伸杆浮雕DEWALT字样将品牌语言延伸到配件件上"
+    design_level:
+      score: 4
+      reason: "延伸杆形态在角磨机品类中罕见，将深孔/管内研磨场景直接外显为产品轮廓，功能形态高度统一"
+    design_tags:
+      - "20V MAX"
+      - "无刷"
+      - "延伸杆"
+      - "深孔磨机"
+      - "H11_功能外显"
+      - "H12_人机界面强化"
+    hero_feature: "长黑色延伸杆将磨头送入深孔/管道，延伸作业需求直接外显为产品最长维度特征"
+    problem_solved: "深孔/管内/建筑腔体内的研磨切割，标准角磨机无法伸入的作业场景"
+    transferable_technique: "延伸杆形态——工具的有效操作长度外显为最显著轮廓特征（H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_角磨机_003"
+    source_images:
+      - filename: "角磨机__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__01.jpg"
+        image_role: "scene"
+        visual_anchor: "20V XR无刷直身磨机套装：细圆柱笔形机体（短），左端细金属主轴伸出（1/4\"夹头），黄色/黑色机体，XR徽标，2x XR电池+4A充电器+黑黄工具袋"
+      - filename: "角磨机__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__02.jpg"
+        image_role: "hero"
+        visual_anchor: "同款20V无刷直身磨机裸机（长主轴版本）：细黑色长圆筒延伸主轴（约250mm，DEWALT浮雕），右侧主机体（黄色中段DEWALT/20V，黑色电机/散热区），末端扳机，整体呈直线笔形"
+      - filename: "角磨机__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__08.jpg"
+        image_role: "hero"
+        visual_anchor: "20V无刷直身磨机（紧凑短主轴版）：黄色主机体+黑色左端头部（DEWALT标识+工具无钥匙换刀机构可见），末端POWERSTACK电池接口，整体更短"
+      - filename: "角磨机__综合__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__09.jpg"
+        image_role: "hero"
+        visual_anchor: "同款20V无刷直身磨机安装直角附件版本：左端90°转向头（黑色，DEWALT标识+方形输出接口），机体同款黄黑CMF，末端POWERSTACK电池接口"
+    product_name: "DeWalt 20V MAX XR Brushless Die Grinder (Straight/Pencil Form)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "角磨机"
+      - "直身磨机"
+    design_language:
+      silhouette: "细圆柱笔/棒形：电机体（宽约50mm）+前伸细主轴（1/4\"夹头，可安装多种磨削附件），整体呈直线棒形，无显著粗细变化节点；可换装直角头变L形"
+      light_opening: "N/A（电动工具）"
+      thermal: "机体右侧大面积散热格栅（竖向肋格），POWERSTACK高功率散热需求"
+      cmf:
+        color: "黄色（主机体面板）+ 黑色（主轴/头部+散热区+扳机）"
+        material: "工程塑料机体，钢质主轴，铸铝直角头（可选附件）"
+        finish: "哑光黄，哑光黑"
+      mounting: "POWERSTACK电池末端横向插入（或20V MAX XR），尾端插接"
+      signature_detail: "细主轴从机体前端伸出——与角磨机宽大磨盘形成鲜明对比，笔形细长轮廓将精密研磨/打磨的操作精度感知直接外显"
+    design_level:
+      score: 3
+      reason: "标准直身磨机形态，黄黑CMF到位，可换直角附件的模块化是功能亮点，整体设计执行稳定"
+    design_tags:
+      - "20V MAX XR"
+      - "无刷"
+      - "直身磨机"
+      - "笔形"
+      - "H05_模块化设计"
+    hero_feature: "细主轴笔形机体+可换装直角头的模块化设计，一台工具实现直身和直角两种操作形态"
+    problem_solved: "金属表面精密研磨/去毛刺/成型加工，笔形使操作者精确控制研磨位置"
+    transferable_technique: "可换直角附件将笔形变L形，模块化附件扩展操作形态而不增加基础工具体积（H05）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_角磨机_004"
+    source_images:
+      - filename: "角磨机__切割工具__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__切割工具__05.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX标准角磨机套装（早期款）：黄色主导机体（无XR徽标，20V MAX标签），黑色辅助侧手柄（前端螺纹接头），银色/黑色磨头齿轮箱（DEWALT字样），4.5\"磨碟+黑色护罩，2x5Ah XR电池+充电器+黑黄工具袋"
+      - filename: "角磨机__综合__19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__19.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX角磨机裸机（早期款特写）：黄色主导大面积机体，顶部黑色D形提手弓形架（开孔设计），前端银灰色铸铝磨头，黑色圆管辅助手柄从磨头前端伸出，无护罩，20V MAX标签"
+    product_name: "DeWalt 20V MAX Angle Grinder (Standard, Yellow-Dominant, First Generation)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "角磨机"
+      - "标准角磨机"
+    design_language:
+      silhouette: "标准角磨机形态：水平圆柱主机体+顶部D形提手弓形架（全黄色大体量），前端直角磨头+侧手柄，整体宽厚、黄色占比极高（约70%）"
+      light_opening: "N/A（电动工具）"
+      thermal: "机体两侧散热槽"
+      cmf:
+        color: "黄色（机体主导，约70%面积）+ 银灰色（铸铝磨头）+ 黑色（D形提手+辅助手柄+护罩）"
+        material: "工程塑料机体，铸铝磨头，橡胶辅助手柄"
+        finish: "哑光黄，铸铝本色，哑光黑"
+      mounting: "20V MAX标准电池尾端底部插入"
+      signature_detail: "顶部全黄色D形提手弓架——与后期款黑色主导提手区形成代际CMF差异，黄色占比远高于XR/FLEXVOLT系列"
+    design_level:
+      score: 2
+      reason: "早期代际产品，标准角磨机形态，黄色占比高但与XR/FLEXVOLT高端感相比较低，无特别设计亮点"
+    design_tags:
+      - "20V MAX"
+      - "标准款"
+      - "第一代"
+      - "黄色主导"
+    hero_feature: "全黄色大体量D形提手弓架，黄色占比最高的角磨机代际"
+    problem_solved: "金属切割/研磨/去锈，20V MAX无绳标准角磨操作"
+    transferable_technique: "D形提手弓架提供额外控制抓握点，同时成为黄色体量的视觉载体"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_角磨机_005"
+    source_images:
+      - filename: "角磨机__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__04.jpg"
+        image_role: "hero"
+        visual_anchor: "20V XR无刷角磨机裸机（现代款）：黄色/黑色机体（黄色前段+黑色后段），XR徽标在电池接口区，'DEWALT 20V BRUSHLESS BRUSHLESS'标签，前端黑色侧手柄插座，银灰色铸铝磨头"
+      - filename: "角磨机__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__05.jpg"
+        image_role: "hero"
+        visual_anchor: "20V无刷角磨机裸机（黄色主导版）：'DEWALT 20V BRUSHLESS'标签，黄色前段+黑色后段机体，侧手柄插座，锥形开口前端（防碟脱落），黑色护罩"
+      - filename: "角磨机__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__07.jpg"
+        image_role: "hero"
+        visual_anchor: "20V XR无刷角磨机裸机：同款现代机体，XR标识，黄色+黑色，竖条散热格栅在黑色后段清晰可见，黑色护罩+磨碟已安装"
+      - filename: "角磨机__综合__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__18.jpg"
+        image_role: "scene"
+        visual_anchor: "20V无刷角磨机套装（5Ah版）：同款机体+5Ah黄色电池+6A充电器+黑色护罩安装配件（L形支架）"
+      - filename: "角磨机__综合__21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__21.jpg"
+        image_role: "hero"
+        visual_anchor: "20V无刷角磨机裸机（拨动开关版）：机体侧面可见拨动开关（黑色方块按钮+锁图标），黄色主导机体，'20V BRUSHLESS'标签，黑色护罩"
+    product_name: "DeWalt 20V MAX Brushless Angle Grinder 4.5\"/5\" (Standard/XR)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "角磨机"
+      - "标准角磨机"
+    design_language:
+      silhouette: "水平圆柱形态：前段黄色（约40%长度）+后段黑色（约60%长度）的双色机体，磨头直角转向，整体比第一代更修长，黄黑比例约4:6"
+      light_opening: "N/A（电动工具）"
+      thermal: "黑色后段机体侧面竖向散热格栅（约6-8条），黑色散热区与黄色功能区的分界线清晰"
+      cmf:
+        color: "黄色（前段机体主要标识区）+ 黑色（后段握持区+散热区+电池接口）+ 银灰色（铸铝磨头）"
+        material: "工程塑料机体，铸铝磨头，TPR防滑握把区"
+        finish: "哑光黄前段，哑光黑后段，铸铝本色磨头"
+      mounting: "20V MAX XR标准电池尾端插入"
+      signature_detail: "黄黑双色分区的水平竖向切割线——黄色标识区（前）与黑色散热/握持区（后）的分界线将功能区域视觉化，是DeWalt现代角磨机代的标志性CMF"
+    design_level:
+      score: 3
+      reason: "现代DeWalt角磨机的标准形态和CMF，黄黑分区清晰，散热格栅的竖向排布有设计秩序感，整体执行到位"
+    design_tags:
+      - "20V MAX"
+      - "无刷"
+      - "标准角磨机"
+      - "黄黑分区"
+      - "H03_分件线设计"
+    hero_feature: "黄色前段与黑色后段的水平分件线，将工具的标识区（黄）与功能区（黑色散热/握持）视觉化分区"
+    problem_solved: "金属切割/研磨/去锈，20V MAX无绳灵活操作，无刷电机寿命更长"
+    transferable_technique: "双色水平分件线将CMF语言与功能分区合一——颜色边界即功能区边界（H03）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_角磨机_006"
+    source_images:
+      - filename: "角磨机__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__06.jpg"
+        image_role: "hero"
+        visual_anchor: "20V XR无刷角磨机（POWERSTACK版）裸机：机体与标准版相近，但POWERSTACK电池（扁平正方体）插入，POWERSTACK图标在电池位，机体黑色比例更高，侧手柄插座显眼"
+      - filename: "角磨机__综合__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__15.jpg"
+        image_role: "hero"
+        visual_anchor: "同款POWERSTACK版角磨机，另一视角：POWERSTACK电池接口区侧面可见，黄黑机体，侧手柄已安装（黑色纹理橡胶），黑色侧护罩"
+      - filename: "角磨机__综合__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__16.jpg"
+        image_role: "hero"
+        visual_anchor: "同款角磨机头部正视角：侧手柄直怼镜头（圆柱橡胶纹理），背景可见磨头黑色盖板和电池接口区"
+      - filename: "角磨机__综合__22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__22.jpg"
+        image_role: "scene"
+        visual_anchor: "20V XR无刷角磨机套装（XR POWERPACK 8Ah版）：同款机体+8Ah XR POWERPACK大电池（扁长方体高容量电池，黑色+黄色XR标识）+6A充电器"
+    product_name: "DeWalt 20V MAX XR Brushless Angle Grinder with Side Handle (POWERSTACK/High-Capacity)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "角磨机"
+      - "标准角磨机"
+    design_language:
+      silhouette: "同标准款，但配备安装侧手柄（圆柱橡胶纹理）——侧手柄垂直于机体轴向，整体形成T形平面剪影"
+      light_opening: "N/A（电动工具）"
+      thermal: "黑色后段散热格栅，POWERSTACK/8Ah大功率散热"
+      cmf:
+        color: "同标准款黄黑分区，但配POWERSTACK扁平电池（全黄）或XR POWERPACK高容量电池（黑+黄）"
+        material: "同标准款，侧手柄TPR橡胶"
+        finish: "同标准款"
+      mounting: "POWERSTACK电池或20V MAX XR 8Ah POWERPACK大电池"
+      signature_detail: "黑色纹理橡胶圆柱侧手柄——标准插座安装，提供双手抓握，头部正视形成T字形，T形剪影直白传达双手控制操作"
+    design_level:
+      score: 3
+      reason: "在标准款基础上加侧手柄，T形剪影增强操控感知，POWERPACK大电池的扁平体量强化高续航感"
+    design_tags:
+      - "20V MAX XR"
+      - "无刷"
+      - "侧手柄"
+      - "POWERSTACK"
+      - "H12_人机界面强化"
+    hero_feature: "T形侧手柄安装使双手控制逻辑外显为工具轮廓，大容量POWERPACK电池强化高续航视觉"
+    problem_solved: "重度打磨作业双手控制安全性，XR大容量电池长续航"
+    transferable_technique: "可插拔圆柱侧手柄使单手工具在需要时变T形双手工具（H12）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_角磨机_007"
+    source_images:
+      - filename: "角磨机__综合__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__12.jpg"
+        image_role: "hero"
+        visual_anchor: "20V无刷角磨机（BRAKE制动系统版）：同款黄黑机体，磨头左侧黑色齿轮箱盖板印有'BRAKE'图标（制动轮标志），护罩框架（开放式钢制护罩架），右侧黑色皮带/安全绳环附件挂点"
+      - filename: "角磨机__综合__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__13.jpg"
+        image_role: "hero"
+        visual_anchor: "同款BRAKE版角磨机（无安全绳挂点附件），正视角展示'BRAKE'字样+制动图标在磨头护盖左侧"
+    product_name: "DeWalt 20V MAX Brushless Angle Grinder with Electronic Brake System"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "角磨机"
+      - "标准角磨机"
+    design_language:
+      silhouette: "同标准款黄黑角磨机形态，但磨头护盖区域有BRAKE安全标识徽章"
+      light_opening: "N/A（电动工具）"
+      thermal: "同标准款散热格栅"
+      cmf:
+        color: "同标准款黄黑+额外：黑色BRAKE图标（制动轮）在磨头护盖上"
+        material: "同标准款"
+        finish: "同标准款"
+      mounting: "20V MAX标准电池"
+      signature_detail: "'BRAKE'字样+制动轮图标直接印在磨头护盖上——安全功能外显为醒目标识，与PERFORM-PROTECT红色系统语义一致；开放式护罩框架（非封闭护罩）使磨碟角度可见"
+    design_level:
+      score: 3
+      reason: "电子制动系统是安全升级亮点，BRAKE标识的外显设计符合DeWalt安全功能外显传统，整体形态无结构创新"
+    design_tags:
+      - "20V MAX"
+      - "无刷"
+      - "电子制动"
+      - "BRAKE"
+      - "H11_功能外显"
+    hero_feature: "磨头护盖上BRAKE制动图标直接印制，安全功能外显为产品识别特征"
+    problem_solved: "释手后快速停盘（电子制动2秒内停转），防磨碟滑行伤人"
+    transferable_technique: "安全功能标识直接印在危险区域（磨头护盖）最近处，将安全感知本地化（H11）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_角磨机_008"
+    source_images:
+      - filename: "角磨机__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__03.jpg"
+        image_role: "hero"
+        visual_anchor: "60V FLEXVOLT无刷角磨机4.5\"/5\"（裸机）：黑色主导机体（约70%），黄色仅在中段环圈（60V标识区）+电池接口区，FLEXVOLT徽标，磨头黑色大护罩+黄色磨碟，整体深黑感更重"
+      - filename: "角磨机__综合__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__14.jpg"
+        image_role: "scene"
+        visual_anchor: "60V FLEXVOLT无刷角磨机4.5\"套装：同款黑主导机体+9Ah FLEXVOLT大电池+6A充电器+黄黑工具袋"
+    product_name: "DeWalt 60V MAX FLEXVOLT Brushless Angle Grinder 4.5\"/5\""
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "角磨机"
+      - "标准角磨机"
+    design_language:
+      silhouette: "同标准角磨机形态，但CMF完全反转：黑色主导（约70%），黄色仅在中段标识环圈"
+      light_opening: "N/A（电动工具）"
+      thermal: "黑色机体散热格栅"
+      cmf:
+        color: "黑色（机体主导，约70%）+ 黄色（中段标识环圈+FLEXVOLT电池接口区）"
+        material: "同标准款"
+        finish: "哑光黑主导，哑光黄环圈"
+      mounting: "FLEXVOLT 60V 9Ah大电池，尾端插入"
+      signature_detail: "黑色主导CMF是FLEXVOLT系列在角磨机上的延伸——黑≥70%与20V MAX黄色主导形成鲜明区分，黄色环圈仅作系列标识"
+    design_level:
+      score: 3
+      reason: "FLEXVOLT黑色主导系统在角磨机上延伸一致，60V大功率定位通过CMF颠倒清晰传达，整体设计执行稳定"
+    design_tags:
+      - "FLEXVOLT"
+      - "60V"
+      - "无刷"
+      - "黑色主导"
+      - "H08_对比强调"
+    hero_feature: "黑色主导机体+黄色仅为中段标识环圈，CMF反转传达60V高端定位"
+    problem_solved: "60V大功率无绳角磨，适合大直径磨碟/高强度连续打磨"
+    transferable_technique: "产品线升级用CMF反转而非形态改变区分定位——黑色主导=专业高端，黄色主导=标准入门（H08）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_角磨机_009"
+    source_images:
+      - filename: "角磨机__综合__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__10.jpg"
+        image_role: "hero"
+        visual_anchor: "60V FLEXVOLT无刷大型角磨机7\"裸机（TOOL CONNECT版）：黄色大体量主机（黑色后段，黄色前段），侧面大圆形黄色进气口（同心圆肋纹），FLEXVOLT徽标，无线WiFi/蓝牙图标，黑色POWERSTACK式电池接口，大7\"磨碟+护罩"
+      - filename: "角磨机__综合__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__11.jpg"
+        image_role: "scene"
+        visual_anchor: "同款60V FLEXVOLT 7\"角磨机套装：工具+2x9Ah FLEXVOLT+8A快充器+工具袋"
+      - filename: "角磨机__综合__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__17.jpg"
+        image_role: "scene"
+        visual_anchor: "60V FLEXVOLT 7\"角磨机套装（另一视角）：同款机体+9Ah FLEXVOLT+快充器+黑黄工具袋，工具斜置展示7\"磨碟+护罩"
+      - filename: "角磨机__综合__20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__综合__20.jpg"
+        image_role: "hero"
+        visual_anchor: "60V FLEXVOLT 7\"角磨机裸机（侧视，WiFi版）：黄色前段机体（DEWALT BRUSHLESS 60V标签+小方形指示灯窗口），黑色后段，前端灰色铸铝磨头齿轮箱（质感突出），FLEXVOLT标识+无线图标（红蓝WiFi），黑色护罩"
+    product_name: "DeWalt 60V MAX FLEXVOLT Brushless Large Angle Grinder 7\" with TOOL CONNECT"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "角磨机"
+      - "大型角磨机"
+    design_language:
+      silhouette: "大型角磨机形态：明显更粗壮的机体直径（约70mm，相比标准款50mm），7\"磨碟大护罩从左端大幅凸出，侧面大圆形进气口（同心圆肋纹），整体体量感远超4.5\"款"
+      light_opening: "N/A（电动工具）；左侧7\"磨碟是核心工作面"
+      thermal: "侧面大圆形进气口（同心圆肋纹装饰）+后段散热格栅，大功率散热需求"
+      cmf:
+        color: "黄色（前段机体主标识区）+ 黑色（后段+进气口区域）+ 灰色（铸铝磨头齿轮箱）"
+        material: "工程塑料机体，铸铝齿轮箱，9Ah FLEXVOLT大电池"
+        finish: "哑光黄，哑光黑，铸铝本色"
+      mounting: "FLEXVOLT 60V 9Ah电池，高体量尾端插接"
+      signature_detail: "侧面大圆形进气口（同心圆肋纹）——散热功能件放大为机体最显著表面特征，进气口圆形与磨碟圆形呼应；TOOL CONNECT无线图标（红蓝WiFi）将物联网连接功能外显在机体侧面"
+    design_level:
+      score: 4
+      reason: "侧面大圆形进气口同心肋纹是视觉亮点（功能件设计化），TOOL CONNECT联网图标在专业工具上罕见，60V大功率+大磨碟+WiFi的功能系统完整"
+    design_tags:
+      - "FLEXVOLT"
+      - "60V"
+      - "无刷"
+      - "7英寸"
+      - "TOOL CONNECT"
+      - "WiFi"
+      - "H11_功能外显"
+      - "H04_参数化渐变"
+    hero_feature: "机体侧面大圆形进气口同心肋纹——散热功能件成为机体视觉焦点，同心圆肋纹将进气量功能设计化"
+    problem_solved: "高强度7\"大磨碟打磨/切割，TOOL CONNECT实现工具联网管理（盗窃保护/使用记录），60V大功率连续作业"
+    transferable_technique: "散热进气口放大为机体侧面主要装饰元素，将功能件的几何特征（同心圆）发展为视觉语言（H04参数化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_角磨机_010"
+    source_images:
+      - filename: "角磨机__切割工具__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__切割工具__06.jpg"
+        image_role: "scene"
+        visual_anchor: "20V XR无刷3\"紧凑多材料切割工具套装：小型圆饼形机体（XR+BRUSHLESS徽标，黄黑），3\"小圆形切割碟，POWERSTACK电池，DCB112充电器，黑色深度导向附件（U形导轨，可调切深），3\"金刚石瓷砖碟+多材料切割碟，黑黄工具袋"
+      - filename: "角磨机__切割工具__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__切割工具__07.jpg"
+        image_role: "hero"
+        visual_anchor: "同款3\"紧凑切割工具正面展示：圆形机体（正视几乎为圆，侧视扁椭圆），3\"切割碟正面，左侧黑色深度导向附件，另有2个3\"切割碟（金刚石+多材料）"
+    product_name: "DeWalt 20V MAX XR Brushless 3\" Compact Multi-Material Cut-Off Tool"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "角磨机"
+      - "紧凑切割工具"
+    design_language:
+      silhouette: "扁圆饼形机体（正视近圆形，侧视扁椭圆），3\"小切割碟直接从圆形机体侧面伸出，整体形态比标准角磨机紧凑约60%，更类似鼠标/掌型工具"
+      light_opening: "N/A（电动工具）；3\"切割碟为工作面"
+      thermal: "机体散热缝"
+      cmf:
+        color: "黑色（主导，机体主要面积）+ 黄色（XR标识区+POWERSTACK电池接口区）"
+        material: "工程塑料机体，3\"金刚石/多材料切割碟，POWERSTACK电池"
+        finish: "哑光黑，哑光黄"
+      mounting: "POWERSTACK电池或20V MAX XR电池，底端插接"
+      signature_detail: "圆饼形紧凑机体+3\"小切割碟——极紧凑尺寸使工具可在橱柜内/管道旁等极小空间切割瓷砖/多材料"
+    design_level:
+      score: 4
+      reason: "圆饼形极紧凑机体在切割工具品类中形态独特，与标准角磨机形成强烈对比，深度导向附件设计实用，3\"小碟+XR功率的结合精准定位于精细切割场景"
+    design_tags:
+      - "20V MAX XR"
+      - "无刷"
+      - "3英寸"
+      - "紧凑"
+      - "多材料切割"
+      - "H07_极简整合"
+      - "H12_人机界面强化"
+    hero_feature: "圆饼形极小机体使工具可在标准角磨机无法进入的极小空间内切割，形态即操作场景"
+    problem_solved: "瓷砖/多材料/金属的精细切割，极小空间操作，POWERSTACK高密度电池保证紧凑体积不损续航"
+    transferable_technique: "最小化机体体积使操作范围最大化——圆饼形将握持体积减至最小（H07极简整合）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_角磨机_011"
+    source_images:
+      - filename: "角磨机__切割工具__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/角磨机/角磨机__切割工具__08.jpg"
+        image_role: "hero"
+        visual_anchor: "有绳大型直角表面磨机（2000 RPM）：大黄色机体（水平长圆柱，宽约120mm），左侧大黄色护罩（开口大弧形，可见内部磨轮），黑色横向辅助把手（垂直于机体），右端黑色电源线+小扳机，DEWALT浮雕，'2000 RPM'铭牌"
+    product_name: "DeWalt Corded Large Right-Angle Surface Grinder/Die Grinder (2000 RPM)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "角磨机"
+      - "有绳大型表面磨机"
+    design_language:
+      silhouette: "水平大圆柱机体（直径明显更大），左侧大弧形开口护罩（开口向下，约220°弧），顶部垂直横向把手，整体呈倒T形或横向宽体形"
+      light_opening: "N/A（电动工具）；护罩大开口即磨轮工作区"
+      thermal: "机体腰部横向散热格栅（有绳高持续功率散热）"
+      cmf:
+        color: "黄色（机体主导，约75%）+ 黑色（横向辅助把手+电源线区+小扳机）"
+        material: "工程塑料机体，铸铁/铝护罩，有绳电机"
+        finish: "哑光黄，哑光黑"
+      mounting: "有绳，标准电源线"
+      signature_detail: "大弧形开口护罩——超大开口允许视觉确认磨轮工作位置，护罩弧形在设计上既是安全防护也是功能可见性设计"
+    design_level:
+      score: 2
+      reason: "有绳大型专业机器，标准工业设计，黄色主导符合早期DeWalt系统，无特别设计亮点"
+    design_tags:
+      - "有绳"
+      - "大型"
+      - "表面磨机"
+      - "2000RPM"
+    hero_feature: "大弧形开口护罩+宽体大黄色机身，工业重量感与视觉开放性并存"
+    problem_solved: "大面积金属表面研磨/去锈，2000 RPM适合表面成型而非切割"
+    transferable_technique: "超大护罩开口将工作区完全暴露给操作者视线，功能可见性优先于安全封闭"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

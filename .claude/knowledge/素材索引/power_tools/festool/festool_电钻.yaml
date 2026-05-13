@@ -1,0 +1,435 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电钻"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "festool_电钻_001"
+    source_images:
+      - filename: "电钻__充电电钻__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__充电电钻__01.jpg"
+        image_role: "hero"
+        visual_anchor: "CXS 12超紧凑T形机身，石板灰/深蓝灰双色壳体，亮绿色功能区（扳机护圈、转速切换键、电池状态指示块），大开孔手柄框架，前端黑色自紧夹头带绿色环，EC-TEC BRUSHLESS标识，2.5Ah电池座带金属挂钩"
+      - filename: "电钻__综合__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__11.jpg"
+        image_role: "in_use"
+        visual_anchor: "手持CXS 12在隔断墙上作业，T形开框手柄单手操控展示，绿色Centrotec夹头环特写，12V电池组蓝绿配色清晰"
+    product_name: "Festool CXS 12 EC TEC Brushless 充电电钻"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻"]
+    design_language:
+      silhouette: "T形超紧凑机身，顶部电机短粗，手柄纤细，底部电池座宽扁，大开口框架手柄为品牌独特造型"
+      light_opening: "N/A"
+      thermal: "机头侧面无散热槽（无碳刷EC-TEC电机，低热量），壳体分件线处理散热"
+      cmf:
+        color: "石板蓝灰为主体，亮石灰绿（Festool标志绿）作为功能点高亮，黑色夹头区"
+        material: "注塑壳体，铝合金压铸件（Centrotec夹头座），不锈钢金属挂钩"
+        finish: "哑光纹理壳体，绿色区域光面对比"
+      mounting: "底插式锂电池组，2.5Ah 12V，带金属挂钩"
+      signature_detail: "Centrotec快换夹头系统（绿环标识），大开口T形手柄框架，EC-TEC无碳刷电机标识"
+    design_level:
+      score: 4
+      reason: "T形开框手柄是品类独创造型，Centrotec快换系统功能可视化（绿环），整体比例精准，专业工具美学高度统一，EC-TEC无碳刷无多余散热结构"
+    design_tags: ["H07极简整合", "H11功能外显", "H08对比强调", "H05模块化"]
+    hero_feature: "Centrotec快换夹头绿环 + T形开框手柄"
+    problem_solved: "紧凑空间单手操控，快速换头无需工具"
+    transferable_technique: "功能接口色彩编码（绿环=快换系统），T形开框手柄减重同时增加手感触点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_电钻_002"
+    source_images:
+      - filename: "电钻__充电电钻__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__充电电钻__02.jpg"
+        image_role: "hero"
+        visual_anchor: "TXS 12手枪形机身，深蓝灰壳体，亮绿扳机护圈+正反转拨片+电机后段绿色散热区，Centrotec快换头（绿环），2.5Ah 12V电池组，金属挂钩，EC TEC BRUSHLESS徽标"
+      - filename: "电钻__综合__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__12.jpg"
+        image_role: "in_use"
+        visual_anchor: "单手握持TXS 12在金属轨道件上拧螺丝，展示手枪形握持姿态，Centrotec绿环和12V电池特写"
+    product_name: "Festool TXS 12 EC TEC Brushless 充电螺丝批"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝批"]
+    design_language:
+      silhouette: "标准手枪形，机头较短，电机段饱满，握柄纤细，电池座宽"
+      light_opening: "N/A"
+      thermal: "机头后段设有绿色横向散热槽组"
+      cmf:
+        color: "深蓝灰主色，亮绿色功能区（扳机护圈、散热槽盖、电池状态块）"
+        material: "工程塑料壳体，铝合金Centrotec夹头座"
+        finish: "哑光细纹"
+      mounting: "底插式12V 2.5Ah锂电池，金属挂钩"
+      signature_detail: "Centrotec快换夹头绿环，机头后段绿色散热盖"
+    design_level:
+      score: 3
+      reason: "手枪形为常规形态，Centrotec绿环和散热绿盖为品牌差异点，整体CMF执行精良"
+    design_tags: ["H11功能外显", "H08对比强调", "H07极简整合"]
+    hero_feature: "Centrotec快换夹头绿环系统"
+    problem_solved: "快速更换批头，无需拧松夹头"
+    transferable_technique: "散热区域色彩编码（绿色盖板）兼具功能可视化与品牌识别"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_电钻_003"
+    source_images:
+      - filename: "电钻__充电电钻__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__充电电钻__03.jpg"
+        image_role: "hero"
+        visual_anchor: "CXS 18超紧凑T形机身，18V版本，机身比CXS 12略宽厚，同款开框手柄+绿色功能点，Centrotec夹头（绿环），3.0Ah Li-Ion电池组，EC-TEC BRUSHLESS"
+      - filename: "电钻__综合__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__14.jpg"
+        image_role: "in_use"
+        visual_anchor: "工人站梯子上单手持CXS 18拧上方螺丝，展示T形机身在受限空间的单手操控优势"
+    product_name: "Festool CXS 18 EC TEC Brushless 充电电钻 18V"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻"]
+    design_language:
+      silhouette: "T形超紧凑，18V版较CXS 12机身略宽，电池座更厚，开框手柄比例一致"
+      light_opening: "N/A"
+      thermal: "EC-TEC无碳刷，无独立散热结构"
+      cmf:
+        color: "石板蓝灰+亮绿功能点"
+        material: "工程塑料，铝合金压铸夹头座"
+        finish: "哑光纹理"
+      mounting: "底插式18V 3.0Ah Li-Ion电池，金属挂钩"
+      signature_detail: "Centrotec快换夹头，T形开框手柄，EC-TEC BRUSHLESS铭牌"
+    design_level:
+      score: 4
+      reason: "T形开框手柄是品类独家造型，18V版延续12V视觉基因，比例控制出色，Centrotec功能可视化强"
+    design_tags: ["H07极简整合", "H11功能外显", "H05模块化"]
+    hero_feature: "T形开框手柄 + Centrotec绿环快换"
+    problem_solved: "受限空间大力矩作业，单手精准控制"
+    transferable_technique: "T形机身平衡重心前移，减少腕部疲劳"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_电钻_004"
+    source_images:
+      - filename: "电钻__充电电钻__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__充电电钻__04.jpg"
+        image_role: "hero"
+        visual_anchor: "TXS 18手枪形螺丝批，18V版，深蓝灰壳体，绿色扳机护圈+正反转拨片+机头后段绿色散热盖，Centrotec绿环夹头，3.0Ah Li-Ion电池，金属挂钩，EC TEC BRUSHLESS"
+      - filename: "电钻__综合__15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__15.jpg"
+        image_role: "in_use"
+        visual_anchor: "女性工人在木工车间单手持TXS 18拧木工框架螺丝，展示手枪握持与Centrotec夹头操作"
+    product_name: "Festool TXS 18 EC TEC Brushless 充电螺丝批 18V"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝批"]
+    design_language:
+      silhouette: "标准手枪形，机头后段绿色散热盖为视觉焦点"
+      light_opening: "N/A"
+      thermal: "机头后段独立绿色横向散热盖板"
+      cmf:
+        color: "深蓝灰+亮绿"
+        material: "工程塑料+铝合金夹头座"
+        finish: "哑光"
+      mounting: "底插18V 3.0Ah电池，金属挂钩"
+      signature_detail: "Centrotec绿环快换头，机头绿散热盖"
+    design_level:
+      score: 3
+      reason: "手枪形常规，CMF和Centrotec为差异点，绿色散热盖功能美学统一"
+    design_tags: ["H11功能外显", "H08对比强调"]
+    hero_feature: "Centrotec快换绿环 + 绿色散热盖功能色"
+    problem_solved: "18V大力矩快速换头，高频拧螺丝工况"
+    transferable_technique: "散热盖采用功能色，既标识散热区域又强化品牌视觉"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_电钻_005"
+    source_images:
+      - filename: "电钻__充电电钻__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__充电电钻__05.jpg"
+        image_role: "hero"
+        visual_anchor: "C 18 T形机身（旧款AIRSTREAM平台），机身更高更方正，开框手柄宽大，绿色扳机键+转速切换绿键，Centrotec绿环快换夹头，18V AIRSTREAM电池，金属C形挂钩"
+      - filename: "电钻__综合__19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__19.jpg"
+        image_role: "in_use"
+        visual_anchor: "手持C 18在橱柜内侧拧螺丝，展示T形机身在狭小柜体内的操控优势，电池绿色信息块可见"
+    product_name: "Festool C 18 Li-Ion AIRSTREAM 充电电钻（旧款）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻"]
+    design_language:
+      silhouette: "T形方正机身，比CXS系列更高更宽，手柄大开框，整体略显厚重"
+      light_opening: "N/A"
+      thermal: "无独立散热结构（老平台）"
+      cmf:
+        color: "深石板灰+绿色功能件"
+        material: "工程塑料，铝合金夹头"
+        finish: "哑光纹理"
+      mounting: "底插18V AIRSTREAM电池，C形金属挂钩"
+      signature_detail: "Centrotec绿环夹头，大开口T形手柄，AIRSTREAM电池平台"
+    design_level:
+      score: 3
+      reason: "旧款平台比例稍粗，但T形手柄和Centrotec为持续品牌基因，与新款CXS相比整体精致度稍低"
+    design_tags: ["H11功能外显", "H07极简整合"]
+    hero_feature: "Centrotec快换系统 + T形开框手柄"
+    problem_solved: "受限空间高效拧螺丝"
+    transferable_technique: "T形机身适配狭窄柜内/墙角操作姿态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_电钻_006"
+    source_images:
+      - filename: "电钻__充电电钻__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__充电电钻__06.jpg"
+        image_role: "hero"
+        visual_anchor: "T 18+3手枪形螺丝批，深灰蓝壳体，机头黑色+Centrotec绿环，绿色扳机护圈+正反转键+机后绿色散热盖，18V AIRSTREAM电池（绿色信息块），金属C形挂钩，旋转限扭刻度环"
+      - filename: "电钻__综合__24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__24.jpg"
+        image_role: "in_use"
+        visual_anchor: "工人低头在白色工作台上用T 18+3拧螺丝，18V AIRSTREAM电池与工具一体，展示台面作业姿态"
+      - filename: "电钻__综合__44.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__44.jpg"
+        image_role: "detail"
+        visual_anchor: "T 18+3裸机（无电池）搭配Centrotec快换头和分离的自紧夹头配件，展示Centrotec模块化快换系统，绿环清晰，夹头配件对比陈列"
+    product_name: "Festool T 18+3 Li-Ion AIRSTREAM 充电螺丝批"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "螺丝批"]
+    design_language:
+      silhouette: "手枪形，机头较短，机后散热区明显，握柄与电池座比例协调"
+      light_opening: "N/A"
+      thermal: "机头后段绿色横向散热盖"
+      cmf:
+        color: "深蓝灰主色，亮绿功能点（扳机圈、散热盖、正反转键、电池信息块）"
+        material: "工程塑料，铝合金夹头座"
+        finish: "哑光细纹"
+      mounting: "底插18V AIRSTREAM电池，C形金属挂钩"
+      signature_detail: "Centrotec快换头绿环，可互换夹头配件（自紧夹头/批头夹），旋转限扭刻度环"
+    design_level:
+      score: 4
+      reason: "Centrotec系统模块化展示最完整，绿环视觉识别度极高，裸机+配件陈列图展现系统扩展性，功能外显设计优秀"
+    design_tags: ["H05模块化", "H11功能外显", "H08对比强调", "H07极简整合"]
+    hero_feature: "Centrotec快换系统（绿环+可换夹头模块）"
+    problem_solved: "一机多用，快速切换夹头模式（批头/钻头），无工具操作"
+    transferable_technique: "接口模块化 + 色彩编码系统（绿环标识快换接口），配件可视陈列增强系统感知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_电钻_007"
+    source_images:
+      - filename: "电钻__充电电钻__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__充电电钻__07.jpg"
+        image_role: "hero"
+        visual_anchor: "TDC 18/4 QUADRIVE手枪形电钻，深蓝灰+黑色为主，绿色功能点（正反转拨片、扳机护圈），金属自紧夹头（粗纹铝合金滚花），侧把手（带Festool标识），QUADRIVE 4.0Ah Bluetooth电池，EC TEC BRUSHLESS铭牌"
+      - filename: "电钻__综合__36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__36.jpg"
+        image_role: "in_use"
+        visual_anchor: "工人在屋顶木结构上用TDC 18/4 QUADRIVE大力矩拧螺丝，展示重型户外工况，电池侧面大尺寸QUADRIVE标识清晰"
+    product_name: "Festool TDC 18/4 EC TEC QUADRIVE 充电电钻"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻"]
+    design_language:
+      silhouette: "专业大体手枪形，机头粗壮（四档传动箱），带侧把手接口，整体比紧凑系列厚重"
+      light_opening: "N/A"
+      thermal: "机壳后段有纵向散热槽，EC-TEC无碳刷减少热量"
+      cmf:
+        color: "深蓝灰+黑色（机头传动箱区）+绿色功能点，QUADRIVE蓝色电池"
+        material: "工程塑料壳体，铝合金自紧夹头，铝合金侧把手"
+        finish: "哑光纹理壳体，铝合金夹头滚花"
+      mounting: "底插18V QUADRIVE 4.0Ah Bluetooth电池，银色金属挂钩"
+      signature_detail: "四档传动QUADRIVE，铝合金自紧夹头，可拆侧把手，Bluetooth电池（无线连接）"
+    design_level:
+      score: 4
+      reason: "QUADRIVE四档传动系统机头造型饱满专业，Bluetooth电池为智能连接亮点，铝合金夹头与黑色机头形成高级感，整体专业工具形象强烈"
+    design_tags: ["H11功能外显", "H08对比强调", "H10材料表达", "H05模块化"]
+    hero_feature: "QUADRIVE四档传动 + Bluetooth智能电池"
+    problem_solved: "高力矩多工况作业（木结构/金属），四档自适应最优转速"
+    transferable_technique: "传动档位通过机头尺寸暗示力量感，Bluetooth功能件（蓝色电池指示灯）差异化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_电钻_008"
+    source_images:
+      - filename: "电钻__综合__27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__27.jpg"
+        image_role: "detail"
+        visual_anchor: "双手特写：左手持Centrotec快换夹头（绿色环，约40mm直径），右手持电钻机头对接，展示快换动作过程，背景工作台有散落配件，Bluetooth电池可见"
+    product_name: "Festool Centrotec 快换系统（系统细节）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "配件系统"]
+    design_language:
+      silhouette: "夹头为圆柱形，绿色环径向突出，对接动作视觉清晰"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黑色夹头本体 + 亮绿色卡扣环"
+        material: "铝合金夹头体，工程塑料绿色环"
+        finish: "哑光金属 + 亮绿色面"
+      mounting: "N/A"
+      signature_detail: "Centrotec绿色快换环（按压释放机构），无工具换头，与所有Festool Centrotec接口兼容"
+    design_level:
+      score: 4
+      reason: "Centrotec是Festool品牌独有系统，绿环是品牌视觉识别核心，快换机构将功能完全外显，此图作为系统迁移参考价值极高"
+    design_tags: ["H11功能外显", "H08对比强调", "H05模块化", "H09隐藏工程"]
+    hero_feature: "Centrotec绿色快换环接口"
+    problem_solved: "无工具快速换夹头（批头模式/钻孔模式/专用头），减少停机时间"
+    transferable_technique: "接口色彩编码（绿=可换），卡扣式快换机构功能可视化；可迁移至其他需要快换接口的工具品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_电钻_009"
+    source_images:
+      - filename: "电钻__综合__43.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__43.jpg"
+        image_role: "hero"
+        visual_anchor: "TID 18冲击起子机裸机（无电池），深蓝灰壳体，黑色六角夹头（1/4英寸），机头小巧紧凑，绿色扳机护圈+正反转拨片，机后横向散热槽，底部电池座带金属C形挂钩，EC TEC无碳刷标识"
+    product_name: "Festool TID 18 EC TEC 充电冲击起子机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "冲击起子机"]
+    design_language:
+      silhouette: "手枪形，机头极短紧凑，六角夹头无护套，整机重心靠后"
+      light_opening: "N/A"
+      thermal: "机头后段有横向散热槽"
+      cmf:
+        color: "深蓝灰+绿色功能点+黑色机头"
+        material: "工程塑料，铝合金冲击夹头"
+        finish: "哑光纹理"
+      mounting: "底插18V电池（裸机图无电池），C形金属挂钩"
+      signature_detail: "1/4英寸六角快换夹头，紧凑机头，EC-TEC冲击机构"
+    design_level:
+      score: 3
+      reason: "标准冲击起子外形，Festool CMF执行精良，无Centrotec系统（直接六角头），相比电钻系列差异化较弱"
+    design_tags: ["H07极简整合", "H08对比强调"]
+    hero_feature: "极短机头 + 标准化六角快换"
+    problem_solved: "高频拧螺丝，冲击破坚"
+    transferable_technique: "裸机陈列图（无电池）突出机身比例和细节，适合设计参考"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_电钻_010"
+    source_images:
+      - filename: "电钻__充电电钻__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__充电电钻__08.jpg"
+        image_role: "hero"
+        visual_anchor: "TPC 18/4 QUADRIVE锤钻带电池完整套装，深蓝灰+黑色机头（自紧夹头带绿环）+铝合金侧把手（Festool标识），QUADRIVE 4.0Ah Bluetooth电池组，绿色正反转拨片，整机三角度清晰呈现"
+      - filename: "电钻__综合__45.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__45.jpg"
+        image_role: "detail"
+        visual_anchor: "TPC 18/4 QUADRIVE锤钻裸机（无电池），机头装自紧夹头，带Centrotec绿色快换适配环，侧把手（深蓝灰），旁边放有Centrotec绿色适配块配件，展示系统扩展性"
+    product_name: "Festool TPC 18/4 EC TEC QUADRIVE 充电锤钻"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "锤钻"]
+    design_language:
+      silhouette: "大体手枪形，机头最粗（四档传动+冲击机构），带侧把手，整机最重最大"
+      light_opening: "N/A"
+      thermal: "壳体分件，EC-TEC低热"
+      cmf:
+        color: "深蓝灰+黑色机头+绿色（功能点+Centrotec适配环）"
+        material: "工程塑料，铝合金自紧夹头，铝合金侧把手"
+        finish: "哑光"
+      mounting: "底插18V QUADRIVE电池（裸机无电池），金属C形挂钩"
+      signature_detail: "QUADRIVE四档，Centrotec绿色模块适配器，冲击/钻孔/螺丝三模式切换，铝合金可拆侧把手"
+    design_level:
+      score: 4
+      reason: "QUADRIVE系列最强款，系统配件（Centrotec适配器）与主机颜色编码一致（绿），四档传动箱体量感专业，配件陈列展现系统扩展性强"
+    design_tags: ["H05模块化", "H11功能外显", "H08对比强调", "H10材料表达"]
+    hero_feature: "QUADRIVE四档传动 + Centrotec系统兼容适配器"
+    problem_solved: "混凝土/木材/金属三材质通用，四档自适应扭矩"
+    transferable_technique: "系统配件色彩统一（绿色适配器=Centrotec系统接口），强化产品生态认知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_电钻_011"
+    source_images:
+      - filename: "电钻__综合__48.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__48.jpg"
+        image_role: "hero"
+        visual_anchor: "BHC 18电锤（SDS）裸机，大绿色模式切换旋钮（圆形直径约50mm，主视觉焦点），深蓝黑壳体，绿色扳机键，SDS-plus卡头（无夹头），机身方正厚实，Festool EC-TEC标识"
+      - filename: "电钻__综合__61.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/电钻/电钻__综合__61.jpg"
+        image_role: "in_use"
+        visual_anchor: "双手握持BHC 18在石膏板墙打孔，SDS钻头和绿色模式旋钮清晰，18V AIRSTREAM Bluetooth电池（绿色+蓝色指示），展示冲击钻孔操作姿态"
+    product_name: "Festool BHC 18 EC-TEC 充电电锤（SDS-plus）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电锤"]
+    design_language:
+      silhouette: "T形/锤形，机头较长（SDS冲击机构），机身方正厚重，模式旋钮为视觉主焦点"
+      light_opening: "N/A"
+      thermal: "机身侧面有散热槽组"
+      cmf:
+        color: "深蓝黑为主体，大绿色圆形模式旋钮为强视觉焦点，绿色扳机键"
+        material: "工程塑料，铝合金机头，橡胶防护覆件"
+        finish: "哑光，绿色旋钮局部光面"
+      mounting: "底插18V AIRSTREAM/Bluetooth电池"
+      signature_detail: "超大绿色圆形模式切换旋钮（钻孔/冲击钻/单纯冲击三模），SDS-plus快换头，EC-TEC低振动机构"
+    design_level:
+      score: 4
+      reason: "超大绿色圆形模式旋钮是品类最强视觉差异点，单一功能件主导整机视觉层级，H11功能外显极致体现，与Festool绿色体系高度统一"
+    design_tags: ["H11功能外显", "H08对比强调", "H01减法"]
+    hero_feature: "超大绿色圆形模式切换旋钮（品类视觉锚点）"
+    problem_solved: "混凝土/砖石冲击钻孔，三模式快速切换"
+    transferable_technique: "单一超大功能旋钮作为视觉焦点，将模式切换从隐藏操作变为视觉宣言；功能件尺寸放大=重要程度外显"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

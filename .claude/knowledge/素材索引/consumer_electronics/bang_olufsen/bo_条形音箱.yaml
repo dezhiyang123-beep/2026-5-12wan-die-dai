@@ -1,0 +1,219 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "条形音箱"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "~/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/条形音箱/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bo_soundbar_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/条形音箱/01.jpg"
+        image_role: "hero"
+        visual_anchor: "银色铝合金外壳+中央凸起旋钮+黑色声学腔体横槽+底部弧形支架"
+    product_name: "BeoSound Stage (银色)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "条形音箱"]
+    design_language:
+      silhouette: "宽扁矩形条，两端切角，整体横向延展，视觉重心居中"
+      light_opening: "无外置发光件，声学开口为中部横向凹槽"
+      thermal: "铝合金壳体自然散热，无可见散热格栅"
+      cmf:
+        color: "银色（Natural Aluminium）"
+        material: "拉丝铝合金外壳 + 黑色ABS声学腔体"
+        finish: "拉丝哑光金属 + 哑光黑塑料"
+      mounting: "底部弧形金属支架桌面竖放，可选壁挂"
+      signature_detail: "中央银色金属旋钮（音量/控制）突出于顶面，是全系唯一物理操控焦点"
+    design_level:
+      score: 5
+      reason: "银色铝合金整体压铸感极强，旋钮居中对称设计具备强烈仪式感，材质与工艺代表B&O旗舰级水准"
+    design_tags: ["铝合金壳体", "中央旋钮", "横向延展", "声学腔体外显", "斯堪的纳维亚极简", "银色配色"]
+    hero_feature: "中央金属旋钮从顶面垂直升起，同轴对称，在所有条形音箱中极为罕见"
+    problem_solved: "条形音箱通常无差异感，B&O通过旋钮+铝壳将其从电器升级为家居雕塑"
+    transferable_technique: "旋钮作为设计焦点居中布置，制造视觉与操作的双重仪式感；可迁移至需要高端触控旋钮的品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_soundbar_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/条形音箱/03.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色配色版BeoSound Stage，与001同款造型，整体深黑无反光"
+    product_name: "BeoSound Stage (黑色)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "条形音箱"]
+    design_language:
+      silhouette: "与001完全一致的宽扁矩形轮廓，切角端部"
+      light_opening: "中部横向声学开口凹槽"
+      thermal: "铝合金壳体自然散热"
+      cmf:
+        color: "黑色（Black Anthracite）"
+        material: "拉丝铝合金外壳 + 黑色ABS声学腔体"
+        finish: "拉丝哑光黑金属 + 哑光黑塑料，全黑融合低调"
+      mounting: "底部弧形金属支架，与银色版相同"
+      signature_detail: "中央黑色金属旋钮与壳体同色，更内敛低调"
+    design_level:
+      score: 4
+      reason: "全黑配色降低了银色版的视觉冲击力，但整体工艺与造型仍属顶级；旋钮与壳体同色略显内敛"
+    design_tags: ["全黑配色", "铝合金壳体", "中央旋钮", "横向延展", "斯堪的纳维亚极简"]
+    hero_feature: "全黑哑光铝合金整体感，消除了银色版的光反差，转向更沉稳的奢华气质"
+    problem_solved: "为偏好暗色系家居风格的用户提供与银色版同等品质的选择"
+    transferable_technique: "同色系CMF统一（旋钮与壳体同色）消除视觉噪点，提升整体感；适合需要低调奢华的产品线扩展"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_soundbar_003"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/条形音箱/04.jpg"
+        image_role: "hero"
+        visual_anchor: "金色（香槟色）版BeoSound Stage，旋钮与壳体同为金调"
+    product_name: "BeoSound Stage (金色)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "条形音箱"]
+    design_language:
+      silhouette: "与001/002相同宽扁矩形，切角端部"
+      light_opening: "中部横向声学开口凹槽"
+      thermal: "铝合金壳体自然散热"
+      cmf:
+        color: "金色（Gold Tone / Champagne）"
+        material: "拉丝铝合金外壳 + 黑色ABS声学腔体"
+        finish: "拉丝香槟金金属 + 哑光黑声学腔体，金黑对比"
+      mounting: "底部弧形金属支架"
+      signature_detail: "金色旋钮与金色壳体一体，黑色声学腔体形成强烈金黑对比"
+    design_level:
+      score: 4
+      reason: "金黑对比比全黑版更具视觉张力，但金色在奢华电子品中较常见，差异化程度略低于银色版的中性美感"
+    design_tags: ["香槟金配色", "金黑对比", "铝合金壳体", "中央旋钮", "横向延展"]
+    hero_feature: "金色铝合金壳体与黑色声学腔体的强对比，在家居场景中兼具暖调奢华感"
+    problem_solved: "为追求暖色系奢华家居的用户提供差异化配色选择"
+    transferable_technique: "金属色壳体与黑色功能腔体的色块分割，以CMF强化功能分区的视觉逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_soundbar_004"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/条形音箱/05.jpg"
+        image_role: "hero"
+        visual_anchor: "极薄矩形条，橄榄绿金属边框+深灰织物面，无任何外露控件"
+    product_name: "Beosound Theatre (织物版)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "条形音箱"]
+    design_language:
+      silhouette: "极薄矩形板状，长宽比极高（约8:1），正面完全被织物覆盖，四角圆角处理"
+      light_opening: "无可见声学开口，声波透过织物传导"
+      thermal: "薄板结构，内部被动散热"
+      cmf:
+        color: "橄榄绿/古铜色金属边框 + 深炭灰织物"
+        material: "金属边框（阳极氧化铝）+ 高端织物面板"
+        finish: "拉丝哑光金属边框 + 细密纹织物，触感导向设计"
+      mounting: "壁挂为主（轻薄形态暗示），无明显底部支架"
+      signature_detail: "织物全覆盖正面，彻底隐藏所有声学结构，呈现家居软装质感"
+    design_level:
+      score: 5
+      reason: "织物面板彻底颠覆条形音箱的硬件感，实现电器向家居织物对象的品类跨越，是B&O最具设计突破性的产品之一"
+    design_tags: ["织物面板", "极薄矩形", "隐藏声学结构", "家居融合", "橄榄绿配色", "H09隐藏工程", "H10材料表达"]
+    hero_feature: "织物完全覆盖正面，使条形音箱在视觉上消失成一块家居软装挂件"
+    problem_solved: "条形音箱放在电视下方破坏家居美感，B&O用织物让它成为家居装饰的一部分"
+    transferable_technique: "织物面板替代传统声学格栅，适合需要弱化电器感、融入家居场景的音频/电子品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_soundbar_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/条形音箱/07.jpg"
+        image_role: "hero"
+        visual_anchor: "圆柱/椭圆截面条形音箱，黑色织物+银色金属底座托盘，整体悬浮感"
+    product_name: "Beosound 35 (第二代)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "条形音箱"]
+    design_language:
+      silhouette: "圆柱形截面横置条，两端半圆收口，底部银色金属托盘形成悬浮视觉"
+      light_opening: "织物全包裹，无外露声学开口"
+      thermal: "金属底托辅助散热"
+      cmf:
+        color: "黑色织物主体 + 银色拉丝铝底托"
+        material: "声学织物 + 铝合金底座"
+        finish: "细密黑色织物（哑光柔和）+ 拉丝银色铝合金（冷硬精准）"
+      mounting: "银色扁平底座托盘，桌面/电视柜放置"
+      signature_detail: "金属底托如同托盘将圆柱音箱'呈上'，赋予产品展示台般的仪式感"
+    design_level:
+      score: 4
+      reason: "圆柱截面在条形音箱品类中具备差异化，底托设计提升陈列感；但织物+金属托盘的语言与B&O近期系列略有重复"
+    design_tags: ["圆柱截面", "织物包裹", "金属底托", "悬浮感", "仪式感陈列", "黑银配色"]
+    hero_feature: "圆柱形条体放置于扁平银色金属托盘上，如同展示台上的物件，颠覆条形音箱的扁平惯例"
+    problem_solved: "传统条形音箱贴地感强、存在感弱，圆柱形态让其成为独立的陈列焦点"
+    transferable_technique: "底座托盘作为产品展台语言，强化产品的仪式感与独立陈列价值；可迁移至需要高端摆件感的小家电品类"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_soundbar_006"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/条形音箱/09.jpg"
+        image_role: "hero"
+        visual_anchor: "深棕色竖向金属格栅面板条形音箱，与落地音箱+卫星音箱组成完整家庭影院系统"
+    product_name: "Beosound Theatre (深棕格栅系统)"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "条形音箱"]
+    design_language:
+      silhouette: "宽扁矩形条，正面布满竖向细密金属格栅，体积感比普通条形音箱更厚实"
+      light_opening: "竖向金属格栅为声学开口，形成强烈纵向节奏感"
+      thermal: "金属格栅辅助散热"
+      cmf:
+        color: "深棕色（Dark Oak / Smoked Oak色调）"
+        material: "金属格栅 + 木质或木纹饰面外框"
+        finish: "深棕金属格栅哑光 + 木质温润纹理，工业与自然材料对话"
+      mounting: "壁挂（图中呈悬浮状，无落地支脚）"
+      signature_detail: "竖向密集金属格栅形成强烈纵向纹理，与B&O落地音箱格栅语言一致，构成系统视觉统一性"
+    design_level:
+      score: 5
+      reason: "竖向格栅作为全系统统一的设计语言，与落地音箱、卫星音箱形成完整家庭影院生态，设计系统化程度极高，材质融合自然与工业美学"
+    design_tags: ["竖向金属格栅", "系统化设计", "深棕木色", "家庭影院系统", "生态视觉统一", "H03分件线", "H10材料表达"]
+    hero_feature: "竖向金属格栅作为品牌统一语言，贯穿条形音箱与落地音箱全系，实现跨品类视觉生态"
+    problem_solved: "家庭影院多件产品品牌统一感差，B&O用格栅纹理语言将所有单元统一成一套视觉系统"
+    transferable_technique: "统一的表面纹理语言作为系统视觉DNA，可迁移至需要构建产品生态系统的品类（如智能家居全屋音频）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

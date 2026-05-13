@@ -1,0 +1,402 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "入耳式耳机"
+  tertiary: ""
+source:
+  source_type: "if_award"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_iem_001"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/05.jpg"
+        image_role: "hero"
+        visual_anchor: "圆形金属logo盘+耳翼结构，灰/黑双色版本对比"
+    product_name: "TWS入耳式耳机（SE品牌）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "入耳式耳机", "TWS真无线"]
+    design_language:
+      silhouette: "子弹形圆柱体机身，后端设耳翼卡耳，整体圆润紧凑"
+      light_opening: "无发光元素，金属logo圆盘为视觉焦点"
+      thermal: "封闭腔体，无散热孔"
+      cmf:
+        color: "深灰哑光 / 纯黑哑光，双色系"
+        material: "硬质塑料机身，金属logo铭牌（金圈+银圈区分版本）"
+        finish: "机身磨砂哑光，logo铭牌金属拉丝+圆形抛光"
+      mounting: "耳翼辅助固定，硅胶耳塞入耳"
+      signature_detail: "圆形金属logo铭牌嵌入面板，金属圆环形成视觉主节点"
+    design_level:
+      score: 3
+      reason: "造型规矩，双色方案有辨识度，但整体语言常规，无突破性特征"
+    design_tags: ["TWS", "耳翼固定", "金属铭牌", "双色方案", "子弹形腔体"]
+    hero_feature: "嵌入式金属圆形logo盘，形成腔体面板的视觉中心"
+    problem_solved: "通过耳翼增加运动稳固性，同时保持日常使用的美观"
+    transferable_technique: "圆形金属铭牌嵌入塑料腔体的材质对比手法，可迁移至其他小型消费电子"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_iem_002"
+    source_images:
+      - filename: "102.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/102.jpg"
+        image_role: "hero"
+        visual_anchor: "SHOKZ品牌开放式耳机+充电盒，米白/黑双色场景"
+    product_name: "SHOKZ 开放式运动耳机"
+    brand_name: "SHOKZ"
+    brand_confidence: "high"
+    category_path: ["音箱", "入耳式耳机", "开放式耳机"]
+    design_language:
+      silhouette: "耳挂+外耳道贴附式，非入耳设计，耳机体为异形贴耳块"
+      light_opening: "无发光元素"
+      thermal: "封闭小腔体，内嵌扬声器单元"
+      cmf:
+        color: "米白（充电盒）/ 深黑（耳机本体）"
+        material: "充电盒磨砂硬塑；耳机本体哑光塑料+软硅胶耳挂"
+        finish: "充电盒柔和磨砂；耳机哑光涂层，贴耳面细腻质感"
+      mounting: "耳挂绕耳固定，非入耳，开放式声学传导"
+      signature_detail: "充电盒圆角方形极简外壳；耳机内腔模仿耳廓曲线的异形凹槽"
+    design_level:
+      score: 3
+      reason: "充电盒设计干净，但整体造型中规中矩，开放式形态是品类创新而非造型创新"
+    design_tags: ["开放式", "SHOKZ", "耳挂", "运动", "充电盒", "非入耳"]
+    hero_feature: "开放式声学设计，耳机贴耳不入耳，保持环境声感知"
+    problem_solved: "运动时保持环境声感知，提升安全性，同时提供稳固佩戴"
+    transferable_technique: "充电盒内腔依产品形态定制凹槽，增强拿取仪式感"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "开放式非入耳设计，严格分类属于开放式耳机而非入耳式，需确认归类"
+
+  - product_id: "if_iem_003"
+    source_images:
+      - filename: "104.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/104.jpg"
+        image_role: "hero"
+        visual_anchor: "MERRY品牌，白/薄荷绿半透明TWS拆解展示，可见内部驱动模块"
+    product_name: "MERRY TWS透明结构展示耳机"
+    brand_name: "MERRY"
+    brand_confidence: "high"
+    category_path: ["音箱", "入耳式耳机", "TWS真无线"]
+    design_language:
+      silhouette: "扁平椭圆形腔体，前端硅胶耳翼，整体宽扁比例，非子弹形"
+      light_opening: "无发光，透明外壳透出内部绿色PCB为视觉亮点"
+      thermal: "半透明壳体可见内部结构"
+      cmf:
+        color: "纯白不透明外壳 + 薄荷绿半透明底壳"
+        material: "白色硬质ABS + 透明/半透明PC底盖，可见绿色PCB基板"
+        finish: "白色哑光烤漆；透明面光滑"
+      mounting: "硅胶耳翼+耳塞双固定"
+      signature_detail: "半透明底盖露出绿色PCB电路板，科技感与趣味性兼备"
+    design_level:
+      score: 4
+      reason: "透明腔体露出内部结构是差异化设计语言，双材质对比强烈，有明确记忆点"
+    design_tags: ["TWS", "透明腔体", "结构可视", "双材质", "薄荷绿", "耳翼固定"]
+    hero_feature: "半透明底盖+绿色PCB可视，将电子工程美学转化为设计语言"
+    problem_solved: "通过结构可视化传递产品工艺自信，差异化视觉识别"
+    transferable_technique: "硬件可视化设计——透明或半透明壳体露出内部功能部件，增加产品叙事性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_iem_004"
+    source_images:
+      - filename: "121.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/121.jpg"
+        image_role: "hero"
+        visual_anchor: "Soundcore开放式耳挂，薄荷绿全色系，椭圆胶囊+圆环耳挂+充电盒"
+    product_name: "Soundcore 开放式耳挂耳机"
+    brand_name: "Soundcore (Anker)"
+    brand_confidence: "high"
+    category_path: ["音箱", "入耳式耳机", "开放式耳机"]
+    design_language:
+      silhouette: "椭圆胶囊形音腔+圆弧耳挂环，充电盒圆角长方体"
+      light_opening: "充电盒底部白色LED指示灯条"
+      thermal: "封闭小腔体"
+      cmf:
+        color: "整体薄荷绿单色系，高度色彩统一"
+        material: "哑光塑料，充电盒轻微金属质感涂层"
+        finish: "柔和磨砂哑光，无高光"
+      mounting: "圆弧耳挂绕耳廓固定，非入耳"
+      signature_detail: "充电盒底部横向LED灯条；耳机与充电盒高度色彩统一"
+    design_level:
+      score: 3
+      reason: "色彩统一性是亮点，但造型较为常规，充电盒LED灯条细节加分"
+    design_tags: ["开放式", "Soundcore", "Anker", "薄荷绿", "单色系", "耳挂", "充电盒"]
+    hero_feature: "整套产品高度色彩统一，薄荷绿系统感强，充电盒LED灯条提升质感"
+    problem_solved: "开放式佩戴保持环境感知，色彩统一提升产品系列感"
+    transferable_technique: "充电盒与耳机CMF高度统一，系统感设计手法"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "开放式耳挂非入耳设计，需确认归类"
+
+  - product_id: "if_iem_005"
+    source_images:
+      - filename: "33.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/33.jpg"
+        image_role: "hero"
+        visual_anchor: "JBL TWS，左耳发光白圆环logo，右耳水珠溅射防水场景"
+    product_name: "JBL TWS防水入耳式耳机"
+    brand_name: "JBL"
+    brand_confidence: "high"
+    category_path: ["音箱", "入耳式耳机", "TWS真无线"]
+    design_language:
+      silhouette: "近球形腔体，前端双耳塞，整体小巧圆润"
+      light_opening: "面板内置圆形LED发光环，品牌logo置于发光圆圈内"
+      thermal: "封闭腔体"
+      cmf:
+        color: "纯黑哑光"
+        material: "硬质塑料，面板嵌入发光圆环模块"
+        finish: "哑光涂层，发光环高亮白光对比强烈"
+      mounting: "双耳塞入耳，无耳翼"
+      signature_detail: "圆形LED发光环环绕JBL logo，点亮时形成强视觉冲击"
+    design_level:
+      score: 4
+      reason: "发光圆环logo是高识别度的差异化特征，防水溅射场景摄影增强运动属性表达"
+    design_tags: ["TWS", "JBL", "LED发光环", "防水", "运动", "黑色", "品牌logo强化"]
+    hero_feature: "圆形LED发光环嵌入面板，点亮后logo视觉冲击力极强"
+    problem_solved: "夜间运动可见性+品牌识别，同时具备防水性能"
+    transferable_technique: "logo嵌入发光圆环——将品牌标志与功能性灯效结合，双重作用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_iem_006"
+    source_images:
+      - filename: "46.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/46.jpg"
+        image_role: "hero"
+        visual_anchor: "军绿色腔体+铝合金关节+滚花螺纹线材插针，工业战术风有线耳机"
+    product_name: "工业战术风有线入耳式耳机"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "入耳式耳机", "有线入耳"]
+    design_language:
+      silhouette: "圆柱腔体+直角折弯金属关节+圆形面板，侧视呈L形转角结构"
+      light_opening: "无发光"
+      thermal: "无散热需求，封闭结构"
+      cmf:
+        color: "军绿色腔体 + 银色铝合金关节 + 黑色线材"
+        material: "军绿色软橡胶/塑料腔体，铝合金CNC关节，黑色编织线材"
+        finish: "腔体磨砂橡胶质感；铝合金本色银+滚花肌理；线材编织布面"
+      mounting: "直入式，无耳翼，侧入式设计通过关节旋转调整角度"
+      signature_detail: "铝合金滚花螺纹插针接头，模仿工业连接器设计语言"
+    design_level:
+      score: 5
+      reason: "工业连接器语言迁移至音频产品，滚花+关节+军绿三元素高度协调，独特性极强，if Award最具代表性的跨品类迁移案例"
+    design_tags: ["有线入耳", "工业风", "军绿", "铝合金", "滚花", "关节结构", "跨品类迁移", "战术美学"]
+    hero_feature: "可旋转铝合金关节+滚花螺纹插针，工业连接器美学完整迁移至耳机"
+    problem_solved: "为追求工业/军事美学的用户提供差异化选择，同时角度可调提升舒适度"
+    transferable_technique: "工业连接器设计语言（滚花螺纹+金属关节）迁移至消费电子，高度可迁移至工具类产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_iem_007"
+    source_images:
+      - filename: "50.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/50.jpg"
+        image_role: "hero"
+        visual_anchor: "小鸟logo骨传导/气传导运动耳机，深灰色，橙色按键，颈绳后挂"
+      - filename: "51.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/51.jpg"
+        image_role: "detail"
+        visual_anchor: "同品牌正面图，三角形机身+圆形旋钮，双耳对称开放展示"
+    product_name: "开放式骨传导/气传导运动耳机（小鸟品牌）"
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["音箱", "入耳式耳机", "骨传导/开放式运动"]
+    design_language:
+      silhouette: "三角形主机身（侧视）+圆弧耳挂+颈绳后挂连接，非对称功能分区"
+      light_opening: "无发光"
+      thermal: "封闭小腔体"
+      cmf:
+        color: "深灰蓝主色 + 橙色功能按键点缀"
+        material: "硬质哑光塑料主体，软硅胶耳挂"
+        finish: "细腻哑光涂层，橙色按键高亮对比"
+      mounting: "耳挂绕耳+颈绳后挂双重固定，非入耳"
+      signature_detail: "圆形贴片式品牌logo（内有小鸟图形）；橙色单按键功能指示"
+    design_level:
+      score: 3
+      reason: "造型有运动感，三角形机身有辨识度，但整体设计语言不够突出"
+    design_tags: ["开放式", "骨传导", "运动", "颈绳", "耳挂", "橙色点缀", "三角形机身"]
+    hero_feature: "三角形机身+圆形旋钮+橙色按键，三要素构成简洁运动美学"
+    problem_solved: "户外运动时保持环境声感知，颈绳+耳挂双重固定防脱落"
+    transferable_technique: "单一高亮色按键作为功能指示+视觉焦点，简化UI同时增加可用性"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "骨传导/开放式非入耳设计，需确认归类；50.jpg与51.jpg为同一产品不同视角"
+
+  - product_id: "if_iem_008"
+    source_images:
+      - filename: "71.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/71.jpg"
+        image_role: "hero"
+        visual_anchor: "KEF品牌，银色铝合金矩形腔体+黑色橡胶耳钩，有线入耳"
+    product_name: "KEF 铝合金有线入耳式耳机"
+    brand_name: "KEF"
+    brand_confidence: "high"
+    category_path: ["音箱", "入耳式耳机", "有线入耳"]
+    design_language:
+      silhouette: "矩形铝块腔体，切角圆润，厚实方正；黑色橡胶耳钩绕耳"
+      light_opening: "无发光"
+      thermal: "全金属封闭腔体"
+      cmf:
+        color: "银色铝合金 + 黑色橡胶/塑料耳钩"
+        material: "CNC铝合金腔体，KEF字样激光蚀刻；黑色软橡胶耳钩"
+        finish: "铝合金拉丝（横向纹理）+阳极氧化处理；耳钩哑光橡胶"
+      mounting: "耳钩绕耳固定+前端耳塞入耳"
+      signature_detail: "大块铝合金腔体，厚实工业感；KEF刻字清晰可见"
+    design_level:
+      score: 4
+      reason: "铝合金矩形腔体在入耳式中高度罕见，Hi-Fi品牌语言准确，材质执行到位"
+    design_tags: ["有线入耳", "KEF", "铝合金", "矩形腔体", "耳钩", "Hi-Fi", "金属质感"]
+    hero_feature: "CNC铝合金矩形腔体，将Hi-Fi器材的金属质感缩小至入耳级别"
+    problem_solved: "高端Hi-Fi品牌进入入耳市场，用金属腔体传递音质专业性"
+    transferable_technique: "矩形CNC金属腔体——非常规几何形替代圆形腔体，提升品质感知"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_iem_009"
+    source_images:
+      - filename: "73.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/73.jpg"
+        image_role: "hero"
+        visual_anchor: "ELECOM透明镜面腔体+蓝色线材，水波纹场景拍摄"
+      - filename: "74.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/74.jpg"
+        image_role: "colorway"
+        visual_anchor: "ELECOM同系列银镜/黑双色对比，白底展示"
+    product_name: "ELECOM 透明镜面有线入耳式耳机"
+    brand_name: "ELECOM"
+    brand_confidence: "high"
+    category_path: ["音箱", "入耳式耳机", "有线入耳"]
+    design_language:
+      silhouette: "小球形腔体，极简圆润，前端细小nozzle接耳塞"
+      light_opening: "无发光，镜面反射本身为视觉亮点"
+      thermal: "封闭腔体"
+      cmf:
+        color: "透明/银镜色腔体（银版）+ 黑色版本；蓝色细线材"
+        material: "高透明PC或镜面电镀塑料腔体，蓝色TPE线材"
+        finish: "腔体镜面电镀，高光反射；线材蓝色半透明"
+      mounting: "直入式，无耳钩，纯耳塞固定"
+      signature_detail: "镜面球形腔体+蓝色线材组合，强烈的科技透明美学"
+    design_level:
+      score: 4
+      reason: "镜面+透明腔体在有线入耳中有强视觉冲击力，蓝色线材配色精准，水波纹场景与产品语言高度契合"
+    design_tags: ["有线入耳", "ELECOM", "透明腔体", "镜面", "蓝色线材", "球形腔体", "科技感"]
+    hero_feature: "镜面球形腔体+蓝色线材，透明/反射材质语言贯穿全产品"
+    problem_solved: "视觉差异化，将听觉产品转化为时尚配件属性"
+    transferable_technique: "镜面电镀+透明材质组合，适用于小型消费电子的科技美学表达"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_iem_010"
+    source_images:
+      - filename: "89.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/89.jpg"
+        image_role: "hero"
+        visual_anchor: "JBL有线入耳（小图）+E系列头戴耳机组合，黑色滚花金属腔体"
+    product_name: "JBL E系列有线入耳式耳机"
+    brand_name: "JBL"
+    brand_confidence: "high"
+    category_path: ["音箱", "入耳式耳机", "有线入耳"]
+    design_language:
+      silhouette: "小圆柱腔体，极简，前端细nozzle，线控模块扁平"
+      light_opening: "无发光"
+      thermal: "封闭腔体"
+      cmf:
+        color: "全黑+银色金属腔体"
+        material: "金属腔体（滚花纹理），黑色TPE线材，扁平线控"
+        finish: "金属腔体滚花哑光，JBL银色浮雕字"
+      mounting: "直入式耳塞，线控一体"
+      signature_detail: "金属腔体滚花纹理+JBL字样浮雕，简洁中有细节质感"
+    design_level:
+      score: 3
+      reason: "经典JBL设计语言，执行稳定，但无突出创新，图片包含头戴耳机干扰信息"
+    design_tags: ["有线入耳", "JBL", "滚花金属", "线控", "黑色", "经典设计"]
+    hero_feature: "金属滚花腔体+JBL浮雕字，品牌识别清晰"
+    problem_solved: "品牌一致性延伸，入耳与头戴产品系列统一设计语言"
+    transferable_technique: "滚花纹理金属腔体，触觉+视觉双重质感表达"
+    confidence:
+      visual_description: "medium"
+      category: "medium"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "图片同时包含头戴耳机，入耳式耳机在图中为小图，信息量有限"
+
+  - product_id: "if_iem_011"
+    source_images:
+      - filename: "95.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/if_award/入耳式耳机/95.jpg"
+        image_role: "hero"
+        visual_anchor: "1MORE颈挂蓝牙耳机，黑色弧形颈圈+红色细线点缀+多驱金属腔体"
+    product_name: "1MORE 多驱动颈挂式蓝牙耳机"
+    brand_name: "1MORE"
+    brand_confidence: "high"
+    category_path: ["音箱", "入耳式耳机", "颈挂式蓝牙"]
+    design_language:
+      silhouette: "弧形颈圈+两侧竖型模块+细缆上引至圆柱形腔体，整体优雅弧线"
+      light_opening: "颈圈模块有红色细线装饰，非发光"
+      thermal: "颈圈模块内置电池，散热无特殊处理"
+      cmf:
+        color: "整体黑色 + 红色细线条点缀（颈圈+腔体）"
+        material: "颈圈软性硅胶/橡胶弧形条；腔体金属（铝合金）多层分件"
+        finish: "颈圈哑光黑；腔体金属拉丝+磨砂分层"
+      mounting: "颈挂后置重心，细缆前引，耳塞入耳"
+      signature_detail: "颈圈+腔体通贯的红色细线条，1MORE品牌色系标识"
+    design_level:
+      score: 4
+      reason: "红色线条系统贯穿，颈圈弧线优雅，多驱金属腔体工艺细腻，整体高级感突出"
+    design_tags: ["颈挂式", "1MORE", "多驱动", "红色点缀", "金属腔体", "弧形颈圈", "蓝牙"]
+    hero_feature: "红色细线条从颈圈延伸至腔体，贯穿全产品的品牌色系装饰线"
+    problem_solved: "颈挂结构解决耳机收纳便携性，多驱单元金属腔体传递音质专业性"
+    transferable_technique: "品牌色系装饰细线贯穿多个部件，以低成本手法建立全局视觉统一性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

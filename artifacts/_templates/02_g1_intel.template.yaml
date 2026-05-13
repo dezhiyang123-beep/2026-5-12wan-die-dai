@@ -1,0 +1,57 @@
+# G1情报包模板（scout深度输出）
+# 符合 contracts/g1_intel.schema.yaml
+
+project_id: "20260403-ACG-LIGHT"
+intel_date: "2026-04-03"
+
+client_research:
+  confirmed_fields:
+    - field: "price_ceiling"
+      value: "$30"
+      confidence: "H"
+      source: "knowledge/clients/acg.md"
+    - field: "must_certify_fcc"
+      value: "FCC Part 15"
+      confidence: "H"
+      source: "knowledge/clients/acg.md"
+  unknown_fields:
+    - field: "packaging_language_confirmed"
+      verification_action: "向ACG采购确认包装语言要求，预计耗时1小时"
+
+competitor_matrix:
+  - brand: "NEBO"
+    model: "Slyde King 500"
+    price: "$19.99"
+    key_specs: ["500lm[H]", "磁吸底座[H]", "USB-C充电[H]", "4种模式[H]"]
+    differentiator: "四合一功能（手电/工作灯/磁吸/挂钩），市场覆盖面广[H]"
+    user_pain: "磁力偏弱，工业金属面吸附不稳定[M-Amazon评论N=15]"
+    source: "https://www.amazon.com/NEBO/dp/example"
+  - brand: "DEWALT"
+    model: "DCL040"
+    price: "$24.99"
+    key_specs: ["800lm[H]", "360°旋转头[H]", "USB充电[H]"]
+    differentiator: "工具品牌背书，工地专业认可度高[H]"
+    user_pain: "不能手持使用，必须固定[M-Amazon评论N=8]"
+    source: "https://www.homedepot.com/example"
+  # ... 至少5个竞品
+
+market_data:
+  price_distribution: "$15-35为主流价格带，基于6个SKU的有限观察[M]"
+  volume_signal: "便携工作灯Amazon BSR前100有约12个SKU，市场活跃[M]"
+  trend_notes: "USB-C充电已成标配，磁吸固定功能成差异化门槛[M-基于竞品分析]"
+
+user_scenarios:
+  - scenario: "工人在狭小空间（管道井/电控柜内）检修，双手需要操作工具"
+    behavioral_contradiction: "要照亮作业面就必须手持灯→但手持灯就无法双手操作工具"
+  - scenario: "夜间户外应急场景，需要快速固定临时照明"
+    behavioral_contradiction: "要固定灯就需要找吸附面→但应急场景可能没有理想吸附面"
+
+unknown_summary:
+  - field: "Milwaukee M18 RADIUS详细规格"
+    verification_action: "搜索 milwaukee m18 radius specs homedepot"
+  - field: "Makita工作灯定价"
+    verification_action: "搜索 makita work light amazon"
+
+tech_trends:
+  - "磁吸+夹持+挂钩三合一固定已成主流[H-竞品分析]"
+  - "USB-C PD充电开始出现在高端工作灯[M-有限观察]"

@@ -1,0 +1,49 @@
+# 08_cmf_zoning.schema.yaml — CMF分区绑定表
+
+schema_version: "2.0"
+
+description: |
+  CMF最终权威文件。final_authority: true。
+  本文件生效后覆盖05_render_definition_pack.yaml中的所有render_cmf_hint字段。
+
+required:
+  final_authority:
+    type: boolean
+    value: true
+    description: "本文件为CMF最终权威，覆盖G4渲染包的render_cmf_hint"
+
+  overrides:
+    type: string
+    value: "05_render_definition_pack.yaml 中所有 render_cmf_hint 字段"
+
+  cmf_zones:
+    type: list
+    description: "CMF分区列表，按物理分件边界划分"
+    item_schema:
+      zone_name:
+        type: string
+        description: "分区名称，英文，如main_housing_front"
+      material:
+        type: string
+        description: "材料规格，含认证等级，搜索失败标UNKNOWN"
+      surface_treatment:
+        type: string
+        description: "表面处理工艺"
+      touch:
+        type: string
+        description: "触感目标"
+      color_direction:
+        type: string
+        description: "Pantone编号或RAL编号，搜索失败标UNKNOWN"
+      process_notes:
+        type: string
+        description: "工艺说明和测试要求"
+      supplier_spec:
+        type: string
+        description: "可发给供应商的英文规格（单行格式）"
+
+validation:
+  - final_authority必须为true
+  - color_direction不接受"黑色/白色"等描述，必须有Pantone或RAL编号
+  - material必须包含认证等级（如UL94 V-0）
+  - 分区按物理分件边界划分，不按视觉区域

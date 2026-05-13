@@ -1,0 +1,606 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "户外配件"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_户外配件_001"
+    source_images:
+      - filename: "户外配件__喷雾器__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__喷雾器__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX XR背负式喷雾器，灰色聚乙烯储液桶挂载于黄色泵体框架，底部电池接口，散放附件和充电器"
+      - filename: "户外配件__喷雾器__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__喷雾器__02.jpg"
+        image_role: "detail"
+        visual_anchor: "同款喷雾器侧面视角，黄色框架结构与灰色水箱体量对比更清晰，肩带固定点可见"
+    product_name: "DeWalt 20V MAX XR 4-Gallon Backpack Sprayer"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "背负式喷雾器"
+    design_language:
+      silhouette: "灰色大圆柱储液桶悬挂于黄色矩形框架泵体之上，背负框架结构外露，整体呈L形侧视轮廓"
+      light_opening: "N/A（喷雾设备）；喷嘴出液口为功能端，可调雾化角度"
+      thermal: "N/A（非电热设备）"
+      cmf:
+        color: "灰色（储液桶）+ 黄色（泵体框架）+ 黑色（背带/接口/喷杆）"
+        material: "聚乙烯储液桶，工程塑料泵体框架，橡胶背带"
+        finish: "哑光灰储液桶，哑光黄框架"
+      mounting: "20V MAX电池底部插入泵体，背负肩带固定于框架两侧"
+      signature_detail: "灰色储液桶与黄色泵体框架的材质色彩分区，泵体框架外露结构清晰表达内部机械逻辑"
+    design_level:
+      score: 3
+      reason: "功能分区色彩清晰，黄灰色系统内统一，背负结构外露有力量感，但整体设计无创新亮点"
+    design_tags:
+      - "无绳"
+      - "20V MAX XR"
+      - "背负式"
+      - "户外作业"
+      - "H03_分件线设计"
+    hero_feature: "黄色泵体框架作为骨架支撑灰色储液桶，框架外露强调工业结构美"
+    problem_solved: "无绳背负喷药，农场/园艺大面积作业免手动泵压，20V电池驱动持续恒压"
+    transferable_technique: "功能容器（储液桶）与动力结构（泵体框架）的颜色分区策略，一眼识别工作端与动力端"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外配件_002"
+    source_images:
+      - filename: "户外配件__喷雾器__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__喷雾器__03.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX全黄色一体式背负喷雾器，黄色圆柱桶体与黄色底部电池泵体一体成型感，黑色喷杆"
+    product_name: "DeWalt 20V MAX 4-Gallon Backpack Sprayer (All-Yellow)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "背负式喷雾器"
+    design_language:
+      silhouette: "全黄色圆柱储液桶与底部泵体视觉融合，整体呈统一圆柱形态，无双色分区"
+      light_opening: "N/A（喷雾设备）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（全身主体）+ 黑色（喷杆/背带/接口）"
+        material: "聚乙烯储液桶，工程塑料泵体"
+        finish: "哑光黄全身"
+      mounting: "20V MAX电池底部插入"
+      signature_detail: "全黄色一体视觉策略，品牌色占据全部主要表面，最大化DeWalt品牌视觉强度"
+    design_level:
+      score: 3
+      reason: "全黄策略品牌辨识度极高，但与001相比失去了功能分区的可读性，整体更简洁"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "背负式"
+      - "全黄品牌色"
+      - "H07_极简整合"
+    hero_feature: "全黄色覆盖桶体与泵体，品牌色即产品色，最大化视觉统一感"
+    problem_solved: "无绳背负喷药，全黄外观在工地/农场环境极易识别定位"
+    transferable_technique: "品牌主色全覆盖策略，牺牲功能分区可读性换取品牌统一感（适用于强品牌色系品牌）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外配件_003"
+    source_images:
+      - filename: "户外配件__延长线__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__延长线__01.jpg"
+        image_role: "hero"
+        visual_anchor: "黄色单插口延长线，L形黑色防水插头，单出口，DEWALT文字印于线缆，发光指示功能"
+      - filename: "户外配件__延长线__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__延长线__02.jpg"
+        image_role: "detail"
+        visual_anchor: "同款延长线卷绕展示，L形插头细节可见，黄色线缆盘绕形态"
+    product_name: "DeWalt Outdoor Extension Cord (Lighted L-Connector)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "延长线"
+    design_language:
+      silhouette: "黄色圆截面线缆，端部L形黑色橡胶插头，插头与线缆形成90度折角"
+      light_opening: "N/A（供电线缆）；插头内置发光指示灯显示通电状态"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（线缆主体）+ 黑色（插头/橡胶防护套）"
+        material: "PVC绝缘线缆，橡胶防水插头"
+        finish: "哑光黄线缆，哑光黑插头"
+      mounting: "标准3芯接地插头，L形90度折角减少拔插阻力"
+      signature_detail: "L形90度折角插头在墙面插座处贴合紧凑，比直插头更节省空间"
+    design_level:
+      score: 3
+      reason: "黄色线缆品牌识别度高，L形插头功能创新实用，但属于基础配件设计范畴"
+    design_tags:
+      - "户外"
+      - "延长线"
+      - "L形插头"
+      - "发光指示"
+      - "H11_功能外显"
+    hero_feature: "L形折角黑色防水插头，功能改良（省空间）与品牌黄色线缆的简洁统一"
+    problem_solved: "工地/户外供电延伸，黄色线缆在草地/土地上醒目易找，L形插头紧贴墙面不突出"
+    transferable_technique: "品牌色线缆作为安全色（工地可见性）兼品牌标识，功能与品牌传播一体化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外配件_004"
+    source_images:
+      - filename: "户外配件__延长线__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__延长线__03.jpg"
+        image_role: "hero"
+        visual_anchor: "黄色延长线两端蓝色半透明发光插头，双端均可发光，线缆印DEWALT文字"
+      - filename: "户外配件__延长线__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__延长线__04.jpg"
+        image_role: "detail"
+        visual_anchor: "同款线缆发光蓝色插头近景，蓝色透明壳体内LED灯珠可见"
+    product_name: "DeWalt Lighted Outdoor Extension Cord (Dual Lighted Plugs)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "延长线"
+    design_language:
+      silhouette: "黄色线缆两端蓝色透明插头，蓝色透明壳内LED发光，整体形成黄-蓝色调对比"
+      light_opening: "N/A（供电线缆）；插头内置LED双端发光，通电时蓝色光晕可见"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（线缆）+ 蓝色透明（插头壳体）+ 白色（LED光）"
+        material: "PVC线缆，透明ABS插头壳体，内置LED"
+        finish: "哑光黄线缆，蓝色透明注塑插头"
+      mounting: "标准3芯接地直插头，两端均带发光功能"
+      signature_detail: "蓝色透明插头与黄色线缆的互补色对比，发光功能让插头在暗处/草丛中快速定位"
+    design_level:
+      score: 4
+      reason: "蓝色透明发光插头在黄色线缆上形成强对比，发光功能解决暗处找插头的真实痛点，是有创意的功能设计"
+    design_tags:
+      - "户外"
+      - "延长线"
+      - "双端发光"
+      - "蓝色透明"
+      - "H11_功能外显"
+      - "H08_对比强调"
+    hero_feature: "蓝色透明发光插头在黄色线缆两端形成视觉锚点，暗处可见"
+    problem_solved: "夜间/暗处工作快速找到插头，双端发光不论哪端都能定位"
+    transferable_technique: "透明壳体内置发光元件作为功能状态外显（H11），互补色对比强化视觉锚点（H08）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外配件_005"
+    source_images:
+      - filename: "户外配件__梯子__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__梯子__01.jpg"
+        image_role: "hero"
+        visual_anchor: "铝合金延伸梯展开状态，银色铝质梯身，顶部橙色/黄色DeWalt品牌顶盖，多节延伸结构可见"
+      - filename: "户外配件__梯子__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__梯子__02.jpg"
+        image_role: "detail"
+        visual_anchor: "铝合金延伸梯收合状态，侧面展示延伸锁扣机构，银色铝质竖梯，橙色顶盖"
+      - filename: "户外配件__梯子__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__梯子__07.jpg"
+        image_role: "hero"
+        visual_anchor: "更长规格铝合金延伸梯，无橙色顶盖，纯银色铝质，梯脚防滑脚垫"
+    product_name: "DeWalt Aluminum Extension Ladder"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "梯子"
+      - "铝合金延伸梯"
+    design_language:
+      silhouette: "双轨银色铝合金方管竖梯，上下节延伸结构，整体细长矩形轮廓"
+      light_opening: "N/A（梯子）"
+      thermal: "N/A"
+      cmf:
+        color: "银色（铝合金主体）+ 橙色/黄色（顶盖品牌件）+ 黑色（锁扣/脚垫）"
+        material: "挤压铝合金竖梁，铝合金横档，橡胶防滑脚垫"
+        finish: "铝合金阳极氧化本色，橙色/黄色注塑顶盖"
+      mounting: "靠墙斜置，铝合金横档提供踩踏面，脚部橡胶防滑"
+      signature_detail: "橙色/黄色顶盖作为品牌色在梯子顶部最高处的视觉标记，远处可识别品牌"
+    design_level:
+      score: 2
+      reason: "梯子品类设计空间有限，DeWalt仅通过顶盖颜色做品牌区隔，整体属于基础功能设计"
+    design_tags:
+      - "铝合金"
+      - "延伸梯"
+      - "户外"
+      - "品牌顶盖"
+    hero_feature: "橙色/黄色顶盖在银色铝合金梯身顶端的品牌色点缀"
+    problem_solved: "高处作业延伸触及范围，铝合金轻量化方便单人搬运"
+    transferable_technique: "在功能件顶端/最高点放置品牌色标记，远距离视觉识别品牌（顶部品牌标记策略）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外配件_006"
+    source_images:
+      - filename: "户外配件__梯子__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__梯子__03.jpg"
+        image_role: "hero"
+        visual_anchor: "玻璃纤维A形梯，黄色玻纤竖梁+铝合金横档，顶部黑色DEWALT平台，4踏步矮梯"
+      - filename: "户外配件__梯子__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__梯子__04.jpg"
+        image_role: "hero"
+        visual_anchor: "同系列6踏步玻纤A形梯，黄色竖梁，顶部黑色平台，尺寸更高"
+      - filename: "户外配件__梯子__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__梯子__05.jpg"
+        image_role: "hero"
+        visual_anchor: "8踏步玻纤A形梯，同系列，黄色竖梁，展开A字形侧面清晰"
+      - filename: "户外配件__梯子__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__梯子__06.jpg"
+        image_role: "hero"
+        visual_anchor: "10踏步最高规格，同系列黄色竖梁玻纤A形梯"
+    product_name: "DeWalt Fiberglass Step Ladder (4/6/8/10 Step)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "梯子"
+      - "玻璃纤维A形梯"
+    design_language:
+      silhouette: "经典A字形展开轮廓，黄色玻纤竖梁+银色铝合金横档，顶部黑色宽平台，整体三角形稳定轮廓"
+      light_opening: "N/A（梯子）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（玻纤竖梁）+ 银色（铝合金横档）+ 黑色（顶部平台/固定件）"
+        material: "玻璃纤维竖梁（绝缘），铝合金横档，橡胶防滑脚垫，注塑顶部平台"
+        finish: "哑光黄玻纤，银色铝合金原色，黑色注塑顶台"
+      mounting: "A形自立，无需靠墙，顶部黑色平台可放置工具"
+      signature_detail: "黄色玻纤竖梁将品牌色贯穿梯子全高，在A形展开时两侧黄色竖梁形成强烈的品牌色包围框"
+    design_level:
+      score: 3
+      reason: "黄色玻纤竖梁有效将品牌色融入产品主体，A形梯全高品牌色覆盖优于延伸梯仅顶盖着色策略"
+    design_tags:
+      - "玻璃纤维"
+      - "A形梯"
+      - "绝缘"
+      - "黄色竖梁"
+      - "四规格系列"
+      - "H05_模块化设计"
+    hero_feature: "黄色玻纤竖梁贯穿梯子全高，展开时两侧黄色框架视觉冲击强"
+    problem_solved: "绝缘玻纤材质适合电工作业，A形自立无需依靠，顶部平台可放工具省手"
+    transferable_technique: "品牌色放置于产品最长维度的主结构件（竖梁），最大化品牌色视觉面积"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外配件_007"
+    source_images:
+      - filename: "户外配件__耙子__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__耙子__01.jpg"
+        image_role: "hero"
+        visual_anchor: "扇形耙，黄色长杆，黑色扇形钢丝耙头，手柄顶端黑色橡胶T形握把，DEWALT印字"
+      - filename: "户外配件__耙子__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__耙子__02.jpg"
+        image_role: "hero"
+        visual_anchor: "弓形硬耙，黄色长杆，黑色弓形钢制耙头，同款黄黑配色系统"
+    product_name: "DeWalt Garden Rake Set (Fan Rake + Bow Rake)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "手动园艺工具"
+      - "耙子"
+    design_language:
+      silhouette: "黄色细长直杆，端部功能头（扇形/弓形），整体长棍形态，顶端T形握把"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（长杆主体）+ 黑色（耙头/握把/连接颈）"
+        material: "玻纤或钢质长杆，钢质耙头，橡胶握把"
+        finish: "哑光黄杆，黑色涂装耙头"
+      mounting: "手持长柄，直立使用"
+      signature_detail: "品牌色黄杆+黑色耙头的色彩系统与电动工具系列完全一致，手动工具融入同一品牌语言"
+    design_level:
+      score: 3
+      reason: "黄黑双色系统统一延伸至园艺手动工具，品牌一致性强，但手动工具设计空间极小"
+    design_tags:
+      - "手动工具"
+      - "园艺"
+      - "黄黑系统"
+      - "扇形耙"
+      - "弓形耙"
+    hero_feature: "黄色长杆将DeWalt品牌色植入传统园艺工具，手动工具与电动工具视觉语言统一"
+    problem_solved: "落叶/泥土整理，两种耙头覆盖柔性（扇形）和硬性（弓形）不同作业需求"
+    transferable_technique: "品牌色应用于手动工具长杆（最大视觉面积件），低成本品牌线延伸策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外配件_008"
+    source_images:
+      - filename: "户外配件__花园水管__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__花园水管__01.jpg"
+        image_role: "hero"
+        visual_anchor: "扁平织物软管卷轴展示，黑色扁平渗水管，黄色DeWalt接头，DEWALT文字印于管身"
+    product_name: "DeWalt Flat/Soaker Garden Hose"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "花园水管"
+    design_language:
+      silhouette: "扁平截面织物管身，卷收展示，接头为标准圆形黄色金属件"
+      light_opening: "N/A（水管）"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（管身）+ 黄色（接头/品牌印字）"
+        material: "织物编织扁管，黄色注塑/金属接头"
+        finish: "黑色织物本色，黄色接头"
+      mounting: "标准花园水龙头螺纹连接，黄色接头"
+      signature_detail: "扁平截面织物管身可渗水灌溉，黄色接头作为唯一品牌识别点"
+    design_level:
+      score: 2
+      reason: "黑管+黄接头策略品牌一致，但产品本身设计无特色"
+    design_tags:
+      - "花园"
+      - "渗水管"
+      - "黑黄接头"
+    hero_feature: "黄色接头在黑色管身末端的品牌色点"
+    problem_solved: "滴灌/渗灌节水浇水，扁平收纳节省空间"
+    transferable_technique: "功能性接头件（接口/插头）作为品牌色定位点，低成本品牌标记策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外配件_009"
+    source_images:
+      - filename: "户外配件__花园水管__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__花园水管__02.jpg"
+        image_role: "hero"
+        visual_anchor: "多模式喷水枪，黄色枪形握把，黑色喷嘴筒，顶部D形金属提环，多档旋转调节环"
+    product_name: "DeWalt Multi-Pattern Spray Nozzle"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "花园水管"
+      - "喷水枪"
+    design_language:
+      silhouette: "枪形手持，黄色握把+黑色筒形喷嘴，顶部D形提环，整体与电动工具枪形机身语言一致"
+      light_opening: "N/A（水管配件）；前端喷嘴出水口，旋转调节出水模式"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（握把）+ 黑色（喷嘴筒）+ 银色（D形提环/调节环）"
+        material: "工程塑料握把，铝合金/ABS喷嘴，不锈钢提环"
+        finish: "哑光黄握把，哑光黑喷嘴"
+      mounting: "手持握持，标准花园水管螺纹接入"
+      signature_detail: "枪形造型与电动工具系列视觉语言一致，顶部D形提环方便挂置"
+    design_level:
+      score: 4
+      reason: "枪形造型将电动工具设计语言延伸至园艺配件，品牌一致性出色，D形提环实用细节加分"
+    design_tags:
+      - "枪形"
+      - "多模式"
+      - "园艺"
+      - "品牌语言延伸"
+      - "H12_人机界面强化"
+    hero_feature: "枪形喷水枪将DeWalt电动工具造型语言完美迁移至园艺配件，一眼认出品牌"
+    problem_solved: "多模式浇水（直射/喷雾/扇形等），枪形握持手感与电动工具统一，降低用户学习成本"
+    transferable_technique: "跨品类造型语言迁移——将电动工具枪形语言迁移至园艺配件，强化品牌生态系统感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外配件_010"
+    source_images:
+      - filename: "户外配件__花园水管__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__花园水管__03.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑色高压清洗水管，无明显DeWalt品牌标记，黑色螺旋增强管，金属接头"
+    product_name: "DeWalt Pressure Washer Hose"
+    brand_name: "DeWalt"
+    brand_confidence: "low"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "花园水管"
+      - "高压清洗管"
+    design_language:
+      silhouette: "全黑色圆截面螺旋增强管，两端金属接头"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（全身）+ 银色（金属接头）"
+        material: "橡胶/PVC高压管，金属接头"
+        finish: "黑色哑光"
+      mounting: "高压清洗机专用螺纹快接"
+      signature_detail: "无明显DeWalt品牌视觉元素，疑为OEM产品或包装图未拍入"
+    design_level:
+      score: 1
+      reason: "全黑无品牌标记，无设计特征可迁移"
+    design_tags:
+      - "高压"
+      - "清洗"
+      - "全黑"
+    hero_feature: "无明显Hero Feature"
+    problem_solved: "高压清洗机水源延伸，耐高压螺旋增强管体"
+    transferable_technique: "N/A"
+    confidence:
+      visual_description: "medium"
+      category: "medium"
+      brand: "low"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "图像中无可见DeWalt品牌标记，品牌归属待确认"
+
+  - product_id: "dewalt_户外配件_011"
+    source_images:
+      - filename: "户外配件__花园水管__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__花园水管__04.jpg"
+        image_role: "hero"
+        visual_anchor: "短编织连接管，黑色编织外皮，两端黄色DeWalt品牌接头，短尺寸连接管用途"
+    product_name: "DeWalt Braided Connector Hose"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "花园水管"
+    design_language:
+      silhouette: "短截面编织管，两端品牌色接头，结构简洁"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（编织管身）+ 黄色（两端接头）"
+        material: "不锈钢编织外皮，黄色注塑接头"
+        finish: "钢丝编织光泽，黄色亮面接头"
+      mounting: "标准花园水管螺纹，两端均可连接"
+      signature_detail: "两端黄色品牌接头在黑色编织管两端形成对称品牌点"
+    design_level:
+      score: 3
+      reason: "黑编织管+黄接头的双端品牌标记策略简洁有效"
+    design_tags:
+      - "编织管"
+      - "连接管"
+      - "双端黄接头"
+    hero_feature: "黑色编织管两端对称黄色接头，品牌色锚定两端"
+    problem_solved: "短距离管路连接，编织外皮耐磨抗折"
+    transferable_technique: "接口件两端对称品牌色策略——不论哪端朝向用户均可识别品牌"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外配件_012"
+    source_images:
+      - filename: "户外配件__花园水管__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__花园水管__05.jpg"
+        image_role: "hero"
+        visual_anchor: "黑底黄色纵条纹花园水管，粗橡胶管身印DEWALT品牌字样，黄色接头，盘绕展示"
+    product_name: "DeWalt Black+Yellow Striped Garden Hose"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "花园水管"
+    design_language:
+      silhouette: "圆截面厚壁橡胶管，黑底带黄色纵向条纹，接头为黄色"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（管身底色）+ 黄色（纵向条纹/接头/品牌印字）"
+        material: "厚壁橡胶管，黄色注塑接头"
+        finish: "哑光黑橡胶，黄色条纹印刷"
+      mounting: "标准花园水龙头螺纹接头"
+      signature_detail: "黑底黄色纵向条纹贯穿管身全长，配合DEWALT印字，品牌色通过条纹图案整合进产品表面"
+    design_level:
+      score: 4
+      reason: "黑底黄纵条纹是DeWalt品牌在水管产品上最强的视觉表达——条纹=品牌符号，远看也认得出DeWalt"
+    design_tags:
+      - "花园水管"
+      - "黑黄条纹"
+      - "品牌图案"
+      - "H10_材料表达"
+    hero_feature: "黑底黄纵条纹将品牌色转化为产品表面图案，整根水管都是品牌展示面"
+    problem_solved: "户外浇水，厚壁橡胶耐压耐冻，黑底黄条纹在草地上醒目易追踪"
+    transferable_technique: "品牌色条纹作为表面装饰图案，将品牌标识融入产品全长表面（区别于仅接头处点缀）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_户外配件_013"
+    source_images:
+      - filename: "户外配件__铲子__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/户外配件/户外配件__铲子__01.jpg"
+        image_role: "hero"
+        visual_anchor: "方头铲，全长黄色+黑色双段玻纤杆，黑色方形铲头，顶端黑色橡胶T形握把，DEWALT印字于黄色杆段"
+    product_name: "DeWalt Fiberglass Handle Square Point Shovel"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "户外配件"
+      - "手动园艺工具"
+      - "铲子"
+    design_language:
+      silhouette: "超长竖向直杆，上段黄色+下段黑色双色杆，顶端T形握把，底端方形铲头，整体极细长矩形轮廓"
+      light_opening: "N/A（手动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（上段杆体）+ 黑色（下段杆体/铲头/握把/连接颈）"
+        material: "玻璃纤维杆（上黄下黑双段），钢质方铲头，橡胶T形握把"
+        finish: "哑光黄玻纤，黑色烤漆杆段，黑色涂装铲头"
+      mounting: "手持T形握把直立使用，铲头与杆连接处黑色连接颈有肋纹防滑"
+      signature_detail: "黄黑双段杆的分界黑色颈环，连接处肋纹增加防滑视觉质感，与耙子系列同款设计语言"
+    design_level:
+      score: 3
+      reason: "黄黑双段杆系统与耙子/花园工具系列完全统一，品牌一致性强，超长竖杆的黄色段是品牌色主载体"
+    design_tags:
+      - "手动工具"
+      - "园艺"
+      - "玻纤杆"
+      - "黄黑双段"
+      - "方头铲"
+    hero_feature: "黄黑双段玻纤杆系统——黄色上段品牌色+黑色下段耐磨色，分界颈环清晰分区"
+    problem_solved: "挖土/铲料作业，玻纤杆轻量绝缘不导电，方头铲适合平整挖掘"
+    transferable_technique: "长形手动工具的双段配色策略——上段品牌色（手部接触区）+下段功能色（作业端），品牌色覆盖用户最常看到的握持区"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

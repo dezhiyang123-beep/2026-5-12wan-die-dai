@@ -1,0 +1,90 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "头戴耳机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/头戴耳机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bose_headphone_001"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/头戴耳机/02.jpg"
+        image_role: "hero"
+        visual_anchor: "沙金色头戴耳机，厚弧形头梁，大圆形耳罩，玫瑰金金属铰链，白底3/4侧视图"
+    product_name: "Bose QuietComfort Ultra Headphones"
+    brand_name: "Bose"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "大椭圆耳罩+粗弧形头梁，整体轮廓饱满圆润；耳罩与头梁连接处有外露的竖向金属铰链；头梁弧度夸张，给人极厚实的顶部缓冲感"
+      light_opening: "耳罩外侧下部有一排小圆孔（麦克风/传感器孔阵），无状态指示灯"
+      thermal: "无散热开口"
+      cmf:
+        color: "沙金（Sandstone/Warm Ivory）"
+        material: "合成皮革头梁+耳垫 + 硬质ABS耳罩外壳 + 玫瑰金不锈钢铰链"
+        finish: "皮革哑光 + 塑料壳轻微缎面光泽 + 金属铰链镜面抛光"
+      mounting: "头戴，头梁自适应调节"
+      signature_detail: "外露的玫瑰金竖向金属滑轨铰链是品牌标志性细节，将功能结构件转化为装饰性视觉锚点；Bose字样以同色哑光凸印于耳罩外侧"
+    design_level:
+      score: 4
+      reason: "沙金配色+玫瑰金铰链组合优雅高级，皮革触感与金属铰链的材质层次感突出；头梁厚度传达舒适性承诺；是Bose头戴线中溢价感最强的配色方案"
+    design_tags:
+      - "沙金配色"
+      - "玫瑰金铰链"
+      - "合成皮革"
+      - "外露金属铰链"
+      - "大耳罩"
+      - "旗舰头戴"
+    hero_feature: "外露玫瑰金竖向金属滑轨铰链，将结构件升华为设计语言的核心符号"
+    problem_solved: "长途旅行/高强度降噪场景，需要兼顾ANC性能与佩戴舒适度及外观高级感"
+    transferable_technique: "将必要的结构铰链/转轴暴露并赋予精致CMF，转化为产品的设计识别符号，可迁移到折叠类消费电子产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bose_headphone_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/bose/头戴耳机/03.jpg"
+        image_role: "hero"
+        visual_anchor: "粉色头戴耳机，较细头梁，大圆形耳罩，全塑料结构，白底3/4侧视图"
+    product_name: "Bose QuietComfort Headphones"
+    brand_name: "Bose"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "大圆形耳罩+细弧形头梁；整体比bose_headphone_001更轻薄；耳罩外侧为完整圆形平面，头梁截面较细；铰链内藏不外露"
+      light_opening: "耳罩外侧有小圆孔传感器阵列，无状态指示灯"
+      thermal: "无散热开口"
+      cmf:
+        color: "粉色（Bubble Gum Pink）"
+        material: "硬质ABS全塑料头梁+耳罩外壳 + 合成皮革耳垫"
+        finish: "头梁与耳罩外壳亚光塑料；耳垫皮革柔光"
+      mounting: "头戴，头梁伸缩调节"
+      signature_detail: "耳罩外侧中心有小圆形多功能按键+麦克风孔阵构成的功能区；全塑料一体感强，无金属外露件；配色即为主要差异化手段"
+    design_level:
+      score: 3
+      reason: "标准头戴ANC形态，全塑料结构感偏入门；粉色配色为亮点，但整体设计语言与Ultra相比层次感较弱"
+    design_tags:
+      - "粉色配色"
+      - "全塑料构造"
+      - "轻薄头梁"
+      - "大圆耳罩"
+      - "中端头戴"
+    hero_feature: "全机同色（粉色）统一处理，耳罩外侧触控按键+孔阵构成功能圆心"
+    problem_solved: "日常通勤ANC需求，轻量化便携优先，价格较旗舰亲民"
+    transferable_technique: "大圆形耳罩外侧以同心圆布局整合控制键与麦克风阵列，功能区域视觉集中化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

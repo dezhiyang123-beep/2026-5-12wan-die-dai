@@ -1,0 +1,114 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "电视"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "~/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/电视/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bo_tv_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/电视/01.jpg"
+        image_role: "hero"
+        visual_anchor: "超薄黑色屏幕+下方大尺寸竖向金属格栅音箱腔体+圆盘旋转底座"
+    product_name: "BeoVision Harmony"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "电视"]
+    design_language:
+      silhouette: "屏幕区超薄矩形+下方厚实音箱腔体，整体呈T形/重心下沉比例，底座为圆形金属转盘"
+      light_opening: "竖向密集金属格栅覆盖整个音箱腔体正面，提供大面积声学开口"
+      thermal: "金属格栅辅助散热，底座金属导热"
+      cmf:
+        color: "黑色屏幕边框 + 香槟金/橡木色格栅腔体 + 银黑混合底座"
+        material: "钢化玻璃屏幕 + 金属格栅 + 铝合金底座"
+        finish: "哑光黑边框 + 竖向拉丝金属格栅 + 拉丝铝底盘"
+      mounting: "圆形金属旋转底座（可360度旋转），亦可壁挂"
+      signature_detail: "下方音箱腔体与屏幕等宽，竖向格栅纹理占视觉面积约40%，使TV兼具音箱的存在感"
+    design_level:
+      score: 5
+      reason: "将电视与高端落地音箱系统的设计语言合二为一，格栅腔体与屏幕的比例关系极其罕见，旋转底座增添仪式感，整体是电视品类设计天花板"
+    design_tags: ["竖向金属格栅", "屏幕+音箱一体", "旋转底座", "香槟金配色", "T形轮廓", "H07极简整合", "H11功能外显"]
+    hero_feature: "下方巨型竖向格栅音箱腔体与屏幕无缝合体，打破'电视=薄屏'的品类惯例"
+    problem_solved: "高端电视配套音响系统视觉割裂，B&O将顶级音箱融入电视本体，一台产品解决视听一体化"
+    transferable_technique: "功能腔体（音箱）以纹理覆盖的方式成为设计主体而非隐藏，可迁移至需要外显功能的AV设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_tv_002"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/电视/03.jpg"
+        image_role: "hero"
+        visual_anchor: "白色超薄边框屏幕+底部横向格栅音箱条+倒梯形铝合金单脚底座"
+    product_name: "BeoVision Contour"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "电视"]
+    design_language:
+      silhouette: "超薄屏幕（近零边框）+底部凸出横向音箱条，整体呈倒T形；单脚底座为倒梯形，轮廓简洁有力"
+      light_opening: "底部横条竖向格栅（相比001更紧凑，高度约为屏幕1/8）"
+      thermal: "铝合金底座导热，格栅辅助散热"
+      cmf:
+        color: "白色/银色边框 + 浅木色格栅 + 银色铝底座"
+        material: "铝合金边框 + 金属格栅 + 铝合金底座"
+        finish: "哑光白/银拉丝铝边框 + 浅暖色格栅 + 拉丝银底座"
+      mounting: "倒梯形单脚底座（可旋转），可选壁挂"
+      signature_detail: "底部音箱条从屏幕背面延伸出，形成悬浮于底座之上的横向平台感；旋转底座中央有B&O品牌标志"
+    design_level:
+      score: 4
+      reason: "相比001的戏剧性格栅腔体，002的音箱条更克制小巧，整体更接近现代主流电视美学，但仍通过格栅和底座保持B&O辨识度"
+    design_tags: ["超薄边框", "横向格栅音箱条", "倒梯形底座", "白银配色", "浅木色格栅", "H07极简整合"]
+    hero_feature: "底部横向格栅音箱条从屏幕后方水平延伸，形成悬浮横台，视觉上比内置音箱更有层次"
+    problem_solved: "顶级电视的底座往往笨重或过于工业感，倒梯形单脚底座兼顾稳定性与雕塑美感"
+    transferable_technique: "底座形态作为品牌辨识度的载体（倒梯形），比屏幕本身更具差异化；可迁移至大屏显示设备底座设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "bo_tv_003"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/消费电子/bang_olufsen/电视/05.jpg"
+        image_role: "hero"
+        visual_anchor: "超薄银色边框大屏电视+底部横向格栅音箱条+T形金属底座，正面极简"
+    product_name: "BeoVision Eclipse"
+    brand_name: "Bang & Olufsen"
+    brand_confidence: "high"
+    category_path: ["消费电子", "电视"]
+    design_language:
+      silhouette: "宽屏矩形（约16:9标准比例），细银色边框，底部横向格栅音箱条稍窄，T形单脚底座"
+      light_opening: "底部格栅音箱条竖向开口"
+      thermal: "金属边框和底座散热"
+      cmf:
+        color: "银灰色边框 + 香槟/浅金色格栅条 + 银灰底座"
+        material: "铝合金边框 + 金属格栅 + 铝合金T形底座"
+        finish: "拉丝银灰铝合金边框 + 浅金属色格栅 + 拉丝底座"
+      mounting: "T形金属底座（中轴对称），可壁挂"
+      signature_detail: "超薄银色边框将屏幕感最大化，格栅音箱条作为唯一的B&O品牌特征插入，T形底座极简稳重"
+    design_level:
+      score: 3
+      reason: "整体造型更接近主流高端电视（细边框+T形底座），B&O特征仅体现在底部格栅条，品牌辨识度不如001/002强烈；属于B&O更商业化的产品线"
+    design_tags: ["超薄边框", "T形底座", "横向格栅音箱条", "银色配色", "主流高端风格"]
+    hero_feature: "超薄银色铝合金边框与格栅音箱条的组合，在克制中保留B&O格栅语言"
+    problem_solved: "B&O需要覆盖偏好更主流形态的高端用户，Eclipse提供更低调的B&O入门电视选项"
+    transferable_technique: "格栅语言作为品牌DNA的最小单元插入产品，即使在克制设计中仍能保持品牌辨识度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

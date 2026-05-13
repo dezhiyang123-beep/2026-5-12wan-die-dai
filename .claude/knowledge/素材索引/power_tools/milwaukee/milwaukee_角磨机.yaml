@@ -1,0 +1,482 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "角磨机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "milwaukee_角磨机_001"
+    source_images:
+      - filename: "角磨机__切割工具__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__切割工具__01.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M12 FUEL 3英寸紧凑切割机，侧视图，亮红色机身+黑色橡胶握区，前端带部分防护罩的小切割片，Milwaukee FUEL徽章位于机身中部，后端红色M12电池接口端盖，无辅助侧把手，整体如加粗版枪形"
+    product_name: "Milwaukee M12 FUEL 3-Inch Compact Cut-Off Tool"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "切割机", "紧凑切割机"]
+    design_language:
+      silhouette: "握枪式紧凑轮廓，机头切割片与机身成90°，整体矮胖，无辅助把手，单手操作设计"
+      light_opening: "N/A"
+      thermal: "机身侧面细小散热开口"
+      cmf:
+        color: "主体亮红色；握区黑色橡胶；切割片护罩深灰色；后端红色M12接口"
+        material: "机壳ABS注塑；握区TPE；护罩压铸铝"
+        finish: "红色外壳亮面；TPE哑光菱格纹；护罩哑面"
+      mounting: "M12竖插式电池接口，后端"
+      signature_detail: "极紧凑的3英寸切割片+无辅助把手设计，单手可操控，Milwaukee FUEL徽章清晰可见"
+    design_level:
+      score: 4
+      reason: "M12 FUEL系列统一设计语言，紧凑形态在同类中突出，红黑配色明确"
+    design_tags:
+      - "紧凑切割机"
+      - "M12_FUEL"
+      - "握枪式"
+      - "3英寸切割片"
+      - "单手操作"
+      - "红黑配色"
+    hero_feature: "3英寸小切割片+极紧凑单手握持形态，可在狭小空间切割金属管道"
+    problem_solved: "管道安装、电气布线中的金属材料精确切割，M12轻量无线"
+    transferable_technique: "最小化护罩设计使工具更紧凑（H01减法）；小排量平台的紧凑比例控制"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_角磨机_002"
+    source_images:
+      - filename: "角磨机__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__01.jpg"
+        image_role: "kit"
+        visual_anchor: "Milwaukee M18 FUEL One-Key角磨机完整套装：主机+M18 REDLITHIUM FORGE XC8.0大电池+携带包+充电器，主机为红黑配色，One-Key WiFi蓝色标识贴纸可见，银灰色齿轮箱"
+      - filename: "角磨机__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__02.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL One-Key角磨机，侧视裸机，红色机身+黑色橡胶前握区+黑色橡胶主握区，银灰色压铸铝齿轮箱，Milwaukee FUEL徽章，砂轮护罩黑色，后端红色电池接口端盖，One-Key WiFi蓝标，侧面附黑色拨动安全开关"
+    product_name: "Milwaukee M18 FUEL One-Key Angle Grinder (4-1/2\" / 5\")"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "无线角磨机"]
+    design_language:
+      silhouette: "前端齿轮箱+中段机身+后端电池接口的三段水平延伸，主握区位于中后段，辅助侧把手螺纹接口在齿轮箱侧，整体粗壮有力"
+      light_opening: "主握区侧面散热开口"
+      thermal: "中段机身两侧散热槽，功能性开口可见"
+      cmf:
+        color: "前段银灰色压铸铝齿轮箱；机身主体亮红色；前后握区黑色TPE；护罩哑黑；后端盖亮红色"
+        material: "齿轮箱压铸铝；机壳ABS注塑；握区TPE；护罩工程塑料"
+        finish: "齿轮箱本色轻度抛光；机壳亮面；TPE哑光菱格纹；后端盖哑面"
+      mounting: "M18 REDLITHIUM电池，后端卡扣式"
+      signature_detail: "银灰色压铸铝齿轮箱+亮红色机身+黑色握区的三色层次；One-Key WiFi连接图标（蓝色）作为智能化标识"
+    design_level:
+      score: 5
+      reason: "M18 FUEL角磨机是Milwaukee的旗舰产品，三色层次（银+红+黑）是最强品牌记忆点，One-Key智能化加持，工业感与专业感顶级"
+    design_tags:
+      - "无线角磨机"
+      - "M18_FUEL"
+      - "One-Key"
+      - "银灰齿轮箱"
+      - "三色层次"
+      - "红黑银配色"
+      - "4.5英寸"
+      - "旗舰款"
+    hero_feature: "银灰色压铸铝齿轮箱+亮红色机身+黑色握区的三层材质色彩对比，银色齿轮箱是Milwaukee角磨机最强品牌识别符"
+    problem_solved: "金属切割、焊缝研磨、表面处理，M18无线高功率，One-Key可追踪管理工具"
+    transferable_technique: "金属件（压铸铝齿轮箱）与塑料件（机身）的材质对比手法（H10材料表达）；三色层次在功能区分上的应用"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_角磨机_003"
+    source_images:
+      - filename: "角磨机__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__03.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL Brushless角磨机，侧视，白色/浅灰色齿轮箱（区别于银灰），红色机身，Milwaukee标志（无FUEL盾牌），BRUSHLESS字样在机身侧，黑色护罩，红色后端电池接口，黑色橡胶主握区，整体比综合__02款略早一代"
+    product_name: "Milwaukee M18 FUEL Brushless Angle Grinder (Previous Generation)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "无线角磨机"]
+    design_language:
+      silhouette: "与当代M18 FUEL结构相同的三段布局，但齿轮箱颜色为浅白灰（非深银灰），机身红色比例略有差异"
+      light_opening: "机身侧面散热槽"
+      thermal: "中段机身散热槽孔"
+      cmf:
+        color: "前段浅白灰色齿轮箱；机身亮红色；主握区黑色；护罩黑色；后端红色"
+        material: "齿轮箱压铸铝（白化处理）；机壳ABS；握区TPE"
+        finish: "齿轮箱浅灰哑面；机壳亮面；TPE哑光"
+      mounting: "M18电池"
+      signature_detail: "浅白灰齿轮箱（早期Milwaukee角磨机特征）与当代深银灰齿轮箱的区别点"
+    design_level:
+      score: 3
+      reason: "上一代设计，白灰齿轮箱颜色对比不如当代深银灰强烈，但基本形态与品牌语法一致"
+    design_tags:
+      - "无线角磨机"
+      - "M18_FUEL"
+      - "Brushless"
+      - "浅灰齿轮箱"
+      - "上一代设计"
+      - "红黑配色"
+    hero_feature: "无刷电机标识外显（BRUSHLESS字样）+基础三段式角磨机形态"
+    problem_solved: "M18无线角磨机切割研磨，早期无线平台产品"
+    transferable_technique: "齿轮箱颜色对品牌识别度的影响——深银灰比浅白灰视觉冲击力更强（反例参考）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_角磨机_004"
+    source_images:
+      - filename: "角磨机__综合__20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__20.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL大型7英寸/9英寸角磨机，侧视，红色机身（中段Milwaukee FUEL徽章）+灰色散热格栅区+黑色主后握区+红色后端盖，银灰色齿轮箱，大直径黑色护罩，整体比4.5英寸款明显更大更重"
+    product_name: "Milwaukee M18 FUEL Large Angle Grinder (7\"/9\")"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "无线角磨机", "大型角磨机"]
+    design_language:
+      silhouette: "更大更长的三段水平延伸，中段机身明显加粗，散热区比例更大，整体比例更接近传统大型角磨机"
+      light_opening: "机身中段大面积散热格栅区（灰色区域）"
+      thermal: "中段专门设计的大面积散热格栅，比小型款散热需求更高，造型更突出"
+      cmf:
+        color: "齿轮箱银灰色；机身中前段亮红色；中段散热区深灰色；后握区黑色TPE；后端盖红色"
+        material: "齿轮箱压铸铝；机壳ABS；散热区ABS+开槽；握区TPE"
+        finish: "齿轮箱本色；机壳亮面；散热区哑面开槽；TPE哑光"
+      mounting: "M18 REDLITHIUM电池"
+      signature_detail: "中段大面积深灰色散热格栅区——功能性散热外显，形成视觉第四色块，是大型款独有元素"
+    design_level:
+      score: 4
+      reason: "M18 FUEL大型款将散热格栅设计为独立视觉区，在银+红+黑三色基础上增加灰色功能区，层次更丰富"
+    design_tags:
+      - "大型角磨机"
+      - "M18_FUEL"
+      - "7英寸"
+      - "9英寸"
+      - "大散热格栅"
+      - "四色层次"
+      - "无线大功率"
+    hero_feature: "大面积中段散热格栅区（深灰色）在红黑银三色基础上增加的功能性视觉层，强化专业重型工具感"
+    problem_solved: "大型金属构件切割、钢筋研磨等重型施工任务，M18平台无线自由度"
+    transferable_technique: "散热格栅作为独立视觉元素的设计手法（H11功能外显）；大型工具中四色层次的比例分配"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_角磨机_005"
+    source_images:
+      - filename: "角磨机__综合__22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__22.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 Brushless角磨机（中早期款），侧视，浅灰白色齿轮箱，红色机身，Milwaukee标志（无FUEL徽章形式），黑色后握区，红色后端，BRUSHLESS标识可见"
+      - filename: "角磨机__综合__23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__23.jpg"
+        image_role: "detail"
+        visual_anchor: "Milwaukee M18角磨机（早期款），侧视，更早期的浅灰白齿轮箱，红色机身，Milwaukee标志位置偏上，整体造型线条更圆润，过渡更少"
+    product_name: "Milwaukee M18 Angle Grinder (Early Generation)"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "无线角磨机"]
+    design_language:
+      silhouette: "基础三段式水平布局，机身造型比当代款圆润，过渡面较少，线条更简洁"
+      light_opening: "机身侧面散热孔（较少）"
+      thermal: "早期简单散热孔"
+      cmf:
+        color: "浅灰白色齿轮箱；亮红色机身；黑色握区；红色后端"
+        material: "齿轮箱压铸铝（浅处理）；机壳ABS；握区橡胶"
+        finish: "早期工艺，面处理较当代款简单"
+      mounting: "M18电池"
+      signature_detail: "Milwaukee品牌标志横跨机身中部（未使用FUEL徽章格式），早期品牌视觉规范"
+    design_level:
+      score: 2
+      reason: "早期世代设计，造型圆润但缺乏当代款的层次感，品牌视觉一致性低于当代款"
+    design_tags:
+      - "早期款角磨机"
+      - "M18"
+      - "浅灰白齿轮箱"
+      - "圆润造型"
+      - "历史参考"
+    hero_feature: "早期Milwaukee角磨机的基础三段式形态原型"
+    problem_solved: "M18平台早期切割研磨任务"
+    transferable_technique: "设计演进参考——对比早期圆润形态与当代棱角分明形态的品牌进化路径"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_角磨机_006"
+    source_images:
+      - filename: "角磨机__综合__24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__24.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18大型有线角磨机（早中期款），侧视，全红色机身主体，浅白色齿轮箱，黑色主握区（筒状），无侧辅助把手，后端带电源线，大护罩，比例粗壮"
+      - filename: "角磨机__综合__25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__25.jpg"
+        image_role: "detail"
+        visual_anchor: "Milwaukee大型有线角磨机（早期款），侧视，机身全红色（更大款），白色球形齿轮箱，无Milwaukee当代徽章，后端圆筒电机外壳收尾，9英寸大砂轮，有线电源线"
+    product_name: "Milwaukee Corded Large Angle Grinder (Early Generation, 7\"/9\")"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "有线角磨机", "大型角磨机"]
+    design_language:
+      silhouette: "大型有线角磨机经典轮廓：白色齿轮头+长红色机身筒+握区，整体细长，比无线款更修长"
+      light_opening: "机身侧面纵向散热条槽"
+      thermal: "机身中段纵向散热槽，有线款热管理需求不同"
+      cmf:
+        color: "白色/浅灰球形齿轮箱；机身大面积红色；主握区黑色橡胶；后端尾部红色"
+        material: "齿轮箱压铸铝（浅色）；机身ABS；握区橡胶"
+        finish: "早期工艺，整体面处理较简单"
+      mounting: "有线电源，标准插头"
+      signature_detail: "白色球形齿轮箱+全红机身的极简两色方案——Milwaukee早期品牌色彩规范"
+    design_level:
+      score: 2
+      reason: "早期有线款，设计简洁但缺乏当代品牌层次，作为历史参考价值高于当代设计参考价值"
+    design_tags:
+      - "有线角磨机"
+      - "大型角磨机"
+      - "早期设计"
+      - "全红机身"
+      - "白色球形齿轮箱"
+      - "历史参考"
+    hero_feature: "白色球形齿轮箱与大面积红色机身的两色对比，Milwaukee品牌早期色彩标志"
+    problem_solved: "大型工业切割打磨，有线持续大功率输出"
+    transferable_technique: "有线大型角磨机经典形态参考；Milwaukee品牌从白色齿轮箱到银灰色齿轮箱的设计演进对比"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_角磨机_007"
+    source_images:
+      - filename: "角磨机__综合__28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__28.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线5英寸角磨机（中期款），侧视，亮红色机身+浅灰色齿轮箱，Milwaukee标志（较大字体），黑色主握区，有线电源线，黑色砂轮护罩，整体形态为标准有线角磨机"
+      - filename: "角磨机__综合__43.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__43.jpg"
+        image_role: "detail"
+        visual_anchor: "Milwaukee有线小型角磨机（中期款，另一尺寸），侧视，红色机身更圆润，浅灰色齿轮箱，Milwaukee标志，黑色护罩，有线，无辅助把手安装口"
+    product_name: "Milwaukee Corded Angle Grinder (Mid Generation, 4.5\"/5\")"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "有线角磨机"]
+    design_language:
+      silhouette: "标准中型角磨机三段轮廓，浅灰齿轮头+红色机身+黑色握区，比例适中"
+      light_opening: "机身侧散热槽"
+      thermal: "侧面散热槽孔"
+      cmf:
+        color: "浅灰色齿轮箱；亮红色机身；黑色握区；黑色护罩"
+        material: "齿轮箱压铸铝；机身ABS；握区橡胶"
+        finish: "中期工艺，比早期款更精细"
+      mounting: "有线电源"
+      signature_detail: "Milwaukee大字标志横跨红色机身中部"
+    design_level:
+      score: 3
+      reason: "中期有线款，形态成熟但无突出记忆点，是Milwaukee向当代FUEL系列过渡的中间态"
+    design_tags:
+      - "有线角磨机"
+      - "中期设计"
+      - "浅灰齿轮箱"
+      - "红黑配色"
+      - "标准形态"
+    hero_feature: "Milwaukee中期标准角磨机形态，连接早期与当代FUEL系列的过渡设计"
+    problem_solved: "通用金属切割研磨，有线稳定功率"
+    transferable_technique: "Milwaukee设计语言演进参考；标准三段角磨机比例"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_角磨机_008"
+    source_images:
+      - filename: "角磨机__综合__29.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__29.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线大型7英寸角磨机（中期款），侧视，红色机身+浅灰色齿轮箱，Milwaukee标志，黑色橡胶辅助侧把手（伸向左侧）+黑色主握区，有线电源线，大护罩"
+    product_name: "Milwaukee Corded Large Angle Grinder (Mid Generation, 7\")"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "有线角磨机", "大型角磨机"]
+    design_language:
+      silhouette: "大型三段角磨机，辅助把手从齿轮箱侧面水平伸出形成T形轮廓，整体粗壮"
+      light_opening: "机身纵向散热条"
+      thermal: "机身纵向散热条，大功率散热需求"
+      cmf:
+        color: "浅灰齿轮箱；红色机身；黑色辅助把手橡胶；黑色主握区；黑护罩"
+        material: "齿轮箱铝合金；机身ABS；把手橡胶"
+        finish: "中期标准工艺"
+      mounting: "有线"
+      signature_detail: "辅助侧把手+主握区+齿轮箱三点支撑设计，大型角磨机标准操控逻辑"
+    design_level:
+      score: 2
+      reason: "中期大型有线款，功能完整但设计记忆点不强，历史参考价值为主"
+    design_tags:
+      - "大型角磨机"
+      - "有线"
+      - "中期设计"
+      - "辅助侧把手"
+      - "历史参考"
+    hero_feature: "辅助侧把手+主握区的双手控制布局，大型角磨机操控结构标准"
+    problem_solved: "大型有线大功率角磨切割作业"
+    transferable_technique: "大型角磨机双手持握结构参考；辅助侧把手的位置与形态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_角磨机_009"
+    source_images:
+      - filename: "角磨机__综合__30.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__30.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线大型切割机（Cut-Off Machine，非标准角磨机），侧视，配装极大型圆形砂轮（约12英寸），白色大护罩罩住砂轮上半，红色机身筒，Milwaukee标志，有线，底部有金属稳定支架，整体像桌面切割机的手持版"
+    product_name: "Milwaukee Corded Large Cut-Off Machine"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "切割机", "大型切割机"]
+    design_language:
+      silhouette: "有线圆形切割机形态，大白色护罩主导轮廓，后接红色圆筒机身，底部金属稳定支脚，整体超大型"
+      light_opening: "机身侧面散热槽"
+      thermal: "侧面散热孔"
+      cmf:
+        color: "大白色护罩；红色机身；银色/黑色金属支架"
+        material: "护罩压铸铝/钢；机身ABS；支架钢"
+        finish: "护罩哑白；机身亮面红色"
+      mounting: "有线"
+      signature_detail: "超大白色半圆护罩是最强轮廓记忆点，与Milwaukee红色机身形成强烈对比"
+    design_level:
+      score: 2
+      reason: "特殊工业切割机，功能决定形态，设计感相对基础，但大白护罩+红色机身的对比值得记录"
+    design_tags:
+      - "大型切割机"
+      - "有线"
+      - "大白色护罩"
+      - "工业级"
+      - "特殊形态"
+    hero_feature: "超大半圆形白色护罩覆盖巨型砂轮，安全保护设计外显化"
+    problem_solved: "工业场所大型钢材、管道的快速大直径切割"
+    transferable_technique: "护罩形态设计对工具整体轮廓的主导性影响；白色大护罩与红色机身的对比配色"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: "此产品属于大型切割机，与标准角磨机品类有差异，但归于角磨机文件合理"
+
+  - product_id: "milwaukee_角磨机_010"
+    source_images:
+      - filename: "角磨机__综合__36.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__36.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线砂带研磨机（Belt File，直型内线研磨），侧视，红色机身+白色头部机构+黑色前握区，细砂带绕过头部延伸，Milwaukee标志，有线电源线，整体细长水平"
+    product_name: "Milwaukee Corded Belt File"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "砂带机", "内磨砂带机"]
+    design_language:
+      silhouette: "极细长水平形态，机头细砂带延伸，白色头部机构+红色机身筒+黑色握区三段"
+      light_opening: "N/A"
+      thermal: "机身散热孔"
+      cmf:
+        color: "白色头部机构；红色机身；黑色前握区；银色金属砂带支架"
+        material: "头部铝合金；机身ABS；握区橡胶；砂带支架金属"
+        finish: "头部哑白；机身亮面红；握区哑黑"
+      mounting: "有线"
+      signature_detail: "细砂带绕过白色导轮头部的功能外显结构，操作功能一目了然"
+    design_level:
+      score: 3
+      reason: "细砂带外显功能结构有特点，但整体设计较基础，早期Milwaukee工具形态"
+    design_tags:
+      - "砂带研磨机"
+      - "有线"
+      - "细砂带"
+      - "内磨"
+      - "细长形态"
+    hero_feature: "细砂带绕过头部导轮的机械外显结构，适合内孔打磨"
+    problem_solved: "内孔、管道内壁的精细砂带研磨"
+    transferable_technique: "细砂带外显结构手法；白色功能头部+红色机身的对比"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "此产品从形态来看更接近砂带研磨机，放在角磨机文件中是因为原始图片分类在角磨机文件夹"
+
+  - product_id: "milwaukee_角磨机_011"
+    source_images:
+      - filename: "角磨机__综合__39.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__39.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有线直向研磨机（Inline Grinder），侧视，红色主机身+黑色中段握区+前端黑色细筒+银灰色圆形研磨头（带小护罩），Milwaukee标志，有线"
+      - filename: "角磨机__综合__40.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__40.jpg"
+        image_role: "detail"
+        visual_anchor: "同款Milwaukee直向研磨机，稍不同角度，更清晰呈现银色圆形研磨头的结构，研磨轮倾斜安装，小型金属护罩可见"
+      - filename: "角磨机__综合__42.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/角磨机/角磨机__综合__42.jpg"
+        image_role: "variant"
+        visual_anchor: "Milwaukee有线直向研磨机变体，银色/铝色机头+红色机身筒，银色金属研磨头更大，略不同规格，Milwaukee标志可见"
+    product_name: "Milwaukee Corded Inline Grinder"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "角磨机", "直向研磨机"]
+    design_language:
+      silhouette: "直向延伸细长形态，研磨头位于前端侧面（非后端），红色机身+黑色细筒+银色金属研磨头，整体如加粗手枪"
+      light_opening: "机身侧面散热孔"
+      thermal: "侧面小型散热孔"
+      cmf:
+        color: "红色机身；黑色中段握区；银色/铝色金属研磨头；小型黑色护罩"
+        material: "机身ABS；握区橡胶；研磨头压铸铝"
+        finish: "机身亮红；握区哑黑；金属头本色"
+      mounting: "有线"
+      signature_detail: "银色金属圆形研磨头倾斜安装于细筒前端，机械感外显"
+    design_level:
+      score: 3
+      reason: "直向研磨机特殊形态，银色金属研磨头是记忆点，整体设计中规中矩"
+    design_tags:
+      - "直向研磨机"
+      - "有线"
+      - "金属研磨头"
+      - "细长形态"
+      - "红黑银配色"
+    hero_feature: "银色圆形金属研磨头倾斜安装于细筒端部，功能结构直接外显"
+    problem_solved: "精细研磨、内孔倒角等精密金属加工作业"
+    transferable_technique: "金属功能头部外露设计（H10材料表达+H11功能外显）；直向工具形态"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "直向研磨机属于特殊角磨机品类，放在角磨机文件合理但需标注"

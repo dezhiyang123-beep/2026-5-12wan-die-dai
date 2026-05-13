@@ -1,0 +1,745 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "装饰落地灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯"
+  generated_at: "2026-05-08"
+products:
+
+  - product_id: "flos_装饰落地灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "竖向矩形截面皮革包覆通体发光柱，底部小圆盘座"
+    product_name: "Coordinates Floor"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "线性立柱灯"]
+    design_language:
+      silhouette: "极细矩形截面竖柱，高宽比约20:1，近乎二维切片感"
+      light_opening: "双侧边缝隙透光，全高竖向线光源，侧向散射"
+      thermal: "开放侧缝自然对流，无封闭热腔"
+      cmf:
+        color: "暖棕/皮革棕 + 哑光黑底座"
+        material: "皮革包覆铝型材主体，粉末涂层钢底座"
+        finish: "皮革哑面 + 金属哑黑"
+      mounting: "小圆盘底座，低重心"
+      signature_detail: "皮革包覆铝框形成竖向发光缝——材质与光同时外显"
+    design_level:
+      score: 4
+      reason: "皮革与光线的材质组合高度原创，竖向线光概念干净，工艺精度高"
+    design_tags: ["线光源", "皮革材质", "竖向柱体", "侧缝发光", "极简几何", "H10材料表达"]
+    hero_feature: "皮革包覆铝框形成的全高发光竖缝"
+    problem_solved: "将工业线光源转化为有温度的家居装饰物件"
+    transferable_technique: "包覆材质（皮革/织物）与内藏光源结合，形成软性发光缝"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "透明圆柱体内多根平行荧光管，三脚架底座，中部金属环扣"
+    product_name: "Smithfield / Parentesi Floor (LED column variant)"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path: ["灯具", "装饰落地灯", "柱状立灯"]
+    design_language:
+      silhouette: "两段式透明圆柱叠加，中部金属夹扣连接，整体高挑均一"
+      light_opening: "全圆周360°透射，上下两端均匀散射"
+      thermal: "透明外壳开放散热，内置LED条自然冷却"
+      cmf:
+        color: "透明 + 银铬"
+        material: "透明亚克力或玻璃外管，不锈钢三脚支架及金属夹环"
+        finish: "透明光亮 + 不锈钢拉丝"
+      mounting: "三脚架底座，金属脚展开落地"
+      signature_detail: "透明管内多根并排LED条，点亮后形成栅格光柱效果"
+    design_level:
+      score: 3
+      reason: "功能清晰，工艺标准，但形态创新度一般"
+    design_tags: ["透明柱体", "三脚架", "360度发光", "LED阵列", "工业感", "H11功能外显"]
+    hero_feature: "透明管内可见的多根平行发光管形成视觉栅格"
+    problem_solved: "将功能性工作光源融入装饰性透明柱体"
+    transferable_technique: "透明外壳内置可见光源阵列，兼顾装饰与照明功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "具体型号需确认，可能为Flos定制工程版本"
+
+  - product_id: "flos_装饰落地灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "红色矩形拱形底座 + 超细钢杆延伸至高空 + 顶端镀铬汽车前灯反射碗"
+    product_name: "Toio"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "上照灯"]
+    design_language:
+      silhouette: "钓鱼竿式极细长杆，底端红色工业拱架，顶端单只汽车前灯碗"
+      light_opening: "向上聚光，汽车PAR56灯泡直接向上反射天花"
+      thermal: "开放式碗形反射罩，自然散热"
+      cmf:
+        color: "红色烤漆底架 + 镀铬钢杆 + 镀铬反射碗"
+        material: "钢板焊接底座，镀铬钢管，铝制汽车前灯罩"
+        finish: "哑光红漆 + 镜面铬"
+      mounting: "矩形拱形平底架，稳重贴地"
+      signature_detail: "直接使用汽车PAR56前照灯作为光源碗——功能物件直接挪用"
+    design_level:
+      score: 5
+      reason: "1962年Castiglioni兄弟设计，将汽车工业零件直接挪用为家居照明，概念颠覆性强，是Flos和现代设计史的标志性作品"
+    design_tags: ["Toio", "上照灯", "工业挪用", "汽车零件", "Castiglioni", "极细杆", "红色底架", "设计史经典", "H11功能外显"]
+    hero_feature: "直接使用汽车PAR56前照灯碗作为灯头——零件即设计语言"
+    problem_solved: "用最廉价的工业现成品创造最高端的设计叙事"
+    transferable_technique: "工业/汽车零件直接挪用原则：不隐藏工业出身，反而强调其原始语境"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "橙红色细杆 + 顶端小白色蘑菇帽 + 灰色混凝土圆盘底座"
+    product_name: "Bellhop Floor"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "可充电移动灯"]
+    design_language:
+      silhouette: "竖直单杆，顶端小圆帽，整体比例细高，像迷你路灯"
+      light_opening: "向下散射为主，蘑菇帽形成漫射下照"
+      thermal: "小体量LED，帽体自然散热"
+      cmf:
+        color: "橙红色杆身 + 白色帽 + 灰色混凝土底座"
+        material: "铝合金杆，聚碳酸酯或吹制玻璃帽，混凝土底盘"
+        finish: "哑光粉末涂层 + 哑光混凝土"
+      mounting: "厚重混凝土圆盘底座，低重心稳定"
+      signature_detail: "对比材质配色：温暖橙红杆 + 冷灰混凝土底——颜色与材质双重对比"
+    design_level:
+      score: 4
+      reason: "混凝土与彩色金属的材质对比新鲜，蘑菇帽造型亲切，色彩策略清晰"
+    design_tags: ["蘑菇帽", "混凝土底座", "彩色杆身", "可充电", "移动照明", "材质对比", "H10材料表达"]
+    hero_feature: "混凝土底座与彩色铝杆的重量感与色彩对比"
+    problem_solved: "无线便携落地灯，混凝土底座提供稳定性同时赋予设计感"
+    transferable_technique: "重质感材料（混凝土/石材）与轻质彩色杆身组合——重-轻对比法则"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "巨型磨砂白色椭球悬于极细银色单杆顶端，底部圆盘座"
+    product_name: "Glo-Ball F"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "球形漫射灯"]
+    design_language:
+      silhouette: "细茎支撑超大球体，头重脚轻的悬浮感，球径与杆径比约15:1"
+      light_opening: "全方向360°漫射，磨砂玻璃均匀柔化光线"
+      thermal: "大体积玻璃球自然散热"
+      cmf:
+        color: "乳白磨砂 + 不锈钢银"
+        material: "口吹磨砂玻璃球，不锈钢杆及底座"
+        finish: "磨砂玻璃 + 拉丝不锈钢"
+      mounting: "圆形碟形底座，拉丝不锈钢"
+      signature_detail: "超大球体与超细杆的极端比例反差——视觉悬浮效果"
+    design_level:
+      score: 4
+      reason: "Jasper Morrison设计，极致简洁，比例控制精准，口吹玻璃工艺完美"
+    design_tags: ["球形", "磨砂玻璃", "口吹玻璃", "360度漫射", "细茎", "比例反差", "极简主义", "H07极简整合"]
+    hero_feature: "超大磨砂玻璃球体与极细不锈钢杆的极端比例反差"
+    problem_solved: "将均匀漫射光源做成有雕塑感的家居主角"
+    transferable_technique: "主体与支撑的极端比例差（大头细脚）制造视觉张力"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_006"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/06.jpg"
+        image_role: "hero"
+        visual_anchor: "亮黄色圆管杆，顶端灰白色小半球帽，底部黑色细三脚架"
+    product_name: "Flauta Spiga Floor"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path: ["灯具", "装饰落地灯", "上照立灯"]
+    design_language:
+      silhouette: "单管竖直，顶端微小圆帽，黑色细三角支架撑地，整体极细高"
+      light_opening: "向下小角度漫射，圆帽为下出光漫射头"
+      thermal: "小型LED芯片，帽体散热"
+      cmf:
+        color: "亮黄色杆 + 浅灰帽 + 哑黑三脚架"
+        material: "铝合金杆，铝合金灯帽，钢三脚支架"
+        finish: "亮黄粉末涂层 + 哑白涂层 + 哑黑涂层"
+      mounting: "黑色三脚架撑地，轻量纤细"
+      signature_detail: "三种颜色分区（黄杆/灰帽/黑架）制造可识别的三段式语言"
+    design_level:
+      score: 3
+      reason: "造型克制，色彩分区方案清晰，但整体创新度一般"
+    design_tags: ["三脚架", "彩色杆身", "三段式配色", "轻盈感", "上照", "H08对比强调"]
+    hero_feature: "黄-灰-黑三色分区三段式视觉语言"
+    problem_solved: "以低廉结构实现多彩装饰性落地灯"
+    transferable_technique: "三段式色彩分区（主杆/灯头/底座各用不同颜色）强化结构可读性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_007"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "白色大圆形面板悬于白色细三脚架上，圆形环框包裹平板"
+    product_name: "Oplight F"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "面板灯/圆盘灯"]
+    design_language:
+      silhouette: "圆形大面板，外圈细环框，三脚架底部，整体像架在支架上的月亮"
+      light_opening: "正面单向平面出光，可旋转调向"
+      thermal: "平板LED散热均匀，开放式背板"
+      cmf:
+        color: "全白"
+        material: "铝合金面板及环框，钢三脚架"
+        finish: "哑白粉末涂层全覆盖"
+      mounting: "白色细三脚架底座"
+      signature_detail: "超薄圆形发光面板 + 外露圆环框——工业感的圆形灯盘站立于空间中"
+    design_level:
+      score: 4
+      reason: "将天花板嵌入式面板灯做成可站立的雕塑，形态转译创意强"
+    design_tags: ["圆形面板", "三脚架", "极简白色", "可旋转", "平面出光", "H07极简整合"]
+    hero_feature: "将天花板面板灯语言垂直站立于地面——空间重置"
+    problem_solved: "为无法吊顶的空间提供大面积柔和照明"
+    transferable_technique: "将嵌入式/天花板灯的形态语言转移至落地站立形式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_008"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑极细双臂折叠结构，顶端方形LED矩阵灯头，正方形底座"
+    product_name: "Kelvin F"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "阅读/任务灯"]
+    design_language:
+      silhouette: "两段折叠细臂呈L形延伸，底部竖杆 + 上部水平臂，灯头方形挂端"
+      light_opening: "向下定向出光，方形LED矩阵面出光，可调角度"
+      thermal: "方形灯头背板散热，结构轻薄"
+      cmf:
+        color: "全哑黑"
+        material: "铝合金折叠臂，铝合金方形灯头，钢底座"
+        finish: "哑黑粉末涂层全覆盖"
+      mounting: "厚实正方形底座，低重心配重"
+      signature_detail: "方形LED矩阵灯头如工程设备显示屏——功能外显美学"
+    design_level:
+      score: 4
+      reason: "Antonio Citterio设计，工程极简主义，折臂结构精准，LED矩阵灯头有科技感"
+    design_tags: ["折叠臂", "LED矩阵", "方形灯头", "全黑", "任务照明", "工程美学", "H11功能外显", "H07极简整合"]
+    hero_feature: "暴露LED矩阵阵列的方形灯头——把工程器件做成设计语言"
+    problem_solved: "高精度可调向阅读光源兼顾装饰感"
+    transferable_technique: "暴露LED阵列结构而非隐藏，将技术细节转化为视觉特征"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_009"
+    source_images:
+      - filename: "09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/09.jpg"
+        image_role: "hero"
+        visual_anchor: "锈红色超细曲线拱臂从地面小柱延伸至天花附近，悬挂透空几何网格圆盘罩"
+    product_name: "Skynest Floor"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "弧臂悬挂灯"]
+    design_language:
+      silhouette: "1/4圆弧形超细臂，从地面垂直柱到空中，末端悬挂网格编织圆盘罩"
+      light_opening: "向下漫射，镂空网格灯罩形成光影投影效果"
+      thermal: "开放网格罩，自然对流散热"
+      cmf:
+        color: "锈红/陶土色全身统一"
+        material: "钢杆，焊接金属网格灯罩"
+        finish: "哑面粉末涂层，锈红色"
+      mounting: "落地小圆柱基座，极小接地面积"
+      signature_detail: "几何三角网格编织圆盘灯罩产生复杂光影——视觉上比结构更丰富"
+    design_level:
+      score: 4
+      reason: "超细弧臂悬挂大体量网格罩的结构张力极强，单色统一语言干净"
+    design_tags: ["弧臂", "网格灯罩", "几何编织", "悬挂", "单色统一", "光影投影", "H04参数化"]
+    hero_feature: "超细弧臂悬挂大直径金属网格圆盘罩的结构张力"
+    problem_solved: "在无悬挂点的空间中实现吊灯式悬挂效果"
+    transferable_technique: "细杆大罩张力结构：支撑体越细、灯罩越大，视觉张力越强"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_010"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "黄金色极细竖管，内嵌细线光源，底部同色厚圆盘底座"
+    product_name: "Flauta Stem Floor"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "线性立柱灯"]
+    design_language:
+      silhouette: "单一超细竖管，自底盘直立而上，顶端封口，无任何附加结构"
+      light_opening: "侧向线缝出光（竖向LED条内置管中），柔和线形散射"
+      thermal: "细管内置LED，管壁导热"
+      cmf:
+        color: "拉丝黄铜/金色全身"
+        material: "铝合金管 + 黄铜或黄金色表面处理，铝合金底座"
+        finish: "黄铜拉丝 / 哑面金"
+      mounting: "厚重圆盘底座，直径约为杆径5倍"
+      signature_detail: "整体单色黄铜，纤细竖管内藏光源，极度克制"
+    design_level:
+      score: 4
+      reason: "形态极简到接近雕塑，黄铜材质赋予高端感，比例控制精准"
+    design_tags: ["黄铜", "线光源", "极细管", "单色", "雕塑感", "H07极简整合", "H10材料表达"]
+    hero_feature: "单色黄铜超细管体内藏竖向LED线光——雕塑即灯具"
+    problem_solved: "以最少的形态语言实现最强的装饰雕塑存在感"
+    transferable_technique: "单色金属统一全身（杆+底座+灯头），消除分割，增强雕塑整体感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_011"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "3节透明圆柱玻璃叠加，顶端倒喇叭形透明玻璃开口，黑色小圆盘底座"
+    product_name: "Noctambule Floor Low 3 Cylinders + Cone"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "模块化玻璃柱灯"]
+    design_language:
+      silhouette: "3节圆柱叠加柱体，顶端倒锥形开口，整体矮胖，约人腰高"
+      light_opening: "全方向透明出光，顶端倒喇叭朝上开口补充上照"
+      thermal: "全透明玻璃，LED热量通过顶端开口自然对流"
+      cmf:
+        color: "全透明玻璃 + 哑黑底座"
+        material: "手工吹制硼硅玻璃，黑色铝合金底座，金色铜质连接环"
+        finish: "光亮透明玻璃 + 哑黑金属 + 金色连接件"
+      mounting: "扁平黑色圆盘底座"
+      signature_detail: "手工吹制玻璃节段间的黄铜连接环——材质交接处的精工细节"
+    design_level:
+      score: 5
+      reason: "Konstantin Grcic设计，Noctambule是Flos近十年最重要的创新，透明玻璃自发光柱颠覆传统灯具形态，工艺和概念俱佳"
+    design_tags: ["Noctambule", "透明玻璃", "模块化", "手工吹制", "发光柱", "黄铜接环", "Konstantin Grcic", "雕塑灯具"]
+    hero_feature: "透明玻璃自发光柱——灯体即光源，无任何遮挡或灯罩"
+    problem_solved: "消除灯具中光源与外壳的分离，玻璃即是灯罩也是发光体"
+    transferable_technique: "透明容器内藏LED点光源，整体成为发光雕塑——容器即光源法则"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_012"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "铜棕色蜂巢网格半球形灯罩，细茎圆盘底座，网格透出暖光"
+    product_name: "Tatou F"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "镂空罩灯"]
+    design_language:
+      silhouette: "大半球穹顶式灯罩，细颈过渡至长细杆，圆盘底座，整体蘑菇形比例"
+      light_opening: "向下及侧向漫射，蜂巢网格产生图案化光影"
+      thermal: "蜂巢开孔结构良好通风"
+      cmf:
+        color: "铜棕色/酒红棕"
+        material: "聚碳酸酯或聚合物注塑蜂巢罩，铝合金杆及底座"
+        finish: "哑面铜棕色涂层"
+      mounting: "圆盘底座，底部与杆颈有过渡曲面"
+      signature_detail: "六边形蜂巢网格镂空罩——点亮后在墙面和地板投射几何图案光影"
+    design_level:
+      score: 4
+      reason: "Patricia Urquiola设计，蜂巢镂空语言成熟，光影效果丰富，色彩方案有温度"
+    design_tags: ["Tatou", "蜂巢网格", "镂空罩", "光影投影", "Patricia Urquiola", "铜棕色", "H04参数化"]
+    hero_feature: "蜂巢网格镂空罩在空间中投射几何图案光影"
+    problem_solved: "让落地灯同时成为环境光雕塑（通过光影图案改变空间氛围）"
+    transferable_technique: "镂空图案灯罩将灯具变为光影投影仪——图案即功能"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_013"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "3节透明圆柱叠加，顶端半球碗形向上，黑色圆盘底座，金属连接环"
+    product_name: "Noctambule Floor Low 3 Cylinders + Low Sphere"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "模块化玻璃柱灯"]
+    design_language:
+      silhouette: "3节圆柱体叠加，顶端半球碗向上开口，矮柱形态，与011为同系列"
+      light_opening: "全方向透明散射，顶端半球碗强化上照分量"
+      thermal: "全透明玻璃开放散热"
+      cmf:
+        color: "全透明 + 哑黑底座 + 金色接环"
+        material: "手工吹制硼硅玻璃，黑色铝合金底座，黄铜连接环"
+        finish: "光亮透明 + 哑黑 + 金色"
+      mounting: "黑色扁平圆盘底座"
+      signature_detail: "顶端半球碗开口向上，与011倒喇叭锥形不同，更圆润饱满"
+    design_level:
+      score: 5
+      reason: "同Noctambule系列，与011相同评级，顶端配件变化体现模块化设计哲学"
+    design_tags: ["Noctambule", "透明玻璃", "模块化", "手工吹制", "半球顶碗", "黄铜接环", "Konstantin Grcic"]
+    hero_feature: "模块化透明玻璃柱，顶端可替换不同形态——系统化设计哲学"
+    problem_solved: "同011，顶端半球形态提供更多上照漫射"
+    transferable_technique: "同系列通过顶端形态变化实现产品线延伸——模块化组合原则"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_014"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "白色圆筒形大灯罩，放射状多根交叉钢丝底架，整体像稻草人支架"
+    product_name: "Ray F"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "筒形罩灯"]
+    design_language:
+      silhouette: "大圆筒玻璃纤维灯罩，下方多根细钢丝放射状交叉撑地，体量与底架对比强烈"
+      light_opening: "上下两端开口，漫射光向上和向下分散，侧面不透光"
+      thermal: "上下开口自然对流"
+      cmf:
+        color: "白色罩 + 镀铬钢丝架"
+        material: "玻璃纤维布圆筒罩，镀铬钢丝底架"
+        finish: "哑白布面 + 镜面铬"
+      mounting: "多根细钢丝放射状底架，交叉点位于中心"
+      signature_detail: "多根细钢丝交叉支架像工程脚手架，与圆润筒形灯罩产生工业/柔和对比"
+    design_level:
+      score: 4
+      reason: "Jasper Morrison设计，底架的工程感与罩子的柔和感形成高品质张力"
+    design_tags: ["Ray", "钢丝底架", "圆筒罩", "工业感", "Jasper Morrison", "上下出光", "H08对比强调"]
+    hero_feature: "多根细钢丝交叉底架与圆润白色圆筒罩的强烈工业/温柔对比"
+    problem_solved: "以最轻的结构支撑体积感最大的灯罩"
+    transferable_technique: "多脚细线支架替代单杆底座，减少视觉重量同时增加工程感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_015"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "陶土色/砖红色单体，圆盘灯头偏置于细杆一侧，底部圆盘底座，全色统一"
+    product_name: "Oblique F"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "上照立灯"]
+    design_language:
+      silhouette: "细直杆，顶端圆形灯盘偏置侧挂（非正对中轴），底部圆盘，三点共轴错位"
+      light_opening: "向下散射，圆形LED面盘下出光"
+      thermal: "圆形面盘背面散热"
+      cmf:
+        color: "砖红/陶土色全身统一"
+        material: "铝合金杆及灯盘，铝合金底座"
+        finish: "哑面砖红色粉末涂层"
+      mounting: "扁平圆盘底座，与杆颈一体"
+      signature_detail: "灯盘偏置挂于杆顶侧边而非正顶——打破对称轴的微妙不平衡感"
+    design_level:
+      score: 4
+      reason: "造型极度克制但有一个精准的设计决策点（偏置灯盘），单色整体感强"
+    design_tags: ["偏置灯盘", "单色统一", "陶土色", "极简", "偏心美学", "圆形面盘", "H07极简整合"]
+    hero_feature: "灯盘偏置悬挂于杆顶侧边——单一精准的不对称决策"
+    problem_solved: "以一个造型决策点（偏心）在极简形态中制造记忆点"
+    transferable_technique: "对称结构中插入一个偏置元素——以最小代价制造最大视觉记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_016"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "黄铜矩形方框架底座+竖杆，顶端方形横臂伸出，末端磨砂白玻璃球"
+    product_name: "IC Light F2"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "几何框架灯"]
+    design_language:
+      silhouette: "矩形框架底座，单竖杆向上，顶端L形横臂悬出，末端玻璃球平衡悬停"
+      light_opening: "全方向360°漫射，磨砂玻璃球均匀散光"
+      thermal: "玻璃球开放，LED热量自然散逸"
+      cmf:
+        color: "黄铜金色 + 磨砂白玻璃球"
+        material: "黄铜管材，手工吹制磨砂玻璃球"
+        finish: "高光黄铜 + 磨砂玻璃"
+      mounting: "矩形D形框架底座，厚实稳重"
+      signature_detail: "矩形框架底座——将底座做成家具级几何体而非传统底盘"
+    design_level:
+      score: 5
+      reason: "Michael Anastassiades设计，IC Light系列代表Flos当代黄金时代，黄铜框架底座与玻璃球的组合极度精炼，是近年最多被致敬的Flos经典"
+    design_tags: ["IC Light", "黄铜", "矩形框架", "磨砂玻璃球", "Michael Anastassiades", "几何底座", "当代经典", "H07极简整合"]
+    hero_feature: "黄铜矩形框架底座将底座从功能件变为家具级设计主角"
+    problem_solved: "让落地灯的底座成为与灯头同等重要的设计表达"
+    transferable_technique: "将底座形态升级为几何家具件（框架/板材/几何体），而非传统圆盘底"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_017"
+    source_images:
+      - filename: "17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/17.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑光亮喇叭形单体，下窄上宽旋转体，中部细腰，底部超宽裙摆收口"
+    product_name: "Spun F"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "上照旋转体灯"]
+    design_language:
+      silhouette: "旋转体单件造型，底部喇叭裙摆稳定，中腰细收，上部开口碗形，陀螺反置"
+      light_opening: "向上大角度漫射，开口碗口朝上出光反射天花"
+      thermal: "大开口上方自然对流"
+      cmf:
+        color: "全黑高光"
+        material: "铝合金旋压成型单件"
+        finish: "镜面黑色喷漆"
+      mounting: "底部裙摆即底座，与灯体一体，无额外底盘"
+      signature_detail: "车床旋压单件铝合金，底座与灯体一体成型——没有接缝，没有组件"
+    design_level:
+      score: 5
+      reason: "Sebastian Wrong设计，Spun是Flos单体雕塑灯最极致的案例，旋压铝一体成型消除所有组件概念，是材料加工工艺的艺术升华"
+    design_tags: ["Spun", "旋转体", "旋压成型", "一体铝", "上照", "雕塑灯", "黑色高光", "Sebastian Wrong", "设计史经典", "H07极简整合"]
+    hero_feature: "铝合金旋压一体成型——整个灯具就是一个单一加工动作的产物"
+    problem_solved: "消除所有组件概念，灯具本身就是一件工业雕塑"
+    transferable_technique: "单一加工工艺制造整件（旋压/吹塑/铸造），工艺过程即设计语言"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_018"
+    source_images:
+      - filename: "18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/18.jpg"
+        image_role: "hero"
+        visual_anchor: "暗绿色粗圆管竖体，顶端开口，底部小三角形底座，杆顶细PIN伸出"
+    product_name: "Emi Floor"
+    brand_name: "Flos"
+    brand_confidence: "medium"
+    category_path: ["灯具", "装饰落地灯", "上照筒灯"]
+    design_language:
+      silhouette: "粗圆筒体竖立，顶端开口，底部三角底座极小，整体像一截圆柱"
+      light_opening: "顶端开口上照，内壁漫射向上"
+      thermal: "顶端开口自然散热"
+      cmf:
+        color: "暗绿色杆体 + 深灰三角底座"
+        material: "铝合金或钢质圆管，钢质三角底架"
+        finish: "哑面暗绿涂层 + 哑黑底架"
+      mounting: "小型三角形底座，接地面积极小"
+      signature_detail: "超小三角底座支撑相对粗的圆管体——底座与灯体的体量极端不匹配"
+    design_level:
+      score: 3
+      reason: "造型简洁，颜色有辨识度，但整体创新度一般"
+    design_tags: ["圆管体", "上照", "三角底座", "暗绿色", "极简", "H07极简整合"]
+    hero_feature: "极小三角底座支撑较粗圆管体的体量反差"
+    problem_solved: "最小底面积实现落地稳定"
+    transferable_technique: "以极小底座支撑主体，强化漂浮感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "具体型号需确认，可能为Flos Emi或其他细圆管立灯"
+
+  - product_id: "flos_装饰落地灯_019"
+    source_images:
+      - filename: "19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/19.jpg"
+        image_role: "hero"
+        visual_anchor: "4节等径透明玻璃圆柱叠加成高柱，黑色圆盘底座，金属连接环"
+    product_name: "Noctambule Floor High 4 Cylinders"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "模块化玻璃柱灯"]
+    design_language:
+      silhouette: "4节等径透明圆柱线性叠加，无顶端配件，纯柱形，比011/013更高更简"
+      light_opening: "360°全向透明发光，无顶端遮挡，向上散射最强"
+      thermal: "全透明开放"
+      cmf:
+        color: "全透明 + 哑黑底座 + 金色接环"
+        material: "手工吹制硼硅玻璃，黑色铝合金底座，黄铜连接环"
+        finish: "光亮透明 + 哑黑 + 金色"
+      mounting: "黑色扁平圆盘底座"
+      signature_detail: "4节叠加形成接近人高的发光玻璃柱——尺度感使灯具成为空间主角"
+    design_level:
+      score: 5
+      reason: "同Noctambule系列，4节高版本尺度更震撼，发光玻璃柱概念更纯粹"
+    design_tags: ["Noctambule", "透明玻璃", "4节叠加", "手工吹制", "发光柱", "人高尺度", "Konstantin Grcic"]
+    hero_feature: "接近人高的透明玻璃自发光柱——尺度突破常规灯具认知"
+    problem_solved: "以灯具尺度填充空间，替代雕塑/装置艺术品"
+    transferable_technique: "模块数量即高度控制：1-2节桌面，3节腰高，4节人高——同一语言覆盖全尺度产品线"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_020"
+    source_images:
+      - filename: "20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/20.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑细杆，顶端T形横臂，末端倾斜薄片遮光罩偏置下照，圆盘底座"
+    product_name: "Tab F"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "阅读灯/任务灯"]
+    design_language:
+      silhouette: "单细杆，顶端T形出臂，末端薄片遮光罩可旋转调向，轻盈几何"
+      light_opening: "向下定向出光，薄片遮光罩控制光束角和方向"
+      thermal: "薄片LED散热均匀"
+      cmf:
+        color: "全哑黑"
+        material: "铝合金杆及臂，铝合金遮光片"
+        finish: "哑黑粉末涂层"
+      mounting: "黑色圆盘底座"
+      signature_detail: "极薄片状遮光罩可绕轴旋转——薄到接近消失的灯头"
+    design_level:
+      score: 4
+      reason: "Edward Barber & Jay Osgerby设计，遮光片薄度极限，T形臂结构精准，整体极度克制"
+    design_tags: ["Tab", "薄片遮光罩", "T形臂", "全黑", "阅读灯", "可旋转", "Edward Barber", "H07极简整合"]
+    hero_feature: "接近消失感的极薄铝片遮光罩——减法到极限"
+    problem_solved: "最轻薄的定向阅读灯"
+    transferable_technique: "遮光罩做到极薄极小，让灯头在视觉上接近消失"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "flos_装饰落地灯_021"
+    source_images:
+      - filename: "21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/flos/装饰落地灯/21.jpg"
+        image_role: "hero"
+        visual_anchor: "琥珀铜色半透明竖向褶皱锥形大罩，细铬杆，正方形底座"
+    product_name: "KTribe F3"
+    brand_name: "Flos"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯", "锥形罩灯"]
+    design_language:
+      silhouette: "倒梯形锥罩宽口朝上，上宽下窄，细颈过渡到细铬杆，正方形底座"
+      light_opening: "上下两端开口，上部宽口上照，下部窄口下照，主光向上"
+      thermal: "上部大开口自然对流"
+      cmf:
+        color: "琥珀/铜色半透明罩 + 镜面铬杆 + 铬底座"
+        material: "聚碳酸酯半透明褶皱注塑罩，镀铬铝杆，铬制方形底座"
+        finish: "半透明琥珀色 + 镜面铬"
+      mounting: "镀铬正方形底座板"
+      signature_detail: "半透明琥珀褶皱罩内壁有铝箔衬——外看琥珀温暖，内壁银镜反射"
+    design_level:
+      score: 4
+      reason: "Philippe Starck设计，KTribe系列标志性，半透明与反射内壁的光学双重效果精妙"
+    design_tags: ["KTribe", "锥形罩", "半透明", "褶皱肌理", "Philippe Starck", "铬底座", "双重光学", "H10材料表达"]
+    hero_feature: "半透明琥珀褶皱外观 + 内置铝箔反射内壁的双重光学体验"
+    problem_solved: "在传统锥形灯罩造型中创造超出预期的光学惊喜"
+    transferable_technique: "外壳半透明 + 内壁反射衬层：两种材质叠合产生比单层更复杂的光效"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

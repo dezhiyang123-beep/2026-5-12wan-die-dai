@@ -1,0 +1,674 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "砂光机"
+  tertiary: "三角砂光机偏心砂光机砂带机轨道砂光机边缘砂光机长臂砂光机综合"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "festool_三角砂光机_001"
+    source_images:
+      - filename: "砂光机__三角砂光机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__三角砂光机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "三角砂光机（DTSC 200），深蓝黑机身，无线18V TBX4电池底部插接（绿色FESTOOL标识），机身顶部弓形握持把手，尘管接口在机身侧后方，三角砂盘底部银色铝合金框架，整体紧凑侧视形态"
+    product_name: "Festool DTSC 200 无线三角砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "三角砂光机"]
+    design_language:
+      silhouette: "竖直机身，顶部弓形把手，底部三角砂盘，整体纺锤形重心居中"
+      light_opening: "N/A"
+      thermal: "机身侧面散热格栅"
+      cmf:
+        color: "深蓝黑机身，绿色电池LOGO，银灰底部铝框架，白色砂纸盘"
+        material: "工程塑料机身，铝合金底座框架，锂电池"
+        finish: "机身哑光细纹，底座铝拉丝，电池哑光注塑"
+      mounting: "18V无线（TBX4 AIRSTREAM）"
+      signature_detail: "弓形握持把手与机身一体，三角砂盘可触及角落，电池外壳集成数字显示"
+    design_level:
+      score: 4
+      reason: "无线三角砂光机紧凑且人机工程好，弓形把手设计优雅，品牌系列感强，电池显示功能实用"
+    design_tags: ["三角砂光机", "DTSC", "无线", "18V", "角落打磨"]
+    hero_feature: "三角砂盘可深入90度角落，弓形一体把手提供稳定单手操控"
+    problem_solved: "家具角落和细木工零件的精细打磨，普通圆形砂盘无法触达的区域"
+    transferable_technique: "三角底盘的角部几何形态应用，赋予工具进入角落的能力"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_三角砂光机_002"
+    source_images:
+      - filename: "砂光机__三角砂光机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__三角砂光机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "三角砂光机（DTSC 400 Li-ion），深蓝黑机身带锂电池（侧置），机身更加细长，顶部把手较低，绿色指示灯在机身侧面，柔性软管集尘接口从机身侧后方引出，三角底盘"
+    product_name: "Festool DTSC 400 Li-ion 三角砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "三角砂光机"]
+    design_language:
+      silhouette: "细长型机身，电池侧置，顶部把手低矮，整体更贴近工件的低重心形态"
+      light_opening: "N/A"
+      thermal: "机身后部通风"
+      cmf:
+        color: "深蓝黑机身，绿色状态指示灯，银灰铝底框"
+        material: "工程塑料，铝合金底座"
+        finish: "哑光机身，铝拉丝底座"
+      mounting: "Li-ion无线（侧置电池）"
+      signature_detail: "侧置电池降低机身重心，集尘软管柔性连接，绿色状态灯位置直观"
+    design_level:
+      score: 4
+      reason: "侧置电池设计降低整体重心，贴工件打磨更稳定，集尘设计优异，品牌语言一致"
+    design_tags: ["三角砂光机", "DTSC", "无线", "侧置电池", "低重心"]
+    hero_feature: "电池侧置降低重心，使三角砂光机贴合工件操控更稳"
+    problem_solved: "水平面精细打磨时的稳定性问题，重心低降低手部疲劳"
+    transferable_technique: "电池侧置布局策略用于降低工具重心，可迁移到其他需要低重心操控的手持工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_三角砂光机_003"
+    source_images:
+      - filename: "砂光机__三角砂光机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__三角砂光机__03.jpg"
+        image_role: "hero"
+        visual_anchor: "有线三角砂光机（DTS 400 REQ），深蓝黑机身，绿色电源线插口接头，机身侧面绿色调速旋钮，后部柔性弯管集尘接口，整体有线版更细长，三角底盘清晰可见"
+    product_name: "Festool DTS 400 REQ 有线三角砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "三角砂光机"]
+    design_language:
+      silhouette: "有线版细长机身，顶部低矮把手，集尘接口从机身后部引出弯管"
+      light_opening: "N/A"
+      thermal: "机身顶部后侧通风"
+      cmf:
+        color: "深蓝黑机身，绿色电源线接头和调速旋钮，银灰铝底框"
+        material: "工程塑料，铝合金底座"
+        finish: "哑光细纹机身"
+      mounting: "有线（plug it可更换电缆系统）"
+      signature_detail: "绿色plug it可更换电缆接头（Festool独特系统），调速旋钮位于机身侧面"
+    design_level:
+      score: 4
+      reason: "plug it电缆系统是Festool独特设计专利，绿色接头为品牌标识之一，体现系统生态设计思维"
+    design_tags: ["三角砂光机", "DTS", "有线", "plug it", "可更换电缆"]
+    hero_feature: "绿色plug it可更换电源线接头，使电缆成为可更换耗材而非固定部件"
+    problem_solved: "电缆损坏无需整机维修，直接更换plug it电缆，降低维护成本"
+    transferable_technique: "plug it电缆模块化设计，将电源线变为可替换系统，电缆颜色作为品牌记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_偏心砂光机_001"
+    source_images:
+      - filename: "砂光机__偏心砂光机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__偏心砂光机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "偏心砂光机（RO 90 DX FEQ ROTEX），深蓝黑机身，D形握持把手有通孔，绿色调速旋钮在机身侧面，有线plug it绿色接口，集尘转接头在机身侧前方，圆形砂盘底部，ROTEX字样，整体偏心动作机构可见"
+    product_name: "Festool RO 90 DX FEQ ROTEX 偏心砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心砂光机"]
+    design_language:
+      silhouette: "D形通孔把手+前倾机身，砂盘在前下方，整体偏心砂光机的标志性枪形侧视轮廓"
+      light_opening: "N/A"
+      thermal: "机身顶部和侧面散热槽"
+      cmf:
+        color: "深蓝黑机身，绿色调速旋钮和电缆接头，银灰集尘接头，白色砂盘"
+        material: "工程塑料，铝合金底座"
+        finish: "机身哑光细纹"
+      mounting: "有线（plug it）"
+      signature_detail: "ROTEX双模式（偏心+旋转）切换机构，D形通孔握持把手，绿色plug it电缆接头"
+    design_level:
+      score: 5
+      reason: "ROTEX是Festool砂光机旗舰，双模式切换（粗磨+精抛）在品类内是技术标杆，D形把手+ROTEX命名成为砂光机设计范本"
+    design_tags: ["偏心砂光机", "ROTEX", "双模式", "有线", "旗舰", "D形把手"]
+    hero_feature: "ROTEX双模式切换（偏心砂光+旋转抛光），一台完成从粗磨到精抛的全工序"
+    problem_solved: "表面处理需要粗磨和精抛两个阶段，避免频繁换工具"
+    transferable_technique: "双工作模式一机集成（ROTEX概念），通过模式切换旋钮实现功能扩展，可迁移到其他多功能工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_偏心砂光机_002"
+    source_images:
+      - filename: "砂光机__偏心砂光机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__偏心砂光机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "大型偏心砂光机（RO 125 FEQ ROTEX），深蓝黑机身，有线plug it绿色接口，D形通孔把手，集尘转接头和扳机式调速，125mm大砂盘，机身更宽厚，侧视呈现更大体量"
+    product_name: "Festool RO 125 FEQ ROTEX 偏心砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心砂光机"]
+    design_language:
+      silhouette: "宽厚机身，D形通孔大把手，125mm砂盘，整体体量较大，侧视枪形轮廓明显"
+      light_opening: "N/A"
+      thermal: "机身顶部侧面散热"
+      cmf:
+        color: "深蓝黑机身，绿色电缆接头和小指示件，银灰集尘接头"
+        material: "工程塑料，铝合金底座"
+        finish: "哑光细纹机身，拉丝铝底座"
+      mounting: "有线（plug it）"
+      signature_detail: "125mm大砂盘增大研磨面积，ROTEX双模式，集尘系统高效集成"
+    design_level:
+      score: 4
+      reason: "ROTEX 125是标准专业版，砂盘尺寸适合大面积作业，设计延续旗舰语言"
+    design_tags: ["偏心砂光机", "ROTEX", "125mm", "有线", "大砂盘"]
+    hero_feature: "125mm大砂盘+ROTEX双模式，大面积表面处理效率最优方案"
+    problem_solved: "大面积平面表面粗磨和精抛作业效率需求"
+    transferable_technique: "砂盘面积增大策略在维持机身体积可控前提下提升效率"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_偏心砂光机_003"
+    source_images:
+      - filename: "砂光机__偏心砂光机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__偏心砂光机__03.jpg"
+        image_role: "hero"
+        visual_anchor: "大型偏心砂光机（RO 150 FEQ ROTEX），深蓝黑机身更长，150mm砂盘，有线plug it，扳机握把式把手，集尘接头在机身尾部，整体更接近角磨机形态"
+    product_name: "Festool RO 150 FEQ ROTEX 偏心砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心砂光机"]
+    design_language:
+      silhouette: "枪形把手握持，机身修长，150mm砂盘，集尘接头尾部，整体接近角磨机侧视比例"
+      light_opening: "N/A"
+      thermal: "机身后部散热"
+      cmf:
+        color: "深蓝黑为主，绿色调速件，银灰集尘接头，白色砂盘"
+        material: "工程塑料，铝合金底座"
+        finish: "哑光细纹"
+      mounting: "有线（plug it）"
+      signature_detail: "150mm最大砂盘尺寸，修长机身适合长时间握持，把手前端集尘接口"
+    design_level:
+      score: 4
+      reason: "ROTEX 150是砂光机中覆盖面积最大的专业款，修长机身降低长时间握持疲劳感"
+    design_tags: ["偏心砂光机", "ROTEX", "150mm", "有线", "大面积"]
+    hero_feature: "150mm大砂盘+修长枪形机身，最大面积研磨+长时间操作舒适性并重"
+    problem_solved: "大面积平面打磨和抛光（如汽车、船体、大型家具）"
+    transferable_technique: "大砂盘工具的修长机身比例策略，重心前置但把手后置，平衡力矩"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_砂带机_001"
+    source_images:
+      - filename: "砂光机__砂带机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__砂带机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "砂带机（BS 75 E），深黑机身为主，绿色调速滑块在机身侧面，有线有电缆，前端小圆辊+后端大驱动辊，银灰色铝合金底架，顶部前后把手，整体横向水平形态"
+    product_name: "Festool BS 75 E 砂带机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "砂带机"]
+    design_language:
+      silhouette: "横向水平形态，前小辊+后大驱动辊+砂带，双把手前后布置，侧视呈扁平矩形"
+      light_opening: "N/A"
+      thermal: "电机仓两侧散热槽"
+      cmf:
+        color: "深黑主机身，绿色调速件，银灰铝底架，深灰橡胶辊"
+        material: "工程塑料机壳，铝合金底架，橡胶辊轮，砂带"
+        finish: "机身哑光颗粒，铝架拉丝，辊轮哑光橡胶"
+      mounting: "有线"
+      signature_detail: "前端细辊可深入角落砂带接触点，绿色调速滑块外露，紧凑前后双把手"
+    design_level:
+      score: 4
+      reason: "砂带机中的专业设计，双把手布局符合砂带操控逻辑，绿色调速件标志性，整体比例简洁"
+    design_tags: ["砂带机", "BS", "有线", "双把手", "角落研磨"]
+    hero_feature: "前端细小辊轮可深入狭窄区域，兼顾大面积研磨和角落精磨"
+    problem_solved: "木工大面积快速粗磨，以及需要进入角落的狭窄打磨场景"
+    transferable_technique: "前细辊设计使砂带工具获得接触角落的能力，赋予大型工具精细操作场景适应性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道砂光机_001"
+    source_images:
+      - filename: "砂光机__轨道砂光机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__轨道砂光机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "无线偏心轨道砂光机（ETSC 2 125），深蓝黑机身，18V电池底部插接（绿色标识），D形弓形把手，集尘侧接口，125mm白色圆形砂盘，机身上方绿色LED状态指示，整体无线紧凑"
+    product_name: "Festool ETSC 2 125 无线偏心轨道砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心轨道砂光机"]
+    design_language:
+      silhouette: "低矮圆润机身，顶部弓形把手，底部大圆砂盘，整体扁平碟形+把手"
+      light_opening: "N/A"
+      thermal: "机身侧面散热格栅"
+      cmf:
+        color: "深蓝黑机身，绿色电池品牌标和LED，白色砂盘，银灰铝砂盘环"
+        material: "工程塑料机身，铝合金砂盘环，锂电池"
+        finish: "哑光细纹机身，拉丝铝砂盘环"
+      mounting: "18V无线（AIRSTREAM系统）"
+      signature_detail: "砂盘顶部铝合金环状结构（集尘+减振），绿色顶部LED状态灯，弓形把手一体成型"
+    design_level:
+      score: 4
+      reason: "ETS系列是Festool最具代表性的偏心砂光机，无线版兼顾专业性和便携性，砂盘铝环设计有强烈品牌识别度"
+    design_tags: ["偏心砂光机", "ETS", "无线", "18V", "125mm", "集尘"]
+    hero_feature: "砂盘顶部铝合金装饰减振环，兼具功能（减振+集尘）和视觉标识作用"
+    problem_solved: "现场无线精细打磨，无尘作业环境要求"
+    transferable_technique: "工具底部旋转砂盘顶部的铝合金装饰环（多功能：减振+集尘+视觉锚点）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道砂光机_002"
+    source_images:
+      - filename: "砂光机__轨道砂光机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__轨道砂光机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "无线偏心轨道砂光机（ETSC 2 150），与01款相似但砂盘150mm更大，机身更宽，弓形把手更大，绿色电池标识在底部电池上，整体比例更扁宽"
+    product_name: "Festool ETSC 2 150 无线偏心轨道砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心轨道砂光机"]
+    design_language:
+      silhouette: "150mm大砂盘版本机身更宽，扁平碟形更明显，弓形把手更宽大"
+      light_opening: "N/A"
+      thermal: "机身侧面散热"
+      cmf:
+        color: "深蓝黑机身，绿色电池，白色砂盘，银灰铝砂盘环"
+        material: "工程塑料，铝合金砂盘环，锂电池"
+        finish: "哑光机身，铝拉丝砂盘环"
+      mounting: "18V无线"
+      signature_detail: "150mm大砂盘研磨效率更高，弓形把手宽度增加手部稳定性"
+    design_level:
+      score: 4
+      reason: "ETS 150无线版在125基础上提升研磨效率，设计延续旗舰语言，砂盘铝环标志性"
+    design_tags: ["偏心砂光机", "ETS", "无线", "150mm", "大砂盘"]
+    hero_feature: "150mm砂盘+无线系统，大面积精细打磨的便携专业方案"
+    problem_solved: "大面积木材表面精细打磨，现场无线作业"
+    transferable_technique: "同系列大砂盘版本通过机身等比放宽实现设计延续性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道砂光机_003"
+    source_images:
+      - filename: "砂光机__轨道砂光机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__轨道砂光机__03.jpg"
+        image_role: "hero"
+        visual_anchor: "有线偏心轨道砂光机（ETS EC 125/3 EQ），深蓝黑机身，绿色plug it电缆接头，集尘接口从机身侧面引出，弓形把手，125mm砂盘铝合金减振环，机身标注ETS EC字样"
+    product_name: "Festool ETS EC 125/3 EQ 有线偏心轨道砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心轨道砂光机"]
+    design_language:
+      silhouette: "低矮圆润机身，有线版电缆从侧面引出，弓形把手，圆砂盘，整体与无线版形态一致"
+      light_opening: "N/A"
+      thermal: "机身侧面散热"
+      cmf:
+        color: "深蓝黑机身，绿色plug it电缆接口，白色砂盘，银灰铝减振环"
+        material: "工程塑料，铝合金减振环，plug it电缆"
+        finish: "哑光机身细纹"
+      mounting: "有线（plug it绿色可更换电缆）"
+      signature_detail: "ETS EC（无刷电机版本），绿色plug it接口，砂盘铝减振环"
+    design_level:
+      score: 4
+      reason: "ETS EC无刷电机版，技术升级，plug it系统体现生态设计思维，外观设计延续品牌一致性"
+    design_tags: ["偏心砂光机", "ETS EC", "有线", "无刷电机", "plug it"]
+    hero_feature: "无刷电机（EC）技术升级，提升效率和寿命，外观与有刷版保持一致"
+    problem_solved: "专业工坊长时间高频打磨，无刷电机延长使用寿命"
+    transferable_technique: "外观不变的情况下通过内部技术升级（无刷电机）延续产品生命周期"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道砂光机_004"
+    source_images:
+      - filename: "砂光机__轨道砂光机__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__轨道砂光机__04.jpg"
+        image_role: "hero"
+        visual_anchor: "有线偏心砂光机（ETS 125 REQ），深蓝黑机身，绿色plug it绿色接口明显，集尘接口，弓形把手，125mm砂盘，整体经典ETS造型"
+    product_name: "Festool ETS 125 REQ 偏心轨道砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心轨道砂光机"]
+    design_language:
+      silhouette: "经典ETS低矮圆形砂盘+弓形把手，有线版标准形态"
+      light_opening: "N/A"
+      thermal: "机身侧面散热"
+      cmf:
+        color: "深蓝黑，绿色plug it，白色砂盘，银灰铝环"
+        material: "工程塑料，铝合金，plug it"
+        finish: "哑光颗粒机身"
+      mounting: "有线（plug it）"
+      signature_detail: "ETS经典有线款，标准配置，plug it绿色接口"
+    design_level:
+      score: 4
+      reason: "ETS系列经典款，设计语言成熟稳定，品牌识别度强"
+    design_tags: ["偏心砂光机", "ETS", "有线", "125mm", "经典款"]
+    hero_feature: "ETS系列经典形态，弓形把手+铝减振环砂盘，成为偏心砂光机品类设计范本"
+    problem_solved: "精细打磨标准应用场景，专业木工和汽车表面处理"
+    transferable_technique: "弓形一体把手与圆形机身的几何对比，形成品类内辨识度极高的品牌轮廓"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道砂光机_005"
+    source_images:
+      - filename: "砂光机__轨道砂光机__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__轨道砂光机__05.jpg"
+        image_role: "hero"
+        visual_anchor: "有线偏心砂光机（ETS 150/5 EQ），深蓝黑机身，绿色调速按钮在顶部，plug it绿色接口，150mm砂盘更大，机身整体更宽，有线电缆从机身后侧引出"
+    product_name: "Festool ETS 150/5 EQ 偏心轨道砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "偏心轨道砂光机"]
+    design_language:
+      silhouette: "150mm大砂盘版，机身更宽厚，弓形把手等比放大，比例稳重"
+      light_opening: "N/A"
+      thermal: "机身侧面后部散热"
+      cmf:
+        color: "深蓝黑为主，绿色顶部调速钮，白色砂盘，银灰铝减振环"
+        material: "工程塑料，铝合金减振环"
+        finish: "哑光颗粒机身"
+      mounting: "有线（plug it）"
+      signature_detail: "顶部绿色圆形调速按钮，150mm砂盘，plug it电缆，ETS 150代表最大圆形砂盘版本"
+    design_level:
+      score: 4
+      reason: "ETS 150是专业大面积打磨标准配置，顶部圆形绿色按钮是设计亮点，体量感配得上专业定位"
+    design_tags: ["偏心砂光机", "ETS", "150mm", "有线", "大面积"]
+    hero_feature: "顶部绿色圆形调速按钮的位置设计，拇指按压即可调速，人机工程优化"
+    problem_solved: "大面积精细打磨，减少二次接触痕迹"
+    transferable_technique: "圆形调速按钮置于机身顶面中央，使拇指拨速动作自然融入握持姿势"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道砂光机_006"
+    source_images:
+      - filename: "砂光机__轨道砂光机__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__轨道砂光机__06.jpg"
+        image_role: "hero"
+        visual_anchor: "无线三角+圆形复合砂光机（RTSC 400 Li-ion），深蓝黑机身带侧置锂电池，顶部弓形把手较低，集尘软管从机身后部引出，底部复合砂盘（方形和圆形组合），机身更扁宽"
+    product_name: "Festool RTSC 400 Li-ion 无线复合砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "复合砂光机"]
+    design_language:
+      silhouette: "扁宽低矮机身，侧置电池使重心低，弓形把手偏矮，底部复合砂盘"
+      light_opening: "N/A"
+      thermal: "机身侧面"
+      cmf:
+        color: "深蓝黑机身，侧置电池同色系，绿色指示件"
+        material: "工程塑料，铝合金底座"
+        finish: "哑光细纹"
+      mounting: "Li-ion无线（侧置电池）"
+      signature_detail: "RTS矩形砂光机升级为复合可切换底盘，集成圆形偏心和矩形两种研磨模式"
+    design_level:
+      score: 4
+      reason: "复合功能集成设计，无线侧置电池降低重心，体现Festool模块化系统思维"
+    design_tags: ["复合砂光机", "RTS", "无线", "矩形砂盘", "侧置电池"]
+    hero_feature: "可切换矩形/圆形研磨底盘，一台完成不同几何面的打磨需求"
+    problem_solved: "矩形平面和圆形偏心研磨在不同场景的切换需求"
+    transferable_technique: "可更换底盘系统使单台主机兼容多种研磨几何形态"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道砂光机_007"
+    source_images:
+      - filename: "砂光机__轨道砂光机__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__轨道砂光机__07.jpg"
+        image_role: "hero"
+        visual_anchor: "RTS 400 REQ矩形砂光机，深蓝黑机身，绿色plug it有线接口，集尘旋转接头从机身侧面引出，顶部弓形把手，底部矩形砂盘，整体扁宽形态，机身侧面有速度调节旋钮"
+    product_name: "Festool RTS 400 REQ 矩形砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "矩形砂光机"]
+    design_language:
+      silhouette: "扁平矩形砂盘+弓形把手，机身宽于圆盘版本，整体比例更宽扁"
+      light_opening: "N/A"
+      thermal: "机身侧面散热"
+      cmf:
+        color: "深蓝黑机身，绿色plug it接口，白色矩形砂盘，银灰金属底框"
+        material: "工程塑料，铝合金底框"
+        finish: "哑光细纹机身"
+      mounting: "有线（plug it）"
+      signature_detail: "矩形砂盘覆盖标准1/4标准砂纸尺寸，旋转集尘接头可360度调向"
+    design_level:
+      score: 4
+      reason: "RTS矩形砂光机是板材面打磨的标准工具，可旋转集尘接头是实用设计亮点"
+    design_tags: ["矩形砂光机", "RTS", "有线", "矩形砂盘", "360集尘"]
+    hero_feature: "360度可旋转集尘接头，使集尘管朝向不受操作姿势限制"
+    problem_solved: "大面积平板表面（如门板、桌面）的高效打磨"
+    transferable_technique: "旋转集尘接头设计，将集尘软管从束缚变为自由，可迁移到所有需要多姿势操作的工具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_轨道砂光机_008"
+    source_images:
+      - filename: "砂光机__轨道砂光机__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__轨道砂光机__08.jpg"
+        image_role: "hero"
+        visual_anchor: "边缘砂光机展开视角，深蓝黑机身，绿色plug it接口和按钮，机身后部引出集尘口，底部可看到圆形砂盘+拆卸后的异形底盘系统，整体展示Festool砂光机底盘更换生态"
+    product_name: "Festool 砂光机底盘更换系统展示"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "模块化系统"]
+    design_language:
+      silhouette: "展示多底盘状态，主机身深色，可见底盘拆卸后的机械接口，绿色连接扣件醒目"
+      light_opening: "N/A"
+      thermal: "机身散热"
+      cmf:
+        color: "深蓝黑机身，绿色扣件，银灰底盘框架"
+        material: "工程塑料，铝合金底盘"
+        finish: "哑光机身"
+      mounting: "有线（plug it）"
+      signature_detail: "模块化底盘更换生态——绿色卡扣是视觉锚点，一台主机配多种底盘"
+    design_level:
+      score: 5
+      reason: "模块化底盘系统是Festool砂光机生态的核心设计思想，绿色扣件作为系统化语言统一感强，品类创新标杆"
+    design_tags: ["砂光机", "模块化", "底盘更换", "系统生态", "plug it"]
+    hero_feature: "绿色快换底盘卡扣系统，一台主机可切换圆形/矩形/三角等多种砂盘"
+    problem_solved: "多种打磨场景需要不同底盘，模块化系统避免购买多台机器"
+    transferable_technique: "绿色快换卡扣作为系统化视觉语言，统一模块化产品生态的设计标识"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_边缘砂光机_001"
+    source_images:
+      - filename: "砂光机__边缘砂光机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__边缘砂光机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "边缘砂光机ES产品展示，深蓝黑机身，顶部D形把手，绿色卡扣和plug it接口，机身前方有独立小砂盘（细圆形），整体用于打磨板材边缘和角线，绿色按钮明显，机身较圆润"
+    product_name: "Festool ES 边缘砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "边缘砂光机"]
+    design_language:
+      silhouette: "竖直圆润机身，顶部D把手，前端伸出小砂盘头，整体像手持按摩器造型"
+      light_opening: "N/A"
+      thermal: "机身侧面散热"
+      cmf:
+        color: "深蓝黑机身，绿色卡扣、plug it接口和按钮，银灰砂盘"
+        material: "工程塑料，铝合金砂盘"
+        finish: "哑光机身"
+      mounting: "有线（plug it）"
+      signature_detail: "前端小砂盘专为边缘和角线设计，绿色全套操控件，快换底盘系统"
+    design_level:
+      score: 4
+      reason: "边缘砂光机专业品类，设计精准服务于边缘打磨场景，绿色操控件品牌感强"
+    design_tags: ["边缘砂光机", "ES", "有线", "边缘打磨", "角线"]
+    hero_feature: "前端小圆砂盘设计针对家具边缘和成型角线，普通砂光机无法触达的部位"
+    problem_solved: "家具、门框、橱柜等成型边缘的精细砂光作业"
+    transferable_technique: "前端突出小砂盘头的几何延伸设计，使工具能接触常规底盘无法到达的边缘区域"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_长臂砂光机_001"
+    source_images:
+      - filename: "砂光机__长臂砂光机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__长臂砂光机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "长臂砂光机（LHS系列），深蓝黑机身，银色铝合金长管臂（约1.5米），前端小矩形砂盘头朝下，后端握持机身+电机，握持机身有弓形把手，整体呈极长水平形态，机身标有FESTOOL"
+    product_name: "Festool LHS 225 长臂砂光机"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "长臂砂光机"]
+    design_language:
+      silhouette: "超长水平形态（约1.5-2米），两端分别为砂盘头和握持机身，中部银色铝管，整体极为修长"
+      light_opening: "N/A"
+      thermal: "机身电机仓散热"
+      cmf:
+        color: "深蓝黑机身+铝合金管材，银灰铝管，前端深色砂盘头"
+        material: "工程塑料机身，铝合金伸缩管，工程塑料砂盘头"
+        finish: "机身哑光，铝管拉丝磨砂"
+      mounting: "有线"
+      signature_detail: "铝合金伸缩臂实现高度调节，砂盘头可旋转调角，长臂设计实现站立姿势打磨天花板和墙面"
+    design_level:
+      score: 5
+      reason: "LHS长臂砂光机是砂光机品类的突破性创新，将传统跪地打磨改为站立操作，解决了墙面砂光的核心痛点，是品类颠覆性设计，工业设计评分满分"
+    design_tags: ["长臂砂光机", "LHS", "墙面砂光", "伸缩臂", "站立操作", "品类突破"]
+    hero_feature: "可伸缩铝合金长臂+可旋转砂盘头，站立姿势打磨墙面和天花板，完全重新定义墙面砂光工作方式"
+    problem_solved: "传统墙面砂光需要蹲跪爬梯的高强度劳动，LHS使工人站立轻松完成全墙面砂光"
+    transferable_technique: "伸缩臂+旋转工作头的组合，将手持工具的作业范围从手臂所及扩展到2米以上高度和距离"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_长臂砂光机_002"
+    source_images:
+      - filename: "砂光机__长臂砂光机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__长臂砂光机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "长臂砂光机（LHS 2-M 225 EB），深蓝黑机身，铝合金长管臂，砂盘头为圆形（比01款的矩形更大），前端旋转万向节可见，后端握持机身略微不同角度，展示圆形砂盘版本"
+    product_name: "Festool LHS 2-M 225 EB 长臂砂光机（圆盘版）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "长臂砂光机"]
+    design_language:
+      silhouette: "与01款相同超长形态，砂盘头换为圆形225mm大砂盘，旋转万向节更明显"
+      light_opening: "N/A"
+      thermal: "机身电机仓散热"
+      cmf:
+        color: "深蓝黑机身，银灰铝管，绿色功能件，白色圆形砂盘"
+        material: "工程塑料机身，铝合金管，锻铝万向节"
+        finish: "哑光机身，拉丝铝管"
+      mounting: "有线"
+      signature_detail: "225mm大圆砂盘版本效率更高，万向节关节可见，适合大面积墙面快速打磨"
+    design_level:
+      score: 5
+      reason: "LHS圆盘版进一步提升大面积墙面砂光效率，225mm砂盘是品类最大，继续保持品类突破性评分"
+    design_tags: ["长臂砂光机", "LHS", "225mm", "圆盘", "墙面砂光", "品类突破"]
+    hero_feature: "225mm超大圆盘+长臂系统，最大研磨面积覆盖最大范围墙面"
+    problem_solved: "大面积墙面快速砂光，减少操作次数"
+    transferable_technique: "大砂盘+长臂万向节的组合策略最大化工作覆盖面"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "festool_长臂砂光机_003"
+    source_images:
+      - filename: "砂光机__长臂砂光机__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/festool/砂光机/砂光机__长臂砂光机__03.jpg"
+        image_role: "hero"
+        visual_anchor: "长臂砂光机（LHS 2 225 GQ），深蓝黑机身，铝合金管，绿色大卡扣在机身连接管处，圆形砂盘头，机身握持端绿色操控件，整体展示新款更精致的连接系统，品牌标识更新版"
+    product_name: "Festool LHS 2 225 GQ 长臂砂光机（新款）"
+    brand_name: "Festool"
+    brand_confidence: "high"
+    category_path: ["电动工具", "砂光机", "长臂砂光机"]
+    design_language:
+      silhouette: "超长形态，新款连接系统使管机连接处更精致，绿色卡扣醒目"
+      light_opening: "N/A"
+      thermal: "机身电机仓散热"
+      cmf:
+        color: "深蓝黑机身，银灰铝管，绿色大卡扣和操控件"
+        material: "工程塑料机身，铝合金管，锻铝连接件"
+        finish: "哑光机身，拉丝铝管，绿色卡扣光面注塑"
+      mounting: "有线"
+      signature_detail: "绿色大尺寸连接卡扣成为新款设计亮点，管机分离更方便，整体工艺精致度提升"
+    design_level:
+      score: 5
+      reason: "LHS 2代更新进化，绿色卡扣连接系统提升便携性，设计语言更统一，继续品类突破满分"
+    design_tags: ["长臂砂光机", "LHS 2", "新款", "绿色卡扣", "品类突破"]
+    hero_feature: "绿色大卡扣管机快拆系统，长臂工具分解携带便利性大幅提升"
+    problem_solved: "长臂工具的搬运收纳问题，可快速分解为两段"
+    transferable_technique: "长杆工具快拆卡扣系统，用醒目品牌色卡扣作为拆卸引导标识"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

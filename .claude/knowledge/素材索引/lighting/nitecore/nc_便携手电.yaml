@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "手电筒"
+  tertiary: "便携手电"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/便携手电/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_便携_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/便携手电/01.jpg"
+        image_role: "hero"
+        visual_anchor: "多LED阵列灯头+锯齿散热鳍片+侧面大按钮"
+    product_name: "Nitecore 多LED大头便携手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "便携手电"]
+    design_language:
+      silhouette: "宽头短筒比例，灯头直径明显大于筒身，头重感强"
+      light_opening: "多LED阵列（4+枚），反射杯分格，开口直径约50mm以上"
+      thermal: "灯头颈部环绕宽厚锯齿散热鳍片，鳍片深且密"
+      cmf:
+        color: "亮银色灯头+哑光黑筒身，高对比双色"
+        material: "航空铝合金，表面高光机加工处理（灯头）与喷砂阳极氧化（筒身）"
+        finish: "灯头抛光银色，筒身哑光黑，筒尾菱形网纹防滑"
+      mounting: "无夹，徒手握持为主，筒尾有小挂绳孔"
+      signature_detail: "灯头外缘锯齿装饰环 + 侧面大直径橡胶按键 + 黄色十字型LED装饰座"
+    design_level:
+      score: 4
+      reason: "银黑双色对比强烈，多LED阵列+锯齿鳍片视觉冲击力高，整体工业感突出，品牌辨识度强"
+    design_tags: ["多LED阵列", "银黑双色", "锯齿散热鳍", "大灯头", "高亮便携", "工业感"]
+    hero_feature: "宽厚锯齿散热鳍片环绕灯颈，银色高光机加工灯头与黑色筒身强对比"
+    problem_solved: "便携场景需要大光通量输出，大灯头多LED设计实现高亮度同时保持单手握持"
+    transferable_technique: "银色高光机加工灯头+哑光黑筒身的双色对比分件手法，可迁移至手持工具灯头与握把的材质区分"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_便携_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/手电筒/便携手电/02.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色全包覆筒身+白色蝎子图案涂装+大圆形侧按钮"
+    product_name: "Nitecore 蝎子限定版便携手电"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "手电筒", "便携手电"]
+    design_language:
+      silhouette: "均匀圆柱筒型，头尾直径接近，比例修长"
+      light_opening: "小型三LED簇射灯头，开口直径约30mm，有防护边环"
+      thermal: "灯头颈部有浅散热槽，无明显鳍片，热管理隐含"
+      cmf:
+        color: "全哑光黑铝合金筒身，白色蝎子图案局部丝印"
+        material: "航空铝合金，哑光阳极氧化表面"
+        finish: "筒身菱形编织纹防滑纹理，白色图案对比鲜明"
+      mounting: "无夹，纯握持型"
+      signature_detail: "筒身白色蝎子限定印花 + 大直径圆形橡胶侧按键"
+    design_level:
+      score: 3
+      reason: "图案限定版增加视觉趣味，但整体造型较常规，无突破性结构创新，属于常规品类外观+定制图案"
+    design_tags: ["限定涂装", "蝎子图案", "圆柱筒型", "哑光黑", "菱形纹理", "EDC便携"]
+    hero_feature: "白色蝎子丝印图案覆盖筒身，与哑光黑铝合金形成高对比视觉焦点"
+    problem_solved: "EDC日常携带场景，紧凑圆柱外形易入袋，图案涂装提升个性化辨识度"
+    transferable_technique: "统一色系铝合金筒身叠加局部高对比印花图案的个性化定制手法，低成本增加产品差异化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

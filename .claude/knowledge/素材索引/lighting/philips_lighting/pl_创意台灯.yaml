@@ -1,0 +1,289 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "创意台灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意台灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "pl_台灯_001"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意台灯/07.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色竖纹锥形底座 + 半透明粉色倒锥形玻璃罩 + 中央品红色发光柱"
+    product_name: "Philips Hue Modo台灯（黑底倒锥罩款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯"]
+    design_language:
+      silhouette: "倒锥形玻璃罩坐于锥形底座，整体呈沙漏廓形，重心居中"
+      light_opening: "全向漫射，玻璃罩整体发光，光线柔和向四周扩散"
+      thermal: "底座无可见散热结构，LED热量极低，不需专用散热件"
+      cmf:
+        color: "哑黑底座 + 粉色半透明玻璃罩"
+        material: "3D打印纹理聚合物底座 + 吹制玻璃罩"
+        finish: "底座竖向细肋纹理，玻璃罩光滑透明"
+      mounting: "桌面独立放置，白色线缆出线"
+      signature_detail: "中央透明发光棒（光导柱）贯穿底座与玻璃罩连接处，品红光从棒内射出"
+    design_level:
+      score: 4
+      reason: "沙漏廓形辨识度高，3D打印纹理底座与吹制玻璃罩材质对比强烈，光导柱细节精致"
+    design_tags: ["沙漏廓形", "3D打印纹理", "光导柱", "材质对比", "全彩Hue", "氛围灯"]
+    hero_feature: "中央品红光导柱 + 半透明玻璃罩全向漫射"
+    problem_solved: "普通台灯造型单调，该款以雕塑感廓形和炫彩光效兼顾装饰与氛围照明"
+    transferable_technique: "3D打印竖肋纹理底座与光滑透明罩体的材质二元对比手法可迁移至其他台灯/落地灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_台灯_002"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意台灯/08.jpg"
+        image_role: "hero"
+        visual_anchor: "绿色竖纹锥形底座 + 半透明粉色球形玻璃罩 + 中央品红色发光柱"
+    product_name: "Philips Hue Modo台灯（绿底球罩款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯"]
+    design_language:
+      silhouette: "正球形玻璃罩坐于细锥底座，比例上罩大底小，有顶重感"
+      light_opening: "球形全向漫射，360°均匀出光"
+      thermal: "紧凑底座，热量极低无需散热结构"
+      cmf:
+        color: "雾绿底座 + 粉色半透明玻璃罩"
+        material: "3D打印纹理聚合物底座 + 吹制玻璃球罩"
+        finish: "底座竖肋纹理，玻璃罩光滑"
+      mounting: "桌面独立放置，白色线缆"
+      signature_detail: "发光棒从底座穿入球心，光源完全包裹在球体内部"
+    design_level:
+      score: 3
+      reason: "配色大胆，绿底粉罩互补对比，但球形廓形常规，与001相比辨识度略低"
+    design_tags: ["球形罩", "3D打印纹理", "互补色对比", "全彩Hue", "氛围灯"]
+    hero_feature: "雾绿底座与粉色球罩的互补色对比 + 360°全向球形漫射"
+    problem_solved: "提供与001不同廓形选项，球形更适合小空间全向补光"
+    transferable_technique: "颜色互补底座与罩体配色策略，可快速生成同系列多色版本"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_台灯_003"
+    source_images:
+      - filename: "10.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意台灯/10.jpg"
+        image_role: "hero"
+        visual_anchor: "绿色竖纹锥形底座 + 半透明粉色倒锥形玻璃罩 + 中央品红色发光柱"
+    product_name: "Philips Hue Modo台灯（绿底倒锥罩款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯"]
+    design_language:
+      silhouette: "倒锥形玻璃罩 + 锥形底座，沙漏廓形，与001同造型但换绿底配色"
+      light_opening: "向上漫射为主，倒锥形罩体将光向上方和侧面引导"
+      thermal: "底座封闭，无散热结构"
+      cmf:
+        color: "雾绿底座 + 粉色半透明玻璃罩"
+        material: "3D打印纹理聚合物底座 + 吹制玻璃罩"
+        finish: "底座竖肋纹理，玻璃罩光滑"
+      mounting: "桌面独立放置，白色线缆"
+      signature_detail: "光导柱连接底座与罩体，形成视觉重点"
+    design_level:
+      score: 3
+      reason: "与001同廓形，绿底配色清新，但作为系列变体独创性有限"
+    design_tags: ["沙漏廓形", "3D打印纹理", "光导柱", "系列配色变体", "全彩Hue"]
+    hero_feature: "绿色竖肋纹理底座与粉色倒锥玻璃罩的色彩碰撞"
+    problem_solved: "同系列提供不同色彩情绪选项，绿色传递自然清新感"
+    transferable_technique: "同廓形多底座配色策略，低成本扩充SKU"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_台灯_004"
+    source_images:
+      - filename: "11.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意台灯/11.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色竖纹锥形底座 + 半透明粉色球形玻璃罩 + 中央品红色发光柱"
+    product_name: "Philips Hue Modo台灯（黑底球罩款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯"]
+    design_language:
+      silhouette: "球形罩坐于黑色锥形底座，黑白色调对比强烈"
+      light_opening: "360°球形全向漫射"
+      thermal: "无外露散热结构"
+      cmf:
+        color: "哑黑底座 + 粉色半透明玻璃球罩"
+        material: "3D打印纹理聚合物底座 + 吹制玻璃球罩"
+        finish: "底座竖肋纹理，玻璃罩光滑"
+      mounting: "桌面独立放置，白色线缆"
+      signature_detail: "黑底+粉球高对比度配色，品红光从球心向外均匀漫射"
+    design_level:
+      score: 3
+      reason: "配色较002（绿底）更经典，黑底增强现代感，球形廓形为常规选项"
+    design_tags: ["球形罩", "3D打印纹理", "黑白对比", "全彩Hue", "氛围灯"]
+    hero_feature: "哑黑竖肋底座与粉色玻璃球罩的高对比度视觉"
+    problem_solved: "黑底版本适配现代/工业风家居，拓宽系列受众"
+    transferable_technique: "深色底座+浅色透明罩的明暗对比策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_台灯_005"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意台灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "浅灰竖纹锥形底座 + 半透明粉色倒锥形玻璃罩 + 品红色发光柱"
+    product_name: "Philips Hue Modo台灯（灰底倒锥罩款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯"]
+    design_language:
+      silhouette: "倒锥形玻璃罩 + 锥形底座，沙漏廓形，底座为浅暖灰"
+      light_opening: "向上漫射为主"
+      thermal: "封闭底座，无散热结构"
+      cmf:
+        color: "浅暖灰底座 + 粉色半透明玻璃罩"
+        material: "3D打印纹理聚合物底座 + 吹制玻璃罩"
+        finish: "底座竖肋纹理，玻璃罩光滑"
+      mounting: "桌面独立放置，白色线缆"
+      signature_detail: "暖灰底座降低视觉冲击，整体更柔和中性"
+    design_level:
+      score: 3
+      reason: "灰底配色最通用，适配最多家居风格，但创意张力低于黑底/绿底版"
+    design_tags: ["沙漏廓形", "3D打印纹理", "中性配色", "系列变体", "全彩Hue"]
+    hero_feature: "暖灰底座与粉色玻璃罩的低饱和对比，柔和耐看"
+    problem_solved: "为追求低调中性风格用户提供选项，扩大系列覆盖面"
+    transferable_technique: "中性灰底座降低整体饱和度，提升产品百搭性"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_台灯_006"
+    source_images:
+      - filename: "13.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意台灯/13.jpg"
+        image_role: "hero"
+        visual_anchor: "浅灰竖纹锥形底座 + 半透明粉色球形玻璃罩 + 品红色发光柱"
+    product_name: "Philips Hue Modo台灯（灰底球罩款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯"]
+    design_language:
+      silhouette: "球形罩坐于浅灰锥形底座，整体配色最为淡雅"
+      light_opening: "球形360°全向漫射"
+      thermal: "无外露散热结构"
+      cmf:
+        color: "浅暖灰底座 + 粉色半透明玻璃球罩"
+        material: "3D打印纹理聚合物底座 + 吹制玻璃球罩"
+        finish: "底座竖肋纹理，玻璃罩光滑"
+      mounting: "桌面独立放置，白色线缆"
+      signature_detail: "灰底球罩为系列最柔和版本，适合卧室等私密空间"
+    design_level:
+      score: 2
+      reason: "配色最保守，廓形也是常规球形，是系列中设计感最弱的变体"
+    design_tags: ["球形罩", "3D打印纹理", "淡雅配色", "系列变体", "卧室氛围灯"]
+    hero_feature: "浅灰底座+粉球罩的极低饱和度配色，夜间使用最不刺激眼睛"
+    problem_solved: "为对光线敏感的卧室场景提供最柔和配色选项"
+    transferable_technique: "极低饱和度配色方案用于助眠/卧室类产品定位"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_台灯_007"
+    source_images:
+      - filename: "14.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意台灯/14.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色弧面壳体 + 大面积彩色渐变发光面板 + 双联体（前后两个单元）"
+    product_name: "Philips Hue Gradient Signe台灯/桌面情境灯（黑色双联款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯"]
+    design_language:
+      silhouette: "竖向站立的弓形/盾形轮廓，前后双联体组合，廓形刚硬有力"
+      light_opening: "大面积正面发光，彩色渐变光场（黄→橙→品红→紫）从上到下渐变"
+      thermal: "黑色后壳封闭，热管理内置不可见"
+      cmf:
+        color: "哑黑外壳 + 彩色渐变发光面"
+        material: "ABS/金属外壳 + 磨砂扩散面板"
+        finish: "外壳磨砂哑黑，面板半透明磨砂"
+      mounting: "桌面独立放置，黑色线缆底部出线"
+      signature_detail: "多区段彩色渐变发光，顶部金色窄边框收口，hue品牌标识清晰"
+    design_level:
+      score: 5
+      reason: "完全不同于同系列小台灯，大面积彩色渐变面板极具视觉震撼，双联造型独特，设计创新度最高"
+    design_tags: ["彩色渐变", "大面积发光", "双联造型", "情境灯", "Hue Gradient", "弓形廓形"]
+    hero_feature: "大面积多区段彩色渐变发光面板，一盏灯呈现完整色彩叙事"
+    problem_solved: "打破单色台灯局限，将情境氛围营造从点光源升级为面光源色彩画布"
+    transferable_technique: "多区LED独立控色实现渐变发光面板，可迁移至电视背景灯/展柜照明"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "pl_台灯_008"
+    source_images:
+      - filename: "16.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/philips_lighting/创意台灯/16.jpg"
+        image_role: "hero"
+        visual_anchor: "白色弧面壳体 + 大面积彩色渐变发光面板 + 双联体（前后两个单元）"
+    product_name: "Philips Hue Gradient Signe台灯/桌面情境灯（白色双联款）"
+    brand_name: "Philips Lighting"
+    brand_confidence: "high"
+    category_path: ["灯具", "创意台灯"]
+    design_language:
+      silhouette: "竖向弓形廓形，前后双联体，与007同造型，壳体改为白色"
+      light_opening: "大面积正面彩色渐变发光（黄→橙→品红→紫）"
+      thermal: "白色后壳封闭，热管理内置"
+      cmf:
+        color: "亮白外壳 + 彩色渐变发光面"
+        material: "ABS/金属外壳 + 磨砂扩散面板"
+        finish: "外壳光滑亮白，面板半透明磨砂"
+      mounting: "桌面独立放置，白色线缆底部出线"
+      signature_detail: "白色外壳在关灯状态下干净素雅，开灯后彩色渐变强烈对比"
+    design_level:
+      score: 4
+      reason: "同007造型，白色版更适合北欧/极简风格，亮白外壳与彩色光面的关/开状态对比强烈"
+    design_tags: ["彩色渐变", "大面积发光", "双联造型", "情境灯", "Hue Gradient", "白色版"]
+    hero_feature: "白色外壳关灯极简 + 开灯彩色渐变强反差体验"
+    problem_solved: "为偏好白色/亮色家居的用户提供同功能选项"
+    transferable_technique: "白色外壳+彩色发光面的开/关视觉反差设计策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

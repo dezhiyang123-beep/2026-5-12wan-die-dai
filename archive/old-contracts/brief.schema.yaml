@@ -1,0 +1,36 @@
+# brief.schema.yaml — 项目启动简报（用户填写，G0的输入）
+
+schema_version: "1.0"
+
+required:
+  project_id:
+    type: string
+    description: 项目唯一标识，格式 YYYYMMDD-客户缩写-品类缩写，如 20260403-ACG-LIGHT
+  client:
+    type: string
+    description: 客户名称，必须匹配 knowledge/clients/ 下的客户档案文件名
+  category:
+    type: string
+    description: 产品品类关键词，如"便携工作灯"/"EDC多功能工具"
+  brief_text:
+    type: string
+    description: 用户的原始需求描述，原文保留，不做推断
+
+optional:
+  price_target:
+    type: string
+    description: 目标零售价格带，如"$25-35"。缺失时从客户档案读取默认值
+  key_constraints:
+    type: list
+    description: 用户明确的不可触碰约束，如"必须FCC认证/不超过200g"
+  reference_products:
+    type: list
+    description: 用户提供的参考竞品或对标产品链接/名称
+  notes:
+    type: string
+    description: 其他补充说明
+
+validation:
+  - client 必须能匹配 knowledge/clients/ 下的.md文件，否则输出警告
+  - brief_text 不得为空
+  - project_id 不得与已有项目重复

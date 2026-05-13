@@ -1,0 +1,334 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电钻"
+  tertiary: "综合"
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "milwaukee_电钻_综合_001"
+    source_images:
+      - filename: "电钻__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "亮红色手枪型有绳电钻，侧视图，银灰色压铸前机壳，黑色卡盘，黑色D形侧把手，Milwaukee白色logo印于机身，散热槽位于后侧，黑色电线从握把底部延出"
+      - filename: "电钻__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__02.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "同款Magnum有绳电钻，略不同角度，黑色钥匙式卡盘，侧把手可见，整体造型相同"
+      - filename: "电钻__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__03.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "Magnum有绳电钻，较小机身（3/8卡盘），无侧把手，红色机身与银灰色前盖，黑色握把，Milwaukee logo可见"
+      - filename: "电钻__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__04.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "Magnum有绳电钻带侧把手，红机身，银灰色压铸前盖，黑色钥匙卡盘，侧视图"
+      - filename: "电钻__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__05.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "Magnum有绳电钻，快锁卡盘（无钥匙），侧把手，红机身，散热槽，Milwaukee logo"
+      - filename: "电钻__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__06.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "Magnum有绳电钻，白色灰色前盖+红机身，Milwaukee Magnum字样，快锁卡盘，斜45度视角"
+      - filename: "电钻__综合__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__11.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "Magnum有绳电钻，标准角度侧视，黑色卡盘圈，Milwaukee logo，散热槽，一致造型语言"
+      - filename: "电钻__综合__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__14.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "Magnum有绳电钻，快锁卡盘，黑色侧把手，红机身，Milwaukee logo清晰"
+    product_name: "Milwaukee Magnum 有绳手枪型电钻"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "有绳电钻"]
+    design_language:
+      silhouette: "手枪型（pistol-grip），机头水平前伸，握把垂直向下，整体横向拉伸感强；前端压铸前机壳为银灰色梭形，与红色机身形成强烈分件对比"
+      light_opening: "N/A（有绳，无LED灯）"
+      thermal: "机身后侧横向散热槽组，3-4条平行开缝，位于logo上方"
+      cmf:
+        color: "主色亮红色（Milwaukee标志红），次色银灰色压铸铝，细节黑色（卡盘、侧把手、电线）"
+        material: "机身：注塑ABS红色壳体；前盖：压铸铝合金；握把：硬塑，部分款有黑色橡胶包覆"
+        finish: "机身哑光红色，前盖银灰色自然铝感，logo区域丝印白色"
+      mounting: "有绳（尾部黑色橡胶电线）"
+      signature_detail: "银灰色压铸前机壳（前鼻锥）与红色机身的强分件线；Milwaukee斜体logo白色丝印居中；侧把手圆形黑色旋钮"
+    design_level:
+      score: 3
+      reason: "工业经典造型，分件明确，品牌识别度高，但整体语言偏传统，无现代科技感"
+    design_tags: ["有绳", "手枪型", "Magnum系列", "压铸前壳", "侧把手", "分件对比色"]
+    hero_feature: "银灰色压铸铝前机壳与亮红色机身的强对比分件线"
+    problem_solved: "大扭矩有线电钻需求，适合长时间连续工作场景"
+    transferable_technique: "压铸金属前壳+注塑彩色机身的两段式分件法（H03分件线+H10材料表达）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_电钻_综合_002"
+    source_images:
+      - filename: "电钻__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__08.jpg"
+        image_role: "hero"
+        visual_anchor: "老一代Magnum有绳电钻，白色/灰色前机壳（更大范围覆盖），红色机身，钥匙式卡盘，侧把手螺栓可见，Milwaukee Magnum字样"
+      - filename: "电钻__综合__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__09.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "同款老Magnum，角度略有不同，白灰色前壳更加突出，Milwaukee标签贴纸在前盖上"
+      - filename: "电钻__综合__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__12.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "老Magnum有绳电钻，较小机型，纸质标签贴于前盖，白灰前壳，红机身"
+    product_name: "Milwaukee Magnum 有绳电钻（老款白前壳版）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "有绳电钻"]
+    design_language:
+      silhouette: "手枪型，机头水平延伸，白/灰色前机壳覆盖范围更大，占据整个头部1/2，红色机身比例更小"
+      light_opening: "N/A"
+      thermal: "机身侧面少量散热槽"
+      cmf:
+        color: "白灰色前机壳，亮红色机身，黑色把手/卡盘"
+        material: "前壳：注塑白灰色；机身：红色ABS；握把：硬塑带纹路"
+        finish: "哑光白灰与哑光红，标签贴纸识别信息"
+      mounting: "有绳"
+      signature_detail: "较大面积白灰色前壳，Milwaukee标签贴纸标识"
+    design_level:
+      score: 2
+      reason: "早期设计语言，功能导向，品牌识别靠贴纸而非成型logo，设计整合度低"
+    design_tags: ["有绳", "手枪型", "Magnum老款", "白灰前壳", "贴纸标签"]
+    hero_feature: "大面积白灰色前机壳，功能形态明确的分段机身"
+    problem_solved: "大功率钻孔，长时间有线工作"
+    transferable_technique: "双色机壳分段法，功能区域视觉区分（H03分件线）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_电钻_综合_003"
+    source_images:
+      - filename: "电钻__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__07.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee有绳支架式（Brace/Breast drill），白色主机身，顶部竖立金属杆+黑色T形握把，侧面红色扳机，正前方视角，机头卡盘朝下，造型垂直"
+    product_name: "Milwaukee Brace 支架式有绳电钻"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "有绳电钻", "支架式"]
+    design_language:
+      silhouette: "垂直轴型（brace drill），竖长比例，顶部T形握把，底部卡盘，机身正面有红色扳机/护手"
+      light_opening: "N/A"
+      thermal: "N/A（电机内置散热）"
+      cmf:
+        color: "主色白/浅灰色机身，红色扳机/护手，黑色顶部握把，金属银杆"
+        material: "机身注塑，金属内杆，橡胶顶握把"
+        finish: "哑光白灰机身，黑色橡胶握把"
+      mounting: "有绳"
+      signature_detail: "竖直轴线设计，顶部金属杆+T形握把，红色扳机护手"
+    design_level:
+      score: 2
+      reason: "专业工业设计，功能明确，但视觉语言老旧，非Milwaukee主流现代造型"
+    design_tags: ["有绳", "支架式", "T形握把", "专业型", "垂直轴"]
+    hero_feature: "顶部竖直金属杆与T形握把构成的垂直操作轴线"
+    problem_solved: "需要双手支撑、大进给力的大直径钻孔作业"
+    transferable_technique: "顶部辅助握把设计，增加进给控制力（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_电钻_综合_004"
+    source_images:
+      - filename: "电钻__综合__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__10.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee Magnum D形握把有绳电钻，水平机身延伸，D形矩形大握把（非手枪型），红色机身，银灰色前机壳，右侧锁定杆，Milwaukee logo在机身中段"
+      - filename: "电钻__综合__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__13.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "同款D形握把电钻，角度略有不同，红色机身，右侧护手锁定杆，Milwaukee logo，散热槽"
+    product_name: "Milwaukee Magnum D形握把有绳电钻"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "有绳电钻", "D形握把"]
+    design_language:
+      silhouette: "D形握把型（D-handle），机身整体水平，握把呈D形矩形大环，右侧有锁定杆，整体造型比手枪型更长"
+      light_opening: "N/A"
+      thermal: "后侧散热槽组"
+      cmf:
+        color: "红色机身，银灰色前机壳，黑色把手区域"
+        material: "注塑ABS机身，压铸铝前壳，金属锁定杆"
+        finish: "哑光红，银灰铝感"
+      mounting: "有绳"
+      signature_detail: "D形大握把环，右侧金属锁定转向杆"
+    design_level:
+      score: 3
+      reason: "D形握把提供更强的双手控制力，功能驱动的造型逻辑清晰，Milwaukee分件语言一致"
+    design_tags: ["有绳", "D形握把", "Magnum系列", "大扭矩", "专业型"]
+    hero_feature: "D形矩形握把环，提供双手高扭矩操作的人机工程"
+    problem_solved: "高扭矩混凝土/金属钻孔，防扭矩反冲，双手控制稳定性"
+    transferable_technique: "D形握把的双手控制结构，适合高扭矩工况（H12人机界面强化）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_电钻_综合_005"
+    source_images:
+      - filename: "电钻__综合__16.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__16.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL Hole Hawg直角电钻，无电池裸机，红+黑双色，黑色大型矩形机头（HOLE HAWG字样压印），红色中段（FUEL logo+Milwaukee logo），黑色D形握把，QUIK-LOK红色快锁接头"
+      - filename: "电钻__综合__17.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__17.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "同款Hole Hawg，另一角度，黑色前机头，HOLE HAWG字样，Milwaukee FUEL字样，红色中机壳，黑色D形握把，QUIK-LOK接头"
+      - filename: "电钻__综合__18.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__18.jpg"
+        image_role: "with_battery"
+        visual_anchor: "Hole Hawg配M18 REDLITHIUM XC6.0电池，完整套装侧视，黑色前机头+红色中壳+红色M18电池包"
+      - filename: "电钻__综合__19.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__19.jpg"
+        image_role: "with_battery"
+        visual_anchor: "Hole Hawg配M18电池，斜45度视角，黑色前机头+红中壳，D形握把，电池插入底部"
+      - filename: "电钻__综合__23.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__23.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "Hole Hawg带M18 REDLITHIUM电池，斜45度视角，QUIK-LOK接头可见"
+      - filename: "电钻__综合__21.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__21.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "M18 FUEL Hole Hawg套装，包含工具+2块M18电池+充电器+Milwaukee红色工具包，产品陈列照"
+      - filename: "电钻__综合__24.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__24.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "M18 FUEL Hole Hawg套装，Milwaukee M18 FUEL红色工具包背景，带2电池+充电器"
+      - filename: "电钻__综合__25.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__25.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "M18 FUEL Hole Hawg套装，带M18 FUEL工具包，2块红色大容量电池+充电器"
+      - filename: "电钻__综合__26.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__26.jpg"
+        image_role: "kit_photo"
+        visual_anchor: "M18 FUEL Hole Hawg套装，略小的套装图，Milwaukee包+2电池+充电器"
+    product_name: "Milwaukee M18 FUEL Hole Hawg 直角无绳电钻"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "直角电钻", "无绳"]
+    design_language:
+      silhouette: "直角型（right-angle），机头90°垂直于机身，黑色大矩形前机头占比很大，红色中段机身连接D形握把，整体呈L形轮廓"
+      light_opening: "前机头顶部有通风/散热缝"
+      thermal: "前机头顶部散热"
+      cmf:
+        color: "前机头黑色（哑光工程塑料），中段机壳亮红色，握把区域黑色橡胶包覆，QUIK-LOK接头红色金属"
+        material: "机头：黑色工程塑料；中机壳：红色注塑ABS；握把：黑色TPR包覆；QUIK-LOK：红色铝合金"
+        finish: "机头哑光黑，机壳亮红，握把纹路防滑，QUIK-LOK金属质感"
+      mounting: "M18 REDLITHIUM电池，底部插入式"
+      signature_detail: "QUIK-LOK红色快锁接头（可快速更换附件）；HOLE HAWG品牌字样压印黑色机头；D形顶部握把"
+    design_level:
+      score: 4
+      reason: "现代Milwaukee FUEL语言，红+黑双色强对比，QUIK-LOK系统功能创新，品牌字样与造型高度整合"
+    design_tags: ["无绳", "直角型", "M18 FUEL", "Hole Hawg", "QUIK-LOK", "黑红双色", "D形握把"]
+    hero_feature: "红色QUIK-LOK快锁接头系统，黑色大机头与红色机身的强对比"
+    problem_solved: "墙壁/楼板内管道作业，空间受限直角钻孔，快速换头"
+    transferable_technique: "黑色功能机头+彩色品牌机身的两段式色彩逻辑；快锁系统外显（H11功能外显+H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_电钻_综合_006"
+    source_images:
+      - filename: "电钻__综合__20.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__20.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee M18 FUEL Super Hawg超大直角无绳电钻，无电池裸机，黑色前机头（SUPER HAWG字样），红色中段（Milwaukee FUEL logo），黑色D形握把，QUIK-LOK接头，机头更长更宽"
+      - filename: "电钻__综合__22.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__22.jpg"
+        image_role: "variant_angle"
+        visual_anchor: "Super Hawg另一角度，黑色宽大前机头，Milwaukee FUEL logo，红色机壳，QUIK-LOK接头，传动齿轮箱可见"
+    product_name: "Milwaukee M18 FUEL Super Hawg 超大直角无绳电钻"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "直角电钻", "无绳", "大型"]
+    design_language:
+      silhouette: "直角型L形，机头比Hole Hawg更宽更长，整体体量更大，黑色机头占据视觉主体"
+      light_opening: "机头顶部通风缝"
+      thermal: "机头顶部散热"
+      cmf:
+        color: "前机头哑光黑，中段亮红，QUIK-LOK红色，握把黑色橡胶"
+        material: "工程塑料+ABS+TPR+铝合金"
+        finish: "哑光黑机头，亮红中壳，金属QUIK-LOK"
+      mounting: "M18电池底部插入"
+      signature_detail: "SUPER HAWG字样压印大机头，QUIK-LOK，Milwaukee FUEL标识"
+    design_level:
+      score: 4
+      reason: "大型版Hole Hawg，造型逻辑一致，更强的体量感，专业工程感强"
+    design_tags: ["无绳", "直角型", "M18 FUEL", "Super Hawg", "QUIK-LOK", "大型专业"]
+    hero_feature: "超大黑色机头体量，QUIK-LOK快锁系统"
+    problem_solved: "大直径木材/混凝土直角钻孔，大扭矩高负荷场景"
+    transferable_technique: "功能体量的视觉外显，大机头与细握把的比例对比（H08对比强调）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "milwaukee_电钻_综合_007"
+    source_images:
+      - filename: "电钻__综合__27.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__27.jpg"
+        image_role: "hero"
+        visual_anchor: "Milwaukee老款无绳直角电钻（M28系列），白/银灰机身，红色机壳中段，黑色D形握把，传统直角机头设计，无QUIK-LOK，金属传动箱可见，侧视角"
+      - filename: "电钻__综合__28.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/milwaukee/电钻/电钻__综合__28.jpg"
+        image_role: "with_battery"
+        visual_anchor: "Milwaukee M28无绳直角电钻，带M28 LITHIUM-ION电池包，白/银灰机身+红中壳，较早一代设计语言"
+    product_name: "Milwaukee M28 无绳直角电钻（老款）"
+    brand_name: "Milwaukee"
+    brand_confidence: "high"
+    category_path: ["电动工具", "电钻", "直角电钻", "无绳"]
+    design_language:
+      silhouette: "直角L形，机头传统矩形，白/灰色机壳占比大，红色较少，整体色调偏白灰，较早期设计"
+      light_opening: "N/A"
+      thermal: "机身散热槽"
+      cmf:
+        color: "白灰色机壳主色，红色中段，黑色握把"
+        material: "注塑ABS，金属传动箱"
+        finish: "哑光白灰，红色"
+      mounting: "M28电池底部插入"
+      signature_detail: "白/灰色机头，传统直角机头无快锁，Milwaukee logo红色贴纸"
+    design_level:
+      score: 2
+      reason: "老款设计，白灰色主调与现代Milwaukee红黑语言不同，品牌识别度较低"
+    design_tags: ["无绳", "直角型", "M28", "老款", "白灰机身"]
+    hero_feature: "传统直角机头，Milwaukee品牌早期设计语言"
+    problem_solved: "直角钻孔作业"
+    transferable_technique: "N/A（老款参考价值有限）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

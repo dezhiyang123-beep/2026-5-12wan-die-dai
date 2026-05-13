@@ -1,0 +1,104 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "电工工具"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电工工具/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_电工工具_001"
+    source_images:
+      - filename: "电工工具__压接工具__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电工工具/电工工具__压接工具__01.jpg"
+        image_role: "scene"
+        visual_anchor: "压接模具套装（12件），黑色蛤壳塑料盒（黑色海绵定位槽），12个银色圆形压接模具（六角形中心孔，不同尺寸），无彩色标识"
+      - filename: "电工工具__压接工具__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电工工具/电工工具__压接工具__02.jpg"
+        image_role: "scene"
+        visual_anchor: "压接模具套装（15件更完整版），同款黑色蛤壳盒，15个模具（部分带蓝色/红色标识点区分规格），规格更全"
+    product_name: "DeWalt Crimping Die Set (12-piece / 15-piece)"
+    brand_name: "DeWalt"
+    brand_confidence: "medium"
+    category_path:
+      - "电动工具"
+      - "电工工具"
+      - "压接配件"
+    design_language:
+      silhouette: "黑色蛤壳收纳盒，海绵定位槽规则排列圆形模具，系统化收纳"
+      light_opening: "N/A"
+      thermal: "N/A"
+      cmf:
+        color: "黑色（收纳盒）+ 银色（模具本体）+ 彩色点（规格标识）"
+        material: "工程塑料收纳盒，钢质压接模具"
+        finish: "黑色注塑，镀铬模具"
+      mounting: "配套液压压接工具使用，模具插入工具头"
+      signature_detail: "蛤壳盒开合展示所有模具，黑色海绵槽的规则网格排布强化系统专业感"
+    design_level:
+      score: 2
+      reason: "标准配件套装设计，黑色收纳盒+规则排列，功能性为主，无视觉亮点"
+    design_tags:
+      - "压接配件"
+      - "套装"
+      - "系统化收纳"
+    hero_feature: "黑色蛤壳盒内海绵定位槽规则排列，配件即产品，收纳系统化"
+    problem_solved: "电工现场压接不同规格线缆接头，套装覆盖AWG规格范围"
+    transferable_technique: "配件套装的蛤壳盒+海绵定位槽系统——专业感来自秩序感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: true
+    review_reason: "图像中未见明显DEWALT品牌标识，品牌归属依赖文件夹分类，建议确认"
+
+  - product_id: "dewalt_电工工具_002"
+    source_images:
+      - filename: "电工工具__螺杆切断器__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电工工具/电工工具__螺杆切断器__01.jpg"
+        image_role: "scene"
+        visual_anchor: "20V MAX螺杆切断器套装：黄色工具袋（黑色提手+DeWalt黑体字）+充电器+螺杆切断器主机（黄色机身，黑色D形提手，银色切断口在右端）"
+      - filename: "电工工具__螺杆切断器__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/电工工具/电工工具__螺杆切断器__02.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX螺杆切断器裸机特写，侧视角：左侧黑色20V MAX大电池块，黄色主体（散热肋+DEWALT标签），黑色D形顶部提手（带防滑纹），右端银色切断口（可见刀刃）"
+    product_name: "DeWalt 20V MAX Cordless Threaded Rod Cutter"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "电工工具"
+      - "螺杆切断器"
+    design_language:
+      silhouette: "方形厚实主体，顶部D形提手呈半圆拱，左侧电池块外挂（宽度约占总宽40%），右端切断口凸出，整体呈宽矩形+拱形手柄剪影"
+      light_opening: "N/A（电动工具）；右端切断口是功能开口"
+      thermal: "主体腰部横向散热肋（约5条），竖向排列"
+      cmf:
+        color: "黄色（主体机身）+ 黑色（D形提手+电池块+散热区）+ 银色（切断口刀刃）"
+        material: "工程塑料机身，TPR防滑提手，钢质刀刃，工程塑料电池"
+        finish: "哑光黄，哑光黑橡胶，不锈钢刀刃"
+      mounting: "20V MAX标准电池侧挂式（非底部滑入，为侧面卡扣式大电池）"
+      signature_detail: "D形半圆顶部提手是品类特征，使操作者可像拎手提箱一样携带工具到高处或板孔后操作"
+    design_level:
+      score: 4
+      reason: "D形提手与方形机体的组合是螺杆切断器品类典型形态，20V无绳+侧挂大电池设计使操作者可单手抓握提手、另一手稳定，专业人机工程考量"
+    design_tags:
+      - "20V MAX"
+      - "无绳"
+      - "螺杆切断器"
+      - "D形提手"
+      - "H12_人机界面强化"
+      - "H11_功能外显"
+    hero_feature: "方形机体顶部的D形半圆提手，提供拎提和单手稳定两种操作模式"
+    problem_solved: "电工现场无绳切断螺杆/全牙螺栓，无需角磨机+切割片，更安全/更精准/免火花"
+    transferable_technique: "D形提手替代枪形把手，将工具的携带模式与操作模式合一（H12人机界面）"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

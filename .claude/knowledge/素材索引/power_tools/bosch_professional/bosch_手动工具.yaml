@@ -1,0 +1,52 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "手动工具（电动螺丝刀）"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/手动工具/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "bosch_手动工具_001"
+    source_images:
+      - filename: "电钻__螺丝刀__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/手动工具/电钻__螺丝刀__01.jpg"
+        image_role: "hero"
+        visual_anchor: "18V冲击起子GDX18V-1860C，深宝蓝色枪型机身，黑色头部压铸件搭配红色扳机，六角批头夹头，侧面挂钩为银灰色冲压钢件，底部CORE18V蓄电池带红色解锁按钮"
+      - filename: "电钻__螺丝刀__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/手动工具/电钻__螺丝刀__02.jpg"
+        image_role: "variant"
+        visual_anchor: "18V干墙螺丝刀GTB18V-45，蓝色枪身+黑色钻头组件，深度限位环可见，红色扳机，同款CORE18V电池和银灰侧挂钩"
+      - filename: "电钻__螺丝刀__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/bosch_professional/手动工具/电钻__螺丝刀__03.jpg"
+        image_role: "variant"
+        visual_anchor: "12V紧凑型冲击起子，深蓝色短枪身，扁平黑色圆形夹头，红色扳机，侧面圆形正反转拨杆，机身更短小"
+    product_name: "Bosch Professional 18V / 12V 冲击起子 / 干墙螺丝刀系列"
+    brand_name: "Bosch Professional"
+    brand_confidence: "high"
+    category_path: ["电动工具", "手动工具", "电动螺丝刀"]
+    design_language:
+      silhouette: "标准枪型轮廓，头部前伸，握把竖直，电池底座水平外扩；12V款机身更短小紧凑"
+      light_opening: "N/A"
+      thermal: "机身侧面和顶部有条形通气槽，黑色压铸外壳兼做散热件"
+      cmf:
+        color: "主色深宝蓝（Bosch Professional Blue），次色哑光黑，红色功能强调（扳机、解锁按钮）"
+        material: "ABS工程塑料机身，压铸铝/锌合金头部，软质TPR握把覆层，冲压钢侧挂钩"
+        finish: "蓝色亮面注塑，黑色头部砂纹，银灰挂钩拉丝"
+      mounting: "滑入式底部电池（18V CORE18V / 12V Li-Ion）"
+      signature_detail: "红色解锁按钮+银灰侧挂钩组合，BOSCH圆形蓝底白字LOGO居中显示，BRUSHLESS/EC标识强调无刷"
+    design_level:
+      score: 3
+      reason: "品牌设计语言高度统一，红蓝黑三色分工明确，细节执行到位；造型沿用标准枪型，创新度不高但专业度强"
+    design_tags: ["H02包覆", "H08对比强调", "H11功能外显"]
+    hero_feature: "红色扳机+蓝色机身+黑色压铸头部的三色分件语言，一眼识别专业感"
+    problem_solved: "在紧凑尺寸内传达18V/12V专业级视觉可信度，区别于DIY绿色线"
+    transferable_technique: "功能部件用深色压铸件，操控件用高饱和度对比色（红色），结构件用中性银灰——三层配色映射三种材料逻辑"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

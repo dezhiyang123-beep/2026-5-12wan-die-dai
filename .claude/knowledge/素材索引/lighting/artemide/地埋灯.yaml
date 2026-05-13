@@ -1,0 +1,51 @@
+schema_version: product_dna_v1
+category:
+  primary: 灯具
+  secondary: 地埋灯
+  tertiary: 地埋灯
+source:
+  source_type: brand_official
+  source_folder: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/地埋灯/
+  generated_at: '2026-05-07'
+products:
+- product_id: artemide_地埋灯_001
+  source_images:
+  - filename: 11.jpg
+    source_path: C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/artemide/地埋灯/11.jpg
+    image_role: hero
+    visual_anchor: 墙面展示红色圆柱和白色方盒两种上下双向出光体，光束形成尖锐三角洗墙。
+  product_name: unknown
+  brand_name: Artemide
+  brand_confidence: high
+  category_path:
+  - 灯具
+  - 地埋灯
+  design_language:
+    silhouette: 矩形/方柱几何体为主体，边界直线清楚，开口集中在底部、侧面或顶部节点
+    light_opening: 底部、边缘或上下向的矩形/窄缝出光口，强调建筑化洗墙或面光效果
+    thermal: 散热借助金属盒体和背板隐藏完成，外观不暴露鳍片
+    cmf:
+      color: 白色/乳白色发光面为主，配浅灰或金属结构
+      material: 喷涂金属、工程塑料和漫射罩组合
+      finish: 哑光喷涂或柔光扩散表面，边缘处理干净
+    mounting: 贴墙、吸顶、吊装或桌面摆放，安装语言强调平整贴合和隐藏紧固
+    signature_detail: 墙面展示红色圆柱和白色方盒两种上下双向出光体，光束形成尖锐三角洗墙
+  design_level:
+    score: 4
+    reason: 4分：关键结构和光学处理清楚，比例克制，有可直接迁移的控光、减薄或安装处理。
+  design_tags:
+  - Artemide
+  - 地埋灯
+  - 方盒
+  - 灯具
+  - 逐张视觉识别
+  hero_feature: 墙面展示红色圆柱和白色方盒两种上下双向出光体，光束形成尖锐三角洗墙
+  problem_solved: 户外灯具需要控制眩光、耐候安装，并把光有效投向路径或立面。
+  transferable_technique: 用纯几何盒体包住光学腔，把出光口压到边缘或底面以保持立面干净
+  confidence:
+    visual_description: high
+    category: high
+    brand: high
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

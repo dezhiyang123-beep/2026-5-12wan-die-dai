@@ -1,0 +1,266 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "便携灯"
+  tertiary: ""
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/"
+  generated_at: "2026-05-09"
+# 子类：头灯(5)、应急灯(11)、手电筒(48)、补光灯(29)、露营灯(19)，共112张
+
+products:
+  - product_id: "if_灯具_便携灯_头灯_001"
+    source_images:
+      - filename: "头灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/头灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "银白色圆角矩形紧凑灯体（约90x60mm），正面偏右有圆形LED投射镜，左侧有充电指示缺口，整体呈扁盒形"
+      - filename: "头灯/02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/头灯/02.jpg"
+        image_role: "variant"
+        visual_anchor: "同款设计黑色版本，正面有圆形LED镜头和圆形红色电源按钮，防水展示（水花飞溅），底部有卡扣连接件"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "头灯"]
+    design_language:
+      silhouette: "扁平圆角矩形盒体，高度极低（约25mm），正面镜头偏置于右上区域，形成非对称布局"
+      light_opening: "圆形聚光镜头，直径约25mm，正面定向聚光"
+      thermal: "低功率LED集成于紧凑模块，通过外壳散热"
+      cmf:
+        color: "银白/黑双色版本"
+        material: "铝合金或工程塑料外壳"
+        finish: "亮面银色或哑黑涂装"
+      mounting: "头带/胸前夹/自行车安装，底部有通用卡扣"
+      signature_detail: "扁平矩形体型中的圆形镜头：用消费电子产品的圆角矩形语言包装专业头灯，使其兼具日用产品的亲和感"
+    design_level:
+      score: 4
+      reason: "将头灯从'户外工具'语义转向'消费电子'语义：圆角矩形扁盒形态、镜面银色CMF都指向消费电子而非户外工具；在头灯品类中具有明显的差异化视觉语言"
+    design_tags:
+      - "消费电子感头灯"
+      - "扁平圆角矩形"
+      - "偏置镜头"
+      - "H07极简整合"
+      - "H10材料表达"
+    hero_feature: "圆角矩形扁盒+偏置圆形镜头：彻底打破传统头灯的圆柱/圆形形态，用手机/数码相机的造型逻辑重新定义便携照明"
+    problem_solved: "传统头灯造型功能化过强，日常EDC场景（城市骑行/健身）中携带感到尴尬；消费电子化造型使头灯成为可以日常展示的配件"
+    transferable_technique: "将专业功能产品（头灯/电筒/测量仪）以消费电子品类的造型语言（圆角矩形扁盒、阳极铝外壳）重新设计的跨品类迁移手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_便携灯_应急灯_001"
+    source_images:
+      - filename: "应急灯/04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/应急灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "白色胶囊形灯体插入墙壁插座上方，三态展示：待机（白色）/警报进行（绿色LED矩阵显示SOS图标）/SOS激活（橙色发光+爆炸图标显示SOS按钮/LED矩阵/扬声器标注）"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "应急灯"]
+    design_language:
+      silhouette: "圆润胶囊/长方圆角体，直插插座无额外底座，灯体正面为全漫射LED矩阵显示面"
+      light_opening: "正面LED矩阵（可视化信息显示+照明双功能），发光颜色可变（白/绿/橙）"
+      thermal: "低功率，插座直充，内置电池，无主动散热需求"
+      cmf:
+        color: "全白（平时），绿色/橙色（警报状态）"
+        material: "ABS工程塑料"
+        finish: "哑白磨砂"
+      mounting: "直插壁装电源插座"
+      signature_detail: "LED矩阵视觉方向引导：不仅照明，还通过点阵图案提示疏散方向，将导向信息嵌入光的表达中"
+    design_level:
+      score: 4
+      reason: "将应急灯的'指示'功能从纯功能性绿灯升级为可编程LED矩阵信息显示，使应急灯成为智能疏散系统的终端节点；三态视觉（白/绿/橙）的状态语义清晰"
+    design_tags:
+      - "插座应急灯"
+      - "LED矩阵显示"
+      - "状态颜色编码"
+      - "SOS功能"
+      - "H12人机界面强化"
+      - "H11功能外显"
+    hero_feature: "LED矩阵状态显示：应急灯正面是可编程LED点阵，平时充电待机、警报时变色显示疏散图标+扬声器方向，把被动发光升级为主动信息传递"
+    problem_solved: "传统应急灯只能提供单向照明，无法传达疏散方向；LED矩阵+颜色编码使应急灯成为双向信息终端，提升紧急情况下的疏散效率"
+    transferable_technique: "LED矩阵+颜色状态编码的'可编程发光面'语言可迁移到任何需要传达多状态信息的产品（充电宝/路由器/安防设备）；插座直充形态在应急灯中消除了安装门槛"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_便携灯_手电筒_001"
+    source_images:
+      - filename: "手电筒/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/01.jpg"
+        image_role: "hero"
+        visual_anchor: "LEDLENSER TAC6R黑色战术手电，圆柱铝体，前段细后段粗，全身密集菱形网格纹路，前端红色环形光学件，侧面银色品牌标识，附金属侧夹"
+    product_name: "TAC6R"
+    brand_name: "Ledlenser"
+    brand_confidence: "high"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "圆柱形，前段略细后段略粗，高度约160mm，全段等截面旋转体，前端设光学头段"
+      light_opening: "前端圆形聚焦镜头，带红色环形警示圈，可调焦（推拉变焦）"
+      thermal: "铝合金筒体全程散热，无外置散热结构，网格纹路增加有效散热面积"
+      cmf:
+        color: "全黑"
+        material: "航空铝合金（阳极氧化）"
+        finish: "黑色硬质阳极氧化 + 全身密集菱形网格滚花"
+      mounting: "手持，金属侧夹可固定于腰带/衣袋"
+      signature_detail: "红色环形光学件：前端镜头周围的红色圆环，在视觉上强化了照明方向感，也是战术手电的品类视觉符号"
+    design_level:
+      score: 4
+      reason: "网格滚花纹路既是防滑功能件又是战术美学的核心视觉语言；红色环形的颜色点缀在全黑筒体上产生强烈的视觉焦点；前细后粗的比例提升握持重心体验"
+    design_tags:
+      - "战术手电"
+      - "菱形网格滚花"
+      - "红色对比色环"
+      - "可调焦"
+      - "H10材料表达"
+      - "H08对比强调"
+    hero_feature: "全黑铝体+红色光学环：纯黑哑面铝合金筒体与前端红色圆环的对比，在手电这个功能导向品类中注入了清晰的视觉识别点"
+    problem_solved: "战术手电需要极强的握持防滑性、夜间操作的盲操体验和视觉上的专业可信感；菱形网格+红色光学环+重心设计共同解决了功能与视觉识别的双重需求"
+    transferable_technique: "全程密集网格纹理（菱形/直纹/斜纹）作为手持设备的核心防滑兼视觉语言可迁移到电钻/手动工具/户外装备；单一对比色点缀（红环/黄接缝）在全色系产品中创造焦点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_便携灯_手电筒_002"
+    source_images:
+      - filename: "手电筒/10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/手电筒/10.jpg"
+        image_role: "hero"
+        visual_anchor: "两款圆角矩形多功能手电（橙色+灰色），正面上半为圆形LED聚光头（带菊齿散热圈），下半为4×3点阵LED显示屏，整体紧凑如打火机大小"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "手电筒"]
+    design_language:
+      silhouette: "超紧凑圆角矩形，厚约15mm，高约65mm，宽约40mm，比打火机略大，可捏握或夹持"
+      light_opening: "正面圆形LED聚光头（上部），搭配菊齿散热圈；下部为4x3 LED点阵屏，双功能区分件"
+      thermal: "菊齿散热环围绕LED头，增大散热面积"
+      cmf:
+        color: "橙色或深灰色版本"
+        material: "铝合金或高强度塑料"
+        finish: "橙色哑面/灰色哑面 + 正面双功能区"
+      mounting: "手持/夹持，EDC随身携带"
+      signature_detail: "聚光头+点阵显示屏的双区正面：同一个正面上分为照明区（上）和信息显示区（下），形态上统一为圆角矩形，功能上实现了手电+信号灯+信息显示的集成"
+    design_level:
+      score: 4
+      reason: "将LED点阵信息显示引入超紧凑手电，使照明工具同时具备SOS信号/电量显示/模式指示功能；橙色版本以颜色识别强化了急救/搜救场景的语义"
+    design_tags:
+      - "EDC迷你手电"
+      - "LED点阵屏"
+      - "双功能正面"
+      - "菊齿散热环"
+      - "H12人机界面强化"
+      - "H11功能外显"
+    hero_feature: "聚光头+点阵屏双功能正面：超紧凑手电在同一个正面分区集成了照明镜头和LED信息矩阵，实现手电+信号器+状态显示三合一"
+    problem_solved: "EDC手电需要在极小体积内集成照明+SOS信号+状态显示；正面双区设计通过明确的功能分区解决了多功能与形态紧凑的矛盾"
+    transferable_technique: "在紧凑产品正面进行'上功能/下显示'或'左功能/右信息'的双区布局，适用于任何需要在小体积内集成多功能的手持设备；菊齿散热圈作为功能兼美学元素的外显手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_便携灯_露营灯_001"
+    source_images:
+      - filename: "露营灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/露营灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "拉丝不锈钢仿油灯造型露营灯：瓶形钢体底座，顶部有透明玻璃烟囱罩，内有可见灯丝状LED模块，侧面有黄铜调光旋钮，两侧有皮革提手"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "便携灯", "露营灯"]
+    design_language:
+      silhouette: "仿油灯形态：圆柱形金属底座（瓶形，腰部略收），顶部玻璃烟囱罩，整体高度约280mm"
+      light_opening: "玻璃烟囱罩全侧面漫射发光，模拟火焰光效的LED暖光，360°全向散光"
+      thermal: "LED集成于内部金属支柱，热量经金属底座散逸"
+      cmf:
+        color: "拉丝不锈钢本色（底座）+ 透明玻璃（罩）+ 黄铜件（旋钮/提手五金）+ 皮革（提手带）"
+        material: "不锈钢底座 + 硼硅玻璃烟囱 + 黄铜旋钮 + 皮革提手"
+        finish: "拉丝不锈钢 + 透明玻璃 + 磨砂黄铜"
+      mounting: "桌面放置，皮革提手可手提/挂钩"
+      signature_detail: "玻璃烟囱内的可见灯丝LED模块：透过玻璃可见金属灯丝网格结构，复刻了煤油灯的内部视觉美感，将现代LED技术用传统工艺语言包装"
+    design_level:
+      score: 5
+      reason: "材料组合（钢/玻璃/黄铜/皮革）高度克制且统一，每种材料都有历史工艺联想；仿油灯形态在露营灯中既具功能合理性（全向散光/可手提）又具强烈情感叙事；灯丝LED+玻璃烟囱的组合是功能与美学的完美统一"
+    design_tags:
+      - "仿油灯造型"
+      - "玻璃烟囱"
+      - "拉丝钢黄铜皮革"
+      - "灯丝LED"
+      - "露营情感设计"
+      - "H10材料表达"
+      - "H07极简整合"
+    hero_feature: "玻璃烟囱+灯丝LED+多材料混搭：透过玻璃罩可见发光灯丝模块，配合不锈钢瓶体、黄铜旋钮、皮革提手，在LED露营灯中创造出煤油灯的工艺叙事"
+    problem_solved: "露营灯市场充斥塑料感工具类产品；本设计解决了'在自然环境中如何创造精致质感体验'的问题，通过仿油灯形态和传统材料组合，将照明工具升级为生活方式物件"
+    transferable_technique: "用传统工艺形态（油灯/煤油灯/蜡烛台）+现代光源（LED）+天然材料组合（钢/铜/皮革/玻璃）创造'现代传统'产品语言；皮革提手+金属五金的组合适用于所有需要提升质感的便携设备"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_便携灯_补光灯_001"
+    source_images:
+      - filename: "补光灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "两款摄影补光灯对比展示：左为银灰COB LED头+金色内壁反射碗，右为方形LED头+圆形卡口+黑色外反射碗，均通过球形关节安装在灯架上"
+      - filename: "补光灯/05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/便携灯/补光灯/05.jpg"
+        image_role: "detail"
+        visual_anchor: "NEEWER方形LED补光灯：银灰色正方铝体（约200mm），正面圆形Bowens卡口内有蜂窝微透镜面板，侧面有散热栅格，控制面板有圆形OLED显示屏显示亮度/色温/CRI参数"
+    product_name: ""
+    brand_name: "NEEWER"
+    brand_confidence: "medium"
+    category_path: ["灯具", "便携灯", "补光灯"]
+    design_language:
+      silhouette: "正方形主机（约200x200mm），前面板为圆形Bowens卡口凸出，控制面板位于主机后面，架装式"
+      light_opening: "圆形蜂窝微透镜面板（Bowens标准口），可接各种修光附件"
+      thermal: "侧面铝合金散热栅格，COB/LED阵列的主要散热路径"
+      cmf:
+        color: "银灰色主体（铝合金）"
+        material: "铝合金机身 + 蜂窝微透镜 + OLED显示屏"
+        finish: "拉丝铝合金 + 黑色散热栅格"
+      mounting: "标准灯架球形关节安装，1/4螺纹口"
+      signature_detail: "方形机身+圆形Bowens卡口：正方形主机嵌套圆形光学卡口的几何组合，在摄影灯领域形成独特识别点；OLED控制面板显示实时亮度/色温参数"
+    design_level:
+      score: 4
+      reason: "银灰铝合金方形主机配蜂窝微透镜面板，工业设备感强；OLED参数显示屏提升了专业感和操控精准度；方圆嵌套的几何关系在摄影灯中有识别性"
+    design_tags:
+      - "摄影补光灯"
+      - "方形铝合金机身"
+      - "蜂窝微透镜"
+      - "OLED控制面板"
+      - "Bowens卡口"
+      - "H11功能外显"
+      - "H10材料表达"
+    hero_feature: "方形铝机身+蜂窝微透镜+OLED控制屏：三个元素共同构建了'专业摄影设备'的视觉语言——银灰铝体传达精密感，蜂窝光学面板外显光学技术，OLED屏传达数字控制精度"
+    problem_solved: "专业摄影补光灯需要在视觉上传达可靠的光学精度，同时提供直观的参数控制；铝合金机身+蜂窝微透镜+数字控制屏的组合解决了'如何让摄影师信任这台灯'的设计问题"
+    transferable_technique: "方形+圆形内嵌卡口的几何语言适用于所有需要接附件的摄影/医疗/工业设备；OLED实时参数显示屏的可视化控制手法可迁移到任何有精确输出参数的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "medium"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

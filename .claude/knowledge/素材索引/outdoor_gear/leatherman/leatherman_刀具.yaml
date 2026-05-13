@@ -1,0 +1,94 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "户外装备"
+  secondary: "刀具"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/刀具"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "leatherman_knife_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/刀具/01.jpg"
+        image_role: "hero"
+        visual_anchor: "全黑DLC涂层折叠刀，把手镂空减重孔阵列，中轴螺栓和扭力弹簧外露，整体呈细长梭形"
+    product_name: "Leatherman Skeletool KB"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "刀具", "折叠刀"]
+    design_language:
+      silhouette: "细长梭形，刀身展开后整体呈流线型；把手尾端收尖与刀尖形成对称感"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "全黑（DLC涂层）"
+        material: "不锈钢 + DLC涂层"
+        finish: "哑光黑色涂层，镂空孔内边缘见金属本色"
+      mounting: "腰夹/口袋夹（未在本图中显示）"
+      signature_detail: "把手镂空骨架结构：三个大圆孔+小孔阵列实现极致轻量化，中轴螺栓外露作为视觉焦点"
+    design_level:
+      score: 4
+      reason: "骨架镂空手法高度一致且具辨识度，全黑配色强化战术质感，减重与美学实现统一；比例优雅，细节精练"
+    design_tags:
+      - "折叠刀"
+      - "骨架镂空"
+      - "DLC涂层"
+      - "轻量化"
+      - "战术黑"
+      - "EDC"
+      - "单刀片"
+      - "扭力弹簧外露"
+    hero_feature: "骨架镂空把手——大面积减重孔使把手视觉通透，既减重又形成强烈品牌辨识"
+    problem_solved: "户外/EDC用户需要一把极轻、不占空间、单手可操作的折叠刀"
+    transferable_technique: "骨架镂空减重手法可迁移至其他手持工具把手设计；DLC全黑统一涂装消除材质拼接感的方法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "leatherman_knife_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/leatherman/刀具/02.jpg"
+        image_role: "hero"
+        visual_anchor: "镜面抛光不锈钢折叠刀，把手同款骨架镂空，刀刃带部分波纹锯齿，整体银白通亮"
+    product_name: "Leatherman Skeletool KBx"
+    brand_name: "Leatherman"
+    brand_confidence: "high"
+    category_path: ["户外装备", "刀具", "折叠刀"]
+    design_language:
+      silhouette: "与Skeletool KB轮廓相同的细长梭形；把手骨架结构一致，刀刃尾段增加锯齿波纹区"
+      light_opening: "无"
+      thermal: "无"
+      cmf:
+        color: "银白（镜面不锈钢）"
+        material: "154CM不锈钢"
+        finish: "镜面抛光，把手孔边缘过渡自然"
+      mounting: "腰夹/口袋夹"
+      signature_detail: "半波纹刀刃（combo edge）：前段平刃+后段波纹锯齿，兼顾精准切割与绳索锯断"
+    design_level:
+      score: 3
+      reason: "与KB同款骨架语言，银白版本日常感更强；半波纹刃增加功能深度，但视觉层次相对KB全黑版稍弱"
+    design_tags:
+      - "折叠刀"
+      - "骨架镂空"
+      - "镜面不锈钢"
+      - "半波纹刃"
+      - "EDC"
+      - "154CM钢"
+      - "单刀片"
+    hero_feature: "镜面抛光骨架镂空把手 + 半波纹combo刃——银白通透质感与功能性锯齿的组合"
+    problem_solved: "需要可日常佩戴又具备绳索切割能力的EDC折叠刀用户"
+    transferable_technique: "同款骨架在不同表面处理（DLC黑 vs 镜面银）下传递截然不同气质的配色策略；combo刃分区功能外显手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

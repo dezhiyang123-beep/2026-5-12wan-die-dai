@@ -1,0 +1,73 @@
+# g0_scan.schema.yaml — G0关卡产物：快速扫描包（scout输出，用户G0决策输入）
+
+schema_version: "1.0"
+
+required:
+  project_id:
+    type: string
+    description: 继承自brief
+  client:
+    type: string
+  category:
+    type: string
+  scan_date:
+    type: string
+    description: 扫描执行日期 YYYY-MM-DD
+
+  client_snapshot:
+    type: object
+    fields:
+      price_ceiling:
+        type: string
+        description: 客户档案中的价格上限，标注置信度[H/M/L]
+      must_certify:
+        type: list
+        description: 必须认证列表，来自客户档案
+      style_forbidden:
+        type: list
+        description: 风格禁忌，来自客户档案
+      source:
+        type: string
+        description: 数据来源文件名+最后更新日期
+
+  category_check:
+    type: object
+    fields:
+      market_exists:
+        type: boolean
+        description: 该品类在目标渠道是否有已验证市场
+      competitor_count:
+        type: integer
+        description: 已找到直接竞品数量
+      top3_competitors:
+        type: list
+        description: 前3个直接竞品（品牌+型号+价格），搜索失败标UNKNOWN
+      key_pain_points:
+        type: list
+        description: 用户评论高频痛点，最多5条，标来源[H/M]
+      unknown_fields:
+        type: list
+        description: 本次扫描中未能取证的字段清单
+
+  go_decision_input:
+    type: object
+    fields:
+      opportunity_signal:
+        type: string
+        description: 值得做的信号（1-2句话，只陈述事实和标注推断[M]，不下结论）
+      risk_signal:
+        type: string
+        description: 主要风险信号（1-2句话）
+      unknown_summary:
+        type: string
+        description: 关键未知项汇总，用于告知用户G0决策需要承担哪些信息缺口
+
+optional:
+  scout_notes:
+    type: string
+    description: 搜索过程中发现的异常或补充信息
+
+validation:
+  - top3_competitors 中每条必须包含品牌+型号+价格，缺失字段标UNKNOWN
+  - unknown_fields 必须存在（哪怕为空列表）
+  - go_decision_input 不得包含结论性建议，只陈述信息

@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "户外装备"
+  secondary: "头灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/头灯"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "biolite_headlamp_001"
+    source_images:
+      - filename: "12.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/头灯/12.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰色头灯正面，后置圆柱形电池组通过顶带与灯头相连，分体式平衡设计"
+    product_name: "BioLite HeadLamp 330"
+    brand_name: "BioLite"
+    brand_confidence: "low"
+    category_path: ["户外装备", "头灯"]
+    design_language:
+      silhouette: "前置椭圆扁平灯头 + 后置圆柱电池组，通过头带连接形成前后平衡结构"
+      light_opening: "正面圆形单主灯孔 + 周围均布小辅灯孔阵列"
+      thermal: "无明显散热结构"
+      cmf:
+        color: "深灰（灯头主体）+ 黑色（头带）+ 橙红色点缀（按键区）"
+        material: "ABS外壳 + 橡胶头带"
+        finish: "哑面磨砂"
+      mounting: "弹性头带 + 后置电池组平衡头部重量"
+      signature_detail: "分体式电池组后置设计，减轻前额负担；灯头正面小灯孔阵列形成视觉肌理"
+    design_level:
+      score: 3
+      reason: "后置电池平衡设计是功能驱动的差异化造型，前后分体结构有强辨识度，但整体配色较保守"
+    design_tags: ["分体式电池", "后置平衡", "头灯", "户外rugged", "阵列灯孔"]
+    hero_feature: "后置独立电池组通过顶带平衡灯头重量的分体式头灯结构"
+    problem_solved: "传统头灯所有重量集中前额，长时间佩戴导致颈部疲劳"
+    transferable_technique: "前后分体平衡设计——将重量分散至头部后侧，可迁移至任何头戴设备的重量分布"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "文件归属在goal_zero文件夹，但图片显示为BioLite品牌，需确认是否误放"
+
+  - product_id: "biolite_headlamp_002"
+    source_images:
+      - filename: "15.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/户外装备/goal_zero/头灯/15.jpg"
+        image_role: "hero"
+        visual_anchor: "玫红色头灯，宽幅横向发光面，后置电池组，BioLite品牌标识清晰可见"
+    product_name: "BioLite HeadLamp 800 Pro"
+    brand_name: "BioLite"
+    brand_confidence: "low"
+    category_path: ["户外装备", "头灯"]
+    design_language:
+      silhouette: "横向扁宽灯头（宽于高），后置圆柱电池组，整体轮廓横向延伸感强"
+      light_opening: "宽幅横向条状发光面，覆盖灯头正面大部分区域"
+      thermal: "无明显散热结构"
+      cmf:
+        color: "玫红色（灯头主体）+ 黑色（头带/电池组）+ 白色（发光面透镜）"
+        material: "ABS外壳 + 橡胶头带"
+        finish: "哑面磨砂"
+      mounting: "弹性头带 + 后置电池组平衡"
+      signature_detail: "宽幅横向发光面覆盖率高，玫红色配色在头灯品类中极具识别度"
+    design_level:
+      score: 4
+      reason: "宽发光面设计兼具功能优势（泛光均匀）和视觉辨识度，玫红配色大胆，分体后置结构成熟"
+    design_tags: ["宽幅发光面", "分体式电池", "后置平衡", "玫红配色", "头灯"]
+    hero_feature: "宽幅横向条形发光面配合鲜明玫红色外壳，视觉记忆点强烈"
+    problem_solved: "跑步等运动场景需要宽泛光覆盖而非聚光，并且希望产品有个性配色"
+    transferable_technique: "宽幅横向发光面设计——将光源面积最大化，提升泛光均匀性，可迁移至工作灯/安全灯"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "medium"
+    needs_human_review: true
+    review_reason: "文件归属在goal_zero文件夹，但图片显示为BioLite品牌，需确认是否误放"

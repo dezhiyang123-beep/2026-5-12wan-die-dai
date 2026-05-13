@@ -1,0 +1,254 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "音箱"
+  secondary: "头戴耳机"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/头戴耳机/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "sonos_headphone_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/头戴耳机/01.jpg"
+        image_role: "context"
+        visual_anchor: "Sonos Ace头戴耳机与Beam Gen2条形音箱的产品组合俯视图，全黑配色"
+    product_name: "Sonos Ace + Beam Gen2 Bundle"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "圆弧头梁+椭圆耳罩的经典头戴轮廓，耳罩饱满圆润，无棱角"
+      light_opening: "无外露开口，耳罩侧面有细长通风槽缝"
+      thermal: "封闭式耳罩设计"
+      cmf:
+        color: "哑光黑（Shadow Black）"
+        material: "头梁软包蛋白皮革，耳罩混合软性材质，外壳工程塑料"
+        finish: "全身统一哑光无光泽处理，无金属光感"
+      mounting: "头戴式，头梁两端金属转轴连接耳罩"
+      signature_detail: "耳罩外壳中央细长通风槽（功能外显设计），转轴暗灰金属色与黑色形成微妙对比"
+    design_level:
+      score: 3
+      reason: "组合束包装视图，产品细节遮挡较多，信息量有限，但两件产品语言统一性明显"
+    design_tags: ["极简主义", "全黑系", "家居风格", "生态系统搭配"]
+    hero_feature: "耳罩中央通风槽——在封闭式耳机上做功能可见化处理"
+    problem_solved: "既保持高端头戴耳机的豪华感，又与Sonos家居音箱生态在视觉上完全统一"
+    transferable_technique: "同一CMF体系跨品类产品组合，实现视觉生态感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_headphone_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/头戴耳机/02.jpg"
+        image_role: "context"
+        visual_anchor: "Sonos Ace头戴耳机与Beam Gen2组合，角度略有不同，可见Beam圆角端头"
+    product_name: "Sonos Ace + Beam Gen2 Bundle"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "同001，头梁弧度均匀，耳罩圆润饱满"
+      light_opening: "耳罩侧面通风槽清晰可见"
+      thermal: "封闭式耳罩"
+      cmf:
+        color: "哑光黑（Shadow Black）"
+        material: "蛋白皮革头梁垫+软性耳罩垫，硬壳外罩"
+        finish: "哑光统一，无反光面"
+      mounting: "头戴式，可折叠转轴"
+      signature_detail: "Beam Gen2圆弧端头与Ace头梁弧线形成跨品类的曲线呼应"
+    design_level:
+      score: 3
+      reason: "与001角度相近的组合图，视角略变但信息增量有限"
+    design_tags: ["极简主义", "全黑系", "跨品类视觉统一"]
+    hero_feature: "跨品类曲线语言统一——Beam的圆角矩形与Ace的圆弧头梁同源"
+    problem_solved: "视觉强调Sonos生态系统的统一设计语言"
+    transferable_technique: "跨品类形态呼应手法——圆角半径取同一数值建立家族感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_headphone_003"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/头戴耳机/05.jpg"
+        image_role: "hero"
+        visual_anchor: "Sonos Ace单品3/4侧视图，可清晰看到头梁、转轴、耳罩外壳全貌"
+    product_name: "Sonos Ace"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "均匀圆弧头梁，两端连接矩形转轴块，耳罩为竖向拉长的椭圆形，侧面略微鼓起"
+      light_opening: "耳罩中央水平方向两条细缝通风槽"
+      thermal: "封闭式主动降噪设计"
+      cmf:
+        color: "哑光黑（Shadow Black），转轴为深灰金属色"
+        material: "头梁弧形金属内芯+外包软皮，耳罩外壳硬质塑料，耳垫蛋白皮革"
+        finish: "哑光全面，转轴处轻微金属质感对比"
+      mounting: "头戴可折叠，金属转轴可旋转耳罩贴合头型"
+      signature_detail: "极窄的头梁截面（约1.2cm宽），视觉比例轻盈，远比Sony/Bose头梁粗壮感弱"
+    design_level:
+      score: 5
+      reason: "清晰单品英雄图，造型语言完整呈现：极细头梁+饱满耳罩的强对比比例是核心设计亮点，可迁移性最高"
+    design_tags: ["极简主义", "比例对比", "轻盈感", "哑光黑", "家居级耳机"]
+    hero_feature: "极窄头梁与超大椭圆耳罩的强对比——在视觉上实现「轻盈-沉浸」双重感知"
+    problem_solved: "打破传统头戴耳机「厚重工程感」，以家居级精致比例进入高端市场"
+    transferable_technique: "细梁-大罩对比比例法：主体感知元素放大，支撑结构极度细化，强化主次关系"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_headphone_004"
+    source_images:
+      - filename: "06.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/头戴耳机/06.jpg"
+        image_role: "hero"
+        visual_anchor: "Sonos Ace正面+3/4角度双机展示，可同时看到两个视角的造型"
+    product_name: "Sonos Ace（双角度）"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "正面看耳罩呈竖向鹅卵石形，头梁弧形从顶端自然弯下，对称结构"
+      light_opening: "双视角均清晰可见耳罩通风槽位置"
+      thermal: "封闭式"
+      cmf:
+        color: "哑光黑"
+        material: "同003"
+        finish: "哑光，全角度无高光点"
+      mounting: "头戴式"
+      signature_detail: "正面视角下头梁弧与两侧耳罩形成的负空间（镂空弧形区域）是品牌轮廓识别点"
+    design_level:
+      score: 4
+      reason: "双角度对比展示设计完整性，正面轮廓的负空间特征清晰，品牌识别度高"
+    design_tags: ["轮廓识别", "负空间", "极简主义", "双角度展示"]
+    hero_feature: "头梁-耳罩之间的负空间弧形区域——构成Sonos Ace在任何角度都可识别的品牌剪影"
+    problem_solved: "通过负空间设计建立无需logo即可识别的品牌轮廓"
+    transferable_technique: "负空间轮廓设计：主结构与附件之间的间隙形状本身成为识别标记"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_headphone_005"
+    source_images:
+      - filename: "07.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/头戴耳机/07.jpg"
+        image_role: "context"
+        visual_anchor: "两个智能音箱（Era 100 x2）和一个低音炮（Sub Mini）组合图，无头戴耳机"
+    product_name: "Sonos Era 100 + Sub Mini Bundle"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "圆柱形智能音箱，顶部倒角圆形，低音炮为大圆柱体，侧面有长方形开口"
+      light_opening: "Sub Mini侧面矩形低频通气孔为功能性开口，视觉上是强设计特征"
+      thermal: "Sub Mini通气孔兼具散热功能"
+      cmf:
+        color: "哑光黑"
+        material: "全身编织网面（Era 100），Sub Mini硬质塑料外壳"
+        finish: "哑光统一"
+      mounting: "落地/桌面放置"
+      signature_detail: "Sub Mini侧面贯通式矩形开口——在圆柱体上切出长方形口，功能与造型双重价值"
+    design_level:
+      score: 3
+      reason: "文件放置于头戴耳机文件夹但内容为智能音箱，图像本身质量良好但品类归属有误"
+    design_tags: ["智能音箱", "低音炮", "生态系统", "圆柱形"]
+    hero_feature: "Sub Mini圆柱体上的矩形贯通开口——几何反差产生强视觉张力"
+    problem_solved: "低音炮通常形态笨重，圆柱+开口方案使其与Era 100产生家族感同时保持功能外显"
+    transferable_technique: "在主体形态上以反差几何做功能开口：圆柱开长方口，强化设计辨识度"
+    confidence:
+      visual_description: "high"
+      category: "medium"
+      brand: "high"
+      product_grouping: "low"
+    needs_human_review: true
+    review_reason: "图片内容为智能音箱+低音炮组合，与文件夹分类「头戴耳机」不符，建议移至智能音箱分类"
+
+  - product_id: "sonos_headphone_006"
+    source_images:
+      - filename: "08.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/头戴耳机/08.jpg"
+        image_role: "detail"
+        visual_anchor: "Sonos Ace放置在黑色耳机支架上，展示日常收纳状态"
+    product_name: "Sonos Ace + 官方耳机架"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "耳机架为细金属立柱+椭圆底座，极简几何，与Ace本身形成系统配件感"
+      light_opening: "无开口"
+      thermal: "无"
+      cmf:
+        color: "全哑光黑，耳机架与耳机色系完全一致"
+        material: "耳机架金属材质（铝合金），Ace本体同前"
+        finish: "哑光统一"
+      mounting: "耳机架桌面放置，底部有防滑垫"
+      signature_detail: "耳机架顶部有两个硅胶耳机挂耳点，底座有线缆理线槽口——功能隐藏于极简形态"
+    design_level:
+      score: 4
+      reason: "配件与主产品CMF完全统一，展示Sonos配件生态的设计语言延伸，细节处理精良"
+    design_tags: ["配件设计", "收纳展示", "极简主义", "系统配件感", "线缆管理"]
+    hero_feature: "底座隐藏式线缆管理槽——功能完全内化于极简造型"
+    problem_solved: "耳机收纳展示通常是功能件，Sonos将其升级为与主产品同级的设计对象"
+    transferable_technique: "配件CMF完全跟随主产品：底座、支架、垫片全黑哑光，强化系统整体感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "sonos_headphone_007"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "~/Desktop/设计素材库/01_品类标杆库/音箱/sonos/头戴耳机/03.jpg"
+        image_role: "context"
+        visual_anchor: "Sonos Ace头戴耳机与Arc Ultra大型条形音箱组合图，对角线构图"
+    product_name: "Sonos Ace + Arc Ultra Bundle"
+    brand_name: "Sonos"
+    brand_confidence: "high"
+    category_path: ["音箱", "头戴耳机"]
+    design_language:
+      silhouette: "Arc Ultra为超长圆管形条形音箱，截面近正圆；Ace耳机轮廓与之形成大小对比"
+      light_opening: "Arc Ultra顶部可见细微LED指示灯点"
+      thermal: "两端封闭圆头，无明显散热开口"
+      cmf:
+        color: "哑光黑，两件产品色系完全一致"
+        material: "Arc Ultra纺织网面包覆圆管，Ace同前"
+        finish: "哑光统一"
+      mounting: "Arc Ultra可壁挂（侧面可见壁挂安装孔位）"
+      signature_detail: "Arc Ultra近正圆截面的超长条形——打破传统扁平条形音箱形态，极具辨识度"
+    design_level:
+      score: 4
+      reason: "Arc Ultra圆管形态极具设计辨识度，与Ace的跨品类生态展示说明品牌设计语言一致性强"
+    design_tags: ["圆管造型", "生态系统", "壁挂", "极简主义", "形态突破"]
+    hero_feature: "Arc Ultra近正圆截面的管状形态——在条形音箱品类中的形态突破，一眼识别"
+    problem_solved: "条形音箱通常为扁平矩形盒体，Arc Ultra的圆管方案大幅提升家居装饰属性"
+    transferable_technique: "将功能体截面从矩形改为圆形：同等功能、颠覆视觉印象、提升设计溢价感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

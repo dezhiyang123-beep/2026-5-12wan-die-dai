@@ -1,0 +1,562 @@
+schema_version: product_dna_v1
+category:
+  primary: 音箱
+  secondary: 便携音箱
+  tertiary: ''
+source:
+  source_type: brand_official
+  source_folder: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/
+  generated_at: '2026-05-08'
+products:
+- product_id: reddot_portable_001
+  source_images:
+  - filename: 01.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/01.jpg
+    image_role: hero
+    visual_anchor: 复古砖机造型，左右大圆形喇叭单元，顶部提手，正面iPhone dock居中
+  product_name: iHome iBT44 Boombox
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 横向矩形砖机轮廓，左右对称大圆喇叭，顶部弧形提手
+    light_opening: 正面大圆形喇叭网格+顶部LED均衡器显示屏
+    thermal: 无明显散热设计
+    cmf:
+      color: 深灰色单色
+      material: ABS塑料
+      finish: 哑光喷涂，全机同色
+    mounting: 桌面放置，顶部提手携带
+    signature_detail: 复古boombox造型现代化重译，全机单色哑光去除年代感
+  design_level:
+    score: 3
+    reason: 造型参考度明确，复古boombox + iPhone dock的时代结合点清晰；但全机单色略显简单，无材质层次
+  design_tags:
+  - 复古造型
+  - boombox
+  - iPhone dock
+  - 左右对称
+  - 单色处理
+  - H01减法
+  - H08对比强调
+  hero_feature: 复古砖机造型+现代手机坞站融合
+  problem_solved: 兼顾复古情怀与智能手机时代的使用方式
+  transferable_technique: 经典品类造型语言的现代化重译，通过单色统一消除年代违和感
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_002
+  source_images:
+  - filename: 02.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/02.jpg
+    image_role: hero
+    visual_anchor: 与001相同产品，粉红色版本，3/4角度展示
+  product_name: iHome iBT44 Boombox (Pink)
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 横向矩形砖机轮廓，左右对称大圆喇叭，顶部弧形提手
+    light_opening: 正面大圆形喇叭网格+顶部LED均衡器显示屏
+    thermal: 无明显散热设计
+    cmf:
+      color: 亮粉色（Magenta/Hot Pink）
+      material: ABS塑料
+      finish: 哑光喷涂，全机同色
+    mounting: 桌面放置，顶部提手携带
+    signature_detail: 高饱和粉色全机同色，强化青春/女性消费市场定位
+  design_level:
+    score: 3
+    reason: 与001同款不同色；粉色配色策略鲜明，色彩即品牌差异化工具，但设计本体无增量
+  design_tags:
+  - 复古造型
+  - boombox
+  - 高饱和色
+  - 色彩差异化
+  - iPhone dock
+  - H08对比强调
+  hero_feature: 高饱和单色全包覆，用色彩替代形态差异化
+  problem_solved: 在同一形态下通过色彩快速定义目标用户群
+  transferable_technique: 全机同色哑光处理消除细节噪声，让色彩成为唯一视觉主角
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_003
+  source_images:
+  - filename: 03.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/03.jpg
+    image_role: hero
+    visual_anchor: 白色方形底座+木纹底边+顶部圆形手机托盘，Conran Audio品牌，前面板全幅金属网
+  product_name: Conran Audio iPhone Dock Speaker
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 矩形砖块，顶部内凹圆形托盘，三段水平分层（白色顶盖/金属网面板/木纹底边）
+    light_opening: 前面板全幅横向金属冲孔网
+    thermal: 无明显散热
+    cmf:
+      color: 白色+银灰金属+浅木色
+      material: 上盖ABS+前面板铝网+底座木材
+      finish: 哑光白+拉丝铝+原木纹
+    mounting: 桌面放置
+    signature_detail: 顶部圆形内凹手机托盘，三种材质横向分层
+  design_level:
+    score: 4
+    reason: 材质搭配克制高级：白/铝/木三层语义清晰；顶部圆形托盘与音箱比例协调；整体家居融合感强
+  design_tags:
+  - 三层材质
+  - 木纹底边
+  - 金属网
+  - 顶部托盘
+  - 家居融合
+  - H10材料表达
+  - H07极简整合
+  hero_feature: 白色+铝网+木底的三材质横向分层，产品视觉重心稳定向下
+  problem_solved: 音箱作为家居摆件的融合感，避免电子产品的廉价塑料感
+  transferable_technique: 底部使用温暖材质（木）接地，顶部轻质材质（白ABS）提升，金属网作为功能层居中的三段结构
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_004
+  source_images:
+  - filename: 07.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/07.jpg
+    image_role: hero
+    visual_anchor: iriver IPA200，牛皮纸箱风格外壳，白色面板控制区+网格喇叭，扁平矩形，圆角
+  product_name: iriver IPA200 Wireless Portable Audio
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 扁平横向矩形，大圆角，牛皮纸纹理外壳覆盖整机
+    light_opening: 右侧白色冲孔网格喇叭区
+    thermal: 无
+    cmf:
+      color: 牛皮纸棕色+白色
+      material: 牛皮纸材质外壳+白色塑料面板
+      finish: 未涂装纸质感+哑光白
+    mounting: 桌面/手持
+    signature_detail: 以牛皮纸/包装材料作为主壳体材质，白色控制面板如标签贴纸嵌入
+  design_level:
+    score: 4
+    reason: 概念清晰强烈：产品即包装，牛皮纸材质将环保/工艺感/成本表达合而为一；H10材料表达的优秀范例
+  design_tags:
+  - 牛皮纸
+  - 可持续材料
+  - 包装即产品
+  - H10材料表达
+  - H01减法
+  - 概念型设计
+  hero_feature: 以牛皮纸作为外壳主材，包装美学直接转化为产品美学
+  problem_solved: 环保定位的可视化表达，同时降低感知成本
+  transferable_technique: 将包装材料语言直接迁移至产品表面，概念一致性极强
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_005
+  source_images:
+  - filename: 09.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/09.jpg
+    image_role: hero
+    visual_anchor: 三个骰子形迷你音箱，圆角立方体，正面圆形喇叭网，三色（红/银/黑）
+  product_name: 迷你立方体蓝牙音箱（三色组）
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 圆角立方体，各面等比，正面圆形喇叭网占面积约70%
+    light_opening: 正面圆形金属网格喇叭
+    thermal: 无
+    cmf:
+      color: 红色/银色/黑色（三色SKU）
+      material: 金属壳体（铝合金）
+      finish: 金属拉丝+阳极氧化
+    mounting: 桌面放置/随身携带
+    signature_detail: 骰子造型，圆角立方体使金属喇叭同时成为雕塑摆件
+  design_level:
+    score: 4
+    reason: 形态高度提炼，立方体+圆形喇叭网的几何对话强烈；金属材质赋予超小体积高级感；多色SKU策略清晰
+  design_tags:
+  - 立方体
+  - 几何形态
+  - 金属外壳
+  - 迷你尺寸
+  - H01减法
+  - H10材料表达
+  - 多色SKU
+  hero_feature: 骰子造型圆角立方体，单面圆形喇叭网构成正负形对话
+  problem_solved: 超小体积音箱的高级感问题，金属材质解决廉价感
+  transferable_technique: 以纯几何形态压缩产品语言至最简，材质承担高级感全部权重
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_006
+  source_images:
+  - filename: 10.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/10.jpg
+    image_role: hero
+    visual_anchor: Matrixaudio迷你胶囊形音箱，红色版本带腕带和金属挂钩，另有银色/黑色版本
+  product_name: Matrixaudio Cube Bluetooth Speaker
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 胶囊/药丸形，两端半圆收口，纵向比例约2:1，正面网格喇叭占主体
+    light_opening: 正面+背面均有织物/金属网格
+    thermal: 无
+    cmf:
+      color: 红色/银色/黑色
+      material: 金属壳体+腕带皮革/织物
+      finish: 高光金属+皮革腕带
+    mounting: 手腕携带（皮革腕带+金属挂钩）/桌面放置
+    signature_detail: 金属挂钩+皮革腕带，随身佩戴方式将音箱转化为配饰
+  design_level:
+    score: 4
+    reason: 穿戴化设计思路明确，皮革腕带+金属挂钩将音箱提升为配饰级产品；胶囊形体简洁耐看
+  design_tags:
+  - 胶囊造型
+  - 穿戴音箱
+  - 皮革腕带
+  - 金属挂钩
+  - H02包覆
+  - H12人机界面强化
+  - 配饰化
+  hero_feature: 皮革腕带+金属挂钩，音箱配饰化穿戴方式
+  problem_solved: 户外携带场景中解放双手，同时提升产品时尚感
+  transferable_technique: 为便携设备增加配饰级携带件（腕带/挂绳/挂钩），改变产品使用姿态
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_007
+  source_images:
+  - filename: 13.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/13.jpg
+    image_role: hero
+    visual_anchor: LEDEL品牌极扁卵形音箱，六款可替换卵形面板（棕/金棕/深棕/花纹灰/绿色花卉/白色线条）展开陈列
+  product_name: LEDEL 卵形可换面板便携音箱
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 极扁卵形/鹅卵石形，侧面厚度极薄，俯视为椭圆
+    light_opening: 底部缝隙出声，顶面为按键/装饰面板
+    thermal: 无
+    cmf:
+      color: 多色可替换面板：棕色系/绿色花卉/白色线条图案/黑色花纹
+      material: 工程塑料主体+可替换装饰面板
+      finish: 亮面+亚面混合，面板可印花
+    mounting: 桌面平放
+    signature_detail: 可替换装饰面板，用户自定义产品外观
+  design_level:
+    score: 3
+    reason: 模块化换面板的个性化思路清晰；但鹅卵石形态本身缺乏记忆点，换面板功能现在已被普及
+  design_tags:
+  - 可替换面板
+  - 个性化定制
+  - 鹅卵石造型
+  - H05模块化
+  - 印花图案
+  - 用户个性化
+  hero_feature: 可替换印花装饰面板，用户自定义外观
+  problem_solved: 音箱外观个性化需求，同一产品适应不同场景/心情
+  transferable_technique: 将产品外壳拆分为功能件+装饰件，装饰件模块化可换
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_008
+  source_images:
+  - filename: 14.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/14.jpg
+    image_role: hero
+    visual_anchor: 与013同款产品单体正面视角，黑色亮面，卵形，顶面内凹圆形按键区
+  product_name: LEDEL 卵形便携音箱（黑色单体）
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 极扁卵形，顶面内凹圆形按键区，侧壁灰色哑光与顶面亮黑双层
+    light_opening: 底部缝隙
+    thermal: 无
+    cmf:
+      color: 黑色亮面+深灰哑光
+      material: ABS塑料
+      finish: 高光黑+哑光深灰双层
+    mounting: 桌面平放
+    signature_detail: 顶面高光黑盖与侧面哑光灰体的双层切换，分件线清晰
+  design_level:
+    score: 2
+    reason: 单独看造型语言普通，鹅卵石造型无差异化；主要价值在于换面板系统（见007），单体价值有限
+  design_tags:
+  - 卵形
+  - 亮黑+哑灰
+  - 分件线
+  - H03分件线
+  hero_feature: 高光顶盖+哑光侧体的双材质分件
+  problem_solved: 小型桌面音箱的轻巧携带
+  transferable_technique: 顶面与侧面不同光泽度处理制造视觉层次
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_009
+  source_images:
+  - filename: 32.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/32.jpg
+    image_role: hero
+    visual_anchor: 极扁横向矩形大型无线音箱，全黑面料覆盖，顶部右侧3个橙色LED点+橙色USB口，底部V形镀铬金属支架
+  product_name: 无线平板音箱（Flat Panel Wireless Speaker）
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 极扁横向大矩形，大圆角，近似平板电视比例
+    light_opening: 前面板全幅面料网覆盖，无外露喇叭
+    thermal: 无明显散热
+    cmf:
+      color: 哑光黑+镀铬银（支架）+橙色（点缀）
+      material: 面料覆盖+铝合金支架
+      finish: 面料哑面+镀铬高光+橙色LED
+    mounting: 底部V形金属支架立放
+    signature_detail: V形镀铬金属支架，极扁机身靠支架悬浮立放，橙色LED作为唯一色彩点缀
+  design_level:
+    score: 4
+    reason: 家具化比例+悬浮立放的支架处理极具设计感；极度克制的正面（纯面料），所有细节压缩至边缘；橙色LED点缀精准
+  design_tags:
+  - 极扁造型
+  - 面料覆盖
+  - 金属支架
+  - 家具化比例
+  - H07极简整合
+  - H01减法
+  - H10材料表达
+  hero_feature: V形镀铬金属支架+极扁机身，产品近似家具摆件
+  problem_solved: 大型音箱在家居空间中的视觉占用问题，家具化处理降低存在感
+  transferable_technique: 以金属支架代替传统底座，制造悬浮感；面料包覆消除电子产品感
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_010
+  source_images:
+  - filename: 45.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/45.jpg
+    image_role: hero
+    visual_anchor: 全面料包覆超圆角矩形立式音箱，薄荷绿色，无任何可见控件，表面仅织物纹理
+  product_name: Google Nest Audio (Sage)
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 超圆角矩形立方体，顶部收窄轻微，整体近似枕头形
+    light_opening: 无外露，全面料包覆
+    thermal: 底部细节不可见
+    cmf:
+      color: 薄荷绿（Sage）
+      material: 回收PET面料
+      finish: 织物哑面
+    mounting: 桌面立放
+    signature_detail: 全面料无缝包覆，去除所有可见电子产品特征，极度家居化
+  design_level:
+    score: 4
+    reason: 全面料包覆策略将音箱彻底家居物品化；薄荷绿色温和悦目；H10材料表达的标志性案例
+  design_tags:
+  - 全面料包覆
+  - 回收材料
+  - 家居化
+  - 无界面设计
+  - H10材料表达
+  - H07极简整合
+  - H01减法
+  hero_feature: 回收面料全包覆，完全消除电子产品感
+  problem_solved: 智能音箱在家居场景中的视觉违和感
+  transferable_technique: 织物包覆消除所有硬边界和控件外露，将产品融入家居背景
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: medium
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_012
+  source_images:
+  - filename: 47.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/47.jpg
+    image_role: hero
+    visual_anchor: 蘑菇形灯+音箱复合产品，半球形乳白磨砂灯罩+倒锥形铝合金底座，底座周圈有冲孔网
+  product_name: Lexon Mina 灯+音箱复合产品
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 蘑菇形：半球形灯罩+圆锥形底座，比例协调，自然仿生
+    light_opening: 底座底部周圈细小冲孔网出声
+    thermal: 底座散热孔兼作出声孔
+    cmf:
+      color: 乳白半透明+铝合金银
+      material: 半透明PP/玻璃灯罩+铝合金底座
+      finish: 磨砂半透明+拉丝铝
+    mounting: 桌面立放
+    signature_detail: 灯罩即产品上半部，底座即扬声器，两个功能以蘑菇形态合一
+  design_level:
+    score: 5
+    reason: 灯+音箱双功能通过蘑菇形态完美整合，功能分区即造型分区；仿生形态自然，无拼贴感；H06仿生+H07极简整合的最优解
+  design_tags:
+  - 灯音箱一体
+  - 仿生形态
+  - 蘑菇造型
+  - H06仿生
+  - H07极简整合
+  - 双功能整合
+  - 铝合金+磨砂
+  hero_feature: 蘑菇仿生形态将台灯与音箱功能无缝整合
+  problem_solved: 家居空间中多功能产品的形态割裂感
+  transferable_technique: 将两个不同产品的功能区域分配给同一形态的上下两部分，仿生形态作为整合逻辑
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_013
+  source_images:
+  - filename: 50.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/50.jpg
+    image_role: hero
+    visual_anchor: Samung/Harman Kardon船形大型音箱，木纹顶面+黑色织物前面板+圆形底座，顶部有白色线形LED灯带
+  product_name: Samsung/Harman Kardon 船形无线音箱
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 不对称船形：前端尖、后端圆，俯视近似冲浪板/船体轮廓
+    light_opening: 前面板全幅黑色织物网
+    thermal: 无明显散热
+    cmf:
+      color: 木纹棕（顶）+黑色织物（正面）+黑色光泽（底侧）
+      material: 实木贴皮顶面+织物网前面板+圆形金属底座
+      finish: 木纹+织物+高光黑
+    mounting: 圆形底座旋转放置
+    signature_detail: 不对称船体造型+木纹顶面，顶部白色线形LED灯条
+  design_level:
+    score: 5
+    reason: 极具雕塑感的不对称船形，木材+织物+高光底座的三材质层次丰富；顶部LED线条既是指示灯又是装饰；高端家居音箱的顶级设计参考
+  design_tags:
+  - 船形
+  - 不对称造型
+  - 木纹顶面
+  - 织物前面板
+  - LED线条
+  - H10材料表达
+  - H06仿生
+  - 高端家居
+  hero_feature: 不对称船体木纹顶面，雕塑级家居音箱
+  problem_solved: 高端家居场景中音箱的艺术摆件化需求
+  transferable_technique: 不对称有机造型+天然材质顶面赋予音箱家具/艺术品级别的视觉地位
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''
+- product_id: reddot_portable_014
+  source_images:
+  - filename: 79.jpg
+    source_path: /c/Users/13968/Desktop/设计素材库/01_品类标杆库/音箱/reddot_award/便携音箱/79.jpg
+    image_role: hero
+    visual_anchor: LG xboom 圆柱形蓝牙音箱，深灰织物网纹，顶部有物理按键，展示于开箱包装中
+  product_name: LG xboom Portable Bluetooth Speaker
+  brand_name: ''
+  brand_confidence: unknown
+  category_path:
+  - 音箱
+  - 便携音箱
+  design_language:
+    silhouette: 圆柱形，两端圆弧收口，中间腰部略有收腰
+    light_opening: 全周织物网格
+    thermal: 无
+    cmf:
+      color: 深灰/炭黑
+      material: 织物覆盖+硬质端盖
+      finish: 织物哑面+哑光塑料端盖
+    mounting: 桌面立放/横放
+    signature_detail: 全织物圆柱+顶部暗纹按键，开箱包装工整的模塑内衬展示
+  design_level:
+    score: 3
+    reason: 圆柱织物形态为便携音箱常规方案；包装展示角度有价值（模塑内衬），产品本身无突出差异化
+  design_tags:
+  - 圆柱形
+  - 织物覆盖
+  - 开箱展示
+  - H10材料表达
+  - 包装设计
+  hero_feature: 全织物圆柱造型+精工模塑包装内衬
+  problem_solved: 便携蓝牙音箱的日常户外使用需求
+  transferable_technique: 圆柱织物包覆为便携音箱提供防水、耐摔的实用解决方案
+  confidence:
+    visual_description: high
+    category: high
+    brand: unknown
+    product_grouping: high
+  needs_human_review: false
+  review_reason: ''

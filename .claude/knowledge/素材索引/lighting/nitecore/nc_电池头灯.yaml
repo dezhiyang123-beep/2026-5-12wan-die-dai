@@ -1,0 +1,184 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "头灯"
+  tertiary: "电池头灯"
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/电池头灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "nc_电池头灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/电池头灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "灰黑双色矩形灯头，4颗LED横排阵列，顶部小型按键组，黑底黄边织带"
+    product_name: "Nitecore HA系列 电池头灯（4LED横排款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "电池头灯"]
+    design_language:
+      silhouette: "横向扁矩形灯头，灰黑撞色壳体，顶部有凸起按键区域，整体厚实感强"
+      light_opening: "4颗LED横向等间距排列，配透明防护镜片，灯面宽扁"
+      thermal: "无专用散热结构，依靠塑料壳体自然散热"
+      cmf:
+        color: "枪灰色主体 + 黑色侧翼，黄色边条织带"
+        material: "工程塑料壳体，织物头带"
+        finish: "哑光磨砂"
+      mounting: "固定式头带连接，织带通过灯头两侧卡槽穿过"
+      signature_detail: "顶部十字纹防滑按键区 + 黑底黄线双色头带"
+    design_level:
+      score: 3
+      reason: "标准功能形态，灰黑配色稳重，双色头带是品牌识别点，但造型较为常规"
+    design_tags: ["横排LED阵列", "双色头带", "矩形灯头", "电池供电", "户外徒步"]
+    hero_feature: "4LED横排宽泛光面，配品牌标志性黄边黑底头带"
+    problem_solved: "低亮度户外活动场景下兼顾泛光与续航，不依赖充电"
+    transferable_technique: "顶部防滑纹理按键区的触觉引导设计，可迁移至其他手持设备操控区"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_电池头灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/电池头灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色宽矩形灯头，6颗LED 2行3列阵列，铝合金边框，黑底黄边头带"
+    product_name: "Nitecore HA系列 电池头灯（6LED矩阵款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "电池头灯"]
+    design_language:
+      silhouette: "宽体扁矩形灯头，黑色主体，铝合金银色边框形成硬朗轮廓线"
+      light_opening: "6颗LED 2行3列矩阵排布，灯面面积更大，泛光覆盖广"
+      thermal: "铝合金边框兼具轻量散热功能"
+      cmf:
+        color: "全黑壳体 + 银色铝合金边框，黄边黑底头带"
+        material: "工程塑料 + 铝合金边框，织物头带"
+        finish: "主体哑光，边框拉丝银"
+      mounting: "固定式头带连接，灯头两侧金属卡扣"
+      signature_detail: "铝合金银色边框赋予硬件感 + 6LED矩阵形成视觉重量"
+    design_level:
+      score: 4
+      reason: "铝合金边框提升质感，6LED矩阵布局视觉张力强，黑银配色专业感突出"
+    design_tags: ["6LED矩阵", "铝合金边框", "宽泛光", "电池供电", "专业户外"]
+    hero_feature: "铝合金银边框 + 2×3 LED矩阵，视觉上传达高功率专业感"
+    problem_solved: "需要大面积宽泛光照明的专业户外场景，电池供电保障续航可靠性"
+    transferable_technique: "金属边框包裹塑料主体的质感提升手法，低成本实现高档感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_电池头灯_003"
+    source_images:
+      - filename: "03.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/电池头灯/03.jpg"
+        image_role: "hero"
+        visual_anchor: "黑色矩形灯头，顶部黄色大按键为视觉焦点，4LED横排，黑底黄线头带"
+    product_name: "Nitecore HA系列 电池头灯（黄键款）"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "电池头灯"]
+    design_language:
+      silhouette: "黑色主体矩形灯头，顶部黄色大面积按键形成强烈色彩焦点"
+      light_opening: "4颗LED横排等间距，灯面紧凑"
+      thermal: "无专用散热结构，塑料壳体自然散热"
+      cmf:
+        color: "黑色主体 + 品牌黄色顶部按键，黑底黄线头带"
+        material: "工程塑料壳体，橡胶按键，织物头带"
+        finish: "主体哑光黑，按键亮黄色"
+      mounting: "固定式头带连接，侧面卡槽穿带"
+      signature_detail: "顶部大面积品牌黄色按键是唯一彩色元素，强调操控直觉"
+    design_level:
+      score: 3
+      reason: "黄色按键的色彩对比设计有辨识度，但整体造型平直，创新度有限"
+    design_tags: ["黄色按键", "色彩对比", "直觉操控", "电池供电", "轻量户外"]
+    hero_feature: "品牌黄色大按键在黑色壳体上形成一点突破，强化操控位置识别"
+    problem_solved: "黑暗环境中快速盲操控定位，黄色按键提供视觉与触觉双重引导"
+    transferable_technique: "单一功能色彩点（黄色按键）在全黑产品上的导航设计手法"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_电池头灯_004"
+    source_images:
+      - filename: "04.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/电池头灯/04.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰小型矩形灯头，3LED排列（含1颗大主灯），顶部凸起纹理按键，黄线头带"
+    product_name: "Nitecore HA15 UHE 电池头灯"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "电池头灯"]
+    design_language:
+      silhouette: "紧凑小型矩形灯头，深灰色调，前脸面积小，侧面延伸与头带衔接点明显"
+      light_opening: "3颗LED排列（中央1颗大主灯 + 两侧辅助灯），不对称功能布局"
+      thermal: "无专用散热结构，小体积自然散热"
+      cmf:
+        color: "深灰主体，黑色织带黄色边线"
+        material: "工程塑料，织物头带"
+        finish: "细腻哑光磨砂"
+      mounting: "固定式，灯头两侧卡槽穿带，侧边可见型号标识"
+      signature_detail: "主副灯组合的不对称LED布局，体积小但功能分区清晰"
+    design_level:
+      score: 2
+      reason: "体积紧凑但形态平淡，不对称灯组设计有功能逻辑但视觉表现弱"
+    design_tags: ["主副灯组合", "轻量紧凑", "AA电池", "不对称灯组", "日常户外"]
+    hero_feature: "中央大主灯 + 两侧辅助灯的主副分离布局，紧凑体积内实现功能分区"
+    problem_solved: "轻量化需求场景，AA电池通用性保障海外/偏远地区可替换"
+    transferable_technique: "主副光源不对称排列的紧凑灯头布局，可用于手电或工作灯设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "nc_电池头灯_005"
+    source_images:
+      - filename: "05.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/nitecore/头灯/电池头灯/05.jpg"
+        image_role: "hero"
+        visual_anchor: "深灰圆润矩形小灯头（HA11型），双LED一大一小，全黑品牌logo黄色字头带"
+    product_name: "Nitecore HA11 电池头灯"
+    brand_name: "Nitecore"
+    brand_confidence: "high"
+    category_path: ["灯具", "头灯", "电池头灯"]
+    design_language:
+      silhouette: "小型圆角矩形灯头，比例更接近正方形，圆润轮廓区别于方正款"
+      light_opening: "双LED非对称排列：1颗大主灯 + 1颗小辅灯，前脸简洁"
+      thermal: "无专用散热结构，小体积自然散热"
+      cmf:
+        color: "深灰壳体，黑色头带配黄色品牌字"
+        material: "工程塑料，织物头带"
+        finish: "哑光深灰"
+      mounting: "固定式，灯头侧面扁平卡扣连接头带，整体低矮贴头"
+      signature_detail: "黄色Nitecore品牌字头带 + 双灯最简布局，入门感明显"
+    design_level:
+      score: 2
+      reason: "入门款形态，造型圆润无亮点，双灯布局简单，头带品牌字是主要识别点"
+    design_tags: ["双LED", "入门款", "圆角矩形", "AA电池", "轻量日常"]
+    hero_feature: "极简双灯布局 + 黄字品牌头带，入门定位清晰"
+    problem_solved: "日常轻度使用场景，追求轻量与简单操控，AA电池通用易购"
+    transferable_technique: "黄色品牌字体直接印在头带上的低成本品牌强化方式"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

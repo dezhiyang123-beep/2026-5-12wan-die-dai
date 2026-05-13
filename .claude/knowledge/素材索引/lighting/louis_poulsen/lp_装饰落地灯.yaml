@@ -1,0 +1,79 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "装饰落地灯"
+  tertiary: ""
+source:
+  source_type: "brand_official"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/装饰落地灯/"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "lp_落地灯_001"
+    source_images:
+      - filename: "01.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/装饰落地灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "多层水平叠片遮罩悬吊于细钢绳，暗色调豪华室内场景，多灯组合"
+    product_name: "PH 5 Mini / PH Floor (pendant-style)"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯"]
+    design_language:
+      silhouette: "多层水平同心圆叠片结构，从上到下层层外扩，整体呈飞碟/蘑菇云轮廓；各层之间有明确间隙"
+      light_opening: "层间缝隙漫射出光，下部大开口为主出光面；遮罩层设计阻挡直视光源，无眩光"
+      thermal: "金属薄层叠片被动散热，层间气流辅助"
+      cmf:
+        color: "暖米色/浅金色调"
+        material: "钢质叠片遮罩，细钢绳悬挂"
+        finish: "叠片粉末涂层亚光米白/奶油色"
+      mounting: "细钢绳悬挂（pendant/floor conversion），此处作落地灯配高脚立柱使用"
+      signature_detail: "多层叠片层间出光——光从每层之间的缝隙漏出，形成圆周均匀光晕；是PH系列百年经典符号"
+    design_level:
+      score: 5
+      reason: "PH系列由Poul Henningsen 1920年代创立，多叠片无眩光设计是工业设计史级别的经典解法；层间出光兼顾防眩光与氛围光，技术逻辑与美学形态高度统一；暗色调豪华场景中多灯组合更显强烈识别性"
+    design_tags: ["多层叠片", "无眩光", "PH经典", "层间出光", "飞碟轮廓", "装饰性强", "H09隐藏工程", "H07极简整合", "H11功能外显"]
+    hero_feature: "多层同心叠片结构——每一层遮罩精确计算角度，彻底消除眩光同时形成柔和层间光晕，功能与美学一体"
+    problem_solved: "大空间装饰照明需高亮度又不能眩光，PH叠片通过遮挡光源直视角、利用叠片内表面反射实现柔和均匀配光"
+    transferable_technique: "叠片防眩光手法：多层遮罩通过角度控制遮挡直射路径，叠片内壁作为二次反射面；可迁移至任何需要大出光面+防眩光的灯具设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "lp_落地灯_002"
+    source_images:
+      - filename: "02.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/louis_poulsen/装饰落地灯/02.jpg"
+        image_role: "hero"
+        visual_anchor: "纯白漏斗形一体成型灯头，细圆杆支撑，白色背景产品图"
+    product_name: "VL Studio Floor / Funnel Floor Lamp"
+    brand_name: "Louis Poulsen"
+    brand_confidence: "high"
+    category_path: ["灯具", "装饰落地灯"]
+    design_language:
+      silhouette: "宽口漏斗形（喇叭口）一体成型灯罩，从宽口平滑收束至细颈，再连接圆柱立杆；轮廓呈倒漏斗或酒杯形"
+      light_opening: "上方大开口朝上出光（间接照明/上照），下部颈口有反射板漫射向下补光"
+      thermal: "一体成型金属罩被动散热，体积较大有利于散热"
+      cmf:
+        color: "全白"
+        material: "铝合金或钢质一体成型灯罩，金属立杆"
+        finish: "全白粉末涂层亚光"
+      mounting: "落地立杆（floor stand），圆形压重底盘"
+      signature_detail: "漏斗形一体成型轮廓——无分件线，从宽口到细颈的曲线过渡极度流畅；极简到只剩一个几何体"
+    design_level:
+      score: 4
+      reason: "漏斗形一体成型是H07极简整合的极致案例，无多余分件、无装饰，整体仅由一个连续曲面构成；全白处理使几何感更纯粹；上照间接光是高端室内灯具常见手法但此形态执行罕见"
+    design_tags: ["漏斗形", "一体成型", "上照间接光", "极简几何", "无分件线", "雕塑感", "H07极简整合", "H06仿生"]
+    hero_feature: "漏斗形一体无缝曲面——整灯仅一个连续曲面体，无任何可见分件接缝，雕塑感极强"
+    problem_solved: "落地装饰灯需在不使用时仍具观赏价值，漏斗形雕塑体在关灯状态下即是室内陈设，开灯后上照光柔和均匀"
+    transferable_technique: "一体成型消除分件线手法：将多件组合简化为单一连续曲面，视觉重量集中、形态纯粹；适用于高端产品的灯罩、外壳等大面造型"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""

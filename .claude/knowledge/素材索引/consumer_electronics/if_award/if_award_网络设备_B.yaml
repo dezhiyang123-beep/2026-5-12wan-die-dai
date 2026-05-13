@@ -1,0 +1,274 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "消费电子"
+  secondary: "网络设备"
+  tertiary: ""
+source:
+  source_type: "award_collection"
+  source_folder: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备"
+  generated_at: "2026-05-08"
+products:
+  - product_id: "if_network_013"
+    source_images:
+      - filename: "25.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/25.jpg"
+        image_role: "hero"
+        visual_anchor: "两台竖向矩形壁挂AP并排（一台露出横向散热栅格面，一台展示正面），右侧单独圆形壁挂底座，白壳+黑色腰带分件线"
+      - filename: "26.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/26.jpg"
+        image_role: "detail"
+        visual_anchor: "设备顶部特写：白色大圆角机身+黑色分件线，顶面分布POWER/INTERNET/STATUS/GPS/4G C1/4G C2六颗微型LED指示灯"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "unknown"
+    category_path: ["消费电子", "网络设备"]
+    design_language:
+      silhouette: "竖向圆角矩形板状体，厚度适中，正面平整，背面带弧形凸起以容纳天线"
+      light_opening: "顶部一排六颗微型LED指示灯，齐平嵌入，不破坏面板整洁度"
+      thermal: "侧面全宽横向散热栅格，与机身圆角衔接自然"
+      cmf:
+        color: "白色主体 + 黑色腰带（中部环绕分件线）"
+        material: "ABS塑料"
+        finish: "磨砂哑光"
+      mounting: "壁挂式，配独立圆形壁挂底座（黑色）"
+      signature_detail: "黑色腰带环绕分件线将机身一分为二，腰带内暗藏散热缝隙，兼顾美观与散热"
+    design_level:
+      score: 4
+      reason: "黑色腰带分件线作为结构与散热双重设计语言处理干净，壁挂底座单独成型，整体完成度高于行业均值"
+    design_tags: ["壁挂AP", "腰带分件线", "侧面散热栅格", "4G网关", "白+黑双色", "模块化底座", "极简指示灯"]
+    hero_feature: "黑色环绕腰带分件线将散热结构融入造型语言，正面完全平整"
+    problem_solved: "传统AP散热孔直接开在正面破坏观感，腰带结构将散热移至侧面+腰部缝隙，实现正面无孔"
+    transferable_technique: "腰带分件线兼散热缝隙的处理方式可迁移至路由器/网关/小型工业设备；圆形独立底座模块化逻辑可用于桌面/壁挂双模产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "unknown"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_network_014"
+    source_images:
+      - filename: "27.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/27.jpg"
+        image_role: "hero"
+        visual_anchor: "大型落地式服务器/边缘计算机柜，双柱并列，上部拉丝铝面板+竖向细密散热栅格，下部黑色网孔面板+黑色实体门"
+      - filename: "28.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/28.jpg"
+        image_role: "context"
+        visual_anchor: "同款机柜置于混凝土空间中，黑白摄影风格，展示整机体量感与拉丝铝顶部模块的材质对比"
+    product_name: ""
+    brand_name: "OneCloud"
+    brand_confidence: "high"
+    category_path: ["消费电子", "网络设备"]
+    design_language:
+      silhouette: "双柱对称落地式高柜，近似2:1宽高比，顶部大面积水平分区，整体厚重方正"
+      light_opening: "无可见指示灯，右柱下部黑色透明门板透出内部设备状态光"
+      thermal: "顶部右侧竖向密集散热栅格覆盖约1/4宽度；下部前门为穿孔网孔板"
+      cmf:
+        color: "上部拉丝银灰铝 + 下部深灰/黑色双材质"
+        material: "铝合金面板 + 钢板机柜本体 + 黑色钢化玻璃门"
+        finish: "拉丝亚光铝 + 哑光黑"
+      mounting: "独立落地式，底部带脚轮"
+      signature_detail: "左右双柱上下分层材质切换：上层拉丝铝对应散热区，下层黑色对应计算/存储区，材质即功能分区"
+    design_level:
+      score: 4
+      reason: "材质分区直接映射功能分区，拉丝铝与黑色面板的对比有工业质感，双柱对称构图稳重；在服务器/边缘计算品类中设计语言罕见且具辨识度"
+    design_tags: ["落地机柜", "拉丝铝", "双柱对称", "材质分区", "边缘计算", "工业风", "黑银对比"]
+    hero_feature: "拉丝铝上部散热区与黑色下部计算区的材质硬切换，让机柜功能分区一目了然"
+    problem_solved: "传统机柜全黑色设计导致功能区域不可辨，材质分区将散热结构视觉化，兼顾机房美学与可读性"
+    transferable_technique: "材质硬切换作为功能分区语言可迁移至网络交换机、存储设备、工控机等B端产品；双柱对称比例构图可用于高端家用NAS"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_network_015"
+    source_images:
+      - filename: "56.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/56.jpg"
+        image_role: "context"
+        visual_anchor: "NOKIA壁挂AP挂于混凝土墙面，正视图，纯白方形圆角机身，单颗蓝色LED居中，极简无缝外观"
+      - filename: "57.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/57.jpg"
+        image_role: "hero"
+        visual_anchor: "同款NOKIA AP四分之三斜视图，左侧可见白色圆柱形散热鳍片阵列，底部带白色L形壁挂托架，整机全白无色差"
+    product_name: ""
+    brand_name: "Nokia"
+    brand_confidence: "high"
+    category_path: ["消费电子", "网络设备"]
+    design_language:
+      silhouette: "正方形大圆角平板体，厚度约为边长1/4，近似胖方糖形态"
+      light_opening: "单颗LED居中偏下，极度克制，不开孔不分缝"
+      thermal: "左侧面密集白色圆柱形散热鳍片（约20根），形态独特，与机身同色"
+      cmf:
+        color: "全机纯白，无色差，散热鳍片与机身同色"
+        material: "ABS/PC塑料"
+        finish: "哑光磨砂"
+      mounting: "壁挂式，L形白色托架嵌入机身底部"
+      signature_detail: "白色圆柱形散热鳍片阵列：与方形机身形成圆/方对比，且与机身同色处理使其成为装饰性细节而非工业感暴露"
+    design_level:
+      score: 5
+      reason: "圆柱散热鳍片设计在AP品类高度罕见，将功能结构转化为视觉细节；全白同色+单LED的克制语言使产品可融入住宅/办公空间，设计完成度极高"
+    design_tags: ["壁挂AP", "圆柱散热鳍片", "全白同色", "Nokia", "极简", "单LED", "家用友好", "方圆对比"]
+    hero_feature: "白色圆柱形散热鳍片阵列——将散热结构转化为产品签名细节，同色处理使其兼顾功能与美学"
+    problem_solved: "AP散热结构通常以工业槽缝形式出现，破坏家居感；圆柱鳍片同色处理将热管理变为设计语言"
+    transferable_technique: "圆柱鳍片散热阵列可迁移至路由器/工业网关/NAS等需要被动散热且有家用场景诉求的产品；同色材质统一处理可消除多材质拼接的廉价感"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_network_016"
+    source_images:
+      - filename: "60.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/60.jpg"
+        image_role: "hero"
+        visual_anchor: "Cisco AP斜45度视角，白色方圆形机身，顶部中央压印Cisco波形LOGO，底部单颗绿色LED，右侧可见薄片散热翅片"
+      - filename: "68.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/68.jpg"
+        image_role: "detail"
+        visual_anchor: "同款Cisco AP正俯视图，方圆形轮廓，顶面弧形鼓起，中央压印LOGO，下方单颗极细LED指示点"
+    product_name: ""
+    brand_name: "Cisco"
+    brand_confidence: "high"
+    category_path: ["消费电子", "网络设备"]
+    design_language:
+      silhouette: "正方形圆角平板，正面呈弧形穹顶微鼓，侧面厚度均匀，俯视近似超级椭圆"
+      light_opening: "正面单颗LED（绿色），位置居中偏下，其余面无任何开孔"
+      thermal: "侧面薄片散热翅片，低矮，与机身白色同色"
+      cmf:
+        color: "全机纯白"
+        material: "PC/ABS"
+        finish: "半光泽"
+      mounting: "天花板吸顶式（平整背面）"
+      signature_detail: "正面弧形穹顶曲面 + 中央Cisco波形LOGO压印：穹顶曲面使平板AP产生雕塑感，LOGO与曲面融为一体"
+    design_level:
+      score: 3
+      reason: "整体语言成熟稳健，弧形穹顶是与同类产品区分的有效细节，但整体创新程度有限，属于品类主流高完成度设计"
+    design_tags: ["吸顶AP", "弧形穹顶", "全白", "Cisco", "极简", "单LED", "LOGO压印", "半光泽"]
+    hero_feature: "正面微鼓弧形穹顶——使方形平板AP产生立体雕塑感，避免平板化的廉价观感"
+    problem_solved: "平板AP正面无特征、视觉沉闷；弧形穹顶以最小结构变化引入立体感"
+    transferable_technique: "弧形穹顶处理可迁移至吸顶灯/烟雾报警器/智能门铃等需要天花板安装、追求轻盈感的产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_network_017"
+    source_images:
+      - filename: "74.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/74.jpg"
+        image_role: "hero"
+        visual_anchor: "Huawei吸顶AP俯视图，白色正方形圆角，正面布满4x4共16个方圆形凸起单元构成阵列纹理，LOGO嵌于中间右下单元"
+    product_name: ""
+    brand_name: "Huawei"
+    brand_confidence: "high"
+    category_path: ["消费电子", "网络设备"]
+    design_language:
+      silhouette: "正方形大圆角平板，正面完全平整（纹理在平面内），侧面收薄"
+      light_opening: "无可见指示灯（俯视图未见），LED可能在侧面"
+      thermal: "4x4凸起阵列单元之间的缝隙兼作被动散热通道"
+      cmf:
+        color: "纯白"
+        material: "ABS/PC"
+        finish: "哑光磨砂"
+      mounting: "吸顶式"
+      signature_detail: "4x4方圆形凸起阵列：16个独立子单元构成整体面板，每个单元与整机轮廓共形（方+圆角），LOGO融入阵列中不突出"
+    design_level:
+      score: 4
+      reason: "阵列纹理将AP正面变为强辨识度视觉图案，且散热、美观、品牌感三重功能合一；在AP品类中构成明显差异化，完成度高"
+    design_tags: ["吸顶AP", "阵列纹理", "方圆单元", "Huawei", "白色", "参数化纹理", "散热即装饰"]
+    hero_feature: "4x4方圆形凸起阵列面板——将散热结构参数化为品牌视觉图案，使AP正面具有强辨识度"
+    problem_solved: "AP正面通常为无特征白板，缺乏识别感；阵列纹理在不增加制造复杂度的前提下实现强视觉差异化"
+    transferable_technique: "参数化阵列纹理作为散热+装饰双用途语言可迁移至NAS/路由器/工控机等设备正面板；阵列单元内嵌LOGO的方式可用于需要低调品牌存在感的B端产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_network_018"
+    source_images:
+      - filename: "77.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/77.jpg"
+        image_role: "hero"
+        visual_anchor: "Nokia竖向椭圆柱形家用网关，白色主体+顶部和底部黑色散热栅格带，顶部开椭圆形大开口，侧面4颗竖向排列LED，底部NOKIA字样"
+    product_name: ""
+    brand_name: "Nokia"
+    brand_confidence: "high"
+    category_path: ["消费电子", "网络设备"]
+    design_language:
+      silhouette: "竖向椭圆扁柱体（类似被压扁的圆柱），顶部椭圆大开口，正面平整两侧弧形收拢"
+      light_opening: "侧面4颗竖向LED指示灯，位置集中，不分散"
+      thermal: "顶部椭圆开口+顶环黑色栅格（进/出风口）；底部黑色栅格带（进风）；上下贯通气流设计"
+      cmf:
+        color: "白色主体 + 顶底黑色散热栅格"
+        material: "ABS塑料"
+        finish: "哑光磨砂"
+      mounting: "桌面立式"
+      signature_detail: "顶部大椭圆开口：突破传统路由器封闭顶面惯例，将内部散热结构视觉化为产品开口特征，形成强烈的造型记忆点"
+    design_level:
+      score: 5
+      reason: "椭圆开口顶面在家用网关品类极具辨识度，将散热功能转化为造型突破，上下黑色栅格带与白色主体的三段式比例处理克制优雅，Nokia品牌气质强烈"
+    design_tags: ["家用网关", "椭圆柱", "顶部开口", "三段式配色", "Nokia", "竖向LED", "散热即造型", "桌面立式"]
+    hero_feature: "顶部椭圆大开口——将散热结构转化为产品最强造型记忆点，使封闭电子产品产生呼吸感"
+    problem_solved: "家用路由器/网关外观同质化严重，顶部开口打破封闭体量惯例，同时解决热量积聚问题"
+    transferable_technique: "顶部开口散热造型化手法可迁移至NAS/家用服务器/智能音箱等竖向体量产品；三段式黑白黑配色节奏可用于需要顶底功能区与中部主体区分的任何竖向电子产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "medium"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_network_019"
+    source_images:
+      - filename: "82.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/82.jpg"
+        image_role: "hero"
+        visual_anchor: "Huawei室内AP两视图：左侧带金属散热翅片模块（灰色），正面白色方圆形机身+CPRI 3GPP标签+红色单颗LED；右侧同款无散热模块版本"
+      - filename: "83.jpg"
+        source_path: "/c/Users/13968/Desktop/设计素材库/01_品类标杆库/消费电子/if_award/网络设备/83.jpg"
+        image_role: "detail"
+        visual_anchor: "同款AP侧视角特写，左侧散热鳍片模块清晰可见：约20片水平密集铝鳍片，银灰色，与白色机身形成强烈材质对比"
+    product_name: ""
+    brand_name: "Huawei"
+    brand_confidence: "high"
+    category_path: ["消费电子", "网络设备"]
+    design_language:
+      silhouette: "正方形大圆角平板主体，侧面附加可拆卸散热鳍片模块，主体与散热模块形成T形截面"
+      light_opening: "正面单颗LED（红色），位置居中偏下；CPRI 3GPP标签嵌入正面"
+      thermal: "侧挂可拆卸铝鳍片散热模块（约20片水平密集排列），主体与模块通过卡扣结构连接"
+      cmf:
+        color: "白色主体 + 银灰色铝散热模块"
+        material: "白色ABS主体 + 铝合金散热模块"
+        finish: "主体哑光磨砂 + 散热模块拉丝铝"
+      mounting: "壁挂式/吸顶式"
+      signature_detail: "可拆卸铝鳍片散热模块：允许同款AP根据部署场景（高热/低热环境）选择是否附加散热模块，一机两态"
+    design_level:
+      score: 4
+      reason: "模块化散热设计使同款产品适配不同散热需求场景，铝鳍片的材质与白色主体形成强对比，产品线逻辑清晰；在企业AP品类中属于有实际工程意义的设计创新"
+    design_tags: ["壁挂AP", "模块化散热", "可拆卸鳍片", "Huawei", "铝+白双材质", "CPRI", "企业级", "一机两态"]
+    hero_feature: "侧挂可拆卸铝鳍片散热模块——同款机身通过附加/去除散热模块适配不同散热需求，模块本身成为产品配置的视觉标识"
+    problem_solved: "企业AP需同时覆盖普通办公区与高负荷机房场景，模块化散热避免为所有产品增加散热成本，按需配置"
+    transferable_technique: "可拆卸功能模块化思路可迁移至工业网关/边缘计算盒子/工控机等需覆盖多部署场景的产品；铝散热模块作为性能档次的视觉标识逻辑可用于产品线差异化设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

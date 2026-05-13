@@ -1,0 +1,175 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "灯具"
+  secondary: "台灯"
+  tertiary: ""
+source:
+  source_type: "if_design_award"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/"
+  generated_at: "2026-05-09"
+# 子类：充电台灯(35)、创意台灯(63)、学习台灯(48)、智能台灯(22)、氛围台灯(23)，共191张
+
+products:
+  - product_id: "if_灯具_台灯_创意_001"
+    source_images:
+      - filename: "创意台灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/创意台灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "天然枫木圆盘台灯，直径约220mm，正面车削出圆形凹碗，暖白LED光从碗底内部向上漫射，木纹理清晰可见，配套同款木质圆形时钟"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "台灯", "创意台灯"]
+    design_language:
+      silhouette: "实木圆盘，厚约60-80mm，正面车削同心圆形碗状凹槽，背面有弧形小支脚撑起，整体如一枚竖立的木质纪念章"
+      light_opening: "圆形碗口朝向侧面（非朝上），漫射暖光从碗内向前散出，形成均匀圆形光晕"
+      thermal: "低功率LED集成于碗底，热量经木质基体缓慢散逸（木材低导热，适合低功率）"
+      cmf:
+        color: "天然枫木原色（浅金黄色）"
+        material: "实木（枫木）车削"
+        finish: "木蜡油/哑光清漆，保留天然木纹"
+      mounting: "桌面放置，背面弧形支脚，触控或拨动开关"
+      signature_detail: "圆盘朝侧面的发光方向：圆盘不是平放发光，而是竖立后从碗口向侧前方散光，使台灯的发光角度超越了传统向下照射的逻辑"
+    design_level:
+      score: 4
+      reason: "木车削圆碗的形态朴素而有力，实木材料的温度感和车削工艺的精度感形成了有说服力的设计语言；与配套时钟形成系列感，表达了对圆形几何语言的一致执行"
+    design_tags:
+      - "实木车削"
+      - "圆碗漫射"
+      - "天然材料"
+      - "竖立圆盘"
+      - "H10材料表达"
+      - "H07极简整合"
+    hero_feature: "竖立木圆盘+车削圆碗内发光：一块圆形实木通过车削出凹碗并竖立，光从碗内向侧前方散出，将木材的温度感与圆形几何的纯粹性统一在一个形态中"
+    problem_solved: "创意台灯需要在家居中成为兼具功能性和装饰性的物件；天然木材+极简圆碗形态解决了'照明产品如何在桌面上具有工艺品价值'的问题"
+    transferable_technique: "实木车削的凹碗/球形/圆槽形态可迁移到任何需要将天然材料与光源整合的产品；竖立圆盘的形态语言可用于时钟/音响/台灯等桌面产品的系列化设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_台灯_充电_001"
+    source_images:
+      - filename: "充电台灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/充电台灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "深棕大理石圆柱底座台灯，底座直径约100mm高约100mm，顶部承托白色竖向条纹磨砂玻璃扁球罩，底座侧面有圆形黄铜触控按钮，整体无线充电设计"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "台灯", "充电台灯"]
+    design_language:
+      silhouette: "圆柱大理石底座（厚重稳定）承托扁球形白色玻璃罩，高宽比约1.8:1，上轻下重"
+      light_opening: "扁球形磨砂玻璃罩，360°侧面漫射暖白光"
+      thermal: "LED集成于底座顶部，热量经大理石底座散逸（大理石导热性良好）"
+      cmf:
+        color: "深棕红大理石（底座）+ 白色条纹玻璃（罩）+ 黄铜（按钮）"
+        material: "天然大理石 + 竖向条纹吹制玻璃 + 黄铜触控件"
+        finish: "抛光大理石 + 半透明磨砂玻璃 + 磨砂黄铜"
+      mounting: "桌面放置，USB-C充电口隐于底座，触控调光"
+      signature_detail: "竖向条纹玻璃罩：磨砂玻璃球罩上的垂直纹理在发光时形成柔和的竖向光带，是纯圆玻璃罩之外的精细纹理处理，增加了玻璃的工艺感"
+    design_level:
+      score: 5
+      reason: "三种天然/精工材料（大理石/条纹玻璃/黄铜）的组合代表了当代充电台灯的最高审美标准；材料组合的逻辑性完整——大理石的厚重稳定+玻璃的通透发光+黄铜的精工细节，每种材料都有不可替代的作用"
+    design_tags:
+      - "大理石底座"
+      - "条纹玻璃罩"
+      - "无线充电"
+      - "黄铜触控"
+      - "三材混搭"
+      - "H10材料表达"
+    hero_feature: "大理石+条纹玻璃+黄铜三材组合：三种天然/精工材料在同一台灯上形成完整的工艺叙事，大理石承重、玻璃发光、黄铜精细，层次分明且彼此服务"
+    problem_solved: "无线充电台灯市场以塑料/铝合金为主，缺乏工艺感；天然大理石底座+吹制条纹玻璃的组合将功能性充电台灯升级为精工生活配件"
+    transferable_technique: "大理石底座承重+玻璃发光体+金属精细件的三材金字塔组合策略适用于任何台面产品的高端化设计；竖向条纹磨砂玻璃的纹理处理可迁移到任何玻璃漫射体产品"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_台灯_学习_001"
+    source_images:
+      - filename: "学习台灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/学习台灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "五边形漫射灯板台灯：金色金属弧形臂从底座弯曲上升，顶端承托倒五边形/飞镖形半透明磨砂灯板，暖光从灯板内侧漫出，整体形似展翅"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "台灯", "学习台灯"]
+    design_language:
+      silhouette: "S形弯曲支臂从底座升起，顶端承托横向扁平的五边形/倒梯形漫射灯板，整体轮廓如展翅的鸟或向一侧飞出的飞镖"
+      light_opening: "五边形漫射灯板，底面和前侧面均匀出光，提供宽广照射面积"
+      thermal: "LED均匀分布于五边形灯板内，热量经金属臂导出散逸"
+      cmf:
+        color: "金色/香槟色金属臂 + 白色漫射灯板"
+        material: "金属弯臂 + 漫射亚克力/玻璃灯板"
+        finish: "金色拉丝/镀金处理 + 均匀哑白漫射面"
+      mounting: "桌面底座，固定角度，底座花形/星形"
+      signature_detail: "五边形漫射板：打破台灯灯罩的圆形/矩形惯例，用五边形定义灯板，使台灯侧影呈现独特的几何轮廓"
+    design_level:
+      score: 4
+      reason: "S形弯臂+五边形灯板的组合创造了强烈的方向性动态感；金色金属臂与白色漫射板的材料对比简洁有效；星形底座与五边形灯板在多边形几何语言上形成系统一致性"
+    design_tags:
+      - "异形漫射灯板"
+      - "S形弯臂"
+      - "五边形灯板"
+      - "金色金属臂"
+      - "H04参数化"
+      - "H08对比强调"
+    hero_feature: "S弯臂+五边形漫射板：弯曲金属臂赋予台灯动态姿态，五边形灯板打破圆形/方形惯例，使台灯在侧影上有独特的几何剪影识别性"
+    problem_solved: "学习台灯需要大面积均匀照明同时在家居环境中有装饰价值；五边形宽幅灯板提供充足学习照度，S形弯臂+金色材质使其具备装饰摆件感"
+    transferable_technique: "异形（五边形/六边形/扇形）漫射灯板替代传统矩形/圆形灯罩，在台灯中创造独特剪影识别性；S形弯臂的动态姿态语言可迁移到任何台面灯具"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "if_灯具_台灯_氛围_001"
+    source_images:
+      - filename: "氛围台灯/01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/灯具/ifdesign_lighting/台灯/氛围台灯/01.jpg"
+        image_role: "hero"
+        visual_anchor: "两款不同高度的黑色细圆柱台灯，透明玻璃管内有模拟火焰形态的暖黄LED光芒，底部为圆形小底盘，整体极细（直径约20mm）"
+    product_name: ""
+    brand_name: ""
+    brand_confidence: "low"
+    category_path: ["灯具", "台灯", "氛围台灯"]
+    design_language:
+      silhouette: "极细圆柱（直径约20mm），高度约200-350mm（两种），顶部为圆柱透明玻璃管，整体高挑比例如一根细蜡烛"
+      light_opening: "透明圆柱玻璃管全侧面发光，内部LED以火焰形态呈现暖黄色动态光效"
+      thermal: "极低功率，无散热需求"
+      cmf:
+        color: "哑黑底座+支柱 + 透明玻璃管 + 暖黄光效"
+        material: "金属底座 + 硼硅玻璃管"
+        finish: "哑黑金属 + 透明玻璃"
+      mounting: "桌面小圆底盘，无线充电或USB供电"
+      signature_detail: "玻璃管内的火焰光效：透过透明玻璃管可见内部火焰形态LED，点火仪式感十足，关灯时是极简黑色细杆，开灯后成为桌面上的现代蜡烛"
+    design_level:
+      score: 4
+      reason: "将火焰的自然光效以LED方式高度还原，并以现代极简（细黑管）包装；两种高度系列化，在桌面上形成景深层次；整体是'情感照明'品类中的代表案例"
+    design_tags:
+      - "模拟火焰"
+      - "极细圆柱"
+      - "情感照明"
+      - "透明玻璃管"
+      - "蜡烛意象"
+      - "H10材料表达"
+    hero_feature: "极细黑柱+内嵌火焰LED：关灯时是哑黑极简细杆，开灯后玻璃管内呈现动态火焰暖光，重演了蜡烛的点亮仪式感"
+    problem_solved: "现代家居氛围灯需要在电气化光源中保留蜡烛的温暖感和仪式感；透明玻璃管+火焰LED动效以零火灾风险还原了蜡烛的视觉和情感体验"
+    transferable_technique: "在透明管体/玻璃体内以LED再现自然光效（火焰/水波/星空）的'仿生光效'手法可迁移到任何氛围照明产品；极细圆柱多高度系列化的桌面群落布置策略"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "low"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""

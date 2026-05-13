@@ -1,0 +1,36 @@
+# 示例客户品牌语法文件
+# 新客户首次项目时，Step 03 F01 自动生成此文件
+# 后续项目迭代更新
+
+brand_grammar:
+  surface_codes:
+    color_logic: "示例：黄色用于功能分区（电池包、护罩），黑色用于主体结构"
+    material_zones: "示例：握把区橡胶包胶，机身工程塑料，电池包ABS"
+    finish: "示例：主体哑光磨砂，品牌色区域亮面"
+  proportion_codes:
+    volume_distribution: "示例：头部40%、握把30%、电池30%"
+    visual_weight_center: "示例：偏前偏上"
+    line_tension: "示例：硬朗直线为主，转角小圆角过渡"
+  structure_codes:
+    parting_style: "示例：左右对称分件"
+    overmold_style: "示例：握把区TPE包胶"
+    opening_style: "示例：两侧条状散热口"
+    fastener_visibility: "示例：螺丝全部隐藏"
+  semantic_codes:
+    brand_personality: "示例：专业强悍"
+    user_expectation: "示例：耐用可靠"
+    power_source: "示例：体量感+材质对比"
+  forbidden_codes:
+    forbidden_forms: ["示例：过于圆润的消费品曲面"]
+    forbidden_competitors: ["示例：不能靠近Makita的绿色系"]
+    forbidden_semantics: ["示例：不能传递'可爱'或'家用'语义"]
+
+# 品牌红线表
+red_lines:
+  - "示例：不能使用竞品A的标志性45度斜切"
+  - "示例：品牌色不能用于整面装饰"
+
+# 品牌绿灯表
+green_lights:
+  - "示例：可以探索哑光金属质感"
+  - "示例：允许在握把区域使用对比色"

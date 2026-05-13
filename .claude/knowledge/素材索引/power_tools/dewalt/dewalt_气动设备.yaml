@@ -1,0 +1,467 @@
+schema_version: "product_dna_v1"
+category:
+  primary: "电动工具"
+  secondary: "气动设备"
+  tertiary: ""
+
+source:
+  source_type: "brand_official"
+  source_folder: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/"
+  generated_at: "2026-05-08"
+
+products:
+  - product_id: "dewalt_气动设备_001"
+    source_images:
+      - filename: "气动设备__气动棘轮__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__气动棘轮__01.jpg"
+        image_role: "hero"
+        visual_anchor: "气动棘轮扳手，细长铅笔握持形态，中部黄色调速环/标识环，上下均为黑色橡胶，顶端3/8\"棘轮头，底端气管接头"
+    product_name: "DeWalt Pneumatic Ratchet Wrench 3/8\""
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "气动设备"
+      - "气动棘轮"
+    design_language:
+      silhouette: "极细长圆柱铅笔握持形态，直径约40mm，顶端棘轮头，底端气管接口，比手动棘轮细约30%"
+      light_opening: "N/A（气动工具）"
+      thermal: "N/A（气动工具无主动散热结构）"
+      cmf:
+        color: "黑色（橡胶主体上下段）+ 黄色（中部调速区域/品牌标识环）"
+        material: "铝合金主体，橡胶外覆，黄色塑料调速环"
+        finish: "黑色橡胶，哑光黄"
+      mounting: "1/4\" NPT气管接头底部接入，3/8\"方驱动棘轮头"
+      signature_detail: "黄色标识环将黑色机身一分为二，形成三段式节奏，气动棘轮品类内品牌识别极强"
+    design_level:
+      score: 3
+      reason: "细长形态符合气动棘轮的人机需求，黄色分段标识清晰，但整体造型高度商品化"
+    design_tags:
+      - "气动"
+      - "棘轮"
+      - "细长型"
+      - "H03_分件线设计"
+    hero_feature: "黄色环带切割黑色主体，三段视觉节奏"
+    problem_solved: "气动驱动快速拧紧/松开螺栓，比手动棘轮快5-10倍，汽车维修首选"
+    transferable_technique: "颜色环带作为品牌识别的节点，功能区分件线兼品牌装饰"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_气动设备_002"
+    source_images:
+      - filename: "气动设备__气动砂光机__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__气动砂光机__01.jpg"
+        image_role: "hero"
+        visual_anchor: "气动DA砂光机手枪形，黄色机身+黑色握把+黑色圆盖，6\"黑色砂盘，侧面桨形扳机，标签贴纸"
+    product_name: "DeWalt Pneumatic Dual-Action Sander (Pistol Grip, 6\")"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "气动设备"
+      - "气动砂光机"
+    design_language:
+      silhouette: "手枪形侧面轮廓，机头圆形砂盘底盘向前低斜，黑色顶盖圆弧覆盖电机腔，握把垂直向下"
+      light_opening: "N/A（气动工具）"
+      thermal: "N/A（气动工具排气即散热）"
+      cmf:
+        color: "黄色（机身壳体）+ 黑色（机头顶盖/握把/砂盘底盘）"
+        material: "铝合金机身，塑料顶盖，橡胶握把"
+        finish: "哑光黄，哑光黑"
+      mounting: "6\"魔术贴砂盘，气管从握把底端接入"
+      signature_detail: "大圆形黑色顶盖与黄色机身的圆形主题对话，侧面桨形扳机（paddle trigger）是该类工具的标志元素"
+    design_level:
+      score: 3
+      reason: "手枪握持DA砂光机标准造型，黄黑执行标准"
+    design_tags:
+      - "气动"
+      - "DA砂光机"
+      - "手枪握持"
+    hero_feature: "大圆形黑色顶盖覆盖电机，与圆形砂盘形成视觉呼应"
+    problem_solved: "高速随机轨道双动砂光，适合精细木工/汽车漆面处理"
+    transferable_technique: "桨形扳机（paddle trigger）作为气动工具特有的操作形态标志"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_气动设备_003"
+    source_images:
+      - filename: "气动设备__气动砂光机__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__气动砂光机__02.jpg"
+        image_role: "hero"
+        visual_anchor: "气动DA砂光机掌握型，宽扁圆碟形机身，黄色腰带+黑色上下盖，6\"黑色宽砂盘，气管从侧面接入"
+    product_name: "DeWalt Pneumatic Dual-Action Sander (Palm Grip, 6\")"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "气动设备"
+      - "气动砂光机"
+    design_language:
+      silhouette: "圆碟/飞碟形侧面轮廓，整体低矮宽扁，机身高度仅约砂盘直径的50%，掌压操作"
+      light_opening: "N/A（气动工具）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（机身腰部环带）+ 黑色（上下盖/砂盘底盘）"
+        material: "铝合金机身，塑料上下盖"
+        finish: "哑光黄环带，哑光黑盖"
+      mounting: "6\"魔术贴砂盘，气管侧面接入"
+      signature_detail: "腰部黄色环带在圆碟形产品上形成土星环状轮廓，独特视觉"
+    design_level:
+      score: 4
+      reason: "圆碟形低矮轮廓+黄色腰带的土星环视觉是该款DA砂光机中最有设计感的，掌压形态传达直觉操作感"
+    design_tags:
+      - "气动"
+      - "DA砂光机"
+      - "掌压型"
+      - "圆碟形"
+      - "H06_仿生"
+    hero_feature: "黄色腰带环绕圆碟形机身，呈土星环状轮廓，视觉独特"
+    problem_solved: "掌压操作提供更均匀的砂光力，适合大面积平面打磨"
+    transferable_technique: "腰部颜色环带在圆形截面产品上形成视觉焦点，同时作为功能分区"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_气动设备_004"
+    source_images:
+      - filename: "气动设备__气动钻__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__气动钻__01.jpg"
+        image_role: "hero"
+        visual_anchor: "气动钻手枪形，黑色主体+黄色机身板块，3/8\"无匙夹头黑色，DeWalt标识，侧面F/R换向滑块"
+      - filename: "气动设备__气动钻__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__气动钻__02.jpg"
+        image_role: "hero"
+        visual_anchor: "气动螺丝批/冲击起子，同框架无夹头，六角套筒直驱，机身更短，黄色板块+黑色主体"
+    product_name: "DeWalt Pneumatic Drill / Screwdriver"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "气动设备"
+      - "气动钻"
+    design_language:
+      silhouette: "手枪形，机身比电动钻更紧凑，头部无电机鼓包（气动电机细长），整体比例更均衡"
+      light_opening: "N/A（气动工具）"
+      thermal: "机身侧面散热槽条纹"
+      cmf:
+        color: "黑色（主体/握把）+ 黄色（机身中部覆盖板块）"
+        material: "铝合金气动电机，工程塑料壳体"
+        finish: "哑光黑，哑光黄"
+      mounting: "1/4\" NPT气管底端接入，3/8\"夹头或六角直驱"
+      signature_detail: "黄色覆盖板块在黑色主体中间形成Y形或Z形分割线，气动电动工具系列的共同视觉语言"
+    design_level:
+      score: 3
+      reason: "气动工具家族视觉统一，黄黑分割执行一致"
+    design_tags:
+      - "气动"
+      - "气动钻"
+      - "黄黑分割"
+      - "H03_分件线设计"
+    hero_feature: "黄色壳体板块在黑色主体上的分割线，气动工具家族视觉标识"
+    problem_solved: "气动驱动高转速钻孔，无需充电，重量轻于同级电动钻"
+    transferable_technique: "局部覆盖色板作为品牌色的视觉注入方式，不需要全机身涂色"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_气动设备_005"
+    source_images:
+      - filename: "气动设备__综合__01.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__01.jpg"
+        image_role: "hero"
+        visual_anchor: "20V MAX无绳充气泵，黄色矩形砖块主体，正面双LCD显示屏+旋钮+三个控制按钮，两侧黑色圆形保险杠，右侧黑色气管卷收，底部20V电池接口，顶部黑色折叠提手"
+    product_name: "DeWalt 20V MAX Cordless Inflator"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "气动设备"
+      - "无绳充气泵"
+    design_language:
+      silhouette: "方砖形主体，两侧对称的大圆形黑色防撞保险杠形成哑铃型整体轮廓，顶部提手完成框架"
+      light_opening: "N/A（气动设备）"
+      thermal: "N/A"
+      cmf:
+        color: "黄色（主体正面/侧面）+ 黑色（保险杠/提手/控制区）"
+        material: "工程塑料主体，橡胶保险杠"
+        finish: "哑光黄，黑色橡胶"
+      mounting: "20V MAX滑入电池，底部接口；气管右侧可卷收"
+      signature_detail: "两侧超大圆形黑色保险杠是该产品最独特的视觉元素，赋予方砖形产品强烈的工地感"
+    design_level:
+      score: 4
+      reason: "两侧圆形保险杠在充气泵品类中极为罕见，赋予产品强烈的功能防护感；双LCD+旋钮的控制面板整合清晰；20V无绳是该品类的颠覆性创新"
+    design_tags:
+      - "无绳"
+      - "20V MAX"
+      - "圆形保险杠"
+      - "充气泵"
+      - "H02_包覆设计"
+      - "H08_对比强调"
+    hero_feature: "两侧对称大圆形黑色保险杠，将普通充气泵变成工地级设备形态"
+    problem_solved: "无绳充气，工地/路边无需电源快速补胎，20V电池系统通用"
+    transferable_technique: "圆形防撞保险杠作为对称装饰+功能元素，赋予方形产品独特轮廓记忆点"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_气动设备_006"
+    source_images:
+      - filename: "气动设备__综合__02.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__02.jpg"
+        image_role: "hero"
+        visual_anchor: "气动冲击扳手1/2\"小型，黑色主体+黄色板块，紧凑枪形，头部圆形出气口明显，正面DeWalt标识"
+      - filename: "气动设备__综合__13.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__13.jpg"
+        image_role: "hero"
+        visual_anchor: "气动冲击扳手1/2\"中型，黑色主体+黄色板块，比02更大，头部更粗，F/R换向滑块可见"
+      - filename: "气动设备__综合__14.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__14.jpg"
+        image_role: "hero"
+        visual_anchor: "气动冲击扳手1/2\"大型，正面45°角，黑色主体占比更大，黄色收缩至中部腰带"
+    product_name: "DeWalt Pneumatic Impact Wrench 1/2\" (Multiple Sizes)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "气动设备"
+      - "气动冲击扳手"
+    design_language:
+      silhouette: "紧凑枪形，机头为粗圆柱形（含冲击机构），比普通气动钻头部更粗更短，重心偏前"
+      light_opening: "N/A（气动工具）"
+      thermal: "机头后部环形散气孔"
+      cmf:
+        color: "黑色（机头/握把主体）+ 黄色（机身中部覆盖板块）"
+        material: "铸铁/铝合金机头，工程塑料壳体"
+        finish: "哑光黑，哑光黄板块"
+      mounting: "1/4\" NPT气管接头底端；1/2\"方驱动"
+      signature_detail: "机头圆柱形的粗壮比例+黄色覆盖板在黑色背景上形成高对比分割"
+    design_level:
+      score: 3
+      reason: "气动冲击扳手标准视觉语言，黄黑分割与气动钻统一，家族感强"
+    design_tags:
+      - "气动"
+      - "冲击扳手"
+      - "黄黑"
+      - "H03_分件线设计"
+    hero_feature: "粗圆柱机头传达大扭矩，黄色覆盖板品牌识别"
+    problem_solved: "气动冲击力松/紧汽车轮毂螺栓，远超手动扭矩"
+    transferable_technique: "机头粗壮比例作为高扭矩的视觉编码，覆盖板局部色块强化品牌"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_气动设备_007"
+    source_images:
+      - filename: "气动设备__综合__08.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__08.jpg"
+        image_role: "hero"
+        visual_anchor: "便携紧凑型空压机（4.5gal/200PSI），黄色卧式气罐+黑色控制面板（含两表盘+两出气接头），背面轮+前拖把钢管，整体近似行李箱形态"
+    product_name: "DeWalt Portable Compressor 4.5 Gal 200 PSI (D55146)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "气动设备"
+      - "便携空压机"
+    design_language:
+      silhouette: "卧式气罐主体，前端黑色控制面板为竖直矩形，后端两轮，底端折叠钢管拖把，整体如加大型行李箱"
+      light_opening: "N/A（气动设备）"
+      thermal: "顶面黑色压缩机头散热鳍片"
+      cmf:
+        color: "黄色（气罐/框架）+ 黑色（控制面板/顶盖/压缩机）"
+        material: "钢质气罐，铸铁压缩机，工程塑料面板"
+        finish: "黄色粉末喷涂，黑色面板"
+      mounting: "后轮+折叠拖把，移动式；出气接头2个标准NPT"
+      signature_detail: "正面黑色控制面板集成两个表盘+两个接头，功能集中区视觉整洁"
+    design_level:
+      score: 4
+      reason: "行李箱式形态在空压机品类中独特，黄色框架+黑色面板的反差鲜明，200PSI的紧凑体量是同类中少见的"
+    design_tags:
+      - "便携"
+      - "行李箱形态"
+      - "200PSI"
+      - "H01_减法设计"
+    hero_feature: "行李箱式可拖行形态，在空压机中形态最具创意"
+    problem_solved: "高压紧凑便携，200PSI适合气动工具，比低压款更万能"
+    transferable_technique: "行李箱拖行方式移植到工业设备，通俗形态使专业工具亲近化"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_气动设备_008"
+    source_images:
+      - filename: "气动设备__综合__05.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__05.jpg"
+        image_role: "hero"
+        visual_anchor: "立式轮式空压机30gal，全黄气罐大圆筒+顶部黑色压缩机，两个大黑充气轮，DeWalt大字Logo居中"
+      - filename: "气动设备__综合__07.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__07.jpg"
+        image_role: "hero"
+        visual_anchor: "卧式轮式空压机20gal，黄色卧式椭圆气罐+黑色压缩机，一大一小双轮，黄色钢管推手"
+      - filename: "气动设备__综合__09.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__09.jpg"
+        image_role: "hero"
+        visual_anchor: "立式轮式空压机25gal，全黄气罐+黑色双缸泵，两大充气轮+黄色提手框架，Made in USA贴标"
+      - filename: "气动设备__综合__10.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__10.jpg"
+        image_role: "hero"
+        visual_anchor: "立式轮式空压机25gal另款，黄色气罐+黑色复合泵，双大轮，整体与09同系列不同配置"
+    product_name: "DeWalt Portable Wheeled Air Compressor (20-30 Gal)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "气动设备"
+      - "移动空压机"
+    design_language:
+      silhouette: "大圆柱（立式）或横卧椭圆（卧式）气罐为主体，底部两大充气轮，顶部黑色压缩机头，整体体量关系：大黄罐+小黑机"
+      light_opening: "N/A（气动设备）"
+      thermal: "压缩机头散热鳍片裸露"
+      cmf:
+        color: "黄色（气罐/框架）+ 黑色（压缩机/电机/轮胎）"
+        material: "钢质气罐，铸铁压缩机，充气轮胎"
+        finish: "黄色粉末喷涂气罐，黑色机械件"
+      mounting: "两轮移动+推手框架，工地间移动"
+      signature_detail: "超大DeWalt字体在圆柱气罐上作为主视觉，黄色罐体几乎就是品牌本身"
+    design_level:
+      score: 3
+      reason: "全黄气罐+大字Logo的品牌表达强烈，但设计层面属于功能主义无亮点"
+    design_tags:
+      - "移动空压机"
+      - "轮式"
+      - "大字Logo"
+    hero_feature: "全黄圆柱罐体+大字DeWalt，品牌色覆盖最大化"
+    problem_solved: "工地移动供气，大容量减少压缩机启动频率"
+    transferable_technique: "产品主体面作为品牌字体的超大显示面，Logo即设计"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_气动设备_009"
+    source_images:
+      - filename: "气动设备__综合__03.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__03.jpg"
+        image_role: "hero"
+        visual_anchor: "固定立式大型空压机60gal，全黄高圆柱气罐落地，顶部黑色双缸泵+钢丝网防护罩+灰色感应电机，底部黄色四脚固定座"
+      - filename: "气动设备__综合__11.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__11.jpg"
+        image_role: "hero"
+        visual_anchor: "固定立式大型空压机80gal，比03更高更粗，双缸泵外露，铜色管路清晰可见，黄色大圆柱罐体"
+    product_name: "DeWalt Stationary Vertical Air Compressor (60-80 Gal)"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "气动设备"
+      - "固定空压机"
+    design_language:
+      silhouette: "高圆柱气罐（高度约1.5-2m）为主体，上部黑色泵头和钢丝防护罩，整体呈火箭形"
+      light_opening: "N/A（气动设备）"
+      thermal: "泵头散热鳍片+钢丝网通风"
+      cmf:
+        color: "黄色（气罐主体）+ 黑色（泵头/钢丝网/管路）+ 铜色（铜管线路）"
+        material: "厚钢气罐，铸铁泵，钢丝防护网"
+        finish: "黄色粉末喷涂，黑色机械件，裸铜管"
+      mounting: "固定落地，底部四脚支座"
+      signature_detail: "顶部钢丝网防护罩内可见泵头/飞轮/电机等机械件，'透明'展示工程内容"
+    design_level:
+      score: 3
+      reason: "工业感强，黄色高圆柱体量震撼，钢丝网透明处理真实展示机械"
+    design_tags:
+      - "固定空压机"
+      - "大容量"
+      - "工业级"
+    hero_feature: "2米高黄色圆柱气罐体量，工厂级工业存在感"
+    problem_solved: "车间/工坊级持续供气，大容量减压频率"
+    transferable_technique: "防护网透明展示内部机械，工程外显增加专业可信度"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
+
+  - product_id: "dewalt_气动设备_010"
+    source_images:
+      - filename: "气动设备__综合__04.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__04.jpg"
+        image_role: "hero"
+        visual_anchor: "双缸卧式便携空压机（电动），黄色双并联横卧气罐+黑色泵头+银色感应电机+铜色调压阀组，两端黄色搬运把手"
+      - filename: "气动设备__综合__06.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__06.jpg"
+        image_role: "hero"
+        visual_anchor: "气动发动机驱动双缸卧式空压机，黄色气罐+全黑Honda GX160发动机+黑色双缸泵，后轮+搬运把手"
+      - filename: "气动设备__综合__12.jpg"
+        source_path: "C:/Users/13968/Desktop/设计素材库/01_品类标杆库/电动工具/dewalt/气动设备/气动设备__综合__12.jpg"
+        image_role: "hero"
+        visual_anchor: "大型汽油驱动空压机（Honda GX），黄色超大单卧式气罐+全黑Honda+黑色双缸泵，铜色管路外露，工地重型"
+    product_name: "DeWalt Twin-Tank / Gas-Powered Air Compressor"
+    brand_name: "DeWalt"
+    brand_confidence: "high"
+    category_path:
+      - "电动工具"
+      - "气动设备"
+      - "工地空压机"
+    design_language:
+      silhouette: "双气罐并列卧式（电动款）或单大卧罐（汽油款），上方黑色动力系统（电机/发动机）+泵头，整体呈黄色地基托黑色机械"
+      light_opening: "N/A（气动设备）"
+      thermal: "黑色泵头全裸露散热鳍片，汽油款Honda发动机自带散热风扇"
+      cmf:
+        color: "黄色（气罐/框架）+ 黑色（动力系统/泵）+ 铜色（铜管线路）"
+        material: "厚钢气罐，铸铁泵，Honda/感应电机"
+        finish: "黄色粉末喷涂气罐，黑色机械件，裸铜管"
+      mounting: "移动式：后轮+把手；汽油款可在无电环境使用"
+      signature_detail: "铜色铜管线路暴露在黄黑背景上形成第三种颜色，工业诚实感极强"
+    design_level:
+      score: 3
+      reason: "功能主义工业设计，黄色罐体品牌色延续，铜管外露增加工业质感"
+    design_tags:
+      - "双缸"
+      - "汽油驱动"
+      - "工地重型"
+      - "H09_隐藏工程的反向"
+    hero_feature: "铜色铜管路外露，黄罐+黑机+铜管三色工业质感"
+    problem_solved: "重型工地持续供气，汽油款无需电力，适合偏远施工现场"
+    transferable_technique: "铜管路外露作为工业诚实感的设计语言，管路即装饰"
+    confidence:
+      visual_description: "high"
+      category: "high"
+      brand: "high"
+      product_grouping: "high"
+    needs_human_review: false
+    review_reason: ""
