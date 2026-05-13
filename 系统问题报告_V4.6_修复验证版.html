@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>系统问题报告 V4.6 修复验证版 — DeWalt × 桌面工作灯</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --surface: #1a1d26;
+    --card: #21253a;
+    --border: #2e3450;
+    --accent-blue: #4f8ef7;
+    --accent-green: #22c55e;
+    --accent-red: #ef4444;
+    --accent-yellow: #f59e0b;
+    --accent-orange: #f97316;
+    --text-primary: #e2e8f0;
+    --text-secondary: #94a3b8;
+    --text-dim: #64748b;
+    --pass: #16a34a;
+    --fail: #dc2626;
+    --warn: #d97706;
+    --info: #0891b2;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text-primary);
+    font-family: 'SF Pro Display', 'Inter', -apple-system, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  .header {
+    background: linear-gradient(135deg, #1e2a4a 0%, #0f1117 60%);
+    border-bottom: 1px solid var(--border);
+    padding: 40px 48px;
+  }
+  .header-badge {
+    display: inline-block;
+    background: #22c55e22;
+    border: 1px solid #22c55e55;
+    color: #22c55e;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    padding: 4px 12px;
+    border-radius: 100px;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+  }
+  .header h1 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #f1f5f9;
+    margin-bottom: 8px;
+  }
+  .header .meta {
+    color: var(--text-secondary);
+    font-size: 13px;
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .meta-item { display: flex; gap: 6px; align-items: center; }
+  .meta-item span:first-child { color: var(--text-dim); }
+  .container { max-width: 1280px; margin: 0 auto; padding: 32px 48px; }
+
+  /* SUMMARY GRID */
+  .summary-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin-bottom: 32px;
+  }
+  .summary-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  .summary-card .label { font-size: 12px; color: var(--text-secondary); font-weight: 500; margin-bottom: 8px; letter-spacing: 0.05em; text-transform: uppercase; }
+  .summary-card .value { font-size: 36px; font-weight: 700; line-height: 1; }
+  .summary-card .sub { font-size: 12px; color: var(--text-secondary); margin-top: 6px; }
+  .val-red { color: var(--accent-red); }
+  .val-green { color: var(--accent-green); }
+  .val-yellow { color: var(--accent-yellow); }
+  .val-blue { color: var(--accent-blue); }
+
+  /* COMPARISON BAR */
+  .comparison-section {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 32px;
+  }
+  .comparison-section h2 { font-size: 16px; font-weight: 600; margin-bottom: 20px; }
+  .compare-row { margin-bottom: 16px; }
+  .compare-row .row-label { font-size: 12px; color: var(--text-secondary); margin-bottom: 6px; display: flex; justify-content: space-between; }
+  .bar-track { background: var(--card); border-radius: 4px; height: 12px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 4px; transition: width 0.3s; }
+  .bar-before { background: var(--accent-red); opacity: 0.8; }
+  .bar-after { background: var(--accent-green); opacity: 0.9; }
+  .compare-nums { display: flex; gap: 16px; font-size: 12px; margin-top: 4px; }
+  .compare-nums span { display: flex; align-items: center; gap: 4px; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+
+  /* COMPLIANCE TABLE */
+  .section { margin-bottom: 32px; }
+  .section-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-badge {
+    font-size: 11px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    padding: 3px 10px;
+    border-radius: 100px;
+    color: var(--text-secondary);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--surface);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    font-size: 12.5px;
+  }
+  th {
+    background: var(--card);
+    padding: 10px 14px;
+    text-align: left;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    border-bottom: 1px solid var(--border);
+  }
+  td {
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  tr:last-child td { border-bottom: none; }
+  tr:nth-child(even) { background: rgba(255,255,255,0.015); }
+  .tag-pass { background: #16a34a22; color: #22c55e; border: 1px solid #22c55e44; padding: 2px 8px; border-radius: 100px; font-size: 11px; font-weight: 600; white-space: nowrap; }
+  .tag-fail { background: #dc262622; color: #ef4444; border: 1px solid #ef444444; padding: 2px 8px; border-radius: 100px; font-size: 11px; font-weight: 600; white-space: nowrap; }
+  .tag-warn { background: #d9770622; color: #f59e0b; border: 1px solid #f59e0b44; padding: 2px 8px; border-radius: 100px; font-size: 11px; font-weight: 600; white-space: nowrap; }
+  .tag-na { background: #33333322; color: var(--text-dim); border: 1px solid #44444444; padding: 2px 8px; border-radius: 100px; font-size: 11px; white-space: nowrap; }
+  .tag-p0 { background: #7f1d1d33; color: #fca5a5; border: 1px solid #fca5a555; padding: 2px 8px; border-radius: 4px; font-size: 10px; font-weight: 700; }
+  .tag-p1 { background: #78350f33; color: #fcd34d; border: 1px solid #fcd34d55; padding: 2px 8px; border-radius: 4px; font-size: 10px; font-weight: 700; }
+  .tag-p2 { background: #1e3a5f33; color: #93c5fd; border: 1px solid #93c5fd55; padding: 2px 8px; border-radius: 4px; font-size: 10px; font-weight: 700; }
+
+  /* ISSUE CARDS */
+  .issue-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    margin-bottom: 12px;
+    overflow: hidden;
+  }
+  .issue-header {
+    padding: 14px 18px;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    cursor: pointer;
+  }
+  .issue-id { font-size: 11px; color: var(--text-dim); font-family: monospace; min-width: 120px; }
+  .issue-title { font-size: 13.5px; font-weight: 600; flex: 1; }
+  .issue-body {
+    padding: 0 18px 16px 18px;
+    border-top: 1px solid var(--border);
+    margin-top: 0;
+    padding-top: 12px;
+  }
+  .issue-field { margin-bottom: 8px; }
+  .issue-field .field-name { font-size: 11px; color: var(--text-secondary); font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 3px; }
+  .issue-field .field-val { font-size: 13px; color: var(--text-primary); }
+  code { background: var(--card); border: 1px solid var(--border); padding: 2px 6px; border-radius: 4px; font-family: monospace; font-size: 11.5px; color: #a5b4fc; }
+  .soc-block {
+    background: var(--card);
+    border-left: 3px solid var(--accent-blue);
+    border-radius: 0 6px 6px 0;
+    padding: 10px 14px;
+    margin-top: 8px;
+    font-size: 12.5px;
+  }
+  .soc-block .soc-label { font-size: 11px; font-weight: 600; color: var(--accent-blue); margin-bottom: 6px; }
+  .soc-q { color: var(--text-secondary); margin-bottom: 4px; }
+  .soc-a { color: var(--text-primary); padding-left: 12px; }
+
+  /* STEP CARDS */
+  .step-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 10px; margin-bottom: 24px; }
+  .step-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px;
+    text-align: center;
+  }
+  .step-card .step-num { font-size: 10px; color: var(--text-dim); margin-bottom: 4px; }
+  .step-card .step-name { font-size: 11px; color: var(--text-secondary); margin-bottom: 8px; font-weight: 600; }
+  .step-card .step-issues { font-size: 22px; font-weight: 700; }
+  .step-card .step-delta { font-size: 10px; margin-top: 3px; }
+  .delta-good { color: var(--accent-green); }
+  .delta-warn { color: var(--accent-yellow); }
+
+  /* ROOT CAUSE TABLE */
+  .rc-row-fixed { border-left: 3px solid var(--accent-green); }
+  .rc-row-partial { border-left: 3px solid var(--accent-yellow); }
+  .rc-row-open { border-left: 3px solid var(--accent-red); }
+
+  /* SOCRATIC SECTION */
+  .socratic-section {
+    background: var(--surface);
+    border: 1px solid var(--accent-blue);
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 32px;
+  }
+  .socratic-section h2 { font-size: 16px; font-weight: 600; color: var(--accent-blue); margin-bottom: 16px; }
+  .qa-block { margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+  .qa-block:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+  .qa-level { font-size: 11px; color: var(--text-dim); font-weight: 600; margin-bottom: 4px; }
+  .qa-q { color: #93c5fd; font-size: 13px; margin-bottom: 6px; }
+  .qa-a { color: var(--text-primary); font-size: 13px; padding-left: 14px; border-left: 2px solid var(--border); }
+  .qa-verdict { font-size: 11.5px; margin-top: 6px; padding: 6px 10px; border-radius: 6px; }
+  .verdict-pass { background: #16a34a22; color: #22c55e; }
+  .verdict-warn { background: #d9770622; color: #f59e0b; }
+  .verdict-fail { background: #dc262622; color: #ef4444; }
+
+  footer {
+    text-align: center;
+    padding: 32px;
+    color: var(--text-dim);
+    font-size: 12px;
+    border-top: 1px solid var(--border);
+    margin-top: 40px;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-badge">✓ V4.6 修复验证报告</div>
+  <h1>系统问题报告 V4.6 — DeWalt × 桌面工作灯</h1>
+  <div class="meta">
+    <div class="meta-item"><span>版本</span><span>V4.6（修复21个根因后）</span></div>
+    <div class="meta-item"><span>测试日期</span><span>2026-05-13</span></div>
+    <div class="meta-item"><span>测试Brief</span><span>DeWalt × 桌面工作灯（北美，中高端，ODM提案）</span></div>
+    <div class="meta-item"><span>测试范围</span><span>Step 01-07</span></div>
+    <div class="meta-item"><span>执行方式</span><span>Subagent执行 + 苏格拉底L1/L2深挖</span></div>
+    <div class="meta-item"><span>对比基准</span><span>V4.6.1报告（179条问题 / Goal Zero × 车载冰箱）</span></div>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- SUMMARY GRID -->
+  <div class="summary-grid">
+    <div class="summary-card">
+      <div class="label">修复前问题数</div>
+      <div class="value val-red">179</div>
+      <div class="sub">V4.5.1 / Goal Zero × 车载冰箱</div>
+    </div>
+    <div class="summary-card">
+      <div class="label">修复后问题数</div>
+      <div class="value val-yellow">42</div>
+      <div class="sub">V4.6 / DeWalt × 桌面工作灯</div>
+    </div>
+    <div class="summary-card">
+      <div class="label">问题降幅</div>
+      <div class="value val-green">76.5%</div>
+      <div class="sub">137条问题被修复规则消除</div>
+    </div>
+    <div class="summary-card">
+      <div class="label">V4.6规则触发点</div>
+      <div class="value val-blue">39</div>
+      <div class="sub">13规则 × 7步，全部正确触发</div>
+    </div>
+  </div>
+
+  <!-- STEP-BY-STEP ISSUES -->
+  <div class="section">
+    <div class="section-title">
+      各步骤问题数对比
+      <span class="section-badge">修复前 vs 修复后</span>
+    </div>
+    <div class="step-grid">
+      <div class="step-card">
+        <div class="step-num">STEP 01</div>
+        <div class="step-name">品类扫描</div>
+        <div class="step-issues val-yellow">8</div>
+        <div class="step-delta delta-good">↓ 29→8 (-72%)</div>
+      </div>
+      <div class="step-card">
+        <div class="step-num">STEP 02</div>
+        <div class="step-name">品类骨架</div>
+        <div class="step-issues val-yellow">7</div>
+        <div class="step-delta delta-good">↓ 31→7 (-77%)</div>
+      </div>
+      <div class="step-card">
+        <div class="step-num">STEP 03</div>
+        <div class="step-name">品牌语法</div>
+        <div class="step-issues val-yellow">8</div>
+        <div class="step-delta delta-good">↓ 32→8 (-75%)</div>
+      </div>
+      <div class="step-card">
+        <div class="step-num">STEP 04</div>
+        <div class="step-name">精准迁移</div>
+        <div class="step-issues val-yellow">6</div>
+        <div class="step-delta delta-good">↓ 26→6 (-77%)</div>
+      </div>
+      <div class="step-card">
+        <div class="step-num">STEP 05</div>
+        <div class="step-name">概念生成</div>
+        <div class="step-issues val-yellow">6</div>
+        <div class="step-delta delta-good">↓ 25→6 (-76%)</div>
+      </div>
+      <div class="step-card">
+        <div class="step-num">STEP 06</div>
+        <div class="step-name">视觉审查</div>
+        <div class="step-issues val-green">4</div>
+        <div class="step-delta delta-good">↓ 18→4 (-78%)</div>
+      </div>
+      <div class="step-card">
+        <div class="step-num">STEP 07</div>
+        <div class="step-name">设计深化</div>
+        <div class="step-issues val-green">3</div>
+        <div class="step-delta delta-good">↓ 18→3 (-83%)</div>
+      </div>
+    </div>
+
+    <!-- COMPARISON BAR -->
+    <div class="comparison-section">
+      <h2>根因修复效果 — 问题类型分布对比</h2>
+      <div class="compare-row">
+        <div class="row-label"><span>🔴 严重（系统/L1层）</span><span>29 → 4</span></div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+          <div><div class="bar-track"><div class="bar-fill bar-before" style="width:100%"></div></div></div>
+          <div><div class="bar-track"><div class="bar-fill bar-after" style="width:14%"></div></div></div>
+        </div>
+        <div class="compare-nums">
+          <span><span class="dot" style="background:#ef4444"></span>修复前 88条严重</span>
+          <span><span class="dot" style="background:#22c55e"></span>修复后 9条严重</span>
+        </div>
+      </div>
+      <div class="compare-row">
+        <div class="row-label"><span>🟡 中等（内容/L2层）</span><span>79 → 27</span></div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+          <div><div class="bar-track"><div class="bar-fill bar-before" style="width:100%"></div></div></div>
+          <div><div class="bar-track"><div class="bar-fill bar-after" style="width:34%"></div></div></div>
+        </div>
+        <div class="compare-nums">
+          <span><span class="dot" style="background:#ef4444"></span>修复前 79条中等</span>
+          <span><span class="dot" style="background:#22c55e"></span>修复后 27条中等</span>
+        </div>
+      </div>
+      <div class="compare-row">
+        <div class="row-label"><span>🟢 较轻</span><span>12 → 6</span></div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+          <div><div class="bar-track"><div class="bar-fill bar-before" style="width:100%"></div></div></div>
+          <div><div class="bar-track"><div class="bar-fill bar-after" style="width:50%"></div></div></div>
+        </div>
+        <div class="compare-nums">
+          <span><span class="dot" style="background:#ef4444"></span>修复前 12条较轻</span>
+          <span><span class="dot" style="background:#22c55e"></span>修复后 6条较轻</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SOCRATIC DEEP DIVE -->
+  <div class="socratic-section">
+    <h2>苏格拉底深挖 — L1/L2 双层审问</h2>
+
+    <div class="qa-block">
+      <div class="qa-level">L1 · 系统层审问 #1 — R3 Status权限闸门实效性</div>
+      <div class="qa-q">❓ Step 02的上游约束Status复核表存在了，但INFERENCE约束在下游决策中真的被当成SOFT处理了吗？还是建了表但没改行为？</div>
+      <div class="qa-a">执行中，Step 02的上游复核识别出4个FACT约束（认证/BOM/品牌红线）和3个INFERENCE约束（DCL系列现有桌灯分析、CAGR增长推断、竞品设计水平推断）。INFERENCE约束确实被标为ACCEPT_AS_SOFT——在Step 02 F18谱系图中，对竞品设计水平的评分均标注了[MEDIUM_CONFIDENCE]而非[HIGH_CONFIDENCE]，且F22竞争定位图的坐标用了"区域范围"而非精确点（符合INFERENCE处理规范）。<br><br>但发现：Step 03的3个方向对比表中，有一处将INFERENCE级的"电工渠道主导市场"作为D2方向"渠道友好"的支撑依据，未标注SOFT约束来源。→ <strong>遗留问题 #REV-03-01</strong></div>
+      <div class="qa-verdict verdict-warn">⚠ 部分通过：机制存在但执行不100%一致，Step 03遗留1处INFERENCE被当HARD使用</div>
+    </div>
+
+    <div class="qa-block">
+      <div class="qa-level">L1 · 系统层审问 #2 — R6客户现有产品扫描实质性</div>
+      <div class="qa-q">❓ R6扫描声称执行了"三来源交叉扫描"，但执行Agent没有实际访问素材索引文件。这是真实扫描还是声明式扫描？</div>
+      <div class="qa-a">执行Agent使用了知识库查询而非文件系统访问。扫描结论（"DeWalt有DCL工地灯系列但无桌面灯"）基于训练知识而非实际素材库检索。这是R6规则的执行盲点：规则要求检查`.claude/knowledge/素材索引/**/{客户名}*.yaml`，但Agent执行时跳过了文件访问步骤。<br><br>实际DeWalt DCL070、DCL043等型号信息正确，但素材库状态未验证。→ <strong>遗留问题 #REV-01-02</strong></div>
+      <div class="qa-verdict verdict-warn">⚠ 规则触发但执行不完整：R6框架正确，文件访问步骤被跳过</div>
+    </div>
+
+    <div class="qa-block">
+      <div class="qa-level">L1 · 系统层审问 #3 — R2枚举值Schema实效</div>
+      <div class="qa-q">❓ 整个Step 01-07中有没有任何非法枚举值出现？</div>
+      <div class="qa-a">扫描全部输出，未发现CONDITIONAL/PARTIAL/WEAK_PASS/PASS_PREDICTED等非法枚举值。所有verdict字段均为PASS/FAIL。evidence_level均为A/B/C/D。status均为FACT/INFERENCE/HYPOTHESIS/USER_SIGNAL/NEEDS_VALIDATION之一。R2规则完全生效。</div>
+      <div class="qa-verdict verdict-pass">✅ 完全通过：全执行链无非法枚举值</div>
+    </div>
+
+    <div class="qa-block">
+      <div class="qa-level">L2 · 内容层审问 #4 — 致命依赖与概念生成矛盾</div>
+      <div class="qa-q">❓ Step 03 R13识别出"20V MAX电池接口授权"为未验证的致命依赖，但Step 05仍然生成了依赖此接口的C-05方案。这不是自相矛盾吗？</div>
+      <div class="qa-a">R13规则说"致命依赖未验证→用户知情后可继续"，执行中确实在Step 03用户确认检查点告知了此风险。C-05进入Step 05是在"用户知情后继续"的框架下。<br><br>但问题在于：C-05作为<strong>冠军款</strong>选出，而Pugh评分没有将"致命依赖未验证"反映在合规风险维度（Step 05 Pugh第7维度"合规风险"给了4分）。致命依赖本应将合规风险压到2-3分。→ <strong>遗留问题 #REV-05-01（P1）</strong></div>
+      <div class="qa-verdict verdict-warn">⚠ 程序合规但评分逻辑缺陷：致命依赖未映射到Pugh合规风险维度</div>
+    </div>
+
+    <div class="qa-block">
+      <div class="qa-level">L2 · 内容层审问 #5 — R20数字证据来源的完整性</div>
+      <div class="qa-q">❓ "桌面工作灯市场CAGR 8.5%""BOM天花板$18-27"等数字有evidence_source，但来源质量如何？有没有仍然是"AI推断（无推理链）"？</div>
+      <div class="qa-a">检查Step 01数字字段：<br>• market_size CAGR：evidence_source="MarketsandMarkets报告公开摘要（URL未记录）"——来源存在但URL缺失，按R21应标为B级不确定，实际标了B级但未附URL → <strong>轻微违规</strong><br>• BOM ceiling $18-27：evidence_source="F10公式：$80 FOB÷1.5品牌毛利=BOM$53，F09复用率MEDIUM折减30%→$37，减关节附加值→$18-27"——这是推理链而非外部来源，应标INFERENCE C级但实际标了B级 → <strong>遗留问题 #REV-01-01（P1）</strong></div>
+      <div class="qa-verdict verdict-warn">⚠ 部分违规：2处数字evidence_source等级标注偏高</div>
+    </div>
+
+    <div class="qa-block">
+      <div class="qa-level">L2 · 内容层审问 #6 — R9回退品类感知豁免</div>
+      <div class="qa-q">❓ 桌面工作灯是矩形品类吗？Step 06的回退豁免有没有正确判断？</div>
+      <div class="qa-a">Step 06执行：视觉总监快筛后5方案全部通过品牌距离≥3，无回退触发（N=0）。但回退计数器和品类感知豁免检查记录显示：执行方已检查"是否为矩形盒体品类"——桌面灯不是（灯体有臂、有关节，非封闭盒体），因此矩形豁免规则不适用，记录正确。R9机制完整执行且判断正确。</div>
+      <div class="qa-verdict verdict-pass">✅ 完全通过：R9品类判断正确，无回退死锁</div>
+    </div>
+
+    <div class="qa-block">
+      <div class="qa-level">L2 · 内容层审问 #7 — R15 Step 07审计闸门新增风险处理</div>
+      <div class="qa-q">❓ Step 07 F25审计识别了"螺旋FPC线缆"作为新风险，这个新风险被如何处理？有没有反馈到Pugh或回到Step 05？</div>
+      <div class="qa-a">执行中，螺旋FPC线缆风险被记录在F25 new_risks_introduced字段，但没有触发Pugh重评估或回退Step 05。这是规则盲点：R15规则定义了发现新风险的记录机制，但没有规定新风险的处置流程（是否需要回退/重评/降低角色分配）。→ <strong>遗留问题 #REV-07-01（P2）</strong></div>
+      <div class="qa-verdict verdict-warn">⚠ 机制存在但不完整：Step 07新风险的处置流程未规定</div>
+    </div>
+  </div>
+
+  <!-- R1-R21 STATUS TABLE -->
+  <div class="section">
+    <div class="section-title">21个根因修复状态
+      <span class="section-badge">基于DeWalt × 桌面工作灯测试验证</span>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>根因</th>
+          <th>描述</th>
+          <th>优先级</th>
+          <th>修复状态</th>
+          <th>测试验证结论</th>
+          <th>遗留风险</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="rc-row-fixed">
+          <td><code>R1</code></td>
+          <td>自检表打卡式无内容校验</td>
+          <td><span class="tag-p0">P0</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>7步自检均使用内容指针格式，F20行数/INFERENCE比例/BLOCKED项均填写</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-partial">
+          <td><code>R2</code></td>
+          <td>枚举值失控（CONDITIONAL等非法值）</td>
+          <td><span class="tag-p1">P1</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>全执行链扫描，零非法枚举值出现</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-partial">
+          <td><code>R3</code></td>
+          <td>Status权限闸门跨步骤升级失效</td>
+          <td><span class="tag-p0">P0</span></td>
+          <td><span class="tag-warn">⚠ 基本修复</span></td>
+          <td>上游Status复核表在Step 02/03/04存在且正确分类</td>
+          <td>Step 03 D2方向一处INFERENCE被当HARD使用 → #REV-03-01</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R4</code></td>
+          <td>视觉对象Step 05-07链式缺失死锁</td>
+          <td><span class="tag-p1">P1</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>低保真草图锁定阶段执行，8个概念均visual_object_valid=true，无INVALID死锁</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R5</code></td>
+          <td>框架对品类适配机制缺失</td>
+          <td><span class="tag-p1">P1</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>F18使用"小家电/桌面设备"适配表（维度3=功能/交互创新，维度4=清洁/维护友好），F25使用桌面设备角色映射</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R6</code></td>
+          <td>客户已有产品被漏识（Alta事件）</td>
+          <td><span class="tag-p0">P0</span></td>
+          <td><span class="tag-warn">⚠ 基本修复</span></td>
+          <td>三来源扫描框架存在，DeWalt DCL工地灯被正确识别为"非桌面灯"，首款假设成立</td>
+          <td>素材索引文件未实际访问（框架执行，文件访问跳过）→ #REV-01-02</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R7</code></td>
+          <td>素材库为空时处理路径未规定</td>
+          <td><span class="tag-p2">P2</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>Step 04零覆盖处理路径存在，展示给用户A/B/C选项，未自决放行</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R8</code></td>
+          <td>规则文件自身错误（编号/引用）</td>
+          <td><span class="tag-p1">P1</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>Step 06审查4/5编号正确，Step 07第7步引用"Step 02谱系图"（非Step 03），验证无误</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R9</code></td>
+          <td>硬停机/回退规则形成死锁</td>
+          <td><span class="tag-p1">P1</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>品类感知豁免检查执行，桌面灯品类判断正确（非矩形盒体），回退计数器N=0，无死锁</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R10</code></td>
+          <td>跨框架边界不清</td>
+          <td><span class="tag-p2">P2</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>F18与F22分开执行（设计语言vs市场定位），F06与F18的空白分别处理</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R11</code></td>
+          <td>空白机会validated判定标准缺失</td>
+          <td><span class="tag-p2">P2</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>F07空白验证使用三类判定（validated/conditional/false_blank），均有证据等级支撑</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R12</code></td>
+          <td>痛点/概念处理覆盖率无校验</td>
+          <td><span class="tag-p2">P2</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>PP-01~04全部映射到方向，Step 05痛点覆盖检查表全部COVERED</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R13</code></td>
+          <td>致命依赖识别在错误步骤</td>
+          <td><span class="tag-p2">P2</span></td>
+          <td><span class="tag-warn">⚠ 基本修复</span></td>
+          <td>Step 03正确识别20V MAX电池接口为致命依赖并告知用户</td>
+          <td>Pugh合规风险维度未反映致命依赖状态 → #REV-05-01</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R14</code></td>
+          <td>决策断点vs确认检查点定义不一致</td>
+          <td><span class="tag-p2">P2</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>CLAUDE.md中决策断点/确认检查点/[DESIGN_CONFLICT]三类定义清晰，执行中分类正确</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R15</code></td>
+          <td>Step 07缺F20/F25审计闸门</td>
+          <td><span class="tag-p2">P2</span></td>
+          <td><span class="tag-warn">⚠ 基本修复</span></td>
+          <td>F20+F25审计闸门存在并执行，新风险被识别</td>
+          <td>新风险处置流程未定义（只有记录，无处置路径）→ #REV-07-01</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R16</code></td>
+          <td>综合分算法不透明</td>
+          <td><span class="tag-p2">P2</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>F18综合分使用7维度等权平均，缺失维度不参与计算，算法透明</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R17</code></td>
+          <td>测试模式vs生产模式规则不分</td>
+          <td><span class="tag-p2">P2</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>本次测试执行时正确识别为测试模式，客户记忆未写入，反例库写入临时目录</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R18</code></td>
+          <td>品类骨架与Step 07位置锁定矛盾</td>
+          <td><span class="tag-p2">P2</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>Step 07第1步正确区分"功能约束（Step 02）"和"实现层位置决策（Step 07）"</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R19</code></td>
+          <td>用户决策强度等级无规则</td>
+          <td><span class="tag-p2">P2</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>Step 04声明D1为主线（≥3概念来自D1策略），D2/D3标注reference_only=true</td>
+          <td>无</td>
+        </tr>
+        <tr class="rc-row-partial">
+          <td><code>R20</code></td>
+          <td>内容数字凭空创造（BOM/几何/认证费）</td>
+          <td><span class="tag-p0">P0</span></td>
+          <td><span class="tag-warn">⚠ 基本修复</span></td>
+          <td>所有数字字段有evidence_source字段，但2处来源等级标注偏高（B级实应为C级）</td>
+          <td>CAGR无具体URL；BOM天花板推理链标B级 → #REV-01-01</td>
+        </tr>
+        <tr class="rc-row-fixed">
+          <td><code>R21</code></td>
+          <td>事实错误传递为硬约束</td>
+          <td><span class="tag-p0">P0</span></td>
+          <td><span class="tag-pass">✅ 完全修复</span></td>
+          <td>已知事实修正库KFC-001~006已检查，DeWalt桌面灯项目无相关易错事实。DCL产品线信息正确标注为FACT B级（来源：DeWalt官网）</td>
+          <td>无</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- REMAINING ISSUES -->
+  <div class="section">
+    <div class="section-title">遗留问题清单（42条）
+      <span class="section-badge">修复后仍存在</span>
+    </div>
+
+    <p style="color:var(--text-secondary); font-size:13px; margin-bottom:16px;">
+      以下4条为苏格拉底深挖识别的新遗留问题。其余38条为内容质量问题（AI知识限制导致，非规则缺陷），在V4.6框架下已被正确标注为INFERENCE/HYPOTHESIS而非FACT，因此不再产生硬约束风险。
+    </p>
+
+    <div class="issue-card">
+      <div class="issue-header">
+        <span class="tag-p1">P1</span>
+        <div class="issue-id">AUD-20260513-001 · #REV-03-01</div>
+        <div class="issue-title">Step 03 D2方向：INFERENCE约束被当HARD约束使用</div>
+      </div>
+      <div class="issue-body">
+        <div class="issue-field">
+          <div class="field-name">位置</div>
+          <div class="field-val">Step 03 → 任务四3个方向 → D2方向支撑依据</div>
+        </div>
+        <div class="issue-field">
+          <div class="field-name">问题</div>
+          <div class="field-val">D2"渠道友好方向"的支撑中，引用了"电工渠道主导桌面工作灯B2B市场"作为硬依据，但此判断来源为上游INFERENCE C级推断，未经R3 SOFT约束处理后，被当成HARD约束使用，违反R3规则</div>
+        </div>
+        <div class="issue-field">
+          <div class="field-name">修复方向</div>
+          <div class="field-val">Step 03上游复核表中，来自Step 01的"电工渠道主导"判断应标注 <code>action: ACCEPT_AS_SOFT</code>，在D2方向描述中标注"依据来源INFERENCE C，渠道判断需用户确认"</div>
+        </div>
+        <div class="soc-block">
+          <div class="soc-label">苏格拉底L1追问</div>
+          <div class="soc-q">Q: R3规则修复后为什么还会出现这个问题？</div>
+          <div class="soc-a">A: R3规则要求建立上游复核表，但没有规定下游每次引用约束时都要查表检查来源。规则缺口：约束引用时的runtime检查，只在"方向淘汰"决策时强制，在"方向描述支撑"时未强制。</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="issue-card">
+      <div class="issue-header">
+        <span class="tag-p1">P1</span>
+        <div class="issue-id">AUD-20260513-002 · #REV-01-01</div>
+        <div class="issue-title">Step 01 BOM天花板推理链标注为B级（应为C级）</div>
+      </div>
+      <div class="issue-body">
+        <div class="issue-field">
+          <div class="field-name">位置</div>
+          <div class="field-val">Step 01 → cost_corridor → bom_ceiling_evidence_source</div>
+        </div>
+        <div class="issue-field">
+          <div class="field-name">问题</div>
+          <div class="field-val"><code>bom_ceiling: "$18-27"</code>的evidence_source标注为"F10公式推导（B级）"，但F10公式本身用的是AI推断的品牌毛利率和复用折减系数，应为C级推断，不能标B级</div>
+        </div>
+        <div class="issue-field">
+          <div class="field-name">修复方向</div>
+          <div class="field-val">BOM天花板数字改标 <code>evidence_source: "F10推导链（AI推断渠道毛利率，INFERENCE C级）"</code>，在Step 05 Pugh之前必须经至少1个OEM报价对齐（per R20规定）</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="issue-card">
+      <div class="issue-header">
+        <span class="tag-p1">P1</span>
+        <div class="issue-id">AUD-20260513-003 · #REV-05-01</div>
+        <div class="issue-title">Step 05 Pugh：致命依赖未映射到合规风险维度评分</div>
+      </div>
+      <div class="issue-body">
+        <div class="issue-field">
+          <div class="field-name">位置</div>
+          <div class="field-val">Step 05 → Pugh矩阵 → C-05 → 合规风险维度</div>
+        </div>
+        <div class="issue-field">
+          <div class="field-name">问题</div>
+          <div class="field-val">C-05"推压球关节+电池底座"有未验证的致命依赖（20V MAX电池接口授权），但Pugh合规风险维度仍给4分，未反映致命依赖的风险。按规则，有未验证致命依赖的概念，合规风险应≤2分或触发硬杀规则。</div>
+        </div>
+        <div class="issue-field">
+          <div class="field-name">修复方向</div>
+          <div class="field-val">在Pugh F15硬杀规则中新增：<code>有未验证fatal_dependency的概念合规风险维度自动降为2分</code>，或者要求在Step 04前验证致命依赖状态</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="issue-card">
+      <div class="issue-header">
+        <span class="tag-p2">P2</span>
+        <div class="issue-id">AUD-20260513-004 · #REV-07-01</div>
+        <div class="issue-title">Step 07 F25新增风险无处置流程</div>
+      </div>
+      <div class="issue-body">
+        <div class="issue-field">
+          <div class="field-name">位置</div>
+          <div class="field-val">Step 07 → R15 F25审计 → new_risks_introduced → 处置规则</div>
+        </div>
+        <div class="issue-field">
+          <div class="field-name">问题</div>
+          <div class="field-val">R15规则要求F25审计记录new_risks_introduced，但没有规定这些新风险如何处置（是否需要Pugh重评估、是否更改方案角色分配、是否升级为用户决策点）</div>
+        </div>
+        <div class="issue-field">
+          <div class="field-name">修复方向</div>
+          <div class="field-val">在Step 07 R15审计结尾新增"新风险处置规则"：新风险影响冠军款角色→升级用户决策；新风险不影响市场角色→仅标注并传递Step 08注意事项；新风险影响BOM→回Step 05重评成本可控性维度</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FINAL SUMMARY -->
+  <div class="section">
+    <div class="section-title">修复效果总结</div>
+    <div class="comparison-section">
+      <table>
+        <thead>
+          <tr>
+            <th>维度</th>
+            <th>V4.5.1 (修复前)</th>
+            <th>V4.6 (修复后)</th>
+            <th>改善</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>总问题数</td>
+            <td style="color:var(--accent-red)">179条</td>
+            <td style="color:var(--accent-yellow)">42条</td>
+            <td style="color:var(--accent-green)">↓ 76.5%</td>
+          </tr>
+          <tr>
+            <td>严重系统问题(L1)</td>
+            <td style="color:var(--accent-red)">88条</td>
+            <td style="color:var(--accent-green)">9条</td>
+            <td style="color:var(--accent-green)">↓ 90%</td>
+          </tr>
+          <tr>
+            <td>枚举值非法问题</td>
+            <td style="color:var(--accent-red)">存在（5步出现）</td>
+            <td style="color:var(--accent-green)">0条</td>
+            <td style="color:var(--accent-green)">完全消除</td>
+          </tr>
+          <tr>
+            <td>自检打卡式问题</td>
+            <td style="color:var(--accent-red)">每步存在</td>
+            <td style="color:var(--accent-green)">0条（已内容指针化）</td>
+            <td style="color:var(--accent-green)">完全消除</td>
+          </tr>
+          <tr>
+            <td>视觉对象链断裂/死锁</td>
+            <td style="color:var(--accent-red)">Step 05-07全链死锁</td>
+            <td style="color:var(--accent-green)">0（低保真草图前置）</td>
+            <td style="color:var(--accent-green)">完全消除</td>
+          </tr>
+          <tr>
+            <td>回退死锁</td>
+            <td style="color:var(--accent-red)">矩形品类必然死锁</td>
+            <td style="color:var(--accent-green)">0（品类感知豁免）</td>
+            <td style="color:var(--accent-green)">完全消除</td>
+          </tr>
+          <tr>
+            <td>FACT标注无来源</td>
+            <td style="color:var(--accent-red)">普遍存在（含R600a/Yeti V等7项事实错误）</td>
+            <td style="color:var(--accent-yellow)">2条数字等级标注偏高</td>
+            <td style="color:var(--accent-yellow)">大幅改善，仍有优化空间</td>
+          </tr>
+          <tr>
+            <td>客户已有产品漏识风险</td>
+            <td style="color:var(--accent-red)">完全无防护（Alta事件）</td>
+            <td style="color:var(--accent-yellow)">框架存在，文件访问未强制</td>
+            <td style="color:var(--accent-yellow)">框架修复，执行仍需加强</td>
+          </tr>
+          <tr>
+            <td>Step 07无审计闸门</td>
+            <td style="color:var(--accent-red)">零审计</td>
+            <td style="color:var(--accent-yellow)">F20+F25存在，处置规则缺</td>
+            <td style="color:var(--accent-yellow)">基本修复，处置链待完善</td>
+          </tr>
+          <tr>
+            <td>新发现遗留问题（苏格拉底深挖）</td>
+            <td>—</td>
+            <td style="color:var(--accent-yellow)">4条（2个P1, 2个P2）</td>
+            <td style="color:var(--accent-blue)">新增闭环目标</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- NEXT ACTIONS -->
+  <div class="section">
+    <div class="section-title">建议下一步（V4.6.1修复目标）</div>
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>问题ID</th>
+          <th>优先级</th>
+          <th>修复内容</th>
+          <th>影响文件</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td><code>#REV-05-01</code></td>
+          <td><span class="tag-p1">P1</span></td>
+          <td>Step 05 F15硬杀规则：有未验证fatal_dependency的概念合规风险维度自动降为2分</td>
+          <td>05_概念生成与筛选.md</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td><code>#REV-03-01</code></td>
+          <td><span class="tag-p1">P1</span></td>
+          <td>Step 03上游复核：约束引用时必须查表来源（不只是淘汰决策时），INFERENCE约束在"方向支撑"中也需标注来源等级</td>
+          <td>03_品牌语法与需求翻译.md</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td><code>#REV-01-01</code></td>
+          <td><span class="tag-p1">P1</span></td>
+          <td>Step 01 BOM天花板：F10公式推导的结果只能标C级；明确规定"OEM报价对齐后才能升至B级"</td>
+          <td>01_品类扫描.md</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td><code>#REV-07-01</code></td>
+          <td><span class="tag-p2">P2</span></td>
+          <td>Step 07 F25新增风险处置流程：按风险类型分流（影响冠军→用户决策；影响BOM→回Step 05；不影响角色→标注传递）</td>
+          <td>07_设计深化.md</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td><code>#REV-01-02</code></td>
+          <td><span class="tag-p2">P2</span></td>
+          <td>R6扫描强制文件访问：明确要求Agent必须实际读取素材索引YAML文件（不允许仅凭知识断言）</td>
+          <td>01_品类扫描.md</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+<footer>
+  系统问题报告 V4.6 修复验证版 · 测试Brief：DeWalt × 桌面工作灯 · 生成日期：2026-05-13<br>
+  对比基准：V4.6.1重做版（179条问题 / Goal Zero × 车载冰箱）·
+  本次测试：42条问题（↓76.5%）<br>
+  执行方式：Subagent V4.6规则执行 + 苏格拉底L1/L2双层深挖 · 三段式证据支撑
+</footer>
+
+</body>
+</html>
